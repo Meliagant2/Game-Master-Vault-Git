@@ -1,7 +1,5 @@
 @use "./variables.scss" as *;
 
-@use "./variables.scss" as *;
-
   /* =========================================Game Master Vault========================================= */
      
   /* =========================================
@@ -11,7 +9,7 @@
   /* -----Generische Variablen----- */
 
   body {
-	--file-line-width: 900px; /* Lesebreite anpassen */
+	--file-line-width: 1200px; /* Lesebreite anpassen */
   }
 
   /* -----Farb-Variablen für Light Mode----- */
@@ -56,23 +54,6 @@
 	text-justify: inter-word;	
   }
 
-
-  /* -----Hintergrundfarbe linkes Menü----- */
-
-  .theme-light .nav-files-container {
-	content: "";
-	position: fixed;
-	background-color: var(--custom-background-doc2);
-	background-repeat: no-repeat;
-	background-size: cover;
-	filter: blur(0px) brightness(100%) saturate(100%);
-	left: 0;
-	right: 0;
-	bottom: 0;
-	z-index: 1;
-  }
-
-
   /* -----Hintergrundfarbe Textblock----- */
 
   .markdown-preview-view {
@@ -87,26 +68,10 @@
 	background-size: cover;
 	filter: blur(0px) brightness(100%) saturate(100%);
 	left: 0;
-	top: 41px;
+	top: 0px;
 	right: 0;
 	bottom: 0;
 	z-index: -1;
-  }
-
-
-  /* -----Hintergrundfarbe rechtes Menü----- */
-
-  .theme-light .mod-right-split .view-content {
-	content: "";
-	position: fixed;
-	background-color: var(--custom-background-doc2);
-	background-repeat: no-repeat;
-	background-size: cover;
-	filter: blur(0px) brightness(100%) saturate(100%);
-	left: 0;
-	right: 0;
-	bottom: 0;
-	z-index: 1;
   }
 
   /* -----Fetter/Bold Text Farbe----- */
@@ -127,7 +92,7 @@
   .markdown-preview-view h4,
   .markdown-preview-view h5,
   .markdown-preview-view h6 {
-	color: var(--highlight-primary);
+	color: var(--highlight-primary) !important;
   }
 
   /* Textgrößen, Unterstreichungen und Abstände der Überschriften */
@@ -942,7 +907,6 @@
   , :has(.tabbed.mb-input-type-select > :nth-child(8).is-selected) + .el-div > .callout[data-callout="tabbed-box"] > .callout-content > :nth-child(8) {
 	display: block;
   }
-
 
 
 
