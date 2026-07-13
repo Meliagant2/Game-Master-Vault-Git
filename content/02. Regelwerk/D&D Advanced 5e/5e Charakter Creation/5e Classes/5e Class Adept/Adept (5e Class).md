@@ -1,4 +1,5 @@
 ---
+title: Adept
 tags:
   - "#Classes"
   - "#5e"
