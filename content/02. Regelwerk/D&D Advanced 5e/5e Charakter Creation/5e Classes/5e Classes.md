@@ -1,7 +1,5 @@
 ---
 publish: true
-created: 2026-07-13T15:14:52.126+02:00
-modified: 2026-07-13T17:19:07.340+02:00
 tags:
   - "#Charaktererstellung"
   - "#5e"

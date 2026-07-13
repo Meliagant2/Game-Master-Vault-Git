@@ -1,7 +1,5 @@
 ---
 publish: true
-created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-13T15:30:48.045+02:00
 tags:
   - "#Home"
 ---
@@ -62,6 +60,6 @@ Homescreen für jedes Regelwerk.
 Regelwerke werden immer in der Sprache aufgeführt, in der sie mir am einfachsten zur Verfügung stehen (ergo meistens englisch)
 
 > [!cards|dataview 5]
-> | Bild                                                                                             | Title                                                                                                                                                |
-> | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-> | ![[98. Diverses/Bilder/Regelwerk Bilder/D&D 5e Regelwerk Cover.png|D&D 5e Regelwerk Cover.png]] | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[02. Regelwerk/D&D Advanced 5e/D&D 5e Regelwerk.md|D&D 5e Regelwerk]]</span> |
+> | Bild                                                                                             | Title                                                                                                                                              |
+> | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | ![[98. Diverses/Bilder/Regelwerk Bilder/D&D 5e Regelwerk Cover.png|D&D 5e Regelwerk Cover.png]] | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[02. Regelwerk/D&D Advanced 5e/D&D Advanced 5e.md|D&D Advanced 5e]]</span> |

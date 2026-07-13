@@ -1,7 +1,5 @@
 ---
 publish: true
-created: 2026-07-13T15:46:26.507+02:00
-modified: 2026-07-13T16:12:30.859+02:00
 tags:
   - "#Classes"
   - "#5e"
