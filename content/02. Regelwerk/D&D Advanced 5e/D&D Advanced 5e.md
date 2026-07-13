@@ -1,5 +1,6 @@
 ---
 publish: true
+title: D&D 5e Regelwerk
 tags:
   - "#Regelwerk"
   - "#5e"
@@ -24,8 +25,6 @@ socialImage: 98. Diverses/Bilder/Regelwerk Bilder/D&D 5e Regelwerk Cover.png
 > > | | |
 > > |---|---|
 > > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
-
-# D\&D 5e Regelwerk
 
 > [!info] Anmerkungen
 > Der Großteil dieses Regelwerks ist von mir homebrewed. Ich habe hier die Systeme D\&D 5e 2014, D\&D 5e 2024 und A5e kombiniert. Ziel war größtmögliche Charaktervielfalt, es kann aber sein, dass bestimmte Features entsprechend unbalanced sind.
