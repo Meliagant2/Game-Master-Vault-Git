@@ -2,11 +2,13 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-13T21:04:34.719+02:00
-published: 2026-07-13T21:04:34.719+02:00
+modified: 2026-07-14T13:09:02.962+02:00
+published: 2026-07-14T13:09:02.962+02:00
 tags:
   - "#Home"
 ---
+
+# Home
 
 Einleitende Worte oder so. Erklärung der Vault
 

@@ -4,6 +4,5 @@ views:
     filters:
       and:
         - file.tags.containsAll("#Classes", "#5e")
-        - publish == true
     image: note.image
     imageFit: contain
