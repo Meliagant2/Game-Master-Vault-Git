@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-13T15:14:52.126+02:00
-modified: 2026-07-14T13:11:17.073+02:00
-published: 2026-07-14T13:11:17.073+02:00
+modified: 2026-07-14T13:18:19.103+02:00
+published: 2026-07-14T13:18:19.103+02:00
 tags:
   - "#Charaktererstellung"
   - "#5e"
@@ -30,7 +30,7 @@ status: ⏳
 > > |---|---|
 > > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
 
-DIES IST MIT BASES 5
+DIES IST MIT BASES 6
 
 # 5e Classes
 
@@ -83,7 +83,19 @@ SORT file.name ASC
 
 ### Bases (Kaputt)
 
-![[Base - Alle 5e Klassen.base]]
+```base
+views:
+  - type: cards
+    name: 5e Klassen
+    filters:
+      and:
+        - file.name.contains("5e Class")
+    image: note.image
+    cardSize: 150
+    imageFit: contain
+    imageAspectRatio: 1
+
+```
 
 ## General Character Table
 
