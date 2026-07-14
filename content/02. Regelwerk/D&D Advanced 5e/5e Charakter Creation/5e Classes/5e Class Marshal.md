@@ -1,14 +1,13 @@
 ---
 publish: true
-title: Bard
-created: 2026-07-13T15:46:26.507+02:00
-modified: 2026-07-14T14:59:24.978+02:00
-published: 2026-07-14T14:59:24.978+02:00
+created: 2026-07-14T14:45:04.655+02:00
+modified: 2026-07-14T15:02:42.177+02:00
+published: 2026-07-14T15:02:42.177+02:00
 tags:
   - "#Classes"
   - "#5e"
-socialImage: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Bard 5e.png]]"
-image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Bard 5e.png]]"
+socialImage: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
+image: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
 status: ⏳
 ---
 
@@ -40,12 +39,12 @@ status: ⏳
 > > |**Display Title** | `INPUT[textArea:title]`|
 > > |**Kurzbeschreibung** | `INPUT[textArea:kurzbeschreibung]`|
 
-# Bard
+#
 
 > [!lore] Kurzbeschreibung
 
 > [!bildrechts]
-> ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Bard 5e.png|Regelwerk Klasse Bard 5e.png]]
+> ![[98. Diverses/Bilder/Misc/PlaceholderImage.png|PlaceholderImage.png]]
 
 > [!charakterklasse]+ Core Class Traits
 > |  |   |
@@ -63,13 +62,13 @@ status: ⏳
 
 #### As a Level 1 Character
 
-- Gain all the traits in the Core 5e Class Bard Traits table.
-- Gain the 5e Class Bard’s level 1 features, which are listed in the 5e Class Bard Features table.
+- Gain all the traits in the Core 5e Class Marshal Traits table.
+- Gain the 5e Class Marshal’s level 1 features, which are listed in the 5e Class Marshal Features table.
 
 #### As a Multiclass Character
 
-- Gain the following traits from the Core 5e Class Bard Traits table: Hit Point Die,
-- Gain the 5e Class Bard’s level 1 features, which are listed in the 5e Class Bard Features table. See the multiclassing rules to determine your available spell slots.
+- Gain the following traits from the Core 5e Class Marshal Traits table: Hit Point Die,
+- Gain the 5e Class Marshal’s level 1 features, which are listed in the 5e Class Marshal Features table. See the multiclassing rules to determine your available spell slots.
 
 #### General Character Table
 
@@ -113,11 +112,11 @@ As long as you are not multiclassed, you gain one [[5e Feats|Feat]] of your choi
 
 View "General Character Table" to see if you qualify for a feat at this level.
 
-### Level 3: 5e Class Bard Subclass
+### Level 3: 5e Class Marshal Subclass
 
-You choose one 5e Class Bard Subclass, which represents you best.
+You choose one 5e Class Marshal Subclass, which represents you best.
 
-Your 5e Class Bard Subclass grants you features at 3rd, 6th, 9th, 13th, and again at 17th level.
+Your 5e Class Marshal Subclass grants you features at 3rd, 6th, 9th, 13th, and again at 17th level.
 
 > [!cards|dataview 5]
 > | Bild | Title | K |
@@ -131,9 +130,9 @@ View "General Character Table" to see if you qualify for a feat at this level.
 
 ### Level 5: XXX
 
-### Level 6: 5e Class Bard Subclass
+### Level 6: 5e Class Marshal Subclass
 
-Your 5e Class Bard Subclass grants you features at 3rd, 6th, 9th, 13th, and again at 17th level.
+Your 5e Class Marshal Subclass grants you features at 3rd, 6th, 9th, 13th, and again at 17th level.
 
 ### Level 7: Feat
 
@@ -143,9 +142,9 @@ View "General Character Table" to see if you qualify for a feat at this level.
 
 ### Level 8: XXX
 
-### Level 9: 5e Class Bard Subclass
+### Level 9: 5e Class Marshal Subclass
 
-Your 5e Class Bard Subclass grants you features at 3rd, 6th, 9th, 13th, and again at 17th level.
+Your 5e Class Marshal Subclass grants you features at 3rd, 6th, 9th, 13th, and again at 17th level.
 
 ### Level 10: Feat
 
@@ -161,9 +160,9 @@ As long as you are not multiclassed, you gain one feat of your choice, for which
 
 View "General Character Table" to see if you qualify for a feat at this level.
 
-### Level 13: 5e Class Bard Subclass
+### Level 13: 5e Class Marshal Subclass
 
-Your 5e Class Bard Subclass grants you features at 3rd, 6th, 9th, 13th, and again at 17th level.
+Your 5e Class Marshal Subclass grants you features at 3rd, 6th, 9th, 13th, and again at 17th level.
 
 ### Level 14: Feat
 
@@ -179,9 +178,9 @@ As long as you are not multiclassed, you gain one feat of your choice, for which
 
 View "General Character Table" to see if you qualify for a feat at this level.
 
-### Level 17: 5e Class Bard Subclass
+### Level 17: 5e Class Marshal Subclass
 
-Your 5e Class Bard Subclass grants you features at 3rd, 6th, 9th, 13th, and again at 17th level.
+Your 5e Class Marshal Subclass grants you features at 3rd, 6th, 9th, 13th, and again at 17th level.
 
 ### Level 18: Feat
 

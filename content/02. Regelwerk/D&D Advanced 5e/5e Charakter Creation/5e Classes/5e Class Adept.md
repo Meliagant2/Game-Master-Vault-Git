@@ -2,8 +2,8 @@
 publish: true
 title: Adept
 created: 2026-07-13T15:14:52.119+02:00
-modified: 2026-07-14T14:42:06.953+02:00
-published: 2026-07-14T14:42:06.953+02:00
+modified: 2026-07-14T14:42:39.140+02:00
+published: 2026-07-14T14:42:39.140+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -48,8 +48,6 @@ kurzbeschreibung: A living weapon that hones their control over body and mind, a
 > > | | |
 > > |---|---|
 > > |**Bild 2**|`INPUT[inlineListSuggester(optionQuery("png")):image2]`|
-
-`INPUT[inlineListSuggester(optionQuery(#Kultur AND !"z_Templates"), useLinks(partial)):kultur]` |
 
 # Adept
 
