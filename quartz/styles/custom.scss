@@ -909,6 +909,85 @@
 	display: block;
   }
 
+  /* =========================================
+     Transfer Dataview Tables into Cards
+     ========================================= */
+
+  .dataview.table-view-table :is(td, tr) {
+	border: 0;
+	background: transparent;
+	padding: 0;
+	padding-top: 0px !important;
+	padding-bottom: 0px !important;
+  }
+
+  .dataview.table-view-table {
+	display: grid;
+	margin-block-start: 0;
+	border-bottom: 0px solid var(--highlight-neutral) !important;
+	border-top: 0px solid var(--highlight-neutral) !important;
+  }
+
+  .dataview.table-view-table tbody {
+	gap: unset;
+	grid-template-columns: none;
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-gap: 10px;
+	flex-direction: row;
+	flex-wrap: wrap;
+	flex: 1 1 250px;
+	margin: 5px;
+  }
+  
+  .dataview.table-view-table tbody td {
+	padding-top: 0px !important;
+	padding-bottom: 0px !important;
+  }
+
+  .dataview.table-view-table tbody tr {
+	display: grid;
+	align-content: flex-start;
+	margin: 0;
+	padding: 0px;
+	border: 1px solid var(--outline, var(--background-modifier-box-shadow));
+	box-shadow: var(--shadow-ml, var(--input-shadow));
+	border-radius: 15px !important;
+  }
+
+  .dataview.table-view-table strong {
+	background: transparent;
+  }
+
+  .dataview.table-view-thead tr {
+	display: none !important;
+  }
+
+  .dataview.table-view-table tbody tr:nth-child(even),
+  .dataview.table-view-table tbody tr:nth-child(odd) {
+	background-color: var(--custom-background-neutral2) !important;
+  }
+
+  .dataview.table-view-table img:not(.link-favicon) {
+	width: 100%;
+	object-fit: cover;
+  }
+
+  .dataview.table-view-table img {
+	border-radius: 15px !important;
+  }
+
+  .dataview.table-view-table th,
+  .dataview.table-view-table td {
+	background-color: transparent !important;
+	padding-top: 0px !important;
+	padding-bottom: 0px !important;
+  }
+
+  .dataview.small-text {
+	display: none;
+  }
+
 
 
 
