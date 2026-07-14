@@ -3,8 +3,7 @@ views:
     name: Alle 5e Klassen
     filters:
       and:
-        - file.tags.contains("#Classes")
-        - file.tags.contains("#5e")
-        - file.folder == "02. Regelwerk/D&D Advanced 5e/5e Charakter Creation/5e Classes"
+        - file.tags.containsAll("#Classes", "#5e")
+        - publish == true
     image: note.image
     imageFit: contain
