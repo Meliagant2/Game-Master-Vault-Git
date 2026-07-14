@@ -16,6 +16,7 @@ socialImage: 98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png
 > > | | |
 > > |---|---|
 > > |**Status** | `INPUT[Status][:status]` |
+> > |**Publish**|`INPUT[inlineSelect(option(true), option(false)):publish]`|
 >
 > > [!metadataoption]- Bild
 > >
@@ -31,13 +32,19 @@ socialImage: 98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png
 > >
 > > | | |
 > > |---|---|
+> > |**Display Title** | `INPUT[textArea:title]`|
 > > |**Kurzbeschreibung** | `INPUT[textArea:kurzbeschreibung]`|
+
+# Adept
 
 > [!lore] Kurzbeschreibung
 > A living weapon that hones their control over body and mind, and channels their unwavering focus to achieve amazing feats
 
 > [!bildrechts]
 > ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png|Regelwerk Klasse Monk 5e.png]]
+
+> [!info] Test
+> ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png|Regelwerk Klasse Monk 5e.png]]AdeptA living weapon that hones their control over body and mind, and channels their unwavering focus to achieve amazing feats
 
 > [!charakterklasse]+ Core Class Traits
 > || |

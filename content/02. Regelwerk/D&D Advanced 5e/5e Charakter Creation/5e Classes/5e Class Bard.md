@@ -1,5 +1,6 @@
 ---
 publish: true
+title: Bard
 tags:
   - "#Classes"
   - "#5e"
@@ -31,9 +32,10 @@ socialImage: 98. Diverses/Bilder/Misc/PlaceholderImage.png
 > >
 > > | | |
 > > |---|---|
+> > |**Display Title** | `INPUT[textArea:title]`|
 > > |**Kurzbeschreibung** | `INPUT[textArea:kurzbeschreibung]`|
 
-# Name
+# Bard
 
 > [!lore] Kurzbeschreibung
 > `VIEW[{kurzbeschreibung}][text]`
