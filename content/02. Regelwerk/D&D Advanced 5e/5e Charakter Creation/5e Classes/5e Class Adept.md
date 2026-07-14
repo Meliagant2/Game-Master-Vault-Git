@@ -7,7 +7,7 @@ tags:
 socialImage: 98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png
 ---
 
-TESTNOTIZ. GAB ES EIN UPDATE?
+Updated File to EMBED
 
 > [!metadata]- Metadata
 >
@@ -36,16 +36,12 @@ TESTNOTIZ. GAB ES EIN UPDATE?
 > > |**Kurzbeschreibung** | `INPUT[textArea:kurzbeschreibung]`|
 
 > [!lore] Kurzbeschreibung
-
-`VIEW[{kurzbeschreibung}][text]`
-
-#### Dataview
+> `VIEW[{kurzbeschreibung}][text]`
 
 > [!bildrechts]
+> ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png|Regelwerk Klasse Monk 5e.png]]
 
-`VIEW[!\[\[{image}\]\]][text(renderMarkdown)]`
-
-### Eigene Kreation
+#### Dataview Serializer
 
 ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png]]
 
