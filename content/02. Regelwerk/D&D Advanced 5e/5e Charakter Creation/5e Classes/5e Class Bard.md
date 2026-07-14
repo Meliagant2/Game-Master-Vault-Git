@@ -2,13 +2,13 @@
 publish: true
 title: Bard
 created: 2026-07-13T15:46:26.507+02:00
-modified: 2026-07-14T14:38:54.443+02:00
-published: 2026-07-14T14:38:54.443+02:00
+modified: 2026-07-14T14:42:13.314+02:00
+published: 2026-07-14T14:42:13.314+02:00
 tags:
   - "#Classes"
   - "#5e"
-socialImage: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
-image: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
+socialImage: 98. Diverses/Bilder/Misc/PlaceholderImage.png
+image: 98. Diverses/Bilder/Misc/PlaceholderImage.png
 status: ⏳
 ---
 
