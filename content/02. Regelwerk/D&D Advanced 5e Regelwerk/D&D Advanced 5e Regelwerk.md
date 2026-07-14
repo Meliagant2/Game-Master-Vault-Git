@@ -2,8 +2,8 @@
 publish: true
 title: D&D 5e Regelwerk
 created: 2026-07-13T15:14:52.133+02:00
-modified: 2026-07-14T15:25:41.420+02:00
-published: 2026-07-14T15:25:41.420+02:00
+modified: 2026-07-14T15:33:26.422+02:00
+published: 2026-07-14T15:33:26.422+02:00
 tags:
   - "#Regelwerk"
   - "#5e"
@@ -45,7 +45,19 @@ status: ⏳
 - 10. Combat
 - 14. Conditions
 
-BASES MIT GRUNDREGELN, TAG: GRUNDREGELN
+```base
+views:
+  - type: cards
+    name: 5e Grundregeln
+    filters:
+      and:
+        - file.name.contains("5e Grundregel")
+    image: note.image
+    cardSize: 150
+    imageAspectRatio: 1
+    imageFit: contain
+
+```
 
 ## Charaktererstellung
 
@@ -71,7 +83,7 @@ views:
     name: 5e Charaktererstellung
     filters:
       and:
-        - file.name.contains("Grundregeln 5e")
+        - file.name.contains("5e Charaktererstellung")
     image: note.image
     cardSize: 150
     imageAspectRatio: 1

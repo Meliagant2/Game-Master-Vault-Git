@@ -2,15 +2,15 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-14T15:29:33.112+02:00
-published: 2026-07-14T15:29:33.112+02:00
+modified: 2026-07-14T15:35:41.502+02:00
+published: 2026-07-14T15:35:41.502+02:00
 tags:
   - "#Home"
 ---
 
 # Home
 
-Hier steht etwas total neues. Ich hoffe ich sehe das gleich.
+NOCH VIEL NEUER YAY
 
 Einleitende Worte oder so. Erklärung der Vault
 
@@ -71,7 +71,9 @@ views:
     name: Regelwerke
     filters:
       and:
-        - title.contains("Regelwerk")
+        - file.name.contains("Regelwerk")
+        - '!file.name.contains("png")'
+        - file.name != "02. Regelwerk"
     image: note.image
     cardSize: 150
     imageAspectRatio: 1

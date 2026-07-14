@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-13T15:14:52.126+02:00
-modified: 2026-07-14T15:17:16.233+02:00
-published: 2026-07-14T15:17:16.233+02:00
+modified: 2026-07-14T15:34:58.313+02:00
+published: 2026-07-14T15:34:58.313+02:00
 tags:
   - "#Charaktererstellung"
   - "#5e"
@@ -87,3 +87,28 @@ This table shows the general progression of every character class. Every column,
 > |18|-|-|-|Feat|
 > |19|-|-|-|Class Features|
 > |20|-|-|+1 in one ability score of your choice up to a maximum of +6|Epic Boon, Feat|
+
+![[98. Diverses/Bilder/Abenteuerthumbnails/Kampagne Curse of Strahd.png]]
+![[98. Diverses/Bilder/Abenteuerthumbnails/CoS Akt 1 In die Nebel.png]]
+![[98. Diverses/Bilder/Abenteuerthumbnails/CoS Akt 2 Die schattige Stadt.png]]
+![[98. Diverses/Bilder/Abenteuerthumbnails/CoS Akt 3 Das gebrochene Land.png]]
+![[98. Diverses/Bilder/Abenteuerthumbnails/CoS Akt 4 Geheimnisse des Alten.png]]
+![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klassen.png]]
+![[98. Diverses/Bilder/Regelwerk Bilder/D&D 5e Regelwerk Cover.png]]
+![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Artificer 5e.png]]
+![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Barbarian 5e.png]]
+![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Bard 5e.png]]
+![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Cleric 5e.png]]
+![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Druid 5e.png]]
+![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Fighter 5e.png]]
+![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png]]
+![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Paladin 5e.png]]
+![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Ranger 5e.png]]
+![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Rogue 5e.png]]
+![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Sorcerer 5e.png]]
+![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Warlock 5e.png]]
+![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Wizard 5e.png]]
+![[98. Diverses/Bilder/Spielercharaktere/Tungdil Kupferkelch x.png]]
+![[98. Diverses/Bilder/Spielercharaktere/Ailas Dorric.png]]
+![[98. Diverses/Bilder/Spielercharaktere/Tungdil Kupferkelch 1.png]]
+![[98. Diverses/Bilder/Spielercharaktere/Tungdil Kupferkelch 2.png]]
