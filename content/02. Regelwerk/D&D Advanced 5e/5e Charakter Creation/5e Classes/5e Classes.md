@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-13T15:14:52.126+02:00
-modified: 2026-07-14T13:39:43.979+02:00
-published: 2026-07-14T13:39:43.979+02:00
+modified: 2026-07-14T13:42:55.617+02:00
+published: 2026-07-14T13:42:55.617+02:00
 tags:
   - "#Charaktererstellung"
   - "#5e"
@@ -30,7 +30,7 @@ status: ⏳
 > > |---|---|
 > > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
 
-DIES IST MIT BASES 9
+DIES IST MIT BASES 10
 
 # 5e Classes
 
@@ -59,27 +59,27 @@ SORT file.name ASC
 
 <!-- SerializedQuery: TABLE WITHOUT ID embed(link(image)) AS Bild, "<span style='display: block; text-align: center; margin-bottom: 2px;'>" + link(file.link, Title) + "</span>" AS Title, kurzbeschreibung AS K FROM "02. Regelwerk" WHERE contains(tags, "#Classes") AND contains(tags, "#5e") SORT file.name ASC -->
 
-| Bild                                                                                                 | Title                                                                                                                                                                             | K                                                                                                                         |
-| ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Bild                                                                                                                           | Title                                                                                                                                                                             | K                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | ![[02. Regelwerk/D&D Advanced 5e/5e Charakter Creation/5e Classes/Regelwerk Klasse Monk 5e.png|Regelwerk Klasse Monk 5e.png]] | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[5e Class Adept]]</span> | A living weapon that hones their control over body and mind, and channels their unwavering focus to achieve amazing feats |
-| ![[98. Diverses/Bilder/Misc/PlaceholderImage.png|PlaceholderImage.png]]                             | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[5e Class Bard]]</span>   | -                                                                                                                        |
+| ![[98. Diverses/Bilder/Misc/PlaceholderImage.png|PlaceholderImage.png]]                                                       | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[5e Class Bard]]</span>   | -                                                                                                                        |
 
 <!-- SerializedQuery END -->
 
 ### Dataview Table without "<" (Funktioniert)
 
-| Bild                                                                                                 | Title                                                                                                                                                                             | K                                                                                                                         |
-| ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png\|Regelwerk Klasse Monk 5e.png]] | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[02. Regelwerk/D&D Advanced 5e/5e Charakter Creation/5e Classes/5e Class Adept.md\|5e Class Adept]]</span> | A living weapon that hones their control over body and mind, and channels their unwavering focus to achieve amazing feats |
-| ![[98. Diverses/Bilder/Misc/PlaceholderImage.png\|PlaceholderImage.png]]                             | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[02. Regelwerk/D&D Advanced 5e/5e Charakter Creation/5e Classes/5e Class Bard.md\|5e Class Bard]]</span>   | -                                                                                                                        |
+| Bild                                                                                                                           | Title                                                                                                                                                                             | K                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| ![[02. Regelwerk/D&D Advanced 5e/5e Charakter Creation/5e Classes/Regelwerk Klasse Monk 5e.png\|Regelwerk Klasse Monk 5e.png]] | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[02. Regelwerk/D&D Advanced 5e/5e Charakter Creation/5e Classes/5e Class Adept.md\|5e Class Adept]]</span> | A living weapon that hones their control over body and mind, and channels their unwavering focus to achieve amazing feats |
+| ![[98. Diverses/Bilder/Misc/PlaceholderImage.png\|PlaceholderImage.png]]                                                       | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[02. Regelwerk/D&D Advanced 5e/5e Charakter Creation/5e Classes/5e Class Bard.md\|5e Class Bard]]</span>   | -                                                                                                                        |
 
 ### Old Dataview (Kaputt)
 
 > [!cards|dataview 3]
-> | Bild                                                                                                 | Title                                                                                                                                                                             | K                                                                                                                         |
-> | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-> | ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png|Regelwerk Klasse Monk 5e.png]] | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[02. Regelwerk/D&D Advanced 5e/5e Charakter Creation/5e Classes/5e Class Adept.md|5e Class Adept]]</span> | A living weapon that hones their control over body and mind, and channels their unwavering focus to achieve amazing feats |
-> | ![[98. Diverses/Bilder/Misc/PlaceholderImage.png|PlaceholderImage.png]]                             | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[02. Regelwerk/D&D Advanced 5e/5e Charakter Creation/5e Classes/5e Class Bard.md|5e Class Bard]]</span>   | -                                                                                                                        |
+> | Bild                                                                                                                           | Title                                                                                                                                                                             | K                                                                                                                         |
+> | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+> | ![[02. Regelwerk/D&D Advanced 5e/5e Charakter Creation/5e Classes/Regelwerk Klasse Monk 5e.png|Regelwerk Klasse Monk 5e.png]] | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[02. Regelwerk/D&D Advanced 5e/5e Charakter Creation/5e Classes/5e Class Adept.md|5e Class Adept]]</span> | A living weapon that hones their control over body and mind, and channels their unwavering focus to achieve amazing feats |
+> | ![[98. Diverses/Bilder/Misc/PlaceholderImage.png|PlaceholderImage.png]]                                                       | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[02. Regelwerk/D&D Advanced 5e/5e Charakter Creation/5e Classes/5e Class Bard.md|5e Class Bard]]</span>   | -                                                                                                                        |
 
 ### Base Cards
 
