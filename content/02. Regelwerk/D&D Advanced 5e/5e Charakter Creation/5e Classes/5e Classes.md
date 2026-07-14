@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-13T15:14:52.126+02:00
-modified: 2026-07-14T13:26:48.652+02:00
-published: 2026-07-14T13:26:48.652+02:00
+modified: 2026-07-14T13:34:41.339+02:00
+published: 2026-07-14T13:34:41.339+02:00
 tags:
   - "#Charaktererstellung"
   - "#5e"
@@ -30,7 +30,7 @@ status: ⏳
 > > |---|---|
 > > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
 
-DIES IST MIT BASES 7
+DIES IST MIT BASES 8
 
 # 5e Classes
 
@@ -91,26 +91,6 @@ views:
       and:
         - file.name.contains("5e Class")
         - file.name != "5e Classes"
-    image: note.image
-    cardSize: 150
-    imageFit: contain
-    imageAspectRatio: 1
-
-```
-
-### Base Table
-
-```base
-views:
-  - type: table
-    name: 5e KlassenTable
-    filters:
-      and:
-        - file.name.contains("5e Class")
-        - file.name != "5e Classes"
-    order:
-      - file.name
-      - kurzbeschreibung
     image: note.image
     cardSize: 150
     imageFit: contain
