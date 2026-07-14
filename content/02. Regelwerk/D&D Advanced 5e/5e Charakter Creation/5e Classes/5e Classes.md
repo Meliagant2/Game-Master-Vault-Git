@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-13T15:14:52.126+02:00
-modified: 2026-07-14T13:42:55.617+02:00
-published: 2026-07-14T13:42:55.617+02:00
+modified: 2026-07-14T13:51:05.481+02:00
+published: 2026-07-14T13:51:05.481+02:00
 tags:
   - "#Charaktererstellung"
   - "#5e"
@@ -30,7 +30,7 @@ status: ⏳
 > > |---|---|
 > > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
 
-DIES IST MIT BASES 10
+DIES IST MIT BASES 11
 
 # 5e Classes
 
@@ -59,10 +59,10 @@ SORT file.name ASC
 
 <!-- SerializedQuery: TABLE WITHOUT ID embed(link(image)) AS Bild, "<span style='display: block; text-align: center; margin-bottom: 2px;'>" + link(file.link, Title) + "</span>" AS Title, kurzbeschreibung AS K FROM "02. Regelwerk" WHERE contains(tags, "#Classes") AND contains(tags, "#5e") SORT file.name ASC -->
 
-| Bild                                                                                                                           | Title                                                                                                                                                                             | K                                                                                                                         |
-| ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png|Regelwerk Klasse Monk 5e.png]] | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[5e Class Adept]]</span> | A living weapon that hones their control over body and mind, and channels their unwavering focus to achieve amazing feats |
-| ![[98. Diverses/Bilder/Misc/PlaceholderImage.png|PlaceholderImage.png]]                                                       | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[5e Class Bard]]</span>   | -                                                                                                                        |
+| Bild                                                                                                                 | Title                                                                                                                                                                             | K                                                                                                                         |
+| -------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e - Kopie.png|Regelwerk Klasse Monk 5e - Kopie.png]] | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[5e Class Adept]]</span> | A living weapon that hones their control over body and mind, and channels their unwavering focus to achieve amazing feats |
+| ![[98. Diverses/Bilder/Misc/PlaceholderImage.png|PlaceholderImage.png]]                                             | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[5e Class Bard]]</span>   | -                                                                                                                        |
 
 <!-- SerializedQuery END -->
 
