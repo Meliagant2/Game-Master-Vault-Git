@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-13T15:14:52.126+02:00
-modified: 2026-07-14T14:17:49.077+02:00
-published: 2026-07-14T14:17:49.077+02:00
+modified: 2026-07-14T14:37:45.794+02:00
+published: 2026-07-14T14:37:45.794+02:00
 tags:
   - "#Charaktererstellung"
   - "#5e"
@@ -30,7 +30,7 @@ status: ⏳
 > > |---|---|
 > > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
 
-DIES IST MIT BASES 14
+DIES IST MIT BASES 15
 
 # 5e Classes
 
@@ -46,23 +46,6 @@ Occasionally, those who have committed them-selves to a specific calling find th
 
 The table below details the classes explored in this book. They can be found in most worlds of the multiverse.
 
-### Dataview Table without "<" (Funktioniert)
-
-|                                                                                                      |                                                                                                                                                                                   |                                                                                                                           |
-| ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png\|Regelwerk Klasse Monk 5e.png]] | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[02. Regelwerk/D&D Advanced 5e/5e Charakter Creation/5e Classes/5e Class Adept.md\|5e Class Adept]]</span> | A living weapon that hones their control over body and mind, and channels their unwavering focus to achieve amazing feats |
-| ![[98. Diverses/Bilder/Misc/PlaceholderImage.png\|PlaceholderImage.png]]                             | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[02. Regelwerk/D&D Advanced 5e/5e Charakter Creation/5e Classes/5e Class Bard.md\|5e Class Bard]]</span>   | -                                                                                                                        |
-
-### Old Dataview (Kaputt)
-
-> [!cards|dataview 3]
-> | Bild                                                                                                 | Title                                                                                                                                                                             | K                                                                                                                         |
-> | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-> | ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png|Regelwerk Klasse Monk 5e.png]] | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[02. Regelwerk/D&D Advanced 5e/5e Charakter Creation/5e Classes/5e Class Adept.md|5e Class Adept]]</span> | A living weapon that hones their control over body and mind, and channels their unwavering focus to achieve amazing feats |
-> | ![[98. Diverses/Bilder/Misc/PlaceholderImage.png|PlaceholderImage.png]]                             | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[02. Regelwerk/D&D Advanced 5e/5e Charakter Creation/5e Classes/5e Class Bard.md|5e Class Bard]]</span>   | -                                                                                                                        |
-
-### Base Cards (Funktioniert ohne Bilder)
-
 ```base
 views:
   - type: cards
@@ -71,9 +54,11 @@ views:
       and:
         - file.name.contains("5e Class")
         - file.name != "5e Classes"
+        - '!file.name.contains("Template")'
     image: note.image
     cardSize: 150
     imageAspectRatio: 1
+    imageFit: contain
 
 ```
 

@@ -2,16 +2,17 @@
 publish: true
 title: Adept
 created: 2026-07-13T15:14:52.119+02:00
-modified: 2026-07-14T14:17:32.115+02:00
-published: 2026-07-14T14:17:32.115+02:00
+modified: 2026-07-14T14:37:51.776+02:00
+published: 2026-07-14T14:37:51.776+02:00
 tags:
   - "#Classes"
   - "#5e"
-socialImage: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png]]"
-image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png]]"
+socialImage:
+  - - 98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png
+image:
+  - - 98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png
 status: ⏳
 kurzbeschreibung: A living weapon that hones their control over body and mind, and channels their unwavering focus to achieve amazing feats
-"\n**Focus save DC** ": = 8 + your proficiency bonus + your Wisdom modifier
 ---
 
 > [!metadata]- Metadata
@@ -189,7 +190,7 @@ You can spend exertion points to fuel various focus features. You start knowing 
 
 Some of your focus features require your target to make a saving throw to resist the feature’s effects. The saving throw DC is calculated as follows:
 
-**Focus save DC** :: = 8 + your proficiency bonus + your Wisdom modifier
+**Focus save DC:** = 8 + your proficiency bonus + your Wisdom modifier
 
 #### Flurry of Blows
 
