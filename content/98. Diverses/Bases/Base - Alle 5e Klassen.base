@@ -1,8 +1,0 @@
-views:
-  - type: cards
-    name: Alle 5e Klassen
-    filters:
-      and:
-        - file.tags.containsAll("#Classes", "#5e")
-    image: note.image
-    imageFit: contain
