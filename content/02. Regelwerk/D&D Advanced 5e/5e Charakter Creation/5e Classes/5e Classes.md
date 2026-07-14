@@ -39,6 +39,8 @@ Occasionally, those who have committed them-selves to a specific calling find th
 
 The table below details the classes explored in this book. They can be found in most worlds of the multiverse.
 
+#### Serialized Query 1
+
 <!-- QueryToSerialize: TABLE 
 embed(link(image)) AS Bild,
 "<span style='display: block; text-align: center; margin-bottom: 2px;'>" + link(file.link, Title) + "</span>" AS Title,
@@ -48,7 +50,7 @@ WHERE contains(tags, "#Classes") AND contains(tags, "#5e")
 SORT file.name ASC
 -->
 
-<!-- SerializedQuery: TABLE embed(link(image)) AS Bild, "<span style='display: block; text-align: center; margin-bottom: 2px;'>" + link(file.link, Title) + "</span>" AS Title, kurzbeschreibung AS "K" FROM "02. Regelwerk" WHERE contains(tags, "#Classes") AND contains(tags, "#5e") SORT file.name ASC -->
+<!-- SerializedQuery: TABLE embed(link(image)) AS Bild, "<span style='display: block; text-align: center; margin-bottom: 2px;'>" + link(file.link, Title) + "</span>" AS Title, kurzbeschreibung AS K FROM "02. Regelwerk" WHERE contains(tags, "#Classes") AND contains(tags, "#5e") SORT file.name ASC -->
 
 | Name                                                                                                 | Bild                                                                                                 | Title                                                                                                                                                                             | K                                                                                                                         |
 | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
@@ -56,6 +58,21 @@ SORT file.name ASC
 | [[5e Class Bard]]   | ![[98. Diverses/Bilder/Misc/PlaceholderImage.png|PlaceholderImage.png]]                             | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[5e Class Bard]]</span>   | -                                                                                                                        |
 
 <!-- SerializedQuery END -->
+
+#### Serialized Query 2
+
+> [!cards|dataview 3]
+>
+> <!-- QueryToSerialize: TABLE 
+> embed(link(image)) AS Bild, 
+> "<span style='display: block; text-align: center; margin-bottom: 2px;'>" + link(file.link, Title) + "</span>" AS Title,
+> kurzbeschreibung AS K
+> FROM "02. Regelwerk"
+> WHERE contains(tags, "#Classes") AND contains(tags, "#5e")
+> SORT file.name ASC
+> -->
+
+#### Old Dataview
 
 > [!cards|dataview 3]
 > | Bild                                                                                                 | Title                                                                                                                                                                             | K                                                                                                                         |

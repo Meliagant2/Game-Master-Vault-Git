@@ -43,6 +43,10 @@ TESTNOTIZ. GAB ES EIN UPDATE?
 
 ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png]]
 
+|Bild|Test|
+|:-:|:-|
+|![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png]]|Bla|
+
 > [!charakterklasse]+ Core Class Traits
 > || |
 > |---|---|
