@@ -36,11 +36,14 @@ TESTNOTIZ. GAB ES EIN UPDATE?
 > > |**Kurzbeschreibung** | `INPUT[textArea:kurzbeschreibung]`|
 
 > [!lore] Kurzbeschreibung
-> `VIEW[{kurzbeschreibung}][text]`
+
+`VIEW[{kurzbeschreibung}][text]`
+
+#### Dataview
 
 > [!bildrechts]
 
-<!-- QueryToSerialize: `VIEW[!\[\[{image}\]\]][text(renderMarkdown)]`-->
+`VIEW[!\[\[{image}\]\]][text(renderMarkdown)]`
 
 ### Eigene Kreation
 
