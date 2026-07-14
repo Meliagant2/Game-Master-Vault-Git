@@ -76,27 +76,7 @@ SORT file.name ASC
 
 ### Bases (Kaputt)
 
-```base
-properties:
-  note.kurzbeschreibung:
-    displayName: Kurzbeschreibung
-views:
-  - type: cards
-    name: Klassen
-    filters:
-      and:
-        - this.hasLink(file)
-        - tags.contains("#Classes")
-        - tags.contains("#5e")
-    order:
-      - file.name
-      - kurzbeschreibung
-    image: note.image
-    cardSize: 250
-    imageAspectRatio: 1
-    imageFit: contain
-
-```
+![[Base - Alle 5e Klassen.base]]
 
 ## General Character Table
 
