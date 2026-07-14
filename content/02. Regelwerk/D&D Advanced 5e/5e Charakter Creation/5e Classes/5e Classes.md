@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-13T15:14:52.126+02:00
-modified: 2026-07-14T13:08:15.784+02:00
-published: 2026-07-14T13:08:15.784+02:00
+modified: 2026-07-14T13:11:17.073+02:00
+published: 2026-07-14T13:11:17.073+02:00
 tags:
   - "#Charaktererstellung"
   - "#5e"
@@ -30,7 +30,7 @@ status: ⏳
 > > |---|---|
 > > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
 
-DIES IST MIT BASES 4
+DIES IST MIT BASES 5
 
 # 5e Classes
 
