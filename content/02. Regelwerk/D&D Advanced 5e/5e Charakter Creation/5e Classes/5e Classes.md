@@ -25,7 +25,7 @@ socialImage: 98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klassen.png
 > > |---|---|
 > > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
 
-DIES IST MIT BASES 2
+DIES IST MIT BASES 3
 
 # 5e Classes
 
