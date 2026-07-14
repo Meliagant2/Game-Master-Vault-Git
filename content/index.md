@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-14T13:09:02.962+02:00
-published: 2026-07-14T13:09:02.962+02:00
+modified: 2026-07-14T15:04:38.900+02:00
+published: 2026-07-14T15:04:38.900+02:00
 tags:
   - "#Home"
 ---
@@ -62,6 +62,21 @@ Müssen leider von den physischen Orten abgetrennt sein, da sich Ländergrenzen 
 Homescreen für jedes Regelwerk.
 
 Regelwerke werden immer in der Sprache aufgeführt, in der sie mir am einfachsten zur Verfügung stehen (ergo meistens englisch)
+
+```base
+views:
+  - type: cards
+    name: Regelwerke
+    filters:
+      and:
+        - file.name.contains("Regelwerk")
+        - '!file.name.contains("Template")'
+    image: note.image
+    cardSize: 150
+    imageAspectRatio: 1
+    imageFit: contain
+
+```
 
 > [!cards|dataview 5]
 > | Bild                                                                                             | Title                                                                                                                                              |
