@@ -72,6 +72,13 @@ SORT file.name ASC
 > SORT file.name ASC
 > -->
 
+#### Dataview without "<"
+
+| Bild                                                                                                 | Title                                                                                                                                                                             | K                                                                                                                         |
+| ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png\|Regelwerk Klasse Monk 5e.png]] | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[02. Regelwerk/D&D Advanced 5e/5e Charakter Creation/5e Classes/5e Class Adept.md\|5e Class Adept]]</span> | A living weapon that hones their control over body and mind, and channels their unwavering focus to achieve amazing feats |
+| ![[98. Diverses/Bilder/Misc/PlaceholderImage.png\|PlaceholderImage.png]]                             | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[02. Regelwerk/D&D Advanced 5e/5e Charakter Creation/5e Classes/5e Class Bard.md\|5e Class Bard]]</span>   | -                                                                                                                        |
+
 #### Old Dataview
 
 > [!cards|dataview 3]
