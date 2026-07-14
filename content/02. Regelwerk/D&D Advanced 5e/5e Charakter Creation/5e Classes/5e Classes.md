@@ -25,6 +25,8 @@ socialImage: 98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klassen.png
 > > |---|---|
 > > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
 
+DIES IST MIT BASES
+
 # 5e Classes
 
 Being an adventurer is more than just an occupation. Your character has a spark somewhere deep inside their soul that places their feet on the path too dangerous for others to tread. Perhaps it was simply survival at first, or a quest for gold or honor, or maybe they answered a higher calling from a being far more powerful than they. But whatever its origin, it is the crucial element that separates the rogue from the simple pickpocket and the warlord from the common soldier.
@@ -76,7 +78,7 @@ SORT file.name ASC
 
 ### Bases (Kaputt)
 
-![[Base - Alle 5e Klassen.base]]
+![[Base - Alle 5e Klassen.base#Alle 5e Klassen]]
 
 ## General Character Table
 
