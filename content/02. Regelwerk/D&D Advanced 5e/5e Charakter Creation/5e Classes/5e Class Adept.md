@@ -1,5 +1,6 @@
 ---
 publish: true
+title: Adept
 tags:
   - "#Classes"
   - "#5e"
@@ -31,8 +32,6 @@ socialImage: 98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png
 > > | | |
 > > |---|---|
 > > |**Kurzbeschreibung** | `INPUT[textArea:kurzbeschreibung]`|
-
-# Adept
 
 > [!lore] Kurzbeschreibung
 > `VIEW[{kurzbeschreibung}][text]`
