@@ -36,14 +36,10 @@ Updated File to EMBED
 > > |**Kurzbeschreibung** | `INPUT[textArea:kurzbeschreibung]`|
 
 > [!lore] Kurzbeschreibung
-> `VIEW[{kurzbeschreibung}][text]`
+> A living weapon that hones their control over body and mind, and channels their unwavering focus to achieve amazing feats
 
 > [!bildrechts]
 > ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png|Regelwerk Klasse Monk 5e.png]]
-
-#### Dataview Serializer
-
-![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png]]
 
 > [!charakterklasse]+ Core Class Traits
 > || |
