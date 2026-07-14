@@ -25,7 +25,7 @@ socialImage: 98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klassen.png
 > > |---|---|
 > > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
 
-DIES IST MIT BASES
+DIES IST MIT BASES 2
 
 # 5e Classes
 
@@ -78,7 +78,7 @@ SORT file.name ASC
 
 ### Bases (Kaputt)
 
-![[Base - Alle 5e Klassen.base#Alle 5e Klassen]]
+![[Base - Alle 5e Klassen.base]]
 
 ## General Character Table
 
