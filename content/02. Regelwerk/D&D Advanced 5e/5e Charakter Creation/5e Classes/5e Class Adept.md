@@ -40,6 +40,8 @@ socialImage: 98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png
 > [!bildrechts]
 > `VIEW[!\[\[{image}\]\]][text(renderMarkdown)]`
 
+![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png]]
+
 > [!charakterklasse]+ Core Class Traits
 > || |
 > |---|---|
