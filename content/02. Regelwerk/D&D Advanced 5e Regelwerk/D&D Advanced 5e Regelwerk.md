@@ -2,8 +2,8 @@
 publish: true
 title: D&D 5e Regelwerk
 created: 2026-07-13T15:14:52.133+02:00
-modified: 2026-07-14T15:22:25.950+02:00
-published: 2026-07-14T15:22:25.950+02:00
+modified: 2026-07-14T15:25:41.420+02:00
+published: 2026-07-14T15:25:41.420+02:00
 tags:
   - "#Regelwerk"
   - "#5e"
@@ -71,7 +71,7 @@ views:
     name: 5e Charaktererstellung
     filters:
       and:
-        - file.folder == null
+        - file.name.contains("Grundregeln 5e")
     image: note.image
     cardSize: 150
     imageAspectRatio: 1

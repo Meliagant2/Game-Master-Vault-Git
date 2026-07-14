@@ -2,15 +2,15 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-14T15:17:24.879+02:00
-published: 2026-07-14T15:17:24.879+02:00
+modified: 2026-07-14T15:29:33.112+02:00
+published: 2026-07-14T15:29:33.112+02:00
 tags:
   - "#Home"
 ---
 
 # Home
 
-1
+Hier steht etwas total neues. Ich hoffe ich sehe das gleich.
 
 Einleitende Worte oder so. Erklärung der Vault
 
