@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-14T15:04:38.900+02:00
-published: 2026-07-14T15:04:38.900+02:00
+modified: 2026-07-14T15:08:21.440+02:00
+published: 2026-07-14T15:08:21.440+02:00
 tags:
   - "#Home"
 ---
@@ -56,6 +56,20 @@ Effektiv Subspezies. Eng verbunden mit Sprache
 #### Regierungen
 
 Müssen leider von den physischen Orten abgetrennt sein, da sich Ländergrenzen verschieben können. Könnte eng verbunden sein mit Familien.
+
+![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Wizard 5e.png]]
+![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Artificer 5e.png]]
+![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Barbarian 5e.png]]
+![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Bard 5e.png]]
+![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Cleric 5e.png]]
+![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Druid 5e.png]]
+![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Fighter 5e.png]]
+![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png]]
+![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Paladin 5e.png]]
+![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Ranger 5e.png]]
+![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Rogue 5e.png]]
+![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Sorcerer 5e.png]]
+![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Warlock 5e.png]]
 
 ## Regelwerke
 
