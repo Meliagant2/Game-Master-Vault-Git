@@ -1,9 +1,14 @@
 ---
 publish: true
+created: 2026-07-13T15:14:52.126+02:00
+modified: 2026-07-14T13:08:15.784+02:00
+published: 2026-07-14T13:08:15.784+02:00
 tags:
   - "#Charaktererstellung"
   - "#5e"
 socialImage: 98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klassen.png
+image: 98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klassen.png
+status: ⏳
 ---
 
 > [!metadata]- Metadata
@@ -25,7 +30,7 @@ socialImage: 98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klassen.png
 > > |---|---|
 > > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
 
-DIES IST MIT BASES 3
+DIES IST MIT BASES 4
 
 # 5e Classes
 

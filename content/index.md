@@ -1,6 +1,9 @@
 ---
 publish: true
 title: Home
+created: 2026-07-13T15:14:52.230+02:00
+modified: 2026-07-13T21:04:34.719+02:00
+published: 2026-07-13T21:04:34.719+02:00
 tags:
   - "#Home"
 ---
