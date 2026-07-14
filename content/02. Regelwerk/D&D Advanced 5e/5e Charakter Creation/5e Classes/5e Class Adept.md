@@ -39,13 +39,12 @@ TESTNOTIZ. GAB ES EIN UPDATE?
 > `VIEW[{kurzbeschreibung}][text]`
 
 > [!bildrechts]
-> `VIEW[!\[\[{image}\]\]][text(renderMarkdown)]`
+
+<!-- QueryToSerialize: `VIEW[!\[\[{image}\]\]][text(renderMarkdown)]`-->
+
+### Eigene Kreation
 
 ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png]]
-
-|Bild|Test|
-|:-:|:-|
-|![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png]]|Bla|
 
 > [!charakterklasse]+ Core Class Traits
 > || |

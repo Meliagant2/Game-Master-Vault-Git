@@ -80,6 +80,30 @@ SORT file.name ASC
 > | ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png|Regelwerk Klasse Monk 5e.png]] | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[02. Regelwerk/D&D Advanced 5e/5e Charakter Creation/5e Classes/5e Class Adept.md|5e Class Adept]]</span> | A living weapon that hones their control over body and mind, and channels their unwavering focus to achieve amazing feats |
 > | ![[98. Diverses/Bilder/Misc/PlaceholderImage.png|PlaceholderImage.png]]                             | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[02. Regelwerk/D&D Advanced 5e/5e Charakter Creation/5e Classes/5e Class Bard.md|5e Class Bard]]</span>   | -                                                                                                                        |
 
+#### Bases
+
+```base
+properties:
+  note.kurzbeschreibung:
+    displayName: Kurzbeschreibung
+views:
+  - type: cards
+    name: Klassen
+    filters:
+      and:
+        - this.hasLink(file)
+        - tags.contains("#Classes")
+        - tags.contains("#5e")
+    order:
+      - file.name
+      - kurzbeschreibung
+    image: note.image
+    cardSize: 250
+    imageAspectRatio: 1
+    imageFit: contain
+
+```
+
 ## General Character Table
 
 This table shows the general progression of every character class. Every column, except for the "Features" Column is applicaple, even if your character is multiclassed
