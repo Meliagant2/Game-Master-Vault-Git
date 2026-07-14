@@ -2,13 +2,13 @@
 publish: true
 title: Adept
 created: 2026-07-13T15:14:52.119+02:00
-modified: 2026-07-14T13:44:59.174+02:00
-published: 2026-07-14T13:44:59.174+02:00
+modified: 2026-07-14T13:50:27.776+02:00
+published: 2026-07-14T13:50:27.776+02:00
 tags:
   - "#Classes"
   - "#5e"
-socialImage: 98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png
-image: 98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png
+socialImage: 98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e - Kopie.png
+image: 98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e - Kopie.png
 status: ⏳
 kurzbeschreibung: A living weapon that hones their control over body and mind, and channels their unwavering focus to achieve amazing feats
 "\n**Focus save DC** ": = 8 + your proficiency bonus + your Wisdom modifier
@@ -48,7 +48,7 @@ kurzbeschreibung: A living weapon that hones their control over body and mind, a
 > A living weapon that hones their control over body and mind, and channels their unwavering focus to achieve amazing feats
 
 > [!bildrechts]
-> ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png|Regelwerk Klasse Monk 5e.png]]
+> ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e - Kopie.png|Regelwerk Klasse Monk 5e - Kopie.png]]
 
 > [!charakterklasse]+ Core Class Traits
 > || |
