@@ -61,31 +61,39 @@ SORT file.name ASC
 
 #### Serialized Query 2
 
-> [!cards|dataview 3]
+> [!info]
 >
-> <!-- QueryToSerialize: TABLE 
-> embed(link(image)) AS Bild, 
-> "<span style='display: block; text-align: center; margin-bottom: 2px;'>" + link(file.link, Title) + "</span>" AS Title,
-> kurzbeschreibung AS K
-> FROM "02. Regelwerk"
-> WHERE contains(tags, "#Classes") AND contains(tags, "#5e")
-> SORT file.name ASC
-> -->
+> <!-- QueryToSerialize: TABLE WITHOUT ID embed(link(image)) AS Bild, "<span style='display: block; text-align: center; margin-bottom: 2px;'>" + link(file.link, Title) + "</span>" AS Title, kurzbeschreibung AS K FROM  "02. Regelwerk" WHERE contains(tags, "#Classes") AND contains(tags, "#5e") SORT file.name ASC -->
+
+<!-- SerializedQuery: TABLE WITHOUT ID embed(link(image)) AS Bild, "<span style='display: block; text-align: center; margin-bottom: 2px;'>" + link(file.link, Title) + "</span>" AS Title, kurzbeschreibung AS K FROM  "02. Regelwerk" WHERE contains(tags, "#Classes") AND contains(tags, "#5e") SORT file.name ASC -->
+
+> | Bild                                                                                                 | Title                                                                                                                                                                             | K                                                                                                                         |
+> | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+> | ![[Regelwerk Klasse Monk 5e.png|Regelwerk Klasse Monk 5e.png]] | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[5e Class Adept]]</span> | A living weapon that hones their control over body and mind, and channels their unwavering focus to achieve amazing feats |
+> | ![[PlaceholderImage.png|PlaceholderImage.png]]                             | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[5e Class Bard]]</span>   | -                                                                                                                        |
+
+<!-- SerializedQuery END -->
 
 #### Dataview Table without "<"
 
-| Bild                                                                                                 | Title                                                                                                                                                                             | K                                                                                                                         |
-| ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png\|Regelwerk Klasse Monk 5e.png]] | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[02. Regelwerk/D&D Advanced 5e/5e Charakter Creation/5e Classes/5e Class Adept.md\|5e Class Adept]]</span> | A living weapon that hones their control over body and mind, and channels their unwavering focus to achieve amazing feats |
-| ![[98. Diverses/Bilder/Misc/PlaceholderImage.png\|PlaceholderImage.png]]                             | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[02. Regelwerk/D&D Advanced 5e/5e Charakter Creation/5e Classes/5e Class Bard.md\|5e Class Bard]]</span>   | -                                                                                                                        |
+| Bild                                                                                                 | Title                                                                                                                                                                             | K                                                                                                                         | Test                                                                      |
+| ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png\|Regelwerk Klasse Monk 5e.png]] | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[02. Regelwerk/D&D Advanced 5e/5e Charakter Creation/5e Classes/5e Class Adept.md\|5e Class Adept]]</span> | A living weapon that hones their control over body and mind, and channels their unwavering focus to achieve amazing feats | <ul><li>lol1</li><li>lol2</li><li>dick</li><li>haha</li><li>lol</li></ul> |
+| ![[98. Diverses/Bilder/Misc/PlaceholderImage.png\|PlaceholderImage.png]]                             | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[02. Regelwerk/D&D Advanced 5e/5e Charakter Creation/5e Classes/5e Class Bard.md\|5e Class Bard]]</span>   | -                                                                                                                        | -                                                                        |
 
 #### Dataview Table with info callout "<"
 
 > [!info]
-> | Bild                                                                                                 | Title                                                                                                                                                                             | K                                                                                                                         |
-> | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-> | ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png|Regelwerk Klasse Monk 5e.png]] | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[02. Regelwerk/D&D Advanced 5e/5e Charakter Creation/5e Classes/5e Class Adept.md|5e Class Adept]]</span> | A living weapon that hones their control over body and mind, and channels their unwavering focus to achieve amazing feats |
-> | ![[98. Diverses/Bilder/Misc/PlaceholderImage.png|PlaceholderImage.png]]                             | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[02. Regelwerk/D&D Advanced 5e/5e Charakter Creation/5e Classes/5e Class Bard.md|5e Class Bard]]</span>   | -                                                                                                                        |
+>
+> ```dataview
+> TABLE WITHOUT ID
+> embed(link(meta(image).path, "50")) AS "", 
+> "<span style='display: block; text-align: center; margin-bottom: 2px;'>" + link(file.link, Title) + "</span>" AS Title,
+> kurzbeschreibung AS "K",
+> FROM "02. Regelwerk"
+> WHERE contains(tags, "#Classes") AND contains(tags, "#5e")
+> SORT file.name ASC
+> ```
 
 #### Old Dataview
 
