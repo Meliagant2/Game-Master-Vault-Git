@@ -39,6 +39,24 @@ Occasionally, those who have committed them-selves to a specific calling find th
 
 The table below details the classes explored in this book. They can be found in most worlds of the multiverse.
 
+<!-- QueryToSerialize: TABLE 
+embed(link(image)) AS Bild,
+"<span style='display: block; text-align: center; margin-bottom: 2px;'>" + link(file.link, Title) + "</span>" AS Title,
+kurzbeschreibung AS K
+FROM  "02. Regelwerk"
+WHERE contains(tags, "#Classes") AND contains(tags, "#5e")
+SORT file.name ASC
+-->
+
+<!-- SerializedQuery: TABLE embed(link(image)) AS Bild, "<span style='display: block; text-align: center; margin-bottom: 2px;'>" + link(file.link, Title) + "</span>" AS Title, kurzbeschreibung AS "K" FROM "02. Regelwerk" WHERE contains(tags, "#Classes") AND contains(tags, "#5e") SORT file.name ASC -->
+
+| Name                                                                                                 | Bild                                                                                                 | Title                                                                                                                                                                             | K                                                                                                                         |
+| ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| [[5e Class Adept]] | ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png|Regelwerk Klasse Monk 5e.png]] | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[5e Class Adept]]</span> | A living weapon that hones their control over body and mind, and channels their unwavering focus to achieve amazing feats |
+| [[5e Class Bard]]   | ![[98. Diverses/Bilder/Misc/PlaceholderImage.png|PlaceholderImage.png]]                             | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[5e Class Bard]]</span>   | -                                                                                                                        |
+
+<!-- SerializedQuery END -->
+
 > [!cards|dataview 3]
 > | Bild                                                                                                 | Title                                                                                                                                                                             | K                                                                                                                         |
 > | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
