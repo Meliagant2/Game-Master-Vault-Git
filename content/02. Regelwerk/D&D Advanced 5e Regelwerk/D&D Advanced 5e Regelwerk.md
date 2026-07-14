@@ -2,8 +2,8 @@
 publish: true
 title: D&D 5e Regelwerk
 created: 2026-07-13T15:14:52.133+02:00
-modified: 2026-07-14T15:49:42.010+02:00
-published: 2026-07-14T15:49:42.010+02:00
+modified: 2026-07-14T16:00:55.187+02:00
+published: 2026-07-14T16:00:55.187+02:00
 tags:
   - "#Regelwerk"
   - "#5e"
@@ -37,6 +37,8 @@ status: ⏳
 > Der Großteil dieses Regelwerks ist von mir homebrewed. Ich habe hier die Systeme D\&D 5e 2014, D\&D 5e 2024 und A5e kombiniert. Ziel war größtmögliche Charaktervielfalt, es kann aber sein, dass bestimmte Features entsprechend unbalanced sind.
 >
 > In manchen Texten und Beschreibungen werden Orte, Personen, Götter und diverses Andere aus meiner Welt beschrieben, manchmal auch (da STRG + C -> STRG + V) aus anderen Werken. Das bitte ignorieren. Ich habe all das um Mitte/Ende 2023 verfasst, als ich noch keine richtige Struktur für Worldbuilding hatte. Manches davon könnte noch aktuell sein, aber bitte eher davon ausgehen, dass die einzig korrekten Informationen zu meiner Welt im Welt Almanach zu finden sind, nicht in diesem Regelwerk.
+
+Equipment?
 
 ## Grundregeln
 
