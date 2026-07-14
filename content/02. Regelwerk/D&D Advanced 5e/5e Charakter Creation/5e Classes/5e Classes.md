@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-13T15:14:52.126+02:00
-modified: 2026-07-14T13:18:19.103+02:00
-published: 2026-07-14T13:18:19.103+02:00
+modified: 2026-07-14T13:26:48.652+02:00
+published: 2026-07-14T13:26:48.652+02:00
 tags:
   - "#Charaktererstellung"
   - "#5e"
@@ -30,7 +30,7 @@ status: ⏳
 > > |---|---|
 > > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
 
-DIES IST MIT BASES 6
+DIES IST MIT BASES 7
 
 # 5e Classes
 
@@ -81,7 +81,7 @@ SORT file.name ASC
 > | ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png|Regelwerk Klasse Monk 5e.png]] | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[02. Regelwerk/D&D Advanced 5e/5e Charakter Creation/5e Classes/5e Class Adept.md|5e Class Adept]]</span> | A living weapon that hones their control over body and mind, and channels their unwavering focus to achieve amazing feats |
 > | ![[98. Diverses/Bilder/Misc/PlaceholderImage.png|PlaceholderImage.png]]                             | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[02. Regelwerk/D&D Advanced 5e/5e Charakter Creation/5e Classes/5e Class Bard.md|5e Class Bard]]</span>   | -                                                                                                                        |
 
-### Bases (Kaputt)
+### Base Cards
 
 ```base
 views:
@@ -90,6 +90,27 @@ views:
     filters:
       and:
         - file.name.contains("5e Class")
+        - file.name != "5e Classes"
+    image: note.image
+    cardSize: 150
+    imageFit: contain
+    imageAspectRatio: 1
+
+```
+
+### Base Table
+
+```base
+views:
+  - type: table
+    name: 5e KlassenTable
+    filters:
+      and:
+        - file.name.contains("5e Class")
+        - file.name != "5e Classes"
+    order:
+      - file.name
+      - kurzbeschreibung
     image: note.image
     cardSize: 150
     imageFit: contain
