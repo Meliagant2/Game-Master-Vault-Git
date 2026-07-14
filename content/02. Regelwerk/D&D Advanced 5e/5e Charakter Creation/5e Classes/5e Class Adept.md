@@ -7,8 +7,6 @@ tags:
 socialImage: 98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png
 ---
 
-Updated File to EMBED
-
 > [!metadata]- Metadata
 >
 > > [!metadataoption]- Status
