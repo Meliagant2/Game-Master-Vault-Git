@@ -2,8 +2,8 @@
 publish: true
 title: D&D 5e Regelwerk
 created: 2026-07-13T15:14:52.133+02:00
-modified: 2026-07-14T15:33:26.422+02:00
-published: 2026-07-14T15:33:26.422+02:00
+modified: 2026-07-14T15:49:42.010+02:00
+published: 2026-07-14T15:49:42.010+02:00
 tags:
   - "#Regelwerk"
   - "#5e"
@@ -72,11 +72,6 @@ views:
 - 11. Combat Maneuvers
 - 12. Spellcasting
 
-> [!cards|dataview 5]
-> | Bild                                                                                   | Title                                                                                                                                                                               |
-> | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-> | ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klassen.png|Regelwerk Klassen.png]] | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Charakter Creation/5e Classes/5e Classes.md|5e Classes]]</span> |
-
 ```base
 views:
   - type: cards
@@ -84,6 +79,8 @@ views:
     filters:
       and:
         - file.name.contains("5e Charaktererstellung")
+    order:
+      - file.name
     image: note.image
     cardSize: 150
     imageAspectRatio: 1
