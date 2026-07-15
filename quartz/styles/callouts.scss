@@ -100,8 +100,7 @@
   .callout-title {
 	display: flex;
 	align-items: flex-start;
-	/*gap: 5px;			
-	padding: 1rem 0; */
+	padding-top: 5px;
 	color: var(--color);
 
 	--icon-size: 18px;
@@ -286,7 +285,7 @@
 	--callout-color: transparent;
 	--background: transparent;
 	--highlight: var(--highlight-neutral);
-	--callout-icon: none !important;
+	--callout-icon: var(--callout-icon-quote);
 	padding-left: 0px !important;  
 	padding-right: 0px !important;
 	padding-top: 0px !important;
@@ -295,22 +294,32 @@
 	width: auto;
 	max-width: 300px;
 	float: right; /* Floats the callout box to the right */
-	margin-left: 10px; /* Adds space between the callout box and the text OUTSIDE the box */
-	margin-top: 0;
+	margin-left: 10px !important; /* Adds space between the callout box and the text OUTSIDE the box */
+	margin-top: 0 !important;
   }
 
   .callout[data-callout="bildrechts"] > .callout-title {
 	justify-content: center;
 	align-items: center;
 	align-self: center;
+	padding-top: 0px !important;
   }
 
   .callout[data-callout="bildrechts"] > .callout-title > .callout-icon {
-	align-self: center;
+		width: 0px !important;
+		height: 0px !important;
+		flex: 0px !important);
+
+		// icon support
+		background-size: 0px !important;
+		mask-size: 0px !important;
+		mask-position: center;
+		mask-repeat: no-repeat;
+		padding: 0px !important;
   }
 
   .callout[data-callout="bildrechts"]:not(.is-collapsed) > .callout-title {
-	padding: 0;
+	padding: 0px !important;
   }
 
   .callout[data-callout="bildrechts"] > .callout-title .callout-title-inner {
