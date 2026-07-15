@@ -263,9 +263,12 @@
 
 
 
-  /* ===============================================================================================================================================
-     								CALLOUT ALLGEMEINE PARAMETER 
-     =============================================================================================================================================== */
+  /* =========================================
+     CALLOUT ALLGEMEINE PARAMETER
+     ========================================= */
+
+  --callout-icon-book: <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-book-icon lucide-book"><path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H19a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H6.5a1 1 0 0 1 0-5H20"/></svg>
+
 
   /* -----Callouts Allgemein-----*/
 
@@ -325,48 +328,18 @@
 	padding-bottom: 5px !important;
   }
 
-  /* ===============================================================================================================================================
-     								CALLOUTS: OBSIDIAN INTEGRIERT  
-     =============================================================================================================================================== */
-
-  /* ----------------------------------------Callout: Abstract---------------------------------------- */
-  .callout[data-callout="abstract"] {
-	--callout-color: 43, 112, 0; 
-	--highlight: var(--highlight-hell);
-	--background: var(--custom-background-hell);
-	padding-left: 25px !important;
-	padding-right: 25px !important;
-  }
-
-  /* ----------------------------------------Callout: Info---------------------------------------- */
-  .callout[data-callout="info"] {
-	--callout-color: var(--highlight-neutral); 
-	--highlight: var(--highlight-neutral);
-	--background: var(--custom-background-neutral);
-	padding-left: 25px !important;
-	padding-right: 25px !important;
-  }
-
-  .callout[data-callout="info"] strong,
-  .callout[data-callout="info"] b {
-	color: var(--highlight-neutral); 
-  }
-
-  /* ----------------------------------------Callout: Note---------------------------------------- */
-  .callout[data-callout="note"] {
-	--callout-icon: book;
-	--callout-color: 95, 223, 255; 
-	--highlight: var(--highlight-kuehl);
-	--background: var(--custom-background-kuehl);
-	padding-left: 25px !important;
-	padding-right: 25px !important;
-  }
 
 
 
-  /* ===============================================================================================================================================
-     								CALLOUTS: CUSTOM 
-     =============================================================================================================================================== */
+
+
+
+
+
+
+  /* =========================================
+     SPEZIFISCHE CALLOUTS
+     ========================================= */
 
   /* -----Callout: Bildrechts-----*/
   .callout[data-callout="bildrechts"] {
@@ -635,6 +608,47 @@
 	grid-template-columns: repeat(9, 1fr);
   }
 
+  /* -----Callout: Charakter-----*/
+  .callout[data-callout="charakter"] {
+	--callout-icon: user-round;
+	--callout-color: 80, 0, 115; 
+	--highlight: var(--highlight-charakter);
+	--background: var(--custom-background-charakter);
+	padding-left: 25px !important;
+	padding-right: 25px !important;
+  }
+
+  .callout[data-callout="charakter"] table th {
+	text-align: center !important;
+	color: var(--highlight-charakter) !important;
+  }
+
+  .callout[data-callout="charakter"] table td {
+	text-align: center;
+	vertical-align: middle;
+  }
+
+  /* -----Callout: Charakter-----*/
+  &[data-callout="character"] {
+	--callout-icon: user-round;
+	--callout-color: #500073; 
+	--highlight: var(--highlight-charakter);
+	--background: var(--custom-background-charakter);
+	padding-left: 25px !important;
+	padding-right: 25px !important;
+  }
+
+  &[data-callout="character"] table th {
+	text-align: center !important;
+	color: var(--highlight-charakter) !important;
+  }
+
+  &[data-callout="character"] table td {
+	text-align: center;
+	vertical-align: middle;
+  }
+
+
   /* -----Callout: Charakterklasse-----*/
   .callout[data-callout="charakterklasse"] {
 	--callout-icon: circle-user-round;
@@ -643,6 +657,20 @@
 	--background: var(--custom-background-hell);
 	padding-left: 25px !important;
 	padding-right: 25px !important;
+  }
+
+  /* -----Callout: Info-----*/
+  .callout[data-callout="info"] {
+	--callout-color: var(--highlight-neutral); 
+	--highlight: var(--highlight-neutral);
+	--background: var(--custom-background-neutral);
+	padding-left: 25px !important;
+	padding-right: 25px !important;
+  }
+
+  .callout[data-callout="info"] strong,
+  .callout[data-callout="info"] b {
+	color: var(--highlight-neutral); 
   }
 
   /* -----Callout: Inspiration-----*/
@@ -673,7 +701,7 @@
 
   /* -----Callout: Lore-----*/
   .callout[data-callout="lore"] {
-	--callout-icon: book;
+	--callout-icon: var(--callout-icon-book);
 	--callout-color: 95, 223, 255; 
 	--highlight: var(--highlight-neutral);
 	--background: var(--custom-background-kuehl);
@@ -770,9 +798,12 @@
 
 
 
-  /* ===============================================================================================================================================
-     								CALLOUTS: TABBED
-     =============================================================================================================================================== */
+
+
+
+  /* =========================================
+     Tabbed Callouts
+     ========================================= */
 
   /* 
   Meta Bind version of tabbed callouts
@@ -891,9 +922,6 @@
   , :has(.tabbed.mb-input-type-select > :nth-child(8).is-selected) + .el-div > .callout[data-callout="tabbed-box"] > .callout-content > :nth-child(8) {
 	display: block;
   }
-
-
-
 
 
 
