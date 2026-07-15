@@ -454,7 +454,7 @@
   	/* ----------------------------------------Callout: Charakter---------------------------------------- */
   	&[data-callout="charakter"] {
 		--callout-icon: var(--callout-icon-person);
-		--callout-color: 80, 0, 115; 
+		--color: var(--highlight-charakter);
 		--highlight: var(--highlight-charakter);
 		--background: var(--custom-background-charakter);
   	}
@@ -472,7 +472,7 @@
   	/* ----------------------------------------Callout: Charakterklasse---------------------------------------- */
   	&[data-callout="charakterklasse"] {
 		--callout-icon: var(--callout-icon-personcircle);
-		--callout-color: 80, 0, 115;
+		--color: var(--highlight-charakter);
 		--highlight: var(--highlight-charakter);
 		--background: var(--custom-background-hell);
   }
@@ -480,7 +480,7 @@
   	/* ----------------------------------------Callout: Inspiration---------------------------------------- */
   	&[data-callout="inspiration"] {
 		--callout-icon: var(--callout-icon-webhook);
-		--callout-color: 100, 190, 150;
+		--color: var(--highlight-kuehl);
 		--highlight: var(--highlight-kuehl);
 		--background: var(--custom-background-neutral);
   	}
@@ -494,7 +494,7 @@
   	/* ----------------------------------------Callout: Liste---------------------------------------- */
   	&[data-callout="liste"] {
 		--callout-icon: var(--callout-icon-list);
-		--callout-color: 43, 112, 0; 
+		--color: var(--highlight-hell);
 		--highlight: var(--highlight-hell);
 		--background: var(--custom-background-hell);
   	}
@@ -502,7 +502,7 @@
   	/* ----------------------------------------Callout: Lore---------------------------------------- */
   	&[data-callout="lore"] {
 		--callout-icon: var(--callout-icon-book);
-		--callout-color: #FFFFFF; /* #5FDFFF  */
+		--color: #FFFFFF; /* #5FDFFF  */
 		--highlight: var(--highlight-neutral);
 		--background: var(--custom-background-kuehl);
   	}
@@ -510,7 +510,7 @@
 	/* ----------------------------------------Callout: Quest---------------------------------------- */
 	&[data-callout="quest"] {
 		--callout-icon: var(--callout-icon-scroll);
-		--callout-color: 173, 65, 24; 
+		--color: var(--highlight-primary);
 		--highlight: var(--highlight-primary);
 		--background: var(--custom-background-signal);
 	}
@@ -518,14 +518,14 @@
 	/* ----------------------------------------Callout: Sessionnote---------------------------------------- */
 	&[data-callout="sessionnote"] {
 		--callout-icon: var(--callout-icon-scrolltext);
-		--callout-color: var(--highlight-neutral); 
+		--color: var(--highlight-neutral); 
 		--highlight: var(--highlight-neutral);
 		--background: var(--custom-background-neutral);
 	}
 
 	/* ----------------------------------------Callout: Wikibox---------------------------------------- */
 	&[data-callout="wikibox"] {
-		--callout-color: var(--custom-background-primary);
+		--color: var(--custom-background-primary);
 		--background: var(--custom-background-doc2);
 		--highlight: var(--highlight-neutral);
 		--callout-icon: none !important;
