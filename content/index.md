@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-15T11:53:09.785+02:00
-published: 2026-07-15T11:53:09.785+02:00
+modified: 2026-07-15T11:59:07.213+02:00
+published: 2026-07-15T11:59:07.213+02:00
 tags:
   - "#Home"
 ---
@@ -13,7 +13,7 @@ tags:
 **Einleitende Worte. Erklärung der Vault**
 
 > [!info] Info Callout **BOLD NOTE**
-> Info **BOLD** Neue Changes: Padding Top: 0, Padding Bottom: 5
+> Info **BOLD** Neue Changes: Stuff bewegt und so
 
 > [!charakter] Charakter **BOLD NOTE**
 > test **BOLD**
