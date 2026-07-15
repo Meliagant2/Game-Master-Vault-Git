@@ -337,16 +337,6 @@
 	padding-left: 25px !important;
 	padding-right: 25px !important;
   }
-  
-  /* --------------------Callout: Summary (Abstract Alias)-------------------- */
-  .callout[data-callout="summary"] {
-	--callout-color: 43, 112, 0; 
-	--highlight: var(--highlight-charakter);
-	--background: var(--custom-background-charakter);
-	padding-left: 25px !important;
-	padding-right: 25px !important;
-  }
-
 
   /* ----------------------------------------Callout: Info---------------------------------------- */
   .callout[data-callout="info"] {
@@ -366,7 +356,7 @@
   .callout[data-callout="note"] {
 	--callout-icon: book;
 	--callout-color: 95, 223, 255; 
-	--highlight: var(--highlight-neutral);
+	--highlight: var(--highlight-kuehl);
 	--background: var(--custom-background-kuehl);
 	padding-left: 25px !important;
 	padding-right: 25px !important;
