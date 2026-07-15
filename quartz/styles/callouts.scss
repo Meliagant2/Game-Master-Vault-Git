@@ -12,8 +12,6 @@
 	background-color: var(--background); 			
 	padding-left: 25px; 					/* X Muss evtl nicht in px sondern in rem angegeben werden */
 	padding-right: 25px; 					/* X Muss evtl nicht in px sondern in rem angegeben werden */
-	padding-top: 0; 					/* X Muss evtl nicht in px sondern in rem angegeben werden */	  
-	padding-bottom: 5px; 					/* X Muss evtl nicht in px sondern in rem angegeben werden */
 	mix-blend-mode: normal; 				
 	overflow-y: hidden;					/* ? */
 	box-sizing: border-box;					/* ? */
@@ -48,6 +46,30 @@
   	/*--callout-icon-XXX: url('data:image/svg+xml; utf8, <svg> </svg>');  */
   	/*--callout-icon-XXX: url('data:image/svg+xml; utf8, <svg> </svg>');  */
 
+
+	  /* ----------------------------------------Callout: Allgemein---------------------------------------- */
+	  & > .callout-content {
+			font-size: 1em;
+	  }
+
+	  & > .callout-content p:first-child {
+			margin-top: 5px;
+	  }
+
+	  & > .callout-content p:last-child {
+			margin-bottom: 0;
+	  }
+
+	  & >  .callout-content em,
+	  & >  .callout-title-inner strong,
+	  & >  .callout-content strong,
+	  & >  .callout-content b,
+	  & >  .callout-content hr,
+	  & >  .callout-icon svg,
+	  & >  .callout-fold svg {
+		  color: var(--highlight);
+		  stroke: var(--highlight);
+	  }
 
   /* ===============================================================================================================================================
      								CALLOUTS: OBSIDIAN INTEGRIERT  
@@ -623,29 +645,7 @@
 
 
 
-  /* ----------------------------------------Callout: Allgemein---------------------------------------- */
-  .callout-content {
-	font-size: 1em;
-  }
 
-  .callout-content p:first-child {
-	margin-top: 5px;
-  }
-
-  .callout-content p:last-child {
-	margin-bottom: 0;
-  }
-
-  .callout .callout-content em,
-  .callout .callout-title-inner strong,
-  .callout .callout-content strong,
-  .callout .callout-content b,
-  .callout .callout-content hr,
-  .callout .callout-icon svg,
-  .callout .callout-fold svg {
-	color: var(--highlight);
-	stroke: var(--highlight);
-  }
 
   /* ----------------------------------------Callout: Tabellen---------------------------------------- */
   .callout table {
