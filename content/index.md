@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-15T11:37:34.354+02:00
-published: 2026-07-15T11:37:34.354+02:00
+modified: 2026-07-15T11:43:06.429+02:00
+published: 2026-07-15T11:43:06.429+02:00
 tags:
   - "#Home"
 ---
@@ -12,68 +12,29 @@ tags:
 
 **Einleitende Worte. Erklärung der Vault**
 
-> [!abstract] Abstract Callout **BOLD NOTE**
-> Change comitted!
-
 > [!info] Info Callout **BOLD NOTE**
-> Info
-
-> [!note] Note Callout **BOLD NOTE**
-> Info
->
-> Test Test zum **FETT** schreiben
-> Keine Lücke zur Zeile darüber
-
-> [!todo] Todo Callout **BOLD NOTE**
-> Info
-
-> [!tip] Tip Callout **BOLD NOTE**
-> Info
-
-> [!success] Success Callout **BOLD NOTE**
-> Info
-
-> [!question] Question Callout **BOLD NOTE**
-> Info
-
-> [!warning] Warning Callout **BOLD NOTE**
-> Info
-
-> [!failure] Failure Callout **BOLD NOTE**
-> Info
-
-> [!danger] Danger Callout **BOLD NOTE**
-> Info
-
-> [!bug] Bug Callout **BOLD NOTE**
-> Info
-
-> [!example] Example Callout **BOLD NOTE**
-> Info
-
-> [!quote] Quote Callout **BOLD NOTE**
-> Info
+> Info **BOLD**
 
 > [!charakter] Charakter **BOLD NOTE**
-> test
+> test **BOLD**
 
 > [!charakterklasse] Charakterklasse **BOLD NOTE**
-> test
+> test **BOLD**
 
 > [!inspiration] Inspiration **BOLD NOTE**
-> test
+> test **BOLD**
 
 > [!liste] Liste **BOLD NOTE**
-> test
+> test **BOLD**
 
 > [!lore] Lore **BOLD NOTE**
-> test Ist das **Highlight weiß???**
+> test **BOLD**
 
 > [!quest] Quest **BOLD NOTE**
-> test
+> test **BOLD**
 
 > [!sessionnote] Sessionnote **BOLD NOTE**
-> test
+> test **BOLD**
 
 ### Dataview
 
