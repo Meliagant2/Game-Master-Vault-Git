@@ -635,26 +635,6 @@
 	grid-template-columns: repeat(9, 1fr);
   }
 
-  /* -----Callout: Charakter-----*/
-  .callout[data-callout="charakter"] {
-	--callout-icon: user-round;
-	--callout-color: 80, 0, 115; 
-	--highlight: var(--highlight-charakter);
-	--background: var(--custom-background-charakter);
-	padding-left: 25px !important;
-	padding-right: 25px !important;
-  }
-
-  .callout[data-callout="charakter"] table th {
-	text-align: center !important;
-	color: var(--highlight-charakter) !important;
-  }
-
-  .callout[data-callout="charakter"] table td {
-	text-align: center;
-	vertical-align: middle;
-  }
-
   /* -----Callout: Charakterklasse-----*/
   .callout[data-callout="charakterklasse"] {
 	--callout-icon: circle-user-round;
