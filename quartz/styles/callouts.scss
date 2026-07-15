@@ -13,6 +13,7 @@
 
   .callout-content p:first-child {
 	margin-top: 0px;
+	margin-bottom: 0px;
   }
 
   .callout-content p:last-child {
@@ -78,7 +79,7 @@
 	padding: 1rem 0;
 	color: var(--color);
 
-	--icon-size: 30px;
+	--icon-size: 5px;
 
 	& .fold-callout-icon {
 		transition: transform 0.15s ease;
