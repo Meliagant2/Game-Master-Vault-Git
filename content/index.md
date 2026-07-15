@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-15T10:17:37.707+02:00
-published: 2026-07-15T10:17:37.707+02:00
+modified: 2026-07-15T11:13:02.418+02:00
+published: 2026-07-15T11:13:02.418+02:00
 tags:
   - "#Home"
 ---
@@ -15,6 +15,51 @@ TESTRUN 1
 Einleitende Worte oder so. Erklärung der Vault
 
 Aufteilung der Mechanics wie bei 5etools
+
+> [!abstract] **Abstract Callout**
+> Test Highlight Title 3.1
+
+> [!lore] Lore
+> testNEU3 - Ist das **Callout** Weiß?
+
+> [!info] **Info Callout**
+> Info
+
+> [!note] Note Callout **BOLD NOTE**
+> Info
+>
+> Test Test zum **FETT** schreiben
+> Keine Lücke zur Zeile darüber
+
+> [!todo] Todo Callout
+> Info
+
+> [!tip] Tip Callout
+> Info
+
+> [!success] Success Callout
+> Info
+
+> [!question] Question Callout
+> Info
+
+> [!warning] Warning Callout
+> Info
+
+> [!failure] Failure Callout
+> Info
+
+> [!danger] Danger Callout
+> Info
+
+> [!bug] Bug Callout
+> Info
+
+> [!example] Example Callout
+> Info
+
+> [!quote] Quote Callout
+> Info
 
 > [!charakter] Charakter
 > test
@@ -36,6 +81,63 @@ Aufteilung der Mechanics wie bei 5etools
 
 > [!sessionnote] Sessionnote
 > test
+
+### Cards View Dataview
+
+> [!cards|dataview 5]
+> | Bild                                                                                                           | Title                                                                                                                                                                                                                                                 |
+> | -------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png|Regelwerk Klasse Monk 5e.png]]           | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Charakter Creation/5e Charaktererstellung - Classes/5e Class Adept/5e Class Adept.md|5e Class Adept]]</span>                      |
+> | ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Artificer 5e.png|Regelwerk Klasse Artificer 5e.png]] | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Charakter Creation/5e Charaktererstellung - Classes/5e Class Artificer/5e Class Artificer.md|5e Class Artificer]]</span>          |
+> | ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Barbarian 5e.png|Regelwerk Klasse Barbarian 5e.png]] | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Charakter Creation/5e Charaktererstellung - Classes/5e Class Barbarian/5e Class Barbarian.md|5e Class Barbarian]]</span>          |
+> | ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Bard 5e.png|Regelwerk Klasse Bard 5e.png]]           | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Charakter Creation/5e Charaktererstellung - Classes/5e Class Bard/5e Class Bard.md|5e Class Bard]]</span>                         |
+> | ![[98. Diverses/Bilder/Misc/PlaceholderImage.png|PlaceholderImage.png]]                                       | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Charakter Creation/5e Charaktererstellung - Classes/5e Class Blood Hunter/5e Class Blood Hunter.md|5e Class Blood Hunter]]</span> |
+> | ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Cleric 5e.png|Regelwerk Klasse Cleric 5e.png]]       | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Charakter Creation/5e Charaktererstellung - Classes/5e Class Cleric/5e Class Cleric.md|5e Class Cleric]]</span>                   |
+> | ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Druid 5e.png|Regelwerk Klasse Druid 5e.png]]         | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Charakter Creation/5e Charaktererstellung - Classes/5e Class Druid/5e Class Druid.md|5e Class Druid]]</span>                      |
+> | ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Fighter 5e.png|Regelwerk Klasse Fighter 5e.png]]     | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Charakter Creation/5e Charaktererstellung - Classes/5e Class Fighter/5e Class Fighter.md|5e Class Fighter]]</span>                |
+> | ![[98. Diverses/Bilder/Misc/PlaceholderImage.png|PlaceholderImage.png]]                                       | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Charakter Creation/5e Charaktererstellung - Classes/5e Class Marshal/5e Class Marshal.md|5e Class Marshal]]</span>                |
+> | ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Paladin 5e.png|Regelwerk Klasse Paladin 5e.png]]     | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Charakter Creation/5e Charaktererstellung - Classes/5e Class Paladin/5e Class Paladin.md|5e Class Paladin]]</span>                |
+> | ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Ranger 5e.png|Regelwerk Klasse Ranger 5e.png]]       | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Charakter Creation/5e Charaktererstellung - Classes/5e Class Ranger/5e Class Ranger.md|5e Class Ranger]]</span>                   |
+> | ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Rogue 5e.png|Regelwerk Klasse Rogue 5e.png]]         | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Charakter Creation/5e Charaktererstellung - Classes/5e Class Rogue/5e Class Rogue.md|5e Class Rogue]]</span>                      |
+> | ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Sorcerer 5e.png|Regelwerk Klasse Sorcerer 5e.png]]   | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Charakter Creation/5e Charaktererstellung - Classes/5e Class Sorcerer/5e Class Sorcerer.md|5e Class Sorcerer]]</span>             |
+> | ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Warlock 5e.png|Regelwerk Klasse Warlock 5e.png]]     | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Charakter Creation/5e Charaktererstellung - Classes/5e Class Warlock/5e Class Warlock.md|5e Class Warlock]]</span>                |
+> | ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Wizard 5e.png|Regelwerk Klasse Wizard 5e.png]]       | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Charakter Creation/5e Charaktererstellung - Classes/5e Class Wizard/5e Class Wizard.md|5e Class Wizard]]</span>                   |
+
+### Tabbed Box
+
+```meta-bind
+INPUT[select(
+option(1, Mo),
+option(2, Di),
+option(3, Mi),
+option(4, Do),
+option(5, Fr),
+option(6, Generell),
+class(tabbed)
+)]
+```
+
+> [!tabbed-box]
+>
+> > [!lore] Mo (Recap/Aktuelle Campaigns)
+> >
+> > - \[ ]
+>
+> > [!lore] Di (Aktuelle Campaigns)
+> >
+> > - \[ ]
+>
+> > [!lore] Mi (Maps, Diverses, etc.)
+> >
+> > - \[ ]
+>
+> > [!lore] Do (Lore Allgemein)
+> >
+> > - \[ ]
+>
+> > [!lore] Fr (Lore Allgemein)
+> >
+> > - \[ ]
 
 ### Quellen
 
