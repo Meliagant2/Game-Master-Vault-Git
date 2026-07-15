@@ -100,8 +100,8 @@
   .callout-title {
 	display: flex;
 	align-items: flex-start;
-	padding-top: 5px;
-	padding-bottom: 5px;
+	gap: 5px;
+	padding: 5px;
 	color: var(--color);
 
 	--icon-size: 18px;
