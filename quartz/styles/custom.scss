@@ -661,8 +661,8 @@
   /* -----Callout: Inspiration-----*/
   .callout[data-callout="inspiration"] {
 	--callout-icon: webhook;
-	--callout-color: 100, 190, 150;
-	--highlight: var(--highlight-kuehl);
+	--callout-color: var(--highlight-kuehl); /* -----100, 190, 150-----*/
+	--highlight: var(--highlight-neutral); /* -----var(--highlight-kuehl)-----*/
 	--background: var(--custom-background-neutral);
 	padding-left: 25px !important;
 	padding-right: 25px !important;
