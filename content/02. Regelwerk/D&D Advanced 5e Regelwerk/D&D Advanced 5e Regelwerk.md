@@ -2,8 +2,8 @@
 publish: true
 title: D&D 5e Regelwerk
 created: 2026-07-13T15:14:52.133+02:00
-modified: 2026-07-14T16:00:55.187+02:00
-published: 2026-07-14T16:00:55.187+02:00
+modified: 2026-07-15T18:02:36.709+02:00
+published: 2026-07-15T18:02:36.709+02:00
 tags:
   - "#Regelwerk"
   - "#5e"
@@ -38,14 +38,7 @@ status: ⏳
 >
 > In manchen Texten und Beschreibungen werden Orte, Personen, Götter und diverses Andere aus meiner Welt beschrieben, manchmal auch (da STRG + C -> STRG + V) aus anderen Werken. Das bitte ignorieren. Ich habe all das um Mitte/Ende 2023 verfasst, als ich noch keine richtige Struktur für Worldbuilding hatte. Manches davon könnte noch aktuell sein, aber bitte eher davon ausgehen, dass die einzig korrekten Informationen zu meiner Welt im Welt Almanach zu finden sind, nicht in diesem Regelwerk.
 
-Equipment?
-
-## Grundregeln
-
-- 1. Ability Scores (Inkl. Skills)
-- 9. Adventuring
-- 10. Combat
-- 14. Conditions
+## Basic Rules
 
 ```base
 views:
@@ -61,18 +54,7 @@ views:
 
 ```
 
-## Charaktererstellung
-
-- 0. Character Creation
-- 2. Heritage
-- 3. Culture
-- 4. Background
-- 5. Destiny
-- 6. Classes
-- 7. Equipment, Strongholds, Followers
-- 8. Multiclassing, Feats & Epic Boons
-- 11. Combat Maneuvers
-- 12. Spellcasting
+## Character Creation
 
 ```base
 views:
@@ -89,20 +71,6 @@ views:
     imageFit: contain
 
 ```
-
-| Homebrewery                       | 5etools            |
-| :-------------------------------- | :----------------- |
-| Character Creation                |                    |
-| Heritage                          | Species            |
-| Culture                           | -                  |
-| Background                        | Background         |
-| Destiny                           |                    |
-| Classes                           | Classes            |
-| Equipment, Strongholds, Followers | Items              |
-| Multiclassing, Feats & Epic Boons | Feats              |
-| Combat Maneuvers                  |                    |
-| Spellcasting                      | Spells             |
-|                                   | Options & Features |
 
 ## Quellen
 
