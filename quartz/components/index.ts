@@ -14,7 +14,6 @@ import Properties from "./Properties"
 
 export {
   ArticleTitle,
-@@ -42,4 +43,5 @@ export {
   RecentNotes,
   NotFound,
   Breadcrumbs,
