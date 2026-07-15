@@ -286,7 +286,20 @@
 	border-radius: 15px !important;
 	background-color: var(--background) !important;
 	mix-blend-mode: normal !important;
+	
+	/* Custom Icons für Quartz */
   	--callout-icon-book: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-book-icon lucide-book"><path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H19a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H6.5a1 1 0 0 1 0-5H20"/></svg>');
+	--callout-icon-list: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="8" y="2" width="8" height="4" rx="1" ry="1"></rect><path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"></path><path d="M12 11h4"></path><path d="M12 16h4"></path><path d="M8 11h.01"></path><path d="M8 16h.01"></path></svg>');
+  	--callout-icon-person: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-user-round-icon lucide-user-round"><circle cx="12" cy="8" r="5"/><path d="M20 21a8 8 0 0 0-16 0"/></svg>'); 
+  	--callout-icon-personcircle: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-circle-user-round-icon lucide-circle-user-round"><path d="M17.925 20.056a6 6 0 0 0-11.851.001"/><circle cx="12" cy="11" r="4"/><circle cx="12" cy="12" r="10"/></svg>');
+  	--callout-icon-scroll: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-scroll-icon lucide-scroll"><path d="M19 17V5a2 2 0 0 0-2-2H4"/><path d="M8 21h12a2 2 0 0 0 2-2v-1a1 1 0 0 0-1-1H11a1 1 0 0 0-1 1v1a2 2 0 1 1-4 0V5a2 2 0 1 0-4 0v2a1 1 0 0 0 1 1h3"/></svg>');
+  	--callout-icon-scrolltext: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-scroll-text-icon lucide-scroll-text"><path d="M15 12h-5"/><path d="M15 8h-5"/><path d="M19 17V5a2 2 0 0 0-2-2H4"/><path d="M8 21h12a2 2 0 0 0 2-2v-1a1 1 0 0 0-1-1H11a1 1 0 0 0-1 1v1a2 2 0 1 1-4 0V5a2 2 0 1 0-4 0v2a1 1 0 0 0 1 1h3"/></svg>'); 
+ 	--callout-icon-webhook: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-webhook-icon lucide-webhook"><path d="M18 16.98h-5.99c-1.1 0-1.95.94-2.48 1.9A4 4 0 0 1 2 17c.01-.7.2-1.4.57-2"/><path d="m6 17 3.13-5.78c.53-.97.1-2.18-.5-3.1a4 4 0 1 1 6.89-4.06"/><path d="m12 6 3.13 5.73C15.66 12.7 16.9 13 18 13a4 4 0 0 1 0 8"/></svg>');
+
+  	/*--callout-icon-XXX: url('data:image/svg+xml; utf8, <svg> </svg>');  */
+  	/*--callout-icon-XXX: url('data:image/svg+xml; utf8, <svg> </svg>');  */
+  	/*--callout-icon-XXX: url('data:image/svg+xml; utf8, <svg> </svg>');  */
+  	/*--callout-icon-XXX: url('data:image/svg+xml; utf8, <svg> </svg>');  */
   }
 
   .callout .callout-content em,
@@ -638,7 +651,7 @@
 
   /* ----------------------------------------Callout: Charakter---------------------------------------- */
   .callout[data-callout="charakter"] {
-	--callout-icon: user-round;
+	--callout-icon: var(--callout-icon-person);
 	--callout-color: 80, 0, 115; 
 	--highlight: var(--highlight-charakter);
 	--background: var(--custom-background-charakter);
@@ -658,7 +671,7 @@
 
   /* ----------------------------------------Callout: Charakterklasse---------------------------------------- */
   .callout[data-callout="charakterklasse"] {
-	--callout-icon: circle-user-round;
+	--callout-icon: var(--callout-icon-personcircle);
 	--callout-color: 80, 0, 115;
 	--highlight: var(--highlight-charakter);
 	--background: var(--custom-background-hell);
@@ -668,7 +681,7 @@
 
   /* ----------------------------------------Callout: Inspiration---------------------------------------- */
   .callout[data-callout="inspiration"] {
-	--callout-icon: webhook;
+	--callout-icon: var(--callout-icon-webhook);
 	--callout-color: 100, 190, 150;
 	--highlight: var(--highlight-kuehl);
 	--background: var(--custom-background-neutral);
@@ -684,7 +697,7 @@
 
   /* ----------------------------------------Callout: Liste---------------------------------------- */
   .callout[data-callout="liste"] {
-	--callout-icon: clipboard-list;
+	--callout-icon: var(--callout-icon-list);
 	--callout-color: 43, 112, 0; 
 	--highlight: var(--highlight-hell);
 	--background: var(--custom-background-hell);
@@ -724,7 +737,7 @@
 
   /* ----------------------------------------Callout: Quest---------------------------------------- */
   .callout[data-callout="quest"] {
-	--callout-icon: scroll !important;
+	--callout-icon: var(--callout-icon-scroll);
 	--callout-color: 173, 65, 24; 
 	--highlight: var(--highlight-primary);
 	--background: var(--custom-background-signal);
@@ -734,7 +747,7 @@
 
   /* ----------------------------------------Callout: Sessionnote---------------------------------------- */
   .callout[data-callout="sessionnote"] {
-	--callout-icon: album;
+	--callout-icon: var(--callout-icon-scrolltext);
 	--callout-color: var(--highlight-neutral); 
 	--highlight: var(--highlight-neutral);
 	--background: var(--custom-background-neutral);
