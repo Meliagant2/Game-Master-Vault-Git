@@ -48,22 +48,27 @@
 
 
 	  /* ----------------------------------------Callout: Allgemein---------------------------------------- */
-	  & > .callout-content {
-			font-size: 1em;
-	  }
+	& > .callout-content {
+		font-size: 1em;
 
-	  & > .callout-content p:first-child {
+		& > :first-child {
 			margin-top: 5px;
-	  }
+		}
 
-	  & > .callout-content p:last-child {
+		& > :last-child {
 			margin-bottom: 0;
-	  }
+		}
+		
+	}
+	  
 
+
+
+	  
 	  & >  .callout-content em,
 	  & >  .callout-title-inner strong,
-	  & >  .callout-content strong,
-	  & >  .callout-content b,
+	  & >  strong,
+	  & >  b,
 	  & >  .callout-content hr,
 	  & >  .callout-icon svg,
 	  & >  .callout-fold svg {
@@ -85,7 +90,7 @@
 
 	/* ----------------------------------------Callout: Abstract---------------------------------------- */
   	&[data-callout="abstract"] {
-		--callout-color: 43, 112, 0; 
+		--color: 43, 112, 0; 
 		--highlight: var(--highlight-hell);
 		--background: var(--custom-background-hell);
 		--callout-icon: var(--callout-icon-abstract);
@@ -93,7 +98,7 @@
 
 	/* ----------------------------------------Callout: Info---------------------------------------- */
 	&[data-callout="info"] {
-		--callout-color: var(--highlight-neutral); 
+		--color: var(--highlight-neutral); 
 		--highlight: var(--highlight-neutral);
 		--background: var(--custom-background-neutral);
 		--callout-icon: var(--callout-icon-info);
