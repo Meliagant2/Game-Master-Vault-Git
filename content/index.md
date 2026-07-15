@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-15T09:27:12.741+02:00
-published: 2026-07-15T09:27:12.741+02:00
+modified: 2026-07-15T09:32:49.053+02:00
+published: 2026-07-15T09:32:49.053+02:00
 tags:
   - "#Home"
 ---
@@ -19,9 +19,8 @@ Aufteilung der Mechanics wie bei 5etools
 > [!abstract] **Abstract Callout**
 > Test Highlight Title 3.1
 
-> [!charakter] Charakter
-> NeuTest
-> **Bold Text**
+> [!lore] Lore
+> test
 
 > [!info] **Info Callout**
 > Info
