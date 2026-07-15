@@ -12,6 +12,8 @@
 	background-color: var(--background); 			
 	padding-left: 25px; 					/* X Muss evtl nicht in px sondern in rem angegeben werden */
 	padding-right: 25px; 					/* X Muss evtl nicht in px sondern in rem angegeben werden */
+	padding-top: 0; 					/* X Muss evtl nicht in px sondern in rem angegeben werden */	  
+	padding-bottom: 5px; 					/* X Muss evtl nicht in px sondern in rem angegeben werden */
 	mix-blend-mode: normal; 				
 	overflow-y: hidden;					/* ? */
 	box-sizing: border-box;					/* ? */
