@@ -646,7 +646,7 @@
 
   /* -----Callout: Info-----*/
   .callout[data-callout="info"] {
-	--callout-color: var(--highlight-neutral); 
+	--callout-color: 41, 41, 41; 
 	--highlight: var(--highlight-neutral);
 	--background: var(--custom-background-neutral);
 	padding-left: 25px !important;
