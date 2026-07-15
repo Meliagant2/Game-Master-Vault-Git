@@ -51,6 +51,14 @@
 	& > .callout-content {
 		font-size: 1em;
 
+	  & > em,
+	  & > strong,
+	  & > b,
+	  & > hr {
+		  color: var(--highlight);
+		  stroke: var(--highlight);
+	  }
+		
 		& > :first-child {
 			margin-top: 5px;
 		}
@@ -65,11 +73,8 @@
 
 
 	  
-	  & >  .callout-content em,
+
 	  & >  .callout-title-inner strong,
-	  & >  strong,
-	  & >  b,
-	  & >  .callout-content hr,
 	  & >  .callout-icon svg,
 	  & >  .callout-fold svg {
 		  color: var(--highlight);
