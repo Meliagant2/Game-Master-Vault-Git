@@ -2,13 +2,13 @@
 publish: true
 title: Adept
 created: 2026-07-13T15:14:52.119+02:00
-modified: 2026-07-15T16:17:33.899+02:00
-published: 2026-07-15T16:17:33.899+02:00
+modified: 2026-07-15T16:30:06.808+02:00
+published: 2026-07-15T16:30:06.808+02:00
 tags:
   - "#Classes"
   - "#5e"
-socialImage: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png]]"
-image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png]]"
+socialImage: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png | test]]"
+image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png | test]]"
 status: ⏳
 kurzbeschreibung: A living weapon that hones their control over body and mind, and channels their unwavering focus to achieve amazing feats
 ---
@@ -55,7 +55,7 @@ kurzbeschreibung: A living weapon that hones their control over body and mind, a
 > A living weapon that hones their control over body and mind, and channels their unwavering focus to achieve amazing feats
 
 > [!bildrechts]
-> ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png|Regelwerk Klasse Monk 5e.png]]
+> ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png | test]]
 
 A drop of sweat trails slowly across the elf’s brow as she slowly draws breath. The snake bite still stings and in her mind she sees the poison spreading through her veins. She exhales slowly, in total control of her body in its entirety, and neutralizes the toxin with nothing more than thought and driven focus.
 
@@ -307,7 +307,7 @@ Once you use this feature, you can’t use it again until you finish a Long Rest
 
 ### Level 2: Feat
 
-As long as you are not multiclassed, you gain one [[5e Charaktererstellung - Feats | Feat]] of your choice, for which you qualify. At Character levels 4, 7, 10, 12, 14, 16, 18, and 20 you can choose another feat of your choice for which you qualify.
+As long as you are not multiclassed, you gain one [[5e Charaktererstellung - Feats]] of your choice, for which you qualify. At Character levels 4, 7, 10, 12, 14, 16, 18, and 20 you can choose another feat of your choice for which you qualify.
 
 View "General Character Table" to see if you qualify for a feat at this level.
 
