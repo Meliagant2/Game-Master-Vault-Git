@@ -10,8 +10,9 @@
 	border: 2px solid var(--highlight); 			
 	border-radius: 15px; 					
 	background-color: var(--background); 			
-	padding-left: 250px; 					/* X Muss evtl nicht in px sondern in rem angegeben werden */
+	padding-left: 25px; 					/* X Muss evtl nicht in px sondern in rem angegeben werden */
 	padding-right: 25px; 					/* X Muss evtl nicht in px sondern in rem angegeben werden */
+	padding-top: 0px !important;
 	mix-blend-mode: normal; 				
 	overflow-y: hidden;					/* ? */
 	box-sizing: border-box;					/* ? */
