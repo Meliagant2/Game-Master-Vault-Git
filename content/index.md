@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-15T10:05:36.728+02:00
-published: 2026-07-15T10:05:36.728+02:00
+modified: 2026-07-15T10:17:37.707+02:00
+published: 2026-07-15T10:17:37.707+02:00
 tags:
   - "#Home"
 ---
@@ -16,50 +16,26 @@ Einleitende Worte oder so. Erklärung der Vault
 
 Aufteilung der Mechanics wie bei 5etools
 
-> [!abstract] **Abstract Callout**
-> Test Highlight Title 3.1
+> [!charakter] Charakter
+> test
+
+> [!charakterklasse] Charakterklasse
+> test
+
+> [!inspiration] Inspiration
+> test
+
+> [!liste] Liste
+> test
 
 > [!lore] Lore
-> testNEU3 - Ist das **Callout** Weiß?
+> test
 
-> [!info] **Info Callout**
-> Info
+> [!quest] Quest
+> test
 
-> [!note] Note Callout **BOLD NOTE**
-> Info
->
-> Test Test zum **FETT** schreiben
-> Keine Lücke zur Zeile darüber
-
-> [!todo] Todo Callout
-> Info
-
-> [!tip] Tip Callout
-> Info
-
-> [!success] Success Callout
-> Info
-
-> [!question] Question Callout
-> Info
-
-> [!warning] Warning Callout
-> Info
-
-> [!failure] Failure Callout
-> Info
-
-> [!danger] Danger Callout
-> Info
-
-> [!bug] Bug Callout
-> Info
-
-> [!example] Example Callout
-> Info
-
-> [!quote] Quote Callout
-> Info
+> [!sessionnote] Sessionnote
+> test
 
 ### Quellen
 
