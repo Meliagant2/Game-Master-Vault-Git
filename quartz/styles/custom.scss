@@ -52,23 +52,6 @@
 	text-justify: inter-word;	
   }
 
-
-  /* -----Hintergrundfarbe linkes Menü----- */
-
-  .theme-light .nav-files-container {
-	content: "";
-	position: fixed;
-	background-color: var(--custom-background-doc2);
-	background-repeat: no-repeat;
-	background-size: cover;
-	filter: blur(0px) brightness(100%) saturate(100%);
-	left: 0;
-	right: 0;
-	bottom: 0;
-	z-index: 1;
-  }
-
-
   /* -----Hintergrundfarbe Textblock----- */
 
   .markdown-preview-view {
@@ -87,22 +70,6 @@
 	right: 0;
 	bottom: 0;
 	z-index: -1;
-  }
-
-
-  /* -----Hintergrundfarbe rechtes Menü----- */
-
-  .theme-light .mod-right-split .view-content {
-	content: "";
-	position: fixed;
-	background-color: var(--custom-background-doc2);
-	background-repeat: no-repeat;
-	background-size: cover;
-	filter: blur(0px) brightness(100%) saturate(100%);
-	left: 0;
-	right: 0;
-	bottom: 0;
-	z-index: 1;
   }
 
   /* -----Fetter/Bold Text Farbe----- */
