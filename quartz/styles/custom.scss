@@ -329,7 +329,7 @@
      								CALLOUTS: OBSIDIAN INTEGRIERT  
      =============================================================================================================================================== */
 
-  /* -----Callout: Abstract-----*/
+  /* ----------------------------------------Callout: Abstract---------------------------------------- */
   .callout[data-callout="abstract"] {
 	--callout-color: 43, 112, 0; 
 	--highlight: var(--highlight-hell);
@@ -338,7 +338,7 @@
 	padding-right: 25px !important;
   }
   
-  /* ----------Callout: Summary (Abstract Alias)----------*/
+  /* --------------------Callout: Summary (Abstract Alias)-------------------- */
   .callout[data-callout="summary"] {
 	--callout-color: 43, 112, 0; 
 	--highlight: var(--highlight-charakter);
@@ -348,7 +348,7 @@
   }
 
 
-  /* -----Callout: Info-----*/
+  /* ----------------------------------------Callout: Info---------------------------------------- */
   .callout[data-callout="info"] {
 	--callout-color: var(--highlight-neutral); 
 	--highlight: var(--highlight-neutral);
@@ -362,7 +362,15 @@
 	color: var(--highlight-neutral); 
   }
 
-
+  /* ----------------------------------------Callout: Note---------------------------------------- */
+  .callout[data-callout="note"] {
+	--callout-icon: book;
+	--callout-color: 95, 223, 255; 
+	--highlight: var(--highlight-neutral);
+	--background: var(--custom-background-kuehl);
+	padding-left: 25px !important;
+	padding-right: 25px !important;
+  }
 
 
 
