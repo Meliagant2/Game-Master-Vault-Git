@@ -502,8 +502,8 @@
   	/* ----------------------------------------Callout: Lore---------------------------------------- */
   	&[data-callout="lore"] {
 		--callout-icon: var(--callout-icon-book);
-		--color: #FFFFFF; /* #5FDFFF  */
-		--highlight: var(--highlight-neutral);
+		--color: var(--highlight-kuehl); /* #5FDFFF  */
+		--highlight: var(--highlight-kuehl);
 		--background: var(--custom-background-kuehl);
   	}
 
@@ -637,6 +637,7 @@
   .callout .callout-content em,
   .callout .callout-title-inner strong,
   .callout .callout-content strong,
+  .callout .callout-content b,
   .callout .callout-content hr,
   .callout .callout-icon svg,
   .callout .callout-fold svg {
