@@ -185,3 +185,17 @@
     font-weight: $semiBoldWeight;
   }
 }
+
+  /* ===============================================================================================================================================
+     								CALLOUTS: CUSTOM 
+     =============================================================================================================================================== */
+  /* -----Callout: Charakter-----*/
+  &[data-callout="character"] {
+	--callout-icon: user-round;
+	--callout-color: 80, 0, 115; 
+	--highlight: var(--highlight-charakter);
+	--background: var(--custom-background-charakter);
+	padding-left: 25px !important;
+	padding-right: 25px !important;
+  }
+
