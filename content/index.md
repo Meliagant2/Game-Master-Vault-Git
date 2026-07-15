@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-15T08:33:40.047+02:00
-published: 2026-07-15T08:33:40.047+02:00
+modified: 2026-07-15T08:36:22.834+02:00
+published: 2026-07-15T08:36:22.834+02:00
 tags:
   - "#Home"
 ---
@@ -16,10 +16,10 @@ Einleitende Worte oder so. Erklärung der Vault
 
 Aufteilung der Mechanics wie bei 5etools
 
-> [!abstract] Abstract Callout
-> Info
+> [!abstract] **Abstract Callout**
+> Test Highlight Title
 
-> [!info] Info Callout
+> [!info] **Info Callout**
 > Info
 
 > [!note] Note Callout
@@ -28,7 +28,7 @@ Aufteilung der Mechanics wie bei 5etools
 > [!summary] Summary (Abstract Alias) Callout
 > Info
 
-> [!tldr] Abstract (TLDR) Callout
+> [!tldr] TLDR (Abstract Alias) Callout
 > Info
 
 > [!todo] Todo Callout
