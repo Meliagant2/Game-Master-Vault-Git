@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-15T17:49:26.441+02:00
-published: 2026-07-15T17:49:26.441+02:00
+modified: 2026-07-15T17:51:41.147+02:00
+published: 2026-07-15T17:51:41.147+02:00
 tags:
   - "#Home"
 cssClasses: cards
@@ -12,18 +12,6 @@ cssClasses: cards
 # Home
 
 **Einleitende Worte. Erklärung der Vault und der Website Funktionen**
-
-**Mit Pipe**
-[[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Charakter Creation/5e Charaktererstellung - Classes/5e Class Adept/5e Class Adept|5e Class Adept]]
-
-**Ohne Pipe**
-[[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Charakter Creation/5e Charaktererstellung - Classes/5e Class Adept/5e Class Adept]]
-
-**Fucked with Pipe**
-[[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Charakter Creation/5e Charaktererstellung - Classes/5e Class Adept/5e Class Adept|5e Class Adept]]
-
-**Super Fucked with Pipe**
-[[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Charakter Creation/5e Charaktererstellung - Classes/5e Class Adept/5e Class Adept\ | 5e Class Adept]]
 
 ### Quellen
 
