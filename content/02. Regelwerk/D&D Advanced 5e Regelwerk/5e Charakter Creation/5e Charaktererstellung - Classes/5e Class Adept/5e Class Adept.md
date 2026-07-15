@@ -2,8 +2,8 @@
 publish: true
 title: Adept
 created: 2026-07-13T15:14:52.119+02:00
-modified: 2026-07-15T14:49:15.817+02:00
-published: 2026-07-15T14:49:15.817+02:00
+modified: 2026-07-15T15:06:03.439+02:00
+published: 2026-07-15T15:06:03.439+02:00
 tags:
   - "#Classes"
   - "#5e"
