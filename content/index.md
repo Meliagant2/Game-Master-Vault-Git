@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-15T17:24:23.495+02:00
-published: 2026-07-15T17:24:23.495+02:00
+modified: 2026-07-15T17:34:33.692+02:00
+published: 2026-07-15T17:34:33.692+02:00
 tags:
   - "#Home"
 cssClasses: cards
@@ -12,42 +12,6 @@ cssClasses: cards
 # Home
 
 **Einleitende Worte. Erklärung der Vault und der Website Funktionen**
-
-### Tabbed Box
-
-```meta-bind
-INPUT[select(
-option(1, Mo),
-option(2, Di),
-option(3, Mi),
-option(4, Do),
-option(5, Fr),
-option(6, Generell),
-class(tabbed)
-)]
-```
-
-> [!tabbed-box]
->
-> > [!lore] Mo (Recap/Aktuelle Campaigns)
-> >
-> > - \[ ]
->
-> > [!lore] Di (Aktuelle Campaigns)
-> >
-> > - \[ ]
->
-> > [!lore] Mi (Maps, Diverses, etc.)
-> >
-> > - \[ ]
->
-> > [!lore] Do (Lore Allgemein)
-> >
-> > - \[ ]
->
-> > [!lore] Fr (Lore Allgemein)
-> >
-> > - \[ ]
 
 ### Quellen
 
