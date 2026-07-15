@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-15T07:20:58.824+02:00
-published: 2026-07-15T07:20:58.824+02:00
+modified: 2026-07-15T07:36:50.923+02:00
+published: 2026-07-15T07:36:50.923+02:00
 tags:
   - "#Home"
 ---
@@ -15,6 +15,87 @@ TESTRUN 1
 Einleitende Worte oder so. Erklärung der Vault
 
 Aufteilung der Mechanics wie bei 5etools
+
+> [!note] Note Callout
+> Info
+
+> [!abstract] Abstract Callout
+> Info
+
+> [!summary] Abstract (Summary) Callout
+> Info
+
+> [!tldr] Abstract (TLDR) Callout
+> Info
+
+> [!info] Info Callout
+> Info
+
+> [!todo] Todo Callout
+> Info
+
+> [!tip] Tip Callout
+> Info
+
+> [!hint] Tip (Hint) Callout
+> Info
+
+> [!important] Tip (Important) Callout
+> Info
+
+> [!success] Success Callout
+> Info
+
+> [!check] Success (Check) Callout
+> Info
+
+> [!done] Success (Done) Callout
+> Info
+
+> [!question] Question Callout
+> Info
+
+> [!help] Help (Question Alias) Callout
+> Info
+
+> [!faq] FAQ (Question Alias) Callout
+> Info
+
+> [!warning] Warning Callout
+> Info
+
+> [!caution] Caution (Warning Alias) Callout
+> Info
+
+> [!attention] Attention (Warning Alias) Callout
+> Info
+
+> [!failure] Failure Callout
+> Info
+
+> [!fail] Fail (Failure Alias) Callout
+> Info
+
+> [!missing] Missing (Failure Alias) Callout
+> Info
+
+> [!danger] Danger Callout
+> Info
+
+> [!error] Error (Danger Alias) Callout
+> Info
+
+> [!bug] Bug Callout
+> Info
+
+> [!example] Example Callout
+> Info
+
+> [!quote] Quote Callout
+> Info
+
+> [!cite] Cite (Quote Alias) Callout
+> Info
 
 ### Quellen
 

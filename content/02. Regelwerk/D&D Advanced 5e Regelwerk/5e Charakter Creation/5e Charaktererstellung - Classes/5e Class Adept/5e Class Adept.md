@@ -2,8 +2,8 @@
 publish: true
 title: Adept
 created: 2026-07-13T15:14:52.119+02:00
-modified: 2026-07-14T15:42:34.995+02:00
-published: 2026-07-14T15:42:34.995+02:00
+modified: 2026-07-15T07:26:52.210+02:00
+published: 2026-07-15T07:26:52.210+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -68,6 +68,15 @@ kurzbeschreibung: A living weapon that hones their control over body and mind, a
 > |**Weapon Proficiencies**|Simple Weapons, Punching Daggers, Shortswords, Throwing Daggers|
 > |**Armor Training**|-|
 > |**Starting Equipment**|Choose A or B: **(A)** Quarterstaff, 10 darts, dungeoneer’s pack, **(B)** Shortsword, 10 darts, explorer’s pack|
+
+|Header 1|Header 2|Header 3|
+|:-|:-:|-:|
+|Linker Text|Mittiger Text|Rechter Text|
+|Linker Text|Mittiger Text|Rechter Text|
+
+| Bild                                                                                                    | Title                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![[98. Diverses/Bilder/Abenteuerthumbnails/Kampagne Curse of Strahd.png\|Kampagne Curse of Strahd.png]] | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[00. Vault/00A. Kampagne/Venatus Hex/Venatus Hex.md\|Venatus Hex]]</span> |
 
 A drop of sweat trails slowly across the elf’s brow as she slowly draws breath. The snake bite still stings and in her mind she sees the poison spreading through her veins. She exhales slowly, in total control of her body in its entirety, and neutralizes the toxin with nothing more than thought and driven focus.
 
