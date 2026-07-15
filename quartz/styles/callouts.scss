@@ -199,3 +199,13 @@
 	padding-right: 25px !important;
   }
 
+  &[data-callout="character"] table th {
+	text-align: center !important;
+	color: var(--highlight-charakter) !important;
+  }
+
+  &[data-callout="character"] table td {
+	text-align: center;
+	vertical-align: middle;
+  }
+
