@@ -75,11 +75,11 @@
   .callout-title {
 	display: flex;
 	align-items: flex-start;
-	gap: 1px;			/* Geändert, weil probably mein Problem mit Top Space (vorher 5) */
-	padding: 1rem 0;
+	/*gap: 5px;			
+	padding: 1rem 0; */
 	color: var(--color);
 
-	--icon-size: 5px;
+	--icon-size: 18px;
 
 	& .fold-callout-icon {
 		transition: transform 0.15s ease;
