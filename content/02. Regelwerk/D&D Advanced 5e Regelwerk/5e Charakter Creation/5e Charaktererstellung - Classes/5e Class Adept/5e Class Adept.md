@@ -2,8 +2,8 @@
 publish: true
 title: Adept
 created: 2026-07-13T15:14:52.119+02:00
-modified: 2026-07-15T17:34:21.278+02:00
-published: 2026-07-15T17:34:21.278+02:00
+modified: 2026-07-15T17:40:22.215+02:00
+published: 2026-07-15T17:40:22.215+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -50,34 +50,6 @@ kurzbeschreibung: A living weapon that hones their control over body and mind, a
 > > |**Bild 2**|`INPUT[inlineListSuggester(optionQuery("png")):image2]`|
 
 # Adept
-
-![[98. Diverses/Bilder/Abenteuerthumbnails/Kampagne Curse of Strahd.png]]
-![[98. Diverses/Bilder/Abenteuerthumbnails/CoS Akt 1 In die Nebel.png]]
-![[98. Diverses/Bilder/Abenteuerthumbnails/CoS Akt 2 Die schattige Stadt.png]]
-![[98. Diverses/Bilder/Abenteuerthumbnails/CoS Akt 3 Das gebrochene Land.png]]
-![[98. Diverses/Bilder/Abenteuerthumbnails/CoS Akt 4 Geheimnisse des Alten.png]]
-![[98. Diverses/Bilder/Misc/PlaceholderImage.png]]
-![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klassen.png]]
-![[98. Diverses/Bilder/Regelwerk Bilder/D&D 5e Regelwerk Cover.png]]
-![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Equipment.png]]
-![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Feats.png]]
-![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Artificer 5e.png]]
-![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Barbarian 5e.png]]
-![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Bard 5e.png]]
-![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Cleric 5e.png]]
-![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Druid 5e.png]]
-![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Fighter 5e.png]]
-![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png]]
-![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Paladin 5e.png]]
-![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Ranger 5e.png]]
-![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Rogue 5e.png]]
-![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Sorcerer 5e.png]]
-![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Warlock 5e.png]]
-![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Wizard 5e.png]]
-![[98. Diverses/Bilder/Spielercharaktere/Tungdil Kupferkelch x.png]]
-![[98. Diverses/Bilder/Spielercharaktere/Ailas Dorric.png]]
-![[98. Diverses/Bilder/Spielercharaktere/Tungdil Kupferkelch 1.png]]
-![[98. Diverses/Bilder/Spielercharaktere/Tungdil Kupferkelch 2.png]]
 
 > [!lore] Kurzbeschreibung
 > A living weapon that hones their control over body and mind, and channels their unwavering focus to achieve amazing feats
