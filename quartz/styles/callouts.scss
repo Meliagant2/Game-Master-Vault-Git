@@ -298,6 +298,16 @@
 	margin-top: 0 !important;
   }
 
+  .callout[data-callout="bildrechts"] > .callout-content p:first-child {
+	margin-top: 0px !important;
+	margin-bottom: 0px !important;
+  }
+
+  .callout[data-callout="bildrechts"] > .callout-content p:last-child {
+	margin-top: 0px !important;
+	margin-bottom: 0px !important;
+  }
+
   .callout[data-callout="bildrechts"] > .callout-title {
 	justify-content: center;
 	align-items: center;
