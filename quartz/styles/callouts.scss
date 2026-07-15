@@ -185,27 +185,3 @@
     font-weight: $semiBoldWeight;
   }
 }
-
-  /* ===============================================================================================================================================
-     								CALLOUTS: CUSTOM 
-     =============================================================================================================================================== */
-  /* -----Callout: Charakter-----*/
-  &[data-callout="character"] {
-	--callout-icon: user-round;
-	--callout-color: #500073; 
-	--highlight: var(--highlight-charakter);
-	--background: var(--custom-background-charakter);
-	padding-left: 25px !important;
-	padding-right: 25px !important;
-  }
-
-  &[data-callout="character"] table th {
-	text-align: center !important;
-	color: var(--highlight-charakter) !important;
-  }
-
-  &[data-callout="character"] table td {
-	text-align: center;
-	vertical-align: middle;
-  }
-
