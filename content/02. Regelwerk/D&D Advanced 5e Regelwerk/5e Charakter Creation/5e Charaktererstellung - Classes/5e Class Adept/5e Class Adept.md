@@ -2,8 +2,8 @@
 publish: true
 title: Adept
 created: 2026-07-13T15:14:52.119+02:00
-modified: 2026-07-15T14:31:14.563+02:00
-published: 2026-07-15T14:31:14.563+02:00
+modified: 2026-07-15T14:49:15.817+02:00
+published: 2026-07-15T14:49:15.817+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -57,6 +57,12 @@ kurzbeschreibung: A living weapon that hones their control over body and mind, a
 > [!bildrechts]
 > ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png|Regelwerk Klasse Monk 5e.png]]
 
+A drop of sweat trails slowly across the elf’s brow as she slowly draws breath. The snake bite still stings and in her mind she sees the poison spreading through her veins. She exhales slowly, in total control of her body in its entirety, and neutralizes the toxin with nothing more than thought and driven focus.
+
+The orc looks back and notices that the alley behind him is a dead end. His assailants, clad in leather and steel, block his exit. He cannot help but smile as he jumps towards the wall, plants both of his bare feet on its surface and somersaults well over their heads. As the burly man sneers at her, she thinks to herself that he should know better than to spit in a dwarf’s drink. The imposing fellow casually rests a hand on his dagger’s hilt and with some amusement she realizes this oaf considers her to be unarmed —it takes only a single headbutt to prove him wrong
+
+Adepts are living weapons and athletes that have trained their bodies and honed their minds to perfection. This process endows them with considerable mental power and an unusual understanding of the self. Every adept has a different reason for striving towards ever greater heights of personal achievement, but all can be incredibly deadly. Be they rough pugilists used to life in the pits, religious dancers whose prayer is battle, or covert assassins from secret societies, adepts all learn amazing supernatural abilities that set them apart from common warriors.
+
 > [!charakterklasse]+ Core Class Traits
 > || |
 > |---|---|
@@ -68,12 +74,6 @@ kurzbeschreibung: A living weapon that hones their control over body and mind, a
 > |**Weapon Proficiencies**|Simple Weapons, Punching Daggers, Shortswords, Throwing Daggers|
 > |**Armor Training**|-|
 > |**Starting Equipment**|Choose A or B: **(A)** Quarterstaff, 10 darts, dungeoneer’s pack, **(B)** Shortsword, 10 darts, explorer’s pack|
-
-A drop of sweat trails slowly across the elf’s brow as she slowly draws breath. The snake bite still stings and in her mind she sees the poison spreading through her veins. She exhales slowly, in total control of her body in its entirety, and neutralizes the toxin with nothing more than thought and driven focus.
-
-The orc looks back and notices that the alley behind him is a dead end. His assailants, clad in leather and steel, block his exit. He cannot help but smile as he jumps towards the wall, plants both of his bare feet on its surface and somersaults well over their heads. As the burly man sneers at her, she thinks to herself that he should know better than to spit in a dwarf’s drink. The imposing fellow casually rests a hand on his dagger’s hilt and with some amusement she realizes this oaf considers her to be unarmed —it takes only a single headbutt to prove him wrong
-
-Adepts are living weapons and athletes that have trained their bodies and honed their minds to perfection. This process endows them with considerable mental power and an unusual understanding of the self. Every adept has a different reason for striving towards ever greater heights of personal achievement, but all can be incredibly deadly. Be they rough pugilists used to life in the pits, religious dancers whose prayer is battle, or covert assassins from secret societies, adepts all learn amazing supernatural abilities that set them apart from common warriors.
 
 #### Power of Discipline
 
