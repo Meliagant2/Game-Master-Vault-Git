@@ -2,22 +2,18 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-15T11:13:02.418+02:00
-published: 2026-07-15T11:13:02.418+02:00
+modified: 2026-07-15T11:19:49.774+02:00
+published: 2026-07-15T11:19:49.774+02:00
 tags:
   - "#Home"
 ---
 
 # Home
 
-TESTRUN 1
-
-Einleitende Worte oder so. Erklärung der Vault
-
-Aufteilung der Mechanics wie bei 5etools
+**Einleitende Worte. Erklärung der Vault**
 
 > [!abstract] **Abstract Callout**
-> Test Highlight Title 3.1
+> Change comitted!
 
 > [!lore] Lore
 > testNEU3 - Ist das **Callout** Weiß?
@@ -82,7 +78,7 @@ Aufteilung der Mechanics wie bei 5etools
 > [!sessionnote] Sessionnote
 > test
 
-### Cards View Dataview
+### Dataview
 
 > [!cards|dataview 5]
 > | Bild                                                                                                           | Title                                                                                                                                                                                                                                                 |
@@ -184,9 +180,7 @@ Müssen leider von den physischen Orten abgetrennt sein, da sich Ländergrenzen 
 
 ## Regelwerke
 
-Homescreen für jedes Regelwerk.
-
-Regelwerke werden immer in der Sprache aufgeführt, in der sie mir am einfachsten zur Verfügung stehen (ergo meistens englisch)
+Regelwerke werden immer in der Sprache aufgeführt, in der sie mir am einfachsten zur Verfügung stehen (ergo meistens englisch). NPCs und deren Beschreibungen, Orte, Items und Monsterbeschreibungen habe ich allerdings ins deutsche übersetzt.
 
 ```base
 views:
