@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-15T08:53:45.346+02:00
-published: 2026-07-15T08:53:45.346+02:00
+modified: 2026-07-15T08:57:41.811+02:00
+published: 2026-07-15T08:57:41.811+02:00
 tags:
   - "#Home"
 ---
@@ -24,12 +24,8 @@ Aufteilung der Mechanics wie bei 5etools
 
 > [!note] Note Callout **BOLD NOTE**
 > Info
-
-> [!summary] **Summary (Abstract Alias) Callout**
-> Info
-
-> [!tldr] TLDR (Abstract Alias) Callout
-> Info
+>
+> Test Test zum **FETT** schreiben
 
 > [!todo] Todo Callout
 > Info
@@ -37,52 +33,19 @@ Aufteilung der Mechanics wie bei 5etools
 > [!tip] Tip Callout
 > Info
 
-> [!hint] Tip (Hint) Callout
-> Info
-
-> [!important] Tip (Important) Callout
-> Info
-
 > [!success] Success Callout
-> Info
-
-> [!check] Success (Check) Callout
-> Info
-
-> [!done] Success (Done) Callout
 > Info
 
 > [!question] Question Callout
 > Info
 
-> [!help] Help (Question Alias) Callout
-> Info
-
-> [!faq] FAQ (Question Alias) Callout
-> Info
-
 > [!warning] Warning Callout
-> Info
-
-> [!caution] Caution (Warning Alias) Callout
-> Info
-
-> [!attention] Attention (Warning Alias) Callout
 > Info
 
 > [!failure] Failure Callout
 > Info
 
-> [!fail] Fail (Failure Alias) Callout
-> Info
-
-> [!missing] Missing (Failure Alias) Callout
-> Info
-
 > [!danger] Danger Callout
-> Info
-
-> [!error] Error (Danger Alias) Callout
 > Info
 
 > [!bug] Bug Callout
@@ -92,9 +55,6 @@ Aufteilung der Mechanics wie bei 5etools
 > Info
 
 > [!quote] Quote Callout
-> Info
-
-> [!cite] Cite (Quote Alias) Callout
 > Info
 
 ### Quellen
