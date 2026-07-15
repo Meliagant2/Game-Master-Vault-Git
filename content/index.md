@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-15T11:19:49.774+02:00
-published: 2026-07-15T11:19:49.774+02:00
+modified: 2026-07-15T11:37:34.354+02:00
+published: 2026-07-15T11:37:34.354+02:00
 tags:
   - "#Home"
 ---
@@ -12,13 +12,10 @@ tags:
 
 **Einleitende Worte. Erklärung der Vault**
 
-> [!abstract] **Abstract Callout**
+> [!abstract] Abstract Callout **BOLD NOTE**
 > Change comitted!
 
-> [!lore] Lore
-> testNEU3 - Ist das **Callout** Weiß?
-
-> [!info] **Info Callout**
+> [!info] Info Callout **BOLD NOTE**
 > Info
 
 > [!note] Note Callout **BOLD NOTE**
@@ -27,55 +24,55 @@ tags:
 > Test Test zum **FETT** schreiben
 > Keine Lücke zur Zeile darüber
 
-> [!todo] Todo Callout
+> [!todo] Todo Callout **BOLD NOTE**
 > Info
 
-> [!tip] Tip Callout
+> [!tip] Tip Callout **BOLD NOTE**
 > Info
 
-> [!success] Success Callout
+> [!success] Success Callout **BOLD NOTE**
 > Info
 
-> [!question] Question Callout
+> [!question] Question Callout **BOLD NOTE**
 > Info
 
-> [!warning] Warning Callout
+> [!warning] Warning Callout **BOLD NOTE**
 > Info
 
-> [!failure] Failure Callout
+> [!failure] Failure Callout **BOLD NOTE**
 > Info
 
-> [!danger] Danger Callout
+> [!danger] Danger Callout **BOLD NOTE**
 > Info
 
-> [!bug] Bug Callout
+> [!bug] Bug Callout **BOLD NOTE**
 > Info
 
-> [!example] Example Callout
+> [!example] Example Callout **BOLD NOTE**
 > Info
 
-> [!quote] Quote Callout
+> [!quote] Quote Callout **BOLD NOTE**
 > Info
 
-> [!charakter] Charakter
+> [!charakter] Charakter **BOLD NOTE**
 > test
 
-> [!charakterklasse] Charakterklasse
+> [!charakterklasse] Charakterklasse **BOLD NOTE**
 > test
 
-> [!inspiration] Inspiration
+> [!inspiration] Inspiration **BOLD NOTE**
 > test
 
-> [!liste] Liste
+> [!liste] Liste **BOLD NOTE**
 > test
 
-> [!lore] Lore
+> [!lore] Lore **BOLD NOTE**
+> test Ist das **Highlight weiß???**
+
+> [!quest] Quest **BOLD NOTE**
 > test
 
-> [!quest] Quest
-> test
-
-> [!sessionnote] Sessionnote
+> [!sessionnote] Sessionnote **BOLD NOTE**
 > test
 
 ### Dataview
