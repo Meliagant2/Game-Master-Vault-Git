@@ -17,7 +17,7 @@
    .theme-light {
 	--highlight-charakter: #500073;
 	--highlight-hell: #0a3b00;
-	--highlight-kuehl: #32ffc8;
+	--highlight-kuehl: #00E6DB;
 	--highlight-neutral: #292929;
 	--highlight-p: #000000; 
 	--highlight-primary: #AD4118;
@@ -41,10 +41,10 @@
 	--custom-background-table-header: #474646;
   }
 
-  /* -----Farb-Variablen für Dark Mode----- */
+  /* ----------------------------------------Farb-Variablen für Dark Mode---------------------------------------- */
 
   .theme-dark {
-
+	--highlight-kuehl: #32ffc8;
   }
 
   /* -----Blocksatz Reading Mode----- */
