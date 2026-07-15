@@ -660,9 +660,10 @@
 
   /* -----Callout: Inspiration-----*/
   .callout[data-callout="inspiration"] {
-	--callout-icon: webhook;
-	--callout-color: var(--highlight-kuehl); /* -----100, 190, 150-----*/
-	--highlight: var(--highlight-neutral); /* -----var(--highlight-kuehl)-----*/
+	/*--callout-icon: webhook;*/
+	--callout-icon: none;
+	--callout-color: var(--highlight-kuehl) !important; /* -----100, 190, 150-----*/
+	--highlight: var(--highlight-kuehl); 
 	--background: var(--custom-background-neutral);
 	padding-left: 25px !important;
 	padding-right: 25px !important;
