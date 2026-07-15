@@ -55,8 +55,8 @@
 	  & > strong,
 	  & > b,
 	  & > hr {
-		  color: var(--highlight);
-		  stroke: var(--highlight);
+		  color: var(--highlight) !important;
+		  stroke: var(--highlight) !important;
 	  }
 		
 		& > :first-child {
@@ -77,8 +77,8 @@
 	  & >  .callout-title-inner strong,
 	  & >  .callout-icon svg,
 	  & >  .callout-fold svg {
-		  color: var(--highlight);
-		  stroke: var(--highlight);
+		  color: var(--highlight) !important;
+		  stroke: var(--highlight) !important;
 	  }
 
   /* ===============================================================================================================================================
