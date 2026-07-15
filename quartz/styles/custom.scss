@@ -695,7 +695,7 @@
   /* ----------------------------------------Callout: Lore---------------------------------------- */
   .callout[data-callout="lore"] {
 	--callout-icon: var(--callout-icon-book);
-	--callout-color: #5FDFFF; 
+	--callout-color: #FFFFFF; /* #5FDFFF  */
 	--highlight: var(--highlight-neutral);
 	--background: var(--custom-background-kuehl);
 	padding-left: 25px !important;
