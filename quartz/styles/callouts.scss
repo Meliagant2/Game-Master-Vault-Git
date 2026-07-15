@@ -1,23 +1,34 @@
 @use "./variables.scss" as *;
 @use "sass:color";
 
-  .callout {
-
   /* ===============================================================================================================================================
      								CALLOUT ALLGEMEINE PARAMETER 
      =============================================================================================================================================== */
 
-	border: 2px solid var(--highlight); 			
-	border-radius: 15px; 					
-	background-color: var(--background); 			
-	padding-left: 25px; 					/* X Muss evtl nicht in px sondern in rem angegeben werden */
-	padding-right: 25px; 					/* X Muss evtl nicht in px sondern in rem angegeben werden */
-	padding-top: 0px;
-	mix-blend-mode: normal; 				
-	/*overflow-y: hidden;					 ? */
-	/*box-sizing: border-box;					 ? */
+  /* ----------------------------------------Callout: Allgemein---------------------------------------- */
+
+  .callout-content {
+	font-size: 1em;
+  }
+
+  .callout-content p:first-child {
+	margin-top: 5px;
+  }
+
+  .callout-content p:last-child {
+	margin-bottom: 5px;
+  }
+
+  .callout {
+	border: 2px solid var(--highlight) !important;
+	border-radius: 15px !important;
+	background-color: var(--background) !important;
+	mix-blend-mode: normal !important;
+	padding-left: 25px;
+	padding-right: 25px;	
 
 	/* ----------------------------------------Custom Icons für Quartz---------------------------------------- */
+	
   	--callout-icon-book: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-book-icon lucide-book"><path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H19a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H6.5a1 1 0 0 1 0-5H20"/></svg>');
 	--callout-icon-list: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="8" y="2" width="8" height="4" rx="1" ry="1"></rect><path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"></path><path d="M12 11h4"></path><path d="M12 16h4"></path><path d="M8 11h.01"></path><path d="M8 16h.01"></path></svg>');
   	--callout-icon-person: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-user-round-icon lucide-user-round"><circle cx="12" cy="8" r="5"/><path d="M20 21a8 8 0 0 0-16 0"/></svg>'); 
@@ -40,623 +51,24 @@
 	--callout-icon-example: url('data:image/svg+xml; utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="8" y1="6" x2="21" y2="6"></line><line x1="8" y1="12" x2="21" y2="12"></line><line x1="8" y1="18" x2="21" y2="18"></line><line x1="3" y1="6" x2="3.01" y2="6"></line><line x1="3" y1="12" x2="3.01" y2="12"></line><line x1="3" y1="18" x2="3.01" y2="18"></line></svg> ');
 	--callout-icon-quote: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 21c3 0 7-1 7-8V5c0-1.25-.756-2.017-2-2H4c-1.25 0-2 .75-2 1.972V11c0 1.25.75 2 2 2 1 0 1 0 1 1v1c0 1-1 2-2 2s-1 .008-1 1.031V20c0 1 0 1 1 1z"></path><path d="M15 21c3 0 7-1 7-8V5c0-1.25-.757-2.017-2-2h-4c-1.25 0-2 .75-2 1.972V11c0 1.25.75 2 2 2h.75c0 2.25.25 4-2.75 4v3c0 1 0 1 1 1z"></path></svg>');
 	--callout-icon-fold: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"%3E%3Cpolyline points="6 9 12 15 18 9"%3E%3C/polyline%3E%3C/svg%3E');
-
-
-  	/*--callout-icon-XXX: url('data:image/svg+xml; utf8, <svg> </svg>');  */
-  	/*--callout-icon-XXX: url('data:image/svg+xml; utf8, <svg> </svg>');  */
-  	/*--callout-icon-XXX: url('data:image/svg+xml; utf8, <svg> </svg>');  */
-  	/*--callout-icon-XXX: url('data:image/svg+xml; utf8, <svg> </svg>');  */
-
-
-	  /* ----------------------------------------Callout: Allgemein---------------------------------------- */
-	& > .callout-content {
-		font-size: 1em;
-
-	  & > em,
-	  & > strong,
-	  & > b,
-	  & > hr {
-		  color: var(--highlight) !important;
-		  stroke: var(--highlight) !important;
-	  }
-		
-		& > :first-child {
-			margin-top: 5px;
-		}
-
-		& > :last-child {
-			margin-bottom: 0;
-		}
-		
-	}
-	  
-
-
-
-	  
-
-	  & >  .callout-title-inner strong,
-	  & >  .callout-icon svg,
-	  & >  .callout-fold svg {
-		  color: var(--highlight) !important;
-		  stroke: var(--highlight) !important;
-	  }
-
-  /* ===============================================================================================================================================
-     								CALLOUTS: OBSIDIAN INTEGRIERT  
-     =============================================================================================================================================== */
-
-	/* ----------------------------------------Callout: Unbekannt---------------------------------------- */
-	&[data-callout] {
-		--color: #448aff;
-		--border: #448aff44;
-		--bg: #448aff10;
-		--callout-icon: var(--callout-icon-note);
-  	}
-
-	/* ----------------------------------------Callout: Abstract---------------------------------------- */
-  	&[data-callout="abstract"] {
-		--color: 43, 112, 0; 
-		--highlight: var(--highlight-hell);
-		--background: var(--custom-background-hell);
-		--callout-icon: var(--callout-icon-abstract);
-  	}
-
-	/* ----------------------------------------Callout: Info---------------------------------------- */
-	&[data-callout="info"] {
-		--color: var(--highlight-neutral); 
-		--highlight: var(--highlight-neutral);
-		--background: var(--custom-background-neutral);
-		--callout-icon: var(--callout-icon-info);
-	}
-
-	/* ----------------------------------------Callout: Note---------------------------------------- */
-	&[data-callout="note"] {
-		--callout-icon: var(--callout-icon-book);
-		--callout-color: 95, 223, 255; 
-		--highlight: var(--highlight-kuehl);
-		--background: var(--custom-background-kuehl);
-	}
-
-  	/* ----------------------------------------Callout: Todo---------------------------------------- */
-	&[data-callout="todo"] {
-		--callout-color: var(--highlight-neutral); 
-		--highlight: var(--highlight-neutral);
-		--background: var(--custom-background-neutral);
-		--callout-icon: var(--callout-icon-todo);
-	}
-
-	/* ----------------------------------------Callout: Tip---------------------------------------- */
-	&[data-callout="tip"] {
-		--color: #00bfa5;
-		--border: #00bfa544;
-		--bg: #00bfa510;
-		--callout-icon: var(--callout-icon-tip);
-	}
-
-	/* ----------------------------------------Callout: Success---------------------------------------- */
-	&[data-callout="success"] {
-		--color: #09ad7a;
-		--border: #09ad7144;
-		--bg: #09ad7110;
-		--callout-icon: var(--callout-icon-success);
-	}
-
-	/* ----------------------------------------Callout: Question---------------------------------------- */
-	&[data-callout="question"] {
-		--color: #dba642;
-		--border: #dba64244;
-		--bg: #dba64210;
-		--callout-icon: var(--callout-icon-question);
-	}
-
-	/* ----------------------------------------Callout: Warning, Failure, Danger, Bug---------------------------------------- */
-	&[data-callout="warning"] {
-		--color: #db8942;
-		--border: #db894244;
-		--bg: #db894210;
-		--callout-icon: var(--callout-icon-warning);
-	}
-
-	&[data-callout="failure"],
-	&[data-callout="danger"],
-	&[data-callout="bug"] {
-		--color: #db4242;
-		--border: #db424244;
-		--bg: #db424210;
-		--callout-icon: var(--callout-icon-failure);
-	}
-
-	&[data-callout="bug"] {
-		--callout-icon: var(--callout-icon-bug);
-	}
-
-	&[data-callout="danger"] {
-		--callout-icon: var(--callout-icon-danger);
-	}
-
-	/* ----------------------------------------Callout: Example---------------------------------------- */
-	&[data-callout="example"] {
-		--color: #7a43b5;
-		--border: #7a43b544;
-		--bg: #7a43b510;
-		--callout-icon: var(--callout-icon-example);
-	}
-
-	/* ----------------------------------------Callout: Quote---------------------------------------- */
-	&[data-callout="quote"] {
-		--color: var(--secondary);
-		--border: var(--lightgray);
-		--callout-icon: var(--callout-icon-quote);
-	}
-
-	/* ----------------------------------------Callout: Collapsed---------------------------------------- */
-	&.is-collapsed {
-		& > .callout-title > .fold-callout-icon {
-			transform: rotateZ(-90deg);
-		}
-
-		.callout-content {
-			& > * {
-				transition:
-			  	  height 0.1s cubic-bezier(0.02, 0.01, 0.47, 1),
-				  margin 0.1s cubic-bezier(0.02, 0.01, 0.47, 1),
-				  padding 0.1s cubic-bezier(0.02, 0.01, 0.47, 1);
-				overflow-y: clip;
-				height: 0;
-				margin-bottom: 0;
-				margin-top: 0;
-				padding-bottom: 0;
-				padding-top: 0;
-			}
-      			& > :first-child {
-        			margin-top: -1rem;
-      			}
-    		}
-  	}
-
-  /* ===============================================================================================================================================
-     								CALLOUTS: CUSTOM 
-     =============================================================================================================================================== */
-
-	/* ----------------------------------------Callout: Bildrechts---------------------------------------- */
-	&[data-callout="bildrechts"] {
-		--callout-color: transparent;
-		--background: transparent;
-		--highlight: var(--highlight-neutral);
-		--callout-icon: none !important;
-		padding-left: 0px !important;  
-		padding-right: 0px !important;
-		padding-top: 0px !important;
-		padding-bottom: 0px !important;
-		mix-blend-mode: normal !important;
-		width: auto;
-		max-width: 300px;
-		float: right; /* Floats the callout box to the right */
-		margin-left: 10px; /* Adds space between the callout box and the text OUTSIDE the box */
-		margin-top: 0;
-	}
-
-	&[data-callout="bildrechts"] > .callout-title {
-		justify-content: center;
-		align-items: center;
-		align-self: center;
-	}
-
-	&[data-callout="bildrechts"] > .callout-title > .callout-icon {
-		align-self: center;
-	}
-
-	&[data-callout="bildrechts"]:not(.is-collapsed) > .callout-title {
-		padding: 0;
-	}
-
-	&[data-callout="bildrechts"] > .callout-title .callout-title-inner {
-		display: none;
-	}
-
- 	/* ----------------------------------------Callout: Cards---------------------------------------- */
-	&[data-callout~=cards] {
-		--callout-color: transparent;
-		--callout-padding: 0;
-		--callout-content-padding: 0px;
-		--callout-blend-mode: normal;
-		--callout-cards-columns: 3;
-		border: 0;
-		width: auto;
-	}
-
-	&[data-callout~=cards] > .callout-title {
-		display: none;
-	}
 	
-	&[data-callout~=cards] > .callout-content {
-		display: grid;
-		grid-template-columns: repeat(3, 1fr);
-		grid-gap: 5px;
-		border-radius: 0;
-		padding-inline-start: 0px;
-		padding: 0;
-	}
-
-	&[data-callout~=cards] p {
-		margin-block-start: 0;
-		margin-block-end: 0;
-		padding: 0;
-	}
-
-	&[data-callout~=cards] br {
-		display: none;
-	}
-
-	&[data-callout~=cards]:not([data-callout-metadata~=nstr],
-	[data-callout-metadata~=no-strong]) strong {
-		display: block;
-		text-align: center;
-		margin: auto;
-		background-color: var(--outer-bar, var(--background-secondary));
-	}
-
-	&[data-callout~=cards][data-callout-metadata~=flex] > .callout-content, 
-	&[data-callout~=cards][data-callout-metadata~=flex] .dataview.table-view-table tbody {
-		gap: unset;
-		grid-template-columns: none;
-		display: flex;
-		flex-direction: row;
-		flex-wrap: wrap;
-	}
-
-	&[data-callout~=cards][data-callout-metadata~=flex] > .callout-content .callout, 
-	&[data-callout~=cards][data-callout-metadata~=flex] .dataview.table-view-table tbody .callout {
-	flex: 1 1 250px;
-		margin: 5px;
-	}
-
-	&[data-callout~=cards][data-callout-metadata~=dataview] {
-		--callout-content-padding: 0;
-	}
-
-	&[data-callout~=cards][data-callout-metadata~=dataview] .callout-content {
-		display: unset;
-		grid-template-columns: unset;
-	}
-
-  	&[data-callout~=cards][data-callout-metadata~=dataview] br {
-		display: block;
-  	}
-
-  	&[data-callout~=cards][data-callout-metadata~=dataview] .block-language-dataview {
-		padding: 5px;
-  	}
-
-  	&[data-callout~=cards][data-callout-metadata~=dataview] .dataview.table-view-table {
-		display: grid;
-		margin-block-start: 0;
-		border-bottom: 0px solid var(--highlight-neutral) !important;
-		border-top: 0px solid var(--highlight-neutral) !important;
-  	}
-
-  	&[data-callout~=cards][data-callout-metadata~=dataview] .dataview.table-view-table :is(td, tr) {
-		border: 0;
-		background: transparent;
-		padding: 0;
-  	}
-
-  	&[data-callout~=cards][data-callout-metadata~=dataview] .dataview.table-view-table strong {
-		background: transparent;
-  	}
-
-  	&[data-callout~=cards][data-callout-metadata~=dataview] .table-view-thead th {
-		border: 0;
-		background-color: transparent;
-  	}
-
-  	&[data-callout~=cards][data-callout-metadata~=dataview] .table-view-thead tr {
-		display: none;
-  	}
-
-  	&[data-callout~=cards][data-callout-metadata~=dataview] .dataview.table-view-table tbody {
-		display: grid;
-		grid-template-columns: repeat(3, 1fr);
-		grid-gap: 10px;
-  	}
-
-  	&[data-callout~=cards][data-callout-metadata~=dataview] .dataview.table-view-table tbody tr:nth-child(even),
-  	&[data-callout~=cards][data-callout-metadata~=dataview] .dataview.table-view-table tbody tr:nth-child(odd) {
-		background-color: var(--custom-background-neutral2) !important;
-  	}
-
-  	&[data-callout~=cards][data-callout-metadata~=dataview] .dataview.table-view-table tbody tr {
-		display: grid;
-		align-content: flex-start;
-		margin: 0;
-		padding: 0px;
-		border: 1px solid var(--outline, var(--background-modifier-box-shadow));
-		box-shadow: var(--shadow-ml, var(--input-shadow));
-		border-radius: 15px !important;
-  	}
-
-	&[data-callout~=cards][data-callout-metadata~=dataview] img:not(.link-favicon) {
-		width: 100%;
-		object-fit: cover;
-  	}
-
-  	&[data-callout~=cards][data-callout-metadata~=dataview] img {
-	border-radius: 15px !important;
-  	}
-
-  	&[data-callout~=cards][data-callout-metadata~=dataview][data-callout-metadata~=img-micro] img {
-		height: var(--micro);
-  	}
-
-  	&[data-callout~=cards][data-callout-metadata~=dataview][data-callout-metadata~=img-tiny] img {
-		height: var(--tiny);
-  	}
-
-  	&[data-callout~=cards][data-callout-metadata~=dataview][data-callout-metadata~=img-small] img {
-		height: var(--small);
-  	}
-
-  	&[data-callout~=cards][data-callout-metadata~=dataview][data-callout-metadata~=img-small-med] img {
-		height: var(--small-med);
-  	}
-
-  	&[data-callout~=cards][data-callout-metadata~=dataview][data-callout-metadata~=img-med-small] img {
-		height: var(--med-small);
-  	}
-
-  	&[data-callout~=cards][data-callout-metadata~=dataview][data-callout-metadata~=img-medium] img {
-		height: var(--medium);
-  	}
-
-  	&[data-callout~=cards][data-callout-metadata~=dataview][data-callout-metadata~=img-med-tall] img {
-		height: var(--med-tall);
-  	}
-
-  	&[data-callout~=cards][data-callout-metadata~=dataview][data-callout-metadata~=img-tall] img {
-		height: var(--tall);
-  	}
-
-  	&[data-callout~=cards][data-callout-metadata~=dvl] .callout-content {
-		display: block;
-  	}
-
-  	&[data-callout~=cards][data-callout-metadata~=dvl] br {
-		display: unset;
-  	}
-
-  	&[data-callout~=cards][data-callout-metadata~=dvl] .block-language-dataviewjs .dataview-result-list-li, 
-  	&[data-callout~=cards][data-callout-metadata~=dvl] .list-view-ul li {
-		padding: 10px;
-		background-color: var(--outer-bar, var(--background-secondary));
-		box-shadow: var(--shadow-s, var(--input-shadow));
-		margin-bottom: 5px;
-  	}
-
-  	&[data-callout~=cards][data-callout-metadata~=dvl] .dataview.list-view-ul li::before {
-		margin-left: -25px;
-  	}
-
-  	&[data-callout~=cards][data-callout-metadata~=dvl] ul {
-		padding-inline-start: unset;
-  	}
-
-  	&[data-callout~=cards][data-callout-metadata~="1"] :is(.dataview.dataview.table-view-table tbody,
-  	.callout-content.callout-content) {
-		grid-template-columns: repeat(1, 1fr);
-  	}
-
-  	&[data-callout~=cards][data-callout-metadata~="2"] :is(.dataview.dataview.table-view-table tbody,
-  	.callout-content.callout-content) {
-		grid-template-columns: repeat(2, 1fr);
-  	}
-
-  	&[data-callout~=cards][data-callout-metadata~="3"] :is(.dataview.dataview.table-view-table tbody,
-  	.callout-content.callout-content) {
-		grid-template-columns: repeat(3, 1fr);
-  	}
-
-  	&[data-callout~=cards][data-callout-metadata~="4"] :is(.dataview.dataview.table-view-table tbody,
-  	.callout-content.callout-content) {
-		grid-template-columns: repeat(4, 1fr);
-  	}
-
-  	&[data-callout~=cards][data-callout-metadata~="5"] :is(.dataview.dataview.table-view-table tbody,
-  	.callout-content.callout-content) {
-		grid-template-columns: repeat(5, 1fr);
-  	}
-
-  	&[data-callout~=cards][data-callout-metadata~="6"] :is(.dataview.dataview.table-view-table tbody,
-  	.callout-content.callout-content) {
-		grid-template-columns: repeat(6, 1fr);
-  	}
-
-  	&[data-callout~=cards][data-callout-metadata~="7"] :is(.dataview.dataview.table-view-table tbody,
-  	.callout-content.callout-content) {
-		grid-template-columns: repeat(7, 1fr);
-  	}
-
-  	&[data-callout~=cards][data-callout-metadata~="8"] :is(.dataview.dataview.table-view-table tbody,
-  	.callout-content.callout-content) {
-		grid-template-columns: repeat(8, 1fr);
-  	}
-
-  	&[data-callout~=cards][data-callout-metadata~="9"] :is(.dataview.dataview.table-view-table tbody,
-  	.callout-content.callout-content) {
-		grid-template-columns: repeat(9, 1fr);
-  	}
-
-  	/* ----------------------------------------Callout: Charakter---------------------------------------- */
-  	&[data-callout="charakter"] {
-		--callout-icon: var(--callout-icon-person);
-		--color: var(--highlight-charakter);
-		--highlight: var(--highlight-charakter);
-		--background: var(--custom-background-charakter);
-  	}
-
-  	&[data-callout="charakter"] table th {
-		text-align: center !important;
-		color: var(--highlight-charakter) !important;
-	}
-
-	&[data-callout="charakter"] table td {
-		text-align: center;
-		vertical-align: middle;
-  	}
-
-  	/* ----------------------------------------Callout: Charakterklasse---------------------------------------- */
-  	&[data-callout="charakterklasse"] {
-		--callout-icon: var(--callout-icon-personcircle);
-		--color: var(--highlight-charakter);
-		--highlight: var(--highlight-charakter);
-		--background: var(--custom-background-hell);
+  	/*--callout-icon-XXX: url('data:image/svg+xml; utf8, <svg> </svg>');  */
+  	/*--callout-icon-XXX: url('data:image/svg+xml; utf8, <svg> </svg>');  */
+  	/*--callout-icon-XXX: url('data:image/svg+xml; utf8, <svg> </svg>');  */
+  	/*--callout-icon-XXX: url('data:image/svg+xml; utf8, <svg> </svg>');  */
   }
 
-  	/* ----------------------------------------Callout: Inspiration---------------------------------------- */
-  	&[data-callout="inspiration"] {
-		--callout-icon: var(--callout-icon-webhook);
-		--color: var(--highlight-kuehl);
-		--highlight: var(--highlight-kuehl);
-		--background: var(--custom-background-neutral);
-  	}
-
-  	&[data-callout="inspiration"] > .callout-title {
-		justify-content: center;
-		align-items: center;
-		align-self: center;
-	}
-
-  	/* ----------------------------------------Callout: Liste---------------------------------------- */
-  	&[data-callout="liste"] {
-		--callout-icon: var(--callout-icon-list);
-		--color: var(--highlight-hell);
-		--highlight: var(--highlight-hell);
-		--background: var(--custom-background-hell);
-  	}
-
-  	/* ----------------------------------------Callout: Lore---------------------------------------- */
-  	&[data-callout="lore"] {
-		--callout-icon: var(--callout-icon-book);
-		--color: var(--highlight-kuehl); /* #5FDFFF  */
-		--highlight: var(--highlight-kuehl);
-		--background: var(--custom-background-kuehl);
-  	}
-
-	/* ----------------------------------------Callout: Quest---------------------------------------- */
-	&[data-callout="quest"] {
-		--callout-icon: var(--callout-icon-scroll);
-		--color: var(--highlight-primary);
-		--highlight: var(--highlight-primary);
-		--background: var(--custom-background-signal);
-	}
-
-	/* ----------------------------------------Callout: Sessionnote---------------------------------------- */
-	&[data-callout="sessionnote"] {
-		--callout-icon: var(--callout-icon-scrolltext);
-		--color: var(--highlight-neutral); 
-		--highlight: var(--highlight-neutral);
-		--background: var(--custom-background-neutral);
-	}
-
-	/* ----------------------------------------Callout: Wikibox---------------------------------------- */
-	&[data-callout="wikibox"] {
-		--color: var(--custom-background-primary);
-		--background: var(--custom-background-doc2);
-		--highlight: var(--highlight-neutral);
-		--callout-icon: none !important;
-		padding-left: 0px !important;  
-		padding-right: 0px !important;
-		padding-top: 0px !important;
-		padding-bottom: 0px !important;
-		mix-blend-mode: normal !important;
-		width: auto;
-		max-width: 300px;
-		float: right; /* Floats the callout box to the right */
-		margin-left: 10px; /* Adds space between the callout box and the text OUTSIDE the box */
-	}
-
-	&[data-callout="wikibox"] > .callout-title {
-		justify-content: center;
-		align-items: center;
-		align-self: center;
-	}
-
-	&[data-callout="wikibox"] > .callout-title > .callout-icon {
-		align-self: center;
-	}
-
-	&[data-callout="wikibox"]:not(.is-collapsed) > .callout-title {
-		padding: 0;
-	}
-	
-	&[data-callout="wikibox"] > .callout-title .callout-title-inner {
-		display: none;
-	}
-
-	&[data-callout="wikibox"] h1 {
-		margin-top: 0 !important;
-		margin-bottom: 0 !important;
-		border-bottom: 2px solid var(--highlight-wikibox) !important;
-		text-align: center !important;
-		color: var(--highlight-primary) !important;
-	}
-
-
+  .callout .callout-content em,
+  .callout .callout-title-inner strong,
+  .callout .callout-title-inner,
+  .callout .callout-content strong,
+  .callout .callout-content b,
+  .callout .callout-content hr,
+  .callout .callout-icon svg,
+  .callout .callout-fold svg {
+	color: var(--highlight) !important;
+	stroke: var(--highlight) !important;
   }
-
-
-
-
-
-
-  .callout-title {
-	display: flex;
-	align-items: flex-start;
-	gap: 1px;			/* Geändert, weil probably mein Problem mit Top Space (vorher 5) */
-	padding: 1rem 0;
-	color: var(--color);
-
-	--icon-size: 18px;
-
-	& .fold-callout-icon {
-		transition: transform 0.15s ease;
-		opacity: 0.8;
-		cursor: pointer;
-		--callout-icon: var(--callout-icon-fold);
-	}
-
-	& > .callout-title-inner > p {
-		color: var(--color);
-		margin: 0;
-	}
-
-	.callout-icon,
-	& .fold-callout-icon {
-		width: var(--icon-size);
-		height: var(--icon-size);
-		flex: 0 0 var(--icon-size);
-
-		// icon support
-		background-size: var(--icon-size) var(--icon-size);
-		background-position: center;
-		background-color: var(--color);
-		mask-image: var(--callout-icon);
-		mask-size: var(--icon-size) var(--icon-size);
-		mask-position: center;
-		mask-repeat: no-repeat;
-		padding: 0.2rem 0;
-	}
-
-	.callout-title-inner {
-		font-weight: $semiBoldWeight;
-	}
-  }
-
-
-
-
-
-
 
   /* ----------------------------------------Callout: Tabellen---------------------------------------- */
   .callout table {
@@ -685,7 +97,546 @@
 	padding-bottom: 5px !important;
   }
 
- /* ===============================================================================================================================================
+  /* ===============================================================================================================================================
+     								CALLOUTS: OBSIDIAN INTEGRIERT  
+     =============================================================================================================================================== */
+
+
+  /* ----------------------------------------Callout: Unbekannt---------------------------------------- */
+  .callout[data-callout] {
+	--color: #448aff;
+	--border: #448aff44;
+	--bg: #448aff10;
+	--callout-icon: var(--callout-icon-note);
+    }
+
+  /* ----------------------------------------Callout: Abstract---------------------------------------- */
+  .callout[data-callout="abstract"] {
+	--color: 43, 112, 0; 
+	--highlight: var(--highlight-hell);
+	--background: var(--custom-background-hell);
+	--callout-icon: var(--callout-icon-abstract);
+  }
+
+  /* ----------------------------------------Callout: Info---------------------------------------- */
+  .callout[data-callout="info"] {
+	--color: var(--highlight-neutral); 
+	--highlight: var(--highlight-neutral);
+	--background: var(--custom-background-neutral);
+	--callout-icon: var(--callout-icon-info);
+  }
+
+  /* ----------------------------------------Callout: Note---------------------------------------- */
+  .callout[data-callout="note"] {
+	--callout-icon: var(--callout-icon-book);
+	--callout-color: 95, 223, 255; 
+	--highlight: var(--highlight-kuehl);
+	--background: var(--custom-background-kuehl);
+  }
+
+  /* ----------------------------------------Callout: Todo---------------------------------------- */
+  .callout[data-callout="todo"] {
+	--callout-color: var(--highlight-neutral); 
+	--highlight: var(--highlight-neutral);
+	--background: var(--custom-background-neutral);
+	--callout-icon: var(--callout-icon-todo);
+  }
+
+  /* ----------------------------------------Callout: Tip---------------------------------------- */
+  .callout[data-callout="tip"] {
+	--color: #00bfa5;
+	--border: #00bfa544;
+	--bg: #00bfa510;
+	--callout-icon: var(--callout-icon-tip);
+  }
+
+  /* ----------------------------------------Callout: Success---------------------------------------- */
+  .callout[data-callout="success"] {
+	--color: #09ad7a;
+	--border: #09ad7144;
+	--bg: #09ad7110;
+	--callout-icon: var(--callout-icon-success);
+  }
+
+  /* ----------------------------------------Callout: Question---------------------------------------- */
+  .callout[data-callout="question"] {
+	--color: #dba642;
+	--border: #dba64244;
+	--bg: #dba64210;
+	--callout-icon: var(--callout-icon-question);
+  }
+
+  /* ----------------------------------------Callout: Warning, Failure, Danger, Bug---------------------------------------- */
+  .callout[data-callout="warning"] {
+	--color: #db8942;
+	--border: #db894244;
+	--bg: #db894210;
+	--callout-icon: var(--callout-icon-warning);
+  }
+
+  .callout[data-callout="failure"],
+  .callout[data-callout="danger"],
+  .callout[data-callout="bug"] {
+	--color: #db4242;
+	--border: #db424244;
+	--bg: #db424210;
+	--callout-icon: var(--callout-icon-failure);
+  }
+
+  .callout[data-callout="bug"] {
+	--callout-icon: var(--callout-icon-bug);
+  }
+
+  .callout[data-callout="danger"] {
+	--callout-icon: var(--callout-icon-danger);
+  }
+
+  /* ----------------------------------------Callout: Example---------------------------------------- */
+  .callout[data-callout="example"] {
+	--color: #7a43b5;
+	--border: #7a43b544;
+	--bg: #7a43b510;
+	--callout-icon: var(--callout-icon-example);
+  }
+
+  /* ----------------------------------------Callout: Quote---------------------------------------- */
+  .callout[data-callout="quote"] {
+	--color: var(--secondary);
+	--border: var(--lightgray);
+	--callout-icon: var(--callout-icon-quote);
+  }
+
+  /* ----------------------------------------Callout: Collapsed---------------------------------------- */
+  .callout .is-collapsed {
+	& > .callout-title > .fold-callout-icon {
+		transform: rotateZ(-90deg);
+	}
+
+	.callout-content {
+		& > * {
+			transition:
+			  height 0.1s cubic-bezier(0.02, 0.01, 0.47, 1),
+			  margin 0.1s cubic-bezier(0.02, 0.01, 0.47, 1),
+			  padding 0.1s cubic-bezier(0.02, 0.01, 0.47, 1);
+			overflow-y: clip;
+			height: 0;
+			margin-bottom: 0;
+			margin-top: 0;
+			padding-bottom: 0;
+			padding-top: 0;
+		}
+      		& > :first-child {
+       			margin-top: -1rem;
+      		}
+    	}
+  }
+
+  /* ===============================================================================================================================================
+     								CALLOUTS: CUSTOM 
+     =============================================================================================================================================== */
+
+  /* ----------------------------------------Callout: Bildrechts---------------------------------------- */
+  .callout[data-callout="bildrechts"] {
+	--callout-color: transparent;
+	--background: transparent;
+	--highlight: var(--highlight-neutral);
+	--callout-icon: none !important;
+	padding-left: 0px !important;  
+	padding-right: 0px !important;
+	padding-top: 0px !important;
+	padding-bottom: 0px !important;
+	mix-blend-mode: normal !important;
+	width: auto;
+	max-width: 300px;
+	float: right; /* Floats the callout box to the right */
+	margin-left: 10px; /* Adds space between the callout box and the text OUTSIDE the box */
+	margin-top: 0;
+  }
+
+  .callout[data-callout="bildrechts"] > .callout-title {
+	justify-content: center;
+	align-items: center;
+	align-self: center;
+  }
+
+  .callout[data-callout="bildrechts"] > .callout-title > .callout-icon {
+	align-self: center;
+  }
+
+  .callout[data-callout="bildrechts"]:not(.is-collapsed) > .callout-title {
+	padding: 0;
+  }
+
+  .callout[data-callout="bildrechts"] > .callout-title .callout-title-inner {
+	display: none;
+  }
+
+  /* ----------------------------------------Callout: Cards---------------------------------------- */
+  .callout[data-callout~=cards] {
+	--callout-color: transparent;
+	--callout-padding: 0;
+	--callout-content-padding: 0px;
+	--callout-blend-mode: normal;
+	--callout-cards-columns: 3;
+	border: 0;
+	width: auto;
+	padding-left: 0px !important;
+	padding-right: 0px !important;	
+  }
+
+  .callout[data-callout~=cards] > .callout-title {
+	display: none;
+  }
+
+  .callout[data-callout~=cards] > .callout-content {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-gap: 5px;
+	border-radius: 0;
+	padding-inline-start: 0px;
+	padding: 0;
+  }
+
+  .callout[data-callout~=cards] p {
+	margin-block-start: 0;
+	margin-block-end: 0;
+	padding: 0;
+  }
+
+  .callout[data-callout~=cards] br {
+	display: none;
+  }
+
+  .callout[data-callout~=cards]:not([data-callout-metadata~=nstr],
+  [data-callout-metadata~=no-strong]) strong {
+	display: block;
+	text-align: center;
+	margin: auto;
+	background-color: var(--outer-bar, var(--background-secondary));
+  }
+
+  .callout[data-callout~=cards][data-callout-metadata~=flex] > .callout-content, 
+  .callout[data-callout~=cards][data-callout-metadata~=flex] .dataview.table-view-table tbody {
+	gap: unset;
+	grid-template-columns: none;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+  }
+
+  .callout[data-callout~=cards][data-callout-metadata~=flex] > .callout-content .callout, 
+  .callout[data-callout~=cards][data-callout-metadata~=flex] .dataview.table-view-table tbody .callout {
+	flex: 1 1 250px;
+	margin: 5px;
+  }
+
+  .callout[data-callout~=cards][data-callout-metadata~=dataview] {
+	--callout-content-padding: 0;
+  }
+
+  .callout[data-callout~=cards][data-callout-metadata~=dataview] .callout-content {
+	display: unset;
+	grid-template-columns: unset;
+  }
+
+  .callout[data-callout~=cards][data-callout-metadata~=dataview] br {
+	display: block;
+  }
+
+  .callout[data-callout~=cards][data-callout-metadata~=dataview] .block-language-dataview {
+	padding: 5px;
+  }
+
+  .callout[data-callout~=cards][data-callout-metadata~=dataview] .dataview.table-view-table {
+	display: grid;
+	margin-block-start: 0;
+	border-bottom: 0px solid var(--highlight-neutral) !important;
+	border-top: 0px solid var(--highlight-neutral) !important;
+  }
+
+  .callout[data-callout~=cards][data-callout-metadata~=dataview] .dataview.table-view-table :is(td, tr) {
+	border: 0;
+	background: transparent;
+	padding: 0;
+  }
+
+  .callout[data-callout~=cards][data-callout-metadata~=dataview] .dataview.table-view-table strong {
+	background: transparent;
+  }
+
+  .callout[data-callout~=cards][data-callout-metadata~=dataview] .table-view-thead th {
+	border: 0;
+	background-color: transparent;
+  }
+
+  .callout[data-callout~=cards][data-callout-metadata~=dataview] .table-view-thead tr {
+	display: none;
+  }
+
+  .callout[data-callout~=cards][data-callout-metadata~=dataview] .dataview.table-view-table tbody {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-gap: 10px;
+  }
+
+  .callout[data-callout~=cards][data-callout-metadata~=dataview] .dataview.table-view-table tbody tr:nth-child(even),
+  .callout[data-callout~=cards][data-callout-metadata~=dataview] .dataview.table-view-table tbody tr:nth-child(odd) {
+	background-color: var(--custom-background-neutral2) !important;
+  }
+
+  .callout[data-callout~=cards][data-callout-metadata~=dataview] .dataview.table-view-table tbody tr {
+	display: grid;
+	align-content: flex-start;
+	margin: 0;
+	padding: 0px;
+	border: 1px solid var(--outline, var(--background-modifier-box-shadow));
+	box-shadow: var(--shadow-ml, var(--input-shadow));
+	border-radius: 15px !important;
+  }
+
+  .callout[data-callout~=cards][data-callout-metadata~=dataview] img:not(.link-favicon) {
+	width: 100%;
+	object-fit: cover;
+  }
+
+  .callout[data-callout~=cards][data-callout-metadata~=dataview] img {
+	border-radius: 15px !important;
+  }
+
+  .callout[data-callout~=cards][data-callout-metadata~=dataview][data-callout-metadata~=img-micro] img {
+	height: var(--micro);
+  }
+
+  .callout[data-callout~=cards][data-callout-metadata~=dataview][data-callout-metadata~=img-tiny] img {
+	height: var(--tiny);
+  }
+
+  .callout[data-callout~=cards][data-callout-metadata~=dataview][data-callout-metadata~=img-small] img {
+	height: var(--small);
+  }
+
+  .callout[data-callout~=cards][data-callout-metadata~=dataview][data-callout-metadata~=img-small-med] img {
+	height: var(--small-med);
+  }
+
+  .callout[data-callout~=cards][data-callout-metadata~=dataview][data-callout-metadata~=img-med-small] img {
+	height: var(--med-small);
+  }
+
+  .callout[data-callout~=cards][data-callout-metadata~=dataview][data-callout-metadata~=img-medium] img {
+	height: var(--medium);
+  }
+
+  .callout[data-callout~=cards][data-callout-metadata~=dataview][data-callout-metadata~=img-med-tall] img {
+	height: var(--med-tall);
+  }
+
+  .callout[data-callout~=cards][data-callout-metadata~=dataview][data-callout-metadata~=img-tall] img {
+	height: var(--tall);
+  }
+
+  .callout[data-callout~=cards][data-callout-metadata~=dvl] .callout-content {
+	display: block;
+  }
+
+  .callout[data-callout~=cards][data-callout-metadata~=dvl] br {
+	display: unset;
+  }
+
+  .callout[data-callout~=cards][data-callout-metadata~=dvl] .block-language-dataviewjs .dataview-result-list-li, 
+  .callout[data-callout~=cards][data-callout-metadata~=dvl] .list-view-ul li {
+	padding: 10px;
+	background-color: var(--outer-bar, var(--background-secondary));
+	box-shadow: var(--shadow-s, var(--input-shadow));
+	margin-bottom: 5px;
+  }
+
+  .callout[data-callout~=cards][data-callout-metadata~=dvl] .dataview.list-view-ul li::before {
+	margin-left: -25px;
+  }
+
+  .callout[data-callout~=cards][data-callout-metadata~=dvl] ul {
+	padding-inline-start: unset;
+  }
+
+  .callout[data-callout~=cards][data-callout-metadata~="1"] :is(.dataview.dataview.table-view-table tbody,
+  .callout-content.callout-content) {
+	grid-template-columns: repeat(1, 1fr);
+  }
+
+  .callout[data-callout~=cards][data-callout-metadata~="2"] :is(.dataview.dataview.table-view-table tbody,
+  .callout-content.callout-content) {
+	grid-template-columns: repeat(2, 1fr);
+  }
+
+  .callout[data-callout~=cards][data-callout-metadata~="3"] :is(.dataview.dataview.table-view-table tbody,
+  .callout-content.callout-content) {
+	grid-template-columns: repeat(3, 1fr);
+  }
+
+  .callout[data-callout~=cards][data-callout-metadata~="4"] :is(.dataview.dataview.table-view-table tbody,
+  .callout-content.callout-content) {
+	grid-template-columns: repeat(4, 1fr);
+  }
+
+  .callout[data-callout~=cards][data-callout-metadata~="5"] :is(.dataview.dataview.table-view-table tbody,
+  .callout-content.callout-content) {
+	grid-template-columns: repeat(5, 1fr);
+  }
+
+  .callout[data-callout~=cards][data-callout-metadata~="6"] :is(.dataview.dataview.table-view-table tbody,
+  .callout-content.callout-content) {
+	grid-template-columns: repeat(6, 1fr);
+  }
+
+  .callout[data-callout~=cards][data-callout-metadata~="7"] :is(.dataview.dataview.table-view-table tbody,
+  .callout-content.callout-content) {
+	grid-template-columns: repeat(7, 1fr);
+  }
+
+  .callout[data-callout~=cards][data-callout-metadata~="8"] :is(.dataview.dataview.table-view-table tbody,
+  .callout-content.callout-content) {
+	grid-template-columns: repeat(8, 1fr);
+  }
+
+  .callout[data-callout~=cards][data-callout-metadata~="9"] :is(.dataview.dataview.table-view-table tbody,
+  .callout-content.callout-content) {
+	grid-template-columns: repeat(9, 1fr);
+  }
+
+  /* ----------------------------------------Callout: Charakter---------------------------------------- */
+  .callout[data-callout="charakter"] {
+	--callout-icon: var(--callout-icon-person);
+	--color: var(--highlight-charakter);
+	--highlight: var(--highlight-charakter);
+	--background: var(--custom-background-charakter);
+  }
+
+  .callout[data-callout="charakter"] table th {
+	text-align: center !important;
+	color: var(--highlight-charakter) !important;
+  }
+
+  .callout[data-callout="charakter"] table td {
+	text-align: center;
+	vertical-align: middle;
+  }
+
+  /* ----------------------------------------Callout: Charakterklasse---------------------------------------- */
+  .callout[data-callout="charakterklasse"] {
+	--callout-icon: var(--callout-icon-personcircle);
+	--color: var(--highlight-charakter);
+	--highlight: var(--highlight-charakter);
+	--background: var(--custom-background-hell);
+  }
+
+  /* ----------------------------------------Callout: Inspiration---------------------------------------- */
+  .callout[data-callout="inspiration"] {
+	--callout-icon: var(--callout-icon-webhook);
+	--color: var(--highlight-kuehl);
+	--highlight: var(--highlight-kuehl);
+	--background: var(--custom-background-neutral);
+  }
+
+  .callout[data-callout="inspiration"] > .callout-title {
+	justify-content: center;
+	align-items: center;
+	align-self: center;
+  }
+
+  /* ----------------------------------------Callout: Liste---------------------------------------- */
+  .callout[data-callout="liste"] {
+	--callout-icon: var(--callout-icon-list);
+	--color: var(--highlight-hell);
+	--highlight: var(--highlight-hell);
+	--background: var(--custom-background-hell);
+  }
+
+  /* ----------------------------------------Callout: Lore---------------------------------------- */
+  .callout[data-callout="lore"] {
+	--callout-icon: var(--callout-icon-book);
+	--color: var(--highlight-kuehl);
+	--highlight: var(--highlight-kuehl);
+	--background: var(--custom-background-kuehl);
+  }
+
+  /* ----------------------------------------Callout: Metadata---------------------------------------- */
+  .callout[data-callout="metadata"] {
+	--callout-icon: text;
+	--color: var(--highlight-red);
+	--highlight: var(--highlight-red);
+	--background: var(--custom-background-red);
+  }
+
+  /* ----------------------------------------Callout: Metadataoption---------------------------------------- */
+  .callout[data-callout="metadataoption"] {
+	--callout-icon: list;
+	--color: var(--highlight-primary);
+	--highlight: var(--highlight-primary);
+	--background: var(--custom-background-primary);
+  }
+
+  /* ----------------------------------------Callout: Quest---------------------------------------- */
+  .callout[data-callout="quest"] {
+	--callout-icon: var(--callout-icon-scroll);
+	--color: var(--highlight-primary);
+	--highlight: var(--highlight-primary);
+	--background: var(--custom-background-signal);
+  }
+
+  /* ----------------------------------------Callout: Sessionnote---------------------------------------- */
+  .callout[data-callout="sessionnote"] {
+	--callout-icon: var(--callout-icon-scrolltext);
+	--color: var(--highlight-neutral); 
+	--highlight: var(--highlight-neutral);
+	--background: var(--custom-background-neutral);
+  }
+
+  /* ----------------------------------------Callout: Wikibox---------------------------------------- */
+  .callout[data-callout="wikibox"] {
+	--callout-color: var(--custom-background-primary);
+	--background: var(--custom-background-doc2);
+	--highlight: var(--highlight-neutral);
+	--callout-icon: none !important;
+	padding-left: 0px !important;  
+	padding-right: 0px !important;
+	padding-top: 0px !important;
+	padding-bottom: 0px !important;
+	mix-blend-mode: normal !important;
+	width: auto;
+	max-width: 300px;
+	float: right; /* Floats the callout box to the right */
+	margin-left: 10px; /* Adds space between the callout box and the text OUTSIDE the box */
+  }
+
+  .callout[data-callout="wikibox"] > .callout-title {
+	justify-content: center;
+	align-items: center;
+	align-self: center;
+  }
+
+  .callout[data-callout="wikibox"] > .callout-title > .callout-icon {
+	align-self: center;
+  }
+
+  .callout[data-callout="wikibox"]:not(.is-collapsed) > .callout-title {
+	padding: 0;
+  }
+
+  .callout[data-callout="wikibox"] > .callout-title .callout-title-inner {
+	display: none;
+  }
+
+  .callout[data-callout="wikibox"] h1 {
+	margin-top: 0 !important;
+	margin-bottom: 0 !important;
+	border-bottom: 2px solid var(--highlight-wikibox) !important;
+	text-align: center !important;
+	color: var(--highlight-primary) !important;
+  }
+
+
+  /* ===============================================================================================================================================
      								CALLOUTS: TABBED
      =============================================================================================================================================== */
 
@@ -806,5 +757,4 @@
   , :has(.tabbed.mb-input-type-select > :nth-child(8).is-selected) + .el-div > .callout[data-callout="tabbed-box"] > .callout-content > :nth-child(8) {
 	display: block;
   }
-
 
