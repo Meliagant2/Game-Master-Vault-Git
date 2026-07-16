@@ -15,17 +15,16 @@
 
   body a.internal-link {
 	background-color: transparent;
-	color: var(--highlight-link);
+	color: var(--highlight-primary);
   }
-
 
   /* ----------------------------------------Farb-Variablen für Light Mode---------------------------------------- */
 
    .theme-light {
+	--highlight-bold: #000000;
 	--highlight-charakter: #500073;
 	--highlight-hell: #0a3b00;
 	--highlight-kuehl: #00E6DB;
-	--highlight-link: #8C006E;
 	--highlight-neutral: #292929;
 	--highlight-p: #000000; 
 	--highlight-primary: #AD4118;
@@ -52,10 +51,10 @@
   /* ----------------------------------------Farb-Variablen für Dark Mode---------------------------------------- */
 
   .theme-dark {
+	--highlight-bold: #000000;
 	--highlight-charakter: #500073;
 	--highlight-hell: #0a3b00;
 	--highlight-kuehl: #00E6DB;
-	--highlight-link: #8C006E;
 	--highlight-neutral: #292929;
 	--highlight-p: #000000; 
 	--highlight-primary: #AD4118;
@@ -110,7 +109,7 @@
 
   .markdown-preview-view strong,
   .markdown-preview-view b {
-	color: var(--highlight-primary);
+	color: var(--highlight-bold);
   }
 
   /* -----Überschriften/Header----- */
