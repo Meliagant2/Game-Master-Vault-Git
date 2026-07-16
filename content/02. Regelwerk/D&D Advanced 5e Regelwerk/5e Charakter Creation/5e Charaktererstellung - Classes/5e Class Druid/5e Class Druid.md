@@ -1,9 +1,9 @@
 ---
 publish: true
 title: Druid
-created: 2026-07-14T14:45:04.655+02:00
-modified: 2026-07-14T15:42:35.011+02:00
-published: 2026-07-14T15:42:35.011+02:00
+created: 2026-07-16T07:51:39.856+02:00
+modified: 2026-07-15T18:07:12.593+02:00
+published: 2026-07-15T18:07:12.593+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -109,7 +109,7 @@ This table shows the general progression of every character class. Every column,
 
 ### Level 2: Feat
 
-As long as you are not multiclassed, you gain one [[5e Charaktererstellung - Feats|Feat]] of your choice, for which you qualify. At Character levels 4, 7, 10, 12, 14, 16, 18, and 20 you can choose another feat of your choice for which you qualify.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Charakter Creation/5e Charaktererstellung - Feats/5e Charaktererstellung - Feats|Feat]] of your choice, for which you qualify. At Character levels 4, 7, 10, 12, 14, 16, 18, and 20 you can choose another feat of your choice for which you qualify.
 
 View "General Character Table" to see if you qualify for a feat at this level.
 

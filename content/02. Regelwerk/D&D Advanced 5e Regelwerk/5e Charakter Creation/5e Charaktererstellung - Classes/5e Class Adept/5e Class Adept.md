@@ -1,9 +1,9 @@
 ---
 publish: true
 title: Adept
-created: 2026-07-13T15:14:52.119+02:00
-modified: 2026-07-15T17:40:22.215+02:00
-published: 2026-07-15T17:40:22.215+02:00
+created: 2026-07-16T07:51:39.820+02:00
+modified: 2026-07-15T18:06:30.263+02:00
+published: 2026-07-15T18:06:30.263+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -307,7 +307,7 @@ Once you use this feature, you can’t use it again until you finish a Long Rest
 
 ### Level 2: Feat
 
-As long as you are not multiclassed, you gain one [[5e Charaktererstellung - Feats\ | Feats]] of your choice, for which you qualify. At Character levels 4, 7, 10, 12, 14, 16, 18, and 20 you can choose another feat of your choice for which you qualify.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Charakter Creation/5e Charaktererstellung - Feats/5e Charaktererstellung - Feats|Feat]] of your choice, for which you qualify. At Character levels 4, 7, 10, 12, 14, 16, 18, and 20 you can choose another feat of your choice for which you qualify.
 
 View "General Character Table" to see if you qualify for a feat at this level.
 

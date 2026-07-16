@@ -1,9 +1,9 @@
 ---
 publish: true
 title: Bard
-created: 2026-07-13T15:46:26.507+02:00
-modified: 2026-07-14T15:42:34.997+02:00
-published: 2026-07-14T15:42:34.997+02:00
+created: 2026-07-16T07:51:39.841+02:00
+modified: 2026-07-15T18:06:57.136+02:00
+published: 2026-07-15T18:06:57.136+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -109,7 +109,7 @@ This table shows the general progression of every character class. Every column,
 
 ### Level 2: Feat
 
-As long as you are not multiclassed, you gain one [[5e Charaktererstellung - Feats|Feat]] of your choice, for which you qualify. At Character levels 4, 7, 10, 12, 14, 16, 18, and 20 you can choose another feat of your choice for which you qualify.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Charakter Creation/5e Charaktererstellung - Feats/5e Charaktererstellung - Feats|Feat]] of your choice, for which you qualify. At Character levels 4, 7, 10, 12, 14, 16, 18, and 20 you can choose another feat of your choice for which you qualify.
 
 View "General Character Table" to see if you qualify for a feat at this level.
 

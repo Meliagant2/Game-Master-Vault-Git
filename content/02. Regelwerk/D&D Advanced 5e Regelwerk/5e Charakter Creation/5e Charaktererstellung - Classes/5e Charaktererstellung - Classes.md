@@ -1,7 +1,7 @@
 ---
 publish: true
 title: 5e Classes
-created: 2026-07-13T15:14:52.126+02:00
+created: 2026-07-16T07:51:39.804+02:00
 modified: 2026-07-14T16:03:56.959+02:00
 published: 2026-07-14T16:03:56.959+02:00
 tags:
@@ -31,7 +31,7 @@ status: ⏳
 > > |---|---|
 > > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
 
-# 5e Classes
+#
 
 Being an adventurer is more than just an occupation. Your character has a spark somewhere deep inside their soul that places their feet on the path too dangerous for others to tread. Perhaps it was simply survival at first, or a quest for gold or honor, or maybe they answered a higher calling from a being far more powerful than they. But whatever its origin, it is the crucial element that separates the rogue from the simple pickpocket and the warlord from the common soldier.
 
