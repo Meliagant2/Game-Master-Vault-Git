@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-16T08:52:53.836+02:00
-published: 2026-07-16T08:52:53.836+02:00
+modified: 2026-07-16T08:58:07.175+02:00
+published: 2026-07-16T08:58:07.175+02:00
 tags:
   - "#Home"
 cssClasses: cards
@@ -15,31 +15,6 @@ cssClasses: cards
 > Im Augenblick funktioniert auf dieser Website nur der Light mode korrekt, da ich den dark mode noch nicht designed habe. Daher bitte oben links, neben der Suchleiste bitte darauf wechseln, falls der Dark mode aktiviert ist.
 
 **Einleitende Worte. Erklärung der Vault und der Website Funktionen**
-
-BLURP 4
-
-#### Base von der ich weiß, dass sie funktioniert innerhalb eines Callouts
-
-> [!info] Test
->
-> ```base
-> views:
->  - type: table
->    name: 5e Klassen tew
->    filters:
->      and:
->        - file.name.contains("5e Class")
->        - file.name != "5e Classes"
->        - '!file.name.contains("Template")'
->    order:
->      - file.name
->      - kurzbeschreibung
->    image: note.image
->    cardSize: 150
->    imageAspectRatio: 1
->    imageFit: contain
->
-> ```
 
 ### Quellen
 
