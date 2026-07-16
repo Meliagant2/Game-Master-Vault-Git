@@ -1,14 +1,15 @@
 ---
 publish: true
-title: 5e Combat
-created: 2026-07-16T07:51:39.997+02:00
-modified: 2026-07-16T10:54:45.357+02:00
-published: 2026-07-16T10:54:45.357+02:00
+title: XXX
+created: 2026-07-16T10:57:03.281+02:00
+modified: 2026-07-16T10:58:15.606+02:00
+published: 2026-07-16T10:58:15.606+02:00
 tags:
+  - "#Charaktererstellung"
   - "#Grundregeln"
   - "#5e"
-socialImage: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Combat.png]]"
-image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Combat.png]]"
+socialImage: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
+image: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
 status: ⏳
 ---
 
@@ -31,9 +32,9 @@ status: ⏳
 > > |---|---|
 > > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
 
-# 5e Combat
+# XXX
 
 ## Quellen
 
 > [!inspiration] Quellen
-> **Art:** Created by Rafaël Massé from Noun Project
+> **Art:**

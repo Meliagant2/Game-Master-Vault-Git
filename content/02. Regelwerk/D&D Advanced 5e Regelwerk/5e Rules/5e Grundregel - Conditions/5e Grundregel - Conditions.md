@@ -2,13 +2,13 @@
 publish: true
 title: 5e Conditions
 created: 2026-07-16T07:51:39.997+02:00
-modified: 2026-07-16T09:58:13.000+02:00
-published: 2026-07-16T09:58:13.000+02:00
+modified: 2026-07-16T10:54:55.179+02:00
+published: 2026-07-16T10:54:55.179+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
-socialImage: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
-image: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
+socialImage: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Conditions.png]]"
+image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Conditions.png]]"
 status: ⏳
 ---
 
@@ -32,3 +32,8 @@ status: ⏳
 > > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
 
 # 5e Conditions
+
+## Quellen
+
+> [!inspiration] Quellen
+> **Art:** Created by Tresnatiq from Noun Project

@@ -2,13 +2,13 @@
 publish: true
 title: 5e Classes
 created: 2026-07-16T07:51:39.804+02:00
-modified: 2026-07-16T09:26:24.390+02:00
-published: 2026-07-16T09:26:24.390+02:00
+modified: 2026-07-16T10:51:02.499+02:00
+published: 2026-07-16T10:51:02.499+02:00
 tags:
   - "#Charaktererstellung"
   - "#5e"
-socialImage: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Character Creation.png]]"
-image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Character Creation.png]]"
+socialImage: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Classes.png]]"
+image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Classes.png]]"
 status: ⏳
 ---
 
@@ -90,3 +90,8 @@ This table shows the general progression of every character class. Every column,
 > |18|-|-|-|Feat|
 > |19|-|-|-|Class Features|
 > |20|-|-|+1 in one ability score of your choice up to a maximum of +6|Epic Boon, Feat|
+
+## Quellen
+
+> [!inspiration] Quellen
+> **Art:** Created by Made by Made from Noun Project
