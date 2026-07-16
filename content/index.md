@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-16T08:10:52.581+02:00
-published: 2026-07-16T08:10:52.581+02:00
+modified: 2026-07-16T08:34:15.202+02:00
+published: 2026-07-16T08:34:15.202+02:00
 tags:
   - "#Home"
 cssClasses: cards
@@ -16,7 +16,7 @@ cssClasses: cards
 
 **Einleitende Worte. Erklärung der Vault und der Website Funktionen**
 
-TEST, OB BASES AUCH FUNKTIONIERT, WENN ICH NACH ORDNERN FILTERE UND OB BASES INNERHALB VON CALLOUTS FUNKTIONIEREN
+BLURP
 
 #### base ohne callout, aber link zu einem Dateipfad
 
