@@ -2,10 +2,10 @@
 publish: true
 title: ⚙️5e Character Creation⚙️
 created: 2026-07-16T09:24:59.174+02:00
-modified: 2026-07-16T13:50:50.415+02:00
-published: 2026-07-16T13:50:50.415+02:00
+modified: 2026-07-16T17:53:55.960+02:00
+published: 2026-07-16T17:53:55.960+02:00
 tags:
-  - "#Regelwerk"
+  - "#Charaktererstellung"
   - "#5e"
 socialImage: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Character Creation.png]]"
 image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Character Creation.png]]"

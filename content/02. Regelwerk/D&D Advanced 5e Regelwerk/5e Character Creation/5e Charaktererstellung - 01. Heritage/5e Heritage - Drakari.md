@@ -2,11 +2,10 @@
 publish: true
 title: 👥5e Drakari👥
 created: 2026-07-16T10:56:36.909+02:00
-modified: 2026-07-16T16:19:19.485+02:00
-published: 2026-07-16T16:19:19.485+02:00
+modified: 2026-07-16T17:54:29.838+02:00
+published: 2026-07-16T17:54:29.838+02:00
 tags:
-  - "#Charaktererstellung"
-  - "#Grundregeln"
+  - "#Heritage"
   - "#5e"
 socialImage: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Heritage Drakari.png]]"
 image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Heritage Drakari.png]]"

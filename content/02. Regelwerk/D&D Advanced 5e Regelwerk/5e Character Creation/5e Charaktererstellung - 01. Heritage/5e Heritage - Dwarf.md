@@ -2,11 +2,10 @@
 publish: true
 title: 👥5e Dwarf👥
 created: 2026-07-16T14:43:47.530+02:00
-modified: 2026-07-16T16:20:24.131+02:00
-published: 2026-07-16T16:20:24.131+02:00
+modified: 2026-07-16T17:54:35.761+02:00
+published: 2026-07-16T17:54:35.761+02:00
 tags:
-  - "#Charaktererstellung"
-  - "#Grundregeln"
+  - "#Heritage"
   - "#5e"
 socialImage: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Heritage Dwarf.png]]"
 image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Heritage Dwarf.png]]"

@@ -2,11 +2,10 @@
 publish: true
 title: 👥5e Valrath👥
 created: 2026-07-16T17:04:20.489+02:00
-modified: 2026-07-16T17:43:31.815+02:00
-published: 2026-07-16T17:43:31.815+02:00
+modified: 2026-07-16T17:54:57.004+02:00
+published: 2026-07-16T17:54:57.004+02:00
 tags:
-  - "#Charaktererstellung"
-  - "#Grundregeln"
+  - "#Heritage"
   - "#5e"
 socialImage: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Heritage Valrath.png]]"
 image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Heritage Valrath.png]]"

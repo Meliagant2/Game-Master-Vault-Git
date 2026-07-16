@@ -2,11 +2,10 @@
 publish: true
 title: 👥5e Gigant👥
 created: 2026-07-16T14:43:47.530+02:00
-modified: 2026-07-16T16:24:01.793+02:00
-published: 2026-07-16T16:24:01.793+02:00
+modified: 2026-07-16T17:54:43.884+02:00
+published: 2026-07-16T17:54:43.884+02:00
 tags:
-  - "#Charaktererstellung"
-  - "#Grundregeln"
+  - "#Heritage"
   - "#5e"
 socialImage: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Heritage Gigant.png]]"
 image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Heritage Gigant.png]]"
