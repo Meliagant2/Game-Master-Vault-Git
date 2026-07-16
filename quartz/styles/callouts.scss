@@ -666,6 +666,12 @@
 	--background: var(--custom-background-red);
   }
 
+  .callout[data-callout="warnung"] > .callout-title {
+	justify-content: center;
+	align-items: center;
+	align-self: center;
+  }
+
   /* ----------------------------------------Callout: Wikibox---------------------------------------- */
   .callout[data-callout="wikibox"] {
 	--callout-color: var(--custom-background-primary);
