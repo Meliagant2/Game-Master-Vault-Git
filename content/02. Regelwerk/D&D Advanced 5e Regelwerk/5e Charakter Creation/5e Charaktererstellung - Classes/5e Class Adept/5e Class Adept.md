@@ -2,8 +2,8 @@
 publish: true
 title: Adept
 created: 2026-07-16T07:51:39.820+02:00
-modified: 2026-07-15T18:06:30.263+02:00
-published: 2026-07-15T18:06:30.263+02:00
+modified: 2026-07-16T08:31:40.876+02:00
+published: 2026-07-16T08:31:40.876+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -217,83 +217,83 @@ You have picked up a number of tricks in your path towards perfection. You gain 
 > [!charakterklasse]- Practiced Techniques
 > When you gain access to a new practiced technique, choose one of the following. Some techniques have requirements, such as minimum adept level or another technique. You must meet those requirements before you choose that technique.
 >
-> ### Adept Speed
+> #### Adept Speed
 >
 > Your Speed increases by 10 feet while you are not wearing armor or wielding a shield. You can choose this technique more than once. Its effects stack.
 >
-> ### Gale Walk
+> #### Gale Walk
 >
 > Requirement: Adept Speed, proficiency with Athletics
 >
 > You have advantage on Athletics checks made to jump. On your turn, you can spend 1 exertion to triple your jump distances until the start of your next turn.
 >
-> ### Hurricane Walk
+> #### Hurricane Walk
 >
 > Requirement: Gale Walk
 >
 > Your step is so light you seem to float in the air. You can use a bonus action and spend 1 exertion to cast fly on yourself. You also have advantage on Stealth checks related to noise. The effect lasts until the start of your next turn.
 >
-> ### Marathon Runner
+> #### Marathon Runner
 >
 > You are used to running long distances. When you move at a fast pace, you don’t suffer a penalty to your passive Perception. In addition, you add your martial arts die when making a Constitution saving throw for a forced march.
 >
-> ### Nimble Athlete
+> #### Nimble Athlete
 >
 > You can always choose to use your Dexterity modifier for Athletics checks.
 >
-> ### Power Tumble
+> #### Power Tumble
 >
 > You can always choose to use your Strength modifier for Acrobatics checks.
 >
-> ### Religious Training
+> #### Religious Training
 >
 > You are proficient with the Religion skill. When you are in contact with a holy relic, religious artifact, or any kind of similar object or structure, you can spend 2 exertion to learn something about it. You receive a correct answer from the Game Master for a question about the object that can be answered with a yes or no.
 >
-> ### Slow Fall
+> #### Slow Fall
 >
 > You can use your reaction when you fall to reduce any falling damage you take by an amount equal to ten times your adept level.
 >
-> ### Wall Walk
+> #### Wall Walk
 >
 > Requirement: Adept Speed, proficiency with Acrobatics
 >
 > You gain the ability to move along vertical surfaces on your turn without falling during the move. You can use a bonus action and spend 1 exertion to cast spider climb on yourself. The effect lasts until the start of your next turn.
 >
-> ### Warrior’s Awareness
+> #### Warrior’s Awareness
 >
 > Requirement: Proficiency with Survival
 >
 > Your honed battlefield awareness is unmatched even in the wilderness. When you make a Survival check to avoid being lost, you ignore penalties for moving at a fast pace and gain a bonus to the check equal to your martial arts die.
 >
-> ### Water Walk
+> #### Water Walk
 >
 > Requirement: Adept Speed
 >
 > You gain the ability to move across liquids on your turn without falling during the move. You can use a bonus action and spend 1 exertion to cast water walk on yourself. The effect lasts until the start of your next turn.
 >
-> ### Wilderness Training
+> #### Wilderness Training
 >
 > You are proficient with the Survival skill. For the purposes of adept class features, you consider beasts to be martial artists.
 >
-> ### Instant Step
+> #### Instant Step
 >
 > Requirement: Adept Speed, 11th level
 >
 > You can move so fast you seem to teleport. You can use an action to spend 4 exertion and choose an unoccupied space you can see within 500 feet. You teleport and arrive at exactly the spot desired. You can bring along your gear, carried items smaller than your arm, and a single creature of your size category or smaller. In addition, you become invisible until the beginning of your next turn.
 >
-> ### Shadow Walk
+> #### Shadow Walk
 >
 > Requirement: 11th level, proficiency with Stealth
 >
 > You can step into a shadow and come out of another. When you are in dim light or darkness , as a bonus action you can teleport up to 60 feet to an unoccupied space you can see that is also in dim light or darkness. You have advantage on Stealth checks until the beginning of your next turn.
 >
-> ### Sixth Sense
+> #### Sixth Sense
 >
 > Requirement: 11th level
 >
 > You have advantage on initiative checks. In addition, you can always choose to use your Wisdom for Arcana, History, Investigation, Nature, and Religion checks.
 >
-> ### Focus Speech
+> #### Focus Speech
 >
 > Requirement: 15th level
 >
@@ -318,8 +318,9 @@ You choose one 5e Class Adept Subclass, which represents you best.
 Your 5e Class Adept Subclass grants you features at 3rd, 6th, 9th, 13th, and again at 17th level.
 
 > [!cards|dataview 5]
-> | Bild | Title | K |
-> | ---- | ----- | - |
+> | Bild                                                                     | Title                                                                                                                                                                                                                                                          | K  |
+> | ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -- |
+> | ![[98. Diverses/Bilder/Misc/PlaceholderImage.png|PlaceholderImage.png]] | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Charakter Creation/5e Charaktererstellung - Classes/5e Class Warlock/5e Subclass - Archfey Patron.md|5e Subclass - Archfey Patron]]</span> | - |
 
 ### Level 4: Feat
 

@@ -120,8 +120,9 @@ You choose one 5e Class Wizard Subclass, which represents you best.
 Your 5e Class Wizard Subclass grants you features at 3rd, 6th, 9th, 13th, and again at 17th level.
 
 > [!cards|dataview 5]
-> | Bild | Title | K |
-> | ---- | ----- | - |
+> | Bild                                                                     | Title                                                                                                                                                                                                                                                          | K  |
+> | ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -- |
+> | ![[98. Diverses/Bilder/Misc/PlaceholderImage.png|PlaceholderImage.png]] | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Charakter Creation/5e Charaktererstellung - Classes/5e Class Warlock/5e Subclass - Archfey Patron.md|5e Subclass - Archfey Patron]]</span> | - |
 
 ### Level 4: Feat
 
