@@ -6,18 +6,25 @@
      								   GLOBALE KOMPONENTEN 
      =============================================================================================================================================== */
 
-  /* -----Generische Variablen----- */
+  /* ----------------------------------------Generische Variablen---------------------------------------- */
 
   body {
-	--file-line-width: 1200px; /* Lesebreite anpassen */
+	/* Lesebreite anpassen */
+	--file-line-width: 1200px; 
   }
 
-  /* -----Farb-Variablen für Light Mode----- */
+  body a.internal-link {
+	background-color: transparent;
+  }
+
+
+  /* ----------------------------------------Farb-Variablen für Light Mode---------------------------------------- */
 
    .theme-light {
 	--highlight-charakter: #500073;
 	--highlight-hell: #0a3b00;
 	--highlight-kuehl: #00E6DB;
+	--highlight-link: #8C006E;
 	--highlight-neutral: #292929;
 	--highlight-p: #000000; 
 	--highlight-primary: #AD4118;
@@ -47,6 +54,7 @@
 	--highlight-charakter: #500073;
 	--highlight-hell: #0a3b00;
 	--highlight-kuehl: #00E6DB;
+	--highlight-link: #8C006E;
 	--highlight-neutral: #292929;
 	--highlight-p: #000000; 
 	--highlight-primary: #AD4118;
