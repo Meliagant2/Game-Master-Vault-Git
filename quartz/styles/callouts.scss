@@ -143,13 +143,14 @@
 
   /* ----------------------------------------Callout: Tabellen---------------------------------------- */
   .callout table {
-	max-width: 100% !important;
-	table-layout: fixed !important;
-	width: 100% !important;
+	max-width: 100%;
+	table-layout: fixed;
+	width: auto;
 	background-color: transparent !important;
 	margin-top: 5px !important;
 	border-bottom: 2px solid var(--highlight-neutral) !important;
 	border-top: 2px solid var(--highlight-neutral) !important;
+	overflow-x: auto;
   }
 
   .callout table th,
