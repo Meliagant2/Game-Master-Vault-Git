@@ -2,8 +2,8 @@
 publish: true
 title: 👥5e Dwarf👥
 created: 2026-07-16T14:43:47.530+02:00
-modified: 2026-07-16T15:40:16.633+02:00
-published: 2026-07-16T15:40:16.633+02:00
+modified: 2026-07-16T16:20:24.131+02:00
+published: 2026-07-16T16:20:24.131+02:00
 tags:
   - "#Charaktererstellung"
   - "#Grundregeln"
@@ -51,9 +51,18 @@ Although they are often strong and muscular, dwarves are not tall. Their broad, 
 **Size:** Medium (4-5 feet / 120cm - 150cm)
 **Speed:** 30 feet Your Speed is not reduced by wearing heavy armor or wielding tower shields.
 **Darkvision:** You have [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Rules/5e Grundregel - Adventuring/5e Regel - Senses/5e Sense - Darkvision|Darkvision]] with a range of 60 feet.
-**Dwarven Resilience:** You have Resistance to Poison Damage. You also have ADV on Saves you make to avoid or end the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Rules/5e Grundregel - Conditions/5e Condition - Poisoned|☠️Poisoned]] Condition on yourself.
-**Dwarven Toughness:** Your hit Point Maximum increases by 1, and it increases by 1 again whenever you gain a level
-**Stonecunning:** As a Bonus Action, you gain [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Rules/5e Grundregel - Adventuring/5e Regel - Senses/5e Sense - Tremorsense|Tremorsense]] with a range of 60 feet for 10 minutes. You must be on a stone surface or touching such a surface to use this Tremorsense. The stone can be natural or worked. You can use this Bonus Action once per long rest.
+
+### Dwarven Resilience
+
+You have Resistance to Poison Damage. You also have ADV on Saves you make to avoid or end the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Rules/5e Grundregel - Conditions/5e Condition - Poisoned|☠️Poisoned]] Condition on yourself.
+
+### Dwarven Toughness
+
+Your hit Point Maximum increases by 1, and it increases by 1 again whenever you gain a level.
+
+### Stonecunning
+
+As a **Bonus Action**, you gain [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Rules/5e Grundregel - Adventuring/5e Regel - Senses/5e Sense - Tremorsense|Tremorsense]] with a range of 60 feet for 10 minutes. You must be on a stone surface or touching such a surface to use this Tremorsense. The stone can be natural or worked. You can use this Bonus Action once per long rest.
 
 ## Dwarf Gifts
 
@@ -70,7 +79,7 @@ A life in hills and open fields gave you the following benefits:
 
 Your ancestors were the hardiest of the dwarves, giving you the following benefits:
 
-**Great Health:** As a bonus action, you gain a number of [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Rules/5e Grundregel - Combat/5e Regel - Hit Points/5e Regel - Temporary Hit Points|❤️Temporary Hit Points]] equal to <u>1d10</u> plus your level. These temporary hit points last for 1 minute. You can’t use this trait again until after you finish a long rest.
+**Great Health:** As a **Bonus Action,** you gain a number of [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Rules/5e Grundregel - Combat/5e Regel - Hit Points/5e Regel - Temporary Hit Points|❤️Temporary Hit Points]] equal to <u>1d10</u> plus your level. These temporary hit points last for 1 minute. You can’t use this trait again until after you finish a long rest.
 **Slow and Steady:** Your movement speed cannot be reduced. You have advantage on saving throws against effects that cause fatigue and you may remove one level of fatigue after finishing a short rest, instead of a long rest.
 
 ## Dwarven Paragon
@@ -79,7 +88,7 @@ When you reach 10th level, you gain one of the following paragon gifts.
 
 ### Fury of the Earth
 
-As an action, you can strike the ground with a melee weapon you’re proficient with. The ground in a 30-foot radius around you becomes difficult terrain. Each creature on the ground in the area makes a Dexterity saving throw (**DC 8 + PB + STR**) or is knocked [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Rules/5e Grundregel - Conditions/5e Condition - Prone|☠️Prone]].
+As an **Action**, you can strike the ground with a melee weapon you’re proficient with. The ground in a 30-foot radius around you becomes difficult terrain. Each creature on the ground in the area makes a Dexterity saving throw (**DC 8 + PB + STR**) or is knocked [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Rules/5e Grundregel - Conditions/5e Condition - Prone|☠️Prone]].
 
 A creature [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Character Creation/5e Charaktererstellung - 08b. Spells/5e Spellcasting - Concentration|✨concentrating]] on a spell makes a CON Save or its concentration is broken. You can’t use this feature again until after you finish a long rest.
 
@@ -89,7 +98,7 @@ When you succeed on a death saving throw, you can expend one Hit Die to regain 1
 
 ### Unstoppable
 
-You can take the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Rules/5e Grundregel - Combat/5e Regel - Actions/5e Action - Dash|⚔️Dash]]-Action as a bonus action and you regain 1 additional hit die when you take a long rest (But no more than your maximum). You also ignore the effects of difficult terrain.
+You can take the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Rules/5e Grundregel - Combat/5e Regel - Actions/5e Action - Dash|⚔️Dash]]-Action as a **Bonus Action** and you regain 1 additional hit die when you take a long rest (But no more than your maximum). You also ignore the effects of difficult terrain.
 
 ## Quellen
 

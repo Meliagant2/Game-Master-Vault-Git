@@ -2,8 +2,8 @@
 publish: true
 title: 👥5e Drakari👥
 created: 2026-07-16T10:56:36.909+02:00
-modified: 2026-07-16T15:34:08.902+02:00
-published: 2026-07-16T15:34:08.902+02:00
+modified: 2026-07-16T16:19:19.485+02:00
+published: 2026-07-16T16:19:19.485+02:00
 tags:
   - "#Charaktererstellung"
   - "#Grundregeln"
@@ -54,7 +54,7 @@ Scales, tails, horns, fangs, claws, wings, and any feature found within dragonki
 
 ### Dragon Breath
 
-Drawing upon great reservoirs of draconic power, you can unleash magical destruction upon your foes. When you take the Attack action on your turn, you can replace one of your attacks with your Dragon Breath.
+Drawing upon great reservoirs of draconic power, you can unleash magical destruction upon your foes. When you take the **Attack Action** on your turn, you can replace one of your attacks with your Dragon Breath.
 Choose the type of damage dealt by your breath weapon: **Acid**, **Cold**, **Fire**, **Force**, **Lightning**, **Necrotic**, **Poison**, **Psychic**, **Radiant**, or **Thunder**.
 Additionally, choose between a 30-foot line that is 5 feet wide or a 15-foot cone for the area that your breath weapon affects. Each creature in the breath’s area makes a **DEX Save** if your breath weapon deals acid, fire, or lightning damage, a **CON Save** if it deals cold, force, poison, or thunder damage, and a **WIS Save** if it deals necrotic, psychic, or radiant damage. The DC for this saving throw equals **8 + PB + CON**.
 **Failed Save:** The creature takes <u>2d6</u> damage. **Successful save:** The creature takes half the damage.
@@ -85,13 +85,13 @@ Some dragonborn seem naturally adapted to aquatic environments with sleek, hydro
 Some dragonborn are born with a natural attunement to the magic around them. You gain the following traits:
 
 **Arcane Sensitivity:** You gain proficiency in Arcana.
-**Arcane Detection:** As an action you can detect magical effects. Until the end of your next turn, you sense the presence of magic within 30 feet of you. This effect is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt. You can use this trait once and must finish a long rest before you can use it again.
+**Arcane Detection:** As an **Action** you can detect magical effects. Until the end of your next turn, you sense the presence of magic within 30 feet of you. This effect is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt. You can use this trait once and must finish a long rest before you can use it again.
 
 ### Draconic Presence
 
 Some dragonborn seem to be born with a natural presence around them, that makes others look at them with awe. These dragonborn tend to be rather large, with naturally thick arms, neck and tail. You have the following traits:
 
-**Draconic Roar:** When you take the Attack action on your turn, you can replace one of your attacks with an exhalation in a 15-foot cone. The save DC for this roar is the same as your Dragon Breath. Whenever you use this trait, choose one:
+**Draconic Roar:** When you take the **Attack Action** on your turn, you can replace one of your attacks with an exhalation in a 15-foot cone. The save DC for this roar is the same as your Dragon Breath. Whenever you use this trait, choose one:
 
 - **Enervating Breath:** Each creature in the cone must succeed on a **CON Save** or become [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Rules/5e Grundregel - Conditions/5e Condition - Incapacitated|☠️Incapacitated]] until the start of your next turn.
 - **Repulsion Breath:** Each creature in the cone must succeed on a **STR Save** or be pushed 20 feet away from you and be knocked [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Rules/5e Grundregel - Conditions/5e Condition - Prone|☠️Prone]].

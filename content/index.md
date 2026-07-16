@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-16T15:41:52.760+02:00
-published: 2026-07-16T15:41:52.760+02:00
+modified: 2026-07-16T17:38:29.824+02:00
+published: 2026-07-16T17:38:29.824+02:00
 tags:
   - "#Home"
 cssClasses: cards
@@ -11,13 +11,19 @@ cssClasses: cards
 
 # Home
 
-![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Checks and Saves.png]]
+![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Heritage Gigant.png]]
 
-![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Heritage Drakari.png]]
+![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Heritage Hobbit.png]]
 
-![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Heritage Dwarf.png]]
+![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Heritage Human.png]]
 
-![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Heritage Elf.png]]
+![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Heritage Orc.png]]
+
+![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Heritage Anahera.png]]
+
+![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Heritage Elementari.png]]
+
+![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Heritage Valrath.png]]
 
 > [!warnung] WICHTIG
 > Im Augenblick funktioniert auf dieser Website nur der Light mode korrekt, da ich den dark mode noch nicht designed habe. Daher bitte oben links, neben der Suchleiste bitte darauf wechseln, falls der Dark mode aktiviert ist.
