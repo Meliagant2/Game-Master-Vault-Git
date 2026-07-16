@@ -658,6 +658,14 @@
 	--background: var(--custom-background-neutral);
   }
 
+  /* ----------------------------------------Callout: Warnung---------------------------------------- */
+  .callout[data-callout="warnung"] {
+	--callout-icon: var(--callout-icon-warning);
+	--color: var(--highlight-red); 
+	--highlight: var(--highlight-red);
+	--background: var(--custom-background-red);
+  }
+
   /* ----------------------------------------Callout: Wikibox---------------------------------------- */
   .callout[data-callout="wikibox"] {
 	--callout-color: var(--custom-background-primary);
