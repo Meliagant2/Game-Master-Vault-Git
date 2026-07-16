@@ -44,7 +44,30 @@
   /* ----------------------------------------Farb-Variablen für Dark Mode---------------------------------------- */
 
   .theme-dark {
-	--highlight-kuehl: #32ffc8;
+	--highlight-charakter: #500073;
+	--highlight-hell: #0a3b00;
+	--highlight-kuehl: #00E6DB;
+	--highlight-neutral: #292929;
+	--highlight-p: #000000; 
+	--highlight-primary: #AD4118;
+	--highlight-red: #ff0000; 
+	--highlight-statblock: #872212; 
+	--highlight-table: #070070;
+	--highlight-table-header: #FFFFFF;
+	--highlight-wikibox: #737373; 
+	--custom-background-charakter: #F4D6FF;
+	--custom-background-doc: #FBEFD5;
+	--custom-background-doc2: #FFEABA;
+	--custom-background-hell: #D6E9CA;
+	--custom-background-kuehl: #77e4ff48;
+	--custom-background-neutral: #EDEDED;
+	--custom-background-neutral2: #FAFAFA;
+	--custom-background-primary: #a4a1ff2a;
+	--custom-background-red: #3600003a;
+	--custom-background-signal: #F6D2A1;
+	--custom-background-statblock: #F4FAF0;
+	--custom-background-table: #cccccc3d;
+	--custom-background-table-header: #474646;
   }
 
   /* -----Blocksatz Reading Mode----- */
@@ -60,7 +83,7 @@
 	z-index: 0;
   }  
 
-  .theme-light .markdown-preview-view::after {
+  .markdown-preview-view::after {
 	content: "";
 	position: fixed;
 	background-color: var(--custom-background-doc);
