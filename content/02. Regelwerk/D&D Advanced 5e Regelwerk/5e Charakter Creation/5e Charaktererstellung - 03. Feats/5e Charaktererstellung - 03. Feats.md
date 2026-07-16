@@ -1,14 +1,14 @@
 ---
 publish: true
-title: 5e Combat
-created: 2026-07-16T07:51:39.997+02:00
-modified: 2026-07-16T09:58:10.307+02:00
-published: 2026-07-16T09:58:10.307+02:00
+title: 5e Feats
+created: 2026-07-16T07:51:39.950+02:00
+modified: 2026-07-16T10:05:29.322+02:00
+published: 2026-07-16T10:05:29.322+02:00
 tags:
-  - "#Grundregeln"
+  - "#Charaktererstellung"
   - "#5e"
-socialImage: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
-image: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
+socialImage: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Feats.png]]"
+image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Feats.png]]"
 status: ⏳
 ---
 
@@ -31,4 +31,4 @@ status: ⏳
 > > |---|---|
 > > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
 
-# 5e Combat
+# 5e Feats

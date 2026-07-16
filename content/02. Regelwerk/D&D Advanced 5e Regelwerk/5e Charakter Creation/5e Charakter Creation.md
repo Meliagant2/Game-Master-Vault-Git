@@ -1,9 +1,9 @@
 ---
 publish: true
-title: D&D 5e Character Creation
+title: 5e Character Creation
 created: 2026-07-16T09:24:59.174+02:00
-modified: 2026-07-16T09:45:11.712+02:00
-published: 2026-07-16T09:45:11.712+02:00
+modified: 2026-07-16T10:05:48.088+02:00
+published: 2026-07-16T10:05:48.088+02:00
 tags:
   - "#Regelwerk"
   - "#5e"
@@ -31,7 +31,7 @@ status: ⏳
 > > |---|---|
 > > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
 
-# D\&D 5e Character Creation
+# 5e Character Creation
 
 ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Character Creation.png]]
 
@@ -45,13 +45,13 @@ Who is your character? Where do they come from? What drives them forward?
 
 Creating your character generally begins by asking yourself a series of questions about not just the type of adventurer you want to play but also what type of person they are and how they came to be who they are.
 
-Origins are detailed later but consist of four main aspects: heritage, culture, background, and destiny. As you go through the character creation process, each of these aspects will help you flesh out more details about your character or prompt you to determine traits you otherwise may not have considered.
+Origins are detailed later but consist of four main aspects: **heritage**, **culture**, **background**, and **destiny**. As you go through the character creation process, each of these aspects will help you flesh out more details about your character or prompt you to determine traits you otherwise may not have considered.
 
-### Heritage
+### [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Charakter Creation/5e Charaktererstellung - 01. Heritage/5e Charaktererstellung - 01. Heritage|Heritage]]
 
-Characters in the world belong to a heritage which includes certain biological characteristics and defines some aspects of their physical appearance. Other things, such as a character’s speed and size, are also derived from their heritage. While a heritage may be a factor in your character’s story, that’s just the beginning. Who they are is defined by the experiences and the actions that lead them to where they are now.
+Characters in the world belong to a heritage which includes certain biological characteristics and defines some aspects of their physical appearance. Other things, such as a character’s [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Rules/5e Grundregel - Adventuring/5e Regel - Speed|Speed]] and [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Rules/5e Grundregel - Combat/5e Regel - Size|Size]], are also derived from their heritage. While a heritage may be a factor in your character’s story, that’s just the beginning. Who they are is defined by the experiences and the actions that lead them to where they are now.
 
-Choosing a heritage grants your character access to additional traits and a heritage gift, which helps you make your character stand out from the crowd. For example, a dragonborn’s trait allows them to do what dragons do best and exhale a breath based on that ancestry that can burn, electrify, and even freeze their enemies. Meanwhile some dragonborn have scales like iron while others have developed aquatic adaptations.
+Choosing a heritage grants your character access to additional traits and a heritage gift, which helps you make your character stand out from the crowd. For example, a Drakari’s trait allows them to do what Dragons do best and exhale a breath based on that ancestry that can burn, electrify, and even freeze their enemies. Meanwhile some Drakari have scales like iron while others have developed aquatic adaptations.
 
 In addition, as your character levels up, they choose a paragon heritage gift that is unique to their heritage.
 

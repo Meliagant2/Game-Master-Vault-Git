@@ -1,9 +1,9 @@
 ---
 publish: true
 title: 5e Adventuring
-created: 2026-07-15T18:00:15.926+02:00
-modified: 2026-07-15T18:00:32.969+02:00
-published: 2026-07-15T18:00:32.969+02:00
+created: 2026-07-16T07:51:39.981+02:00
+modified: 2026-07-16T09:58:01.338+02:00
+published: 2026-07-16T09:58:01.338+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -30,3 +30,5 @@ status: ⏳
 > > | | |
 > > |---|---|
 > > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
+
+# 5e Adventuring

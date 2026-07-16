@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 5e Combat
-created: 2026-07-16T07:51:39.997+02:00
-modified: 2026-07-16T09:58:10.307+02:00
-published: 2026-07-16T09:58:10.307+02:00
+title: 5e Speed
+created: 2026-07-16T09:58:29.037+02:00
+modified: 2026-07-16T09:59:08.165+02:00
+published: 2026-07-16T09:59:08.165+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -31,4 +31,4 @@ status: ⏳
 > > |---|---|
 > > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
 
-# 5e Combat
+# 5e Speed
