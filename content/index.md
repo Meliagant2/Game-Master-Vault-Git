@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-16T08:44:51.464+02:00
-published: 2026-07-16T08:44:51.464+02:00
+modified: 2026-07-16T08:52:53.836+02:00
+published: 2026-07-16T08:52:53.836+02:00
 tags:
   - "#Home"
 cssClasses: cards
@@ -16,7 +16,7 @@ cssClasses: cards
 
 **Einleitende Worte. Erklärung der Vault und der Website Funktionen**
 
-BLURP 3
+BLURP 4
 
 #### Base von der ich weiß, dass sie funktioniert innerhalb eines Callouts
 
