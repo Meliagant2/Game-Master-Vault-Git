@@ -2,8 +2,8 @@
 publish: true
 title: DC20 Regelwerk
 created: 2026-07-16T08:15:00.205+02:00
-modified: 2026-07-16T08:55:18.592+02:00
-published: 2026-07-16T08:55:18.592+02:00
+modified: 2026-07-16T08:58:34.635+02:00
+published: 2026-07-16T08:58:34.635+02:00
 tags:
   - "#Regelwerk"
   - "#DC20"
@@ -76,4 +76,4 @@ views:
 ## Quellen
 
 > [!inspiration] Quellen
-> **Cover Art:** Wylie Beckert, Tyler Jacobson; Cover Art vom D\&D5e 2024 Player's Handbook
+> **Cover Art:**

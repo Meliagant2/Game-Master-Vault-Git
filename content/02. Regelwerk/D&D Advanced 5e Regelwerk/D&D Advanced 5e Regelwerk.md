@@ -2,8 +2,8 @@
 publish: true
 title: D&D 5e Regelwerk
 created: 2026-07-16T07:51:39.789+02:00
-modified: 2026-07-15T18:02:36.709+02:00
-published: 2026-07-15T18:02:36.709+02:00
+modified: 2026-07-16T09:24:53.137+02:00
+published: 2026-07-16T09:24:53.137+02:00
 tags:
   - "#Regelwerk"
   - "#5e"
@@ -55,6 +55,8 @@ views:
 ```
 
 ## Character Creation
+
+You can find the basic character creation rules \[\[]]
 
 ```base
 views:
