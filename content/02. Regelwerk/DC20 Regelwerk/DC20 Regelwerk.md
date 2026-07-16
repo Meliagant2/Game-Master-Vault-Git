@@ -2,8 +2,8 @@
 publish: true
 title: DC20 Regelwerk
 created: 2026-07-16T08:15:00.205+02:00
-modified: 2026-07-16T08:21:28.851+02:00
-published: 2026-07-16T08:21:28.851+02:00
+modified: 2026-07-16T08:36:31.545+02:00
+published: 2026-07-16T08:36:31.545+02:00
 tags:
   - "#Regelwerk"
   - "#DC20"
@@ -33,7 +33,7 @@ status: ⏳
 
 # DC20 Regelwerk
 
-![[98. Diverses/Bilder/Regelwerk Bilder/DC20 Regelwerk Cover.png]]
+> [!warnung] WIP
 
 ## Basic Rules
 

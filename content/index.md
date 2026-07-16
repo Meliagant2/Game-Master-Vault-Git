@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-16T08:34:15.202+02:00
-published: 2026-07-16T08:34:15.202+02:00
+modified: 2026-07-16T08:39:56.092+02:00
+published: 2026-07-16T08:39:56.092+02:00
 tags:
   - "#Home"
 cssClasses: cards
@@ -16,23 +16,7 @@ cssClasses: cards
 
 **Einleitende Worte. Erklärung der Vault und der Website Funktionen**
 
-BLURP
-
-#### base ohne callout, aber link zu einem Dateipfad
-
-```base
-views:
-  - type: cards
-    name: 5e Klassen TEST
-    filters:
-      and:
-        - file.path.contains("02. Regelwerk/D&D Advanced 5e Regelwerk/5e Charakter Creation/5e Charaktererstellung - Classes/5e Class")
-    image: note.image
-    cardSize: 150
-    imageAspectRatio: 1
-    imageFit: contain
-
-```
+BLURP 2
 
 #### Base von der ich weiß, dass sie funktioniert innerhalb eines Callouts
 
@@ -40,13 +24,16 @@ views:
 >
 > ```base
 > views:
->  - type: cards
+>  - type: table
 >    name: 5e Klassen tew
 >    filters:
 >      and:
 >        - file.name.contains("5e Class")
 >        - file.name != "5e Classes"
 >        - '!file.name.contains("Template")'
+>    order:
+>      - file.name
+>      - kurzbeschreibung
 >    image: note.image
 >    cardSize: 150
 >    imageAspectRatio: 1
