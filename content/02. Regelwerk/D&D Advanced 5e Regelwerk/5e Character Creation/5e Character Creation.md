@@ -2,8 +2,8 @@
 publish: true
 title: ⚙️5e Character Creation⚙️
 created: 2026-07-16T09:24:59.174+02:00
-modified: 2026-07-16T13:02:03.026+02:00
-published: 2026-07-16T13:02:03.026+02:00
+modified: 2026-07-16T13:50:50.415+02:00
+published: 2026-07-16T13:50:50.415+02:00
 tags:
   - "#Regelwerk"
   - "#5e"
@@ -112,7 +112,7 @@ Be sure to record your character’s Hit Dice and Hit Points on the character sh
 
 ### Proficiency Bonus
 
-See [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Character Creation/5e Charaktererstellung - 00. Ability Scores/5e Regel - Proficiency/5e Regel - Proficiency|⚙️Proficiency]] for more information.
+See [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Rules/5e Grundregel - Checks & Saves/5e Regel - Proficiency/5e Regel - Proficiency|⚙️Proficiency]] for more information.
 
 Your **Proficiency Bonus (PB)** can be found in the table that describes the features you gain at each level of your class. Characters starting out at 1st level begin with a <u>+2</u> to proficiency and that bonus applies to a number of important character elements:
 

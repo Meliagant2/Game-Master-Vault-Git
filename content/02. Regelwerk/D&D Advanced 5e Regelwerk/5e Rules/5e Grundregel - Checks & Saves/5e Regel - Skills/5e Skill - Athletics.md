@@ -1,0 +1,21 @@
+---
+publish: true
+title: 🎲5e Athletics🎲
+created: 2026-07-16T13:53:15.629+02:00
+modified: 2026-07-16T14:12:42.156+02:00
+published: 2026-07-16T14:12:42.156+02:00
+tags:
+  - "#Grundregeln"
+  - "#5e"
+socialImage: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
+image: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
+status: ✅
+primeability: STR
+kurzbeschreibung: "Pushing, Pulling, Jumping, "
+---
+
+# 🎲5e Athletics🎲
+
+A character makes an Athletics check to perform unusually difficult feats of swimming, running, climbing, or jumping. The most commonly used ability score is Strength. A character might use Dexterity to climb a smooth wall for a short distance or to jump onto a moving creature, Constitution to perform an athletic activity for more than a minute, or Intelligence to keep track of opposing players in a complex sport.
+
+**Specialties:** climbing, jumping, lifting, running, swimming, throwing.
