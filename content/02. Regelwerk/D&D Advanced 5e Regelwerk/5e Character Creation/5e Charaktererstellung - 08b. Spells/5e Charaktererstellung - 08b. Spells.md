@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 5e Spells
+title: ✨5e Spells✨
 created: 2026-07-16T07:51:39.966+02:00
-modified: 2026-07-16T10:53:44.764+02:00
-published: 2026-07-16T10:53:44.764+02:00
+modified: 2026-07-16T12:57:36.583+02:00
+published: 2026-07-16T12:57:36.583+02:00
 tags:
   - "#Charaktererstellung"
   - "#5e"
@@ -31,7 +31,7 @@ status: ⏳
 > > |---|---|
 > > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
 
-# 5e Spells
+# ✨5e Spells✨
 
 ## Quellen
 

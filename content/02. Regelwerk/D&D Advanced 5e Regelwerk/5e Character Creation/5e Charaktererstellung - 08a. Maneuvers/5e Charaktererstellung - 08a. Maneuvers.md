@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 5e Maneuvers
+title: 🗡️5e Maneuvers🗡️
 created: 2026-07-16T07:51:39.966+02:00
-modified: 2026-07-16T10:53:36.697+02:00
-published: 2026-07-16T10:53:36.697+02:00
+modified: 2026-07-16T12:57:00.385+02:00
+published: 2026-07-16T12:57:00.385+02:00
 tags:
   - "#Charaktererstellung"
   - "#5e"
@@ -31,7 +31,7 @@ status: ⏳
 > > |---|---|
 > > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
 
-# 5e Maneuvers
+# 🗡️5e Maneuvers🗡️
 
 ## Quellen
 
