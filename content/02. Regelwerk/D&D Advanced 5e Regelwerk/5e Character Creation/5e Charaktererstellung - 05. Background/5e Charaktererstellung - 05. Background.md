@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 5e Backgrounds
+title: ⛏️5e Backgrounds⛏️
 created: 2026-07-16T07:51:39.804+02:00
-modified: 2026-07-16T10:53:01.562+02:00
-published: 2026-07-16T10:53:01.562+02:00
+modified: 2026-07-16T11:20:46.146+02:00
+published: 2026-07-16T11:20:46.146+02:00
 tags:
   - "#Charaktererstellung"
   - "#5e"
@@ -31,7 +31,7 @@ status: ⏳
 > > |---|---|
 > > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
 
-# 5e Backgrounds
+# ⛏️5e Backgrounds⛏️
 
 ## Quellen
 

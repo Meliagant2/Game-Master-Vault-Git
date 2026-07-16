@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 5e Classes
+title: 🧙5e Classes🧙
 created: 2026-07-16T07:51:39.804+02:00
-modified: 2026-07-16T10:51:02.499+02:00
-published: 2026-07-16T10:51:02.499+02:00
+modified: 2026-07-16T11:25:45.347+02:00
+published: 2026-07-16T11:25:45.347+02:00
 tags:
   - "#Charaktererstellung"
   - "#5e"
@@ -31,7 +31,7 @@ status: ⏳
 > > |---|---|
 > > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
 
-# 5e Classes
+# 🧙5e Classes🧙
 
 Being an adventurer is more than just an occupation. Your character has a spark somewhere deep inside their soul that places their feet on the path too dangerous for others to tread. Perhaps it was simply survival at first, or a quest for gold or honor, or maybe they answered a higher calling from a being far more powerful than they. But whatever its origin, it is the crucial element that separates the rogue from the simple pickpocket and the warlord from the common soldier.
 
@@ -45,25 +45,11 @@ Occasionally, those who have committed them-selves to a specific calling find th
 
 The table below details the classes explored in this book. They can be found in most worlds of the multiverse.
 
-```base
-views:
-  - type: cards
-    name: 5e Klassen
-    filters:
-      and:
-        - file.name.contains("5e Class")
-        - file.name != "5e Classes"
-        - '!file.name.contains("Template")'
-    image: note.image
-    cardSize: 150
-    imageAspectRatio: 1
-    imageFit: contain
+## Levelling Up
 
-```
+> [!warnung] UNDER CONSTRUCTION
 
-<br>
-
-## General Character Table
+### General Character Table
 
 This table shows the general progression of every character class. Every column, except for the "Features" Column is applicaple, even if your character is multiclassed
 
@@ -90,6 +76,26 @@ This table shows the general progression of every character class. Every column,
 > |18|-|-|-|Feat|
 > |19|-|-|-|Class Features|
 > |20|-|-|+1 in one ability score of your choice up to a maximum of +6|Epic Boon, Feat|
+
+## All Classes
+
+```base
+views:
+  - type: cards
+    name: 5e Klassen
+    filters:
+      and:
+        - file.name.contains("5e Class")
+        - file.name != "5e Classes"
+        - '!file.name.contains("Template")'
+    image: note.image
+    cardSize: 150
+    imageAspectRatio: 1
+    imageFit: contain
+
+```
+
+<br>
 
 ## Quellen
 

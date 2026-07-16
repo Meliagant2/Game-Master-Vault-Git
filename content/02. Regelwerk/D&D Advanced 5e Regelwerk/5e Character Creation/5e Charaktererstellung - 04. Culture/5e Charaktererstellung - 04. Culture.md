@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 5e Cultures
+title: 🎎5e Cultures🎎
 created: 2026-07-16T07:51:39.934+02:00
-modified: 2026-07-16T10:52:48.845+02:00
-published: 2026-07-16T10:52:48.845+02:00
+modified: 2026-07-16T11:17:18.402+02:00
+published: 2026-07-16T11:17:18.402+02:00
 tags:
   - "#Charaktererstellung"
   - "#5e"
@@ -31,7 +31,7 @@ status: ⏳
 > > |---|---|
 > > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
 
-# 5e Cultures
+# 🎎5e Cultures🎎
 
 ## Quellen
 

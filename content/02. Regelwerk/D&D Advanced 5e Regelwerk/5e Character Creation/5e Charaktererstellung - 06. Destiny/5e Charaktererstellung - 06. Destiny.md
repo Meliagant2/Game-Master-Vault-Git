@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 5e Destinies
+title: 🔮5e Destinies🔮
 created: 2026-07-16T07:51:39.934+02:00
-modified: 2026-07-16T10:53:12.897+02:00
-published: 2026-07-16T10:53:12.897+02:00
+modified: 2026-07-16T11:21:47.461+02:00
+published: 2026-07-16T11:21:47.461+02:00
 tags:
   - "#Charaktererstellung"
   - "#5e"
@@ -31,7 +31,7 @@ status: ⏳
 > > |---|---|
 > > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
 
-# 5e Destinies
+# 🔮5e Destinies🔮
 
 ## Quellen
 

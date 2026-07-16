@@ -2,8 +2,8 @@
 publish: true
 title: 5e Character Creation
 created: 2026-07-16T09:24:59.174+02:00
-modified: 2026-07-16T11:15:33.684+02:00
-published: 2026-07-16T11:15:33.684+02:00
+modified: 2026-07-16T11:28:16.496+02:00
+published: 2026-07-16T11:28:16.496+02:00
 tags:
   - "#Regelwerk"
   - "#5e"
@@ -51,27 +51,31 @@ Origins are detailed later but consist of four main aspects: **heritage**, **cul
 
 See [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Character Creation/5e Charaktererstellung - 01. Heritage/5e Charaktererstellung - 01. Heritage|👥Heritage]] for more details
 
-Characters in the world belong to a heritage which includes certain biological characteristics and defines some aspects of their physical appearance. Other things, such as a character’s [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Rules/5e Grundregel - Adventuring/5e Regel - Speed|Speed]] and [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Rules/5e Grundregel - Combat/5e Regel - Size|Size]], are also derived from their heritage. While a heritage may be a factor in your character’s story, that’s just the beginning. Who they are is defined by the experiences and the actions that lead them to where they are now.
+Characters in the world belong to a heritage which includes certain biological characteristics and defines some aspects of their physical appearance. Other things, such as a character’s **speed** and **size**, are also derived from their heritage. While a heritage may be a factor in your character’s story, that’s just the beginning. Who they are is defined by the experiences and the actions that lead them to where they are now.
 
-Choosing a heritage grants your character access to additional traits and a heritage gift, which helps you make your character stand out from the crowd. For example, a [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Character Creation/5e Charaktererstellung - 01. Heritage/5e Heritage - Drakari|👥Drakari's]] trait allows them to do what Dragons do best and exhale a breath based on that ancestry that can burn, electrify, and even freeze their enemies. Meanwhile some Drakari have scales like iron while others have developed aquatic adaptations.
+Choosing a heritage grants your character access to additional traits and a heritage gift, which helps you make your character stand out from the crowd. For example, a **Drakari's** trait allows them to do what Dragons do best and exhale a breath based on that ancestry that can burn, electrify, and even freeze their enemies. Meanwhile some Drakari have scales like iron while others have developed aquatic adaptations.
 
 In addition, as your character levels up, they choose a paragon heritage gift that is unique to their heritage.
 
 ### Culture
 
-See [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Character Creation/5e Charaktererstellung - 04. Culture/5e Charaktererstellung - 04. Culture|Culture]] for more details.
+See [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Character Creation/5e Charaktererstellung - 04. Culture/5e Charaktererstellung - 04. Culture|🎎Culture]] for more details.
 
-Your character’s culture details the society and circumstances that helped shape who they are. This provides a number of traits including proficiencies, languages, and other benefits related to the culture that influenced their development.
+Your character’s culture details the society and circumstances that helped shape who they are. This provides a number of traits including **proficiencies**, **languages**, and other benefits related to the culture that influenced their development.
 
 One of the key things to keep in mind during character creation is that culture options are universal and aren’t limited to specific heritages. This opens up a number of fun and interesting options and opportunities for your creativity to color outside of the lines!
 
 ### Background
 
-If a culture tells how a character started, their background helps outline where their journey led. There are a number of backgrounds to choose from each of which provides bonuses to your ability scores, additional proficiencies, and features your character can use while adventuring.
+See [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Character Creation/5e Charaktererstellung - 05. Background/5e Charaktererstellung - 05. Background|⛏️Background]] for more details.
+
+If a culture tells how a character started, their background helps outline where their journey led. There are a number of backgrounds to choose from each of which provides bonuses to your **ability scores**, additional **proficiencies**, and **features** your character can use while adventuring.
 
 That’s just mechanics though, and thinking about the details of how a background influences your character’s thoughts and actions is a great way to add depth to a concept. Deciding on your character’s memento (an object of personal importance) and connection (a person who matters to them) helps you create stakes in the world.
 
 ### Destiny
+
+See [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Character Creation/5e Charaktererstellung - 06. Destiny/5e Charaktererstellung - 06. Destiny|🔮Destiny]] for more details.
 
 All characters in the world have a destiny that they move towards, though whether or not they will reach it is a mystery. When creating a character you are able to place a mark of destiny upon them to not just help you better understand who they are and where you want them to go, but also help the Game Master get an idea of what you’re looking for as a player. It is a summation of their motivations, goals and outlook.
 
@@ -79,15 +83,17 @@ It also provides your character an edge at key moments that would help them move
 
 ### Class
 
+See [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Character Creation/5e Charaktererstellung - 02. Classes/5e Charaktererstellung - 02. Classes|🧙Classes]] for more details.
+
 Adventurers come from all walks of life and approach the world in different ways. Class is the term used to broadly describe the set of skills and abilities they use while confronting the challenges of the world. While your origin describes your character’s past, your class represents what they are doing now.
 
-Choosing a class for your character provides them with class features, the unique talents and expertise inherent to their class that set them apart from other classes. In addition, you also gain certain proficiencies which represent your character’s skills and what they are best at resisting (their saving throws), as well as their ability to use certain tools, armor, weapons and more. Proficiencies essentially outline the things your character can do well, such as performing for a packed room or holding on to their sanity after a particularly powerful psychic spell.
+Choosing a class for your character provides them with **class features**, the unique talents and expertise inherent to their class that set them apart from other classes. In addition, you also gain certain **proficiencies** which represent your character’s skills and what they are best at resisting (their saving throws), as well as their ability to use certain tools, armor, weapons and more. Proficiencies essentially outline the things your character can do well, such as performing for a packed room or holding on to their sanity after a particularly powerful psychic spell.
 
-Depending on which class you choose, at 3rd level you select a subclass for your class. Every class has its own set of disciplines that each specialize in one particular aspect of the adventuring tradition. Some rogues are very sneaky, others utilize magic in their thievery, and there are those who become master assassins — all rogues that made different choices with their subclasses.
+Depending on which class you choose, at **3rd level** you select a **subclass** for your class. Every class has its own set of disciplines that each specialize in one particular aspect of the adventuring tradition. Some **Rogues** are very sneaky, others utilize magic in their thievery, and there are those who become master assassins — all Rogues that made different choices with their subclasses.
 
 ### Level
 
-Most characters start at 1st level and advance by adventuring and gaining experience points (XP). A good way to picture a character at this level is to see them as a newcomer to some of the more difficult challenges you’ll face.
+Most characters start at 1st level and advance by adventuring and gaining **experience points (XP)**. A good way to picture a character at this level is to see them as a newcomer to some of the more difficult challenges you’ll face.
 
 Record your level on the character sheet as 1st level and indicate that your starting experience is zero.
 
