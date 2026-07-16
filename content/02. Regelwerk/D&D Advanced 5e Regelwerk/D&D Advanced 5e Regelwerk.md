@@ -2,8 +2,8 @@
 publish: true
 title: D&D 5e Regelwerk
 created: 2026-07-16T07:51:39.789+02:00
-modified: 2026-07-16T09:29:22.833+02:00
-published: 2026-07-16T09:29:22.833+02:00
+modified: 2026-07-16T09:39:09.570+02:00
+published: 2026-07-16T09:39:09.570+02:00
 tags:
   - "#Regelwerk"
   - "#5e"
@@ -77,4 +77,4 @@ views:
 ## Quellen
 
 > [!inspiration] Quellen
-> **Cover Art:** Wylie Beckert, Tyler Jacobson; Cover Art vom D\&D5e 2024 Player's Handbook
+> **Art:** Wylie Beckert, Tyler Jacobson; Cover Art vom D\&D5e 2024 Player's Handbook

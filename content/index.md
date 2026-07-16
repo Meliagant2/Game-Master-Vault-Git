@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-16T09:28:52.598+02:00
-published: 2026-07-16T09:28:52.598+02:00
+modified: 2026-07-16T09:47:30.502+02:00
+published: 2026-07-16T09:47:30.502+02:00
 tags:
   - "#Home"
 cssClasses: cards
@@ -15,10 +15,6 @@ cssClasses: cards
 > Im Augenblick funktioniert auf dieser Website nur der Light mode korrekt, da ich den dark mode noch nicht designed habe. Daher bitte oben links, neben der Suchleiste bitte darauf wechseln, falls der Dark mode aktiviert ist.
 
 **Einleitende Worte. Erklärung der Vault und der Website Funktionen**
-
-Testrunde 1 ⚙️
-
-[[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Charakter Creation/5e Charaktererstellung - Classes/5e Class Adept/5e Class Adept|⚙️5e Class Adept⚙️]]
 
 ### Quellen
 
