@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 5e Equipment
+title: 🛠️5e Equipment🛠️
 created: 2026-07-16T07:51:39.950+02:00
-modified: 2026-07-16T10:35:57.257+02:00
-published: 2026-07-16T10:35:57.257+02:00
+modified: 2026-07-16T11:53:37.986+02:00
+published: 2026-07-16T11:53:37.986+02:00
 tags:
   - "#Charaktererstellung"
   - "#5e"
@@ -31,7 +31,7 @@ status: ⏳
 > > |---|---|
 > > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
 
-# 5e Equipment
+# 🛠️5e Equipment🛠️
 
 ## Quellen
 

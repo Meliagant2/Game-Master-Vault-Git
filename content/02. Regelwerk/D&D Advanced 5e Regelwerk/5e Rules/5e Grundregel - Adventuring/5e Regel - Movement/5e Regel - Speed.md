@@ -1,14 +1,14 @@
 ---
 publish: true
-title: 🎒5e Adventuring🎒
-created: 2026-07-16T07:51:39.981+02:00
-modified: 2026-07-16T11:53:23.054+02:00
-published: 2026-07-16T11:53:23.054+02:00
+title: 5e Speed
+created: 2026-07-16T09:58:29.037+02:00
+modified: 2026-07-16T09:59:08.165+02:00
+published: 2026-07-16T09:59:08.165+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
-socialImage: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Adventuring.png]]"
-image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Adventuring.png]]"
+socialImage: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
+image: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
 status: ⏳
 ---
 
@@ -31,9 +31,4 @@ status: ⏳
 > > |---|---|
 > > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
 
-# 🎒5e Adventuring🎒
-
-## Quellen
-
-> [!inspiration] Quellen
-> **Art:** Created by nareerat jaikaew from Noun Project
+# 5e Speed

@@ -2,8 +2,8 @@
 publish: true
 title: 5e Character Creation
 created: 2026-07-16T09:24:59.174+02:00
-modified: 2026-07-16T11:28:16.496+02:00
-published: 2026-07-16T11:28:16.496+02:00
+modified: 2026-07-16T12:04:11.165+02:00
+published: 2026-07-16T12:04:11.165+02:00
 tags:
   - "#Regelwerk"
   - "#5e"
@@ -35,6 +35,22 @@ status: ⏳
 
 ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Character Creation.png]]
 
+```base
+views:
+  - type: cards
+    name: 5e Charaktererstellung
+    filters:
+      and:
+        - file.name.contains("5e Charaktererstellung")
+    order:
+      - file.name
+    image: note.image
+    cardSize: 150
+    imageAspectRatio: 1
+    imageFit: contain
+
+```
+
 The world of Ena Lucoria offers an infinite combination of possibilities and circumstances that shape the lives of the characters who live within it. Your first step is deciding what type of character you want to create. Their personality, appearance, aspirations, desires, and fears are all up to you. It’s through their eyes that you’ll experience the world, and all the details you give them shape how you — and by extension they— interact with the world and respond to what takes place during the course of gameplay. Before diving into the mechanics of the character creation process try to imagine what you’re looking for in a character and what interests you as a player.
 
 Are you fascinated by the dynamics between gods and mortals? Are you intrigued by combat in all its myriad forms? Or do you prefer to be the source of knowledge for the party, surprising them with just the right tidbit of information to save the day or ruin it for someone else?
@@ -49,7 +65,7 @@ Origins are detailed later but consist of four main aspects: **heritage**, **cul
 
 ### Heritage
 
-See [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Character Creation/5e Charaktererstellung - 01. Heritage/5e Charaktererstellung - 01. Heritage|👥Heritage]] for more details
+See [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Character Creation/5e Charaktererstellung - 01. Heritage/5e Charaktererstellung - 01. Heritage|👥Heritage]] for more information.
 
 Characters in the world belong to a heritage which includes certain biological characteristics and defines some aspects of their physical appearance. Other things, such as a character’s **speed** and **size**, are also derived from their heritage. While a heritage may be a factor in your character’s story, that’s just the beginning. Who they are is defined by the experiences and the actions that lead them to where they are now.
 
@@ -59,7 +75,7 @@ In addition, as your character levels up, they choose a paragon heritage gift th
 
 ### Culture
 
-See [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Character Creation/5e Charaktererstellung - 04. Culture/5e Charaktererstellung - 04. Culture|🎎Culture]] for more details.
+See [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Character Creation/5e Charaktererstellung - 04. Culture/5e Charaktererstellung - 04. Culture|🎎Culture]] for more information.
 
 Your character’s culture details the society and circumstances that helped shape who they are. This provides a number of traits including **proficiencies**, **languages**, and other benefits related to the culture that influenced their development.
 
@@ -67,7 +83,7 @@ One of the key things to keep in mind during character creation is that culture 
 
 ### Background
 
-See [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Character Creation/5e Charaktererstellung - 05. Background/5e Charaktererstellung - 05. Background|⛏️Background]] for more details.
+See [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Character Creation/5e Charaktererstellung - 05. Background/5e Charaktererstellung - 05. Background|⛏️Background]] for more information.
 
 If a culture tells how a character started, their background helps outline where their journey led. There are a number of backgrounds to choose from each of which provides bonuses to your **ability scores**, additional **proficiencies**, and **features** your character can use while adventuring.
 
@@ -75,7 +91,7 @@ That’s just mechanics though, and thinking about the details of how a backgrou
 
 ### Destiny
 
-See [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Character Creation/5e Charaktererstellung - 06. Destiny/5e Charaktererstellung - 06. Destiny|🔮Destiny]] for more details.
+See [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Character Creation/5e Charaktererstellung - 06. Destiny/5e Charaktererstellung - 06. Destiny|🔮Destiny]] for more information.
 
 All characters in the world have a destiny that they move towards, though whether or not they will reach it is a mystery. When creating a character you are able to place a mark of destiny upon them to not just help you better understand who they are and where you want them to go, but also help the Game Master get an idea of what you’re looking for as a player. It is a summation of their motivations, goals and outlook.
 
@@ -83,7 +99,7 @@ It also provides your character an edge at key moments that would help them move
 
 ### Class
 
-See [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Character Creation/5e Charaktererstellung - 02. Classes/5e Charaktererstellung - 02. Classes|🧙Classes]] for more details.
+See [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Character Creation/5e Charaktererstellung - 02. Classes/5e Charaktererstellung - 02. Classes|🧙Classes]] for more information.
 
 Adventurers come from all walks of life and approach the world in different ways. Class is the term used to broadly describe the set of skills and abilities they use while confronting the challenges of the world. While your origin describes your character’s past, your class represents what they are doing now.
 
@@ -91,7 +107,7 @@ Choosing a class for your character provides them with **class features**, the u
 
 Depending on which class you choose, at **3rd level** you select a **subclass** for your class. Every class has its own set of disciplines that each specialize in one particular aspect of the adventuring tradition. Some **Rogues** are very sneaky, others utilize magic in their thievery, and there are those who become master assassins — all Rogues that made different choices with their subclasses.
 
-### Level
+#### Level
 
 Most characters start at 1st level and advance by adventuring and gaining **experience points (XP)**. A good way to picture a character at this level is to see them as a newcomer to some of the more difficult challenges you’ll face.
 
@@ -101,32 +117,37 @@ Depending on the campaign your Game Master is making for the group, your game’
 
 ### Hit Points and Hit Dice
 
-Your character’s hit points provide a rough idea of how much damage they can withstand. Your hit points are determined by your Hit Dice which are in turn tied to your class. At 1st level, your character begins with 1 Hit Die and hit points equal to the maximum number of that Hit Die. You also gain additional hit points based on your Constitution which will be covered later in the character creation process. Another use for Hit Dice is the ability to roll them in order to recover hit points during a short rest.
+See [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Rules/5e Grundregel - Combat/5e Regel - Hit Points/5e Regel - Hit Points|❤️Hit Points]] for more information.
 
-The total number of hit points you have available is called your hit point maximum.
+Your character’s **Hit Points (HP)** provide a rough idea of how much damage they can withstand. Your HP are determined by your **Hit Dice** which are in turn tied to your class. At 1st level, your character begins with **1 Hit Die** and hit points equal to the maximum number of that Hit Die. You also gain additional HP based on your **Constitution** which will be covered later in the character creation process. Another use for Hit Dice is the ability to roll them in order to recover hit points during a short rest.
 
-Be sure to record your character’s Hit Dice and hit points on the character sheet.
+The total number of HP you have available is called your **Hit Point Maximum**.
+
+Be sure to record your character’s Hit Dice and Hit Points on the character sheet.
 
 ### Proficiency Bonus
 
-Your proficiency bonus can be found in the table that describes the features you gain at each level of your class. Characters starting out at 1st level begin with a +2 to proficiency and that bonus applies to a number of important character elements:
+See [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Character Creation/5e Charaktererstellung - 00. Ability Scores/5e Regel - Proficiency/5e Regel - Proficiency|⚙️Proficiency]] for more information.
 
-- Attacks you make with weapons you are proficient with.
-- Spell attacks cast against your adversaries.
-- Ability checks made using proficiency-based skills.
-- Ability checks made to utilize tools that you are proficient with.
-- Saving throw DCs for features, spells, and traits you use.
-- Saving throws you have proficiency in.
+Your **Proficiency Bonus (PB)** can be found in the table that describes the features you gain at each level of your class. Characters starting out at 1st level begin with a <u>+2</u> to proficiency and that bonus applies to a number of important character elements:
 
-Proficiencies come from a number of sources, including backgrounds, classes, feats, and more. Be sure to keep a look out for when your character gains a proficiency and note it on the character sheet.
+- **Attacks** you make with weapons you are proficient with.
+- **Spell Attacks** cast against your adversaries.
+- **Ability Checks** made using proficiency-based **skills** or **tools**.
+- **Saving Throw DCs** for features, spells, and traits you use.
+- **Saving Throws** you have proficiency in.
+
+Proficiencies come from a number of sources, including **Backgrounds**, **Classes**, **Feats**, and more. Be sure to keep a look out for when your character gains a proficiency and note it on the character sheet.
 
 Your proficiency bonus can only be added to a die roll or any other circumstance once. The only exceptions are cases where the bonus is modified before being applied to a roll. If circumstances arise that indicate your bonus should be halved, doubled, or multiplied more than once, the golden rule is to only halve, double, or multiply it once.
 
 ### Determine Ability Scores
 
-There are six key ability scores that factor into everything that your character does in the game: Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma. These abilities and their uses are described in detail later. Review Table: Ability Scores in Theory and Practice to get an idea of what they are, what classes rely on them, and how they may come up in play.
+See [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Character Creation/5e Charaktererstellung - 00. Ability Scores/5e Charaktererstellung - 00. Ability Scores|⚙️Ability Scores]] for more information.
 
-Ability scores are generated randomly by rolling 2d4 and substracting 4 from the total. You continue to do this until you have a total of six numbers.
+There are six key ability scores that factor into everything that your character does in the game: **Strength (STR)**, **Dexterity (DEX)**, **Constitution (CON)**, **Intelligence (INT)**, **Wisdom (WIS)**, and **Charisma (CHA)**. These abilities and their uses are described in detail later.
+
+Ability scores are generated randomly by rolling <u>2d4</u> and substracting 4 from the total. You continue to do this until you have a total of six numbers.
 
 Choose where you’d like to assign these numbers by recording each next to an ability score.
 
@@ -135,45 +156,44 @@ After that’s done, modify your ability scores to account for any additional bo
 #### Strength
 
 **How hard can I hit with this weapon?**
-Represents the physical power your character can exert upon
-the world.
+Represents the physical power your character can exert upon the world.
 
-Important for: Adepts, Barbarians, Fighters, Paladins
+Important for: **Adepts**, **Barbarians**, **Fighters**, **Paladins**
 
 #### Dexterity
 
 **Can I avoid getting hit by their weapon**
 Represents your character’s physical agility and reflexes.
 
-Important for: Adepts, Fighters, Rangers, Rogues
+Important for: **Adepts**, **Fighters**, **Rangers**, **Rogues**
 
 #### Constitution
 
 **How many strikes from their weapon can I take?**
 Represents your character’s health, stamina, and endurance.
 
-Improtant for: everyone
+Improtant for: **everyone**
 
 #### Intelligence
 
 **Theoretically, I can calculate how many strikes I can take before I pass out.**
 Represents your character’s mental power, including information recall and general knowledge.
 
-Important for: Warlocks, Wizards
+Important for: **Warlocks**, **Wizards**
 
 #### Wisdom
 
 **It would be best not to test that theory myself in combat.**
 Represents your character’s ability to apply logic and reasoning to situations, as well as overall awareness of surroundings and intuition.
 
-Important for: Adepts, Clerics, Druids, Rangers, Warlocks
+Important for: **Adepts**, **Clerics**, **Druids**, **Rangers**, **Warlocks**
 
 #### Charisma
 
 **I’ve convinced them to just not hit me...or possibly hit someone else.**
 Represents your character’s overall impression on others and their ability to convince, deceive, and lead.
 
-Important for: Bards, Paladins, Sorcerers, Warlocks
+Important for: **Bards**, **Paladins**, **Sorcerers**, **Warlocks**
 
 <div class="description">
 <h3>Variant: Standard Ability Array</h3>
@@ -194,15 +214,17 @@ Important for: Bards, Paladins, Sorcerers, Warlocks
 
 ### Gear up for Adventure
 
-Your character begins the game with starting equipment determined by their background and class. Starting equipment includes everything from weapons and armor to general tools and items. Be sure to record your starting equipment on thecharacter sheet.
+See [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Character Creation/5e Charaktererstellung - 07. Equipment/5e Charaktererstellung - 07. Equipment|🛠️Equipment]] for more information.
 
-If your character is going on a journey, they will also need to carry food and water with them (or whatever it is they eat and drink). You can carry a number of days’ Supply equal to your Strength score, in addition to your equipment, weapons, and armor.
+Your character begins the game with **starting equipment** determined by their background and class. Starting equipment includes everything from **weapons** and **armor** to general tools and items. Be sure to record your starting equipment on the character sheet.
+
+If your character is going on a journey, they will also need to carry **food** and **water** with them (or whatever it is they eat and drink). You can carry a number of days’ Supply equal to your Strength score, in addition to your equipment, weapons, and armor.
 
 #### Defense
 
-Your Armor Class (AC) represents your character’s ability to avoid sustaining damage in battle. Numerous things affect your AC in various ways, such as armor, traits, features, Dexterity and more.
+Your **Armor Class (AC)** represents your character’s ability to avoid sustaining damage in battle. Numerous things affect your AC in various ways, such as armor, traits, features, Dexterity and more.
 
-Unarmored, your character’s AC is 10 + their Dexterity. While wearing armor, utilizing shields, or taking advantage of traits and features, the AC calculation will differ based on the circumstances. For equipment the details of AC calculation are available as part of an item’s description, and the criteria and effects of other options are listed in your character’s class, heritage, or culture.
+**Unarmored,** your character’s AC is **10 + their DEX**. While wearing armor, utilizing shields, or taking advantage of traits and features, the AC calculation will differ based on the circumstances. For equipment the details of AC calculation are available as part of an item’s description, and the criteria and effects of other options are listed in your character’s class, heritage, or culture.
 
 When your character is subject to more than one way to calculate their AC, you can choose which one to apply.
 
@@ -212,14 +234,14 @@ One of the key things to remember when making your character is that not everyon
 
 Some of your attacks and spells may force your target to make a saving throw to resist it. You have two  saving throw difficulty classes (DCs), one used for combat explits, and the other for spellcasting.
 
-**Maneuver save DC:**  = 8 + your proficiency bonus + your Strength or Dexterity.
-**Spell save DC:** = 8 + your proficiency bonus + your spellcasting ability.
+**Maneuver save DC**  = 8 + your proficiency bonus + your Strength or Dexterity.
+**Spell save DC** = 8 + your proficiency bonus + your spellcasting ability.
 
 #### Offense
 
 Weapons are the bread and butter of any savvy adventurer, even those who use them as only a last resort.
 
-Weapon attacks are made by rolling a d20 and adding your proficiency bonus (as long as your character is actually proficient with the weapon) and the appropriate abilit. Weapon damage is calculated by rolling the weapon’s damage die and adding any applicable ability.
+Weapon attacks are made by rolling a <u>d20</u> and adding your proficiency bonus (as long as your character is actually proficient with the weapon) and the appropriate ability. Weapon damage is calculated by rolling the weapon’s **damage die** and adding any applicable ability.
 
 Melee weapons use your character’s Strengt or Dexterity for attack and damage rolls.
 
@@ -227,9 +249,9 @@ Meanwhile, ranged weapons use Dexterity for attack and damage rolls. Some weapon
 
 All attacks also indicate the type of damage they deal. A sickle deals slashing damage while a heavy maul deals bludgeoning damage. Damage types, besides being cool aspects of your character, also come into play as some situations may call for one type of damage type over the other.
 
-Some special attacks (basic combat maneuvers that you use to grapple or shove a creature) instead do an amount of damage called basic melee damage.
+Some special attacks (basic combat maneuvers that you use to grapple or shove a creature) instead do an amount of damage called **basic melee damage**.
 
-This is equal to 1 + your Strength.
+This is equal to **1 + your Strength**.
 
 ### Bring your Character to Life
 
@@ -247,15 +269,11 @@ The world is full of dangers and perils mundane and mystic. Most characters don�
 
 The challenges your characters face and the adventures they take can be classified into five main tiers of play. Tiers of play help give you an idea of what to expect involving the scale of the challenges you face and how the world generally reacts to you.
 
-At tier 0 (levels 1st–2nd) your characters are entirely new to adventuring, just beginning to learn how dangerous the world around them can really be.
-
-At tier 1 (levels 3rd–4th) your characters are local heroes. They are coming into their own as adventurers and learning the basic elements of their classes. Threats are small in scale and scope.
-
-At tier 2 (levels 5th–10th) your characters are regional heroes. They are accessing new levels of martial or magical power and can use skills, features, and magic that attract attention and acclaim.
-
-At tier 3 (levels 11th–16th) your characters are masters of their craft, well beyond the abilities of other people and even other adventurers. Spells can bend the definition of what’s possible while martial characters taking to the battlefield can and have turned the tides of massive battles.
-
-At tier 4 (levels 17th–20th) your characters have reached a point where the challenges they face are of world-changing size and proportion. At this tier, your character’s actions have the potential to fundamentally alter the lives and wellbeing of those that rely on (or fear) them.
+**At tier 1 (levels 1-4)** your characters are entirely new to adventuring, just beginning to learn how dangerous the world around them can really be.
+**At tier 2 (levels 5-8)** your characters are local heroes. They are coming into their own as adventurers and learning the basic elements of their classes. Threats are small in scale and scope.
+**At tier 3 (levels 9-12)** your characters are regional heroes. They are accessing new levels of martial or magical power and can use skills, features, and magic that attract attention and acclaim.
+**At tier 4 (levels 13-16)** your characters are masters of their craft, well beyond the abilities of other people and even other adventurers. Spells can bend the definition of what’s possible while martial characters taking to the battlefield can and have turned the tides of massive battles.
+**At tier 5 (levels 17–20)** your characters have reached a point where the challenges they face are of world-changing size and proportion. At this tier, your character’s actions have the potential to fundamentally alter the lives and wellbeing of those that rely on (or fear) them.
 
 ## Origins
 
@@ -269,7 +287,7 @@ Only you know what story you are trying to tell with your character, and only yo
 
 Your heritage solely influences your character’s physical appearance and traits, while your culture influences those traits that would be learned or developed over time. Your background reflects the path you have chosen to take, or a path you have been pulled into, independent of your heritage or culture. This grants you things like proficiencies with skills, languages, and tools, and bonuses to certain ability scores to represent the areas of your life that have seen intentional improvement. Finally, your destiny describes your character’s goals and motivations. The following sections are designed to walk you through the four-part origin story, and to help you build your ideal adventurer.
 
-#### Heritage
+### Heritage
 
 The first step in the origin creation process is deciding on a heritage such as a dwarf, elf, or halfling. Each of the eight heritages listed in this chapter include unique, biologically inherited traits as well as details about their physical appearances.
 
@@ -308,7 +326,7 @@ In addition to the traits granted to all characters of the same heritage, some i
 
 Later in their adventuring career, each heritage grants a paragon feature. This could be a completely new feature, or something that improves or offers a new way to use a trait already granted by the heritage.
 
-#### Culture
+### Culture
 
 The second step in the origin creation process is choosing your character’s culture. This is the culture they were raised in, or that of their parents, and does not need to be related to their heritage; a character’s culture can be used to represent their past as a refugee, adoption into a new family, or being raised outside of their heritage for any other reason. The culture you choose provides your character with a number of proficiencies and traits that they would have learned through living amongst that culture, or that members of that culture are often trained in.
 
@@ -324,7 +342,7 @@ This section details the languages that a character can read, speak, write, and 
 
 **Signing:** You must have at least one hand free to communicate by sign, and the creature you are communicating with must be able to see you. When attempting to make subtle signs, to remain unnoticed you must succeed on a Sleight of Hand check against the passive Perception scores of observers.
 
-#### Background
+### Background
 
 The next step in creating your character’s origin story is choosing their background. A character’s background tells a story about the life they have chosen to lead, separate from the culture they were raised in. This step can be used to tell nearly any story; how your character became an adventurer, why they claim a culture other than the one associated with their heritage, or how they began their journey towards finding their place in the world.
 
@@ -370,7 +388,7 @@ Every background comes with a feature that helps determine how your character in
 
 Every background gives a list of recommended first level feats. Your character can take one to aid them on their journey. No character must pick from the list of feats provided by their background. Instead they can choose any first level feat they and the Game Master deem appropriate.
 
-#### Destiny
+### Destiny
 
 The final part of your character’s origin is their destiny. Your destiny represents your character’s overall personal story arc. It provides your character with motivation, roleplaying hooks, and special features, including a bonus feature when your character eventually fulfills their destiny.
 
