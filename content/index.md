@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-16T07:54:09.729+02:00
-published: 2026-07-16T07:54:09.729+02:00
+modified: 2026-07-16T08:10:52.581+02:00
+published: 2026-07-16T08:10:52.581+02:00
 tags:
   - "#Home"
 cssClasses: cards
@@ -11,9 +11,48 @@ cssClasses: cards
 
 # Home
 
+> [!warnung] WICHTIG
+> Im Augenblick funktioniert auf dieser Website nur der Light mode korrekt, da ich den dark mode noch nicht designed habe. Daher bitte oben links, neben der Suchleiste bitte darauf wechseln, falls der Dark mode aktiviert ist.
+
 **Einleitende Worte. Erklärung der Vault und der Website Funktionen**
 
-ALARM! DIES IST EIN TEST, OB ALLES FUNKTIONIERT! ALARM! ALARM!
+TEST, OB BASES AUCH FUNKTIONIERT, WENN ICH NACH ORDNERN FILTERE UND OB BASES INNERHALB VON CALLOUTS FUNKTIONIEREN
+
+#### base ohne callout, aber link zu einem Dateipfad
+
+```base
+views:
+  - type: cards
+    name: 5e Klassen TEST
+    filters:
+      and:
+        - file.path.contains("02. Regelwerk/D&D Advanced 5e Regelwerk/5e Charakter Creation/5e Charaktererstellung - Classes/5e Class")
+    image: note.image
+    cardSize: 150
+    imageAspectRatio: 1
+    imageFit: contain
+
+```
+
+#### Base von der ich weiß, dass sie funktioniert innerhalb eines Callouts
+
+> [!info] Test
+>
+> ```base
+> views:
+>  - type: cards
+>    name: 5e Klassen tew
+>    filters:
+>      and:
+>        - file.name.contains("5e Class")
+>        - file.name != "5e Classes"
+>        - '!file.name.contains("Template")'
+>    image: note.image
+>    cardSize: 150
+>    imageAspectRatio: 1
+>    imageFit: contain
+>
+> ```
 
 ### Quellen
 
