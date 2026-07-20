@@ -2,8 +2,8 @@
 publish: true
 title: D&D 5e Regelwerk
 created: 2026-07-20T12:11:02.432+02:00
-modified: 2026-07-20T15:17:43.193+02:00
-published: 2026-07-20T15:17:43.193+02:00
+modified: 2026-07-20T15:42:44.529+02:00
+published: 2026-07-20T15:42:44.529+02:00
 tags:
   - "#Regelwerk"
   - "#5e"
@@ -48,7 +48,7 @@ views:
 
 ## Character Creation
 
-In the Character Creation Rules you find everything you need to know to create a Player Character. You can find the basic character creation rules here: [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Character Creation/5e Character Creation|⚙️Character Creation]].
+In the Character Creation Rules you find everything you need to know to create a Player Character. You can find the basic character creation rules here: [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - Character Creation|⚙️Character Creation]].
 
 ```base
 views:
