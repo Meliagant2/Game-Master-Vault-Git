@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-20T08:34:03.871+02:00
-published: 2026-07-20T08:34:03.871+02:00
+modified: 2026-07-20T08:39:42.232+02:00
+published: 2026-07-20T08:39:42.232+02:00
 tags:
   - "#Home"
 cssClasses: cards
@@ -18,10 +18,10 @@ cssClasses: cards
 
 ### Dataviewjs
 
-|File|Picture of the Day|
-|---|---|
+```dataviewjs
+dv.pages("#Classes");
 
-Dataview: No results to show for table query.
+```
 
 ### Dataview CARDS
 
