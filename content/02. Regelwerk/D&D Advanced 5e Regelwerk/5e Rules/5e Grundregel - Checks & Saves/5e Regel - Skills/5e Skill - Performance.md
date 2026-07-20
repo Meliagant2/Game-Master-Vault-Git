@@ -2,12 +2,15 @@
 publish: true
 title: 🎲5e Performance🎲
 created: 2026-07-20T12:11:02.950+02:00
-modified: 2026-07-16T14:29:42.176+02:00
-published: 2026-07-16T14:29:42.176+02:00
+modified: 2026-07-20T15:20:26.356+02:00
+published: 2026-07-20T15:20:26.356+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
 socialImage: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
+dateitags:
+  - "#Skill"
+  - "#5e"
 image: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
 status: ✅
 primeability: CHA

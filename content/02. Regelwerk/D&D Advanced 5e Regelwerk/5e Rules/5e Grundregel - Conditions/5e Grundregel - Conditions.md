@@ -2,12 +2,15 @@
 publish: true
 title: ☠️5e Conditions☠️
 created: 2026-07-20T12:11:03.060+02:00
-modified: 2026-07-16T12:57:56.902+02:00
-published: 2026-07-16T12:57:56.902+02:00
+modified: 2026-07-20T14:54:32.240+02:00
+published: 2026-07-20T14:54:32.240+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
 socialImage: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Conditions.png]]"
+dateitags:
+  - "#Grundregeln"
+  - "#5e"
 image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Conditions.png]]"
 status: ⏳
 ---

@@ -2,12 +2,15 @@
 publish: true
 title: 👥5e Drakari👥
 created: 2026-07-20T12:11:02.447+02:00
-modified: 2026-07-16T17:54:29.838+02:00
-published: 2026-07-16T17:54:29.838+02:00
+modified: 2026-07-20T14:59:33.970+02:00
+published: 2026-07-20T14:59:33.970+02:00
 tags:
   - "#Heritage"
   - "#5e"
 socialImage: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Heritage Drakari.png]]"
+dateitags:
+  - "#Heritage"
+  - "#5e"
 image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Heritage Drakari.png]]"
 status: ✅
 aliase: Dragonborn

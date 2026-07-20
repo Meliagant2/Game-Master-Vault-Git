@@ -2,12 +2,15 @@
 publish: true
 title: 🧙5e Classes🧙
 created: 2026-07-20T12:11:02.494+02:00
-modified: 2026-07-16T11:25:45.347+02:00
-published: 2026-07-16T11:25:45.347+02:00
+modified: 2026-07-20T15:17:00.145+02:00
+published: 2026-07-20T15:17:00.145+02:00
 tags:
   - "#Charaktererstellung"
   - "#5e"
 socialImage: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Classes.png]]"
+dateitags:
+  - "#Charaktererstellung"
+  - "#5e"
 image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Classes.png]]"
 status: ⏳
 ---
@@ -85,8 +88,8 @@ views:
     name: 5e Klassen
     filters:
       and:
-        - file.name.contains("5e Class")
-        - file.name != "5e Classes"
+        - dateitags.contains("#5e")
+        - dateitags.contains("#Classes")
         - '!file.name.contains("Template")'
     image: note.image
     cardSize: 150

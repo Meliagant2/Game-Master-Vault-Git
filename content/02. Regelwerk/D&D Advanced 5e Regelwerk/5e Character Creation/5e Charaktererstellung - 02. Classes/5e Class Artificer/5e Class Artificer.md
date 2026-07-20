@@ -2,12 +2,15 @@
 publish: true
 title: Artificer
 created: 2026-07-20T12:11:02.510+02:00
-modified: 2026-07-16T11:15:33.710+02:00
-published: 2026-07-16T11:15:33.710+02:00
+modified: 2026-07-20T15:11:14.565+02:00
+published: 2026-07-20T15:11:14.565+02:00
 tags:
   - "#Classes"
   - "#5e"
 socialImage: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Artificer 5e.png]]"
+dateitags:
+  - "#Classes"
+  - "#5e"
 image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Artificer 5e.png]]"
 status: ⏳
 ---
@@ -119,10 +122,21 @@ You choose one 5e Class Artificer Subclass, which represents you best.
 
 Your 5e Class Artificer Subclass grants you features at 3rd, 6th, 9th, 13th, and again at 17th level.
 
-> [!cards|dataview 5]
-> | Bild                                                                     | Title                                                                                                                                                                                                                                                              | K  |
-> | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -- |
-> | ![[98. Diverses/Bilder/Misc/PlaceholderImage.png|PlaceholderImage.png]] | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Character Creation/5e Charaktererstellung - 02. Classes/5e Class Warlock/5e Subclass - Archfey Patron.md|5e Subclass - Archfey Patron]]</span> | - |
+```base
+views:
+  - type: cards
+    name: 5e Adept Subclasses
+    filters:
+      and:
+        - dateitags.contains("#5e")
+        - dateitags.contains("#Subclass")
+        - dateitags.contains("#Artificer")
+    image: note.image
+    cardSize: 150
+    imageAspectRatio: 1
+    imageFit: contain
+
+```
 
 ### Level 4: Feat
 

@@ -2,8 +2,8 @@
 publish: true
 title: ⚙️5e Character Creation⚙️
 created: 2026-07-20T12:11:02.432+02:00
-modified: 2026-07-16T17:53:55.960+02:00
-published: 2026-07-16T17:53:55.960+02:00
+modified: 2026-07-20T15:17:31.060+02:00
+published: 2026-07-20T15:17:31.060+02:00
 tags:
   - "#Charaktererstellung"
   - "#5e"
@@ -24,7 +24,9 @@ views:
     name: 5e Charaktererstellung
     filters:
       and:
-        - file.name.contains("5e Charaktererstellung")
+        - dateitags.contains("#Charaktererstellung")
+        - dateitags.contains("#5e")
+        - '!file.name.contains("Template")'
     order:
       - file.name
     image: note.image

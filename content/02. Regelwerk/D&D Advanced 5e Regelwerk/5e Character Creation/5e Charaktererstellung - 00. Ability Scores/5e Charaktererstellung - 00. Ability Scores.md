@@ -2,12 +2,15 @@
 publish: true
 title: ⚙️5e Ability Scores⚙️
 created: 2026-07-20T12:11:02.447+02:00
-modified: 2026-07-16T14:33:42.056+02:00
-published: 2026-07-16T14:33:42.056+02:00
+modified: 2026-07-20T14:56:11.228+02:00
+published: 2026-07-20T14:56:11.228+02:00
 tags:
   - "#Charaktererstellung"
   - "#5e"
 socialImage: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Ability Score.png]]"
+dateitags:
+  - "#Charaktererstellung"
+  - "#5e"
 image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Ability Score.png]]"
 status: ✅
 ---

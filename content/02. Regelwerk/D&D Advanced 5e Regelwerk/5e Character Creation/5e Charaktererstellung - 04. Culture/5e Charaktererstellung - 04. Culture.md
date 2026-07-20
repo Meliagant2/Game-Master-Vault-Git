@@ -2,12 +2,15 @@
 publish: true
 title: 🎎5e Cultures🎎
 created: 2026-07-20T12:11:02.622+02:00
-modified: 2026-07-16T11:17:18.402+02:00
-published: 2026-07-16T11:17:18.402+02:00
+modified: 2026-07-20T14:56:44.414+02:00
+published: 2026-07-20T14:56:44.414+02:00
 tags:
   - "#Charaktererstellung"
   - "#5e"
 socialImage: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Culture.png]]"
+dateitags:
+  - "#Charaktererstellung"
+  - "#5e"
 image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Culture.png]]"
 status: ⏳
 ---

@@ -2,12 +2,15 @@
 publish: true
 title: 🎲5e Medicine🎲
 created: 2026-07-20T12:11:02.934+02:00
-modified: 2026-07-16T14:29:38.728+02:00
-published: 2026-07-16T14:29:38.728+02:00
+modified: 2026-07-20T15:20:19.706+02:00
+published: 2026-07-20T15:20:19.706+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
 socialImage: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
+dateitags:
+  - "#Skill"
+  - "#5e"
 image: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
 status: ✅
 primeability: WIS

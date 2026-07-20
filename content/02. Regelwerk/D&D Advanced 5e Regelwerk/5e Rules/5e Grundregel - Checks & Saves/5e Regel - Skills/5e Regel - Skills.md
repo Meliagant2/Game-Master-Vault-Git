@@ -2,8 +2,8 @@
 publish: true
 title: 🎲5e Skills🎲
 created: 2026-07-20T12:11:02.903+02:00
-modified: 2026-07-16T14:30:55.608+02:00
-published: 2026-07-16T14:30:55.608+02:00
+modified: 2026-07-20T15:21:11.109+02:00
+published: 2026-07-20T15:21:11.109+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -72,7 +72,8 @@ views:
     name: 5e Skills
     filters:
       and:
-        - file.name.contains("5e Skill")
+        - dateitags.contains("#Skill")
+        - dateitags.contains("#5e")
     order:
       - file.name
       - primeability

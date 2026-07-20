@@ -2,12 +2,15 @@
 publish: true
 title: 🎲5e Survival🎲
 created: 2026-07-20T12:11:02.966+02:00
-modified: 2026-07-16T14:29:03.626+02:00
-published: 2026-07-16T14:29:03.626+02:00
+modified: 2026-07-20T15:20:40.557+02:00
+published: 2026-07-20T15:20:40.557+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
 socialImage: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
+dateitags:
+  - "#Skill"
+  - "#5e"
 image: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
 status: ✅
 primeability: WIS

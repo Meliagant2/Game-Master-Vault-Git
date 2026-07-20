@@ -2,12 +2,15 @@
 publish: true
 title: 👥5e Hobbit👥
 created: 2026-07-20T12:11:02.463+02:00
-modified: 2026-07-16T17:54:47.667+02:00
-published: 2026-07-16T17:54:47.667+02:00
+modified: 2026-07-20T14:59:46.914+02:00
+published: 2026-07-20T14:59:46.914+02:00
 tags:
   - "#Heritage"
   - "#5e"
 socialImage: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Heritage Hobbit.png]]"
+dateitags:
+  - "#Heritage"
+  - "#5e"
 image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Heritage Hobbit.png]]"
 status: ✅
 aliase: Halfling

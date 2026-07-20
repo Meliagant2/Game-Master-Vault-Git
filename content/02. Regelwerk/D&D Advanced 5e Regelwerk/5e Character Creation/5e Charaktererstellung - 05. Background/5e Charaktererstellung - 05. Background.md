@@ -2,12 +2,15 @@
 publish: true
 title: ⛏️5e Backgrounds⛏️
 created: 2026-07-20T12:11:02.638+02:00
-modified: 2026-07-16T11:20:46.146+02:00
-published: 2026-07-16T11:20:46.146+02:00
+modified: 2026-07-20T14:56:54.742+02:00
+published: 2026-07-20T14:56:54.742+02:00
 tags:
   - "#Charaktererstellung"
   - "#5e"
 socialImage: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Background-Beruf.png]]"
+dateitags:
+  - "#Charaktererstellung"
+  - "#5e"
 image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Background-Beruf.png]]"
 status: ⏳
 ---
