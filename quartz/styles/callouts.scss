@@ -834,26 +834,21 @@
      =============================================================================================================================================== */
 
   .callout[data-callout="cards3"] {
-	--callout-icon: clipboard-list;
 	--color: transparent;
 	--highlight: transparent;
 	--background: transparent;
 	border: 0;
 	width: auto;
 	padding-left: 0px !important;
-	padding-right: 0px !important;	
+	padding-right: 0px !important;
+	margin-left: 0px !important;	
+	margin-right: 0px !important;	
+	margin-top: 0px !important;	
+	margin-bottom: 0px !important;	
   }
 
   .callout[data-callout="cards3"] > .callout-title {
 	display: none;
-  }
-
-  .callout[data-callout="cards3"] > .callout-content {
-	display: grid;
-	grid-gap: 5px;
-	border-radius: 0;
-	padding-inline-start: 0px;
-	padding: 0;
   }
 
   .callout[data-callout="cards3"] .table-view-table :is(td, tr) {
@@ -865,22 +860,22 @@
   }
 
   .callout[data-callout="cards3"] .table-view-table {
-	display: grid;
-	margin-block-start: 0;
-	border-bottom: 0px solid var(--highlight-neutral) !important;
-	border-top: 0px solid var(--highlight-neutral) !important;
+	display: grid !important;
+	margin-block-start: 0 !important;
+	border-bottom: 0px !important;
+	border-top: 0px !important;
   }
 
   .callout[data-callout="cards3"] .table-view-table tbody {
-	gap: unset;
-	grid-template-columns: none;
-	display: grid;
-	grid-template-columns: repeat(3, 1fr);
-	grid-gap: 10px;
-	flex-direction: row;
-	flex-wrap: wrap;
-	flex: 1 1 250px;
-	margin: 5px;
+	gap: unset !important;
+	grid-template-columns: none !important;
+	display: grid !important;
+	grid-template-columns: repeat(3, 1fr) !important;
+	grid-gap: 10px !important;
+	flex-direction: row !important;
+	flex-wrap: wrap !important;
+	flex: 1 1 250px !important;
+	margin: 5px !important;
   }
 
   .callout[data-callout="cards3"] .table-view-table tbody td {
@@ -889,21 +884,21 @@
   }
 
   .callout[data-callout="cards3"] .table-view-table tbody tr {
-	display: grid;
-	align-content: flex-start;
-	margin: 0;
-	padding: 0px;
-	border: 1px solid var(--outline, var(--background-modifier-box-shadow));
-	box-shadow: var(--shadow-ml, var(--input-shadow));
+	display: grid !important;
+	align-content: flex-start !important;
+	margin: 0 !important;
+	padding: 0px !important;
+	border: 1px solid var(--outline, var(--background-modifier-box-shadow)) !important;
+	box-shadow: var(--shadow-ml, var(--input-shadow)) !important;
 	border-radius: 15px !important;
   }
 
   .callout[data-callout="cards3"] .table-view-table strong {
-	background: transparent;
+	background: transparent !important;
   }
 
   .callout[data-callout="cards3"] .table-view-thead tr {
-	display: none !important;
+	display: none !important !important;
   }
 
   .callout[data-callout="cards3"] .table-view-table tbody tr:nth-child(even),
@@ -912,12 +907,12 @@
   }
 
   .callout[data-callout="cards3"] .table-view-table img:not(.link-favicon) {
-	width: 100%;
-	object-fit: cover;
+	width: 100% !important;
+	object-fit: cover !important;
   }
 
   .callout[data-callout="cards3"] .table-view-table img {
-	border-radius: 15px !important;
+	border-radius: 15px !important !important;
   }
 
   .callout[data-callout="cards3"] .table-view-table th,
@@ -928,5 +923,5 @@
   }
 
   .callout[data-callout="cards3"] .small-text {
-	display: none;
+	display: none !important;
   }
