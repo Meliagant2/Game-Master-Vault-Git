@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-16T18:08:40.068+02:00
-published: 2026-07-16T18:08:40.068+02:00
+modified: 2026-07-20T07:53:53.734+02:00
+published: 2026-07-20T07:53:53.734+02:00
 tags:
   - "#Home"
 cssClasses: cards
@@ -16,7 +16,43 @@ cssClasses: cards
 
 **Einleitende Worte. Erklärung der Vault und der Website Funktionen**
 
-Testcount 2
+### Serializer
+
+<!-- QueryToSerialize: TABLE WITHOUT ID 
+embed(link(image)) AS "Bild",
+"<span style='display: block; text-align: center; margin-bottom: 2px;'>" + link(file.link, Title) + "</span>" AS Title
+FROM "01. Welt Almanach"
+WHERE !contains(status, "✅")
+FLATTEN [ [(seed) => (seed * 1103515245 + 12345) % 2147483648]] AS random
+FLATTEN [number(dateformat(date("now"), "x"))] AS seed
+SORT random[0](seed + file.size)
+LIMIT 10
+
+-->
+
+<!-- SerializedQuery: TABLE WITHOUT ID embed(link(image)) AS "Bild", "<span style='display: block; text-align: center; margin-bottom: 2px;'>" + link(file.link, Title) + "</span>" AS Title FROM "01. Welt Almanach" WHERE !contains(status, "✅") FLATTEN [ [(seed) => (seed * 1103515245 + 12345) % 2147483648]] AS random FLATTEN [number(dateformat(date("now"), "x"))] AS seed SORT random[0](seed + file.size) LIMIT 10 -->
+
+| Bild                                                                                            | Title                                                                                                                                                                     |
+| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| !\[Tungdil Kupferkelch 1.png]\(98. Diverses/Bilder/Spielercharaktere/Tungdil Kupferkelch 1.png) | <span style='display: block; text-align: center; margin-bottom: 2px;'>\[Tungdil Kupferkelch]\(01. Welt Almanach/01C. Charaktere/PCs/Krupsi/Tungdil Kupferkelch.md)</span> |
+| !\[Ailas Dorric.png]\(98. Diverses/Bilder/Spielercharaktere/Ailas Dorric.png)                   | <span style='display: block; text-align: center; margin-bottom: 2px;'>\[Ailas Dorric]\(01. Welt Almanach/01C. Charaktere/PCs/Jonas/Ailas Dorric.md)</span>                |
+
+<!-- SerializedQuery END -->
+
+### Dataview CARDS
+
+> [!cards|dataview 5]
+> | Bild                                                                                            | Title                                                                                                                                                                     |
+> | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | ![[98. Diverses/Bilder/Spielercharaktere/Tungdil Kupferkelch 1.png|Tungdil Kupferkelch 1.png]] | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[01. Welt Almanach/01C. Charaktere/PCs/Krupsi/Tungdil Kupferkelch.md|Tungdil Kupferkelch]]</span> |
+> | ![[98. Diverses/Bilder/Spielercharaktere/Ailas Dorric.png|Ailas Dorric.png]]                   | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[01. Welt Almanach/01C. Charaktere/PCs/Jonas/Ailas Dorric.md|Ailas Dorric]]</span>                |
+
+### Test Tabelle
+
+| Bild                                                                                            | Title                                                                                                                                                                     |
+| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| !\[Tungdil Kupferkelch 1.png]\(98. Diverses/Bilder/Spielercharaktere/Tungdil Kupferkelch 1.png) | <span style='display: block; text-align: center; margin-bottom: 2px;'>\[Tungdil Kupferkelch]\(01. Welt Almanach/01C. Charaktere/PCs/Krupsi/Tungdil Kupferkelch.md)</span> |
+| !\[Ailas Dorric.png]\(98. Diverses/Bilder/Spielercharaktere/Ailas Dorric.png)                   | <span style='display: block; text-align: center; margin-bottom: 2px;'>\[Ailas Dorric]\(01. Welt Almanach/01C. Charaktere/PCs/Jonas/Ailas Dorric.md)</span>                |
 
 ### Quellen
 
