@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-20T08:49:33.787+02:00
-published: 2026-07-20T08:49:33.787+02:00
+modified: 2026-07-20T09:02:15.880+02:00
+published: 2026-07-20T09:02:15.880+02:00
 tags:
   - "#Home"
 cssClasses: cards
@@ -17,8 +17,6 @@ cssClasses: cards
 **Einleitende Worte. Erklärung der Vault und der Website Funktionen**
 
 ### Dataviewjs
-
-- A living weapon that hones their control over body and mind, and channels their unwavering focus to achieve amazing feats
 
 ### Dataview CARDS
 
