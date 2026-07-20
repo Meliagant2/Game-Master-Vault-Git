@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-20T14:44:36.539+02:00
-published: 2026-07-20T14:44:36.539+02:00
+modified: 2026-07-20T14:50:34.147+02:00
+published: 2026-07-20T14:50:34.147+02:00
 tags:
   - "#Home"
 ---
@@ -14,22 +14,6 @@ tags:
 > Im Augenblick funktioniert auf dieser Website nur der Light mode korrekt, da ich den dark mode noch nicht designed habe. Daher bitte oben links, neben der Suchleiste bitte darauf wechseln, falls der Dark mode aktiviert ist.
 
 **Einleitende Worte. Erklärung der Vault und der Website Funktionen**
-
-### Bases Test 2
-
-```base
-views:
-  - type: cards
-    name: Testbase
-    filters:
-      and:
-        - testtag.contains("#Bigjeff")
-    image: note.image
-    cardSize: 150
-    imageAspectRatio: 1
-    imageFit: contain
-
-```
 
 ### Quellen
 
@@ -84,9 +68,7 @@ views:
     name: Regelwerke
     filters:
       and:
-        - file.name.contains("Regelwerk")
-        - '!file.name.contains("png")'
-        - file.name != "02. Regelwerk"
+        - dateitags.contains("#Regelwerk")
     image: note.image
     cardSize: 150
     imageAspectRatio: 1

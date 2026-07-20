@@ -2,12 +2,15 @@
 publish: true
 title: D&D 5e Regelwerk
 created: 2026-07-20T12:11:02.432+02:00
-modified: 2026-07-16T14:14:55.058+02:00
-published: 2026-07-16T14:14:55.058+02:00
+modified: 2026-07-20T14:49:57.216+02:00
+published: 2026-07-20T14:49:57.216+02:00
 tags:
   - "#Regelwerk"
   - "#5e"
 socialImage: "[[98. Diverses/Bilder/Regelwerk Bilder/D&D 5e Regelwerk Cover.png]]"
+dateitags:
+  - "#Regelwerk"
+  - "#5e"
 image: "[[98. Diverses/Bilder/Regelwerk Bilder/D&D 5e Regelwerk Cover.png]]"
 status: ✅
 ---

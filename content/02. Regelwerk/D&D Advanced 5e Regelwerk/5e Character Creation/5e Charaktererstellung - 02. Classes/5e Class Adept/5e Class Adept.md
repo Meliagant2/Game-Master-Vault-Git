@@ -2,8 +2,8 @@
 publish: true
 title: Adept
 created: 2026-07-20T12:11:02.494+02:00
-modified: 2026-07-20T14:46:39.981+02:00
-published: 2026-07-20T14:46:39.981+02:00
+modified: 2026-07-20T14:48:14.574+02:00
+published: 2026-07-20T14:48:14.574+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -11,11 +11,6 @@ socialImage: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.pn
 image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png]]"
 status: ⏳
 kurzbeschreibung: A living weapon that hones their control over body and mind, and channels their unwavering focus to achieve amazing feats
-test: <center><a href="02. Regelwerk/D&D Advanced 5e Regelwerk/5e Character Creation/5e Charaktererstellung - 02. Classes/5e Class Adept/5e Class Adept" class="internal-link">Adept</a></center>
-testtag:
-  - "#Classes"
-  - "#Bigjeff"
-  - "#peepeepoopoo"
 ---
 
 > [!metadata]- Metadata
