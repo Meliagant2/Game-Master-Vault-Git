@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-20T14:41:37.640+02:00
-published: 2026-07-20T14:41:37.640+02:00
+modified: 2026-07-20T14:44:36.539+02:00
+published: 2026-07-20T14:44:36.539+02:00
 tags:
   - "#Home"
 ---
@@ -23,7 +23,7 @@ views:
     name: Testbase
     filters:
       and:
-        - primeability.contains("WIS")
+        - testtag.contains("#Bigjeff")
     image: note.image
     cardSize: 150
     imageAspectRatio: 1
