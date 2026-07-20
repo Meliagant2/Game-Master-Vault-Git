@@ -828,3 +828,100 @@
   , :has(.tabbed.mb-input-type-select > :nth-child(8).is-selected) + .el-div > .callout[data-callout="tabbed-box"] > .callout-content > :nth-child(8) {
 	display: block;
   }
+
+  /* ===============================================================================================================================================
+     								EXPERIMENTELL
+     =============================================================================================================================================== */
+
+  .callout[data-callout="cards3"] {
+	--color: transparent;
+	--highlight: transparent;
+	--background: transparent;
+	border: 0;
+	width: auto;
+	padding-left: 0px !important;
+	padding-right: 0px !important;
+	margin-left: 0px !important;	
+	margin-right: 0px !important;	
+	margin-top: 0px !important;	
+	margin-bottom: 0px !important;	
+  }
+
+  .callout[data-callout="cards3"] > .callout-title {
+	display: none;
+  }
+
+  .callout[data-callout="cards3"] .table-view-table :is(td, tr) {
+	border: 0;
+	background: transparent;
+	padding: 0;
+	padding-top: 0px !important;
+	padding-bottom: 0px !important;
+  }
+
+  .callout[data-callout="cards3"] .table-view-table {
+	display: grid !important;
+	margin-block-start: 0 !important;
+	border-bottom: 0px !important;
+	border-top: 0px !important;
+  }
+
+  .callout[data-callout="cards3"] .table-view-table tbody {
+	gap: unset !important;
+	grid-template-columns: none !important;
+	display: grid !important;
+	grid-template-columns: repeat(3, 1fr) !important;
+	grid-gap: 10px !important;
+	flex-direction: row !important;
+	flex-wrap: wrap !important;
+	flex: 1 1 250px !important;
+	margin: 5px !important;
+  }
+
+  .callout[data-callout="cards3"] .table-view-table tbody td {
+	padding-top: 0px !important;
+	padding-bottom: 0px !important;
+  }
+
+  .callout[data-callout="cards3"] .table-view-table tbody tr {
+	display: grid !important;
+	align-content: flex-start !important;
+	margin: 0 !important;
+	padding: 0px !important;
+	border: 1px solid var(--outline, var(--background-modifier-box-shadow)) !important;
+	box-shadow: var(--shadow-ml, var(--input-shadow)) !important;
+	border-radius: 15px !important;
+  }
+
+  .callout[data-callout="cards3"] .table-view-table strong {
+	background: transparent !important;
+  }
+
+  .callout[data-callout="cards3"] .table-view-thead tr {
+	display: none !important;
+  }
+
+  .callout[data-callout="cards3"] .table-view-table tbody tr:nth-child(even),
+  .callout[data-callout="cards3"] .table-view-table tbody tr:nth-child(odd) {
+	background-color: var(--custom-background-neutral2) !important;
+  }
+
+  .callout[data-callout="cards3"] .table-view-table img:not(.link-favicon) {
+	width: 100% !important;
+	object-fit: cover !important;
+  }
+
+  .callout[data-callout="cards3"] .table-view-table img {
+	border-radius: 15px !important;
+  }
+
+  .callout[data-callout="cards3"] .table-view-table th,
+  .dataview.table-view-table td {
+	background-color: transparent !important;
+	padding-top: 0px !important;
+	padding-bottom: 0px !important;
+  }
+
+  .callout[data-callout="cards3"] .small-text {
+	display: none !important;
+  }
