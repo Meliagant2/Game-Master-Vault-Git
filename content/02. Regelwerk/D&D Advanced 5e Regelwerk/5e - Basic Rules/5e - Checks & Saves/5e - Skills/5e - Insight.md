@@ -2,10 +2,10 @@
 publish: true
 title: 🎲5e - Insight🎲
 created: 2026-07-20T12:11:02.934+02:00
-modified: 2026-07-20T15:53:04.377+02:00
-published: 2026-07-20T15:53:04.377+02:00
+modified: 2026-07-20T17:33:21.364+02:00
+published: 2026-07-20T17:33:21.364+02:00
 tags:
-  - "#Grundregeln"
+  - "#Skill"
   - "#5e"
 socialImage: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
 dateitags:

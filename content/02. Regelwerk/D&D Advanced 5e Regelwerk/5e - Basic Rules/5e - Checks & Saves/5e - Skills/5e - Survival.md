@@ -2,10 +2,10 @@
 publish: true
 title: 🎲5e - Survival🎲
 created: 2026-07-20T12:11:02.966+02:00
-modified: 2026-07-20T15:53:30.942+02:00
-published: 2026-07-20T15:53:30.942+02:00
+modified: 2026-07-20T17:33:41.101+02:00
+published: 2026-07-20T17:33:41.101+02:00
 tags:
-  - "#Grundregeln"
+  - "#Skill"
   - "#5e"
 socialImage: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
 dateitags:

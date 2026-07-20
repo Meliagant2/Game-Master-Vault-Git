@@ -2,10 +2,10 @@
 publish: true
 title: 🎲5e - Arcana🎲
 created: 2026-07-20T12:11:02.919+02:00
-modified: 2026-07-20T15:52:52.466+02:00
-published: 2026-07-20T15:52:52.466+02:00
+modified: 2026-07-20T17:33:09.337+02:00
+published: 2026-07-20T17:33:09.337+02:00
 tags:
-  - "#Grundregeln"
+  - "#Skill"
   - "#5e"
 socialImage: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
 dateitags:
