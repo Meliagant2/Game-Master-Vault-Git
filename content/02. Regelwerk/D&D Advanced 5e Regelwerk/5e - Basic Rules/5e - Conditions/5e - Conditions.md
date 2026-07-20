@@ -1,9 +1,9 @@
 ---
 publish: true
-title: ☠️5e Conditions☠️
+title: ☠️5e - Conditions☠️
 created: 2026-07-20T12:11:03.060+02:00
-modified: 2026-07-20T14:54:32.240+02:00
-published: 2026-07-20T14:54:32.240+02:00
+modified: 2026-07-20T15:54:42.167+02:00
+published: 2026-07-20T15:54:42.167+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -34,7 +34,7 @@ status: ⏳
 > > |---|---|
 > > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
 
-# ☠️5e Conditions☠️
+# ☠️5e - Conditions☠️
 
 ## Quellen
 

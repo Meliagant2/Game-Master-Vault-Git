@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 🎲5e Nature🎲
+title: 🎲5e - Nature🎲
 created: 2026-07-20T12:11:02.950+02:00
-modified: 2026-07-20T15:20:22.910+02:00
-published: 2026-07-20T15:20:22.910+02:00
+modified: 2026-07-20T15:53:13.984+02:00
+published: 2026-07-20T15:53:13.984+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -17,7 +17,7 @@ primeability: INT
 kurzbeschreibung: Knowledge about nature, beasts and plants.
 ---
 
-# 🎲5e Nature🎲
+# 🎲5e - Nature🎲
 
 The Nature skill measures a character’s knowledge of natural terrains, beasts, plants, and hazards. It can also be used to sense whether a creature is the product of this world or of another plane of existence. Unlike Survival, the Nature skill doesn’t necessarily imply practical experience with a phenomenon. The most commonly used ability score is Intelligence. A character might use Wisdom to recognize a hazard or Charisma to bring calm to an errant elemental presence disrupting an abandoned druid’s grove (or other place of great natural power).
 

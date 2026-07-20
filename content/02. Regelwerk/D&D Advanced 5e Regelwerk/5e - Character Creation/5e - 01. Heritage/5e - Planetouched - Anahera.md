@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 👥5e Anahera👥
+title: 👥5e - Anahera👥
 created: 2026-07-20T12:11:02.479+02:00
-modified: 2026-07-20T15:44:22.699+02:00
-published: 2026-07-20T15:44:22.699+02:00
+modified: 2026-07-20T15:55:36.120+02:00
+published: 2026-07-20T15:55:36.120+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -24,11 +24,11 @@ kreaturgroesse:
 speed: 30 ft.
 ---
 
-# 👥5e Anahera👥
+# 👥5e - Anahera👥
 
 > [!wikibox]
 >
-> ## <center>👥5e Anahera👥</center>
+> ## <center>👥5e - Anahera👥</center>
 >
 > | | |
 > |---|---|

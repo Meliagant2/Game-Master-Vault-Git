@@ -1,8 +1,9 @@
 ---
 publish: true
+title: 5e - Marshal
 created: 2026-07-20T12:11:02.557+02:00
-modified: 2026-07-20T15:42:44.623+02:00
-published: 2026-07-20T15:42:44.623+02:00
+modified: 2026-07-20T15:56:35.783+02:00
+published: 2026-07-20T15:56:35.783+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -42,7 +43,7 @@ status: ⏳
 > > |**Display Title** | `INPUT[textArea:title]`|
 > > |**Kurzbeschreibung** | `INPUT[textArea:kurzbeschreibung]`|
 
-#
+# 5e - Marshal
 
 > [!lore] Kurzbeschreibung
 

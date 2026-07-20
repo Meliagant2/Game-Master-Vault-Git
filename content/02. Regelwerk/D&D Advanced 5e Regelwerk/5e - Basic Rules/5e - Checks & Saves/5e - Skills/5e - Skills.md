@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 🎲5e Skills🎲
+title: 🎲5e - Skills🎲
 created: 2026-07-20T12:11:02.903+02:00
-modified: 2026-07-20T15:44:51.297+02:00
-published: 2026-07-20T15:44:51.297+02:00
+modified: 2026-07-20T15:52:43.599+02:00
+published: 2026-07-20T15:52:43.599+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -12,7 +12,7 @@ image: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
 status: ✅
 ---
 
-# 🎲5e Skills🎲
+# 🎲5e - Skills🎲
 
 While abilities provide broad descriptions of a character’s capabilities, a skill represents their training in a particular task such as Acrobatics or Deception. A character who has training in a skill is said to be proficient in it. Most skill proficiencies are acquired by adventurers during character creation from their choice of culture, background, and class.
 

@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 5e Jumping
+title: 5e - Jumping
 created: 2026-07-20T12:11:02.853+02:00
-modified: 2026-07-16T14:12:31.869+02:00
-published: 2026-07-16T14:12:31.869+02:00
+modified: 2026-07-20T15:52:23.105+02:00
+published: 2026-07-20T15:52:23.105+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -12,7 +12,7 @@ image: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
 status: ✅
 ---
 
-# 5e Jumping
+# 5e - Jumping
 
 The distance a creature can jump is determined both by the method attempted and their Strength score.
 

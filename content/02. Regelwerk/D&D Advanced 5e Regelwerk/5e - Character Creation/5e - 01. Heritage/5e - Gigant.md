@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 👥5e Gigant👥
+title: 👥5e - Gigant👥
 created: 2026-07-20T12:11:02.463+02:00
-modified: 2026-07-20T15:48:22.263+02:00
-published: 2026-07-20T15:48:22.263+02:00
+modified: 2026-07-20T15:55:24.526+02:00
+published: 2026-07-20T15:55:24.526+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -23,11 +23,11 @@ kreaturgroesse:
 speed: 35 ft.
 ---
 
-# 👥5e Gigant👥
+# 👥5e - Gigant👥
 
 > [!wikibox]
 >
-> ## <center>👥5e Gigant👥</center>
+> ## <center>👥5e - Gigant👥</center>
 >
 > | | |
 > |---|---|

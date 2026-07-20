@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 🎲5e Acrobatics🎲
+title: 🎲5e - Acrobatics🎲
 created: 2026-07-20T12:11:02.903+02:00
-modified: 2026-07-20T15:19:42.393+02:00
-published: 2026-07-20T15:19:42.393+02:00
+modified: 2026-07-20T15:52:47.920+02:00
+published: 2026-07-20T15:52:47.920+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -17,7 +17,7 @@ primeability: DEX
 kurzbeschreibung: Rolling under a closing gate, swinging across a chasm on a rope, keeping your balance.
 ---
 
-# 🎲5e Acrobatics🎲
+# 🎲5e - Acrobatics🎲
 
 An Acrobatics check allows a character to perform gymnastic feats such as rolling under a closing gate, swinging across a chasm on a rope, or keeping their balance on a narrow ledge. The most commonly used ability score is Dexterity.
 

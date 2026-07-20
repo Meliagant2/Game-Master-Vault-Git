@@ -1,9 +1,9 @@
 ---
 publish: true
-title: Fighter
+title: 5e - Fighter
 created: 2026-07-20T12:11:02.557+02:00
-modified: 2026-07-20T15:42:44.617+02:00
-published: 2026-07-20T15:42:44.617+02:00
+modified: 2026-07-20T15:56:28.385+02:00
+published: 2026-07-20T15:56:28.385+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -43,7 +43,7 @@ status: ⏳
 > > |**Display Title** | `INPUT[textArea:title]`|
 > > |**Kurzbeschreibung** | `INPUT[textArea:kurzbeschreibung]`|
 
-# Fighter
+# 5e - Fighter
 
 > [!lore] Kurzbeschreibung
 

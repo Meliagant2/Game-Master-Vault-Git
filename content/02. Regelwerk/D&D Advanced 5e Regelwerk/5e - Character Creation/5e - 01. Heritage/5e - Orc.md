@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 👥5e Orc👥
+title: 👥5e - Orc👥
 created: 2026-07-20T12:11:02.463+02:00
-modified: 2026-07-20T15:47:21.656+02:00
-published: 2026-07-20T15:47:21.656+02:00
+modified: 2026-07-20T15:55:33.240+02:00
+published: 2026-07-20T15:55:33.240+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -21,11 +21,11 @@ kreaturgroesse:
 speed: 30 ft.
 ---
 
-# 👥5e Orc👥
+# 👥5e - Orc👥
 
 > [!wikibox]
 >
-> ## <center>👥5e Orc👥</center>
+> ## <center>👥5e - Orc👥</center>
 >
 > | | |
 > |---|---|

@@ -1,9 +1,9 @@
 ---
 publish: true
-title: ⚔️5e Combat⚔️
+title: ⚔️5e - Combat⚔️
 created: 2026-07-20T12:11:02.981+02:00
-modified: 2026-07-20T14:54:29.348+02:00
-published: 2026-07-20T14:54:29.348+02:00
+modified: 2026-07-20T15:54:16.597+02:00
+published: 2026-07-20T15:54:16.597+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -34,7 +34,7 @@ status: ⏳
 > > |---|---|
 > > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
 
-# ⚔️5e Combat⚔️
+# ⚔️5e - Combat⚔️
 
 ## Quellen
 

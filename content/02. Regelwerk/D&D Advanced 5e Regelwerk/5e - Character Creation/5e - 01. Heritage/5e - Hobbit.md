@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 👥5e Hobbit👥
+title: 👥5e - Hobbit👥
 created: 2026-07-20T12:11:02.463+02:00
-modified: 2026-07-20T15:48:22.273+02:00
-published: 2026-07-20T15:48:22.273+02:00
+modified: 2026-07-20T15:55:29.938+02:00
+published: 2026-07-20T15:55:29.938+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -22,11 +22,11 @@ kreaturgroesse:
 speed: 30 ft.
 ---
 
-# 👥5e Hobbit👥
+# 👥5e - Hobbit👥
 
 > [!wikibox]
 >
-> ## <center>👥5e Hobbit👥</center>
+> ## <center>👥5e - Hobbit👥</center>
 >
 > | | |
 > |---|---|

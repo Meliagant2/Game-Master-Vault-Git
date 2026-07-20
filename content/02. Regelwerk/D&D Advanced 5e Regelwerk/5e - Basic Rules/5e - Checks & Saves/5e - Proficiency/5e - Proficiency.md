@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 🎲5e Proficiency🎲
+title: 🎲5e - Proficiency🎲
 created: 2026-07-20T12:11:02.903+02:00
-modified: 2026-07-16T14:35:55.706+02:00
-published: 2026-07-16T14:35:55.706+02:00
+modified: 2026-07-20T15:52:40.998+02:00
+published: 2026-07-20T15:52:40.998+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -12,7 +12,7 @@ image: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
 status: ✅
 ---
 
-# 🎲5e Proficiency🎲
+# 🎲5e - Proficiency🎲
 
 Every creature has a proficiency bonus determined by its level (for PCs) or its challenge rating (for monsters and most NPCs). The bonus is used for ability checks, saving throws, and attack rolls when a creature has a relevant proficiency.
 

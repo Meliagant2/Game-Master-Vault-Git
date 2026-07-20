@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 🎲5e Deception🎲
+title: 🎲5e - Deception🎲
 created: 2026-07-20T12:11:02.919+02:00
-modified: 2026-07-20T15:20:03.708+02:00
-published: 2026-07-20T15:20:03.708+02:00
+modified: 2026-07-20T15:52:57.730+02:00
+published: 2026-07-20T15:52:57.730+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -17,7 +17,7 @@ primeability: CHA
 kurzbeschreibung: Lying, concealing the truth.
 ---
 
-# 🎲5e Deception🎲
+# 🎲5e - Deception🎲
 
 The Deception skill is used when a character lies, misleads, or hides the truth whether verbally or otherwise. This ability check may be made against a DC set by the Game Master or may be opposed by a target’s Insight check. The most commonly used ability score is Charisma. A character might use Intelligence to compose a cipher or Constitution to conceal the effect of a wound or attack.
 

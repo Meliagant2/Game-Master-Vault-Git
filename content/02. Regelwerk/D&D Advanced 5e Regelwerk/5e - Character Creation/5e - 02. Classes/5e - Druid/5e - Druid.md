@@ -1,9 +1,9 @@
 ---
 publish: true
-title: Druid
+title: 5e - Druid
 created: 2026-07-20T12:11:02.541+02:00
-modified: 2026-07-20T15:42:44.614+02:00
-published: 2026-07-20T15:42:44.614+02:00
+modified: 2026-07-20T15:56:26.499+02:00
+published: 2026-07-20T15:56:26.499+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -43,7 +43,7 @@ status: ⏳
 > > |**Display Title** | `INPUT[textArea:title]`|
 > > |**Kurzbeschreibung** | `INPUT[textArea:kurzbeschreibung]`|
 
-# Druid
+# 5e - Druid
 
 > [!lore] Kurzbeschreibung
 

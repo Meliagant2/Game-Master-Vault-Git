@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 👥5e Elf👥
+title: 👥5e - Elf👥
 created: 2026-07-20T12:11:02.463+02:00
-modified: 2026-07-20T15:44:45.114+02:00
-published: 2026-07-20T15:44:45.114+02:00
+modified: 2026-07-20T15:55:23.329+02:00
+published: 2026-07-20T15:55:23.329+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -22,11 +22,11 @@ kreaturgroesse:
   - Small
 ---
 
-# 👥5e Elf👥
+# 👥5e - Elf👥
 
 > [!wikibox]
 >
-> ## <center>👥5e Elf👥</center>
+> ## <center>👥5e - Elf👥</center>
 >
 > | | |
 > |---|---|

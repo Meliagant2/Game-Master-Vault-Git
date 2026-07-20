@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 🎲5e Insight🎲
+title: 🎲5e - Insight🎲
 created: 2026-07-20T12:11:02.934+02:00
-modified: 2026-07-20T15:20:11.708+02:00
-published: 2026-07-20T15:20:11.708+02:00
+modified: 2026-07-20T15:53:04.377+02:00
+published: 2026-07-20T15:53:04.377+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -17,7 +17,7 @@ primeability: WIS
 kurzbeschreibung: Reading people and their motivations.
 ---
 
-# 🎲5e Insight🎲
+# 🎲5e - Insight🎲
 
 An Insight check can be used for reading a creature’s intentions or motives. The most commonly used ability score is Wisdom. A character might use Dexterity to interrupt an enemy’s sudden action or Strength when squeezing an object to see how hard it will be to break.
 

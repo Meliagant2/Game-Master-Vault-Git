@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 5e Warrior of Blackpowder
+title: 5e - Warrior of Blackpowder
 created: 2026-07-20T15:07:47.410+02:00
-modified: 2026-07-20T15:09:36.785+02:00
-published: 2026-07-20T15:09:36.785+02:00
+modified: 2026-07-20T15:56:05.079+02:00
+published: 2026-07-20T15:56:05.079+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -52,4 +52,4 @@ status: ⏳
 > > |---|---|
 > > |**Bild 2**|`INPUT[inlineListSuggester(optionQuery("png")):image2]`|
 
-# 5e Warrior of Blackpowder
+# 5e - Warrior of Blackpowder

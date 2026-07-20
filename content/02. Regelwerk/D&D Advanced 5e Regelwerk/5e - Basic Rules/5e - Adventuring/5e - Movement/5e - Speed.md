@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 5e Speed
+title: 5e - Speed
 created: 2026-07-20T12:11:02.868+02:00
-modified: 2026-07-16T13:36:24.737+02:00
-published: 2026-07-16T13:36:24.737+02:00
+modified: 2026-07-20T15:52:25.449+02:00
+published: 2026-07-20T15:52:25.449+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -31,7 +31,7 @@ status: ⏳
 > > |---|---|
 > > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
 
-# 5e Speed
+# 5e - Speed
 
 ## Speed modification
 

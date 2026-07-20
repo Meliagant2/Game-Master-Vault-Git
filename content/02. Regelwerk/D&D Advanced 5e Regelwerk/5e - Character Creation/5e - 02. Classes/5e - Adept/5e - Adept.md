@@ -1,9 +1,9 @@
 ---
 publish: true
-title: Adept
+title: 5e - Adept
 created: 2026-07-20T12:11:02.494+02:00
-modified: 2026-07-20T15:42:44.579+02:00
-published: 2026-07-20T15:42:44.579+02:00
+modified: 2026-07-20T15:55:57.427+02:00
+published: 2026-07-20T15:55:57.427+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -52,7 +52,7 @@ kurzbeschreibung: A living weapon that hones their control over body and mind, a
 > > |---|---|
 > > |**Bild 2**|`INPUT[inlineListSuggester(optionQuery("png")):image2]`|
 
-# Adept
+# 5e - Adept
 
 > [!lore] Kurzbeschreibung
 > A living weapon that hones their control over body and mind, and channels their unwavering focus to achieve amazing feats

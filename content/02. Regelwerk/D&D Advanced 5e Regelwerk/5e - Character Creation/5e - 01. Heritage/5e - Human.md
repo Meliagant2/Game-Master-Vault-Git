@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 👥5e Human👥
+title: 👥5e - Human👥
 created: 2026-07-20T12:11:02.463+02:00
-modified: 2026-07-20T15:47:58.463+02:00
-published: 2026-07-20T15:47:58.463+02:00
+modified: 2026-07-20T15:55:31.869+02:00
+published: 2026-07-20T15:55:31.869+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -22,11 +22,11 @@ kreaturgroesse:
 speed: 30 ft.
 ---
 
-# 👥5e Human👥
+# 👥5e - Human👥
 
 > [!wikibox]
 >
-> ## <center>👥5e Human👥</center>
+> ## <center>👥5e - Human👥</center>
 >
 > | | |
 > |---|---|

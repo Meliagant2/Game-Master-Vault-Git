@@ -1,9 +1,9 @@
 ---
 publish: true
-title: Warlock
+title: 5e - Warlock
 created: 2026-07-20T12:11:02.600+02:00
-modified: 2026-07-20T15:42:44.648+02:00
-published: 2026-07-20T15:42:44.648+02:00
+modified: 2026-07-20T15:56:47.023+02:00
+published: 2026-07-20T15:56:47.023+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -43,7 +43,7 @@ status: ⏳
 > > |**Display Title** | `INPUT[textArea:title]`|
 > > |**Kurzbeschreibung** | `INPUT[textArea:kurzbeschreibung]`|
 
-# Warlock
+# 5e - Warlock
 
 > [!lore] Kurzbeschreibung
 

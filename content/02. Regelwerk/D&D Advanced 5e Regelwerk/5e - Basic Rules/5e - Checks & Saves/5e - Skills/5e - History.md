@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 🎲5e History🎲
+title: 🎲5e - History🎲
 created: 2026-07-20T12:11:02.934+02:00
-modified: 2026-07-20T15:20:09.058+02:00
-published: 2026-07-20T15:20:09.058+02:00
+modified: 2026-07-20T15:53:02.301+02:00
+published: 2026-07-20T15:53:02.301+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -17,7 +17,7 @@ primeability: INT
 kurzbeschreibung: Knowledge of past events.
 ---
 
-# 🎲5e History🎲
+# 🎲5e - History🎲
 
 The History skill measures a character’s knowledge of past events. Intelligence is nearly always the ability score used with this skill.
 

@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 👥5e Elementari👥
+title: 👥5e - Elementari👥
 created: 2026-07-20T12:11:02.479+02:00
-modified: 2026-07-20T15:48:22.276+02:00
-published: 2026-07-20T15:48:22.276+02:00
+modified: 2026-07-20T15:55:37.991+02:00
+published: 2026-07-20T15:55:37.991+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -24,11 +24,11 @@ kreaturgroesse:
 speed: 30 ft.
 ---
 
-# 👥5e Elementari👥
+# 👥5e - Elementari👥
 
 > [!wikibox]
 >
-> ## <center>👥5e Elementari👥</center>
+> ## <center>👥5e - Elementari👥</center>
 >
 > | | |
 > |---|---|

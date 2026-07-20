@@ -1,9 +1,9 @@
 ---
 publish: true
-title: Barbarian
+title: 5e - Barbarian
 created: 2026-07-20T12:11:02.510+02:00
-modified: 2026-07-20T15:42:44.590+02:00
-published: 2026-07-20T15:42:44.590+02:00
+modified: 2026-07-20T15:56:11.075+02:00
+published: 2026-07-20T15:56:11.075+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -43,7 +43,7 @@ status: ⏳
 > > |**Display Title** | `INPUT[textArea:title]`|
 > > |**Kurzbeschreibung** | `INPUT[textArea:kurzbeschreibung]`|
 
-# Barbarian
+# 5e - Barbarian
 
 > [!lore] Kurzbeschreibung
 

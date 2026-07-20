@@ -1,9 +1,9 @@
 ---
 publish: true
-title: Paladin
+title: 5e - Paladin
 created: 2026-07-20T12:11:02.575+02:00
-modified: 2026-07-20T15:42:44.627+02:00
-published: 2026-07-20T15:42:44.627+02:00
+modified: 2026-07-20T15:56:38.775+02:00
+published: 2026-07-20T15:56:38.775+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -43,7 +43,7 @@ status: ⏳
 > > |**Display Title** | `INPUT[textArea:title]`|
 > > |**Kurzbeschreibung** | `INPUT[textArea:kurzbeschreibung]`|
 
-# Paladin
+# 5e - Paladin
 
 > [!lore] Kurzbeschreibung
 

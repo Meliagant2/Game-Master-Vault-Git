@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 🎲5e Checks & Saves🎲
+title: 🎲5e - Checks & Saves🎲
 created: 2026-07-20T12:11:02.894+02:00
-modified: 2026-07-20T15:44:45.123+02:00
-published: 2026-07-20T15:44:45.123+02:00
+modified: 2026-07-20T15:52:35.536+02:00
+published: 2026-07-20T15:52:35.536+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -34,7 +34,7 @@ status: ✅
 > > |---|---|
 > > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
 
-# 🎲5e Checks & Saves🎲
+# 🎲5e - Checks & Saves🎲
 
 ## Ability Checks
 

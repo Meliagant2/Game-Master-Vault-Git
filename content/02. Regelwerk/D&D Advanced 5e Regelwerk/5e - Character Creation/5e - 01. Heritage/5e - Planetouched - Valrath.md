@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 👥5e Valrath👥
+title: 👥5e - Valrath👥
 created: 2026-07-20T12:11:02.479+02:00
-modified: 2026-07-20T15:44:22.708+02:00
-published: 2026-07-20T15:44:22.708+02:00
+modified: 2026-07-20T15:55:40.892+02:00
+published: 2026-07-20T15:55:40.892+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -24,11 +24,11 @@ kreaturgroesse:
 speed: 30 ft.
 ---
 
-# 👥5e Valrath👥
+# 👥5e - Valrath👥
 
 > [!wikibox]
 >
-> ## <center>👥5e Valrath👥</center>
+> ## <center>👥5e - Valrath👥</center>
 >
 > | | |
 > |---|---|

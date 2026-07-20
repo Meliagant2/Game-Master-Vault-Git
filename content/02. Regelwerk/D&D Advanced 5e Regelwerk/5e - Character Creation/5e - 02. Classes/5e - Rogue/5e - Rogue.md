@@ -1,9 +1,9 @@
 ---
 publish: true
-title: Rogue
+title: 5e - Rogue
 created: 2026-07-20T12:11:02.585+02:00
-modified: 2026-07-20T15:42:44.641+02:00
-published: 2026-07-20T15:42:44.641+02:00
+modified: 2026-07-20T15:56:42.683+02:00
+published: 2026-07-20T15:56:42.683+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -43,7 +43,7 @@ status: ⏳
 > > |**Display Title** | `INPUT[textArea:title]`|
 > > |**Kurzbeschreibung** | `INPUT[textArea:kurzbeschreibung]`|
 
-# Rogue
+# 5e - Rogue
 
 > [!lore] Kurzbeschreibung
 

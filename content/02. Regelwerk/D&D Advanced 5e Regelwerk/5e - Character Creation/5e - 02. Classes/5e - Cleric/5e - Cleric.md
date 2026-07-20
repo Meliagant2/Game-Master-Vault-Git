@@ -1,9 +1,9 @@
 ---
 publish: true
-title: Cleric
+title: 5e - Cleric
 created: 2026-07-20T12:11:02.541+02:00
-modified: 2026-07-20T15:42:44.607+02:00
-published: 2026-07-20T15:42:44.607+02:00
+modified: 2026-07-20T15:56:23.710+02:00
+published: 2026-07-20T15:56:23.710+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -43,7 +43,7 @@ status: ⏳
 > > |**Display Title** | `INPUT[textArea:title]`|
 > > |**Kurzbeschreibung** | `INPUT[textArea:kurzbeschreibung]`|
 
-# Cleric
+# 5e - Cleric
 
 > [!lore] Kurzbeschreibung
 
