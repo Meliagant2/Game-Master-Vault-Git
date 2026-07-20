@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-20T13:52:26.942+02:00
-published: 2026-07-20T13:52:26.942+02:00
+modified: 2026-07-20T14:09:24.034+02:00
+published: 2026-07-20T14:09:24.034+02:00
 tags:
   - "#Home"
 ---
@@ -15,7 +15,9 @@ tags:
 
 **Einleitende Worte. Erklärung der Vault und der Website Funktionen**
 
-### Cards Callout (no |dataview X2)
+### Cards3 nicht Dataview
+
+### Cards Callout (no |dataview X3)
 
 > [!cards3]
 > | Bild                                                                                                          | Title                                                                                                                                                                                       | K                                                                                                                         |
