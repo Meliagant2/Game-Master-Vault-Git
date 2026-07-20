@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-20T08:45:02.602+02:00
-published: 2026-07-20T08:45:02.602+02:00
+modified: 2026-07-20T08:49:33.787+02:00
+published: 2026-07-20T08:49:33.787+02:00
 tags:
   - "#Home"
 cssClasses: cards
@@ -18,7 +18,7 @@ cssClasses: cards
 
 ### Dataviewjs
 
-X
+- A living weapon that hones their control over body and mind, and channels their unwavering focus to achieve amazing feats
 
 ### Dataview CARDS
 
@@ -40,15 +40,6 @@ X
 > | ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Sorcerer 5e.png|Regelwerk Klasse Sorcerer 5e.png]]       | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Character Creation/5e Charaktererstellung - 02. Classes/5e Class Sorcerer/5e Class Sorcerer.md|5e Class Sorcerer]]</span>             |
 > | ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Warlock 5e.png|Regelwerk Klasse Warlock 5e.png]]         | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Character Creation/5e Charaktererstellung - 02. Classes/5e Class Warlock/5e Class Warlock.md|5e Class Warlock]]</span>                |
 > | ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Wizard 5e.png|Regelwerk Klasse Wizard 5e.png]]           | <span style='display: block; text-align: center; margin-bottom: 2px;'>[[02. Regelwerk/D&D Advanced 5e Regelwerk/5e Character Creation/5e Charaktererstellung - 02. Classes/5e Class Wizard/5e Class Wizard.md|5e Class Wizard]]</span>                   |
-
-### Dataview Cards HTML Syntax
-
-### Test Tabelle
-
-| Bild                                                                                            | Title                                                                                                                                                                     |
-| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png) | [Ailas Dorric](01.%20Welt%20Almanach/01C.%20Charaktere/PCs/Jonas/Ailas%20Dorric.md)    |
-| ![](98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png)| [Ailas Dorric](01.%20Welt%20Almanach/01C.%20Charaktere/PCs/Jonas/Ailas%20Dorric.md)              |
 
 ### Quellen
 
