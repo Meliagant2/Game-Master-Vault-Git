@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-20T08:21:58.248+02:00
-published: 2026-07-20T08:21:58.248+02:00
+modified: 2026-07-20T08:26:24.731+02:00
+published: 2026-07-20T08:26:24.731+02:00
 tags:
   - "#Home"
 cssClasses: cards
@@ -15,6 +15,13 @@ cssClasses: cards
 > Im Augenblick funktioniert auf dieser Website nur der Light mode korrekt, da ich den dark mode noch nicht designed habe. Daher bitte oben links, neben der Suchleiste bitte darauf wechseln, falls der Dark mode aktiviert ist.
 
 **Einleitende Worte. Erklärung der Vault und der Website Funktionen**
+
+### HTML Dataview
+
+|File|Picture of the Day|
+|---|---|
+
+Dataview: No results to show for table query.
 
 ### Dataview CARDS
 
@@ -41,7 +48,7 @@ cssClasses: cards
 
 | Bild                                                                                            | Title                                                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png) | \[Tungdil Kupferkelch]\(01. Welt Almanach/01C. Charaktere/PCs/Krupsi/Tungdil Kupferkelch.md) |
+| ![](98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png) | [Ailas Dorric](01.%20Welt%20Almanach/01C.%20Charaktere/PCs/Jonas/Ailas%20Dorric.md)    |
 | ![](98.%20Diverses/Bilder/Regelwerk%20Bilder/Regelwerk%20Klasse%20Monk%205e.png)| [Ailas Dorric](01.%20Welt%20Almanach/01C.%20Charaktere/PCs/Jonas/Ailas%20Dorric.md)              |
 
 ### Quellen
