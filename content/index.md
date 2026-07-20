@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-20T14:40:31.889+02:00
-published: 2026-07-20T14:40:31.889+02:00
+modified: 2026-07-20T14:41:37.640+02:00
+published: 2026-07-20T14:41:37.640+02:00
 tags:
   - "#Home"
 ---
@@ -15,7 +15,7 @@ tags:
 
 **Einleitende Worte. Erklärung der Vault und der Website Funktionen**
 
-### Bases Test
+### Bases Test 2
 
 ```base
 views:
@@ -23,7 +23,7 @@ views:
     name: Testbase
     filters:
       and:
-        - file.tags.contains("Classes")
+        - primeability.contains("WIS")
     image: note.image
     cardSize: 150
     imageAspectRatio: 1
