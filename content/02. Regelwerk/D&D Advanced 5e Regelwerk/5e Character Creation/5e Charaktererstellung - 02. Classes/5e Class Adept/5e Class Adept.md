@@ -2,13 +2,13 @@
 publish: true
 title: Adept
 created: 2026-07-16T07:51:39.820+02:00
-modified: 2026-07-20T08:33:06.993+02:00
-published: 2026-07-20T08:33:06.993+02:00
+modified: 2026-07-20T09:05:27.792+02:00
+published: 2026-07-20T09:05:27.792+02:00
 tags:
   - "#Classes"
   - "#5e"
-socialImage: <img src="98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png">
-image: <img src="98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png">
+socialImage: "![](98.%20Diverses/Bilder/Regelwerk%20Bilder/Regelwerk%20Klasse%20Monk%205e.png)"
+image: "![](98.%20Diverses/Bilder/Regelwerk%20Bilder/Regelwerk%20Klasse%20Monk%205e.png)"
 status: ⏳
 kurzbeschreibung: A living weapon that hones their control over body and mind, and channels their unwavering focus to achieve amazing feats
 ---
@@ -55,7 +55,7 @@ kurzbeschreibung: A living weapon that hones their control over body and mind, a
 > A living weapon that hones their control over body and mind, and channels their unwavering focus to achieve amazing feats
 
 > [!bildrechts]
-> ![[<img src="98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png">|Regelwerk Klasse Monk 5e.png">]]
+> ![](98.%20Diverses/Bilder/Regelwerk%20Bilder/Regelwerk%20Klasse%20Monk%205e.png)
 
 A drop of sweat trails slowly across the elf’s brow as she slowly draws breath. The snake bite still stings and in her mind she sees the poison spreading through her veins. She exhales slowly, in total control of her body in its entirety, and neutralizes the toxin with nothing more than thought and driven focus.
 
