@@ -1,7 +1,7 @@
 ---
 publish: true
 title: 5e Size
-created: 2026-07-16T10:00:17.021+02:00
+created: 2026-07-20T12:11:02.981+02:00
 modified: 2026-07-16T10:00:27.968+02:00
 published: 2026-07-16T10:00:27.968+02:00
 tags:

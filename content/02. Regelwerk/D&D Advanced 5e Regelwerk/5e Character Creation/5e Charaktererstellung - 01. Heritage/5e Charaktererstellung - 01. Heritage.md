@@ -1,7 +1,7 @@
 ---
 publish: true
 title: 👥5e Heritages👥
-created: 2026-07-16T07:51:39.966+02:00
+created: 2026-07-20T12:11:02.447+02:00
 modified: 2026-07-16T14:43:09.192+02:00
 published: 2026-07-16T14:43:09.192+02:00
 tags:

@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-20T09:24:16.910+02:00
-published: 2026-07-20T09:24:16.910+02:00
+modified: 2026-07-20T12:11:36.151+02:00
+published: 2026-07-20T12:11:36.151+02:00
 tags:
   - "#Home"
 cssClasses: cards
@@ -18,12 +18,7 @@ cssClasses: cards
 
 ### Dataviewjs
 
-XXX 2
-
-Änderung: testfrontmatter mit HTML Link
-
-<center><a href="02. Regelwerk/D&D Advanced 5e Regelwerk/5e Character Creation/5e Charaktererstellung - 02. Classes/5e Class Adept/5e Class Adept" class="internal-link">Adept</a></center>
-Neu: test bekommt center html
+TEST 1
 
 ### Dataview CARDS
 

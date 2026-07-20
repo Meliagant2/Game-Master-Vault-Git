@@ -1,7 +1,7 @@
 ---
 publish: true
 title: D&D 5e Regelwerk
-created: 2026-07-16T07:51:39.789+02:00
+created: 2026-07-20T12:11:02.432+02:00
 modified: 2026-07-16T14:14:55.058+02:00
 published: 2026-07-16T14:14:55.058+02:00
 tags:

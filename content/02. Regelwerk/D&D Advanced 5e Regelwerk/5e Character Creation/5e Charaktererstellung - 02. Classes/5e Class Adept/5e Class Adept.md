@@ -1,7 +1,7 @@
 ---
 publish: true
 title: Adept
-created: 2026-07-16T07:51:39.820+02:00
+created: 2026-07-20T12:11:02.494+02:00
 modified: 2026-07-20T09:24:31.227+02:00
 published: 2026-07-20T09:24:31.227+02:00
 tags:

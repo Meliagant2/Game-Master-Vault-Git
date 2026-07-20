@@ -1,7 +1,7 @@
 ---
 publish: true
 title: 🔮5e Destinies🔮
-created: 2026-07-16T07:51:39.934+02:00
+created: 2026-07-20T12:11:02.638+02:00
 modified: 2026-07-16T11:21:47.461+02:00
 published: 2026-07-16T11:21:47.461+02:00
 tags:

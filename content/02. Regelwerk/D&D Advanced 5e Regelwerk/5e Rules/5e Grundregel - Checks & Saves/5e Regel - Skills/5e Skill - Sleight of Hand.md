@@ -1,7 +1,7 @@
 ---
 publish: true
 title: 🎲5e Sleight of Hand🎲
-created: 2026-07-16T13:53:15.629+02:00
+created: 2026-07-20T12:11:02.966+02:00
 modified: 2026-07-16T14:27:52.638+02:00
 published: 2026-07-16T14:27:52.638+02:00
 tags:

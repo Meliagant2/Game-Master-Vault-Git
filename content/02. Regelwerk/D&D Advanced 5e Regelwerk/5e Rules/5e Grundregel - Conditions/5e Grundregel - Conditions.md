@@ -1,7 +1,7 @@
 ---
 publish: true
 title: ☠️5e Conditions☠️
-created: 2026-07-16T07:51:39.997+02:00
+created: 2026-07-20T12:11:03.060+02:00
 modified: 2026-07-16T12:57:56.902+02:00
 published: 2026-07-16T12:57:56.902+02:00
 tags:

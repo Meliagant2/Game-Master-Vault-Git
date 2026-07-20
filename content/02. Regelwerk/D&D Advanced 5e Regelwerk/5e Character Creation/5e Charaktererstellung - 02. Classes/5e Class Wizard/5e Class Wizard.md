@@ -1,7 +1,7 @@
 ---
 publish: true
 title: Wizard
-created: 2026-07-16T07:51:39.919+02:00
+created: 2026-07-20T12:11:02.619+02:00
 modified: 2026-07-16T11:15:33.781+02:00
 published: 2026-07-16T11:15:33.781+02:00
 tags:

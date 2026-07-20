@@ -1,7 +1,7 @@
 ---
 publish: true
 title: DC20 Regelwerk
-created: 2026-07-16T08:15:00.205+02:00
+created: 2026-07-20T12:11:03.066+02:00
 modified: 2026-07-16T08:58:34.635+02:00
 published: 2026-07-16T08:58:34.635+02:00
 tags:

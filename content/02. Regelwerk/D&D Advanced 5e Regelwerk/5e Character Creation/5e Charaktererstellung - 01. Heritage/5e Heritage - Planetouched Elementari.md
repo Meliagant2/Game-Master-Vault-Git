@@ -1,7 +1,7 @@
 ---
 publish: true
 title: 👥5e Elementari👥
-created: 2026-07-16T17:04:20.489+02:00
+created: 2026-07-20T12:11:02.479+02:00
 modified: 2026-07-16T17:54:55.868+02:00
 published: 2026-07-16T17:54:55.868+02:00
 tags:
