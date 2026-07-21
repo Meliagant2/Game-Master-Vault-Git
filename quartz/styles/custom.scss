@@ -292,155 +292,571 @@
   }
 
   /* ===============================================================================================================================================
-     								    Dataview Style
+     								    Link Style Settings
      =============================================================================================================================================== */
- 
-.block-language-dataview {
-    overflow-y: auto;
+
+:root {
+    --530a-7bd1-color: #2C73D2;
+    --530a-7bd1-weight: initial;
+    --530a-7bd1-before: '';
+    --3ab6-5083-color: #2FAB63;
+    --3ab6-5083-weight: initial;
+    --4f90-21fb-before: '';
+    --61ae-3f29-before: '';
+    --aa63-5ae7-before: '';
+    --4bba-c501-before: '';
+    --d1ee-2c15-color: #B8E067;
+    --d1ee-2c15-weight: initial;
+    --00b5-56d1-before: '';
+    --e154-0d93-before: '';
+    --6396-4a21-before: '';
+    --04ae-afbf-before: '';
+    --0f05-a4c5-color: #2FAB63;
+    --0f05-a4c5-weight: initial;
+    --6526-9634-before: '';
+    --c70d-ba7f-color: #88AC4B;
+    --c70d-ba7f-weight: initial;
+    --54c9-e7e0-color: #2FAB63;
+    --54c9-e7e0-weight: initial;
+    --17dd-c16e-color: #AC7C26;
+    --17dd-c16e-weight: initial;
+    --00e3-2ad6-color: #E07250;
+    --00e3-2ad6-weight: initial;
+    --00e3-2ad6-before: '';
+    --00e3-2ad6-after: '';
 }
 
-/*****************/
-/** Table Views **/
-/*****************/
-
-/* List View Default Styling; rendered internally as a table. */
-.table-view-table {
-    width: 100%;
+div[data-id="530a-7bd1"] div.setting-item-description,
+[data-link-tags*="Home" i] {
+    color: var(--530a-7bd1-color) !important;
+    font-weight: var(--530a-7bd1-weight);
 }
 
-.table-view-table > thead > tr, .table-view-table > tbody > tr {
-    margin-top: 1em;
-    margin-bottom: 1em;
-    text-align: left;
+div[data-id="530a-7bd1"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Home" i]::before {
+    content: var(--530a-7bd1-before);
 }
 
-.table-view-table > tbody > tr:hover {
-    background-color: var(--table-row-background-hover);
+div[data-id="3ab6-5083"] div.setting-item-description,
+[data-link-tags*="Story" i] {
+    color: var(--3ab6-5083-color) !important;
+    font-weight: var(--3ab6-5083-weight);
 }
 
-.table-view-table > thead > tr > th {
-    font-weight: 700;
-    font-size: larger;
-    border-top: none;
-    border-left: none;
-    border-right: none;
-    border-bottom: solid;
-
-    max-width: 100%;
+div[data-id="4f90-21fb"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Abenteuer" i]::before {
+    content: var(--4f90-21fb-before);
 }
 
-.table-view-table > tbody > tr > td {
-    text-align: left;
-    border: none;
-    font-weight: 400;
-    max-width: 100%;
+div[data-id="61ae-3f29"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Abenteuerakt" i]::before {
+    content: var(--61ae-3f29-before);
 }
 
-.table-view-table ul, .table-view-table ol {
-    margin-block-start: 0.2em !important;
-    margin-block-end: 0.2em !important;
+div[data-id="aa63-5ae7"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quest" i]::before {
+    content: var(--aa63-5ae7-before);
 }
 
-/** Rendered value styling for any view. */
-.dataview-result-list-root-ul {
-    padding: 0em !important;
-    margin: 0em !important;
+div[data-id="4bba-c501"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="SessionNote" i]::before {
+    content: var(--4bba-c501-before);
 }
 
-.dataview-result-list-ul {
-    margin-block-start: 0.2em !important;
-    margin-block-end: 0.2em !important;
+div[data-id="d1ee-2c15"] div.setting-item-description,
+[data-link-tags*="Organisation" i] {
+    color: var(--d1ee-2c15-color) !important;
+    font-weight: var(--d1ee-2c15-weight);
 }
 
-/** Generic grouping styling. */
-.dataview.result-group {
-    padding-left: 8px;
+div[data-id="00b5-56d1"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Spielergruppe" i]::before {
+    content: var(--00b5-56d1-before);
 }
 
-/*******************/
-/** Inline Fields **/
-/*******************/
-
-.dataview.inline-field-key {
-    padding-left: 8px;
-    padding-right: 8px;
-    font-family: var(--font-monospace);
-    background-color: var(--background-primary-alt);
-    color: var(--nav-item-color-selected);
+div[data-id="e154-0d93"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Fraktion" i]::before {
+    content: var(--e154-0d93-before);
 }
 
-.dataview.inline-field-value {
-    padding-left: 8px;
-    padding-right: 8px;
-    font-family: var(--font-monospace);
-    background-color: var(--background-secondary-alt);
-    color: var(--nav-item-color-selected);
+div[data-id="6396-4a21"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Kultur" i]::before {
+    content: var(--6396-4a21-before);
 }
 
-.dataview.inline-field-standalone-value {
-    padding-left: 8px;
-    padding-right: 8px;
-    font-family: var(--font-monospace);
-    background-color: var(--background-secondary-alt);
-    color: var(--nav-item-color-selected);
+div[data-id="04ae-afbf"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Regierung" i]::before {
+    content: var(--04ae-afbf-before);
 }
 
-/***************/
-/** Task View **/
-/***************/
-
-.dataview.task-list-item, .dataview.task-list-basic-item {
-    margin-top: 3px;
-    margin-bottom: 3px;
-    transition: 0.4s;
+div[data-id="0f05-a4c5"] div.setting-item-description,
+[data-link-tags*="Charakter" i] {
+    color: var(--0f05-a4c5-color) !important;
+    font-weight: var(--0f05-a4c5-weight);
 }
 
-.dataview.task-list-item:hover, .dataview.task-list-basic-item:hover {
-    background-color: var(--text-selection);
-    box-shadow: -40px 0 0 var(--text-selection);
-    cursor: pointer;
+div[data-id="6526-9634"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="SpielerPC" i]::before {
+    content: var(--6526-9634-before);
 }
 
-/*****************/
-/** Error Views **/
-/*****************/
-
-div.dataview-error-box {
-    width: 100%;
-    min-height: 150px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border: 4px dashed var(--background-secondary);
+div[data-id="c70d-ba7f"] div.setting-item-description,
+[data-link-tags*="Charaktererstellung" i] {
+    color: var(--c70d-ba7f-color) !important;
+    font-weight: var(--c70d-ba7f-weight);
 }
 
-.dataview-error-message {
-    color: var(--text-muted);
-    text-align: center;
+div[data-id="54c9-e7e0"] div.setting-item-description,
+[data-link-tags*="Grundregeln" i] {
+    color: var(--54c9-e7e0-color) !important;
+    font-weight: var(--54c9-e7e0-weight);
 }
 
-/*************************/
-/** Additional Metadata **/
-/*************************/
-
-.dataview.small-text {
-    font-size: smaller;
-    color: var(--text-muted);
-    margin-left: 3px;
+div[data-id="17dd-c16e"] div.setting-item-description,
+[data-link-tags*="Heritage" i] {
+    color: var(--17dd-c16e-color) !important;
+    font-weight: var(--17dd-c16e-weight);
 }
 
-.dataview.small-text::before {
-	content: "(";
+div[data-id="00e3-2ad6"] div.setting-item-description,
+[data-link-tags*="Culture" i] {
+    color: var(--00e3-2ad6-color) !important;
+    font-weight: var(--00e3-2ad6-weight);
 }
 
-.dataview.small-text::after {
-	content: ")";
+div[data-id="00e3-2ad6"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Culture" i]::before {
+    content: var(--00e3-2ad6-before);
 }
 
-
-
-
-
+div[data-id="00e3-2ad6"] div.setting-item-description::after,
+.data-link-icon-after[data-link-tags*="Culture" i]::after {
+    content: var(--00e3-2ad6-after);
+}
+/* @settings
+name: Supercharged Links
+id: supercharged-links
+settings:
+    - 
+        id: 530a-7bd1
+        title: tag is Home
+        description: Example note
+        type: heading
+        collapsed: true
+        level: 3
+    - 
+        id: 530a-7bd1-color
+        title: Link color
+        type: variable-color
+        format: hex
+        default: '#2C73D2'
+    - 
+        id: 530a-7bd1-weight
+        title: Font weight
+        type: variable-select
+        default: initial
+        options:
+            - initial
+            - lighter
+            - normal
+            - bold
+            - bolder
+    - 
+        id: 530a-7bd1-decoration
+        title: Font decoration
+        type: variable-select
+        default: initial
+        options:
+            - initial
+            - underline
+            - overline
+            - line-through
+    - 
+        id: 530a-7bd1-before
+        title: Prepend text
+        description: Add some text, such as an emoji, before the links.
+        type: variable-text
+        default: ''
+        quotes: true
+    - 
+        id: 3ab6-5083
+        title: tag is Story
+        description: Example note
+        type: heading
+        collapsed: true
+        level: 3
+    - 
+        id: 3ab6-5083-color
+        title: Link color
+        type: variable-color
+        format: hex
+        default: '#2FAB63'
+    - 
+        id: 3ab6-5083-weight
+        title: Font weight
+        type: variable-select
+        default: initial
+        options:
+            - initial
+            - lighter
+            - normal
+            - bold
+            - bolder
+    - 
+        id: 3ab6-5083-decoration
+        title: Font decoration
+        type: variable-select
+        default: initial
+        options:
+            - initial
+            - underline
+            - overline
+            - line-through
+    - 
+        id: 4f90-21fb
+        title: tag is Abenteuer
+        description: Example note
+        type: heading
+        collapsed: true
+        level: 3
+    - 
+        id: 4f90-21fb-before
+        title: Prepend text
+        description: Add some text, such as an emoji, before the links.
+        type: variable-text
+        default: ''
+        quotes: true
+    - 
+        id: 61ae-3f29
+        title: tag is Abenteuerakt
+        description: Example note
+        type: heading
+        collapsed: true
+        level: 3
+    - 
+        id: 61ae-3f29-before
+        title: Prepend text
+        description: Add some text, such as an emoji, before the links.
+        type: variable-text
+        default: ''
+        quotes: true
+    - 
+        id: aa63-5ae7
+        title: tag is Quest
+        description: Example note
+        type: heading
+        collapsed: true
+        level: 3
+    - 
+        id: aa63-5ae7-before
+        title: Prepend text
+        description: Add some text, such as an emoji, before the links.
+        type: variable-text
+        default: ''
+        quotes: true
+    - 
+        id: 4bba-c501
+        title: tag is SessionNote
+        description: Example note
+        type: heading
+        collapsed: true
+        level: 3
+    - 
+        id: 4bba-c501-before
+        title: Prepend text
+        description: Add some text, such as an emoji, before the links.
+        type: variable-text
+        default: ''
+        quotes: true
+    - 
+        id: d1ee-2c15
+        title: tag is Organisation
+        description: Example note
+        type: heading
+        collapsed: true
+        level: 3
+    - 
+        id: d1ee-2c15-color
+        title: Link color
+        type: variable-color
+        format: hex
+        default: '#B8E067'
+    - 
+        id: d1ee-2c15-weight
+        title: Font weight
+        type: variable-select
+        default: initial
+        options:
+            - initial
+            - lighter
+            - normal
+            - bold
+            - bolder
+    - 
+        id: d1ee-2c15-decoration
+        title: Font decoration
+        type: variable-select
+        default: initial
+        options:
+            - initial
+            - underline
+            - overline
+            - line-through
+    - 
+        id: 00b5-56d1
+        title: tag is Spielergruppe
+        description: Example note
+        type: heading
+        collapsed: true
+        level: 3
+    - 
+        id: 00b5-56d1-before
+        title: Prepend text
+        description: Add some text, such as an emoji, before the links.
+        type: variable-text
+        default: ''
+        quotes: true
+    - 
+        id: e154-0d93
+        title: tag is Fraktion
+        description: Example note
+        type: heading
+        collapsed: true
+        level: 3
+    - 
+        id: e154-0d93-before
+        title: Prepend text
+        description: Add some text, such as an emoji, before the links.
+        type: variable-text
+        default: ''
+        quotes: true
+    - 
+        id: 6396-4a21
+        title: tag is Kultur
+        description: Example note
+        type: heading
+        collapsed: true
+        level: 3
+    - 
+        id: 6396-4a21-before
+        title: Prepend text
+        description: Add some text, such as an emoji, before the links.
+        type: variable-text
+        default: ''
+        quotes: true
+    - 
+        id: 04ae-afbf
+        title: tag is Regierung
+        description: Example note
+        type: heading
+        collapsed: true
+        level: 3
+    - 
+        id: 04ae-afbf-before
+        title: Prepend text
+        description: Add some text, such as an emoji, before the links.
+        type: variable-text
+        default: ''
+        quotes: true
+    - 
+        id: 0f05-a4c5
+        title: tag is Charakter
+        description: Example note
+        type: heading
+        collapsed: true
+        level: 3
+    - 
+        id: 0f05-a4c5-color
+        title: Link color
+        type: variable-color
+        format: hex
+        default: '#2FAB63'
+    - 
+        id: 0f05-a4c5-weight
+        title: Font weight
+        type: variable-select
+        default: initial
+        options:
+            - initial
+            - lighter
+            - normal
+            - bold
+            - bolder
+    - 
+        id: 0f05-a4c5-decoration
+        title: Font decoration
+        type: variable-select
+        default: initial
+        options:
+            - initial
+            - underline
+            - overline
+            - line-through
+    - 
+        id: 6526-9634
+        title: tag is SpielerPC
+        description: Example note
+        type: heading
+        collapsed: true
+        level: 3
+    - 
+        id: 6526-9634-before
+        title: Prepend text
+        description: Add some text, such as an emoji, before the links.
+        type: variable-text
+        default: ''
+        quotes: true
+    - 
+        id: c70d-ba7f
+        title: tag is Charaktererstellung
+        description: Example note
+        type: heading
+        collapsed: true
+        level: 3
+    - 
+        id: c70d-ba7f-color
+        title: Link color
+        type: variable-color
+        format: hex
+        default: '#88AC4B'
+    - 
+        id: c70d-ba7f-weight
+        title: Font weight
+        type: variable-select
+        default: initial
+        options:
+            - initial
+            - lighter
+            - normal
+            - bold
+            - bolder
+    - 
+        id: c70d-ba7f-decoration
+        title: Font decoration
+        type: variable-select
+        default: initial
+        options:
+            - initial
+            - underline
+            - overline
+            - line-through
+    - 
+        id: 54c9-e7e0
+        title: tag is Grundregeln
+        description: Example note
+        type: heading
+        collapsed: true
+        level: 3
+    - 
+        id: 54c9-e7e0-color
+        title: Link color
+        type: variable-color
+        format: hex
+        default: '#2FAB63'
+    - 
+        id: 54c9-e7e0-weight
+        title: Font weight
+        type: variable-select
+        default: initial
+        options:
+            - initial
+            - lighter
+            - normal
+            - bold
+            - bolder
+    - 
+        id: 54c9-e7e0-decoration
+        title: Font decoration
+        type: variable-select
+        default: initial
+        options:
+            - initial
+            - underline
+            - overline
+            - line-through
+    - 
+        id: 17dd-c16e
+        title: tag is Heritage
+        description: Example note
+        type: heading
+        collapsed: true
+        level: 3
+    - 
+        id: 17dd-c16e-color
+        title: Link color
+        type: variable-color
+        format: hex
+        default: '#AC7C26'
+    - 
+        id: 17dd-c16e-weight
+        title: Font weight
+        type: variable-select
+        default: initial
+        options:
+            - initial
+            - lighter
+            - normal
+            - bold
+            - bolder
+    - 
+        id: 17dd-c16e-decoration
+        title: Font decoration
+        type: variable-select
+        default: initial
+        options:
+            - initial
+            - underline
+            - overline
+            - line-through
+    - 
+        id: 00e3-2ad6
+        title: tag is Culture
+        description: Example note
+        type: heading
+        collapsed: true
+        level: 3
+    - 
+        id: 00e3-2ad6-color
+        title: Link color
+        type: variable-color
+        format: hex
+        default: '#E07250'
+    - 
+        id: 00e3-2ad6-weight
+        title: Font weight
+        type: variable-select
+        default: initial
+        options:
+            - initial
+            - lighter
+            - normal
+            - bold
+            - bolder
+    - 
+        id: 00e3-2ad6-decoration
+        title: Font decoration
+        type: variable-select
+        default: initial
+        options:
+            - initial
+            - underline
+            - overline
+            - line-through
+    - 
+        id: 00e3-2ad6-before
+        title: Prepend text
+        description: Add some text, such as an emoji, before the links.
+        type: variable-text
+        default: ''
+        quotes: true
+    - 
+        id: 00e3-2ad6-after
+        title: Append text
+        description: Add some text, such as an emoji, after the links.
+        type: variable-text
+        default: ''
+        quotes: true
+*/
 
 
 
