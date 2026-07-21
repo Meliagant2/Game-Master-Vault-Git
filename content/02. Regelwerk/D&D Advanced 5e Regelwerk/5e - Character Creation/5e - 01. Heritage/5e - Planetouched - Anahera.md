@@ -2,8 +2,8 @@
 publish: true
 title: 👥5e - Anahera👥
 created: 2026-07-20T12:11:02.479+02:00
-modified: 2026-07-21T10:58:35.866+02:00
-published: 2026-07-21T10:58:35.866+02:00
+modified: 2026-07-21T13:20:23.735+02:00
+published: 2026-07-21T13:20:23.735+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -54,7 +54,7 @@ This heritage of planetouched is created through some sort of divine interventio
 **Age:** Planetouched typically mature at the same rate as humans but have longer live spans. Most Planetouched born to non-Planetouched parents tend to mirror their parents life span, but all Planetouched can age to a maximum of 160 years.\
 **Size:** Medium (4-7 feet / 120cm - 210cm) or Small (2-4 feet / 60cm - 120cm)
 **Speed:** 30 feet
-**Darkvision:** You have [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Senses/5e - Darkvision|Darkvision]] with a range of 60 feet.
+**Darkvision:** You have [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Senses/5e - Darkvision|👁️Darkvision]] with a range of <u>60 feet</u>.
 
 ### Immortal Blessing
 
@@ -62,7 +62,7 @@ Your connection with the source of your bloodline allows you to cheat death. Whe
 
 ### Celestial Legacy
 
-You know the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Divination/5e - Level 0 Divination/5e- Guidance (Spell)|✨Guidance]] cantrip. In addition, you can use an action to touch a willing creature and restore a number of hit points equal to your level. Once you use this trait, you must finish a long rest before doing so again.
+You know the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Divination/5e - Level 0 Divination/5e- Guidance (Spell)|✨Guidance]] cantrip. In addition, you can use an **Action** to touch a willing creature and restore a number of <u>hit points</u> equal to your level. Once you use this trait, you must finish a long rest before doing so again.
 
 ### Divine Protection
 
@@ -70,7 +70,7 @@ You have resistance to one of the following damage types: Acid, Cold, Fire, Ligh
 
 ### Language
 
-You have an innate ability to recognize Celestial, and are able to speak, read, write, and sign it.
+You have an innate ability to recognize <u>Celestial</u>, and are able to speak, read, write, and sign it.
 
 ## Planetouched Gifts
 
@@ -82,11 +82,11 @@ Your heritage allows you to infuse your attacks with magic from the outer planes
 
 ### Plane Sight
 
-You inherit the eyesight of your bloodline. You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.
+You inherit the eyesight of your bloodline. You can see normally in darkness, both magical and nonmagical, to a distance of <u>120 feet</u>.
 
 ### Winged
 
-Sometimes Planetouched children are born with wings. Those wings all look different. They can range from eagle wings to bat wings, or anything in between. You have a fly speed of 30 feet and can hover. To use this speed, you can’t be wearing medium or heavy armor.
+Sometimes Planetouched children are born with wings. Those wings all look different. They can range from eagle wings to bat wings, or anything in between. You have a fly speed of <u>30 feet</u> and can hover. To use this speed, you can’t be wearing medium or heavy armor.
 
 ## Planetouched Paragon
 

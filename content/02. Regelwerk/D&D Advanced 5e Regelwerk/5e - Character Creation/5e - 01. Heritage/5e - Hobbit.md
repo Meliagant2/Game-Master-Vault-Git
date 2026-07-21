@@ -2,8 +2,8 @@
 publish: true
 title: 👥5e - Hobbit👥
 created: 2026-07-20T12:11:02.463+02:00
-modified: 2026-07-20T15:55:29.938+02:00
-published: 2026-07-20T15:55:29.938+02:00
+modified: 2026-07-21T13:23:33.013+02:00
+published: 2026-07-21T13:23:33.013+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -73,7 +73,7 @@ Halflings are widespread and the halflings from one borough may bear little rese
 
 The creation myth of halfling tells of humans, who posessed primordial powers that moved the earth. You are significantly more hirsute than most halflings, and prone to patches of scruffy hair along your forearms and back. Your irises are often quite wide and deeply black, and your rocklike fingernails tend to grow with flattened edges. In halfling communities, these traits often come with insulting nicknames like “shovel-claws” or “scruffs”. You have the following traits:
 
-**Burrow:** You have a burrowing speed of 15 feet. You can use your burrowing speed to move through nonmagical sand, loose earth, loamy soil, mud, or snow, but not solid rock. You do not naturally leave any sort of tunnel behind but you can attempt to create a 5-foot by 5-foot wide tunnel in earth, soil, or snow by spending extra time and effort shoring it up and adding support. This reduces your burrowing speed to 5 feet every 15 minutes.
+**Burrow:** You have a <u>burrowing speed</u> of <u>15 feet</u>. You can use your burrowing speed to move through nonmagical sand, loose earth, loamy soil, mud, or snow, but not solid rock. You do not naturally leave any sort of tunnel behind but you can attempt to create a 5-foot by 5-foot wide tunnel in earth, soil, or snow by spending extra time and effort shoring it up and adding support. This reduces your burrowing speed to 5 feet every 15 minutes.
 **Claws:** Your nails grow into strong shovel-like claws. The claws are natural weapons, which you can use to make unarmed strikes that deal slashing damage equal to **1d4 + STR or DEX**.
 
 ### Into Mist
@@ -89,13 +89,13 @@ You have thick patches of bushy hair that grow atop your proportionally large fe
 
 **Big Feet:** You gain an expertise die on checks and Saves made to resist being knocked [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]].
 **Thick Soles:** You are immune to damage from sharp terrain hazards (such as caltrops, broken glass, or the spike growth spell) and ignore difficult terrain caused by them. Additionally, difficult terrain doesn't reduce your movement speed.
-**Naturally Stealthy:** You have Proficiency in the Stealth Skill.
+**Naturally Stealthy:** You have Proficiency in the <u>Stealth</u> Skill.
 
 ### Twilight-Touched
 
 You are blanched of both emotion and color with wide, alarmingly pure white eyes, and skin that is either starkly pallid or disquietingly sallow. There’s no hair at all atop your head or you have only a few bedraggled locks of hair. You form stronger communal bonds than other halflings, and can speak without the need for words. You have the following traits:
 
-**Darkvision:** You have [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Senses/5e - Darkvision|Darkvision]] with a range of 60 feet.
+**Darkvision:** You have [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Senses/5e - Darkvision|👁️Darkvision]] with a range of <u>60 feet</u>.
 **Telepathy:** You can send telepathic messages to any creature you can see within 30 feet of you. You don’t need to share a language with the creature for it to understand these messages, but it must be able to understand at least one language to comprehend them.
 
 ## Halfling Paragon
@@ -104,7 +104,7 @@ When you reach 10th level, you are an exemplar of halflingkind, and you gain the
 
 ### Halfling Cunning
 
-You have ADV on all Intelligence, Wisdom, and Charisma saving throws.
+You have **ADV** on all Intelligence, Wisdom, and Charisma saving throws.
 
 ### Increased Luck
 

@@ -2,8 +2,8 @@
 publish: true
 title: 👥5e - Orc👥
 created: 2026-07-20T12:11:02.463+02:00
-modified: 2026-07-21T10:58:56.217+02:00
-published: 2026-07-21T10:58:56.217+02:00
+modified: 2026-07-21T13:22:03.435+02:00
+published: 2026-07-21T13:22:03.435+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -74,20 +74,20 @@ While most orcs are all lumped into the same category, there are actually multip
 
 Your family hails from an area known for its extreme conditions, such as the arctic, desert, or even a particularly treacherous swamp. Even if you have not spent much time there, the ability of your family to adapt to their living conditions has been passed down to you. Orcs with this gift can vary wildly in appearance due to the area which they are from; those from the desert may have taken on a paler, dusky skin tone in order to survive the heat, while those from the arctic may have a coating of fine hairs and darker skin tones in order to retain heat.
 
-**Just Like Home:** Choose one type of terrain, reflecting the area from which your family hails: arctic, desert, mountain, or swamp. You ignore all naturally created difficult terrain of that type. Additionally, you gain an expertise die on skill checks made within this terrain type, and gain a type of damage resistance related to your chosen terrain: arctic — cold, desert — fire, mountain — lightning, swamp — poison.
+**Just Like Home:** Choose one type of terrain, reflecting the area from which your family hails: arctic, desert, mountain, or swamp. You ignore all naturally created [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Environment/5e - Difficult Terrain|🏔️Difficult Terrain]] of that type. Additionally, you gain an <u>expertise die</u> on skill checks made within this terrain type, and gain a type of damage resistance related to your chosen terrain: arctic — cold, desert — fire, mountain — lightning, swamp — poison.
 
 ### Ancestral Blessing
 
 Orcs with this gift are believed to have been blessed by their ancestors. Every family has their own beliefs for why this occurs; it could be to honor the good deeds of their parents, the success of their clan in battle or the arts, or even to take pity on a child in a desperate situation. Orcs with this heritage often seem to have a sort of divine aura that sets them apart. You have the following traits:
 
 **Divine Protection:** You have resistance to radiant damage.
-**Touch of Divinity:** You know the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 0 Abjuration/5e - Resistance (Spell)|✨Resistance]] cantrip. In addition, you can cast the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 1 Abjuration/5e - Shield (Spell)|✨Shield]] spell once per long rest.
+**Touch of Divinity:** You know the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 0 Abjuration/5e - Resistance (Spell)|☄️Resistance]] cantrip. In addition, you can cast the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 1 Abjuration/5e - Shield (Spell)|☄️Shield]] spell once per long rest.
 
 ### Magic Adept
 
 The true origin of the magic adepts — the odanti — has been lost to time, but the elders tell tales of fey-touched ancestors and the tribe’s proclivity for magic.
 
-You are born with magic coursing through your veins, and are able to utilize it in a number of ways. You learn one cantrip of your choice from the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell List Arcane/5e - Spell List Arcane|✨Arcane Spell List]]. At 3rd level, choose one 1st- or 2nd-level spell from the arcane spell list. You can cast the chosen spell without any material components once per long rest. A 1st-level spell chosen this way can be cast at 2nd-level using this trait, if the spell allows. INT, WIS or CHA is your Spellcasting ability for those spells (whichever is highest).
+You are born with magic coursing through your veins, and are able to utilize it in a number of ways. You learn one cantrip of your choice from the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell List Arcane/5e - Spell List Arcane|☄️Arcane Spell List]]. At <u>3rd level</u>, choose one 1st- or 2nd-level spell from the <u>arcane spell list</u>. You can cast the chosen spell without any material components once per long rest. A 1st-level spell chosen this way can be cast at 2nd-level using this trait, if the spell allows. INT, WIS or CHA is your Spellcasting ability for those spells (whichever is highest).
 
 ## Orc paragon
 
@@ -97,12 +97,12 @@ Starting at 10th level, you become a paragon of orcishness. You gain one of the 
 
 You gain the following traits:
 
-**Armor Class:** Your Armor Class increases by 1
-**Mighty Attacks:** When you score a critical hit with a weapon attack, you don't roll your extra damage for that critical hit, but deal maximum damage instead. You roll your normal weapon damage as usual.
+**Armor Class:** Your <u>Armor Class</u> increases by 1
+**Mighty Attacks:** When you score a <u>critical hi</u>t with a weapon attack, you don't roll your extra damage for that critical hit, but deal maximum damage instead. You roll your normal weapon damage as usual.
 
 ### Greater Blessing
 
-You learn two spells from either the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell List Primal/5e - Spell List Primal|✨Primal]] or the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell List Divine/5e - Spell List Divine|✨Divine Spell List]]. Those two spells can be any combination of 1st to 3rd level spells. INT, WIS or CHA is your Spellcasting ability for those spells (whichever is highest).
+You learn two spells from either the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell List Primal/5e - Spell List Primal|☄️Primal]] or the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell List Divine/5e - Spell List Divine|☄️Divine Spell List]]. Those two spells can be any combination of 1st to 3rd level spells. INT, WIS or CHA is your Spellcasting ability for those spells (whichever is highest).
 
 ### Ward of the Weave
 

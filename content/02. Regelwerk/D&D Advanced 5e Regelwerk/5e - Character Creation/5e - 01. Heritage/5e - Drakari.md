@@ -2,8 +2,8 @@
 publish: true
 title: 👥5e - Drakari👥
 created: 2026-07-20T12:11:02.447+02:00
-modified: 2026-07-21T10:58:04.756+02:00
-published: 2026-07-21T10:58:04.756+02:00
+modified: 2026-07-21T13:28:50.644+02:00
+published: 2026-07-21T13:28:50.644+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -58,7 +58,7 @@ Scales, tails, horns, fangs, claws, wings, and any feature found within dragonki
 
 Drawing upon great reservoirs of draconic power, you can unleash magical destruction upon your foes. When you take the **Attack Action** on your turn, you can replace one of your attacks with your Dragon Breath.
 Choose the type of damage dealt by your breath weapon: **Acid**, **Cold**, **Fire**, **Force**, **Lightning**, **Necrotic**, **Poison**, **Psychic**, **Radiant**, or **Thunder**.
-Additionally, choose between a 30-foot line that is 5 feet wide or a 15-foot cone for the area that your breath weapon affects. Each creature in the breath’s area makes a **DEX Save** if your breath weapon deals acid, fire, or lightning damage, a **CON Save** if it deals cold, force, poison, or thunder damage, and a **WIS Save** if it deals necrotic, psychic, or radiant damage. The DC for this saving throw equals **8 + PB + CON**.
+Additionally, choose between a 30-foot line that is 5 feet wide or a 15-foot cone for the area that your breath weapon affects. Each creature in the breath’s area makes a **DEX Save** if your breath weapon deals acid, fire, or lightning damage, a **CON Save** if it deals cold, force, poison, or thunder damage, and a **WIS Save** if it deals necrotic, psychic, or radiant damage (DC = your [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Save DC|🤺Maneuver Save DC]]).
 **Failed Save:** The creature takes <u>2d6</u> damage. **Successful save:** The creature takes half the damage.
 The damage increases to <u>5d6</u> at 5th level, <u>8d6</u> at 9th level, <u>12d6</u> at 13th level, and <u>15d6</u> at 17th level. You can use your Dragon Breath **once** between long rests.
 
@@ -79,7 +79,7 @@ Some dragonborn grow tougher scales and sharper claws. These dragonborn tend to 
 Some dragonborn seem naturally adapted to aquatic environments with sleek, hydrodynamic, and often reflective scales. These dragonborn tend to have webbed hands and feet, and long serpentine tails. They also tend to grow soft fin-like scales along their legs and forearms. You have the following traits:
 
 **Swimmer:** You have a swimming speed of 30 feet and you can hold your breath for up to 15 minutes at a time.
-**Deep Darkvision:** You have [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Senses/5e - Darkvision|Darkvision]] with a range of 60 feet. In addition, your eyes are perfectly adapted for spotting movement at depth, and the radius of your darkvision increases to 120 feet while underwater.
+**Deep Darkvision:** You have [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Senses/5e - Darkvision|👁️Darkvision]] with a range of 60 feet. In addition, your eyes are perfectly adapted for spotting movement at depth, and the radius of your darkvision increases to 120 feet while underwater.
 **Hard to Hit:** You either have a tough shell or your quick movements and reflective scales make you difficult to strike. While you aren’t wearing armor, your AC equals **12 + DEX**. You can use a shield and still gain this benefit.
 
 ### Draconic Magic
@@ -115,8 +115,8 @@ With enough time and training any dragonborn can unlock their draconic potential
 
 ### Greater Draconic Magic
 
-You learn the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 0 Transmutation/5e - Elementalism (Spell)|✨Elementalism]] cantrip and the
-[[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 3 Transmutation/5e - Erupting Earth (Spell)|✨Erupting Earth]] spell. Charisma is your spellcasting ability modifier for those spells. You can cast _Erupting Earth_ once with this trait without expending a spell slot and you must finish a long rest before you can do so again. You can also cast this spell using spell slots you have.
+You learn the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 0 Transmutation/5e - Elementalism (Spell)|☄️Elementalism]] cantrip and the
+[[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 3 Transmutation/5e - Erupting Earth (Spell)|☄️Erupting Earth]] spell. Charisma is your spellcasting ability modifier for those spells. You can cast _Erupting Earth_ once with this trait without expending a spell slot and you must finish a long rest before you can do so again. You can also cast this spell using spell slots you have.
 
 ### Impenetrable Draconic Armor
 

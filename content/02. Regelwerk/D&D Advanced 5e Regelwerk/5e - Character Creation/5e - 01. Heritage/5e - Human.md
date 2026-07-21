@@ -2,8 +2,8 @@
 publish: true
 title: 👥5e - Human👥
 created: 2026-07-20T12:11:02.463+02:00
-modified: 2026-07-21T10:02:44.002+02:00
-published: 2026-07-21T10:02:44.002+02:00
+modified: 2026-07-21T13:22:42.197+02:00
+published: 2026-07-21T13:22:42.197+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -78,7 +78,7 @@ Foes of humanity may see them as ants, but humans are equally difficult to elimi
 
 Not all human minds work the same — some have a nearly miraculous level of focus. People with this intellectual mode often bring a surprising level of insight and passion to almost any topic they engage. In spite of their brilliance, they typically have difficulty with more general awareness. You have the following traits:
 
-**Inexorable Concentration:** When you fail a CON Save to maintain [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Concentration|✨Concentration]], you can immediately reroll it, taking the new result. You may use this trait a number of times equal to your INT (minimum 1), and regain all expended uses after a long rest.
+**Inexorable Concentration:** When you fail a CON Save to maintain [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Concentration|☄️Concentration]], you can immediately reroll it, taking the new result. You may use this trait a number of times equal to your INT (minimum 1), and regain all expended uses after a long rest.
 **Resident Expert:** You have a reputation for painstaking detail on certain tasks and subjects. Choose two tools with which you are proficient, or a skill with which you are proficient from Animal Handling, Arcana, Culture, Engineering, History, Medicine, Nature, or Religion. When you make a check with that tool or skill and the <u>d20</u> shows a natural result of less than 8, you can count the d20 result as being 8.
 
 #### Spirited Traveler
@@ -103,7 +103,7 @@ Your Speed increases by 10 feet. You ignore difficult terrain when you Dash. Whe
 
 #### Voracious Learner
 
-You gain an expertise die in each of three different skill or tool proficiencies.
+You gain an <u>expertise die</u> in each of three different **skill** or **tool** proficiencies.
 
 ## Quellen
 

@@ -2,8 +2,8 @@
 publish: true
 title: 👥5e - Valrath👥
 created: 2026-07-20T12:11:02.479+02:00
-modified: 2026-07-21T10:58:43.968+02:00
-published: 2026-07-21T10:58:43.968+02:00
+modified: 2026-07-21T13:20:28.806+02:00
+published: 2026-07-21T13:20:28.806+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -54,7 +54,7 @@ The most common reason for planetouched born to nonmagical parents is having an 
 **Age:** Planetouched typically mature at the same rate as humans but have longer live spans. Most Planetouched born to non-Planetouched parents tend to mirror their parents life span, but all Planetouched can age to a maximum of 160 years.\
 **Size:** Medium (4-7 feet / 120cm - 210cm) or Small (2-4 feet / 60cm - 120cm)
 **Speed:** 30 feet
-**Darkvision:** You have [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Senses/5e - Darkvision|Darkvision]] with a range of 60 feet.
+**Darkvision:** You have [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Senses/5e - Darkvision|👁️Darkvision]] with a range of <u>60 feet</u>.
 
 ### Immortal Blessing
 
@@ -66,7 +66,7 @@ You have resistance to one of the following damage types: Acid, Cold, Fire, Forc
 
 ### Infernal Legacy
 
-You know the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Level 0 Conjuration/5e - Produce Flame (Spell)|✨Produce Flame]] cantrip. Once you reach 3rd level, you can cast [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 1 Evocation/5e - Hellish Rebuke (Spell)|✨Hellish Rebuke]] once per long rest. The damage of that spell resembles the damage type of your Hellish Resistance. At 5th level, you can cast [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 2 Evocation/5e - Darkness (Spell)|✨Darkness]] without material components once per long rest. INT, WIS or CHA is your Spellcasting ability for those spells (whichever is highest).
+You know the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Level 0 Conjuration/5e - Produce Flame (Spell)|☄️Produce Flame]] cantrip. Once you reach <u>3rd level</u>, you can cast [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 1 Evocation/5e - Hellish Rebuke (Spell)|☄️Hellish Rebuke]] once per long rest. The damage of that spell resembles the damage type of your Hellish Resistance. At <u>5th level</u>, you can cast [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 2 Evocation/5e - Darkness (Spell)|☄️Darkness]] without material components once per long rest. INT, WIS or CHA is your Spellcasting ability for those spells (whichever is highest).
 
 ## Planetouched Gifts
 
@@ -78,11 +78,11 @@ Your heritage allows you to infuse your attacks with magic from the outer planes
 
 ### Plane Sight
 
-You inherit the eyesight of your bloodline. You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.
+You inherit the eyesight of your bloodline. You can see normally in darkness, both magical and nonmagical, to a distance of <u>120 feet</u>.
 
 ### Winged
 
-Sometimes Planetouched children are born with wings. Those wings all look different. They can range from eagle wings to bat wings, or anything in between. You have a fly speed of 30 feet and can hover. To use this speed, you can’t be wearing medium or heavy armor.
+Sometimes Planetouched children are born with wings. Those wings all look different. They can range from eagle wings to bat wings, or anything in between. You have a <u>fly speed</u> of <u>30 feet</u> and can hover. To use this speed, you can’t be wearing medium or heavy armor.
 
 ## Planetouched Paragon
 

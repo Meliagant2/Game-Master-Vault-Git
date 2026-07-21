@@ -2,8 +2,8 @@
 publish: true
 title: 👥5e - Elf👥
 created: 2026-07-20T12:11:02.463+02:00
-modified: 2026-07-21T10:58:48.176+02:00
-published: 2026-07-21T10:58:48.176+02:00
+modified: 2026-07-21T13:26:11.031+02:00
+published: 2026-07-21T13:26:11.031+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -56,8 +56,8 @@ Elves do not merely survive in the world — they are among its ancient masters.
 ### Elven Magic
 
 You know the following Spells, depending on your level. INT, WIS or CHA is your Spellcasting ability for those spells (whichever is highest). You can cast each spell you know once per Long Rest without expending a Spell Slot or needing material components:
-**1st Level:** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 1 Evocation/5e - Faerie Fire (Spell)|✨Faerie Fire]]
-**5th Level:** <u>Choose one:</u> [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 2 Evocation/5e - Darkness (Spell)|✨Darkness]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Illusion/5e - Level 2 Illusion/5e - Invisibility (Spell)|✨Invisibility]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 2 Abjuration/5e - Pass without Trace (Spell)|✨Pass without Trace]]
+**1st Level:** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 1 Evocation/5e - Faerie Fire (Spell)|☄️Faerie Fire]]
+**5th Level:** <u>Choose one:</u> [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 2 Evocation/5e - Darkness (Spell)|☄️Darkness]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Illusion/5e - Level 2 Illusion/5e - Invisibility (Spell)|☄️Invisibility]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 2 Abjuration/5e - Pass without Trace (Spell)|☄️Pass without Trace]]
 
 ### Elven Mind
 
@@ -71,8 +71,8 @@ Elves are known for their uncanny perceptiveness, which according to some can ev
 
 Some elves are so attuned to the arcane that they can see magical energy with their eyes, sense the presence of nearby elves, and communicate mentally.  Elves with the gift of Mystic Rapport have the following traits:
 
-**Arcane Sensitivity:** You gain proficiency in Arcana.
-**Arcane Empathy:** Your sensitivity to the flow of magic lets you speak to the hearts of others. You have a limited ability to communicate telepathically with those within 30 feet of you. Though this grants the target no ability to respond telepathically, they can understand you as long as you share a language with them.
+**Arcane Sensitivity:** You gain proficiency in <u>Arcana</u>.
+**Arcane Empathy:** Your sensitivity to the flow of magic lets you speak to the hearts of others. You have a limited ability to communicate telepathically with those within <u>30 feet</u> of you. Though this grants the target no ability to respond telepathically, they can understand you as long as you share a language with them.
 
 ### Particular Adaptability
 
@@ -81,27 +81,27 @@ Some elves are born to travel around. Their bodies are perfect for exploring the
 Elves with the gift of Particular Adaptability have the following traits:
 
 **Fleet of Foot:** Your Walking Speed increases by 5 feet.
-**Child of the Wilds:** You have a climbing and a swimming speed equal to your Walking Speed.
+**Child of the Wilds:** You have a <u>climbing</u> and a <u>swimming speed</u> equal to your Walking Speed.
 
 ### Prescient Vision
 
 Some elves don’t live in the present moment, their spirits shifting back and forth in the currents of time. Although mainly used for contemplation, this mystical experience is also useful for predicting what may yet come to pass — though like sand in the waves, the future is always churning. Elves with the gift of Prescient Vision have the following trait:
 
-**Glance the Future:** Your eyes can see a few moments into the future, and your mind apprehends the divergent possibilities. Once between rests you can use a **Bonus Action** to roll a <u>d20</u> and record the result. Before the end of your next short or long rest, when a creature you can see within 60 feet makes an ability check, attack roll, or saving throw, you can use your **Reaction** to replace their roll with your recorded result. When the creature is also rolling an expertise die, only the <u>d20</u> roll is replaced. When the creature is rolling more than one <u>d20</u>, such as when it has advantage or when a halfling is using their Lucky trait, the replacement applies to the creature’s final roll. Once you use this feature, you cannot use it again until you finish a short or long rest.
+**Glance the Future:** Your eyes can see a few moments into the future, and your mind apprehends the divergent possibilities. Once between rests you can use a **Bonus Action** to roll a <u>d20</u> and record the result. Before the end of your next short or long rest, when a creature you can see within <u>60 feet</u> makes an ability check, attack roll, or saving throw, you can use your **Reaction** to replace their roll with your recorded result. When the creature is also rolling an expertise die, only the <u>d20</u> roll is replaced. When the creature is rolling more than one <u>d20</u>, such as when it has advantage or when a halfling is using their Lucky trait, the replacement applies to the creature’s final roll. Once you use this feature, you cannot use it again until you finish a short or long rest.
 
 ### Preternatural Awareness
 
 The conventional senses of elves are thought to be more finely tuned than those of other mortals. Some scholars debate whether it is merely a matter of sensitivity, or if the elvish trance meditation heightens their awareness in a way other mortals simply are unable to rival. Elves with the gift of Preternatural Awareness have the following traits:
 
-**Keen Senses:** You gain proficiency in Perception.
-**Prophetic Instincts:** Your ability to detect danger is nearly supernatural. You gain a bonus to initiative rolls equal to your Wisdom modifier, and you can’t be surprised while conscious.
+**Keen Senses:** You gain proficiency in <u>Perception</u>.
+**Prophetic Instincts:** Your ability to detect danger is nearly supernatural. You gain a bonus to <u>initiative</u> rolls equal to your Wisdom modifier, and you can’t be surprised while conscious.
 
 ### Senses of the Dark
 
 Some elves, often born deep underground are granted skills other mortals could only dream of. Their attunement to the dark makes them skillful in many ways. Such elves have the following traits:
 
-**Superior Darkvision:** You have [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Senses/5e - Darkvision|Darkvision]]  with a range of 120 feet.
-**Training in the Dark:** You gain Proficiency in one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - Skills|# 🎲Skill]] of your choice. You also add one expertise die to rolls made in that skill.
+**Superior Darkvision:** You have [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Senses/5e - Darkvision|👁️Darkvision]]  with a range of <u>120 feet</u>.
+**Training in the Dark:** You gain Proficiency in one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - Skills|💃Skill]] of your choice. You also add one expertise die to rolls made in that skill.
 
 ## Elven Paragon
 
@@ -117,7 +117,7 @@ If you already have the darkvision trait, there is no range limit for your darkv
 
 ### Spiritual Awareness
 
-You are able to cast [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Divination/5e - Level 2 Divination/5e - Detect Thoughts (Spell)|✨Detect Thoughts]] a number of times equal to your **proficiency bonus** between each long rest. Your spellcasting ability for this spell is Intelligence, Wisdom, or Charisma (whichever is highest).
+You are able to cast [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Divination/5e - Level 2 Divination/5e - Detect Thoughts (Spell)|☄️Detect Thoughts]] a number of times equal to your **proficiency bonus** between each long rest. Your spellcasting ability for this spell is Intelligence, Wisdom, or Charisma (whichever is highest).
 
 ## Quellen
 
