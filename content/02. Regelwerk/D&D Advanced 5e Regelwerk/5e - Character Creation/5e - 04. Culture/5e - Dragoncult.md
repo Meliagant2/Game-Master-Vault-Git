@@ -2,8 +2,8 @@
 publish: true
 title: 🎎5e - XXX🎎
 created: 2026-07-20T18:00:21.058+02:00
-modified: 2026-07-20T18:00:34.030+02:00
-published: 2026-07-20T18:00:34.030+02:00
+modified: 2026-07-21T09:09:52.859+02:00
+published: 2026-07-21T09:09:52.859+02:00
 tags:
   - "#Culture"
   - "#5e"
@@ -42,6 +42,8 @@ status: ⏳
 > > |---|---|
 > > |**Display Title** | `INPUT[textArea:title]`|
 > > |**Languages**|`INPUT[Sprachen][inlineListSuggester:sprachen]`|
-> > |**Proficiencies**|`INPUT[inlineListSuggester(optionQuery(#Skill or #Tool or #Weapon or #Spell AND !"98. Diverses"), useLinks(partial)):proficiencies]` |
+> > |**Skill/Tool Proficiencies**|`INPUT[SkillsTools5e][inlineListSuggester:proficiencies]` |
+> > |**Armor/Weapon Proficiencies**|`INPUT[inlineListSuggester(option(Light Armor), option(Medium Armor), option(Heavy Armor), option(Light Shields), option(Medium Shields), option(Heavy Shields), option(Simple Weapons), option(Martial Weapons), option(Improvised Weapons)):weaponproficiencies]`|
+> > |**Spells/Maneuvers**|`INPUT[inlineListSuggester(optionQuery(#Spell or #Maneuver AND !"98. Diverses"), useLinks(partial)):combatknown]` |
 
 # 🎎5e - XXX🎎
