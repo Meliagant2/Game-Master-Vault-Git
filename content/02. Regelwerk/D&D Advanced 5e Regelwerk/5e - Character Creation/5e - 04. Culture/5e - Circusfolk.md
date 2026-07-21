@@ -2,8 +2,8 @@
 publish: true
 title: 🎎5e - Circusfolk🎎
 created: 2026-07-20T17:45:55.149+02:00
-modified: 2026-07-21T09:10:20.867+02:00
-published: 2026-07-21T09:10:20.867+02:00
+modified: 2026-07-21T09:26:33.210+02:00
+published: 2026-07-21T09:26:33.210+02:00
 tags:
   - "#Culture"
   - "#5e"
@@ -15,8 +15,9 @@ image: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
 status: ✅
 sprachen:
   - Gemeinsprache
-proficiencies:
-  - "[[5e - Improvised Weapons]]"
+weaponproficiencies:
+  - Improvised Weapons
+combatknown:
   - "[[5e - Disguise Self (Spell)]]"
 ---
 
