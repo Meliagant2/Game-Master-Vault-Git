@@ -2,16 +2,16 @@
 publish: true
 title: 🗣️5e - Languages🗣️
 created: 2026-07-21T10:45:53.970+02:00
-modified: 2026-07-21T10:46:16.897+02:00
-published: 2026-07-21T10:46:16.897+02:00
+modified: 2026-07-21T11:52:28.731+02:00
+published: 2026-07-21T11:52:28.731+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
-socialImage: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Adventuring.png]]"
+socialImage: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
 dateitags:
   - "#Grundregeln"
   - "#5e"
-image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Adventuring.png]]"
+image: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
 status: ⏳
 ---
 

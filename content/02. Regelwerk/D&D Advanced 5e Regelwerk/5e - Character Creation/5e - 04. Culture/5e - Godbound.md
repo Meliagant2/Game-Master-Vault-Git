@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 🎎5e - XXX🎎
+title: 🎎5e - Godbound🎎
 created: 2026-07-20T18:00:21.058+02:00
-modified: 2026-07-21T09:09:49.537+02:00
-published: 2026-07-21T09:09:49.537+02:00
+modified: 2026-07-21T11:40:56.771+02:00
+published: 2026-07-21T11:40:56.771+02:00
 tags:
   - "#Culture"
   - "#5e"
@@ -12,38 +12,33 @@ dateitags:
   - "#Culture"
   - "#5e"
 image: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
-status: ⏳
+status: ✅
+sprachen:
+  - Gemeinsprache
+  - Spielerwahl
+proficiencies:
+  - Religion
+  - Tool - Spielerwahl
+  - Skill - Spielerwahl
 ---
 
-> [!metadata]- Metadata
->
-> > [!metadataoption]- Status
-> >
-> > #### Status
-> >
-> > | | |
-> > |---|---|
-> > |**Status** | `INPUT[Status][:status]` |
-> > |**Publish**|`INPUT[inlineSelect(option(true), option(false)):publish]`|
->
-> > [!metadataoption]- Bild
-> >
-> > #### Bild
-> >
-> > | | |
-> > |---|---|
-> > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
->
-> > [!metadataoption]- Info
-> >
-> > #### Info
-> >
-> > | | |
-> > |---|---|
-> > |**Display Title** | `INPUT[textArea:title]`|
-> > |**Languages**|`INPUT[Sprachen][inlineListSuggester:sprachen]`|
-> > |**Skill/Tool Proficiencies**|`INPUT[SkillsTools5e][inlineListSuggester:proficiencies]` |
-> > |**Armor/Weapon Proficiencies**|`INPUT[inlineListSuggester(option(Light Armor), option(Medium Armor), option(Heavy Armor), option(Light Shields), option(Medium Shields), option(Heavy Shields), option(Simple Weapons), option(Martial Weapons), option(Improvised Weapons)):weaponproficiencies]`|
-> > |**Spells/Maneuvers**|`INPUT[inlineListSuggester(optionQuery(#Spell or #Maneuver AND !"98. Diverses"), useLinks(partial)):combatknown]` |
+# 🎎5e - Godbound🎎
 
-# 🎎5e - XXX🎎
+The godbound were raised among the faithful. Such communities vary from temples and monasteries to massive theocracies that span entire continents, their rulers either divine or the anointed representatives of greater entities.
+
+The nature of your faith community can vary by theology, structure, and goodwill, and the environment might be egalitarian or hierarchical. Most religious peoples strive towards virtue, but even they pose the risk of abuse, and at the heart of certain communities lies a dark secret or conspiracy the likes of which might shatter the faith of any follower.
+
+Characters raised in the godbound culture share a variety of traits in common with one another.
+
+**Languages:** You can speak, read, write, and sign in <u>Common</u> and <u>one other</u> [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Language]].
+**Arts of Worship.** You are proficient with your choice of either <u>Performance</u>, two [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Musical Instruments/5e - Musical Instruments|🛠️Musical Instruments]], or two [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Artisan_s Tools/5e - Artisan_s Tools|🛠️Artisan's Tools]].
+**Bonus Connection:** You have one additional connection, selected from the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 05. Background/5e - Acolyte|⛏️Acolyte]] background.
+**Detect Faith:** You are trained to detect even the most subtle indications of a person’s religious perspective. After you speak with a person for at least 1 minute, you can use an action to make either an <u>Insight</u> or <u>Religion</u> check opposed by their <u>Deception</u> check. On a success, you learn the following information about them:
+
+- Whether they have a lower Wisdom score than yourself.
+- Whether they are religious; if so, you also learn their faith.
+- Whether they have class levels in the cleric or paladin class.
+
+**Devotion:** You gain an <u>expertise die</u> on Saves made to resist being [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]] or [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Frightened|☠️Frightened]].
+**Religious Education:** Your community is steeped in scripture, song, and storytelling. You are proficient in the <u>Religion</u> skill and know one <u>cantrip</u> of your choice from the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell List Divine/5e - Spell List Divine|☄️Divine]], or [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell List Primal/5e - Spell List Primal|☄️Primal]] spell list. Your spellcasting ability score for this cantrip is INT, WIS, or CHA (whichever is highest).
+**Siblings in Faith:** You have **ADV** on checks made to socially interact with members of your current or former faith, such as when requesting services or gathering information.
