@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 🛠️5e - Equipment🛠️
+title: 🛠️5e - Improvised Weapons🛠️
 created: 2026-07-20T17:48:48.664+02:00
-modified: 2026-07-20T17:58:10.145+02:00
-published: 2026-07-20T17:58:10.145+02:00
+modified: 2026-07-21T09:31:27.148+02:00
+published: 2026-07-21T09:31:27.148+02:00
 tags:
   - "#Weapon"
   - "#5e"
@@ -34,4 +34,4 @@ status: ⏳
 > > |---|---|
 > > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
 
-# 🛠️5e - Equipment🛠️
+# 🛠️5e - Improvised Weapons🛠️

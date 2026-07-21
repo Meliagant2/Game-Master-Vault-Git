@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-21T09:28:31.770+02:00
-published: 2026-07-21T09:28:31.770+02:00
+modified: 2026-07-21T09:33:42.971+02:00
+published: 2026-07-21T09:33:42.971+02:00
 tags:
   - "#Home"
 ---
@@ -15,9 +15,9 @@ tags:
 
 **Einleitende Worte. Erklärung der Vault und der Website Funktionen**
 
-### Big Test 2
+### Big Test 3
 
-[[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 04. Culture/5e - Caravanner|5e - Caravanner]]
+[[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 04. Culture/5e - Caravanner|🎎Caravanner]]
 
 ### Quellen
 
