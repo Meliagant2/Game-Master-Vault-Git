@@ -2,8 +2,8 @@
 publish: true
 title: 🗣️5e - Languages🗣️
 created: 2026-07-21T10:45:53.970+02:00
-modified: 2026-07-21T11:52:28.731+02:00
-published: 2026-07-21T11:52:28.731+02:00
+modified: 2026-07-21T14:09:44.288+02:00
+published: 2026-07-21T14:09:44.288+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -35,6 +35,8 @@ status: ⏳
 > > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
 
 # 🗣️5e - Languages🗣️
+
+THIEVES CANT; DRUIDIC
 
 ## Quellen
 

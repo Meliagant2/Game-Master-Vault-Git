@@ -2,8 +2,8 @@
 publish: true
 title: 🎎5e - Godbound🎎
 created: 2026-07-20T18:00:21.058+02:00
-modified: 2026-07-21T11:40:56.771+02:00
-published: 2026-07-21T11:40:56.771+02:00
+modified: 2026-07-21T13:40:18.806+02:00
+published: 2026-07-21T13:40:18.806+02:00
 tags:
   - "#Culture"
   - "#5e"
@@ -32,7 +32,7 @@ Characters raised in the godbound culture share a variety of traits in common wi
 
 **Languages:** You can speak, read, write, and sign in <u>Common</u> and <u>one other</u> [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Language]].
 **Arts of Worship.** You are proficient with your choice of either <u>Performance</u>, two [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Musical Instruments/5e - Musical Instruments|🛠️Musical Instruments]], or two [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Artisan_s Tools/5e - Artisan_s Tools|🛠️Artisan's Tools]].
-**Bonus Connection:** You have one additional connection, selected from the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 05. Background/5e - Acolyte|⛏️Acolyte]] background.
+**Bonus Connection:** You have one additional connection, selected from the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 05. Background/5e - Acolyte (Background)|⛏️Acolyte]] background.
 **Detect Faith:** You are trained to detect even the most subtle indications of a person’s religious perspective. After you speak with a person for at least 1 minute, you can use an action to make either an <u>Insight</u> or <u>Religion</u> check opposed by their <u>Deception</u> check. On a success, you learn the following information about them:
 
 - Whether they have a lower Wisdom score than yourself.
