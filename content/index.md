@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-20T14:50:34.147+02:00
-published: 2026-07-20T14:50:34.147+02:00
+modified: 2026-07-21T08:57:12.212+02:00
+published: 2026-07-21T08:57:12.212+02:00
 tags:
   - "#Home"
 ---
@@ -11,7 +11,7 @@ tags:
 # Home
 
 > [!warnung] WICHTIG
-> Im Augenblick funktioniert auf dieser Website nur der Light mode korrekt, da ich den dark mode noch nicht designed habe. Daher bitte oben links, neben der Suchleiste bitte darauf wechseln, falls der Dark mode aktiviert ist.
+> **Im Augenblick funktioniert auf dieser Website nur der <u>Light mode</u> korrekt, da ich den dark mode noch nicht designed habe. Daher bitte oben links, neben der Suchleiste bitte darauf wechseln, falls der Dark mode aktiviert ist.**
 
 **Einleitende Worte. Erklärung der Vault und der Website Funktionen**
 
