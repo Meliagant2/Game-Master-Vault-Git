@@ -2,8 +2,8 @@
 publish: true
 title: 👥5e - Elf👥
 created: 2026-07-20T12:11:02.463+02:00
-modified: 2026-07-20T15:55:23.329+02:00
-published: 2026-07-20T15:55:23.329+02:00
+modified: 2026-07-21T10:58:48.176+02:00
+published: 2026-07-21T10:58:48.176+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -56,8 +56,8 @@ Elves do not merely survive in the world — they are among its ancient masters.
 ### Elven Magic
 
 You know the following Spells, depending on your level. INT, WIS or CHA is your Spellcasting ability for those spells (whichever is highest). You can cast each spell you know once per Long Rest without expending a Spell Slot or needing material components:
-**1st Level:** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 08b. Spells/5e - Spellschool Evocation/5e Level 1 Evocation/5e - Faerie Fire (Spell)|✨Faerie Fire]]
-**5th Level:** <u>Choose one:</u> [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 08b. Spells/5e - Spellschool Evocation/5e Level 2 Evocation/5e - Darkness (Spell)|✨Darkness]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 08b. Spells/5e - Spellschool Illusion/5e Level 2 Illusion/5e - Invisibility (Spell)|✨Invisibility]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 08b. Spells/5e - Spellschool Abjuration/5e Level 2 Abjuration/5e - Pass without Trace (Spell)|✨Pass without Trace]]
+**1st Level:** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 1 Evocation/5e - Faerie Fire (Spell)|✨Faerie Fire]]
+**5th Level:** <u>Choose one:</u> [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 2 Evocation/5e - Darkness (Spell)|✨Darkness]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Illusion/5e - Level 2 Illusion/5e - Invisibility (Spell)|✨Invisibility]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 2 Abjuration/5e - Pass without Trace (Spell)|✨Pass without Trace]]
 
 ### Elven Mind
 
@@ -101,7 +101,7 @@ The conventional senses of elves are thought to be more finely tuned than those 
 Some elves, often born deep underground are granted skills other mortals could only dream of. Their attunement to the dark makes them skillful in many ways. Such elves have the following traits:
 
 **Superior Darkvision:** You have [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Senses/5e - Darkvision|Darkvision]]  with a range of 120 feet.
-**Training in the Dark:** You gain Proficiency in one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Skills/5e - Skills|# 🎲Skill]] of your choice. You also add one expertise die to rolls made in that skill.
+**Training in the Dark:** You gain Proficiency in one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - Skills|# 🎲Skill]] of your choice. You also add one expertise die to rolls made in that skill.
 
 ## Elven Paragon
 
@@ -117,7 +117,7 @@ If you already have the darkvision trait, there is no range limit for your darkv
 
 ### Spiritual Awareness
 
-You are able to cast [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 08b. Spells/5e - Spellschool Divination/5e Level 2 Divination/5e - Detect Thoughts (Spell)|✨Detect Thoughts]] a number of times equal to your **proficiency bonus** between each long rest. Your spellcasting ability for this spell is Intelligence, Wisdom, or Charisma (whichever is highest).
+You are able to cast [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Divination/5e - Level 2 Divination/5e - Detect Thoughts (Spell)|✨Detect Thoughts]] a number of times equal to your **proficiency bonus** between each long rest. Your spellcasting ability for this spell is Intelligence, Wisdom, or Charisma (whichever is highest).
 
 ## Quellen
 

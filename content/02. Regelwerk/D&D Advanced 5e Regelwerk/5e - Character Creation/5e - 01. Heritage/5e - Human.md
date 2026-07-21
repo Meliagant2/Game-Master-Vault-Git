@@ -2,8 +2,8 @@
 publish: true
 title: 👥5e - Human👥
 created: 2026-07-20T12:11:02.463+02:00
-modified: 2026-07-20T15:55:31.869+02:00
-published: 2026-07-20T15:55:31.869+02:00
+modified: 2026-07-21T10:02:44.002+02:00
+published: 2026-07-21T10:02:44.002+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -78,14 +78,14 @@ Foes of humanity may see them as ants, but humans are equally difficult to elimi
 
 Not all human minds work the same — some have a nearly miraculous level of focus. People with this intellectual mode often bring a surprising level of insight and passion to almost any topic they engage. In spite of their brilliance, they typically have difficulty with more general awareness. You have the following traits:
 
-**Inexorable Concentration:** When you fail a CON Save to maintain [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 08b. Spells/5e - Concentration|✨Concentration]], you can immediately reroll it, taking the new result. You may use this trait a number of times equal to your INT (minimum 1), and regain all expended uses after a long rest.
+**Inexorable Concentration:** When you fail a CON Save to maintain [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Concentration|✨Concentration]], you can immediately reroll it, taking the new result. You may use this trait a number of times equal to your INT (minimum 1), and regain all expended uses after a long rest.
 **Resident Expert:** You have a reputation for painstaking detail on certain tasks and subjects. Choose two tools with which you are proficient, or a skill with which you are proficient from Animal Handling, Arcana, Culture, Engineering, History, Medicine, Nature, or Religion. When you make a check with that tool or skill and the <u>d20</u> shows a natural result of less than 8, you can count the d20 result as being 8.
 
 #### Spirited Traveler
 
 The power of movement is one of humanity’s evolutionary advantages. An ancient human hunting strategy for killing fast game is persistence hunting—following prey relentlessly, shifting between walking and running endlessly until a beast became too exhausted to defend itself. Many humans maintain their health through running, and foot races are a universal favorite game. In a word, humans gifted at running will go far. You have the following traits:
 
-**Desperate Dash:** You can take the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Combat/5e - Actions/5e - Dash|⚔️Dash]]-Action as a **Bonus Action** and your movement this turn does not provoke opportunity attacks. During this movement, you gain an expertise die on Acrobatics checks made to avoid hazards and Dexterity saving throws. Once you use this trait, you cannot use it again until you finish a short rest.
+**Desperate Dash:** You can take the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Dash|⚔️Dash]]-Action as a **Bonus Action** and your movement this turn does not provoke opportunity attacks. During this movement, you gain an expertise die on Acrobatics checks made to avoid hazards and Dexterity saving throws. Once you use this trait, you cannot use it again until you finish a short rest.
 **Marathon Runner:** The first time between each long rest you would gain a level of **fatigue**, you do not gain that level of fatigue. You still suffer a level of fatigue from finishing a long rest without any Supply.
 **Sojourner’s Fortitude:** You gain an expertise die on saving throws made to resist **fatigue** for marching longer than 8 hours.
 

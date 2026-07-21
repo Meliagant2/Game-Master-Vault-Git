@@ -2,8 +2,8 @@
 publish: true
 title: ⚙️5e - Character Creation⚙️
 created: 2026-07-20T12:11:02.432+02:00
-modified: 2026-07-20T15:54:51.818+02:00
-published: 2026-07-20T15:54:51.818+02:00
+modified: 2026-07-21T10:10:54.906+02:00
+published: 2026-07-21T10:10:54.906+02:00
 tags:
   - "#Charaktererstellung"
   - "#5e"
@@ -104,7 +104,7 @@ Depending on the campaign your Game Master is making for the group, your game’
 
 ### Hit Points and Hit Dice
 
-See [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Combat/5e - Hit Points/5e - Hit Points|❤️Hit Points]] for more information.
+See [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|❤️Hit Points]] for more information.
 
 Your character’s **Hit Points (HP)** provide a rough idea of how much damage they can withstand. Your HP are determined by your **Hit Dice** which are in turn tied to your class. At 1st level, your character begins with **1 Hit Die** and hit points equal to the maximum number of that Hit Die. You also gain additional HP based on your **Constitution** which will be covered later in the character creation process. Another use for Hit Dice is the ability to roll them in order to recover hit points during a short rest.
 
@@ -201,7 +201,7 @@ Important for: **Bards**, **Paladins**, **Sorcerers**, **Warlocks**
 
 ### Gear up for Adventure
 
-See [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 07. Equipment/5e - 07. Equipment|🛠️Equipment]] for more information.
+See [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Equipment|🛠️Equipment]] for more information.
 
 Your character begins the game with **starting equipment** determined by their background and class. Starting equipment includes everything from **weapons** and **armor** to general tools and items. Be sure to record your starting equipment on the character sheet.
 

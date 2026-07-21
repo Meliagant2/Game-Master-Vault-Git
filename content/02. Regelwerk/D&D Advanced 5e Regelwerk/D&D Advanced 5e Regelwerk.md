@@ -2,8 +2,8 @@
 publish: true
 title: D&D 5e Regelwerk
 created: 2026-07-20T12:11:02.432+02:00
-modified: 2026-07-20T15:42:44.529+02:00
-published: 2026-07-20T15:42:44.529+02:00
+modified: 2026-07-21T10:07:21.881+02:00
+published: 2026-07-21T10:07:21.881+02:00
 tags:
   - "#Regelwerk"
   - "#5e"
@@ -57,6 +57,28 @@ views:
     filters:
       and:
         - dateitags.contains("#Charaktererstellung")
+        - dateitags.contains("#5e")
+        - '!file.name.contains("Template")'
+    order:
+      - file.name
+    image: note.image
+    cardSize: 150
+    imageAspectRatio: 1
+    imageFit: contain
+
+```
+
+## Combat Rules
+
+In the Combat Rules section you find everything you need to know for combat mechanics.
+
+```base
+views:
+  - type: cards
+    name: 5e Combatrules
+    filters:
+      and:
+        - dateitags.contains("#Combatrules")
         - dateitags.contains("#5e")
         - '!file.name.contains("Template")'
     order:

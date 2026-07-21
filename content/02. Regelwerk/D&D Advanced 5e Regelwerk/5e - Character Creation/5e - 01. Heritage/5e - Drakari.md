@@ -2,8 +2,8 @@
 publish: true
 title: 👥5e - Drakari👥
 created: 2026-07-20T12:11:02.447+02:00
-modified: 2026-07-20T15:55:18.936+02:00
-published: 2026-07-20T15:55:18.936+02:00
+modified: 2026-07-21T10:58:04.756+02:00
+published: 2026-07-21T10:58:04.756+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -115,8 +115,8 @@ With enough time and training any dragonborn can unlock their draconic potential
 
 ### Greater Draconic Magic
 
-You learn the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 08b. Spells/5e - Spellschool Transmutation/5e Level 0 Transmutation/5e - Elementalism (Spell)|✨Elementalism]] cantrip and the
-[[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 08b. Spells/5e - Spellschool Transmutation/5e Level 3 Transmutation/5e - Erupting Earth (Spell)|✨Erupting Earth]] spell. Charisma is your spellcasting ability modifier for those spells. You can cast _Erupting Earth_ once with this trait without expending a spell slot and you must finish a long rest before you can do so again. You can also cast this spell using spell slots you have.
+You learn the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 0 Transmutation/5e - Elementalism (Spell)|✨Elementalism]] cantrip and the
+[[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 3 Transmutation/5e - Erupting Earth (Spell)|✨Erupting Earth]] spell. Charisma is your spellcasting ability modifier for those spells. You can cast _Erupting Earth_ once with this trait without expending a spell slot and you must finish a long rest before you can do so again. You can also cast this spell using spell slots you have.
 
 ### Impenetrable Draconic Armor
 

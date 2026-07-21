@@ -2,8 +2,8 @@
 publish: true
 title: 🎎5e - Circusfolk🎎
 created: 2026-07-20T17:45:55.149+02:00
-modified: 2026-07-21T09:31:34.966+02:00
-published: 2026-07-21T09:31:34.966+02:00
+modified: 2026-07-21T10:58:13.596+02:00
+published: 2026-07-21T10:58:13.596+02:00
 tags:
   - "#Culture"
   - "#5e"
@@ -18,7 +18,7 @@ sprachen:
 weaponproficiencies:
   - Improvised Weapons
 combatknown:
-  - "[[5e - Disguise Self (Spell)]]"
+  - "[[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Illusion/5e - Level 1 Illusion/5e - Disguise Self (Spell)]]"
 ---
 
 # 🎎5e - Circusfolk🎎
@@ -30,6 +30,6 @@ The circusfolk oral tradition is exceedingly rich and best known for its trickst
 Characters raised in the circusfolk culture share a variety of traits in common with one another:
 
 **Languages:** You can speak, read, write, and sign <u>Common</u>.
-**Rapid Escape:** You can use the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Combat/5e - Actions/5e - Disengage|⚔️Disengage]]-Action as a **Bonus Action**.
-**Slapstick:** You are proficient with [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 07. Equipment/5e - Weapons/5e - Improvised Weapons|🛠️Improvised Weapons]], and improvised weapons you use can deal <u>1d6</u> damage rather than the damage they normally deal. You can use DEX instead of STR for the attack and damage rolls of your improvised weapons.
-**Trickster’s Veil:** You can cast [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 08b. Spells/5e - Spellschool Illusion/5e Level 1 Illusion/5e - Disguise Self (Spell)|✨Disguise Self (Spell)]] once per long rest without expending a Spell Slot. Your spellcasting ability for this spell is INT, WIS, or CHA (whichever is highest).
+**Rapid Escape:** You can use the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Disengage|⚔️Disengage]]-Action as a **Bonus Action**.
+**Slapstick:** You are proficient with [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Improvised Weapons|🛠️Improvised Weapons]], and improvised weapons you use can deal <u>1d6</u> damage rather than the damage they normally deal. You can use _DEX_ instead of _STR_ for the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Attack (Action)|⚔️Attack]] and [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Damage/5e - Damage Roll|💔Damage Rolls]] of your improvised weapons.
+**Trickster’s Veil:** You can cast [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Illusion/5e - Level 1 Illusion/5e - Disguise Self (Spell)|☄️Disguise Self (Spell)]] once per long rest without expending a [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Slot|☄️Spell Slot]]. Your spellcasting ability for this spell is INT, WIS, or CHA (whichever is highest).

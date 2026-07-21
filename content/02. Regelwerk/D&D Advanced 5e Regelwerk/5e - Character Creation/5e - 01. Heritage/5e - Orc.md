@@ -2,8 +2,8 @@
 publish: true
 title: 👥5e - Orc👥
 created: 2026-07-20T12:11:02.463+02:00
-modified: 2026-07-20T15:55:33.240+02:00
-published: 2026-07-20T15:55:33.240+02:00
+modified: 2026-07-21T10:58:56.217+02:00
+published: 2026-07-21T10:58:56.217+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -56,7 +56,7 @@ Due to the frequent conflicts of some tribes, orcs are considered to have partic
 
 ### Adrenaline Rush
 
-You can take the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Combat/5e - Actions/5e - Dash|⚔️Dash]]-Action as a **Bonus Action**. When you do so, you gain a number of [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Combat/5e - Hit Points/5e - Temporary Hit Points|❤️Temporary Hit Points]] equal to your Proficiency Bonus. You can use this trait once between long rests.
+You can take the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Dash|⚔️Dash]]-Action as a **Bonus Action**. When you do so, you gain a number of [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Temporary Hit Points|❤️Temporary Hit Points]] equal to your Proficiency Bonus. You can use this trait once between long rests.
 
 ### Powerful Build
 
@@ -81,13 +81,13 @@ Your family hails from an area known for its extreme conditions, such as the arc
 Orcs with this gift are believed to have been blessed by their ancestors. Every family has their own beliefs for why this occurs; it could be to honor the good deeds of their parents, the success of their clan in battle or the arts, or even to take pity on a child in a desperate situation. Orcs with this heritage often seem to have a sort of divine aura that sets them apart. You have the following traits:
 
 **Divine Protection:** You have resistance to radiant damage.
-**Touch of Divinity:** You know the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 08b. Spells/5e - Spellschool Abjuration/5e Level 0 Abjuration/5e - Resistance (Spell)|✨Resistance]] cantrip. In addition, you can cast the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 08b. Spells/5e - Spellschool Abjuration/5e Level 1 Abjuration/5e - Shield (Spell)|✨Shield]] spell once per long rest.
+**Touch of Divinity:** You know the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 0 Abjuration/5e - Resistance (Spell)|✨Resistance]] cantrip. In addition, you can cast the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 1 Abjuration/5e - Shield (Spell)|✨Shield]] spell once per long rest.
 
 ### Magic Adept
 
 The true origin of the magic adepts — the odanti — has been lost to time, but the elders tell tales of fey-touched ancestors and the tribe’s proclivity for magic.
 
-You are born with magic coursing through your veins, and are able to utilize it in a number of ways. You learn one cantrip of your choice from the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 08b. Spells/5e - Spell List Arcane/5e - Spell List Arcane|✨Arcane Spell List]]. At 3rd level, choose one 1st- or 2nd-level spell from the arcane spell list. You can cast the chosen spell without any material components once per long rest. A 1st-level spell chosen this way can be cast at 2nd-level using this trait, if the spell allows. INT, WIS or CHA is your Spellcasting ability for those spells (whichever is highest).
+You are born with magic coursing through your veins, and are able to utilize it in a number of ways. You learn one cantrip of your choice from the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell List Arcane/5e - Spell List Arcane|✨Arcane Spell List]]. At 3rd level, choose one 1st- or 2nd-level spell from the arcane spell list. You can cast the chosen spell without any material components once per long rest. A 1st-level spell chosen this way can be cast at 2nd-level using this trait, if the spell allows. INT, WIS or CHA is your Spellcasting ability for those spells (whichever is highest).
 
 ## Orc paragon
 
@@ -102,7 +102,7 @@ You gain the following traits:
 
 ### Greater Blessing
 
-You learn two spells from either the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 08b. Spells/5e - Spell List Primal/5e - Spell List Primal|✨Primal]] or the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 08b. Spells/5e - Spell List Divine/5e - Spell List Divine|✨Divine Spell List]]. Those two spells can be any combination of 1st to 3rd level spells. INT, WIS or CHA is your Spellcasting ability for those spells (whichever is highest).
+You learn two spells from either the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell List Primal/5e - Spell List Primal|✨Primal]] or the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell List Divine/5e - Spell List Divine|✨Divine Spell List]]. Those two spells can be any combination of 1st to 3rd level spells. INT, WIS or CHA is your Spellcasting ability for those spells (whichever is highest).
 
 ### Ward of the Weave
 
