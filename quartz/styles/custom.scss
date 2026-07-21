@@ -433,9 +433,7 @@ div[data-id="00e3-2ad6"] div.setting-item-description::after,
 .data-link-icon-after[data-link-tags*="Culture" i]::after {
     content: var(--00e3-2ad6-after);
 }
-/* @settings
-name: Supercharged Links
-id: supercharged-links
+
 settings:
     - 
         id: 530a-7bd1
@@ -856,7 +854,6 @@ settings:
         type: variable-text
         default: ''
         quotes: true
-*/
 
 
 
