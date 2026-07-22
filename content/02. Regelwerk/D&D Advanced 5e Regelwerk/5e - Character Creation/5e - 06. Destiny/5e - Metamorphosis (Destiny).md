@@ -2,8 +2,8 @@
 publish: true
 title: 🔮5e - Metamorphosis🔮
 created: 2026-07-21T15:26:14.616+02:00
-modified: 2026-07-22T08:40:48.857+02:00
-published: 2026-07-22T08:40:48.857+02:00
+modified: 2026-07-22T09:37:12.541+02:00
+published: 2026-07-22T09:37:12.541+02:00
 tags:
   - "#Destiny"
   - "#5e"
@@ -18,7 +18,11 @@ status: ✅
 The trappings of daily life stifle you and the shackles of this mortal coil cannot contain you. People whose destiny is Metamorphosis seek to attain a higher mode of being. Some search for enlightenment but others turn their ambitions even higher, daring to pursue eternal life in the form of a vampire, a lich, a demon, or even a god. What will you sacrifice to walk this path?
 
 **Source of Inspiration: Unburdening:** When you gain this feature, inform your Game Master of the new form you desire (such as enlightenment, vampirism, or godhood). You gain [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Inspiration|✨Inspiration]] whenever you make sacrifices to attain new lore, contacts, or items to aid your transformation. Sever earthly attachments such as wealth or comfort, behave appropriately akin to your pursued form, spend inordinate time in your transformation’s pursuit.
-**Inspiration Feature: Unearthly Diplomacy:** Your unearthly aspirations grant you insights into the minds of even utterly alien beings. As an **Action**, you may spend your inspiration to form a connection with a non-humanoid creature you can see. You communicate freely, even if you do not share a language or the creature would be normally unable to speak. You have no control over a creature you connect with in this way but you gain an <u>expertise die</u> on checks made to influence it.
+**Inspiration Feature: Unearthly Diplomacy:** Your unearthly aspirations grant you insights into the minds of even utterly alien beings. As an **Action**, you may spend your inspiration to form a connection with a non-humanoid creature you can see. The following applies:
+
+- You communicate freely, even if you do not share a language or the creature would be normally unable to speak.
+- You gain an <u>expertise die</u> on checks made to influence it.
+- A Creature of a Challenge Rating equal to or lower than your Level must make a **WIS Save** (DC = your [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Save DC|🤺Maneuver Save DC]], or your [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Save DC|☄️Spell Save DC]], if you have one). _**Failure:**_ The Creature is [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]] by you for the duration, or until you or one of your allies damages it.
 
 The knowledge and awareness of a creature is limited by its intellect or perceptions, but most give you information about nearby locations, monsters in the area, and knowledge of whatever it perceived within the past day. This connection lasts for up to 1 hour or until you use an action to end it.
 

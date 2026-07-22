@@ -2,8 +2,8 @@
 publish: true
 title: 🔮5e - Devotion🔮
 created: 2026-07-21T15:26:14.616+02:00
-modified: 2026-07-22T07:54:08.054+02:00
-published: 2026-07-22T07:54:08.054+02:00
+modified: 2026-07-22T09:22:24.183+02:00
+published: 2026-07-22T09:22:24.183+02:00
 tags:
   - "#Destiny"
   - "#5e"
@@ -18,7 +18,7 @@ status: ✅
 Devotion can be a pure or foolish thing. A beloved, a nation, a cause — anything may be the object of your Devotion, but very few are worthy of it. For you the choice is clear: the love at the center of your life is worth dying or killing for, and there is no limit to your service and sacrifice on its behalf.
 
 **Source of Inspiration: Its Own Reward:** You draw inspiration from seeing your duty through to the end. You gain [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Inspiration|✨Inspiration]] whenever you complete a quest, fulfill a difficult promise, or commit an act of self sacrifice that includes grievous injury to yourself. Complete a quest, keep a promise to your own detriment, keep an innocent safe while seriously endangering yourself, commit an act of genuine self-sacrifice.
-**Inspiration Feature: Selfless Aid:** Your aid is a lifeline and a steadying source of resolve. Whenever you take the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Help|⚔️Help]]-Action to aid an ally attacking a creature, you may spend your inspiration. If you do, in addition to the normal benefits of the Help action, that creature has **DISADV** on attack rolls against creatures other than you until the start of your next turn.
+**Inspiration Feature: Selfless Aid:** Your aid is a lifeline and a steadying source of resolve. You can spend your Inspiration to take the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Help|⚔️Help]]-Action to aid an ally attacking a Creature as a **Bonus Action**. If you do so, in addition to the normal benefits of the Help action, that Creature has **DISADV** on attack rolls against Creatures other than you until the start of your next turn.
 
 ##### Fulfilling Your Destiny
 
