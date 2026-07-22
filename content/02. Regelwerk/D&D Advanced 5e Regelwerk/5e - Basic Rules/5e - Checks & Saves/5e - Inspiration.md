@@ -1,16 +1,16 @@
 ---
 publish: true
-title: 🎲5e - Inspiration🎲
+title: ✨5e - Inspiration✨
 created: 2026-07-21T15:23:08.714+02:00
-modified: 2026-07-21T15:23:36.669+02:00
-published: 2026-07-21T15:23:36.669+02:00
+modified: 2026-07-22T07:20:07.561+02:00
+published: 2026-07-22T07:20:07.561+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
 status: ✅
 ---
 
-# 🎲5e - Inspiration🎲
+# ✨5e - Inspiration✨
 
 The Game Master awards inspiration, a resource which grants you an edge in important moments, when you roleplay your character according to your destiny. Each destiny has a source of inspiration which describes acts of roleplaying that should be rewarded with inspiration (although it remains at the Game Master’s discretion). Additionally, the Game Master can award inspiration whenever they feel a character has been particularly clever, engaging, or heartfelt in their roleplaying.
 
