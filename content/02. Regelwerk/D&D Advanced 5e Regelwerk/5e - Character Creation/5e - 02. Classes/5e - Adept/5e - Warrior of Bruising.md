@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Warrior of Bruising🦸‍♀️
 created: 2026-07-22T11:58:26.534+02:00
-modified: 2026-07-22T12:43:48.775+02:00
-published: 2026-07-22T12:43:48.775+02:00
+modified: 2026-07-22T13:36:04.054+02:00
+published: 2026-07-22T13:36:04.054+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -28,7 +28,7 @@ You also gain proficiency in either the [[02. Regelwerk/D&D Advanced 5e Regelwer
 
 ### Level 6: Dogged
 
-Your determination becomes undeniable. When you fail a **Save** against becoming [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Grappled|☠️Grappled]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Paralyzed|☠️Paralyzed]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Restrained|☠️Restrained]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Slowed|☠️Slowed]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Stunned|☠️Stunned]], or [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Unconscious|5e - Unconscious]], you can use your **Reaction** to spend <u>2 exertion</u> and reroll that Save.
+Your determination becomes undeniable. When you fail a **Save** against becoming [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Grappled|☠️Grappled]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Paralyzed|☠️Paralyzed]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Restrained|☠️Restrained]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Slowed|☠️Slowed]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Stunned|☠️Stunned]], or [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Unconscious|☠️Unconscious]], you can use your **Reaction** to spend <u>2 exertion</u> and reroll that Save.
 
 Additionally, a number of times per day equal to your <u>STR modifier</u>, you can spend <u>1 exertion</u> to add your <u>Martial Arts die</u> to any melee attack roll with an adept weapon if the target is at least a size category larger than you. You regain all expended uses when you finish a **long rest**.
 

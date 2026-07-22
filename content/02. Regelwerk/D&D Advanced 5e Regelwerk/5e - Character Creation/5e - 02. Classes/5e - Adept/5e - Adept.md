@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Adept🦸‍♀️
 created: 2026-07-20T12:11:02.494+02:00
-modified: 2026-07-22T12:05:33.609+02:00
-published: 2026-07-22T12:05:33.609+02:00
+modified: 2026-07-22T13:42:38.784+02:00
+published: 2026-07-22T13:42:38.784+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -56,7 +56,7 @@ When creating an adept, ask yourself the following questions. Where did you meet
 
 Why have you chosen to walk the path to perfection? Have you suffered a crushing defeat due to your lack of martial prowess, or lost a loved one because you were not able to defend them? Did you witness a true master in action and hoped you could be like them? Are you the reincarnation of a legendary martial arts prodigy?
 
-**As a Level 1 Character**
+#### As a Level 1 Character
 
 - Gain all the traits in the Core 🦸‍♀️5e - Adept🦸‍♀️ Traits table.
 - Gain the 🦸‍♀️5e - Adept🦸‍♀️’s level 1 features, which are listed in the 🦸‍♀️5e - Adept🦸‍♀️ Features table.
@@ -124,10 +124,10 @@ This table shows the general progression of every character class. Every column,
 
 You learn special defensive techniques. Choose one of the following options:
 
-**Agile Defense:** While you are wearing no armor and not wielding a shield, your AC equals <u>10 + DEX + WIS</u>.
+**<u>Agile Defense:</u>** While you are wearing no armor and not wielding a shield, your AC equals <u>10 + DEX + WIS</u>.
 Starting at <u>5th-level</u>, your AC equals <u>12 + DEX + WIS</u>, at <u>11th-level</u> this increases to <u>13 + DEX + WIS</u>
 
-**Brutal Defense:** You are proficient with <u>light armor</u>. While you are wearing light armor, you replace your DEX modifier with your STR modifier for AC.
+**<u>Brutal Defense:</u>** You are proficient with <u>light armor</u>. While you are wearing light armor, you replace your DEX modifier with your STR modifier for AC.
 Starting at <u>11th-level</u>, your AC increases by +1.
 
 ### Level 1: Combat Maneuvers
@@ -160,11 +160,11 @@ You can spend exertion points to fuel various focus features. You start knowing 
 
 Some of your focus features require your target to make a saving throw to resist the feature’s effects. The Saving Throw equals your **Maneuver Save DC**.
 
-**Flurry of Blows:** You can spend <u>1 exertion</u> to make <u>two</u> unarmed strikes as a **Bonus Action**.
+**<u>Flurry of Blows:</u>** You can spend <u>1 exertion</u> to make <u>two</u> unarmed strikes as a **Bonus Action**.
 
-**Long Step:** You can take the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Dash|⚔️Dash]]-Action as a **Bonus Action**. Alternatively, you can spend <u>1 exertion</u> to take both the **Dash** and the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Disengage|⚔️Disengage]]-Actions as a **Bonus Action**, and your [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Jumping|🏃‍♀️Jump]] distance is doubled for the turn.
+**<u>Long Step:</u>** You can take the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Dash|⚔️Dash]]-Action as a **Bonus Action**. Alternatively, you can spend <u>1 exertion</u> to take both the **Dash** and the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Disengage|⚔️Disengage]]-Actions as a **Bonus Action**, and your [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Jumping|🏃‍♀️Jump]] distance is doubled for the turn.
 
-**Patient Defense:** You can take the **Disengage**-Action as a **Bonus Action**. Alternatively, you can spend <u>1 exertion</u> to take both the **Disengage** and the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Dodge|⚔️Dodge]]-Actions as a **Bonus Action**.
+**<u>Patient Defense:</u>** You can take the **Disengage**-Action as a **Bonus Action**. Alternatively, you can spend <u>1 exertion</u> to take both the **Disengage** and the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Dodge|⚔️Dodge]]-Actions as a **Bonus Action**.
 
 ### Level 2: Practiced Techniques
 
@@ -279,12 +279,12 @@ Your 🦸‍♀️5e - Adept🦸‍♀️ Subclass grants you features at 3rd, 6
 | [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Warrior of Bruising.md\|5e - Warrior of Bruising]]             | Known unflatteringly as bruisers, these formidable adepts can stand toe-to-toe with foes that many of their contemporaries would prefer to dodge around.                                                                                                                              |
 | [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Warrior of Mercy.md\|5e - Warrior of Mercy]]                   | Warrior of Mercy Adeps learn to manipulate the life force of others to bring aid to those in need. They are wandering physicians to the poor and hurt. However, to those beyond their help, they bring a swift end as an act of mercy.                                                |
 | [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Warrior of Pugulism.md\|5e - Warrior of Pugulism]]             | Most adepts find intellectual and spiritual knowledge an important part of their studies—that’s not the case for pugulists. These adepts are only concerned about fighting and winning, which not only makes them tougher than their peers but also more versatile and unpredictable. |
-| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Warrior of Quickstepping.md\|5e - Warrior of Quickstepping]]   | -                                                                                                                                                                                                                                                                                    |
-| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Warrior of the Elements.md\|5e - Warrior of the Elements]]     | -                                                                                                                                                                                                                                                                                    |
-| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Warrior of the Hand.md\|5e - Warrior of the Hand]]             | -                                                                                                                                                                                                                                                                                    |
-| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Warrior of the Rising Sun.md\|5e - Warrior of the Rising Sun]] | -                                                                                                                                                                                                                                                                                    |
-| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Warrior of Tranquility.md\|5e - Warrior of Tranquility]]       | -                                                                                                                                                                                                                                                                                    |
-| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Warrior of Virtue.md\|5e - Warrior of Virtue]]                 | -                                                                                                                                                                                                                                                                                    |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Warrior of Quickstepping.md\|5e - Warrior of Quickstepping]]   | There’s something spectacular about dodging an enthusiastic blow, an amazing sense of exhilaration that only comes after a well delivered taunt drives a foe to make a strike they are likely to miss.                                                                                |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Warrior of the Elements.md\|5e - Warrior of the Elements]]     | The tradition of the Four Elements encompasses Adepts who tap into the power of the Elements through their practice of martial arts.                                                                                                                                                  |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Warrior of the Hand.md\|5e - Warrior of the Hand]]             | Warriors of the Hand are masters of unarmed combat. They learn techniques to push and trip their opponents and manipulate their own energy to protect themselves from harm.                                                                                                           |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Warrior of the Rising Sun.md\|5e - Warrior of the Rising Sun]] | Warrior of the Sun Adepts learn to channel their life energy into searing bolts of light. They teach that meditation can unlock the ability to unleash the indomitable light shed by the soul of every living creature.                                                               |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Warrior of Tranquility.md\|5e - Warrior of Tranquility]]       | Calm and unassuming, tranquil masters are as much about limiting conflict as they are at swiftly putting it down. In addition to their formidable mental fortitude, such adepts use a variety of soothing roots and herbs for the warm drinks they use to ply their craft.            |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Warrior of Virtue.md\|5e - Warrior of Virtue]]                 | A warrior of Virtue utilizes divine boons to augment their already striking prowess.                                                                                                                                                                                                  |
 
 ### Level 4: Feat
 
@@ -517,11 +517,11 @@ As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5
 
 Your training has pushed your body and mind to new levels. Your Flurry of Blows, Patient Defense, and Far Step gain the following benefits:
 
-**Flurry of Blows:** You can spend <u>1 exertion</u> to use **Flurry of Blows** and make <u>three</u> Unarmed Strikes with it instead of two.
+**<u>Flurry of Blows:</u>** You can spend <u>1 exertion</u> to use **Flurry of Blows** and make <u>three</u> Unarmed Strikes with it instead of two.
 
-**Patient Defense** When you spend exertion to use **Patient Defense**, you gain a number of <u>Temporary Hit Points</u> equal to **2x your Martial Arts Die**.
+**<u>Patient Defense:</u>** When you spend exertion to use **Patient Defense**, you gain a number of <u>Temporary Hit Points</u> equal to **2x your Martial Arts Die**.
 
-**Far Step:** When you spend exertion to use **Far Step**, you can choose a willing creature within <u>5 feet</u> of you that is Large or smaller. You move the creature with you until the end of your turn. The creature’s movement doesn’t provoke [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Reactions/5e - Opportunity Attack|⚔️Opportunity Attacks]].
+**<u>Far Step:</u>** When you spend exertion to use **Far Step**, you can choose a willing creature within <u>5 feet</u> of you that is Large or smaller. You move the creature with you until the end of your turn. The creature’s movement doesn’t provoke [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Reactions/5e - Opportunity Attack|⚔️Opportunity Attacks]].
 
 ### Level 12: Feat
 
