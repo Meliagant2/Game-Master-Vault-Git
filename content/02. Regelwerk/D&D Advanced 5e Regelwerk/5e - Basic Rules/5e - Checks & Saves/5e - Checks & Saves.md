@@ -2,8 +2,8 @@
 publish: true
 title: 🎲5e - Checks & Saves🎲
 created: 2026-07-20T12:11:02.894+02:00
-modified: 2026-07-21T10:49:52.692+02:00
-published: 2026-07-21T10:49:52.692+02:00
+modified: 2026-07-22T08:15:37.810+02:00
+published: 2026-07-22T08:15:37.810+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -15,26 +15,9 @@ image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Checks and Saves.png]]"
 status: ✅
 ---
 
-> [!metadata]- Metadata
->
-> > [!metadataoption]- Status
-> >
-> > #### Status
-> >
-> > | | |
-> > |---|---|
-> > |**Status** | `INPUT[Status][:status]` |
-> > |**Publish**|`INPUT[inlineSelect(option(true), option(false)):publish]`|
->
-> > [!metadataoption]- Bild
-> >
-> > #### Bild
-> >
-> > | | |
-> > |---|---|
-> > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
-
 # 🎲5e - Checks & Saves🎲
+
+Whenever an attempt is made by a creature to perform an action that has a chance of success and failure, they make a Check or a Save to determine the outcome of the attempt. The type of action the creature is attempting to perform determines whether they make a Check or a Save. When a creature makes a Check or Save, they roll a <u>d20</u> and add any relevant bonuses which are determined by the type of Check or Save. Any type of <u>d20</u> Roll is a Check or Save and is often called **D20 Test**.
 
 ## Ability Checks
 
@@ -99,6 +82,12 @@ Each class gives proficiency in at least two saving throws. The sorcerer, for ex
 The Difficulty Class for a saving throw is determined by the effect that causes it. For example, the DC for a saving throw allowed by a spell is determined by the caster’s spellcasting ability and proficiency bonus.
 
 The result of a successful or failed saving throw is also detailed in the effect that allows the save. Usually a successful save means that a creature suffers either no harm or reduced harm.
+
+## Check & Save Outcomes
+
+See [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Checks & Saves Outcomes/5e - Checks & Saves Outcomes|🎲Checks & Saves Outcomes]] for more information
+
+When a creature rolls a <u>20</u> on a <u>d20</u>, the Check or Save gains a **Critical Success**. When a creature rolls a <u>1</u> on a <u>d20</u>, the Check or Save suffers a **Critical Failure**. A Critical Success or Critical Failure can affect the outcome in different ways, as determined by the type of Check or Save being made.
 
 ## Quellen
 

@@ -2,13 +2,14 @@
 publish: true
 title: 🎲5e - Proficiency🎲
 created: 2026-07-20T12:11:02.903+02:00
-modified: 2026-07-20T15:52:40.998+02:00
-published: 2026-07-20T15:52:40.998+02:00
+modified: 2026-07-22T08:07:27.966+02:00
+published: 2026-07-22T08:07:27.966+02:00
 tags:
-  - "#Grundregeln"
+  - "#Proficiency"
   - "#5e"
-socialImage: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
-image: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
+dateitags:
+  - "#Proficiency"
+  - "#5e"
 status: ✅
 ---
 
@@ -41,7 +42,3 @@ Some class features or traits grant you an **expertise die** for an attack roll 
 You can never roll more than one expertise die on the same roll. If another class feature or situation grants an expertise die of any size that applies to the same roll, you don’t gain another die; instead, the size of the largest expertise die increases by one step for that check, from <u>1d4</u> to <u>1d6</u>, or <u>1d6</u> to <u>1d8</u>. For example, if you have gained two expertise dice, a 1d6 and 1d6, you now have a 1d8 expertise die.
 
 If you have a <u>1d8</u> expertise die on a check, further expertise dice have no effect. If you have advantage or disadvantage at the same time as an expertise die, only the <u>d20</u> is rolled twice, not the expertise die.
-
-## Quellen
-
-> [!inspiration] Quellen

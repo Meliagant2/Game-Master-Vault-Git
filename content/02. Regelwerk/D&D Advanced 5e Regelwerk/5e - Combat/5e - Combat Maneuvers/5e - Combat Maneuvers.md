@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 🗡️5e - Maneuvers🗡️
+title: 🤺5e - Maneuvers🤺
 created: 2026-07-20T12:11:02.666+02:00
-modified: 2026-07-21T10:08:02.031+02:00
-published: 2026-07-21T10:08:02.031+02:00
+modified: 2026-07-22T07:42:05.760+02:00
+published: 2026-07-22T07:42:05.760+02:00
 tags:
   - "#Combatrules"
   - "#5e"
@@ -34,7 +34,7 @@ status: ⏳
 > > |---|---|
 > > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
 
-# 🗡️5e - Maneuvers🗡️
+# 🤺5e - Maneuvers🤺
 
 ## Quellen
 

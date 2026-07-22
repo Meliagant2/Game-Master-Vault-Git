@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-22T07:22:32.771+02:00
-published: 2026-07-22T07:22:32.771+02:00
+modified: 2026-07-22T07:49:51.777+02:00
+published: 2026-07-22T07:49:51.777+02:00
 tags:
   - "#Home"
 ---
@@ -14,8 +14,6 @@ tags:
 > **Im Augenblick funktioniert auf dieser Website nur der <u>Light mode</u> korrekt, da ich den dark mode noch nicht designed habe. Daher bitte oben links, neben der Suchleiste bitte darauf wechseln, falls der Dark mode aktiviert ist.**
 
 **Einleitende Worte. Erklärung der Vault und der Website Funktionen**
-
-![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Destiny.png]]
 
 ### Quellen
 

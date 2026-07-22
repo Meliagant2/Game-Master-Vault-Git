@@ -2,8 +2,8 @@
 publish: true
 title: 👥5e - Elementari👥
 created: 2026-07-20T12:11:02.479+02:00
-modified: 2026-07-21T13:18:58.468+02:00
-published: 2026-07-21T13:18:58.468+02:00
+modified: 2026-07-22T07:30:38.524+02:00
+published: 2026-07-22T07:30:38.524+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -52,7 +52,7 @@ Regardless of their cause however, most planetouched share a few physical traits
 **Age:** Planetouched typically mature at the same rate as humans but have longer live spans. Most Planetouched born to non-Planetouched parents tend to mirror their parents life span, but all Planetouched can age to a maximum of 160 years.\
 **Size:** Medium (4-7 feet / 120cm - 210cm) or Small (2-4 feet / 60cm - 120cm)
 **Speed:** 30 feet
-**Darkvision:** You have [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Senses/5e - Darkvision|👁️Darkvision]] with a range of <u>60 feet</u>.
+**Darkvision:** You have [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision/5e - Senses/5e - Darkvision|👁️Darkvision]] with a range of <u>60 feet</u>.
 
 ### Immortal Blessing
 

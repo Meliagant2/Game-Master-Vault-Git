@@ -2,8 +2,8 @@
 publish: true
 title: 👥5e - Hobbit👥
 created: 2026-07-20T12:11:02.463+02:00
-modified: 2026-07-21T13:23:33.013+02:00
-published: 2026-07-21T13:23:33.013+02:00
+modified: 2026-07-22T07:30:38.515+02:00
+published: 2026-07-22T07:30:38.515+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -95,7 +95,7 @@ You have thick patches of bushy hair that grow atop your proportionally large fe
 
 You are blanched of both emotion and color with wide, alarmingly pure white eyes, and skin that is either starkly pallid or disquietingly sallow. There’s no hair at all atop your head or you have only a few bedraggled locks of hair. You form stronger communal bonds than other halflings, and can speak without the need for words. You have the following traits:
 
-**Darkvision:** You have [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Senses/5e - Darkvision|👁️Darkvision]] with a range of <u>60 feet</u>.
+**Darkvision:** You have [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision/5e - Senses/5e - Darkvision|👁️Darkvision]] with a range of <u>60 feet</u>.
 **Telepathy:** You can send telepathic messages to any creature you can see within 30 feet of you. You don’t need to share a language with the creature for it to understand these messages, but it must be able to understand at least one language to comprehend them.
 
 ## Halfling Paragon
