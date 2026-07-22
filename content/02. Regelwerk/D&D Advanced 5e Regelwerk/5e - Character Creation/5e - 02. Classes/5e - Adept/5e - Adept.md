@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 5e - Adept
+title: 🦸‍♀️5e - Adept🦸‍♀️
 created: 2026-07-20T12:11:02.494+02:00
-modified: 2026-07-20T15:55:57.427+02:00
-published: 2026-07-20T15:55:57.427+02:00
+modified: 2026-07-22T12:05:33.609+02:00
+published: 2026-07-22T12:05:33.609+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -12,47 +12,11 @@ dateitags:
   - "#Classes"
   - "#5e"
 image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png]]"
-status: ⏳
+status: ✅
 kurzbeschreibung: A living weapon that hones their control over body and mind, and channels their unwavering focus to achieve amazing feats
 ---
 
-> [!metadata]- Metadata
->
-> > [!metadataoption]- Status
-> >
-> > #### Status
-> >
-> > | | |
-> > |---|---|
-> > |**Status** | `INPUT[Status][:status]` |
-> > |**Publish**|`INPUT[inlineSelect(option(true), option(false)):publish]`|
->
-> > [!metadataoption]- Bild
-> >
-> > #### Bild
-> >
-> > | | |
-> > |---|---|
-> > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
->
-> > [!metadataoption]- Info
-> >
-> > #### Info
-> >
-> > | | |
-> > |---|---|
-> > |**Display Title** | `INPUT[textArea:title]`|
-> > |**Kurzbeschreibung** | `INPUT[textArea:kurzbeschreibung]`|
->
-> > [!metadataoption]- TEST
-> >
-> > #### Info
-> >
-> > | | |
-> > |---|---|
-> > |**Bild 2**|`INPUT[inlineListSuggester(optionQuery("png")):image2]`|
-
-# 5e - Adept
+# 🦸‍♀️5e - Adept🦸‍♀️
 
 > [!lore] Kurzbeschreibung
 > A living weapon that hones their control over body and mind, and channels their unwavering focus to achieve amazing feats
@@ -92,15 +56,15 @@ When creating an adept, ask yourself the following questions. Where did you meet
 
 Why have you chosen to walk the path to perfection? Have you suffered a crushing defeat due to your lack of martial prowess, or lost a loved one because you were not able to defend them? Did you witness a true master in action and hoped you could be like them? Are you the reincarnation of a legendary martial arts prodigy?
 
-#### As a Level 1 Character
+**As a Level 1 Character**
 
-- Gain all the traits in the Core 5e - Adept Traits table.
-- Gain the 5e - Adept’s level 1 features, which are listed in the 5e - Adept Features table.
+- Gain all the traits in the Core 🦸‍♀️5e - Adept🦸‍♀️ Traits table.
+- Gain the 🦸‍♀️5e - Adept🦸‍♀️’s level 1 features, which are listed in the 🦸‍♀️5e - Adept🦸‍♀️ Features table.
 
 #### As a Multiclass Character
 
-- Gain the following traits from the Core 5e - Adept Traits table: Hit Point Die
-- Gain the 5e - Adept’s level 1 features, which are listed in the 5e - Adept Features table. See the multiclassing rules to determine your available spell slots.
+- Gain the following traits from the Core 🦸‍♀️5e - Adept🦸‍♀️ Traits table: Hit Point Die
+- Gain the 🦸‍♀️5e - Adept🦸‍♀️’s level 1 features, which are listed in the 🦸‍♀️5e - Adept🦸‍♀️ Features table. See the multiclassing rules to determine your available spell slots.
 
 #### General Character Table
 
@@ -158,60 +122,49 @@ This table shows the general progression of every character class. Every column,
 
 ### Level 1: Adroit Defense
 
-#### Agile Defense
+You learn special defensive techniques. Choose one of the following options:
 
-While you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Wisdom modifier.
+**Agile Defense:** While you are wearing no armor and not wielding a shield, your AC equals <u>10 + DEX + WIS</u>.
+Starting at <u>5th-level</u>, your AC equals <u>12 + DEX + WIS</u>, at <u>11th-level</u> this increases to <u>13 + DEX + WIS</u>
 
-Starting at 5th-level, your Armor Class equals 12 + your Dexterity modifier + your Wisdom modifier, at 11th-leve this increases to 13 + you Dexterity modifier + your Wisdom modifier.
-
-#### Brutal Defense
-
-You are proficient with light armor. While you are wearing light armor, you replace your Dexterity modifier with your Strength modifier for AC.
-
-Starting at 11th-level, your Armor Class increases by +1.
+**Brutal Defense:** You are proficient with <u>light armor</u>. While you are wearing light armor, you replace your DEX modifier with your STR modifier for AC.
+Starting at <u>11th-level</u>, your AC increases by +1.
 
 ### Level 1: Combat Maneuvers
 
-You gain the ability to use combat maneuvers. You gain proficiency in two combat traditions from the following list: Mirror’s Glint, Rapid Current, Razor’s Edge, Unending Wheel. You learn two maneuvers of your choice from traditions you are proficient with.
+You gain the ability to use combat maneuvers. You gain proficiency in two **combat traditions** from the following list:
+[[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Mirrors Glint Tradition/5e - Mirrors Glint Tradition|🤺Mirrors Glint]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Rapid Current Tradition/5e - Rapid Current Tradition|🤺Rapid Current]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Razors Edge Tradition/5e - Razors Edge Tradition|🤺Razors Edge]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Unending Wheel Tradition/5e - Unending Wheel Tradition|🤺Unending Wheel]]. You learn two maneuvers of your choice from traditions you are proficient with.
 
-You gain an exertion pool equal to twice your proficiency bonus, regaining any spent exertion at the end of a short or long rest. You use your maneuvers by spending points from your exertion pool. The Maneuvers Known column of the Adept table shows when you learn more maneuvers from a tradition you are proficient with, while the Maneuver Degree column shows the highest degree you can select maneuvers from at a given level.
+You gain an [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Exertion|🤺Exertion]] pool equal to twice your proficiency bonus plus <u>half your Adept level (rounded down)</u>, regaining any spent exertion at the end of a [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Short Rest|😴Short]] or [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Long Rest|😴Long Rest]]. You use your maneuvers by spending points from your exertion pool. The Maneuvers Known column of the Adept table shows when you learn more maneuvers from a tradition you are proficient with, while the Maneuver Degree column shows the highest degree you can select maneuvers from at a given level.
 
 Additionally, whenever you learn a new maneuver, you can choose one of the maneuvers you know and replace it with another maneuver of the same degree from a tradition you are proficient with.
 
-As an adept, you gain +1 to your maneuver DC and your exertion pool increases by half your Adept level (rounded down).
+As an adept, you gain <u>+1</u> to your [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Save DC|🤺Maneuver Save DC]].
 
 ### Level 1: Martial Arts
 
-You honed your body into a weapon, mastering many styles of martial arts. For the purposes of your Adept abilities, Martial Arts attacks are unarmed strikes, and any attacks with melee weapons that lack heavy or special properties.
+You honed your body into a weapon, mastering many styles of martial arts. For the purposes of your Adept abilities, <u>Martial Arts Attacks</u> are <u>Unarmed Strikes</u>, and any attacks with melee weapons that lack heavy or special properties.
 
-So long as you are not wearing heavy armor, wielding a shield, or wielding a heavy weapon, your Martial Arts attacks gain the benefits listed below:
+So long as you are not wearing heavy armor, wielding a shield, or wielding a heavy weapon, your <u>Martial Arts Attacks</u> gain the benefits listed below:
 
-- You can use your Dexterity, in place of Strength, for the attack and damage rolls or your Martial Arts attacks.
-- You can make a Dexterity (Athletics) check to grapple or shove in place of the normal Strength (Athletics) check.
-- You can roll your Martial Arts die in place of the normal damage of a Martial Arts attack. This die starts out as a d6 and changes as you gain Adept levels, as indicated in the Martial Arts column of the Adept table above.
-- You can use your _Bonus Action_ to make an unarmed attack.
+- You can use your <u>DEX</u>, in place of <u>STR</u>, for the attack and damage rolls or your Martial Arts Attacks.
+- You can make a <u>DEX (Athletics)</u> check to grapple or shove in place of the normal <u>STR (Athletics)</u> check.
+- You can roll your <u>Martial Arts Die</u> in place of the normal damage of a Martial Arts attack. This die starts out as a <u>d6</u> and changes as you gain Adept levels, as indicated in the Martial Arts column of the Adept table above.
+- You can use your **Bonus Action** to make an unarmed attack.
 
 ### Level 2: Exertion Focus
 
-Your training allows you to harness your mental energy into a supernatural state of focus. Some cultures refer to this energy as axé, prana, pneuma, or ki. Your access to this energy is represented by your exertion pool.
+Your training allows you to harness your mental energy into a supernatural state of focus. Some cultures refer to this energy as axé, prana, pneuma, or ki. Your access to this energy is represented by your **Exertion Pool**.
 
-You can spend exertion points to fuel various focus features. You start knowing three such features: Flurry of Blows, Long Step, and Patient Defense. You learn more focus features as you gain levels in this class.
+You can spend exertion points to fuel various focus features. You start knowing three such features: **Flurry of Blows**, **Long Step**, and **Patient Defense**. You learn more focus features as you gain levels in this class.
 
-Some of your focus features require your target to make a saving throw to resist the feature’s effects. The saving throw DC is calculated as follows:
+Some of your focus features require your target to make a saving throw to resist the feature’s effects. The Saving Throw equals your **Maneuver Save DC**.
 
-**Focus save DC:** = 8 + your proficiency bonus + your Wisdom modifier
+**Flurry of Blows:** You can spend <u>1 exertion</u> to make <u>two</u> unarmed strikes as a **Bonus Action**.
 
-#### Flurry of Blows
+**Long Step:** You can take the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Dash|⚔️Dash]]-Action as a **Bonus Action**. Alternatively, you can spend <u>1 exertion</u> to take both the **Dash** and the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Disengage|⚔️Disengage]]-Actions as a **Bonus Action**, and your [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Jumping|🏃‍♀️Jump]] distance is doubled for the turn.
 
-You can spend 1 exertion to make two unarmed strikes as a bonus action.
-
-#### Long Step
-
-You can take the Dash action as a Bonus Action. Alternatively, you can spend 1 exertion to take both the Disengage and Dash actions as a Bonus Action, and your jump distance is doubled for the turn.
-
-#### Patient Defense
-
-You can take the Disengage action as a Bonus Action. Alternatively, you can spend 1 exertion to take both the Disengage and the Dodge actions as a Bonus Action.
+**Patient Defense:** You can take the **Disengage**-Action as a **Bonus Action**. Alternatively, you can spend <u>1 exertion</u> to take both the **Disengage** and the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Dodge|⚔️Dodge]]-Actions as a **Bonus Action**.
 
 ### Level 2: Practiced Techniques
 
@@ -222,159 +175,154 @@ You have picked up a number of tricks in your path towards perfection. You gain 
 >
 > #### Adept Speed
 >
-> Your Speed increases by 10 feet while you are not wearing armor or wielding a shield. You can choose this technique more than once. Its effects stack.
+> **Repeatable:** You can choose this technique more than once.
+>
+> Your Speed increases by <u>10 feet</u> while you are not wearing armor or wielding a shield.
 >
 > #### Gale Walk
 >
-> Requirement: Adept Speed, proficiency with Athletics
+> **Requirement:** <u>Adept Speed</u>, proficiency with <u>Athletics</u>
 >
-> You have advantage on Athletics checks made to jump. On your turn, you can spend 1 exertion to triple your jump distances until the start of your next turn.
+> You have **ADV** on <u>Athletics</u> checks made to **jump**. On your turn, you can spend <u>1 exertion</u> to triple your **jump** distances until the start of your next turn.
 >
 > #### Hurricane Walk
 >
-> Requirement: Gale Walk
+> **Requirement:** <u>Gale Walk</u>
 >
-> Your step is so light you seem to float in the air. You can use a bonus action and spend 1 exertion to cast fly on yourself. You also have advantage on Stealth checks related to noise. The effect lasts until the start of your next turn.
+> Your step is so light you seem to float in the air. You can use a **Bonus Action** and spend <u>1 exertion </u>to cast [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 3 Transmutation/5e - Fly (Spell)|☄️Fly (Spell)]] on yourself. You also have **ADV** on <u>Stealth</u> checks related to noise. The effect lasts until the start of your next turn.
 >
 > #### Marathon Runner
 >
-> You are used to running long distances. When you move at a fast pace, you don’t suffer a penalty to your passive Perception. In addition, you add your martial arts die when making a Constitution saving throw for a forced march.
+> You are used to running long distances. When you move at a fast pace, you don’t suffer a penalty to your <u>passive Perception</u>. In addition, you add your <u>martial arts die</u> when making a **CON Save** for a forced march.
 >
 > #### Nimble Athlete
 >
-> You can always choose to use your Dexterity modifier for Athletics checks.
+> You can always choose to use your <u>DEX</u> modifier for all <u>Athletics</u> checks.
 >
 > #### Power Tumble
 >
-> You can always choose to use your Strength modifier for Acrobatics checks.
+> You can always choose to use your <u>STR</u> modifier for all <u>Acrobatics</u> checks.
 >
 > #### Religious Training
 >
-> You are proficient with the Religion skill. When you are in contact with a holy relic, religious artifact, or any kind of similar object or structure, you can spend 2 exertion to learn something about it. You receive a correct answer from the Game Master for a question about the object that can be answered with a yes or no.
+> You are proficient with the <u>Religion</u> skill. When you are in contact with a holy relic, religious artifact, or any kind of similar object or structure, you can spend <u>2 exertion</u> to learn something about it. You receive a correct answer from the Game Master for a question about the object that can be answered with a yes or no.
 >
 > #### Slow Fall
 >
-> You can use your reaction when you fall to reduce any falling damage you take by an amount equal to ten times your adept level.
+> You can use your reaction when you fall to reduce any falling damage you take by an amount equal to **10 x your Adept level**.
 >
 > #### Wall Walk
 >
-> Requirement: Adept Speed, proficiency with Acrobatics
+> **Requirement:** <u>Adept Speed</u>, proficiency with <u>Acrobatics</u>
 >
-> You gain the ability to move along vertical surfaces on your turn without falling during the move. You can use a bonus action and spend 1 exertion to cast spider climb on yourself. The effect lasts until the start of your next turn.
+> You gain the ability to move along vertical surfaces on your turn without falling during the move. You can use a **Bonus Action** and spend <u>1 exertion</u> to cast [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 2 Transmutation/5e - Spider Climb (Spell)|☄️Spider Climb]] on yourself. The effect lasts until the start of your next turn.
 >
 > #### Warrior’s Awareness
 >
-> Requirement: Proficiency with Survival
+> **Requirement:** Proficiency with <u>Survival</u>
 >
-> Your honed battlefield awareness is unmatched even in the wilderness. When you make a Survival check to avoid being lost, you ignore penalties for moving at a fast pace and gain a bonus to the check equal to your martial arts die.
+> Your honed battlefield awareness is unmatched even in the wilderness. When you make a <u>Survival</u> check to avoid being lost, you ignore penalties for moving at a fast pace and gain a bonus to the check equal to your <u>Martial Arts die.</u>
 >
 > #### Water Walk
 >
-> Requirement: Adept Speed
+> **Requirement:** <u>Adept Speed</u>
 >
-> You gain the ability to move across liquids on your turn without falling during the move. You can use a bonus action and spend 1 exertion to cast water walk on yourself. The effect lasts until the start of your next turn.
+> You gain the ability to move across liquids on your turn without falling during the move. You can use a **Bonus Action** and spend <u>1 exertion</u> to cast [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 3 Transmutation/5e - Water Walk (Spell)|☄️Water Walk]] on yourself. The effect lasts until the start of your next turn.
 >
 > #### Wilderness Training
 >
-> You are proficient with the Survival skill. For the purposes of adept class features, you consider beasts to be martial artists.
+> You are proficient with the <u>Survival</u> skill. For the purposes of adept class features, you consider beasts to be martial artists.
 >
 > #### Instant Step
 >
-> Requirement: Adept Speed, 11th level
+> **Requirement:** <u>Adept Speed</u>, <u>11th level</u>
 >
-> You can move so fast you seem to teleport. You can use an action to spend 4 exertion and choose an unoccupied space you can see within 500 feet. You teleport and arrive at exactly the spot desired. You can bring along your gear, carried items smaller than your arm, and a single creature of your size category or smaller. In addition, you become invisible until the beginning of your next turn.
+> You can move so fast you seem to teleport. You can use an **Action** and spend <u>4 exertion</u> to cast [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Level 4 Conjuration/5e - Dimension Door (Spell)|☄️Dimension Door]]. In addition to the Spell effects, you become invisible until the beginning of your next turn.
 >
 > #### Shadow Walk
 >
-> Requirement: 11th level, proficiency with Stealth
+> **Requirement:** <u>11th level</u>, proficiency with <u>Stealth</u>
 >
-> You can step into a shadow and come out of another. When you are in dim light or darkness , as a bonus action you can teleport up to 60 feet to an unoccupied space you can see that is also in dim light or darkness. You have advantage on Stealth checks until the beginning of your next turn.
+> You can step into a shadow and come out of another. When you are in [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision/5e - Illumination/5e - Dim Light|💡Dim Light]] or [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision/5e - Illumination/5e - Darkness (Illumination)|💡Darkness]], as a **Bonus Action** you can teleport up to <u>60 feet</u> to an unoccupied space you can see that is also in **dim light** or **darkness**. You have **ADV** on <u>Stealth</u> checks until the beginning of your next turn.
 >
 > #### Sixth Sense
 >
-> Requirement: 11th level
+> **Requirement:** <u>11th level</u>
 >
-> You have advantage on initiative checks. In addition, you can always choose to use your Wisdom for Arcana, History, Investigation, Nature, and Religion checks.
+> You have **ADV** on <u>Initiative</u> checks. In addition, you can always choose to use your <u>WIS</u> for <u>Arcana</u>, <u>History</u>, <u>Investigation</u>, <u>Nature</u>, and <u>Religion</u> checks.
 >
 > #### Focus Speech
 >
-> Requirement: 15th level
+> **Requirement:** <u>15th level</u>
 >
 > A combination of your knowledge of body language and your spiritual awareness allows you to understand all spoken languages. Moreover, any creature that can understand a language can understand what you say.
 
 ### Level 2: Uncanny Metabolism
 
-When you roll Initiative, you can regain all expended exertion. When you do so, roll your Martial Arts die, and regain a number of Hit Points equal to your Adept level plus the number rolled.
+When you roll <u>Initiative</u>, you can regain all expended <u>exertion</u>. When you do so, roll your <u>Martial Arts die</u>, and regain a number of <u>Hit Points</u> equal to **your Adept level + the number rolled**.
 
-Once you use this feature, you can’t use it again until you finish a Long Rest.
+Once you use this feature, you can’t use it again until you finish a **Long Rest**.
 
 ### Level 2: Feat
 
-As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|Feat]] of your choice, for which you qualify. At Character levels 4, 7, 10, 12, 14, 16, 18, and 20 you can choose another feat of your choice for which you qualify.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
-View "General Character Table" to see if you qualify for a feat at this level.
+### Level 3: 🦸‍♀️5e - Adept🦸‍♀️ Subclass
 
-### Level 3: 5e - Adept Subclass
+You choose one 🦸‍♀️5e - Adept🦸‍♀️ Subclass, which represents you best.
 
-You choose one 5e - Adept Subclass, which represents you best.
+Your 🦸‍♀️5e - Adept🦸‍♀️ Subclass grants you features at 3rd, 6th, 9th, 13th, and again at 17th level.
 
-Your 5e - Adept Subclass grants you features at 3rd, 6th, 9th, 13th, and again at 17th level.
-
-```base
-views:
-  - type: cards
-    name: 5e Adept Subclasses
-    filters:
-      and:
-        - dateitags.contains("#5e")
-        - dateitags.contains("#Subclass")
-        - dateitags.contains("#Adept")
-    image: note.image
-    cardSize: 150
-    imageAspectRatio: 1
-    imageFit: contain
-
-```
+| Subclass                                                                                                                                                          | Description                                                                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Warrior of Blackpowder.md\|5e - Warrior of Blackpowder]]       | Adepts of the Way of the Blackpowder can dodge and even catch bullets, curve their shots around barriers, and perform other supernatural feats with firearms. |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Warrior of Bruising.md\|5e - Warrior of Bruising]]             | -                                                                                                                                                            |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Warrior of Mercy.md\|5e - Warrior of Mercy]]                   | -                                                                                                                                                            |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Warrior of Pugulism.md\|5e - Warrior of Pugulism]]             | -                                                                                                                                                            |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Warrior of Quickstepping.md\|5e - Warrior of Quickstepping]]   | -                                                                                                                                                            |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Warrior of the Elements.md\|5e - Warrior of the Elements]]     | -                                                                                                                                                            |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Warrior of the Hand.md\|5e - Warrior of the Hand]]             | -                                                                                                                                                            |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Warrior of the Rising Sun.md\|5e - Warrior of the Rising Sun]] | -                                                                                                                                                            |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Warrior of Tranquility.md\|5e - Warrior of Tranquility]]       | -                                                                                                                                                            |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Warrior of Virtue.md\|5e - Warrior of Virtue]]                 | -                                                                                                                                                            |
 
 ### Level 4: Feat
 
-As long as you are not multiclassed, you gain one feat of your choice, for which you qualify. At Character levels 7, 10, 12, 14, 16, 18, and 20 you can choose another feat of your choice for which you qualify.
-
-View "General Character Table" to see if you qualify for a feat at this level.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
 ### Level 5: Extra Attack
 
-You can attack twice, instead of once, when you take the Attack action on your turn.
+You can attack twice, instead of once, when you take the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Attack (Action)|⚔️Attack]]-Action on your turn.
 
 ### Level 5: Focus Feature
 
-Focus features stem from the mastery of your internal energies. At 5th level, and again every level after that, choose one option from the list below. Some features have requirements, such as minimum adept level or another focus feature. You must meet those requirements before you choose that focus feature.
+Focus features stem from the mastery of your internal energies. At <u>5th level</u>, and again <u>every level</u> after that, choose one option from the list below. Some features have requirements, such as minimum adept level or another focus feature. You must meet those requirements before you choose that focus feature.
 
 > [!charakterklasse]- Focus Feature
 >
-> ### Battle Dance
+> #### Battle Dance
 >
-> You gain proficiency in the Performance skill. As a bonus action, you can spend 2 exertion to bob and sway, starting a battle dance. Until the end of your turn, your Speed increases by 20 feet and opportunity attacks against you are made with disadvantage.
+> You gain proficiency in the <u>Performance</u> skill. As a **Bonus Action**, you can spend <u>2 exertion</u> to bob and sway, starting a battle dance. Until the end of your turn, your Speed increases by <u>20 feet</u> and [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Reactions/5e - Opportunity Attack|⚔️Opportunity Attacks]] against you are made with **DISADV**.
 >
-> When an opportunity attack misses you, you can use your reaction to retaliate with an unarmed strike.
+> When an opportunity attack misses you, you can use your **Reaction** to retaliate with an <u>unarmed strike</u>.
 >
-> ### Battle Meditation
+> #### Battle Meditation
 >
-> As an action, you can spend 1 Hit Die to regain 1d4 exertion. You can’t use this feature again until you finish a short or long rest.
+> As an **Action**, you can spend <u>1 Hit Die</u> to regain <u>1d4</u> exertion. You can’t use this feature again until you finish a **short** or **long rest**.
 >
-> ### Deflect Attacks
+> #### Deflect Attacks
 >
-> You can use your Reaction to deflect melee and ranged attacks against you that deal Bludgeoning, Piercing, or Slashing damage.
+> You can use your **Reaction** to deflect melee and ranged attacks against you that deal <u>Bludgeoning</u>, <u>Piercing</u>, or <u>Slashing</u> damage.
 >
-> When you do so, the total damage you take from the attack is reduced by 1d10 + your Dexterity modifier + your Adept level.
+> When you do so, the total damage you take from the attack is reduced by **1d10 + DEX + your Adept level**.
 >
-> If you reduce the damage to 0, you can spend 1 exertion to redirect some of the attack’s force. If you do so, choose a creature within 5 feet of you if the attack was a melee attack or 60 feet of yourself that isn’t behind Total Cover if the attack was a ranged attack. That creature must succeed on a Dexterity saving throw or take damage equal to two rolls of your Martial Arts die plus your Dexterity modifier. The damage is the same type dealt by the attack.
+> If you reduce the damage to 0, you can spend <u>1 exertion</u> to redirect some of the attack’s force. If you do so, choose a creature within <u>5 feet</u> of you if the attack was a <u>melee attack</u> or <u>60 feet</u> of yourself that isn’t behind Total Cover if the attack was a <u>ranged attack</u>. That creature must make a **DEX Save**. _**Failure:**_ The Creature takes damage equal to **2 x Martial Arts die + DEX**. The damage is the same type dealt by the attack.
 >
-> ### Eye for Detail
+> #### Eye for Detail
 >
-> Requirement: Proficiency with the Insight skill
+> **Requirement:** Proficiency with the <u>Insight</u> skill
 >
-> You notice patterns others cannot. As an action, you can spend 1 exertion to study a creature you have watched speak for at least 1 minute. You can ask the Game Master one of these questions:
+> You notice patterns others cannot. As an **Action**, you can spend <u>1 exertion</u> to study a creature you have watched speak for at least <u>1 minute</u>. You can ask the Game Master one of these questions:
 >
 > - Is the creature hiding any strong emotions?
 > - Does the creature have a secret agenda?
@@ -383,240 +331,231 @@ Focus features stem from the mastery of your internal energies. At 5th level, an
 >
 > The Game Master must give you a truthful answer.
 >
-> ### Hooked Swords Dance
+> #### Hooked Swords Dance
 >
-> When you are fighting with a shortsword in each hand, you use a bonus action and spend 2 exertion to hook them together to start a hooked swords dance. Until the end of your next turn, your shortswords gain the reach property. If you hit a target with both swords in the same turn, the target takes an additional 1d10 slashing damage.
+> When you are fighting with a shortsword in each hand, you use a **Bonus Action** and spend <u>2 exertion</u> to hook them together to start a hooked swords dance. Until the end of your next turn, your shortswords gain the <u>reach</u> property. If you hit a target with both swords in the same turn, the target takes an additional <u>1d10</u> slashing damage.
 >
-> ### Last Dance
+> #### Last Dance
 >
-> Requirement: any dance
+> **Requirement:** <u>any dance</u>
 >
-> When the duration of one of your dances ends, you can spend 2 exertion to make the effect last until the end of your next turn.
+> When the duration of one of your dances ends, you can spend <u>2 exertion</u> to make the effect last until the end of your next turn.
 >
-> In addition, if you know two or more dance focus features you can spend 3 additional exertion to activate two dances using the same bonus action.
+> In addition, if you know two or more dance focus features you can spend <u>3 additional exertion </u>to activate two dances using the same **Bonus Action**.
 >
-> ### Mind Over Body
+> #### Mind Over Body
 >
-> You can use a bonus action and spend 2 exertion to gain temporary hit points equal to your martial arts die plus your adept level.
+> You can use a **Bonus Action** and spend <u>2 exertion</u> to gain <u>temporary hit points</u> equal to **your Martial Arts die + your Adept level**.
 >
-> ### Pressure Point Secrets
+> #### Pressure Point Secrets
 >
-> Requirements: Dazing Strike
+> **Requirements:** <u>Dazing Strike</u>
 >
-> When you use one of the focus features, you can spend 2 additional exertion. If you do, your target has disadvantage on its first saving throw made against the focus feature.
+> When you use one of the **focus features**, you can spend <u>2 additional exertion</u>. If you do, your target has **DISADV** on its first **Save** made against the focus feature.
 >
-> ### Weapon Skill
+> #### Weapon Skill
 >
 > Choose a martial weapon that does not have the Heavy or Special properties. You become proficient with that weapon and it counts as an adept weapon for you.
 >
-> ### Adept Weaponry
+> #### Adept Weaponry
 >
 > Choose two weapons or one rare weapon. If you are not proficient with them, you become proficient with them. They count as adept weapons for you.
 >
-> ### Stunning Strike
+> #### Stunning Strike
 >
-> You can deal incapacitating blows. When you hit another creature with a melee weapon attack, you can spend 1 exertion to attempt a stunning strike. The target must succeed on a Constitution saving throw or be stunned until the end of your next turn. On a succesful safe the creature is rattled instead.
+> You can deal incapacitating blows. When you hit another creature with a melee weapon attack, you can spend <u>1 exertion</u> to attempt a stunning strike. The target makes a **CON Save**. _**Failure:**_ The Target is [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Stunned|☠️Stunned]] until the end of your next turn. _**Success:**_ The creature is [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Rattled|☠️Rattled]] instead.
 >
-> ### Distant Death Dance
+> #### Distant Death Dance
 >
-> As a bonus action, you can inhale air slowly and spend 2 exertion to start the distant death dance. Until the end of your turn, your reach with unarmed strikes increases to 60 feet. You have disadvantage on melee attacks against creatures more than 20 feet away from you.
+> As a **Bonus Action**, you can inhale air slowly and spend <u>2 exertion</u> to start the distant death dance. Until the end of your turn, your reach with unarmed strikes increases to <u>60 feet</u>.
 >
-> ### Focused Strikes
+> #### Focused Strikes
 >
-> Your unarmed strikes can deal force damage instead of their normal damage. You choose whenever you hit.
+> Your unarmed strikes can deal <u>force</u> damage instead of their normal damage. You choose whenever you hit.
 >
-> ### Mirage Dance
+> #### Mirage Dance
 >
-> As a bonus action, you can spend 2 exertion to swiftly start a mirage dance. Until the end of your next turn, you are under the effect of the mirror image spell.
+> As a **Bonus Action**, you can spend <u>2 exertion</u> to swiftly start a mirage dance. Until the end of your next turn, you are under the effect of the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Illusion/5e - Level 2 Illusion/5e - Mirror Image (Spell)|☄️Mirror Image]] spell.
 >
-> ### Powerful Blow
+> #### Powerful Blow
 >
-> As a bonus action, you prepare a crushing blow. If you hit a creature with a melee weapon attack before the end of your next turn, you can spend 1 exertion to deal additional damage equal to your martial arts die.
+> As a **Bonus Action**, you prepare a crushing blow. If you hit a creature with a melee weapon attack before the end of your next turn, you can spend <u>1 exertion</u> to deal additional damage equal to your <u>martial arts die</u>.
 >
-> ### Shockwave
+> #### Shockwave
 >
-> You can use an action and spend 3 exertion to hit the ground so hard it sends a shockwave in a 40-foot line that is 5 feet wide. Each creature in that line must make a Dexterity saving throw. A creature takes 6d6 bludgeoning damage and falls prone on a failed save, or half as much damage on a successful one.
+> You can use an **Action** and spend <u>3 exertion</u> to hit the ground so hard it sends a shockwave in a <u>40-foot line</u> that is <u>5 feet wide</u>. Each creature in that line must make a **DEX Save**. _**Failure:**_ The creature takes <u>6d6</u> bludgeoning damage and falls [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]]. _**Success:**_ Half damage.
 >
-> ### Warding Dance
+> #### Warding Dance
 >
-> When you are fighting unarmed or with one weapon in one hand and nothing in the other, you can use a bonus action and spend 2 exertion to start a warding dance. Until the end of your next turn, you have resistance against bludgeoning, piercing and slashing damage.
+> When you are fighting unarmed or with one weapon in one hand and nothing in the other, you can use a **Bonus Action** and spend <u>2 exertion</u> to start a warding dance. Until the end of your next turn, you have <u>resistance</u> against <u>bludgeoning</u>, <u>piercing</u> and <u>slashing</u> damage.
 >
-> ### Forbidden Strike
+> #### Forbidden Strike
 >
-> Requirement: 7th level
+> **Requirement:** <u>7th level</u>
 >
-> When you hit an opponent with at least one attack from a Flurry of Blows, you can spend 1 exertion to deal additional damage equal to your martial arts die.
+> When you hit an opponent with at least one attack from a **Flurry of Blows**, you can spend <u>1 exertion</u> to deal additional damage equal to your <u>Martial Arts die</u>.
 >
-> ### Maneuver Rush
+> #### Maneuver Rush
 >
-> Requirement: 7th level
+> **Requirement:** <u>7th level</u>
 >
-> When you hit with a maneuver that requires 2 attacks from your Attack action, you can use another maneuver that requires 1 or 2 attacks from your Attack action as part of the same Attack action. You can’t use this feature again until you finish a short or long rest.
+> When you hit with a **maneuver** that requires 2 attacks from your Attack action, you can use another maneuver that requires 1 or 2 attacks from your Attack action as part of the same Attack action. You can’t use this feature again until you finish a **short** or **long rest**.
 >
-> ### Purity of Body
+> #### Purity of Body
 >
-> Requirement: 7th level
+> **Requirement:** <u>7th level</u>
 >
-> You can use your action to end one effect on yourself that is causing you to be poisoned or diseased.
+> You can use your **Action** to end one effect on yourself that is causing you to be [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Poisoned|☠️Poisoned]] or **diseased**.
 >
-> ### Stillness of Mind
+> #### Stillness of Mind
 >
-> Requirement: 7th level
+> **Requirement:** <u>7th level</u>
 >
-> You can use your action to end one effect on yourself that is causing you to be charmed or frightened.
+> You can use your **Action** to end one effect on yourself that is causing you to be [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]] or [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Frightened|☠️Frightened]].
 >
-> ### Closed Soul
+> #### Closed Soul
 >
-> Requirement: 9th level
+> **Requirement:** <u>9th level</u>
 >
-> When you make a saving throw , you can use your reaction and spend 2 exertion to gain advantage on saving throws against spells and other magical effects until the beginning of your next turn.
+> When you make a saving throw , you can use your **Reaction** and spend <u>2 exertion</u> to gain **ADV** on saving throws against <u>spells</u> and other <u>magical effects</u> until the beginning of your next turn.
 >
-> ### Deflect Energy
+> #### Deflect Energy
 >
-> Requirement: Deflect Attacks, 9th level
+> **Requirement:** <u>Deflect Attacks</u>, <u>9th level</u>
 >
-> You can now use your Deflect Attacks feature against attacks that deal any damage type, not just Bludgeoning, Piercing, or Slashing.
+> You can now use your **Deflect Attacks** feature against attacks that deal any damage type, not just Bludgeoning, Piercing, or Slashing.
 >
-> ### Additional Attack
+> #### Additional Attack
 >
-> Requirement: 11th level
+> **Requirement:** <u>11th level</u>
 >
-> You can attack three times, instead of twice, when you take the Attack action.
+> You can attack three times, instead of twice, when you take the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Attack (Action)|⚔️Attack]]-Action on your turn.
 >
-> ### Battering Shield
+> #### Battering Shield
 >
-> Requirement: 11th level
+> **Requirement:** <u>11th level</u>
 >
-> Your weapon attacks blend together so aggressively that your assault acts almost as a shield. When you hit a creature with two or more melee attacks in the same round, you gain a +2 bonus to AC against it until the beginning of your next turn.
+> Your weapon attacks blend together so aggressively that your assault acts almost as a shield. When you hit a creature with two or more melee attacks in the same round, you gain a <u>+2</u> bonus to <u>AC</u> against it until the beginning of your next turn.
 >
-> ### Beyond Size
+> #### Beyond Size
 >
-> Requirement: 11th level
+> **Requirement:** <u>11th level</u>
 >
-> You have learned to use your opponents’ size against them. You can use basic maneuvers against creatures of any size. If a creature is larger than you, when it saves against your basic maneuver you can use your reaction to give it disadvantage .
+> You have learned to use your opponents’ size against them. You can use [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Basic Maneuvers/5e - Basic Maneuvers|🤺Basic Maneuvers]] against creatures of any size. If a creature is larger than you, when it saves against your basic maneuver you can use your **Reaction** to give it **DISADV**.
 >
-> ### Dancing Maneuver
+> #### Dancing Maneuver
 >
-> Requirement: 11th level, any dance
+> **Requirement:** <u>11th level</u>, <u>any dance</u>
 >
-> When you use a bonus action to activate a combat maneuver , you can spend 2 exertion to start one of your dances as part of the same bonus action.
+> When you use a **Bonus Action** to activate a **combat maneuver** , you can spend <u>2 exertion</u> to start one of your <u>dances</u> as part of the same bonus action.
 >
-> ### Dual Stance
+> #### Dual Stance
 >
-> Requirement: 11th level, know at least 2 stance combat maneuvers
+> **Requirement:** <u>11th level</u>, <u>know at least 2 stance combat maneuvers</u>
 >
-> Your martial stances don’t end when you start another stance. You can have two stances active at the same time. If you are knocked unconscious, stunned , or begin a long rest both stances end.
+> Your martial stances don’t end when you start another stance. You can have two stances active at the same time.
 >
-> ### Share Focus
+> #### Share Focus
 >
-> Requirement: 11th level
+> **Requirement:** <u>11th level</u>
 >
-> As an action, you can share your spiritual fortitude with others. Choose a creature. That creature can add your martial arts die to its next saving throw . You can’t use this feature again until you finish a short or long rest.
+> As an **Action**, you can share your spiritual fortitude with others. Choose a creature. That creature can add your <u>Martial Arts die</u> to its next saving throw. You can’t use this feature again until you finish a **short** or **long rest**.
 >
-> ### Total Combat
+> #### Total Combat
 >
-> Requirement: 11th level
+> **Requirement:** <u>11th level</u>
 >
-> When you deal basic melee damage from using a basic maneuver, you deal additional damage equal to your martial arts die.
+> When you deal [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Damage/5e - Basic Melee Damage|💔Basic Melee Damage]] from using a [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Basic Maneuvers/5e - Basic Maneuvers|🤺Basic Maneuvers]], you deal additional damage equal to your <u>Martial Arts die</u>.
 >
-> ### Undefeated
+> #### Undefeated
 >
-> Requirement: 11th level
+> **Requirement:** <u>11th level</u>
 >
-> When a creature would drop you to 0 hit points, you can use your reaction to make an unarmed strike against any enemy within your reach. On a hit, you can spend 1 exertion to roll your martial arts die and gain that many temporary hit points. You can’t use this feature again until you finish a short or long rest .
+> When a creature would drop you to 0 hit points, you can use your **Reaction** to make an <u>unarmed strike</u> against any enemy within your reach. On a hit, you can spend <u>1 exertion</u> to roll your <u>Martial Arts die</u> and gain that many <u>hit points</u>. You can’t use this feature again until you finish a **short** or **long rest**.
 >
-> ### Unlikely Wield
+> #### Unlikely Wield
 >
-> Requirement: 11th level
+> **Requirement:** <u>11th level</u>
 >
-> You can wield three weapons with the dual-wielding property at once. Typically this is done with a dagger wielded between toes, but it has been known to be done with the mouth (or even a tail for combatants that have one). When you engage in two weapon fighting, you can use the third weapon to make an additional weapon attack.
+> You can wield three weapons with the <u>dual-wielding</u> property at once. Typically this is done with a dagger wielded between toes, but it has been known to be done with the mouth (or even a tail for combatants that have one). When you engage in two weapon fighting, you can use the third weapon to make an additional weapon attack.
 >
-> ### Magic Resistance
+> #### Magic Resistance
 >
-> Requirement: 15th level, Closed Soul
+> **Requirement:** <u>15th level</u>, <u>Closed Soul</u>
 >
-> You have advantage on saving throws made against spells and other magical effects.
+> You have **ADV** on saving throws made against <u>spells</u> and other <u>magical effects</u>.
 >
-> ### Vengeful Spirit
+> #### Vengeful Spirit
 >
-> Requirement: 15th level
+> **Requirement:** <u>15th level</u>
 >
-> When you make a death saving throw, you can choose to set your own spirit loose as a vengeful ghost to stalk your prey. The spirit acts on your initiative, has your statistics, ethereal copies of your equipment, full hit points, and half your exertion pool. Your vengeful spirit is resistant to piercing, bludgeoning, and slashing damage from nonmagical weapons. It can move through other creatures and objects as if they were difficult terrain , but it takes 1d10 force damage if it ends its turn inside an object.
+> When you make a [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Saves/5e - Death Save|🎲Death Save]], you can choose to set your own spirit loose as a vengeful ghost to stalk your prey. The spirit acts on your initiative, has your statistics, ethereal copies of your equipment, full hit points, and half your exertion pool. Your vengeful spirit is <u>resistant</u> to piercing, bludgeoning, and slashing damage from nonmagical weapons. It can move through other creatures and objects as if they were difficult terrain , but it takes <u>1d10</u> force damage if it ends its turn inside an object.
 >
 > The vengeful spirit targets only the creature who reduced you to 0 hit points. When the creature is defeated, the spirit returns to your body. While the vengeful spirit is active, you don’t need to make death saving throws, but you still suffer automatic failures if you are hit. You can’t use this feature again until you finish a long rest.
 
-### Level 6: 5e - Adept Subclass
+### Level 6: 🦸‍♀️5e - Adept🦸‍♀️ Subclass
 
-Your 5e - Adept Subclass grants you features at 3rd, 6th, 9th, 13th, and again at 17th level.
+Your 🦸‍♀️5e - Adept🦸‍♀️ Subclass grants you features at 3rd, 6th, 9th, 13th, and again at 17th level.
 
 ### Level 7: Feat
 
-As long as you are not multiclassed, you gain one feat of your choice, for which you qualify. At Character levels 10, 12, 14, 16, 18, and 20 you can choose another feat of your choice for which you qualify.
-
-View "General Character Table" to see if you qualify for a feat at this level.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
 ### Level 8: Evasion
 
-Your instinctive agility lets you dodge out of the way of certain area effects. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you take no damage if you succeed on the saving throw, and only half damage if you fail.
+Your instinctive agility lets you dodge out of the way of certain area effects. When you are subjected to an effect that allows you to make a <u>DEX Save</u> to take only half damage, you take <u>no damage</u> if you <u>succeed</u> on the saving throw, and only <u>half damage</u> if you <u>fail</u>.
 
-### Level 9: 5e - Adept Subclass
+### Level 9: 🦸‍♀️5e - Adept🦸‍♀️ Subclass
 
-Your 5e - Adept Subclass grants you features at 3rd, 6th, 9th, 13th, and again at 17th level.
+Your 🦸‍♀️5e - Adept🦸‍♀️ Subclass grants you features at 3rd, 6th, 9th, 13th, and again at 17th level.
 
 ### Level 10: Feat
 
-As long as you are not multiclassed, you gain one feat of your choice, for which you qualify. At Character levels 12, 14, 16, 18, and 20 you can choose another feat of your choice for which you qualify.
-
-View "General Character Table" to see if you qualify for a feat at this level.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
 ### Level 11: Heightened Discipline
 
 Your training has pushed your body and mind to new levels. Your Flurry of Blows, Patient Defense, and Far Step gain the following benefits:
-**Flurry of Blows:** You can spend 1 exertion to use Flurry of Blows and make three Unarmed Strikes with it instead of two.
-**Patient Defense** When you spend exertion to use Patient Defense, you gain a number of Temporary Hit Points equal to two rolls of your Martial Arts die.
-**Far Step:** When you spend exertion to use Far Step, you can choose a willing creature within 5 feet of you that is Large or smaller. You move the creature with you until the end of your turn. The creature’s movement doesn’t provoke Opportunity Attacks.
+
+**Flurry of Blows:** You can spend <u>1 exertion</u> to use **Flurry of Blows** and make <u>three</u> Unarmed Strikes with it instead of two.
+
+**Patient Defense** When you spend exertion to use **Patient Defense**, you gain a number of <u>Temporary Hit Points</u> equal to **2x your Martial Arts Die**.
+
+**Far Step:** When you spend exertion to use **Far Step**, you can choose a willing creature within <u>5 feet</u> of you that is Large or smaller. You move the creature with you until the end of your turn. The creature’s movement doesn’t provoke [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Reactions/5e - Opportunity Attack|⚔️Opportunity Attacks]].
 
 ### Level 12: Feat
 
-As long as you are not multiclassed, you gain one feat of your choice, for which you qualify. At Character levels 14, 16, 18, and 20 you can choose another feat of your choice for which you qualify.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
-View "General Character Table" to see if you qualify for a feat at this level.
+### Level 13: 🦸‍♀️5e - Adept🦸‍♀️ Subclass
 
-### Level 13: 5e - Adept Subclass
-
-Your 5e - Adept Subclass grants you features at 3rd, 6th, 9th, 13th, and again at 17th level.
+Your 🦸‍♀️5e - Adept🦸‍♀️ Subclass grants you features at 3rd, 6th, 9th, 13th, and again at 17th level.
 
 ### Level 14: Feat
 
-As long as you are not multiclassed, you gain one feat of your choice, for which you qualify. At Character levels 16, 18, and 20 you can choose another feat of your choice for which you qualify.
-
-View "General Character Table" to see if you qualify for a feat at this level.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
 ### Level 15: Disciplined Survivor
 
-Your physical and mental discipline grant you proficiency in	all saving throws.
+Your physical and mental discipline grant you proficiency in	all <u>saving throws</u>.
 
-Additionally, whenever you make	a saving throw	and fail, you can spend 1 exertion to reroll it and take the second result.
+Additionally, whenever you make	a saving throw	and fail, you can spend <u>1 exertion</u> to reroll it and take the second result.
 
 ### Level 16: Feat
 
-As long as you are not multiclassed, you gain one feat of your choice, for which you qualify. At Character levels 18, and 20 you can choose another feat of your choice for which you qualify.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
-View "General Character Table" to see if you qualify for a feat at this level.
+### Level 17: 🦸‍♀️5e - Adept🦸‍♀️ Subclass
 
-### Level 17: 5e - Adept Subclass
-
-Your 5e - Adept Subclass grants you features at 3rd, 6th, 9th, 13th, and again at 17th level.
+Your 🦸‍♀️5e - Adept🦸‍♀️ Subclass grants you features at 3rd, 6th, 9th, 13th, and again at 17th level.
 
 ### Level 18: Feat
 
-YAs long as you are not multiclassed, you gain one feat of your choice, for which you qualify. At Character level 20 you can choose another feat of your choice for which you qualify.
-
-View "General Character Table" to see if you qualify for a feat at this level.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
 ### Level 19: Grandmaster
 
-You have honed your body and mind to new heights. Your Dexterity and Wisdom scores increase by 2. Your maximum for those scores is now +8.
+You have honed your body and mind to new heights. Your <u>DEX</u> and <u>WIS</u> modifiers increase by 2. Your maximum for those scores is now +8.
 
 ### Level 20: Epic Boon
 
@@ -624,7 +563,7 @@ You gain one Epic Boon feat of your choice, for which you qualify.
 
 ### Level 20: Feat
 
-You gain one feat of your choice, for which you qualify.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
 ## Inspiration/Quelle
 
