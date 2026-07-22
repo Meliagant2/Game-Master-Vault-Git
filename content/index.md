@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-22T07:49:51.777+02:00
-published: 2026-07-22T07:49:51.777+02:00
+modified: 2026-07-22T12:28:01.125+02:00
+published: 2026-07-22T12:28:01.125+02:00
 tags:
   - "#Home"
 ---
@@ -52,7 +52,7 @@ Beschreibung der physischen Beschaffenheit des Landes/der Städte
 
 #### Kulturen
 
-Effektiv Subspezies. Eng verbunden mit Sprache
+Effektiv (Sub-) Spezies. Eng verbunden mit Sprache
 
 #### Regierungen
 
@@ -60,7 +60,39 @@ Müssen leider von den physischen Orten abgetrennt sein, da sich Ländergrenzen 
 
 ## Regelwerke
 
-Regelwerke werden immer in der Sprache aufgeführt, in der sie mir am einfachsten zur Verfügung stehen (ergo meistens englisch). NPCs und deren Beschreibungen, Orte, Items und Monsterbeschreibungen habe ich allerdings ins deutsche übersetzt.
+Regelwerke werden immer in der Sprache aufgeführt, in der sie mir am einfachsten zur Verfügung stehen (ergo meistens englisch). Manches habe ich aber ins deutsche übersetzt.
+
+> [!warnung] Aktueller Fortschritt der Übertragung aus Homebrewery
+>
+> - 0 Character Creation
+> - 1 Ability Scores
+> - 2 Heritage
+> - 3 Culture
+> - 4 Background
+> - 5 Destiny
+> - 6 Classes
+>   - Adept
+>   - Artificer
+>   - Barbarian
+>   - Bard
+>   - Blood Hunter
+>   - Cleric
+>   - Druid
+>   - Fighter
+>   - Marshal
+>   - Paladin
+>   - Ranger
+>   - Rogue
+>   - Sorcerer
+>   - Warlock
+>   - Wizard
+> - 7 Equipment, Strongholds, Followers
+> - 8 Multiclassing, Feats & Epic Boons
+> - 9 Adventuring
+> - A10 Combat
+> - A11 Combat Maneuvers
+> - A12 Spellcasting
+> - A14 Conditions
 
 ```base
 views:

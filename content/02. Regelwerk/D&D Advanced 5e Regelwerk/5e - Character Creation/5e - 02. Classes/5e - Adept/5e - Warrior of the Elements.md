@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - XXX🦸‍♀️
 created: 2026-07-22T12:06:01.852+02:00
-modified: 2026-07-22T12:17:57.045+02:00
-published: 2026-07-22T12:17:57.045+02:00
+modified: 2026-07-22T12:19:48.134+02:00
+published: 2026-07-22T12:19:48.134+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -36,6 +36,3 @@ hauptklasse:
 > > |**Klasse**|`INPUT[inlineListSuggester(optionQuery(#Classes AND #5e AND !"98. Diverses"), useLinks(partial)):hauptklasse]` |
 
 # 🦸‍♀️5e - XXX🦸‍♀️
-
-> [!lore] Kurzbeschreibung
-> `VIEW[{kurzbeschreibung}][text]`
