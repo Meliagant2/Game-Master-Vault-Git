@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-22T14:43:20.375+02:00
-published: 2026-07-22T14:43:20.375+02:00
+modified: 2026-07-23T07:46:32.972+02:00
+published: 2026-07-23T07:46:32.972+02:00
 tags:
   - "#Home"
 ---
@@ -12,6 +12,8 @@ tags:
 
 > [!warnung] WICHTIG
 > **Im Augenblick funktioniert auf dieser Website nur der <u>Light mode</u> korrekt, da ich den dark mode noch nicht designed habe. Daher bitte oben links, neben der Suchleiste bitte darauf wechseln, falls der Dark mode aktiviert ist.**
+
+## Nutzung der Website
 
 **Einleitende Worte. Erklärung der Vault und der Website Funktionen**
 
@@ -64,6 +66,8 @@ Regelwerke werden immer in der Sprache aufgeführt, in der sie mir am einfachste
 
 > [!warnung] Aktueller Fortschritt der Übertragung aus Homebrewery
 >
+> ##### Eingefügt
+>
 > - 0 Character Creation
 > - 1 Ability Scores
 > - 2 Heritage
@@ -72,6 +76,10 @@ Regelwerke werden immer in der Sprache aufgeführt, in der sie mir am einfachste
 > - 5 Destiny
 > - 6 Classes
 >   - Adept
+>
+> ##### Ausstehend
+>
+> - 6 Classes
 >   - Artificer
 >   - Barbarian
 >   - Bard
