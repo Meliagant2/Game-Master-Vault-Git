@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e Bardcraft☄️
 created: 2026-07-23T10:12:45.322+02:00
-modified: 2026-07-23T10:15:42.939+02:00
-published: 2026-07-23T10:15:42.939+02:00
+modified: 2026-07-23T12:58:59.120+02:00
+published: 2026-07-23T12:58:59.120+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -57,13 +57,16 @@ klassenliste:
 
 # ☄️5e Bardcraft☄️
 
-**<u>School:</u>** Transmutation
-**<u>Level:</u>** 0
-**<u>Casting Time:</u>** A
-**<u>Range/Area:</u>** 10ft.
-**<u>Components:</u>** V, S
-**<u>Duration:</u>** 1 Hour
-**<u>Concentration:</u>** n
-**<u>Attack/Save:</u>**
-**<u>Spell List:</u>**\
-**<u>Class List:</u>** Bard
+> [!wikibox]
+> |||
+> |:-|:-|
+> |**School:**|Transmutation |
+> |**Level:**|0 |
+> |**Casting Time:**|A|
+> |**Range/Area:**|10ft. |
+> |**Components:**|V, S |
+> |**Duration:**|1 Hour |
+> |**Concentration:**|n |
+> |**Attack/Save:**||
+> |**Spell List:**| |
+> |**Class List:**|Bard |

@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-23T07:46:32.972+02:00
-published: 2026-07-23T07:46:32.972+02:00
+modified: 2026-07-23T12:54:27.451+02:00
+published: 2026-07-23T12:54:27.451+02:00
 tags:
   - "#Home"
 ---
@@ -76,13 +76,13 @@ Regelwerke werden immer in der Sprache aufgeführt, in der sie mir am einfachste
 > - 5 Destiny
 > - 6 Classes
 >   - Adept
+>   - Bard
 >
 > ##### Ausstehend
 >
 > - 6 Classes
 >   - Artificer
 >   - Barbarian
->   - Bard
 >   - Blood Hunter
 >   - Cleric
 >   - Druid
