@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Adept🦸‍♀️
 created: 2026-07-20T12:11:02.494+02:00
-modified: 2026-07-22T13:42:38.784+02:00
-published: 2026-07-22T13:42:38.784+02:00
+modified: 2026-07-23T08:00:11.179+02:00
+published: 2026-07-23T08:00:11.179+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -30,6 +30,14 @@ The orc looks back and notices that the alley behind him is a dead end. His assa
 
 Adepts are living weapons and athletes that have trained their bodies and honed their minds to perfection. This process endows them with considerable mental power and an unusual understanding of the self. Every adept has a different reason for striving towards ever greater heights of personal achievement, but all can be incredibly deadly. Be they rough pugilists used to life in the pits, religious dancers whose prayer is battle, or covert assassins from secret societies, adepts all learn amazing supernatural abilities that set them apart from common warriors.
 
+#### Power of Discipline
+
+Adepts harness mental and physical power through training, an energy they call focus. While this can be fuel for supernatural feats, in essence it is nothing more than the innate potential every living being has. Adepts channel this power within themselves to accomplish the impossible and surpass the limitations of their bodies, allowing them to be as deadly unarmed as a trained warrior is with sharp blades. As they grow more powerful, they learn several new ways of using their focus.
+
+#### Masters and Students
+
+The art of the adept is old and personal, often taught by one master to a single student, and though the path to perfection is always long, each chooses their own different way to reach it. However they are all united by the generations of adepts that came before them, the ones who discovered these secrets and passed them forward. Adepts are always ready to learn, both when it comes to their own abilities and about the world around them. They are also always ready to teach, for they know their craft will never survive unless more adepts are trained like they were.
+
 > [!charakterklasse]+ Core Class Traits
 > || |
 > |---|---|
@@ -40,15 +48,7 @@ Adepts are living weapons and athletes that have trained their bodies and honed 
 > |**Tool Proficiencies**|One set of artisan's tools or a musical instrument|
 > |**Weapon Proficiencies**|Simple Weapons, Punching Daggers, Shortswords, Throwing Daggers|
 > |**Armor Training**|-|
-> |**Starting Equipment**|Choose A or B: **(A)** Quarterstaff, 10 darts, dungeoneer’s pack, **(B)** Shortsword, 10 darts, explorer’s pack|
-
-#### Power of Discipline
-
-Adepts harness mental and physical power through training, an energy they call focus. While this can be fuel for supernatural feats, in essence it is nothing more than the innate potential every living being has. Adepts channel this power within themselves to accomplish the impossible and surpass the limitations of their bodies, allowing them to be as deadly unarmed as a trained warrior is with sharp blades. As they grow more powerful, they learn several new ways of using their focus.
-
-#### Masters and Students
-
-The art of the adept is old and personal, often taught by one master to a single student, and though the path to perfection is always long, each chooses their own different way to reach it. However they are all united by the generations of adepts that came before them, the ones who discovered these secrets and passed them forward. Adepts are always ready to learn, both when it comes to their own abilities and about the world around them. They are also always ready to teach, for they know their craft will never survive unless more adepts are trained like they were.
+> |**Starting Equipment**|Choose A or B: **(A)** Quarterstaff, 10 darts, dungeoneer’s pack; **(B)** Shortsword, 10 darts, explorer’s pack|
 
 ## Becoming an Adept
 
