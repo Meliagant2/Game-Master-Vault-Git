@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Bard🦸‍♀️
 created: 2026-07-20T12:11:02.526+02:00
-modified: 2026-07-23T10:13:58.066+02:00
-published: 2026-07-23T10:13:58.066+02:00
+modified: 2026-07-23T11:14:52.510+02:00
+published: 2026-07-23T11:14:52.510+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -12,37 +12,9 @@ dateitags:
   - "#Classes"
   - "#5e"
 image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Bard 5e.png]]"
-status: ⏳
+status: ✅
 kurzbeschreibung: A charismatic performer who uses their music as a conduit to wield powerful magic.
 ---
-
-> [!metadata]- Metadata
->
-> > [!metadataoption]- Status
-> >
-> > #### Status
-> >
-> > | | |
-> > |---|---|
-> > |**Status** | `INPUT[Status][:status]` |
-> > |**Publish**|`INPUT[inlineSelect(option(true), option(false)):publish]`|
->
-> > [!metadataoption]- Bild
-> >
-> > #### Bild
-> >
-> > | | |
-> > |---|---|
-> > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
->
-> > [!metadataoption]- Info
-> >
-> > #### Info
-> >
-> > | | |
-> > |---|---|
-> > |**Display Title** | `INPUT[textArea:title]`|
-> > |**Kurzbeschreibung** | `INPUT[textArea:kurzbeschreibung]`|
 
 # 🦸‍♀️5e - Bard🦸‍♀️
 
@@ -199,13 +171,13 @@ Once within the <u>next hour</u> when the creature fails a <u>d20 Test</u>, the 
 
 **<u>At Higher Levels:</u>** Your Bardic Inspiration die changes when you reach certain Bard levels, as shown in the Bardic Die column of the Bard table.
 
-**<u>Regaining Uses:</u>** If	you	have	no	uses	of	Bardic Inspiration	left,	you	can	give yourself	uses	by expending a **spell slot** (no	action	required). The total amount of regained bardic inspiration is equal to the level of the spell slot your expended. You can	do so	only	once	per	turn.
+**<u>Regaining Uses:</u>** If	you	have	no	uses	of	Bardic Inspiration	left,	you	can	give yourself	uses	by expending a **spell slot** (**no	action**	required). The total amount of regained bardic inspiration is equal to the level of the spell slot your expended. You can	do so	only	once	per	turn.
 
 ### Level 1: Battle Hymn
 
 Like music, battle can be wild and chaotic, and through the sensible use of formula and talent order can be brought with a dedicated change of tune. You learn one battle hymn. It can be expressed in any way you like — a special leitmotif in your music, a change in pitch, or even a more advanced version of your favorite art.
 
-Once at the start of your turn, you can activate a battle hymn by expending a use of **Bardic Inspiration** (no action is required). Performing a battle hymn requires your **concentration**, as though you were casting a spell. Once activated, a battle hymn continues until you lose concentration or the start of your next turn. The number of battle hymns you know are listed in the Battle Hymns Known column of the Bard table.
+Once at the start of your turn, you can activate a battle hymn by expending a use of **Bardic Inspiration** (**no Action** is required). Performing a battle hymn requires your **concentration**, as though you were casting a spell. Once activated, a battle hymn continues until you lose concentration or the start of your next turn. The number of battle hymns you know are listed in the Battle Hymns Known column of the Bard table.
 
 Whenever you gain a bard level, you may swap one battle hymn you know for a new battle hymn.
 
@@ -250,7 +222,72 @@ Whenever you gain a bard level, you may swap one battle hymn you know for a new 
 
 <br>
 
-### Level 2: XXX
+### Level 2: Adventuring Tricks
+
+Even when abroad you are most at home when surrounded by those who love you — or at least tolerate you. You learn one adventuring trick of your choice. The Tricks Known column of the Bard table shows when you learn more adventuring tricks.
+
+> [!charakterklasse]- Adventuring Tricks
+> When you gain access to a new adventuring trick, choose one of the following.
+>
+> #### Bewitching Companion
+>
+> Choose one skill you are proficient with. You gain an <u>expertise die</u> on checks made using the chosen skill.
+>
+> In addition, you gain an <u>expertise die</u> on checks made to influence anyone accompanying you on a journey.
+>
+> #### Brutish Confrontation
+>
+> Choose one skill you are proficient with. You gain an <u>expertise die</u> on checks made using the chosen skill.
+>
+> In addition, you gain **ADV** on ability checks made to prepare an ambush.
+>
+> #### Improvised Engineering
+>
+> You gain proficiency with <u>Engineering</u>. If you are already proficient with Engineering, you instead gain an <u>expertise die</u>. In addition, you gain **ADV** on Engineering checks made to build a temporary construction (such as a bridge or ladder) and shore up existing structures (like the wall of a collapsing building).
+>
+> #### Marching Song
+>
+> You know how to inspire and motivate your companions as they travel. Allies within <u>30 feet</u> of you travel 1 mile per hour faster than normal. Your party cannot use <u>Stealth</u> while traveling in this manner.
+>
+> #### Profitable
+>
+> You gain proficiency with <u>Performance</u>. If you are already proficient with Performance, you instead gain an <u>expertise die</u>. Whenever you make a <u>Performance</u> check to earn coins, you gain twice as much as normal.
+>
+> #### Resonance
+>
+> Choose one skill you are proficient with. You gain an <u>expertise die</u> on checks made using the chosen skill.
+>
+> In addition, when either you or a companion casts a <u>ritual spell</u>, its duration is doubled and it affects twice the usual number of targets.
+>
+> #### Sly Confidant
+>
+> Choose one skill you are proficient with. You gain an <u>expertise die</u> on checks made using the chosen skill.
+>
+> In addition, when you succeed on an opposed <u>INT</u>, <u>WIS</u>, or <u>CHA</u> check, you gain **ADV** on your next opposed <u>INT</u>, <u>WIS</u>, or <u>CHA</u> check against the same creature.
+>
+> #### Song of Rest
+>
+> Any creatures able to perceive you performing your art while taking a short rest and rolling <u>Hit Dice</u> regain an additional <u>1d8 hit points</u>.
+>
+> #### Showoff
+>
+> Choose one skill you are proficient with. You gain an <u>expertise die</u> on checks made using the chosen skill.
+>
+> In addition, when you succeed on an <u>Acrobatics</u> or <u>Athletics</u> check to climb, balance, leap over danger, or otherwise physically overcome an obstacle, a number of allies equal to your proficiency bonus gain **ADV** on the same check made to overcome the same obstacle.
+>
+> #### Townie
+>
+> Choose one skill you are proficient with. You gain an <u>expertise die</u> on checks made using the chosen skill.
+>
+> As long as you have a positive reputation in a town or city, all basic goods and spellcasting components cost 1/3rd less (rounded down).
+
+### Level 2: Jack of all trades
+
+You can add half your <u>proficiency bonus</u> to any ability check you make that doesn’t already include your proficiency bonus.
+
+### Level 2: Varied Expertise
+
+Choose one skill or tool you are proficient with. You gain an <u>expertise die</u> on checks made using the chosen skill or tool. At <u>6th level</u>, and again at <u>10th</u>, <u>14th</u>, and <u>18th level</u>, choose an additional skill or tool.
 
 ### Level 2: Feat
 
@@ -262,14 +299,35 @@ You choose one 🦸‍♀️5e - Bard🦸‍♀️ Subclass, which represents yo
 
 Your 🦸‍♀️5e - Bard🦸‍♀️ Subclass grants you features at 3rd, 6th, 9th, 13th, and again at 17th level.
 
-| Subclass | Description |
-| -------- | ----------- |
+| Subclass                                                                                                                                               | Description                                                                                                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Bard/5e - College of Comedy.md\|5e - College of Comedy]]       | Long have the performing arts been a favorite pastime for people of all walks of life. Performers and thespians use the stage to tell stories that while fictional, can reveal great truths about life, death, and the struggles in between. |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Bard/5e - College of Creation.md\|5e - College of Creation]]   | Bards believe the cosmos is a work of art—the creation of the first dragons and gods. That creative work included harmonies that continue to resound through existence today, a power known as the Song of Creation.                         |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Bard/5e - College of Dance.md\|5e - College of Dance]]         | Bards of the College of Dance know that the Words of Creation can’t be contained within speech or even song; they are uttered by the movements of celestial bodies and flow through the motions of even the smallest creatures.              |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Bard/5e - College of Eloquence.md\|5e - College of Eloquence]] | Adherents of the College of Eloquence master the art of oratory. Persuasion is regarded as a high art, and a well-reasoned, well-spoken argument often proves more persuasive than facts.                                                    |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Bard/5e - College of Glamour.md\|5e - College of Glamour]]     | -                                                                                                                                                                                                                                           |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Bard/5e - College of Lore.md\|5e - College of Lore]]           | -                                                                                                                                                                                                                                           |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Bard/5e - College of Spirits.md\|5e - College of Spirits]]     | -                                                                                                                                                                                                                                           |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Bard/5e - College of Tragedy.md\|5e - College of Tragedy]]     | -                                                                                                                                                                                                                                           |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Bard/5e - College of Whispers.md\|5e - College of Whispers]]   | -                                                                                                                                                                                                                                           |
 
 ### Level 4: Feat
 
 As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
-### Level 5: XXX
+### Level 5: Battle Hymn Focus
+
+As soon as battle commences your mind focuses on inspiring your allies. At the end of another creature’s turn, you can use your **Reaction** to activate a **battle hymn**. This battle hymn replaces any currently activated battle hymns. Replacing an activated battle hymn does not require expending a use of Bardic Inspiration if it has no target yet. In addition, choose one of the following:
+
+- Your battle hymns no longer require <u>concentration</u>.
+- Your battle hymns can affect a number of additional creatures equal to your <u>CHA modifier</u> (minimum 1).
+- You learn an additional **battle hymn** that does not count against the number of battle hymns you can know. When choosing this battle hymn, you are treated as having <u>4</u> more bard levels for the purpose of meeting its prerequisites. If you change this Battle Hymn Focus, you forget the additional battle hymn.
+
+Whenever you gain a bard level, you may change your Battle Hymn Focus.
+
+### Level 5: Key Change
+
+You can use a **Bonus Action** to switch instruments and change your Art Speciality. Once you have used this feature, you cannot do so again until you finish a **short** or **long rest**.
 
 ### Level 6: 🦸‍♀️5e - Bard🦸‍♀️ Subclass
 
@@ -279,7 +337,16 @@ Your 🦸‍♀️5e - Bard🦸‍♀️ Subclass grants you features at 3rd, 6t
 
 As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
-### Level 8: XXX
+### Level 8: Maestro
+
+You become so perfect in your craft that your style begins to bleed over into all your other workings. Choose one type of **Art Speciality**. You always gain the benefits of that Art Speciality no matter what instrument or art you are using.
+
+### Level 8: Battle Hymn Specialization
+
+The energy and focus you bring to battle make your presence in combat a crucial factor for victory. The range of your **battle hymns** increases to <u>60 feet</u>. In addition, choose one of the following:
+
+- You can expend <u>2</u> uses of **Bardic Inspiration** to activate <u>two</u> **Battle Hymns** at the same time. Losing **concentration** or changing battle hymns deactivates both.
+- When you expend a use of **Bardic Inspiration** to activate a battle hymn, you may also grant a <u>Bardic Inspiration die</u> to a creature within <u>60 feet</u>.
 
 ### Level 9: 🦸‍♀️5e - Bard🦸‍♀️ Subclass
 
@@ -289,7 +356,21 @@ Your 🦸‍♀️5e - Bard🦸‍♀️ Subclass grants you features at 3rd, 6t
 
 As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
-### Level 11: XXX
+### Level 11: Art Mastery
+
+The use of your art specialty has transcended into something beyond majestic. You gain one of the following art masteries.
+
+At <u>17th level</u>, you gain an additional **art mastery**.
+
+**<u>Percussion: Rolling Rhythm:</u>** You can throw a spell’s magic, rebounding it from one place to another. When using this musical art as a spell focus, if you cast a spell that targets only one creature, you can target an additional creature within range of the first (as if it were casting the spell). Once you have used this feature a number of times equal to half your proficiency bonus, you can’t do so again until you finish a **short rest**.
+
+**<u>String Instruments: Melody for All:</u>** The melodies you pluck spread like gusts of wind. You gain a number of <u>melody charges</u> equal to your <u>CHA modifier</u>, which you regain whenever you finish a **long rest**. When using this musical art as a spell focus, if you cast a spell that targets only one creature you can spend a melody charge to target an additional creature within the spell’s range.
+
+**<u>Visual: Dual Masterpiece:</u>** Your magic resonates through the air. When using this musical art as a spell focus, after casting a bard spell that used an ally as its point of origin on your last turn, if you cast the same spell normally its <u>spell level</u> increases by <u>2</u>. Once you have used this feature a number of times equal to your proficiency bonus, you can’t do so again until you finish a **long rest**.
+
+**<u>Voice: Everlasting Song:</u>** The spells you cast resound upon themselves. When <u>concentrating</u> on a bard spell, you have **ADV** on <u>concentration Saves</u> you make to maintain concentration while you are using this musical art as a spell focus.
+
+**<u>Wind Instruments: Perfect Pitch:</u>** While using this musical art as a spell focus, you gain **ADV** on <u>Deception</u> and <u>Performance</u> checks to conceal the casting of bard spells.
 
 ### Level 12: Feat
 
@@ -303,7 +384,21 @@ Your 🦸‍♀️5e - Bard🦸‍♀️ Subclass grants you features at 3rd, 6t
 
 As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
-### Level 15: XXX
+### Level 15: Grand Battle Hymns
+
+You master one of three grand battle hymns that can shake the firmament with arcane power. Choose one of the following grand battle hymns.
+
+**<u>Beyond the Grave:</u>** All allies within <u>60 feet</u> of you that are [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Bloodied|☠️Bloodied]] or [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Unconscious|☠️Unconscious]] are restored to <u>half their maximum hit points</u>. In addition, each is healed of up to 3 levels of [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Fatigue|☠️Fatigue]].
+
+**<u>Magic Never Dies:</u>** Allies within <u>30 feet</u> of you regain up to 5 levels of <u>spell slots</u>, or if they have no spell slots, gain <u>30 temporary hit points</u>.
+
+**<u>Taste of Victory:</u>** Allies within <u>30 feet</u> of you gain a blessing of victory that remains for up to <u>24 hours</u> or until it is expended. A blessing of victory can be expended while rolling a <u>d20</u> to gain **ADV** on an attack roll or opposed ability check.
+
+Once you have used your grand battle hymn, you can’t do so again until you finish a **long rest**.
+
+### Level 15: Superior Inspiration
+
+When	you	roll	<u>Initiative</u>, you	regain	three	expended uses	of  your <u>bardic Inspiration</u>. Also, instead of giving a creature your normal Bardic Inspiration die, you can spend <u>2 bardic Inspirations</u>, to give them a <u>d20</u> instead.
 
 ### Level 16: Feat
 
@@ -317,7 +412,17 @@ Your 🦸‍♀️5e - Bard🦸‍♀️ Subclass grants you features at 3rd, 6t
 
 As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
-### Level 19: XXX
+### Level 19: Virtuoso
+
+Your capacity for drawing a crowd reaches dizzying new heights. As an **Action**, you can expend a use of **Bardic Inspiration** to start an epic performance that lasts for <u>1d4</u> rounds. During that time, you can choose up to <u>50 creatures</u> that are within <u>120 feet</u> of you. Each creature able to hear or see your Epic Performance makes a **CHA Save** against your [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Save DC|☄️Spell Save DC]]. _**Failure:**_ The Creature is [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]] by you for the duration plus <u>6 days</u>, or until you or your companions do anything harmful to it. A charmed creature regards you as a friendly acquaintance.
+
+The performance ends early if you are incapacitated or silenced, or if you voluntarily end it (**no action** required). At the end of the duration, you can expend an additional use of **Bardic Inspiration** to extend the duration by <u>1d4</u> rounds.
+
+When your Epic Performance lasts at least <u>1 minute</u>, at the end of the duration you can target each **charmed** creature as if using the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 6 Enchantment/5e - Mass Suggestion|☄️Mass Suggestion]] spell cast at <u>9th-level</u>. Creatures do not make saving throws to resist this effect. The commands you give a charmed creature are not obvious, and other creatures must make a <u>Wisdom (Insight) check</u> opposed by your <u>Charisma (Performance) check</u> to understand that you are doing anything more than giving a performance.
+
+You can give each creature its own set of commands, but can only give out 6 different sets of commands.
+
+Once you use this feature, you can’t use it again until you finish a **long rest**.
 
 ### Level 20: Epic Boon
 
