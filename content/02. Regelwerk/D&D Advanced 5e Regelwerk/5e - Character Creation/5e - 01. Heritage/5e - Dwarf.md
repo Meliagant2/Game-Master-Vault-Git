@@ -2,8 +2,8 @@
 publish: true
 title: 👥5e - Dwarf👥
 created: 2026-07-20T12:11:02.463+02:00
-modified: 2026-07-22T07:47:28.358+02:00
-published: 2026-07-22T07:47:28.358+02:00
+modified: 2026-07-23T09:00:03.936+02:00
+published: 2026-07-23T09:00:03.936+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -49,22 +49,22 @@ Although they are often strong and muscular, dwarves are not tall. Their broad, 
 
 ## Dwarf Traits
 
-**Age:** Dwarves age as fast as humans, but most cultures only consider them adults at 50. They have extremely long lives; some dwarves live to be over 250 years old and their average life span is 200 years.\
-**Size:** Medium (4-5 feet / 120cm - 150cm)
-**Speed:** 30 feet Your Speed is not reduced by wearing heavy armor or wielding tower shields.
-**Darkvision:** You have [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision/5e - Senses/5e - Darkvision|👁️Darkvision]] with a range of <u>60 feet</u>.
+**<u>Age:</u>** Dwarves age as fast as humans, but most cultures only consider them adults at 50. They have extremely long lives; some dwarves live to be over 250 years old and their average life span is 200 years.\
+**<u>Size:</u>** Medium (4-5 feet / 120cm - 150cm)
+**<u>Speed:</u>** 30 feet Your Speed is not reduced by wearing heavy armor or wielding tower shields.
+**<u>Darkvision:</u>** You have [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision/5e - Senses/5e - Darkvision|👁️Darkvision]] with a range of <u>60 feet</u>.
 
 ### Dwarven Resilience
 
-You have Resistance to Poison Damage. You also have ADV on Saves you make to avoid or end the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Poisoned|☠️Poisoned]] Condition on yourself.
+You have <u>Resistance</u> to Poison Damage. You also have **ADV** on Saves you make to avoid or end the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Poisoned|☠️Poisoned]] Condition on yourself.
 
 ### Dwarven Toughness
 
-Your hit Point Maximum increases by 1, and it increases by 1 again whenever you gain a level.
+Your <u>hit Point Maximum</u> increases by <u>1</u>, and it increases by <u>1</u> again whenever you gain a level.
 
 ### Stonecunning
 
-As a **Bonus Action**, you gain [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision/5e - Senses/5e - Tremorsense|👁️Tremorsense]] with a range of 60 feet for 10 minutes. You must be on a stone surface or touching such a surface to use this Tremorsense. The stone can be natural or worked. You can use this Bonus Action once per long rest.
+As a **Bonus Action**, you gain [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision/5e - Senses/5e - Tremorsense|👁️Tremorsense]] with a range of <u>60 feet</u> for 10 minutes. You must be on a stone surface or touching such a surface to use this Tremorsense. The stone can be natural or worked. You can use this Bonus Action <u>once</u> per **long rest**.
 
 ## Dwarf Gifts
 
@@ -74,15 +74,15 @@ In addition to the traits found in your dwarven heritage, select one of the foll
 
 A life in hills and open fields gave you the following benefits:
 
-**Speed:** Your walking speed is 35 feet.
-**Endurance:** You have ADV on Saves against effects that cause [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Fatigue|☠️Fatigue]] and you may remove one level of fatigue after finishing a short rest, instead of a long rest.
+**<u>Speed:</u>** Your walking speed is <u>35 feet</u>.
+**<u>Endurance:</u>** You have **ADV** on Saves against effects that cause [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Fatigue|☠️Fatigue]] and you may remove one level of fatigue after finishing a **short rest**, instead of a **long rest**.
 
 ### Toughest of them all
 
 Your ancestors were the hardiest of the dwarves, giving you the following benefits:
 
-**Great Health:** As a **Bonus Action,** you gain a number of [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Temporary Hit Points|❤️Temporary Hit Points]] equal to <u>1d10</u> plus your level. These temporary hit points last for 1 minute. You can’t use this trait again until after you finish a long rest.
-**Slow and Steady:** Your movement speed cannot be reduced. You have ADV on saving throws against effects that cause **fatigue** and you may remove one level of fatigue after finishing a short rest, instead of a long rest.
+**<u>Great Health:</u>** As a **Bonus Action,** you gain a number of [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Temporary Hit Points|❤️Temporary Hit Points]] equal to <u>1d10 + your level</u>. These temporary hit points last for <u>1 minute</u>. You can’t use this trait again until after you finish a **long rest**.
+**<u>Slow and Steady:</u>** Your movement speed cannot be reduced by [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Environment/5e - Difficult Terrain|🏔️Difficult Terrain]] (The GM might rule, that in specific instances this Feature doesn't work as written). You have **ADV** on saving throws against effects that cause **fatigue** and you may remove one level of fatigue after finishing a **short rest**, instead of a **long rest**.
 
 ## Dwarven Paragon
 
@@ -90,9 +90,11 @@ When you reach 10th level, you gain one of the following paragon gifts.
 
 ### Fury of the Earth
 
-As an **Action**, you can strike the ground with a melee weapon you’re proficient with. The ground in a 30-foot radius around you becomes difficult terrain. Each creature on the ground in the area makes a Dexterity saving throw (**DC 8 + PB + STR**) or is knocked [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]].
+As an **Action**, you can strike the ground with a melee weapon you’re proficient with. The ground in a <u>30-foot radius Emanation</u> becomes **difficult terrain**. Each creature on the ground in the area makes a **DEX Save** (DC = your [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Save DC|🤺Maneuver Save DC]], or your [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Save DC|☄️Spell Save DC]], whichever is higher). _**Failure:**_ The Creature is [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]].
 
-A creature [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Saves/5e - Concentration|☄️concentrating]] on a spell makes a CON Save or its concentration is broken. You can’t use this feature again until after you finish a long rest.
+A creature [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Saves/5e - Concentration|🎲concentrating]] on a spell makes a **CON Save (DC 10)** or its concentration is broken.
+
+You can’t use this feature again until after you finish a **long rest**.
 
 ### Unbreakable
 
@@ -100,7 +102,7 @@ When you succeed on a death saving throw, you can expend one Hit Die to regain 1
 
 ### Unstoppable
 
-You can take the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Dash|⚔️Dash]]-Action as a **Bonus Action** and you regain 1 additional hit die when you take a long rest (But no more than your maximum). You also ignore the effects of difficult terrain.
+You can take the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Dash|⚔️Dash]]-Action as a **Bonus Action** and you regain 1 additional <u>hit die</u> when you take a long rest (But no more than your maximum). You also ignore the effects of **difficult terrain**.
 
 ## Quellen
 

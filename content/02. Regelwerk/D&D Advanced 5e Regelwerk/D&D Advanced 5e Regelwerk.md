@@ -2,8 +2,8 @@
 publish: true
 title: D&D 5e Regelwerk
 created: 2026-07-20T12:11:02.432+02:00
-modified: 2026-07-21T10:07:21.881+02:00
-published: 2026-07-21T10:07:21.881+02:00
+modified: 2026-07-23T08:29:56.929+02:00
+published: 2026-07-23T08:29:56.929+02:00
 tags:
   - "#Regelwerk"
   - "#5e"
@@ -25,6 +25,11 @@ status: ✅
 > Der Großteil dieses Regelwerks ist von mir homebrewed. Ich habe hier die Systeme D\&D 5e 2014, D\&D 5e 2024 und A5e kombiniert. Ziel war größtmögliche Charaktervielfalt, es kann aber sein, dass bestimmte Features entsprechend unbalanced sind.
 >
 > In manchen Texten und Beschreibungen werden Orte, Personen, Götter und diverses Andere aus meiner Welt beschrieben, manchmal auch (da STRG + C -> STRG + V) aus anderen Werken. Das bitte ignorieren. Ich habe all das um Mitte/Ende 2023 verfasst, als ich noch keine richtige Struktur für Worldbuilding hatte. Manches davon könnte noch aktuell sein, aber bitte eher davon ausgehen, dass die einzig korrekten Informationen zu meiner Welt im Welt Almanach zu finden sind, nicht in diesem Regelwerk.
+
+> [!warnung] CHANGELOG
+> Ich habe bei der Übertragung von Homebrewery größtenteils Syntax und Formatierung verändert, manchmal auch Formulierungen. Ich habe aber auch bei manchen Features Änderungen durchgeführt, die Einfluss aufs Gameplay haben!
+>
+> Die Changelog ist [[02. Regelwerk/D&D Advanced 5e Regelwerk/Homebrewery Changelog|‼️HIER‼️]] zu finden
 
 ## Basic Rules
 

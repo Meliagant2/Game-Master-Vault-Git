@@ -2,8 +2,8 @@
 publish: true
 title: 👥5e - Gigant👥
 created: 2026-07-20T12:11:02.463+02:00
-modified: 2026-07-22T07:30:38.512+02:00
-published: 2026-07-22T07:30:38.512+02:00
+modified: 2026-07-23T09:04:18.244+02:00
+published: 2026-07-23T09:04:18.244+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -48,9 +48,9 @@ Goliaths are larger than humans and have naturally wider shoulders, chest and ar
 
 ## Goliath Traits
 
-**Age:** Goliaths mature a little bit faster than humans. Goliaths reach adulthood at around 14 years and can live up to 80 years.\
-**Size:** Medium (6-8 feet / 180cm - 240cm)
-**Speed:** 35 feet
+**<u>Age:</u>** Goliaths mature a little bit faster than humans. Goliaths reach adulthood at around 14 years and can live up to 80 years.\
+**<u>Size:</u>** Medium (6-8 feet / 180cm - 240cm)
+**<u>Speed:</u>** 35 feet
 
 ### Large Form
 
@@ -68,43 +68,43 @@ Goliaths decended from giants and inherit some of their powers in their bloodlin
 
 Some goliaths have cloud giants as their ancestors. Such goliaths have the following traits:
 
-**Resistance:** You have resistance to thunder damage.
-**Cloudy step:** As a **Bonus Action**, you magically Teleport up to 30 feet to an unoccupied space you can see. You can use this trait once between long rests.
+**<u>Resistance:</u>** You have resistance to thunder damage.
+**<u>Cloudy step:</u>** As a **Bonus Action**, you magically Teleport up to 30 feet to an unoccupied space you can see. You can use this trait once between long rests.
 
 ### Hillborn
 
 Some goliaths have hill giants as their ancestors. Such goliaths have the following traits:
 
-**Bulwark:** When you are subjected to an effect that would move you at least 5 feet or give you the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]] condition, you can use your **Reaction** to steady yourself. You aren’t moved and don’t have the prone condition.
-**Giant Slam:** When you hit a Large or smaller creature with an Attack Roll and deal damage to it, you can knock that target Prone. You can use this trait once between long rests.
+**<u>Bulwark:</u>** When you are subjected to an effect that would move you at least 5 feet or give you the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]] condition, you can use your **Reaction** to steady yourself. You aren’t moved and don’t have the prone condition.
+**<u>Giant Slam:</u>** When you hit a Large or smaller creature with an Attack Roll and deal damage to it, you can knock that target Prone. You can use this trait once between long rests.
 
 ### Mountainborn
 
 Some goliaths have frost giants as their ancestors. Such goliaths have the following traits:
 
-**Resistance:** You have resistance to cold damage. You also naturally acclimate to high altitudes, even if you’ve never been to one. This includes elevations above 20,000 feet.
-**Frosty slam:** When you hit a target with an Attack Roll and deal damage to it, you can also deal <u>1d6</u> Cold Damage to that target and reduce its Speed by 10 feet until the start of your next turn. You can use this trait once between long rests.
+**<u>Resistance:</u>** You have resistance to cold damage. You also naturally acclimate to high altitudes, even if you’ve never been to one. This includes elevations above 20,000 feet.
+**<u>Frosty slam:</u>** When you hit a target with an Attack Roll and deal damage to it, you can also deal <u>1d6</u> Cold Damage to that target and reduce its Speed by 10 feet until the start of your next turn. You can use this trait once between long rests.
 
 ### Stoneborn
 
 Some goliaths have stone giants as their ancestors. Such goliaths have the following traits:
 
-**Darkvision:** You have [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision/5e - Senses/5e - Darkvision|👁️Darkvision]] with a range of <u>60 feet</u>.
-**Stoneskin:** When you take damage, you can use your **Reaction** to roll a <u>d12</u>. Add your Constitution modifier to the number rolled and reduce the damage by that total. You can use this trait once between long rests.
+**<u>Darkvision:</u>** You have [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision/5e - Senses/5e - Darkvision|👁️Darkvision]] with a range of <u>60 feet</u>.
+**<u>Stoneskin:</u>** When you take damage, you can use your **Reaction** to roll a <u>d12</u>. Add your Constitution modifier to the number rolled and reduce the damage by that total. You can use this trait once between long rests.
 
 ### Stormborn
 
 Some goliaths have storm giants as their ancestors. Such goliaths have the following traits:
 
-**Resistance:** You have resistance to lightning damage.
-**Retaliation of the Storm:** When you take damage from a creature within 60 feet of you, you can use your **Reaction** to deal <u>1d8</u> Thunder Damage to that creature. You can use this trait once between long rests.
+**<u>Resistance:</u>** You have resistance to lightning damage.
+**<u>Retaliation of the Storm:</u>** When you take damage from a creature within 60 feet of you, you can use your **Reaction** to deal <u>1d8</u> Thunder Damage to that creature. You can use this trait once between long rests.
 
 ### Volcanoborn
 
 Some goliaths have fire giants as their ancestors. Such goliaths have the following traits:
 
-**Resistance:** You have resistance to fire damage.
-**Fire Smite:** When you hit a target with an Attack Roll and deal damage to it, you can also deal <u>1d10</u> Fire Damage to that target. You can use this trait once between long rests.
+**<u>Resistance:</u>** You have resistance to fire damage.
+**<u>Fire Smite:</u>** When you hit a target with an Attack Roll and deal damage to it, you can also deal <u>1d10</u> Fire Damage to that target. You can use this trait once between long rests.
 
 ## Goliath Paragon
 

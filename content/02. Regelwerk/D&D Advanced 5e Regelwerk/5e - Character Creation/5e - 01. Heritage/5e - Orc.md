@@ -2,8 +2,8 @@
 publish: true
 title: 👥5e - Orc👥
 created: 2026-07-20T12:11:02.463+02:00
-modified: 2026-07-21T13:22:03.435+02:00
-published: 2026-07-21T13:22:03.435+02:00
+modified: 2026-07-23T09:06:29.039+02:00
+published: 2026-07-23T09:06:29.039+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -50,9 +50,9 @@ Due to the frequent conflicts of some tribes, orcs are considered to have partic
 
 ## Orc Traits
 
-**Age:** Orcs mature faster than humans, reaching adulthood around age 16. Their maximum life span is about 80 years.
-**Size:** Medium (6-7 feet / 180cm - 210cm)
-**Speed:** 30 feet
+**<u>Age:</u>** Orcs mature faster than humans, reaching adulthood around age 16. Their maximum life span is about 80 years.
+**<u>Size:</u>** Medium (6-7 feet / 180cm - 210cm)
+**<u>Speed:</u>** 30 feet
 
 ### Adrenaline Rush
 
@@ -74,14 +74,14 @@ While most orcs are all lumped into the same category, there are actually multip
 
 Your family hails from an area known for its extreme conditions, such as the arctic, desert, or even a particularly treacherous swamp. Even if you have not spent much time there, the ability of your family to adapt to their living conditions has been passed down to you. Orcs with this gift can vary wildly in appearance due to the area which they are from; those from the desert may have taken on a paler, dusky skin tone in order to survive the heat, while those from the arctic may have a coating of fine hairs and darker skin tones in order to retain heat.
 
-**Just Like Home:** Choose one type of terrain, reflecting the area from which your family hails: arctic, desert, mountain, or swamp. You ignore all naturally created [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Environment/5e - Difficult Terrain|🏔️Difficult Terrain]] of that type. Additionally, you gain an <u>expertise die</u> on skill checks made within this terrain type, and gain a type of damage resistance related to your chosen terrain: arctic — cold, desert — fire, mountain — lightning, swamp — poison.
+**<u>Just Like Home:</u>** Choose one type of terrain, reflecting the area from which your family hails: arctic, desert, mountain, or swamp. You ignore all naturally created [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Environment/5e - Difficult Terrain|🏔️Difficult Terrain]] of that type. Additionally, you gain an <u>expertise die</u> on skill checks made within this terrain type, and gain a type of damage resistance related to your chosen terrain: arctic — cold, desert — fire, mountain — lightning, swamp — poison.
 
 ### Ancestral Blessing
 
 Orcs with this gift are believed to have been blessed by their ancestors. Every family has their own beliefs for why this occurs; it could be to honor the good deeds of their parents, the success of their clan in battle or the arts, or even to take pity on a child in a desperate situation. Orcs with this heritage often seem to have a sort of divine aura that sets them apart. You have the following traits:
 
-**Divine Protection:** You have resistance to radiant damage.
-**Touch of Divinity:** You know the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 0 Abjuration/5e - Resistance (Spell)|☄️Resistance]] cantrip. In addition, you can cast the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 1 Abjuration/5e - Shield (Spell)|☄️Shield]] spell once per long rest.
+**<u>Divine Protection:</u>** You have resistance to radiant damage.
+**<u>Touch of Divinity:</u>** You know the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 0 Abjuration/5e - Resistance (Spell)|☄️Resistance]] cantrip. In addition, you can cast the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 1 Abjuration/5e - Shield (Spell)|☄️Shield]] spell once per long rest.
 
 ### Magic Adept
 
@@ -97,8 +97,8 @@ Starting at 10th level, you become a paragon of orcishness. You gain one of the 
 
 You gain the following traits:
 
-**Armor Class:** Your <u>Armor Class</u> increases by 1
-**Mighty Attacks:** When you score a <u>critical hi</u>t with a weapon attack, you don't roll your extra damage for that critical hit, but deal maximum damage instead. You roll your normal weapon damage as usual.
+**<u>Armor Class:</u>** Your <u>Armor Class</u> increases by 1
+**<u>Mighty Attacks:</u>** When you score a <u>critical hi</u>t with a weapon attack, you don't roll your extra damage for that critical hit, but deal maximum damage instead. You roll your normal weapon damage as usual.
 
 ### Greater Blessing
 

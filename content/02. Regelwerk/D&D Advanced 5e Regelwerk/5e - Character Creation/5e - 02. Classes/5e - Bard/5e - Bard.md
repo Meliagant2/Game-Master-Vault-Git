@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Bard🦸‍♀️
 created: 2026-07-20T12:11:02.526+02:00
-modified: 2026-07-23T08:21:17.681+02:00
-published: 2026-07-23T08:21:17.681+02:00
+modified: 2026-07-23T10:13:58.066+02:00
+published: 2026-07-23T10:13:58.066+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -127,31 +127,128 @@ This table shows the general progression of every character class. Every column,
 ## Class Features
 
 > [!charakterklasse]+ Class Features Table
+> | Level | Features                                                       | Bardic Die | Battle Hymns | Tricks |
+> | :---: | :------------------------------------------------------------- | :--------: | :----------: | :----: |
+> |  1st  | Art Speciality, Bardic Inspiration, Battle Hymn, Spellcasting  |     d6     |      1       |   -    |
+> |  2nd  | Adventuring Tricks, Jack of all trades, Varied Expertise, Feat |     d6     |      1       |   1    |
+> |  3rd  | Bard College                                                   |     d6     |      1       |   1    |
+> |  4th  | Feat                                                           |     d6     |      2       |   1    |
+> |  5th  | Battle Hymn Focus, Key Change                                  |     d8     |      2       |   1    |
+> |  6th  | Bard College Feature                                           |     d8     |      2       |   2    |
+> |  7th  | Feat                                                           |     d8     |      3       |   2    |
+> |  8th  | Battle Hymn Specialization, Maestro                            |     d8     |      3       |   2    |
+> |  9th  | Bard College Feature                                           |     d8     |      3       |   3    |
+> | 10th  | Feat                                                           |    d10     |      4       |   3    |
+> | 11th  | Art Mastery                                                    |    d10     |      4       |   3    |
+> | 12th  | Feat                                                           |    d10     |      4       |   3    |
+> | 13th  | Bard College Feature                                           |    d10     |      5       |   4    |
+> | 14th  | Feat                                                           |    d10     |      5       |   4    |
+> | 15th  | Grand Battle Hymns, Superior Inspiration                       |    d12     |      5       |   4    |
+> | 16th  | Feat                                                           |    d12     |      6       |   5    |
+> | 17th  | Bard College Feature                                           |    d12     |      6       |   5    |
+> | 18th  | Feat                                                           |    d12     |      6       |   5    |
+> | 19th  | Virtuoso                                                       |    d12     |      7       |   5    |
+> | 20th  | Epic Boon, Feat                                                |    d12     |      8       |   6    |
 
-| Level | Cantrips | Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-| :---: | :------: | :----: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|  1st  |    2     |   4    |  2  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |
-|  2nd  |    2     |   5    |  3  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |
-|  3rd  |    3     |   6    |  4  |  2  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |
-|  4th  |    3     |   7    |  4  |  3  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |
-|  5th  |    4     |   9    |  4  |  3  |  2  |  —  |  —  |  —  |  —  |  —  |  —  |
-|  6th  |    4     |   10   |  4  |  3  |  3  |  —  |  —  |  —  |  —  |  —  |  —  |
-|  7th  |    5     |   11   |  4  |  3  |  3  |  1  |  —  |  —  |  —  |  —  |  —  |
-|  8th  |    5     |   12   |  4  |  3  |  3  |  2  |  —  |  —  |  —  |  —  |  —  |
-|  9th  |    6     |   14   |  4  |  3  |  3  |  3  |  1  |  —  |  —  |  —  |  —  |
-| 10th  |    6     |   15   |  4  |  3  |  3  |  3  |  2  |  —  |  —  |  —  |  —  |
-| 11th  |    6     |   16   |  4  |  3  |  3  |  3  |  2  |  1  |  —  |  —  |  —  |
-| 12th  |    6     |   17   |  4  |  3  |  3  |  3  |  2  |  1  |  —  |  —  |  —  |
-| 13th  |    7     |   18   |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  —  |  —  |
-| 14th  |    7     |   19   |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  —  |  —  |
-| 15th  |    7     |   20   |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |  —  |
-| 16th  |    7     |   21   |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |  —  |
-| 17th  |    8     |   22   |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |  1  |
-| 18th  |    8     |   23   |  4  |  3  |  3  |  3  |  3  |  1  |  1  |  1  |  1  |
-| 19th  |    8     |   24   |  4  |  3  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |
-| 20th  |    8     |   25   |  4  |  3  |  3  |  3  |  3  |  2  |  2  |  1  |  1  |
+> [!charakterklasse]+ Spellcaster Table: Full Caster
+> | Level | Cantrips | Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+> | :---: | :------: | :----: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+> |  1st  |    2     |   4    |  2  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |
+> |  2nd  |    2     |   5    |  3  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |
+> |  3rd  |    3     |   6    |  4  |  2  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |
+> |  4th  |    3     |   7    |  4  |  3  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |
+> |  5th  |    4     |   9    |  4  |  3  |  2  |  —  |  —  |  —  |  —  |  —  |  —  |
+> |  6th  |    4     |   10   |  4  |  3  |  3  |  —  |  —  |  —  |  —  |  —  |  —  |
+> |  7th  |    5     |   11   |  4  |  3  |  3  |  1  |  —  |  —  |  —  |  —  |  —  |
+> |  8th  |    5     |   12   |  4  |  3  |  3  |  2  |  —  |  —  |  —  |  —  |  —  |
+> |  9th  |    6     |   14   |  4  |  3  |  3  |  3  |  1  |  —  |  —  |  —  |  —  |
+> | 10th  |    6     |   15   |  4  |  3  |  3  |  3  |  2  |  —  |  —  |  —  |  —  |
+> | 11th  |    6     |   16   |  4  |  3  |  3  |  3  |  2  |  1  |  —  |  —  |  —  |
+> | 12th  |    6     |   17   |  4  |  3  |  3  |  3  |  2  |  1  |  —  |  —  |  —  |
+> | 13th  |    7     |   18   |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  —  |  —  |
+> | 14th  |    7     |   19   |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  —  |  —  |
+> | 15th  |    7     |   20   |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |  —  |
+> | 16th  |    7     |   21   |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |  —  |
+> | 17th  |    8     |   22   |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |  1  |
+> | 18th  |    8     |   23   |  4  |  3  |  3  |  3  |  3  |  1  |  1  |  1  |  1  |
+> | 19th  |    8     |   24   |  4  |  3  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |
+> | 20th  |    8     |   25   |  4  |  3  |  3  |  3  |  3  |  2  |  2  |  1  |  1  |
 
-### Level 1: XXX
+### Level 1: Art Speciality
+
+No bard is complete without their instrument. Be it a flute, a lute, or even your own voice, you learn how to make art your greatest weapon for influencing the battlefield. For the purposes of spellcasting, any musical instrument that you have proficiency with counts as a spell focus. Although spells can be cast without these instruments, only targets that are able to perceive your performance can benefit from this feature. Whenever you finish a short or long rest, choose one of the following to be your Art Specialty:
+
+**<u>Percussion (Casabas, Castanets, Drums, Maracas):</u>** Any instrument played by being struck or scraped (either by other instruments or against each other) qualifies as a percussion instrument. When using this musical art as a spell focus, you double the ranges of bard spells. A spell that has a range of <u>Touch</u> increases its range to <u>30 feet</u>.
+
+**<u>String Instruments (Dulcimer, Harp, Lute, Lyre, Violin):</u>** String instruments are played by plucking and twanging strings. When using this musical art as a spell focus, whenever you cast a bard spell, that targets exactly <u>one</u> allied creature, you can target an additional creature within <u>10 feet</u> of you.
+
+**<u>Visual (Calligraphy, Dance, Light Manipulation, Shapes):</u>** There are many ways to undertake a visual performance whether through illustration, illusion magic, or legerdemain. When using this art as a spell focus, whenever you cast a bard spell you may choose to make an ally able to see you the point of origin of that spell. You must be able to see any targets of the spell.
+
+**<u>Voice (Humming, Insults, Oration, Singing):</u>** When using this musical art as a spell focus, you can add an <u>expertise die</u> to checks made to maintain **concentration** on a bard spell.
+
+**<u>Wind Instruments (Bagpipes, Flute, Horn, Ocarina, Trombone):</u>** Any instrument played by passing air through it qualifies as a wind instrument. When using this musical art as a spell focus, whenever you cast a bard spell you can make a <u>Deception</u> or <u>Performance</u> check. Any observers with a <u>passive Insight</u> score equal to or less than the result of your check do not see or hear you cast the spell. Once you have used this feature three times, you cannot do so again until you finish a long rest
+
+### Level 1: Bardic Inspiration
+
+You can supernaturally inspire others through ords, music, or dance. This inspiration is epresented by your Bardic Inspiration die, which starts as a <u>d6</u>.
+
+**<u>Using Bardic Inspiration:</u>** As a **Bonus Action**, you can inspire another creature within <u>60 feet</u> of yourself who can <u>see</u> or <u>hear</u> you. That creature gains one of your Bardic Inspiration dice. A creature can have only one Bardic Inspiration die at a time.
+Once within the <u>next hour</u> when the creature fails a <u>d20 Test</u>, the creature can roll that die and add the number rolled to the <u>d20</u>, potentially turning the failure into a success. A Bardic Inspiration die is expended when it’s rolled.
+
+**<u>Number of Uses:</u>** You can confer a Bardic Inspiration die a number of times equal to your <u>CHA modifier</u> (minimum of once), and you regain all expended uses when you finish a **Short** or **Long Rest**.
+
+**<u>At Higher Levels:</u>** Your Bardic Inspiration die changes when you reach certain Bard levels, as shown in the Bardic Die column of the Bard table.
+
+**<u>Regaining Uses:</u>** If	you	have	no	uses	of	Bardic Inspiration	left,	you	can	give yourself	uses	by expending a **spell slot** (no	action	required). The total amount of regained bardic inspiration is equal to the level of the spell slot your expended. You can	do so	only	once	per	turn.
+
+### Level 1: Battle Hymn
+
+Like music, battle can be wild and chaotic, and through the sensible use of formula and talent order can be brought with a dedicated change of tune. You learn one battle hymn. It can be expressed in any way you like — a special leitmotif in your music, a change in pitch, or even a more advanced version of your favorite art.
+
+Once at the start of your turn, you can activate a battle hymn by expending a use of **Bardic Inspiration** (no action is required). Performing a battle hymn requires your **concentration**, as though you were casting a spell. Once activated, a battle hymn continues until you lose concentration or the start of your next turn. The number of battle hymns you know are listed in the Battle Hymns Known column of the Bard table.
+
+Whenever you gain a bard level, you may swap one battle hymn you know for a new battle hymn.
+
+**<u>Audience:</u>** Unless stated otherwise a battle hymn does not have a target until you choose one, and each targets a single creature within <u>30 feet</u>. You may choose to target a creature at any point, but after targeting a battle hymn its target cannot be changed.
+
+**<u>Sustained Song:</u>** When you have an activated battle hymn but have not chosen a creature to benefit from it yet, at the start of your turn when it would end you can instead choose to sustain the battle hymn until the start of your next turn without expending a use of Bardic Inspiration.
+
+| Bard Level | Battle Hymn  |
+|:------------------------:|:-----|
+| 1st-4th|**Harmony of Pain.**  The creature gains a number of <u>temporary hit points</u> equal to one roll on your <u>Bardic Inspiration Die</u>.|
+|<!--.-->|**Overbearing Rhythm.** An attacker targeting the creature has **DISADV** on its attack roll.|
+|<!--.-->|**Song of Clarity.** At the start of the creature’s turn, if it is not at 0 hit points the creature may expend and roll one of its <u>hit dice</u> to regain <u>hit points</u>.      |
+| 5th-8th|**Bastions of Justice.** The creature gains a bonus to <u>Saves</u> equal to your <u>CHA modifier</u> (minimum +1).|
+|<!--.-->|**Call to Arms.** The creature can roll one additional <u>weapon damage die</u> on its weapon attacks. If the creature makes weapon attacks on its next turn and misses, you can sustain this battle hymn for 1 round without expending a use of Bardic Inspiration.|
+|<!--.-->|**Placid Tones.** The creature adds one <u>expertise die</u> to <u>INT</u>, <u>WIS</u>, or <u>CHA</u> ability checks.   |
+| 9th-12th|**Heaven’s Blessing.** When the creature benefits from your **Bardic Inspiration**, it rolls the <u>Bardic Inspiration die</u> twice and uses the higher result.|
+|<!--.-->|**Ode of Blood.** If the creature is dying, it continues making <u>death saving throws</u> but stops being **incapacitated** for up to 3 rounds. The creature becomes **incapacitated** if it takes any damage, and it dies if it fails its last death saving throw. Once a creature has benefited from this battle hymn, it can’t benefit from it again until it finishes a **short** or **long rest**.|
+|<!--.-->|**Willful Serenade.** Until the end of the combat, the creature ignores up to 4 levels of **fatigue** it is suffering from.  |
+| 13th-16th|**Doomsayer.** The creature takes a <u>1d8</u> penalty on attack rolls.|
+|<!--.-->|**Onward to Battle.** The creature gains a <u>40 foot</u> increase to Speed.|
+|<!--.-->|**Rise and Fight.** A <u>dying</u> creature regains <u>hit points</u> equal to your <u>Bardic Inspiration die</u>. Once a creature has benefited from this battle hymn, it can’t benefit from it again until it finishes a **long rest**.   |
+| 17th-20th|**Bring Low the Foe.** The creature takes a –1d8 penalty on saving throws. In addition, it is **rattled** for <u>1d4</u> rounds after the battle hymn ends.|
+|<!--.-->|**Carry the Spirit.**  The creature gains **ADV** on saving throws.|
+|<!--.-->|**Inspiring Crescendo.** The creature gains a <u>1d6 expertise die</u> on ability checks.|
+
+### Level 1: Spellcasting
+
+**<u>Spellcasting Ability:</u>** Charisma
+**<u>Spellcasting Focus:</u>** Musical Instruments
+**<u>Spell List:</u>** Bard Spell list and choose one: Arcane, Divine, Primal
+**<u>Spell Slots:</u>** The Spellcaster Table shows how many Spell Slots you have to cast Spells. To cast one of these Spells, you must expend a Slot of the Spell’s level or higher. You regain all expended spell slots when you finish a Long Rest.
+**<u>Cantrips:</u>** Whenever you gain a Level in this Class, you can replace one of your cantrips with another cantrip of your choice from your Spell List.
+**<u>Spells:</u>** You know a number of spells from your Spell List as shown in the Spellcaster Table. Whenever you gain a Level in this Class, you can replace one of your known spells with another spell of your choice from your Spell List for which you have Spell Slots.
+**<u>Spell Attack:</u>** Spellcasting Ability + Proficiency Bonus
+**<u>Spell Save DC:</u>** 10 + Spellcasting Ability + Proficiency Bonus
+
+#### Bard Spell List
+
+| Spell                                                                                                                                                                                 | Level | School        | Time | Conc. | Range/Area | Attack/Save | Damage/Effect             |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ------------- | ---- | ----- | ---------- | ----------- | ------------------------- |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 0 Transmutation/5e - Bardcraft (Spell).md\|5e - Bardcraft (Spell)]] | 0     | Transmutation | A    | n     | 10ft.      |             | <ul><li>Control</li></ul> |
+
+<br>
 
 ### Level 2: XXX
 

@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Adept🦸‍♀️
 created: 2026-07-20T12:11:02.494+02:00
-modified: 2026-07-23T08:00:11.179+02:00
-published: 2026-07-23T08:00:11.179+02:00
+modified: 2026-07-23T09:34:05.054+02:00
+published: 2026-07-23T09:34:05.054+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -97,28 +97,52 @@ This table shows the general progression of every character class. Every column,
 ## Class Features
 
 > [!charakterklasse]+ Class Features Table
-> |Level|Features|Martial Arts|Techniques Known|Focus Feature|Manevers Known|Maneuver Degree|
-> |:-:|:-|:-:|:-:|:-:|:-:|:-:|
-> |1st |Adroit Defense, Combat Maneuvers, Martial Arts              |1d6 |- |- |2 |1st|
-> |2nd |Exertion Focus, Practiced Technique, Uncanny Metabolism, Feat|1d6 |1 |- |2 |1st|
-> |3rd |Warrior Tradition                                            |1d6 |1 |- |2 |1st|
-> |4th |Feat                                                         |1d6 |2 |- |3 |2nd|
-> |5th |Extra Attack, Focus Feature                                  |1d8 |2 |1 |3 |2nd|
-> |6th |Warrior Tradition Feature                                    |1d8 |3 |2 |4 |2nd|
-> |7th |Feat                                                         |1d8 |3 |3 |4 |2nd|
-> |8th |Evasion                                                      |1d8 |4 |4 |5 |3rd|
-> |9th |Warrior Tradition Feature                                    |1d8 |4 |5 |5 |3rd|
-> |10th|Feat                                                         |1d10|5 |6 |6 |3rd|
-> |11th|Heightened Discipline                                        |1d10|5 |7 |6 |3rd|
-> |12th|Feat                                                         |1d10|6 |8 |6 |3rd|
-> |13th|Warrior Tradition Feature                                    |1d10|6 |9 |7 |4th|
-> |14th|Feat                                                         |1d10|7 |10|7 |4th|
-> |15th|Disciplined Survivor                                         |1d12|7 |11|8 |4th|
-> |16th|Feat                                                         |1d12|8 |12|8 |4th|
-> |17th|Warrior Tradition Feature                                    |1d12|8 |13|9 |5th|
-> |18th|Feat                                                         |1d12|9 |14|9 |5th|
-> |19th|Grandmaster                                                  |1d12|9 |15|10|5th|
-> |20th|Epic Boon, Feat                                              |1d12|10|16|10|5th|
+> |Level|Features|Martial Arts|Techniques Known|Focus Feature|
+> |:-:|:-|:-:|:-:|:-:|
+> |1st |Adroit Defense, Combat Maneuvers, Martial Arts              |1d6 |- |- |
+> |2nd |Exertion Focus, Practiced Technique, Uncanny Metabolism, Feat|1d6 |1 |- |
+> |3rd |Warrior Tradition                                            |1d6 |1 |- |
+> |4th |Feat                                                         |1d6 |2 |- |
+> |5th |Extra Attack, Focus Feature                                  |1d8 |2 |1 |
+> |6th |Warrior Tradition Feature                                    |1d8 |3 |2 |
+> |7th |Feat                                                         |1d8 |3 |3 |
+> |8th |Evasion                                                      |1d8 |4 |4 |
+> |9th |Warrior Tradition Feature                                    |1d8 |4 |5 |
+> |10th|Feat                                                         |1d10|5 |6 |
+> |11th|Heightened Discipline                                        |1d10|5 |7 |
+> |12th|Feat                                                         |1d10|6 |8 |
+> |13th|Warrior Tradition Feature                                    |1d10|6 |9 |
+> |14th|Feat                                                         |1d10|7 |10|
+> |15th|Disciplined Survivor                                         |1d12|7 |11|
+> |16th|Feat                                                         |1d12|8 |12|
+> |17th|Warrior Tradition Feature                                    |1d12|8 |13|
+> |18th|Feat                                                         |1d12|9 |14|
+> |19th|Grandmaster                                                  |1d12|9 |15|
+> |20th|Epic Boon, Feat                                              |1d12|10|16|
+
+> [!charakterklasse]+ Martial Maneuver Table
+> | Level | Exertion | Maneuvers Known | Maneuver Degree |
+> | :---: | :---: | :---: | :---: |
+> |  1st  |   =PB    |        2        |       1st       |
+> |  2nd  |   =PB    |        2        |       1st       |
+> |  3rd  |   =PB    |        3        |       1st       |
+> |  4th  |   =PB    |        3        |       1st       |
+> |  5th  |   =PB    |        4        |       2nd       |
+> |  6th  |   =PB    |        4        |       2nd       |
+> |  7th  |   =PB    |        5        |       2nd       |
+> |  8th  |   =PB    |        5        |       2nd       |
+> |  9th  |   =PB    |        6        |       3rd       |
+> | 10th  |   =PB    |        6        |       3rd       |
+> | 11th  |   =PB    |        7        |       3rd       |
+> | 12th  |   =PB    |        7        |       3rd       |
+> | 13th  |   =PB    |        8        |       4th       |
+> | 14th  |   =PB    |        8        |       4th       |
+> | 15th  |   =PB    |        9        |       4th       |
+> | 16th  |   =PB    |        9        |       4th       |
+> | 17th  |   =PB    |       10        |       5th       |
+> | 18th  |   =PB    |       10        |       5th       |
+> | 19th  |   =PB    |       11        |       5th       |
+> | 20th  |   =PB    |       11        |       5th       |
 
 ### Level 1: Adroit Defense
 

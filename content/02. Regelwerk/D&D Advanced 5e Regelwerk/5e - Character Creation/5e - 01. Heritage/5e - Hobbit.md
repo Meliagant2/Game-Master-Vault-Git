@@ -2,8 +2,8 @@
 publish: true
 title: 👥5e - Hobbit👥
 created: 2026-07-20T12:11:02.463+02:00
-modified: 2026-07-22T07:30:38.515+02:00
-published: 2026-07-22T07:30:38.515+02:00
+modified: 2026-07-23T09:05:02.305+02:00
+published: 2026-07-23T09:05:02.305+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -49,9 +49,9 @@ Their non-threatening stature and generally pleasant demeanor has served them we
 
 ## Halfling Traits
 
-**Age:** Halflings mature into adults around the age of 20 and usually live for about 120 years, with some venerable halflings living up into their 150s or 160s.
-**Size:** Small (2-3 feet / 60cm - 90cm)
-**Speed:** 30 feet
+**<u>Age:</u>** Halflings mature into adults around the age of 20 and usually live for about 120 years, with some venerable halflings living up into their 150s or 160s.
+**<u>Size:</u>** Small (2-3 feet / 60cm - 90cm)
+**<u>Speed:</u>** 30 feet
 
 ### Fearless
 
@@ -73,30 +73,30 @@ Halflings are widespread and the halflings from one borough may bear little rese
 
 The creation myth of halfling tells of humans, who posessed primordial powers that moved the earth. You are significantly more hirsute than most halflings, and prone to patches of scruffy hair along your forearms and back. Your irises are often quite wide and deeply black, and your rocklike fingernails tend to grow with flattened edges. In halfling communities, these traits often come with insulting nicknames like “shovel-claws” or “scruffs”. You have the following traits:
 
-**Burrow:** You have a <u>burrowing speed</u> of <u>15 feet</u>. You can use your burrowing speed to move through nonmagical sand, loose earth, loamy soil, mud, or snow, but not solid rock. You do not naturally leave any sort of tunnel behind but you can attempt to create a 5-foot by 5-foot wide tunnel in earth, soil, or snow by spending extra time and effort shoring it up and adding support. This reduces your burrowing speed to 5 feet every 15 minutes.
-**Claws:** Your nails grow into strong shovel-like claws. The claws are natural weapons, which you can use to make unarmed strikes that deal slashing damage equal to **1d4 + STR or DEX**.
+**<u>Burrow:</u>** You have a <u>burrowing speed</u> of <u>15 feet</u>. You can use your burrowing speed to move through nonmagical sand, loose earth, loamy soil, mud, or snow, but not solid rock. You do not naturally leave any sort of tunnel behind but you can attempt to create a 5-foot by 5-foot wide tunnel in earth, soil, or snow by spending extra time and effort shoring it up and adding support. This reduces your burrowing speed to 5 feet every 15 minutes.
+**<u>Claws:</u>** Your nails grow into strong shovel-like claws. The claws are natural weapons, which you can use to make unarmed strikes that deal slashing damage equal to **1d4 + STR or DEX**.
 
 ### Into Mist
 
 You have a slender body and a sparkle in your eyes, that other people can't understand. You have the following traits:
 
-**Halfling Agility:** You gain <u>+1</u> to your AC against creatures of a size category larger than your own.
-**Misty Escape:** As a **Bonus Action**, or as a **Reaction** immediately after taking damage, you can turn [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e Condition - Invisible|☠️Invisible]]. The invisibility lasts until the end of your next turn, and it ends early if you attack, deal damage, cast a spell, or force a creature to make a Save. You can use this trait once between long rests.
+**<u>Halfling Agility:</u>** You gain <u>+1</u> to your AC against creatures of a size category larger than your own.
+**<u>Misty Escape:</u>** As a **Bonus Action**, or as a **Reaction** immediately after taking damage, you can turn [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e Condition - Invisible|☠️Invisible]]. The invisibility lasts until the end of your next turn, and it ends early if you attack, deal damage, cast a spell, or force a creature to make a Save. You can use this trait once between long rests.
 
 ### Tuft Feet
 
 You have thick patches of bushy hair that grow atop your proportionally large feet. You don’t need to wear shoes, or any sort of foot covering, as your big hairy feet are usually calloused and tough enough to tread on most anything. You have the following traits:
 
-**Big Feet:** You gain an expertise die on checks and Saves made to resist being knocked [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]].
-**Thick Soles:** You are immune to damage from sharp terrain hazards (such as caltrops, broken glass, or the spike growth spell) and ignore difficult terrain caused by them. Additionally, difficult terrain doesn't reduce your movement speed.
-**Naturally Stealthy:** You have Proficiency in the <u>Stealth</u> Skill.
+**<u>Big Feet:</u>** You gain an expertise die on checks and Saves made to resist being knocked [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]].
+**<u>Thick Soles:</u>** You are immune to damage from sharp terrain hazards (such as caltrops, broken glass, or the spike growth spell) and ignore difficult terrain caused by them. Additionally, difficult terrain doesn't reduce your movement speed.
+**<u>Naturally Stealthy:</u>** You have Proficiency in the <u>Stealth</u> Skill.
 
 ### Twilight-Touched
 
 You are blanched of both emotion and color with wide, alarmingly pure white eyes, and skin that is either starkly pallid or disquietingly sallow. There’s no hair at all atop your head or you have only a few bedraggled locks of hair. You form stronger communal bonds than other halflings, and can speak without the need for words. You have the following traits:
 
-**Darkvision:** You have [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision/5e - Senses/5e - Darkvision|👁️Darkvision]] with a range of <u>60 feet</u>.
-**Telepathy:** You can send telepathic messages to any creature you can see within 30 feet of you. You don’t need to share a language with the creature for it to understand these messages, but it must be able to understand at least one language to comprehend them.
+**<u>Darkvision:</u>** You have [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision/5e - Senses/5e - Darkvision|👁️Darkvision]] with a range of <u>60 feet</u>.
+**<u>Telepathy:</u>** You can send telepathic messages to any creature you can see within 30 feet of you. You don’t need to share a language with the creature for it to understand these messages, but it must be able to understand at least one language to comprehend them.
 
 ## Halfling Paragon
 
