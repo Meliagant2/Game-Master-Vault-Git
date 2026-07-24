@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-24T09:42:58.899+02:00
-published: 2026-07-24T09:42:58.899+02:00
+modified: 2026-07-24T09:45:00.080+02:00
+published: 2026-07-24T09:45:00.080+02:00
 tags:
   - "#Home"
 ---
@@ -17,7 +17,7 @@ tags:
 
 **Einleitende Worte. Erklärung der Vault und der Website Funktionen**
 
-Testtabellen und wiki callouts 5
+Testtabellen und wiki callouts 6
 
 ### Quellen
 
