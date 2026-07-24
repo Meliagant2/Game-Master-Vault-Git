@@ -78,14 +78,14 @@
 	--custom-background-table-header: #474646;
   }
 
-  /* -----Blocksatz Reading Mode----- */
+  /* ----------------------------------------Blocksatz Reading Mode---------------------------------------- */
 
   .markdown-preview-view p {
 	text-align: justify;
 	text-justify: inter-word;	
   }
 
-  /* -----Hintergrundfarbe Textblock----- */
+  /* ----------------------------------------Hintergrundfarbe Textblock---------------------------------------- */
 
   .markdown-preview-view {
 	z-index: 0;
@@ -155,11 +155,11 @@
 	margin-block-start: 0px;
   }
 
-  /* -----Tabellen----- */
+  /* ----------------------------------------Tabellen---------------------------------------- */
 
   table {
 	margin-top: 10px !important;
-	width: 100%;
+	width: auto;
   }
 
  /* Vertikale Grenzen aus Tabellen entfernen */
