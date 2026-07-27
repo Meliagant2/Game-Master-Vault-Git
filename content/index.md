@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-27T10:38:43.701+02:00
-published: 2026-07-27T10:38:43.701+02:00
+modified: 2026-07-27T10:57:22.448+02:00
+published: 2026-07-27T10:57:22.448+02:00
 tags:
   - "#Home"
 ---
@@ -16,12 +16,6 @@ tags:
 ## Nutzung der Website
 
 **Einleitende Worte. Erklärung der Vault und der Website Funktionen**
-
-`Test`
-
-==Testitest==
-
-### Quellen
 
 Sofern ich kann, werde ich die Quellen oder Inspirationen für Artworks, Ideen und Fähigkeiten immer in einer Box wie unten angeben. Wenn nichts dergleichen angegeben ist, habe ich das entweder vergessen oder es ist so lange her, dass ich das Bild oder den Text herausgesucht habe, dass ich schlicht nicht mehr weiß, wo ich es her habe. Leider habe ich erst sehr spät damit begonnen die Quellen zu notieren, da ich es für eine private Vault immer für unnötig hielt. Der Großteil des nicht Bild-bezogenen Contents (vor allem in den Regelwerken) wird allerdings aus D\&D5e oder Advanced 5e (kurz A5e) stammen.
 

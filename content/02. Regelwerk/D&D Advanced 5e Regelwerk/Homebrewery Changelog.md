@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-23T08:25:41.594+02:00
-modified: 2026-07-23T09:38:42.074+02:00
-published: 2026-07-23T09:38:42.074+02:00
+modified: 2026-07-27T11:22:43.842+02:00
+published: 2026-07-27T11:22:43.842+02:00
 status: ✅
 ---
 
@@ -38,3 +38,7 @@ status: ✅
 #### Adept
 
 - **<u>Level 2: Exertion Focus</u>**: The Saving throw now equals your Maneuver Save DC and is no longer based on WIS.
+
+#### Fighter
+
+- **<u>Fighting Style: Great Weapon Fighting</u>**: You no longer reroll 1s or 2s on the damage die, instead you treat 1s and 2s as a 3.

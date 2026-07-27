@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Adept🦸‍♀️
 created: 2026-07-20T12:11:02.494+02:00
-modified: 2026-07-23T09:34:05.054+02:00
-published: 2026-07-23T09:34:05.054+02:00
+modified: 2026-07-27T11:08:14.428+02:00
+published: 2026-07-27T11:08:14.428+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -44,7 +44,7 @@ The art of the adept is old and personal, often taught by one master to a single
 > |**Primary Ability**|Dexterity and Wisdom|
 > |**Hit Point Die**|D8 per Adept level|
 > |**Saving Throw Proficiencies** |Strength and Dexterity|
-> |**Skill Proficiencies**|Choose 2: Acrobatics, Athletics, History, Insight, Perception, Religion, and Stealth|
+> |**Skill Proficiencies**|<u>Choose 2:</u> Acrobatics, Athletics, History, Insight, Perception, Religion, and Stealth|
 > |**Tool Proficiencies**|One set of artisan's tools or a musical instrument|
 > |**Weapon Proficiencies**|Simple Weapons, Punching Daggers, Shortswords, Throwing Daggers|
 > |**Armor Training**|-|
@@ -123,26 +123,26 @@ This table shows the general progression of every character class. Every column,
 > [!charakterklasse]+ Martial Maneuver Table
 > | Level | Exertion | Maneuvers Known | Maneuver Degree |
 > | :---: | :---: | :---: | :---: |
-> |  1st  |   =PB    |        2        |       1st       |
-> |  2nd  |   =PB    |        2        |       1st       |
-> |  3rd  |   =PB    |        3        |       1st       |
-> |  4th  |   =PB    |        3        |       1st       |
-> |  5th  |   =PB    |        4        |       2nd       |
-> |  6th  |   =PB    |        4        |       2nd       |
-> |  7th  |   =PB    |        5        |       2nd       |
-> |  8th  |   =PB    |        5        |       2nd       |
-> |  9th  |   =PB    |        6        |       3rd       |
-> | 10th  |   =PB    |        6        |       3rd       |
-> | 11th  |   =PB    |        7        |       3rd       |
-> | 12th  |   =PB    |        7        |       3rd       |
-> | 13th  |   =PB    |        8        |       4th       |
-> | 14th  |   =PB    |        8        |       4th       |
-> | 15th  |   =PB    |        9        |       4th       |
-> | 16th  |   =PB    |        9        |       4th       |
-> | 17th  |   =PB    |       10        |       5th       |
-> | 18th  |   =PB    |       10        |       5th       |
-> | 19th  |   =PB    |       11        |       5th       |
-> | 20th  |   =PB    |       11        |       5th       |
+> |  1st  |   =2x PB    |        2        |       1st       |
+> |  2nd  |   =2x PB     |        2        |       1st       |
+> |  3rd  |   =2x PB     |        3        |       1st       |
+> |  4th  |   =2x PB     |        3        |       1st       |
+> |  5th  |   =2x PB     |        4        |       2nd       |
+> |  6th  |   =2x PB     |        4        |       2nd       |
+> |  7th  |   =2x PB     |        5        |       2nd       |
+> |  8th  |   =2x PB     |        5        |       2nd       |
+> |  9th  |   =2x PB     |        6        |       3rd       |
+> | 10th  |   =2x PB     |        6        |       3rd       |
+> | 11th  |   =2x PB     |        7        |       3rd       |
+> | 12th  |   =2x PB     |        7        |       3rd       |
+> | 13th  |   =2x PB     |        8        |       4th       |
+> | 14th  |   =2x PB     |        8        |       4th       |
+> | 15th  |   =2x PB     |        9        |       4th       |
+> | 16th  |   =2x PB     |        9        |       4th       |
+> | 17th  |   =2x PB     |       10        |       5th       |
+> | 18th  |   =2x PB     |       10        |       5th       |
+> | 19th  |   =2x PB    |       11        |       5th       |
+> | 20th  |   =2x PB     |       11        |       5th       |
 
 ### Level 1: Adroit Defense
 
