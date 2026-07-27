@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Adept🦸‍♀️
 created: 2026-07-20T12:11:02.494+02:00
-modified: 2026-07-27T11:38:13.917+02:00
-published: 2026-07-27T11:38:13.917+02:00
+modified: 2026-07-27T15:01:51.486+02:00
+published: 2026-07-27T15:01:51.486+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -186,7 +186,7 @@ Some of your focus features require your target to make a saving throw to resist
 
 **<u>Flurry of Blows:</u>** You can spend <u>1 exertion</u> to make <u>two</u> unarmed strikes as a **Bonus Action**.
 
-**<u>Long Step:</u>** You can take the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Dash|⚔️Dash]]-Action as a **Bonus Action**. Alternatively, you can spend <u>1 exertion</u> to take both the **Dash** and the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Disengage|⚔️Disengage]]-Actions as a **Bonus Action**, and your [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Jumping|🏃‍♀️Jump]] distance is doubled for the turn.
+**<u>Long Step:</u>** You can take the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Dash|⚔️Dash]]-Action as a **Bonus Action**. Alternatively, you can spend <u>1 exertion</u> to take both the **Dash** and the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Disengage|⚔️Disengage]]-Actions as a **Bonus Action**, and your [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Speed/5e - Jumping|🏃‍♀️Jump]] distance is doubled for the turn.
 
 **<u>Patient Defense:</u>** You can take the **Disengage**-Action as a **Bonus Action**. Alternatively, you can spend <u>1 exertion</u> to take both the **Disengage** and the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Dodge|⚔️Dodge]]-Actions as a **Bonus Action**.
 
@@ -267,7 +267,7 @@ You have picked up a number of tricks in your path towards perfection. You gain 
 >
 > **Requirement:** <u>11th level</u>, proficiency with <u>Stealth</u>
 >
-> You can step into a shadow and come out of another. When you are in [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision/5e - Illumination/5e - Dim Light|💡Dim Light]] or [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision/5e - Illumination/5e - Darkness (Illumination)|💡Darkness]], as a **Bonus Action** you can teleport up to <u>60 feet</u> to an unoccupied space you can see that is also in **dim light** or **darkness**. You have **ADV** on <u>Stealth</u> checks until the beginning of your next turn.
+> You can step into a shadow and come out of another. When you are in [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Illumination/5e - Dim Light|💡Dim Light]] or [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Illumination/5e - Darkness (Illumination)|💡Darkness]], as a **Bonus Action** you can teleport up to <u>60 feet</u> to an unoccupied space you can see that is also in **dim light** or **darkness**. You have **ADV** on <u>Stealth</u> checks until the beginning of your next turn.
 >
 > #### Sixth Sense
 >

@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Warrior of the Rising Sun🦸‍♀️
 created: 2026-07-22T12:06:01.852+02:00
-modified: 2026-07-22T14:22:34.592+02:00
-published: 2026-07-22T14:22:34.592+02:00
+modified: 2026-07-27T15:01:51.493+02:00
+published: 2026-07-27T15:01:51.493+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -44,7 +44,7 @@ You can use this feature a number of times equal to your <u>WIS modifier</u> (a 
 
 ### Level 13: Sun Shield
 
-You become wreathed in a luminous, magical aura. You shed [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision/5e - Illumination/5e - Bright Light|💡Bright]] sunlight in a <u>30-foot radius</u> and [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision/5e - Illumination/5e - Dim Light|💡Dim]] sunlight for an additional <u>30 feet</u>. You can extinguish or restore the light as a **Bonus Action**.
+You become wreathed in a luminous, magical aura. You shed [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Illumination/5e - Bright Light|💡Bright]] sunlight in a <u>30-foot radius</u> and [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Illumination/5e - Dim Light|💡Dim]] sunlight for an additional <u>30 feet</u>. You can extinguish or restore the light as a **Bonus Action**.
 
 If a creature hits you with a melee attack while this light shines, you can use your **Reaction** to deal radiant damage to the creature. The radiant damage equals <u>one roll of your martial arts die + WIS</u>.
 

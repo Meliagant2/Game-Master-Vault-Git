@@ -2,8 +2,8 @@
 publish: true
 title: 👥5e - Elf👥
 created: 2026-07-20T12:11:02.463+02:00
-modified: 2026-07-23T09:03:11.441+02:00
-published: 2026-07-23T09:03:11.441+02:00
+modified: 2026-07-27T15:01:51.451+02:00
+published: 2026-07-27T15:01:51.451+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -100,7 +100,7 @@ The conventional senses of elves are thought to be more finely tuned than those 
 
 Some elves, often born deep underground are granted skills other mortals could only dream of. Their attunement to the dark makes them skillful in many ways. Such elves have the following traits:
 
-**<u>Superior Darkvision:</u>** You have [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision/5e - Senses/5e - Darkvision|👁️Darkvision]]  with a range of <u>120 feet</u>.
+**<u>Superior Darkvision:</u>** You have [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Senses/5e - Darkvision|👁️Darkvision]]  with a range of <u>120 feet</u>.
 **<u>Training in the Dark:</u>** You gain Proficiency in one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - Skills|💃Skill]] of your choice. You also add one <u>expertise die</u> to rolls made in that skill.
 
 ## Elven Paragon

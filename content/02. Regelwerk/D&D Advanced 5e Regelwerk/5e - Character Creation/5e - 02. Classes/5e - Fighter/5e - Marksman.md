@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Marksman🦸‍♀️
 created: 2026-07-27T12:10:07.575+02:00
-modified: 2026-07-27T14:04:17.239+02:00
-published: 2026-07-27T14:04:17.239+02:00
+modified: 2026-07-27T14:35:28.625+02:00
+published: 2026-07-27T14:35:28.625+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -25,7 +25,7 @@ While all fighters learn to draw a bow or hurl a javelin, those who train as Mar
 Your training with ranged weapons grants the following benefits:
 
 - You do not have **DISADV** on ranged attack rolls due to being within <u>5 feet</u> of a hostile creature or attacking at long range.
-- Your <u>ranged weapon attack rolls</u> ignore [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Environment/5e - Cover/5e - Half Cover|🏔️Half Cover]] and [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Environment/5e - Cover/5e - Three-Quarters Cover|🏔️Three-Quarters Cover]].
+- Your <u>ranged weapon attack rolls</u> ignore [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Environment/5e - Cover/5e - Half Cover|🏔️Half Cover]] and [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Environment/5e - Cover/5e - Three-Quarters Cover|🏔️Three-Quarters Cover]].
 
 ### Level 3: Sharpshooting Traditions
 

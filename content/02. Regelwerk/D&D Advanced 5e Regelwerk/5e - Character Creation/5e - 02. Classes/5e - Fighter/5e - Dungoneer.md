@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Dungoneer🦸‍♀️
 created: 2026-07-27T12:10:07.575+02:00
-modified: 2026-07-27T13:30:54.944+02:00
-published: 2026-07-27T13:30:54.944+02:00
+modified: 2026-07-27T15:01:51.523+02:00
+published: 2026-07-27T15:01:51.523+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -51,8 +51,8 @@ Your experience exploring dungeons has made you a veteran of the depths, able to
 
 You are at home in pitch darkness and fight even more effectively without light.
 
-- You gain [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision/5e - Senses/5e - Blindsight|👁️Blindsight]] with a radius of <u>10 feet</u>.
-- You gain an <u>expertise die</u> to attack rolls while in [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision/5e - Illumination/5e - Darkness (Illumination)|💡Darkness]].
+- You gain [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Senses/5e - Blindsight|👁️Blindsight]] with a radius of <u>10 feet</u>.
+- You gain an <u>expertise die</u> to attack rolls while in [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Illumination/5e - Darkness (Illumination)|💡Darkness]].
 
 ### Level 13: Close-Quarters Veteran
 

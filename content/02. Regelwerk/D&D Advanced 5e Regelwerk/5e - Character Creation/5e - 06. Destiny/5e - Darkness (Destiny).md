@@ -2,8 +2,8 @@
 publish: true
 title: 🔮5e - Darkness🔮
 created: 2026-07-21T15:26:14.616+02:00
-modified: 2026-07-22T07:35:12.947+02:00
-published: 2026-07-22T07:35:12.947+02:00
+modified: 2026-07-27T15:01:51.520+02:00
+published: 2026-07-27T15:01:51.520+02:00
 tags:
   - "#Destiny"
   - "#5e"
@@ -26,7 +26,7 @@ You fulfill your destiny of Darkness when you succeed in a convoluted scheme.
 
 Play multiple groups against each other and come out on top, manipulate several people into unwittingly aiding a grand scheme, seal away a horrible truth that would cause turmoil if discovered.
 
-**Fulfillment Feature: Shadowy Figure:** Prying eyes find you obscured by shifting shadows. You gain an <u>expertise die</u> on <u>Stealth</u> checks. In addition, you are considered [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision/5e - Illumination/5e - Lightly Obscured|💡Lightly Obscured]] by [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision/5e - Illumination/5e - Dim Light|💡Dim Light]] while in areas of [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision/5e - Illumination/5e - Bright Light|💡Bright Light]]. While in areas of **dim light** you are considered [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision/5e - Illumination/5e - Heavily Obscured|💡Heavily Obscured]], as if you were in an area of [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision/5e - Illumination/5e - Darkness (Illumination)|💡Darkness]].
+**Fulfillment Feature: Shadowy Figure:** Prying eyes find you obscured by shifting shadows. You gain an <u>expertise die</u> on <u>Stealth</u> checks. In addition, you are considered [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Illumination/5e - Lightly Obscured|💡Lightly Obscured]] by [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Illumination/5e - Dim Light|💡Dim Light]] while in areas of [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Illumination/5e - Bright Light|💡Bright Light]]. While in areas of **dim light** you are considered [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Illumination/5e - Heavily Obscured|💡Heavily Obscured]], as if you were in an area of [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Illumination/5e - Darkness (Illumination)|💡Darkness]].
 
 ##### Table: Darkness Destiny
 

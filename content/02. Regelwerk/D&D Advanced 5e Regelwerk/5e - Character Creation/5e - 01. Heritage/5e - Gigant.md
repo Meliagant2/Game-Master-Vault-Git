@@ -2,8 +2,8 @@
 publish: true
 title: 👥5e - Gigant👥
 created: 2026-07-20T12:11:02.463+02:00
-modified: 2026-07-23T09:04:18.244+02:00
-published: 2026-07-23T09:04:18.244+02:00
+modified: 2026-07-27T15:01:51.454+02:00
+published: 2026-07-27T15:01:51.454+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -89,7 +89,7 @@ Some goliaths have frost giants as their ancestors. Such goliaths have the follo
 
 Some goliaths have stone giants as their ancestors. Such goliaths have the following traits:
 
-**<u>Darkvision:</u>** You have [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision/5e - Senses/5e - Darkvision|👁️Darkvision]] with a range of <u>60 feet</u>.
+**<u>Darkvision:</u>** You have [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Senses/5e - Darkvision|👁️Darkvision]] with a range of <u>60 feet</u>.
 **<u>Stoneskin:</u>** When you take damage, you can use your **Reaction** to roll a <u>d12</u>. Add your Constitution modifier to the number rolled and reduce the damage by that total. You can use this trait once between long rests.
 
 ### Stormborn

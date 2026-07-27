@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Fighter🦸‍♀️
 created: 2026-07-20T12:11:02.557+02:00
-modified: 2026-07-27T12:02:28.174+02:00
-published: 2026-07-27T12:02:28.174+02:00
+modified: 2026-07-27T15:01:51.493+02:00
+published: 2026-07-27T15:01:51.493+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -158,11 +158,11 @@ You adopt a particular style of fighting as your specialty. Choose one of the fo
 >
 > #### Blind Fighting
 >
-> You have [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision/5e - Senses/5e - Blindsight|👁️Blindsight]] with a range of <u>10 feet</u>.
+> You have [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Senses/5e - Blindsight|👁️Blindsight]] with a range of <u>10 feet</u>.
 >
 > #### Close Quarters Shooter
 >
-> When making a <u>ranged weapon attack</u> while you are within <u>5 feet</u> of a hostile creature, you do not have **DISADV** on the <u>attack roll</u>. Your <u>ranged weapon attacks</u> ignore [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Environment/5e - Cover/5e - Half Cover|🏔️Half Cover]] and [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Environment/5e - Cover/5e - Three-Quarters Cover|🏔️Three-Quarters Cover]] against targets within <u>30 feet</u> of you. Finally, you  have a `+1` bonus to <u>attack rolls</u> on <u>ranged attacks</u>.
+> When making a <u>ranged weapon attack</u> while you are within <u>5 feet</u> of a hostile creature, you do not have **DISADV** on the <u>attack roll</u>. Your <u>ranged weapon attacks</u> ignore [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Environment/5e - Cover/5e - Half Cover|🏔️Half Cover]] and [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Environment/5e - Cover/5e - Three-Quarters Cover|🏔️Three-Quarters Cover]] against targets within <u>30 feet</u> of you. Finally, you  have a `+1` bonus to <u>attack rolls</u> on <u>ranged attacks</u>.
 >
 > #### Defensive Fighting
 >
@@ -279,15 +279,15 @@ Over the course of your training and adventures you have picked up a variety of 
 >
 > #### Clearsight Sentinel
 >
-> You gain [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision/5e - Senses/5e - Darkvision|👁️Darkvision]] with a range of <u>60 feet</u>.
+> You gain [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Senses/5e - Darkvision|👁️Darkvision]] with a range of <u>60 feet</u>.
 >
 > #### Extreme Leap
 >
-> When you take the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Dash|5⚔️Dash]]-Action and make a [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Jumping|🏃‍♀️Long Jump]] after moving no less than <u>20 feet</u>, your jump distance is <u>doubled</u> for the turn. You may spend `1 exertion` to <u>triple</u> your <u>jump distance</u> for the turn instead, and may move the full distance of your jump even if it exceeds your Speed.
+> When you take the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Dash|5⚔️Dash]]-Action and make a [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Speed/5e - Jumping|🏃‍♀️Long Jump]] after moving no less than <u>20 feet</u>, your jump distance is <u>doubled</u> for the turn. You may spend `1 exertion` to <u>triple</u> your <u>jump distance</u> for the turn instead, and may move the full distance of your jump even if it exceeds your Speed.
 >
 > #### Mountaineer
 >
-> You gain a <u>climbing speed</u> equal to your <u>Speed</u>, and may spend `1 exertion` to reroll a failed <u>Athletics</u> check to climb, choosing whether to use the new roll or the original. In addition, moving through nonmagical [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Environment/5e - Difficult Terrain|🏔️Difficult Terrain]] costs you no extra movement.
+> You gain a <u>climbing speed</u> equal to your <u>Speed</u>, and may spend `1 exertion` to reroll a failed <u>Athletics</u> check to climb, choosing whether to use the new roll or the original. In addition, moving through nonmagical [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Environment/5e - Difficult Terrain|🏔️Difficult Terrain]] costs you no extra movement.
 >
 > #### Nightwatch
 >

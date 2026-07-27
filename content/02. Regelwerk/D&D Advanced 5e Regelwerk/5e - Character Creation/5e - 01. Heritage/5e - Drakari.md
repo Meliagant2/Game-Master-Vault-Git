@@ -2,8 +2,8 @@
 publish: true
 title: 👥5e - Drakari👥
 created: 2026-07-20T12:11:02.447+02:00
-modified: 2026-07-23T08:43:44.127+02:00
-published: 2026-07-23T08:43:44.127+02:00
+modified: 2026-07-27T15:01:51.423+02:00
+published: 2026-07-27T15:01:51.423+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -79,7 +79,7 @@ Some dragonborn grow tougher scales and sharper claws. These dragonborn tend to 
 Some dragonborn seem naturally adapted to aquatic environments with sleek, hydrodynamic, and often reflective scales. These dragonborn tend to have webbed hands and feet, and long serpentine tails. They also tend to grow soft fin-like scales along their legs and forearms. You have the following traits:
 
 **<u>Swimmer:</u>** You have a <u>swimming speed</u> of 30 feet and you can hold your breath for up to 15 minutes at a time.
-**<u>Deep Darkvision:</u>** You have [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision/5e - Senses/5e - Darkvision|👁️Darkvision]] with a range of <u>60 feet</u>. In addition, your eyes are perfectly adapted for spotting movement at depth, and the radius of your darkvision increases to <u>120 feet</u> while underwater.
+**<u>Deep Darkvision:</u>** You have [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Senses/5e - Darkvision|👁️Darkvision]] with a range of <u>60 feet</u>. In addition, your eyes are perfectly adapted for spotting movement at depth, and the radius of your darkvision increases to <u>120 feet</u> while underwater.
 **<u>Hard to Hit:</u>** You either have a tough shell or your quick movements and reflective scales make you difficult to strike. While you aren’t wearing armor, your AC equals <u>12 + DEX</u>. You can use a shield and still gain this benefit.
 
 ### Draconic Magic

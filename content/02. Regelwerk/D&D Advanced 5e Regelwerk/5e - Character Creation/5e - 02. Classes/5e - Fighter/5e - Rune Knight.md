@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Rune Knight🦸‍♀️
 created: 2026-07-27T12:10:07.575+02:00
-modified: 2026-07-27T14:28:02.035+02:00
-published: 2026-07-27T14:28:02.035+02:00
+modified: 2026-07-27T15:01:51.533+02:00
+published: 2026-07-27T15:01:51.533+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -63,7 +63,7 @@ In addition, you can invoke the rune as a **Bonus Action** to increase your stur
 
 #### Stone Rune
 
-This rune’s magic channels the judiciousness associated with stone giants. While wearing or carrying an object inscribed with this rune, you have **ADV** on <u>Insight</u> checks, and you have [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision/5e - Senses/5e - Darkvision|👁️Darkvision]] out to a range of <u>120 feet</u>.
+This rune’s magic channels the judiciousness associated with stone giants. While wearing or carrying an object inscribed with this rune, you have **ADV** on <u>Insight</u> checks, and you have [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Senses/5e - Darkvision|👁️Darkvision]] out to a range of <u>120 feet</u>.
 
 In addition, when a creature you can see ends its turn within <u>30 feet</u> of you, you can use your **Reaction** to invoke the rune and force the creature to make a **repeated WIS Save**. _**Failure:**_ The creature is [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]] by you for <u>1 minute</u>. While charmed in this way, the creature has a speed of 0 and is [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]], descending into a dreamy stupor.
 

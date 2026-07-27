@@ -2,8 +2,8 @@
 publish: true
 title: 👥5e - Orc👥
 created: 2026-07-20T12:11:02.463+02:00
-modified: 2026-07-23T09:06:29.039+02:00
-published: 2026-07-23T09:06:29.039+02:00
+modified: 2026-07-27T14:35:28.598+02:00
+published: 2026-07-27T14:35:28.598+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -74,7 +74,7 @@ While most orcs are all lumped into the same category, there are actually multip
 
 Your family hails from an area known for its extreme conditions, such as the arctic, desert, or even a particularly treacherous swamp. Even if you have not spent much time there, the ability of your family to adapt to their living conditions has been passed down to you. Orcs with this gift can vary wildly in appearance due to the area which they are from; those from the desert may have taken on a paler, dusky skin tone in order to survive the heat, while those from the arctic may have a coating of fine hairs and darker skin tones in order to retain heat.
 
-**<u>Just Like Home:</u>** Choose one type of terrain, reflecting the area from which your family hails: arctic, desert, mountain, or swamp. You ignore all naturally created [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Environment/5e - Difficult Terrain|🏔️Difficult Terrain]] of that type. Additionally, you gain an <u>expertise die</u> on skill checks made within this terrain type, and gain a type of damage resistance related to your chosen terrain: arctic — cold, desert — fire, mountain — lightning, swamp — poison.
+**<u>Just Like Home:</u>** Choose one type of terrain, reflecting the area from which your family hails: arctic, desert, mountain, or swamp. You ignore all naturally created [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Environment/5e - Difficult Terrain|🏔️Difficult Terrain]] of that type. Additionally, you gain an <u>expertise die</u> on skill checks made within this terrain type, and gain a type of damage resistance related to your chosen terrain: arctic — cold, desert — fire, mountain — lightning, swamp — poison.
 
 ### Ancestral Blessing
 

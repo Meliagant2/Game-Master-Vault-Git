@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Warrior of Virtue🦸‍♀️
 created: 2026-07-22T12:06:01.852+02:00
-modified: 2026-07-22T14:42:55.925+02:00
-published: 2026-07-22T14:42:55.925+02:00
+modified: 2026-07-27T14:42:27.244+02:00
+published: 2026-07-27T14:42:27.244+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -26,7 +26,7 @@ When you make a <u>STR</u>, <u>DEX</u>, or <u>CON</u> skill check, you can add y
 
 ### Level 6: Master Athlete
 
-You move through the world with a fluid grace few can match. Your [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Jumping|🏃‍♀️Jump]] distances doubles, you gain **ADV** on checks made to **jump**, a <u>climb speed</u> equal to your Speed, and a <u>swim speed</u> equal to your Speed.
+You move through the world with a fluid grace few can match. Your [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Speed/5e - Jumping|🏃‍♀️Jump]] distances doubles, you gain **ADV** on checks made to **jump**, a <u>climb speed</u> equal to your Speed, and a <u>swim speed</u> equal to your Speed.
 
 In addition, once per long rest when you would gain a level of [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Fatigue|☠️Fatigue]], you can choose not to gain that level of fatigue.
 
