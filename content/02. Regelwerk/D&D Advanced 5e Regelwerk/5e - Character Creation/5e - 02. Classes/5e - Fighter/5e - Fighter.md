@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 5e - Fighter
+title: 🦸‍♀️5e - Fighter🦸‍♀️
 created: 2026-07-20T12:11:02.557+02:00
-modified: 2026-07-27T11:32:41.827+02:00
-published: 2026-07-27T11:32:41.827+02:00
+modified: 2026-07-27T12:02:28.174+02:00
+published: 2026-07-27T12:02:28.174+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -12,40 +12,14 @@ dateitags:
   - "#Classes"
   - "#5e"
 image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Fighter 5e.png]]"
-status: ⏳
+status: ✅
+kurzbeschreibung: A master of martial techniques with expertise in a wide variety of weapons and combat maneuvers.
 ---
 
-> [!metadata]- Metadata
->
-> > [!metadataoption]- Status
-> >
-> > #### Status
-> >
-> > | | |
-> > |---|---|
-> > |**Status** | `INPUT[Status][:status]` |
-> > |**Publish**|`INPUT[inlineSelect(option(true), option(false)):publish]`|
->
-> > [!metadataoption]- Bild
-> >
-> > #### Bild
-> >
-> > | | |
-> > |---|---|
-> > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
->
-> > [!metadataoption]- Info
-> >
-> > #### Info
-> >
-> > | | |
-> > |---|---|
-> > |**Display Title** | `INPUT[textArea:title]`|
-> > |**Kurzbeschreibung** | `INPUT[textArea:kurzbeschreibung]`|
-
-# 5e - Fighter
+# 🦸‍♀️5e - Fighter🦸‍♀️
 
 > [!lore] Kurzbeschreibung
+> A master of martial techniques with expertise in a wide variety of weapons and combat maneuvers.
 
 > [!bildrechts]
 > ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Fighter 5e.png|Regelwerk Klasse Fighter 5e.png]]
@@ -264,86 +238,224 @@ You adopt a particular style of fighting as your specialty. Choose one of the fo
 
 ### Level 1: Second Wind
 
-You have a limited well of physical and mental stamina that you can draw on. As a Bonus Action, you can use it to regain Hit Points equal to 1d10 + your Fighter level.
+You have a limited well of physical and mental stamina that you can draw on. As a **Bonus Action**, you can use it to regain <u>Hit Points</u> equal to `1d10 + your Fighter level`.
 
-You can use this feature twice. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest. When you reach certain Fighter levels, you gain more uses of this feature, as shown in the Second Wind column of the Fighter table.
+You can use this feature a number of times as shown in the <u>Second Wind column</u> of the <u>Fighter table</u>. You regain <u>one</u> expended use when you finish a [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Short Rest|👁️Short Rest]], and you regain <u>all</u> expended uses when you finish a [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Long Rest|👁️Long Rest]].
 
 ### Level 1: Combat Maneuvers
 
-You gain the ability to use combat maneuvers. You gain proficiency in two combat traditions of your choice. You learn three maneuvers of your choice from traditions you are proficient with.
+You gain the ability to use [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Maneuvers|🤺Combat Maneuvers]]. You gain proficiency in two **combat traditions** of your choice. You learn <u>three</u> <u>maneuvers</u> of your choice from traditions you are proficient with.
 
-You gain an exertion pool equal to twice your proficiency bonus, regaining any spent exertion at the end of a short or long rest. You use your maneuvers by spending points from your exertion pool. The Maneuvers Known column of the Fighter table shows when you learn more maneuvers from a tradition you are proficient with, while the Maneuver Degree column shows the highest degree you can select maneuvers from at a given level.
+You gain an [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Exertion|🤺Exertion]] pool equal to twice your proficiency bonus, regaining any spent exertion at the end of a [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Short Rest|😴Short]] or [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Long Rest|😴Long Rest]].  You use your maneuvers by spending points from your <u>exertion pool</u>. The <u>Maneuvers Known column</u> of the Fighter table shows when you learn more maneuvers from a tradition you are proficient with, while the <u>Maneuver Degree column</u> shows the highest degree you can select maneuvers from at a given level.
 
 Additionally, whenever you learn a new maneuver, you can choose one of the maneuvers you know and replace it with another maneuver of the same degree from a tradition you are proficient with.
 
-### Level 2: XXX
+### Level 2: Action Surge
+
+You can push yourself past your limits, if only for a moment. On your turn, you can take one additional **Action**, except the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Magic Action|⚔️Magic Action]].
+
+Once you do so, you must finish a **short** or **long rest** before you can use this feature again.
+
+When you reach <u>15th level</u>, you can use this feature <u>twice</u> between each short or long rest, but only _once per turn_.
+
+### Level 2: Soldiering Knacks
+
+Over the course of your training and adventures you have picked up a variety of skills and tricks to help you make your way. At 2nd level you gain a soldiering knack of your choice. The Knacks Known column of the Fighter table shows when you learn more fighter soldiering knacks.
+
+> [!charakterklasse]- Soldiering Knacks
+> When you gain access to a new soldiering knack, choose one of the following.
+>
+> #### Amphibious Combatant
+>
+> You gain a <u>swimming speed</u> equal to your <u>Speed</u>, and may spend `1 exertion` to reroll a failed <u>STR</u>, <u>DEX</u>, or <u>CON</u> <u>check</u> related to aquatic activity (such as Athletics checks to swim, Acrobatics checks to keep balance on a ship’s deck, or Constitution checks to hold your breath). You may choose whether to use the new roll or the original. In addition, you <u>add your proficiency bonus</u> to the number of minutes you can <u>hold your breath</u> before suffocating, and can spend `1 exertion` to hold your breath for an additional minutes equal to your proficiency bonus.
+>
+> #### Burst of Strength
+>
+> You may spend `1 exertion` to add your proficiency bonus to a <u>STR check</u>, even if you already add your proficiency bonus to the check.
+>
+> #### Campaigner
+>
+> You have the ability to go for the long haul, carrying heavy equipment across long distances. You double your <u>STR</u> when determining your <u>carrying capacity</u> and the weight you can <u>lift</u>, <u>push</u>, or <u>drag</u>. You may also add your proficiency bonus to the number of hours you can march before you risk [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Fatigue|☠️Fatigue]] from a forced march.
+>
+> #### Clearsight Sentinel
+>
+> You gain [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision/5e - Senses/5e - Darkvision|👁️Darkvision]] with a range of <u>60 feet</u>.
+>
+> #### Extreme Leap
+>
+> When you take the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Dash|5⚔️Dash]]-Action and make a [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Jumping|🏃‍♀️Long Jump]] after moving no less than <u>20 feet</u>, your jump distance is <u>doubled</u> for the turn. You may spend `1 exertion` to <u>triple</u> your <u>jump distance</u> for the turn instead, and may move the full distance of your jump even if it exceeds your Speed.
+>
+> #### Mountaineer
+>
+> You gain a <u>climbing speed</u> equal to your <u>Speed</u>, and may spend `1 exertion` to reroll a failed <u>Athletics</u> check to climb, choosing whether to use the new roll or the original. In addition, moving through nonmagical [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Environment/5e - Difficult Terrain|🏔️Difficult Terrain]] costs you no extra movement.
+>
+> #### Nightwatch
+>
+> When taking a [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Long Rest|😴Long Rest]], add your proficiency bonus to the number of hours you can spend in <u>light activity</u>. In addition, one hour of that time can be spent in <u>strenuous activity</u> near the rest site (such as patrolling, fighting, or other adventuring activities) without interrupting your rest.
+>
+> #### Stable Footing
+>
+> A steady stance and careful footwork is instinctive to you. You have **ADV** on any <u>check</u> or <u>saving throw</u> to avoid falling [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]] or handle difficult ground (such as against a [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Level 1 Conjuration/5e - Grease (Spell)|☄️Grease]] spell or slippery ice). You are never <u>prone</u> after taking <u>fall damage</u>, and when calculating fall damage you treat the fall distance as if it were shorter by a number of feet equal to `PB × 10`.
+>
+> #### Weather Beaten
+>
+> Exposed to all kinds of weather over your life, you are inured to all but the most deadly effects. You gain **ADV** on <u>saving throws</u> against <u>cold and hot weather</u>, as well as any adverse effects from wind or precipitation.
 
 ### Level 2: Feat
 
 As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
-### Level 3: 5e - Fighter Subclass
+### Level 3: 🦸‍♀️5e - Fighter🦸‍♀️ Subclass
 
-You choose one 5e - Fighter Subclass, which represents you best.
+You choose one 🦸‍♀️5e - Fighter🦸‍♀️ Subclass, which represents you best.
 
-Your 5e - Fighter Subclass grants you features at 3rd, 6th, 9th, 13th, and again at 17th level.
+Your 🦸‍♀️5e - Fighter🦸‍♀️ Subclass grants you features at 3rd, 6th, 9th, 13th, and again at 17th level.
 
-| Subclass | Description |
-| -------- | ----------- |
+| Subclass                                                                                                                                        | Description                                                                                                                                                                                                                                                                                                                                |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Fighter/5e - Bladeseer.md\|5e - Bladeseer]]             | Fighters always strive to be two steps ahead of their opponents, studying their techniques, predicting their moves, and outmaneuvering them by precision and skill. The bladeseer takes this approach one step further, using their weapon as a focus to manipulate fate and see beyond normal means.                                      |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Fighter/5e - Cavalier.md\|5e - Cavalier]]               | Often raised at court or in the upper circles of the nobility, the archetypal Cavalier is a chivalric warrior of the highest order. They excel at mounted combat and wander the world in search of adventure and opportunities for heroism.                                                                                                |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Fighter/5e - Charging Shield.md\|5e - Charging Shield]] | Though primarily an armament for defense, in the hands of a properly trained combatant a shield can become a powerful weapon. Charging Shield warriors are thus terrifying to behold in battle, battering away the blows of their foes while surging through combat to deliver shattering strikes at the edge of their chosen tool of war. |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Fighter/5e - Crusader.md\|5e - Crusader]]               | Many warriors swear Oaths to gods of battle and war, but not all are blessed with the divine power of paladins or clerics. Those who fight for the gods without their explicit blessing are known as Crusaders.                                                                                                                            |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Fighter/5e - Duelist.md\|5e - Duelist]]                 | Dueling is about reading an opponent, getting into their head and knowing what they’ll do before they do. A duelist moves with grace and style, attacks with finesse and biting wit, and lives a life of flamboyance and honor.                                                                                                            |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Fighter/5e - Dungoneer.md\|5e - Dungoneer]]             | A dungeoneer is at home in underground lairs, winding caves, and labyrinthian passages. They have adapted to the harsh conditions of dungeon environments and turned them to their advantage.                                                                                                                                              |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Fighter/5e - Echo Knight.md\|5e - Echo Knight]]         | A mysterious and feared frontline warrior, the Echo Knight has mastered the art of using magic powers to summon the fading shades of unrealized timelines to aid them in battle.                                                                                                                                                           |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Fighter/5e - Gladiator.md\|5e - Gladiator]]             | Gladiators are athletes of bloodsports and performers to mass applause—more than simple warriors, they’re entertainers with a dramatic flair who have survived and triumphed where countless others have failed. Gladiator fighters are champions, feared or beloved but always respected.                                                 |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Fighter/5e - Houndmaster.md\|5e - Houndmaster]]         | Whether on a lonely hunt in the deep forest or blazing a path through the battlefield, the image of a rugged figure moving as one with their faithful hound is an iconic one.                                                                                                                                                              |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Fighter/5e - Marksman.md\|5e - Marksman]]               | While all fighters learn to draw a bow or hurl a javelin, those who train as Marksmen dedicate themselves to mastering ranged weapons of all types. Often, their deadly skills are backed up with an unmistakable swagger and unshakable confidence.                                                                                       |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Fighter/5e - Master at Arms.md\|5e - Master at Arms]]   | While most fighters master one specific martial discipline, a Master at Arms is the rare warrior who is able to truly master multiple styles of combat. Whether through grit, dedication, or extraordinary skill, these elite fighters learn all they can about the theory of combat.                                                      |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Fighter/5e - Militarist.md\|5e - Militarist]]           | As comfortable in a war council as they are on the front lines, militarists are always looking for ways to exploit the weaknesses of their enemies.                                                                                                                                                                                        |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Fighter/5e - Rune Knight.md\|5e - Rune Knight]]         | In the times of ancient, humans made pacts with giants and learned their powerful Rune magic. Traces of this ancient magic can still be found in the wild and remote places of the world, and Fighters who learn to use the power of Runes to augment combat ability become known as Rune Knights.                                         |
 
 ### Level 4: Feat
 
 As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
-### Level 5: XXX
+### Level 5: Extra Attack
 
-### Level 6: 5e - Fighter Subclass
+You can attack twice, instead of once, when you take the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Attack (Action)|⚔️Attack]]-Action on your turn.
 
-Your 5e - Fighter Subclass grants you features at 3rd, 6th, 9th, 13th, and again at 17th level.
+### Level 5: Maneuver Specialization
+
+As you experience combat and perfect your techniques they get easier for you to perform and more difficult for your foes to overcome. At levels shown in the <u>Fighter table</u> you may choose to <u>master</u> a **combat maneuver** you know. You cannot master the same maneuver more than once in this way.
+
+- The <u>exertion point cost</u> of mastered maneuvers is reduced by `1` (`minimum 1`).
+- Your **Maneuver Save DC** for mastered maneuvers increases by `1`.
+- Any attack you make as part of a mastered maneuver (including triggering attacks) deals `2` additional damage.
+
+### Level 5: Reserves
+
+Your stamina increases, allowing you to engage foes longer without tiring. Your exertion pool increases by an amount equal to your Proficiency Bonus.
+
+### Level 6: 🦸‍♀️5e - Fighter🦸‍♀️ Subclass
+
+Your 🦸‍♀️5e - Fighter🦸‍♀️ Subclass grants you features at 3rd, 6th, 9th, 13th, and again at 17th level.
 
 ### Level 7: Feat
 
 As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
-### Level 8: XXX
+### Level 8: Martial Lore
 
-### Level 9: 5e - Fighter Subclass
+Your knowledge of martial lore deepens. Choose one of the following options:
 
-Your 5e - Fighter Subclass grants you features at 3rd, 6th, 9th, 13th, and again at 17th level.
+#### Military Traditions
+
+You’ve familiarized yourself with wars long past and military protocols of the present. You gain an <u>expertise die</u> on <u>INT</u> checks made to recall lore or gather information regarding warfare or military action. In addition, you gain an <u>expertise die</u> on <u>CHA</u> checks made to influence soldiers, guards, or other organized martial forces.
+
+#### Size Up
+
+Your combat experience against a wide variety of foes has given you a good eye for evaluating threats. You can use a **Bonus Action** to determine the <u>CR</u> of a creature you can see within <u>200 feet</u>, and that creature’s <u>Maneuver DC</u>.
+
+#### Weapon Lore
+
+You gain an <u>expertise die</u> on <u>INT</u> checks made to recall lore or gather information about weapons, armor, and other martial equipment. In addition, you can use an **Action** to investigate the magical properties of such an item by handling it, such as swinging a sword or hefting a shield. You learn its properties, how to use them, whether it requires attunement, and how many charges it has. You also learn if the item has any sentience or bears a curse, though you only learn <u>if</u> it is sentient or cursed (not the nature of that sentience or curse).
+
+### Level 8: Inflexible
+
+Your Body and Mind are sturdy. Whenever you fail a <u>Save</u>, you can choose to reroll that Save.
+
+You can use this Feature <u>once</u> and must finish a **Long Rest**, before you can use it again.
+
+### Level 9: 🦸‍♀️5e - Fighter🦸‍♀️ Subclass
+
+Your 🦸‍♀️5e - Fighter🦸‍♀️ Subclass grants you features at 3rd, 6th, 9th, 13th, and again at 17th level.
 
 ### Level 10: Feat
 
 As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
-### Level 11: XXX
+### Level 11: Second Extra Attack
+
+You can attack three times, instead of twice, when you take the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Attack (Action)|⚔️Attack]]-Action on your turn..
+
+### Level 11: Studied Attacks
+
+You masterfully study your opponents and learn from each attack you make. If you make an <u>attack roll</u> against a creature and <u>miss</u>, you have **ADV** on your next attack roll against that creature before the end of your next turn.
 
 ### Level 12: Feat
 
 As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
-### Level 13: 5e - Fighter Subclass
+### Level 13: 🦸‍♀️5e - Fighter🦸‍♀️ Subclass
 
-Your 5e - Fighter Subclass grants you features at 3rd, 6th, 9th, 13th, and again at 17th level.
+Your 🦸‍♀️5e - Fighter🦸‍♀️ Subclass grants you features at 3rd, 6th, 9th, 13th, and again at 17th level.
 
 ### Level 14: Feat
 
 As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
-### Level 15: XXX
+### Level 15: Unrelenting
+
+Your Body and Mind are unbreakable. Whenever you use your **Inflexible Feature**, you gain a bonus to the roll equal to `your Fighter Level`. Also you can use the feature <u>twice</u> between <u>long rests</u>.
+
+### Level 15: War’s Toll
+
+Your experiences have left their impressions on you. All the lives ended—both friends and foes—inevitably weighs down on a person, and each must find their own way to cope and pay the toll of war. Choose one of the following.
+
+#### Battle Scarred
+
+You’ve embraced every victory and loss, and you wear each battle scar like a badge of honor. Whenever you are reduced to <u>0 hit points</u> you gain a new permanent scar or mark, and you gain [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Inspiration|✨Inspiration]]. Once you gain inspiration in this way you cannot do so again until you finish a **long rest**.
+
+#### Carouser
+
+You cope through drink and revelry, and have mastered both. You can gain the benefits of a **long rest** by spending 4 hours drinking, carousing, and taking the occasional blackout nap. You can carouse in this way so long as you consume at least 4 pint’s worth of ale (or equivalent drink), and you are alert and aware of your surroundings while doing so. If you carouse with another creature in this way, you can attempt to learn secrets from it by drinking it under the table. Each hour you spend carousing with a willing creature, make an opposed <u>CON</u> check. On a success, that creature answers a question truthfully (even questions it would not normally answer).
+
+In addition, you can enjoy alcohol as normal but can’t gain the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Poisoned|☠️Poisoned]] condition from it.
+
+This feature has no effect on creatures that are immune to the poisoned condition.
+
+#### One Eye Open
+
+Your life has been so regularly in danger that you’ve learned to literally sleep with one eye open. You are alert and aware of your surroundings while sleeping during long rests . You can also never be <u>surprised</u> and you gain an <u>expertise die</u> on <u>initiative</u> checks.
 
 ### Level 16: Feat
 
 As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
-### Level 17: 5e - Fighter Subclass
+### Level 17: 🦸‍♀️5e - Fighter🦸‍♀️ Subclass
 
-Your 5e - Fighter Subclass grants you features at 3rd, 6th, 9th, 13th, and again at 17th level.
+Your 🦸‍♀️5e - Fighter🦸‍♀️ Subclass grants you features at 3rd, 6th, 9th, 13th, and again at 17th level.
 
 ### Level 18: Feat
 
 As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
-### Level 19: XXX
+### Level 19: Warmaster
+
+You have become an undisputed master of battle. You gain the following benefits:
+
+#### Third Extra Attack
+
+You can attack four times, instead of thrice, when you take the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Attack (Action)|⚔️Attack]]-Action on your turn.
+
+#### Master of Combat
+
+You **master** <u>every</u> **maneuver** you know and any future maneuvers you learn as per **Maneuver Specialization**. Additionally, choose one maneuver of <u>3rd degree</u> or less that you know. You are able to use the chosen maneuver without expending any <u>exertion points</u>.
+
+#### Indomitable
+
+You can use your **Inflexible feature** <u>thrice</u> between **Long Rests,** before you can use it again. Also when using it you can choose to succeed on the <u>saving throw</u>, instead of rolling the saving throw again.
 
 ### Level 20: Epic Boon
 
@@ -356,3 +468,4 @@ As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5
 ## Inspiration/Quelle
 
 > [!inspiration] Inspiration/Quelle
+> **Class Artwork:** Nèstor Ossandón Leal; Class Artwork Monk D\&D5e 2024 Player's Handbook

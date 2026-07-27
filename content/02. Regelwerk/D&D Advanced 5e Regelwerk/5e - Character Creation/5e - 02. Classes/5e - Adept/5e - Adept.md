@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Adept🦸‍♀️
 created: 2026-07-20T12:11:02.494+02:00
-modified: 2026-07-27T11:08:14.428+02:00
-published: 2026-07-27T11:08:14.428+02:00
+modified: 2026-07-27T11:38:13.917+02:00
+published: 2026-07-27T11:38:13.917+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -124,25 +124,25 @@ This table shows the general progression of every character class. Every column,
 > | Level | Exertion | Maneuvers Known | Maneuver Degree |
 > | :---: | :---: | :---: | :---: |
 > |  1st  |   =2x PB    |        2        |       1st       |
-> |  2nd  |   =2x PB     |        2        |       1st       |
-> |  3rd  |   =2x PB     |        3        |       1st       |
-> |  4th  |   =2x PB     |        3        |       1st       |
-> |  5th  |   =2x PB     |        4        |       2nd       |
-> |  6th  |   =2x PB     |        4        |       2nd       |
-> |  7th  |   =2x PB     |        5        |       2nd       |
-> |  8th  |   =2x PB     |        5        |       2nd       |
-> |  9th  |   =2x PB     |        6        |       3rd       |
-> | 10th  |   =2x PB     |        6        |       3rd       |
-> | 11th  |   =2x PB     |        7        |       3rd       |
-> | 12th  |   =2x PB     |        7        |       3rd       |
-> | 13th  |   =2x PB     |        8        |       4th       |
-> | 14th  |   =2x PB     |        8        |       4th       |
-> | 15th  |   =2x PB     |        9        |       4th       |
-> | 16th  |   =2x PB     |        9        |       4th       |
-> | 17th  |   =2x PB     |       10        |       5th       |
-> | 18th  |   =2x PB     |       10        |       5th       |
-> | 19th  |   =2x PB    |       11        |       5th       |
-> | 20th  |   =2x PB     |       11        |       5th       |
+> |  2nd  |   =2x PB +1     |        2        |       1st       |
+> |  3rd  |   =2x PB +1     |        3        |       1st       |
+> |  4th  |   =2x PB +2     |        3        |       1st       |
+> |  5th  |   =2x PB +2     |        4        |       2nd       |
+> |  6th  |   =2x PB +3     |        4        |       2nd       |
+> |  7th  |   =2x PB +3    |        5        |       2nd       |
+> |  8th  |   =2x PB +4     |        5        |       2nd       |
+> |  9th  |   =2x PB +4     |        6        |       3rd       |
+> | 10th  |   =2x PB +5     |        6        |       3rd       |
+> | 11th  |   =2x PB +5     |        7        |       3rd       |
+> | 12th  |   =2x PB +6     |        7        |       3rd       |
+> | 13th  |   =2x PB +6    |        8        |       4th       |
+> | 14th  |   =2x PB +7     |        8        |       4th       |
+> | 15th  |   =2x PB +7     |        9        |       4th       |
+> | 16th  |   =2x PB +8     |        9        |       4th       |
+> | 17th  |   =2x PB +8     |       10        |       5th       |
+> | 18th  |   =2x PB +9     |       10        |       5th       |
+> | 19th  |   =2x PB +9    |       11        |       5th       |
+> | 20th  |   =2x PB +10     |       11        |       5th       |
 
 ### Level 1: Adroit Defense
 
@@ -159,7 +159,7 @@ Starting at <u>11th-level</u>, your AC increases by +1.
 You gain the ability to use combat maneuvers. You gain proficiency in two **combat traditions** from the following list:
 [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Mirrors Glint Tradition/5e - Mirrors Glint Tradition|🤺Mirrors Glint]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Rapid Current Tradition/5e - Rapid Current Tradition|🤺Rapid Current]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Razors Edge Tradition/5e - Razors Edge Tradition|🤺Razors Edge]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Unending Wheel Tradition/5e - Unending Wheel Tradition|🤺Unending Wheel]]. You learn two maneuvers of your choice from traditions you are proficient with.
 
-You gain an [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Exertion|🤺Exertion]] pool equal to twice your proficiency bonus plus <u>half your Adept level (rounded down)</u>, regaining any spent exertion at the end of a [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Short Rest|😴Short]] or [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Long Rest|😴Long Rest]]. You use your maneuvers by spending points from your exertion pool. The Maneuvers Known column of the Adept table shows when you learn more maneuvers from a tradition you are proficient with, while the Maneuver Degree column shows the highest degree you can select maneuvers from at a given level.
+You gain an [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Exertion|🤺Exertion]] pool equal to twice your proficiency bonus plus <u>half your Adept level (rounded down)</u>, regaining any spent exertion at the end of a [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Short Rest|😴Short]] or [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Long Rest|😴Long Rest]]. You use your maneuvers by spending points from your <u>exertion pool</u>. The <u>Maneuvers Known column</u> of the Adept table shows when you learn more maneuvers from a tradition you are proficient with, while the <u>Maneuver Degree column</u> shows the highest degree you can select maneuvers from at a given level.
 
 Additionally, whenever you learn a new maneuver, you can choose one of the maneuvers you know and replace it with another maneuver of the same degree from a tradition you are proficient with.
 

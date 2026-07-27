@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-23T08:25:41.594+02:00
-modified: 2026-07-27T11:22:43.842+02:00
-published: 2026-07-27T11:22:43.842+02:00
+modified: 2026-07-27T12:59:43.446+02:00
+published: 2026-07-27T12:59:43.446+02:00
 status: ✅
 ---
 
@@ -42,3 +42,4 @@ status: ✅
 #### Fighter
 
 - **<u>Fighting Style: Great Weapon Fighting</u>**: You no longer reroll 1s or 2s on the damage die, instead you treat 1s and 2s as a 3.
+- **Brute Subclass:** Removed, since for some reason 3/6 subclass Features were the exact same -> no real subclass
