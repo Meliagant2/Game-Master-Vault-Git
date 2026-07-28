@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-28T09:52:43.455+02:00
-published: 2026-07-28T09:52:43.455+02:00
+modified: 2026-07-28T14:39:27.432+02:00
+published: 2026-07-28T14:39:27.432+02:00
 tags:
   - "#Home"
 ---
@@ -100,6 +100,7 @@ Regelwerke werden immer in der Sprache aufgeführt, in der sie mir am einfachste
 >   - Adept
 >   - Bard
 >   - Fighter
+>   - Paladin
 >
 > ##### Ausstehend
 >
@@ -110,7 +111,6 @@ Regelwerke werden immer in der Sprache aufgeführt, in der sie mir am einfachste
 >   - Cleric
 >   - Druid
 >   - Marshal
->   - Paladin
 >   - Ranger
 >   - Rogue
 >   - Sorcerer

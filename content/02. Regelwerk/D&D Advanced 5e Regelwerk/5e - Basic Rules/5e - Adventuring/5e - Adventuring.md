@@ -2,8 +2,8 @@
 publish: true
 title: 🎒5e - Adventuring🎒
 created: 2026-07-20T12:11:02.853+02:00
-modified: 2026-07-27T15:18:40.033+02:00
-published: 2026-07-27T15:18:40.033+02:00
+modified: 2026-07-28T14:53:59.057+02:00
+published: 2026-07-28T14:53:59.057+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -17,11 +17,11 @@ status: ⏳
 "***Time Required.*** ": "The time required varies depending upon what a character is attempting to craft, as per Table: Crafting Time. At the end of the required time, the character makes a check based upon the desired quality level. On a success, the materials are consumed and they create the item. On a failure, they create an item of one quality level lower than they desired or may salvage the materials. When a character fails by 5 or more, they produce a poor quality item and the materials are consumed."
 "***Quality.*** ": The quality of an item affects the time, cost, and difficulty of crafting it. Items of fine quality or masterwork quality also offer special benefits. A fine item also costs an additional 25 silver to produce, and a masterwork item 125 silver.
 "***Engineering.*** ": The Craft downtime activity can also be used for buildings, engineering devices, and other projects. Each check requires a week of work and access to an amount of silver worth of materials. The DC and materials cost are determined by the project’s complexity. The scope of the project determines how many checks are required to complete it.
-? "|Dual-wielding weapon*|2 days|\n|Martial or simple weapon*|1/2 week|\n|Heavy weapon*|1 week|\n|Ammunition|100/week|\n|Light armor|1/2 week|\n|Medium armor|1 week|\n|Heavy armor|2 weeks|\n|Tool or equipment|2 days|\n*Rare weapons may require longer crafting times determined by the game master.\n\n##### Gather Information\nThe Gather Information activity is used to uncover secure or secret information about individuals, events, organizations, or other things that still exist within living memory. Gather Information is typically done by word-of-mouth on the street or in taverns.\n\nThe character specifies a particular individual, event, organization, or place from which they wish to learn more declares a specific piece of information that they’re seeking to learn, making an Investigation check. The time, DC, and costs are included below.\ \n\\column\nOn a success, the character learns what they are looking for along with a point of Key Knowledge.\n\nSuccess by 5 or more grants an additional fact or useful piece of information and an additional point of Key Knowledge. Failure means that the character learns nothing, and on a failure by 5 or more they instead learn an incorrect piece of information that could lead them astray or cause some trouble.\n***Key Knowledge.*** "
+? "|Dual-wielding weapon*|2 days|\n|Martial or simple weapon*|1/2 week|\n|Heavy weapon*|1 week|\n|Ammunition|100/week|\n|Light armor|1/2 week|\n|Medium armor|1 week|\n|Heavy armor|2 weeks|\n|Tool or equipment|2 days|\nRare weapons may require longer crafting times determined by the game master.\n\n##### Gather Information\nThe Gather Information activity is used to uncover secure or secret information about individuals, events, organizations, or other things that still exist within living memory. Gather Information is typically done by word-of-mouth on the street or in taverns.\n\nThe character specifies a particular individual, event, organization, or place from which they wish to learn more declares a specific piece of information that they’re seeking to learn, making an Investigation check. The time, DC, and costs are included below.\ \n\nOn a success, the character learns what they are looking for along with a point of Key Knowledge.\n\nSuccess by 5 or more grants an additional fact or useful piece of information and an additional point of Key Knowledge. Failure means that the character learns nothing, and on a failure by 5 or more they instead learn an incorrect piece of information that could lead them astray or cause some trouble.\n***Key Knowledge.*** "
 : Key Knowledge represents clues, secrets, or other insights into a particular location, individual, or event. Each point of Key Knowledge is specific to an individual, creature, or location. These points may be spent to gain advantage on an attack roll or ability check made in relation to the subject.
 "\nAt the Game Master's discretion, these points can also be spent to introduce a small fact to the story. Perhaps a character learns of a friendly bartender while Gathering Information about the next town or discovers a potentially safe cavern while Researching the dungeon they plan to enter.\n***Limitations.*** ": The Game Master may decide that there is simply no way that a piece of information can be gleaned by the Gather Information activity. In this case, the Game Master should inform the player before the check is attempted.
 "\nOn a success, the character gains 1 point of favor, plus 1 additional point of favor for every 5 points their result exceeds the DC.\n***Favor.*** ": A point of favor can be spent to represent a minor but helpful boon that aligns with a deity’s portfolio. A point of favor from a war god might allow a character to find a weapon after they’ve been disarmed, while a point of favor from a nature god might make it easier to find a safe place to camp.
-"|1st|15|100sp|1|\n|2nd|16|150sp|1,5|\n|3rd|17|200sp|2|\n|4th|18|300sp|2,5|\n|5th|19|500sp|3|\n|6th|20|1000sp|4|\n|7th|21|1500sp|5|\n|8th|23|3000sp|6|\n|9th|25|5000sp|8|\n}}\n\n##### Train\nThe Train activity allows a character to learn a new weapon, language, or tool proficiency, or it can be used to swap a class feature or feat that they learned previously.\n***Language or Tool.*** ": Learning a new language or tool proficiency requires a character to spend a number of months equal to 12 – their Intelligence modifier and pay 50 silver pieces per month to retain a tutor. If a character does not wish to pay for or does not have access to a tutor, they must have another reliable means of learning and the time required is doubled. At the end of this period, the character acquires the proficiency.
+"|1st|15|100sp|1|\n|2nd|16|150sp|1,5|\n|3rd|17|200sp|2|\n|4th|18|300sp|2,5|\n|5th|19|500sp|3|\n|6th|20|1000sp|4|\n|7th|21|1500sp|5|\n|8th|23|3000sp|6|\n|9th|25|5000sp|8|\n\n\n##### Train\nThe Train activity allows a character to learn a new weapon, language, or tool proficiency, or it can be used to swap a class feature or feat that they learned previously.\n***Language or Tool.*** ": Learning a new language or tool proficiency requires a character to spend a number of months equal to 12 – their Intelligence modifier and pay 50 silver pieces per month to retain a tutor. If a character does not wish to pay for or does not have access to a tutor, they must have another reliable means of learning and the time required is doubled. At the end of this period, the character acquires the proficiency.
 "***Weapon.*** ": Learning a new weapon proficiency requires a character spend a number of months equal to 6 – their Strength or Dexterity modifier (whichever is highest) training and pay 50 silver pieces per month to retain a tutor. At the end of this time period, the character acquires the weapon proficiency.
 "***Relearning.*** ": A character may also relearn class features. This activity does not require spending any silver. The time required is 1 week to change a feature gained at 1st–5th level, 2 weeks to change a feature gained at 6th–10th level, 3 weeks to change a feature gained at 11th–15th level, and 4 weeks to change a feature gained at 15th–20th level. This activity cannot be used to swap out spells that have been entered into a spellbook.
 "***Feat.*** ": To swap a feat gained through leveling to another feat, a character may spend a number of months equal to 8 – their proficiency bonus and pay 50 silver pieces each month to acquire practice materials and advice from experts in the feat they are learning.
@@ -266,7 +266,7 @@ An object’s Armor Class represents how tough the object is to damage. Especial
 ##### Hit Points
 
 An object’s hit points determine how much damage it can take before it is destroyed. A particularly sturdy object (resilient) might have more hit points than
-\column
+
 more delicate objects (fragile). The Object Hit Points table has suggested hit points for objects based on their size.
 
 ###### Object Hit Points
@@ -313,7 +313,7 @@ When using the descriptive approach to roleplaying, it’s important to convey y
 ##### Active Roleplaying
 
 Active roleplaying is more akin to acting than description. Though there may still be many actions that need to be described, you take on your character’s voice and demeanor when speaking for them, sometimes even adopting accents, verbal tics, and specific speech patterns. You talk to the other characters the same way you would speak to the players sitting beside you.
-\column
+
 With active roleplay, Sarah is playing Gorza in the same scene, but this time, she speaks as Gorza as well as describes her actions. The result looks something like this: Sarah says (in her normal voice): “Gorza leans on her axe and shakes her head.” Then, with a gravelly voice, Sarah laughs and says as Gorza: “We’d be better off investing in some cheese and arsenic and just calling it a night. I saw a new cask of Hilltop Ale downstairs that has my name on it.” In this situation, the other players can hear what Gorza sounds like, and they might have to infer what Gorza’s true feelings are based off of what she says and how she says it.
 
 ##### Results of Roleplaying
@@ -355,7 +355,6 @@ A character cannot benefit from more than one long rest in a 24-hour period, and
 ##### Roughing it
 
 There is a difference between bare survival and comfort, and many environmental conditions can make adventurers’ rests less rewarding. If any of the following conditions apply to you during a long rest, you regain half the usual number of hit dice. Should you have any levels of fatigue or strife, neither is reduced upon finishing the long rest.
-\column
 
 - Slept in medium or heavy armor other than hide.
 - Slept without a bedroll or similar bedding on rocky, wet, or uneven terrain.
@@ -394,7 +393,6 @@ Characters may wish to work together to complete downtime activities. At the Gam
 ##### Brewing Potions
 
 The process of brewing procces differs slightly from other items. To craft potions you need proficiency in alchemist's supplies. A crafted potion costs half the amount the potion would normally cost.
-\column
 
 ###### Brewing Potions
 
@@ -415,7 +413,6 @@ _**Special Materials.**_ :: Rarely a smith might happen upon special materials. 
 _**Time Required.**_ :: The time required varies depending upon what a character is attempting to craft, as per Table: Crafting Time. At the end of the required time, the character makes a check based upon the desired quality level. On a success, the materials are consumed and they create the item. On a failure, they create an item of one quality level lower than they desired or may salvage the materials. When a character fails by 5 or more, they produce a poor quality item and the materials are consumed.
 _**Quality.**_ :: The quality of an item affects the time, cost, and difficulty of crafting it. Items of fine quality or masterwork quality also offer special benefits. A fine item also costs an additional 25 silver to produce, and a masterwork item 125 silver.
 _**Engineering.**_ :: The Craft downtime activity can also be used for buildings, engineering devices, and other projects. Each check requires a week of work and access to an amount of silver worth of materials. The DC and materials cost are determined by the project’s complexity. The scope of the project determines how many checks are required to complete it.
-{{wide
 
 ###### Table: Crafting Items
 
@@ -425,7 +422,6 @@ _**Engineering.**_ :: The Craft downtime activity can also be used for buildings
 |Normal|Base|15|x1/4|-|Up to full|---|
 |Fine|x2|20|x1/2|+25sp|At least full price|Can be enchanted to become a magic item of up to uncommon rarity|
 |Masterwork|x5|25|x1|+125sp|No less than double full price|Never has damage vulnerabilities, and can be enchanted to become a magic item of any rarity|
-}}
 
 ###### Table: Engineering Items
 
@@ -437,9 +433,6 @@ _**Engineering.**_ :: The Craft downtime activity can also be used for buildings
 |Advanced|26|1000sp|Castle, lock and damworks, locomotive, ship of the line|
 |Revolutionary|29|1000sp|Airship, railroad networks|
 |Incredible|32|4000sp|A sapient clockwork construct|
-}}
-
-{{wide
 
 ###### Table: Engineering Time
 
@@ -452,8 +445,7 @@ _**Engineering.**_ :: The Craft downtime activity can also be used for buildings
 |Huge\*|16|Small airship, a clockwork giant, a locomotive engine, a villager's house|
 |Colossal\*|32|Steam-powered city gates, a bascule bridge, a large airship, a noble's city estate|
 |Monumental\*|64+|A dam, a massive clocktower, an airship port, a palace|
-\*Projects if this size often require a team of assistants and laborers
-}}
+Projects if this size often require a team of assistants and laborers
 
 ###### Table: Crafting Time
 
@@ -467,14 +459,14 @@ _**Engineering.**_ :: The Craft downtime activity can also be used for buildings
 |Medium armor|1 week|
 |Heavy armor|2 weeks|
 |Tool or equipment|2 days|
-\*Rare weapons may require longer crafting times determined by the game master.
+Rare weapons may require longer crafting times determined by the game master.
 
 ##### Gather Information
 
 The Gather Information activity is used to uncover secure or secret information about individuals, events, organizations, or other things that still exist within living memory. Gather Information is typically done by word-of-mouth on the street or in taverns.
 
 The character specifies a particular individual, event, organization, or place from which they wish to learn more declares a specific piece of information that they’re seeking to learn, making an Investigation check. The time, DC, and costs are included below.
-\column
+
 On a success, the character learns what they are looking for along with a point of Key Knowledge.
 
 Success by 5 or more grants an additional fact or useful piece of information and an additional point of Key Knowledge. Failure means that the character learns nothing, and on a failure by 5 or more they instead learn an incorrect piece of information that could lead them astray or cause some trouble.
@@ -482,8 +474,6 @@ _**Key Knowledge.**_ :: Key Knowledge represents clues, secrets, or other insigh
 
 At the Game Master's discretion, these points can also be spent to introduce a small fact to the story. Perhaps a character learns of a friendly bartender while Gathering Information about the next town or discovers a potentially safe cavern while Researching the dungeon they plan to enter.
 _**Limitations.**_ :: The Game Master may decide that there is simply no way that a piece of information can be gleaned by the Gather Information activity. In this case, the Game Master should inform the player before the check is attempted.
-
-{{wide
 
 ###### Table: Gather Information
 
@@ -493,7 +483,6 @@ _**Limitations.**_ :: The Game Master may decide that there is simply no way tha
 |Esoteric|15|1 week|25 sp|The name of the best fence in a particular city, where to go to get illicit magic ingredients|
 |Hidden|20|2 weeks|100 sp|The location of duke's secret prison, the name of a dragon's agent in a city|
 |Secret|25|4 weeks|500+ sp| The identity of the leader of a guild of assassins, what the king keeps in the secret room below his chambers|
-}}
 
 ##### Recovery
 
@@ -507,7 +496,7 @@ If a character is tended to by someone with a healer’s satchel, they have adva
 ##### Religious Devotion
 
 Religious Devotion allows a character to engage in acts of piety in an attempt to appease the gods and earn their favor. In order to engage in this downtime activity, a character must have access to a shrine, temple, or other sacred site and spend the required silver on sacred
-\column
+
 offerings to make a Nature or Religion check against a DC from Table: Religious Devotion.
 
 On a success, the character gains 1 point of favor, plus 1 additional point of favor for every 5 points their result exceeds the DC.
@@ -516,7 +505,6 @@ _**Favor.**_ :: A point of favor can be spent to represent a minor but helpful b
 The specific details are left up to the Game Master, but in general, this should represent advantage on a roll, the discovery of a small but useful item, or a helpful chance encounter. For 2 favor points, the Game Master may allow a character to benefit from the effects of a 1st-level spell that aligns with a deity’s portfolio. Game Masters are free to come up with other uses.
 
 If a character acts against the interests or philosophy of a deity during an adventure, any points of favor are immediately lost.
-{{wide
 
 ###### Table: Religious Devotion
 
@@ -527,8 +515,7 @@ If a character acts against the interests or philosophy of a deity during an adv
 |Neutral|20|50sp|The character's personal ethos and actions do not align or oppose the deity they are beseeching|
 |Opposed|25|100sp|The character's personal ethos and actions are generally counter to the deity's philosophy and teachings|
 |Strongly Opposed|30|500sp|The character's personal ethos and actions run diretly counter to the deity's philosophy and teachings|
-\*The Game Master may allow specific actions by the character to reduce or eliminate this cost
-}}
+The Game Master may allow specific actions by the character to reduce or eliminate this cost
 
 ##### Research
 
@@ -540,8 +527,6 @@ On a success, they learn what they are looking for along with a point of Key Kno
 
 The cost of research is reflective of bribes, library fees, and other related expenses. At the Game Master’s discretion, a character may dispense with these if they already have access to a library that might contain the information.
 
-{{wide
-
 ###### Table: Research
 
 |Obscurity|DC|Time|Cost\*|Examples|
@@ -550,7 +535,6 @@ The cost of research is reflective of bribes, library fees, and other related ex
 |Esoteric|15|1 week|25sp|The original owner of a piece of land or business, the location of an ancient tomb|
 |Hidden|20|2 weeks|100sp|The true history of the founding of a dynasty, the real lineage of the local ruler|
 |Secret|25|3 weeks|500+sp|The name of a fiend, the location of a city destroyed by the gods in the last age|
-}}
 
 ##### Scribing Spell Scrolls
 
@@ -589,8 +573,6 @@ Creating rare spells should be a collaboration with the Game Master. As always, 
 
 In addition to crafting rare spells, it is possible to create entirely new spells. This process typically requires years of work and often represents the pinnacle of a spellcaster’s career. If a character wishes to create their own spell, it should require at least 2 months per spell level and 500 silver per spell level each week. DCs for such checks and the other specifics are determined by the Game Master, using the rules for crafting rare spells as a guideline.
 
-{{wide
-
 ###### Table: Rare spell modifications
 
 |Modification|DC Modifier|Effect|
@@ -599,7 +581,6 @@ In addition to crafting rare spells, it is possible to create entirely new spell
 |Lingering Effect|+1|The spell has a secondary effect that occurs after the spell has ended. Examples include a fireball that causes the target to take ongoing fire damage or a slow spell that leaves a target fatigued after its duration has ended.|
 |Additional Effect|+2|An additional effect is added to the spell’s primary function. Examples include an ice storm that freezes a target in place for the duration.|
 |Additional Target|+2|This spell has the means to target additional creatures. Examples include a paralyzing effect that spreads by touch or a suggestion to new targets through conversation.|
-}}
 
 ###### Table: Rare Spell crafting
 
@@ -614,7 +595,6 @@ In addition to crafting rare spells, it is possible to create entirely new spell
 |7th|21|1500sp|5|
 |8th|23|3000sp|6|
 |9th|25|5000sp|8|
-}}
 
 ##### Train
 
@@ -624,7 +604,6 @@ _**Weapon.**_ :: Learning a new weapon proficiency requires a character spend a 
 _**Relearning.**_ :: A character may also relearn class features. This activity does not require spending any silver. The time required is 1 week to change a feature gained at 1st–5th level, 2 weeks to change a feature gained at 6th–10th level, 3 weeks to change a feature gained at 11th–15th level, and 4 weeks to change a feature gained at 15th–20th level. This activity cannot be used to swap out spells that have been entered into a spellbook.
 _**Feat.**_ :: To swap a feat gained through leveling to another feat, a character may spend a number of months equal to 8 – their proficiency bonus and pay 50 silver pieces each month to acquire practice materials and advice from experts in the feat they are learning.
 _**Subclass.**_ :: A character can change to a different subclass for their class by spending 12 weeks mastering the new archetype, at which point they are able to select it. When they do, any class features gained from their previous subclass are lost and replaced by the class features of their new archetype. Changing from one class to another requires the use of powerful reality-altering magic (like the wish spell or the direct intervention of a deity).
-\column
 
 ##### Work
 
@@ -655,8 +634,6 @@ For example, Zidi Wheatling, the “Halfling Titan”, has a Prestige rating of 
 
 Unfortunately the result is an 11— the noble has not heard of her and will not grant her an audience. Zidi has to find some other way to attract their attention!
 
-{{wide
-
 ###### Table: Prestige Rating
 
 |Rating|Is Well-Known Across|Can Get an Audience with|Notoriety|
@@ -676,7 +653,6 @@ Unfortunately the result is an 11— the noble has not heard of her and will not
 |12|Multiverse|Greater deity|When the character seeks the audience of powerful beings like gods they are answered.|
 |13|Multiverse|Pantheon|When the character seeks the audience of powerful beings like gods they are answered in a timely manner.|
 |14+|Divine|Anybody|This level of Prestige is usually the province of deities and other powerful extraplanar beings. The character is widely known on multiple worlds or planes.|
-}}
 
 ## Optional Rule: Calling In Favors
 
