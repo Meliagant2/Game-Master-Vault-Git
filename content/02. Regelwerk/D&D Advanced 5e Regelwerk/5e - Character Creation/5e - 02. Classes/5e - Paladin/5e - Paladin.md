@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Paladin🦸‍♀️
 created: 2026-07-20T12:11:02.575+02:00
-modified: 2026-07-28T09:09:39.344+02:00
-published: 2026-07-28T09:09:39.344+02:00
+modified: 2026-07-28T09:26:10.707+02:00
+published: 2026-07-28T09:26:10.707+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -178,9 +178,68 @@ This table shows the general progression of every character class. Every column,
 
 ### Level 1: Divine Lessons
 
-1st-level Paladin Feature
+In preparing to take your oath, you have learned a number of skills and tricks that can help you during your adventures. You gain a **divine lesson** of your choice. The Lessons Known column of the Paladin table shows when you learn more divine lessons.
 
-In preparing to take your oath, you have learned a number of skills and tricks that can help you during your adventures. You gain a divine lesson of your choice. The divine lessons available to you are detailed at the end of the class description. The Lessons Known column of the Paladin table shows when you learn more divine lessons.
+> [!charakterklasse]- Divine Lessons
+> When you gain access to a new divine lesson, choose one of the following.
+>
+> #### Bestowed Understanding
+>
+> When attempting to understand a <u>language</u> with which you are not proficient (whether spoken or written), you can make a **DC 15 Insight** check to understand the basic message. If the language is considered forgotten, you roll with **DISADV**. You can do so a number of times equal to your <u>WIS modifier</u>, and regain spent uses upon finishing a **long rest**.
+>
+> #### Divine Health
+>
+> You are immune to <u>diseases</u> and have **ADV** on <u>Saves</u> made to resist the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Poisoned|☠️Poisoned]] condition.
+>
+> #### Divine Vision
+>
+> You gain [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Senses/5e - Darkvision|👁️Darkvision]] with a range of <u>60 ft</u>. In addition, you always have the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Divination/5e - Level 2 Divination/5e - See Invisibility (Spell)|☄️See Invisibility]] spell prepared and can use this feature <u>once</u> per **long rest** to cast it without expending a spell slot.
+>
+> #### Do Without
+>
+> Your divine connection and years of training combine to allow you to survive without <u>Supply</u> for a number of days equal to your <u>CHA modifier</u> without suffering any adverse effects.
+>
+> #### Exemplary
+>
+> You gain an <u>expertise die</u> on <u>Acrobatics</u> and <u>Athletics</u> checks. When your party makes a group Acrobatics or Athletics check, you may apply the results of your <u>expertise die</u> roll to yourself and one ally. You can choose which ally to apply your result to after everyone has rolled, but must do so before the Game Master's says whether you succeed or fail.
+>
+> #### Glorious Purpose
+>
+> When you agree to undertake a quest that specifically fulfills the tenets of your sacred oath, you gain proficiency with a [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - Skills|💃Skills]] that will be crucial to completing that quest. The skill is chosen by the Game Master. If you are already proficient with the skill, you gain an <u>expertise die</u> instead. The benefits of this divine lesson do not change until the quest has been completed.
+>
+> #### Heraldic Order
+>
+> Whenever you would pay for a meal, room, or minor supplies (such as mundane ammunition) roll `1d6`. On a result of `4` or higher the merchant recognizes you as a paladin of an order they either fear or respect and charge you nothing.
+>
+> If you insist on paying, they may offer you information about individuals or places that might be of interest to your paladin order.
+>
+> #### Miraculous Discovery
+>
+> You gain an <u>expertise die</u> on <u>Investigation</u> checks, and your <u>passive Investigation</u> score increases by `3`. Additionally, you can always choose to use your <u>CHA</u> when making <u>Investigation</u> checks.
+>
+> #### Naturalist
+>
+> Choose one type of terrain; arctic, coast, desert, forest, grassland, mountain, subterranean, or swamp. You gain an <u>expertise die</u> on <u>Nature</u> and <u>Survival</u> checks made in this terrain. In addition, once each week when you have run out of Supply, you can spend <u>8 hours</u> in the wilderness to find `1d4+2` Supply.
+>
+> #### Prophetic Protection
+>
+> Whenever you would trigger a trap, the Game Master makes a secret **Charisma (Perception)** check against the DC to spot the trap. _**Success:**_ You do not spot the trap but get a strong sense that moving any further will put you in danger.
+>
+> #### Seek Truths
+>
+> You gain an <u>expertise die</u> on <u>Insight</u> checks made to discern the truth. In addition, after you have made a successful <u>Insight</u> check opposed by a creature’s <u>Deception</u> check, you have **ADV** on <u>Insight</u> checks made against it for <u>24 hours</u>.
+>
+> #### Sense Import
+>
+> Your **Divine Sense** extends to detect whenever you enter a place that is or once was of great holy or unholy significance, and you learn basic information about why or to whom it was important. Additionally, you have **ADV** on checks made to learn more information about the area while you are there.
+>
+> #### Silvered Tongue
+>
+> You gain an <u>expertise die</u> on <u>Intimidation</u> and <u>Persuasion</u> checks. In addition, when you successfully intimidate or persuade a creature, you have **ADV** on <u>Intimidation</u> and <u>Persuasion</u> checks made against it for the next <u>24 hours</u>.
+>
+> #### Undaunted
+>
+> While exploring a place which you have never been to before, you can use your **Reaction** to gain **ADV** on <u>ability checks</u> and <u>attack rolls</u> until the end of your next turn. You can do so a number of times equal to your <u>WIS modifier</u>, and regain spent uses upon finishing a **long rest**.
 
 ### Level 1: Lay on Hands
 
