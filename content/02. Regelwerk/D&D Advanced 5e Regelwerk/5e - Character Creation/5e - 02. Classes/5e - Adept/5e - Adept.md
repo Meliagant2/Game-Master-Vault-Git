@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Adept🦸‍♀️
 created: 2026-07-20T12:11:02.494+02:00
-modified: 2026-07-27T15:01:51.486+02:00
-published: 2026-07-27T15:01:51.486+02:00
+modified: 2026-07-28T08:59:40.851+02:00
+published: 2026-07-28T08:59:40.851+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -123,26 +123,26 @@ This table shows the general progression of every character class. Every column,
 > [!charakterklasse]+ Martial Maneuver Table
 > | Level | Exertion | Maneuvers Known | Maneuver Degree |
 > | :---: | :---: | :---: | :---: |
-> |  1st  |   =2x PB    |        2        |       1st       |
-> |  2nd  |   =2x PB +1     |        2        |       1st       |
-> |  3rd  |   =2x PB +1     |        3        |       1st       |
-> |  4th  |   =2x PB +2     |        3        |       1st       |
-> |  5th  |   =2x PB +2     |        4        |       2nd       |
-> |  6th  |   =2x PB +3     |        4        |       2nd       |
-> |  7th  |   =2x PB +3    |        5        |       2nd       |
-> |  8th  |   =2x PB +4     |        5        |       2nd       |
-> |  9th  |   =2x PB +4     |        6        |       3rd       |
-> | 10th  |   =2x PB +5     |        6        |       3rd       |
-> | 11th  |   =2x PB +5     |        7        |       3rd       |
-> | 12th  |   =2x PB +6     |        7        |       3rd       |
-> | 13th  |   =2x PB +6    |        8        |       4th       |
-> | 14th  |   =2x PB +7     |        8        |       4th       |
-> | 15th  |   =2x PB +7     |        9        |       4th       |
-> | 16th  |   =2x PB +8     |        9        |       4th       |
-> | 17th  |   =2x PB +8     |       10        |       5th       |
-> | 18th  |   =2x PB +9     |       10        |       5th       |
-> | 19th  |   =2x PB +9    |       11        |       5th       |
-> | 20th  |   =2x PB +10     |       11        |       5th       |
+> |  1st  |   = 2 x PB + 0   |        2        |       1st       |
+> |  2nd  |   = 2 x PB + 1      |        2        |       1st       |
+> |  3rd  |   = 2 x PB + 1      |        3        |       1st       |
+> |  4th  |   = 2 x PB + 2      |        3        |       1st       |
+> |  5th  |   = 2 x PB + 2      |        4        |       2nd       |
+> |  6th  |   = 2 x PB + 3      |        4        |       2nd       |
+> |  7th  |   = 2 x PB + 3      |        5        |       2nd       |
+> |  8th  |   = 2 x PB + 4      |        5        |       2nd       |
+> |  9th  |   = 2 x PB + 4      |        6        |       3rd       |
+> | 10th  |   = 2 x PB + 5      |        6        |       3rd       |
+> | 11th  |   = 2 x PB + 5      |        7        |       3rd       |
+> | 12th  |   = 2 x PB + 6      |        7        |       3rd       |
+> | 13th  |   = 2 x PB + 6      |        8        |       4th       |
+> | 14th  |   = 2 x PB + 7      |        8        |       4th       |
+> | 15th  |   = 2 x PB + 7      |        9        |       4th       |
+> | 16th  |   = 2 x PB + 8      |        9        |       4th       |
+> | 17th  |   = 2 x PB + 8      |       10        |       5th       |
+> | 18th  |   = 2 x PB + 9      |       10        |       5th       |
+> | 19th  |   = 2 x PB + 9     |       11        |       5th       |
+> | 20th  |   = 2 x PB + 10      |       11        |       5th       |
 
 ### Level 1: Adroit Defense
 

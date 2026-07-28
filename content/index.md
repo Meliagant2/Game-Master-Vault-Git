@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-27T14:29:20.203+02:00
-published: 2026-07-27T14:29:20.203+02:00
+modified: 2026-07-28T09:02:57.882+02:00
+published: 2026-07-28T09:02:57.882+02:00
 tags:
   - "#Home"
 ---
@@ -12,6 +12,19 @@ tags:
 
 > [!warnung] WICHTIG
 > **Im Augenblick funktioniert auf dieser Website nur der <u>Light mode</u> korrekt, da ich den dark mode noch nicht designed habe. Daher bitte oben links, neben der Suchleiste bitte darauf wechseln, falls der Dark mode aktiviert ist.**
+
+> [!info] Demonstration Table
+> |Test|Demonstration|Hi|
+> |:-|:-:|-:|
+> |some text|Centered text|text to the right|
+> |some text|Centered text|text to the right|
+> |some text|Centered text|text to the right|
+
+|Test|Demonstration|Hi|
+|:-|:-:|-:|
+|some text|Centered text|text to the right|
+|some text|Centered text|text to the right|
+|some text|Centered text|text to the right|
 
 ## Nutzung der Website
 

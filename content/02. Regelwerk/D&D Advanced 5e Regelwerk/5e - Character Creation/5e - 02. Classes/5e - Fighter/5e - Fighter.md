@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Fighter🦸‍♀️
 created: 2026-07-20T12:11:02.557+02:00
-modified: 2026-07-27T15:01:51.493+02:00
-published: 2026-07-27T15:01:51.493+02:00
+modified: 2026-07-28T08:58:21.322+02:00
+published: 2026-07-28T08:58:21.322+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -125,26 +125,26 @@ This table shows the general progression of every character class. Every column,
 > [!charakterklasse]+ Martial Maneuver Table
 > | Level | Exertion | Maneuvers Known | Maneuver Degree |
 > | :---: | :---: | :---: | :---: |
-> |  1st  |   =2x PB    |        3        |       1st       |
-> |  2nd  |   =2x PB     |        4        |       1st       |
-> |  3rd  |   =2x PB     |        4        |       1st       |
-> |  4th  |   =2x PB     |        5        |       1st       |
-> |  5th  |   =3x PB     |        6        |       2nd       |
-> |  6th  |   =3x PB     |        7        |       2nd       |
-> |  7th  |   =3x PB     |        7        |       2nd       |
-> |  8th  |   =3x PB     |        8        |       2nd       |
-> |  9th  |   =3x PB     |        9        |       3rd       |
-> | 10th  |   =3x PB     |        10        |       3rd       |
-> | 11th  |   =3x PB     |        10        |       3rd       |
-> | 12th  |   =3x PB     |        11        |       3rd       |
-> | 13th  |   =3x PB     |        12        |       4th       |
-> | 14th  |   =3x PB     |        13        |       4th       |
-> | 15th  |   =3x PB     |        13        |       4th       |
-> | 16th  |   =3x PB     |        14        |       4th       |
-> | 17th  |   =3x PB     |       15        |       5th       |
-> | 18th  |   =3x PB     |       16        |       5th       |
-> | 19th  |   =3x PB    |       16        |       5th       |
-> | 20th  |   =3x PB     |       17        |       5th       |
+> |  1st  |   = 2 x PB    |        3        |       1st       |
+> |  2nd  |   = 2 x PB     |        4        |       1st       |
+> |  3rd  |  = 2 x PB   |        4        |       1st       |
+> |  4th  | = 2 x PB    |        5        |       1st       |
+> |  5th  |   = 3 x PB     |        6        |       2nd       |
+> |  6th  |  = 3 x PB     |        7        |       2nd       |
+> |  7th  |  = 3 x PB      |        7        |       2nd       |
+> |  8th  | = 3 x PB     |        8        |       2nd       |
+> |  9th  |   = 3 x PB     |        9        |       3rd       |
+> | 10th  |   = 3 x PB      |        10        |       3rd       |
+> | 11th  |  = 3 x PB     |        10        |       3rd       |
+> | 12th  |   = 3 x PB  |        11        |       3rd       |
+> | 13th  |  = 3 x PB      |        12        |       4th       |
+> | 14th  |  = 3 x PB    |        13        |       4th       |
+> | 15th  |  = 3 x PB      |        13        |       4th       |
+> | 16th  | = 3 x PB      |        14        |       4th       |
+> | 17th  |   = 3 x PB     |       15        |       5th       |
+> | 18th  |  = 3 x PB     |       16        |       5th       |
+> | 19th  |   = 3 x PB    |       16        |       5th       |
+> | 20th  |  = 3 x PB    |       17        |       5th       |
 
 ### Level 1: Fighting Style
 
