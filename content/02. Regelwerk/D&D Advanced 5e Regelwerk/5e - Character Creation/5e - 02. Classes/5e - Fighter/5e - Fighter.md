@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Fighter🦸‍♀️
 created: 2026-07-20T12:11:02.557+02:00
-modified: 2026-07-28T09:31:57.523+02:00
-published: 2026-07-28T09:31:57.523+02:00
+modified: 2026-07-28T10:15:06.375+02:00
+published: 2026-07-28T10:15:06.375+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -115,7 +115,7 @@ This table shows the general progression of every character class. Every column,
 > | 12th  | Feat                                            |            3            |      3      |         3         |
 > | 13th  | Martial Archetype Feature                       |            3            |      3      |         4         |
 > | 14th  | Feat                                            |            3            |      3      |         4         |
-> | 15th  | Unrelenting, War's Toll                         |            4            |      3      |         4         |
+> | 15th  | Unrelenting                       |            4            |      3      |         4         |
 > | 16th  | Feat                                            |            4            |      3      |         4         |
 > | 17th  | Martial Archetype Feature                       |            4            |      3      |         5         |
 > | 18th  | Feat                                            |            4            |      3      |         5         |
@@ -408,26 +408,6 @@ As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5
 ### Level 15: Unrelenting
 
 Your Body and Mind are unbreakable. Whenever you use your **Inflexible Feature**, you gain a bonus to the roll equal to `your Fighter Level`. Also you can use the feature <u>twice</u> between <u>long rests</u>.
-
-### Level 15: War’s Toll
-
-Your experiences have left their impressions on you. All the lives ended—both friends and foes—inevitably weighs down on a person, and each must find their own way to cope and pay the toll of war. Choose one of the following.
-
-#### Battle Scarred
-
-You’ve embraced every victory and loss, and you wear each battle scar like a badge of honor. Whenever you are reduced to <u>0 hit points</u> you gain a new permanent scar or mark, and you gain [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Inspiration|✨Inspiration]]. Once you gain inspiration in this way you cannot do so again until you finish a **long rest**.
-
-#### Carouser
-
-You cope through drink and revelry, and have mastered both. You can gain the benefits of a **long rest** by spending 4 hours drinking, carousing, and taking the occasional blackout nap. You can carouse in this way so long as you consume at least 4 pint’s worth of ale (or equivalent drink), and you are alert and aware of your surroundings while doing so. If you carouse with another creature in this way, you can attempt to learn secrets from it by drinking it under the table. Each hour you spend carousing with a willing creature, make an opposed <u>CON</u> check. On a success, that creature answers a question truthfully (even questions it would not normally answer).
-
-In addition, you can enjoy alcohol as normal but can’t gain the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Poisoned|☠️Poisoned]] condition from it.
-
-This feature has no effect on creatures that are immune to the poisoned condition.
-
-#### One Eye Open
-
-Your life has been so regularly in danger that you’ve learned to literally sleep with one eye open. You are alert and aware of your surroundings while sleeping during long rests . You can also never be <u>surprised</u> and you gain an <u>expertise die</u> on <u>initiative</u> checks.
 
 ### Level 16: Feat
 

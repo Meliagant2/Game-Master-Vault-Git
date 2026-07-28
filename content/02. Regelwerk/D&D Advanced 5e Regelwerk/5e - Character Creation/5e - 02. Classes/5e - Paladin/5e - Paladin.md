@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Paladin🦸‍♀️
 created: 2026-07-20T12:11:02.575+02:00
-modified: 2026-07-28T09:52:05.565+02:00
-published: 2026-07-28T09:52:05.565+02:00
+modified: 2026-07-28T12:13:05.224+02:00
+published: 2026-07-28T12:13:05.224+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -12,47 +12,21 @@ dateitags:
   - "#Classes"
   - "#5e"
 image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Paladin 5e.png]]"
-status: ⏳
+status: ✅
+kurzbeschreibung: An oathbound warrior driven by an inner strength to champion their cause through might and holy magic.
 ---
-
-> [!metadata]- Metadata
->
-> > [!metadataoption]- Status
-> >
-> > #### Status
-> >
-> > | | |
-> > |---|---|
-> > |**Status** | `INPUT[Status][:status]` |
-> > |**Publish**|`INPUT[inlineSelect(option(true), option(false)):publish]`|
->
-> > [!metadataoption]- Bild
-> >
-> > #### Bild
-> >
-> > | | |
-> > |---|---|
-> > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
->
-> > [!metadataoption]- Info
-> >
-> > #### Info
-> >
-> > | | |
-> > |---|---|
-> > |**Display Title** | `INPUT[textArea:title]`|
-> > |**Kurzbeschreibung** | `INPUT[textArea:kurzbeschreibung]`|
 
 # 🦸‍♀️5e - Paladin🦸‍♀️
 
 > [!lore] Kurzbeschreibung
+> An oathbound warrior driven by an inner strength to champion their cause through might and holy magic.
 
 > [!bildrechts]
 > ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Paladin 5e.png|Regelwerk Klasse Paladin 5e.png]]
 
 Clad in plate armor that gleams in the sunlight despite the dust and grime of long travel, a human lays down her sword and shield and places her hands on a mortally wounded man. Divine radiance shines from her hands, the man’s wounds knit closed, and his eyes open wide with amazement.
-A dwarf crouches behind an outcrop, his black cloak making him nearly invisible in the night, and watches an orc war band
-celebrating its recent victory. Silently, he stalks into their midst and whispers an oath, and two orcs are dead before they even realize he is there.
+
+A dwarf crouches behind an outcrop, his black cloak making him nearly invisible in the night, and watches an orc war band celebrating its recent victory. Silently, he stalks into their midst and whispers an oath, and two orcs are dead before they even realize he is there.
 
 Silver hair shining in a shaft of light that seems to illuminate only him, an elf laughs with exultation. His spear flashes like his eyes as he jabs again and again at a twisted giant, until at last his light overcomes its hideous darkness.
 
@@ -73,16 +47,16 @@ Adventuring paladins take their work seriously. A delve into an ancient ruin or 
 > [!charakterklasse]+ Core Class Traits
 > |  |   |
 > | -- | --- |
-> |**Primary Ability**||
-> |**Hit Point Die**||
-> |**Saving Throw Proficiencies** ||
-> |**Skill Proficiencies**||
-> |**Tool Proficiencies**||
-> |**Weapon Proficiencies**||
-> |**Armor Training**||
-> |**Starting Equipment**||
+> |**Primary Ability**|Strength and Charisma|
+> |**Hit Point Die**|D10 per Paladin level|
+> |**Saving Throw Proficiencies** |Wisdom and Charisma|
+> |**Skill Proficiencies**|<u>Choose 2:</u> Athletics, Acrobatics, History, Insight, Intimidation, Medicine, Persuasion, and Religion|
+> |**Tool Proficiencies**|-|
+> |**Weapon Proficiencies**|All|
+> |**Armor Training**|All|
+> |**Starting Equipment**|Choose A or B: **(A)** Handaxe (4), hauberk, priest’s pack; **(B)** Longsword, hauberk, medium shield, explorer’s pack|
 
-## Becoming a XXX
+## Becoming a Paladin
 
 When making your paladin, ask yourself these questions: What is the cause they have dedicated themself to? Do they serve a deity, a philosophy, or something else entirely different? Why have they chosen this path? Who do they consider the greatest threat?
 
@@ -294,8 +268,18 @@ You choose one 🦸‍♀️5e - Paladin🦸‍♀️ Subclass, which represents
 
 Your 🦸‍♀️5e - Paladin🦸‍♀️ Subclass grants you features at 3rd, 6th, 9th, 13th, and again at 17th level.
 
-| Subclass | Description |
-| -------- | ----------- |
+| Subclass                                                                                                                                                  | Description                                                                                                                                                                                                                                                                                          |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Paladin/5e - Oath of Conquest.md\|5e - Oath of Conquest]]         | The Oath of Conquest calls to paladins who seek glory in battle and the subjugation of their enemies. It isn’t enough for these paladins to establish order. They must crush the forces of chaos.                                                                                                    |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Paladin/5e - Oath of Devotion.md\|5e - Oath of Devotion]]         | The Oath of Devotion binds a paladin to the loftiest ideals of justice, virtue, and order. Sometimes called cavaliers, white knights, or holy warriors, these paladins meet the ideal of the knight in shining armor, acting with honor in pursuit of justice and the greater good.                  |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Paladin/5e - Oath of Glory.md\|5e - Oath of Glory]]               | Paladins who take the Oath of Glory believe they and their companions are destined to achieve glory through deeds of heroism. They train diligently and encourage their companions so they’re all ready when destiny calls.                                                                          |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Paladin/5e - Oath of Redemption.md\|5e - Oath of Redemption]]     | The Oath of Redemption sets a paladin on a difficult path, one that requires a holy warrior to use violence only as a last resort. Paladins who dedicate themselves to this oath believe that any person can be redeemed and that the path of benevolence and justice is one that anyone can walk.   |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Paladin/5e - Oath of the Ancients.md\|5e - Oath of the Ancients]] | The Oath of the Ancients is as old as the first elves. Paladins who swear this oath cherish the light; they love the beautiful and life-giving things of the world more than any principles of honor, courage, and justice.                                                                          |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Paladin/5e - Oath of the Crown.md\|5e - Oath of the Crown]]       | The Oath of the Crown is sworn to the ideals of civilization, be it the spirit of a nation, fealty to a sovereign, or service to a deity of law and rulership. The paladins who swear this oath dedicate themselves to serving society and, in particular, the just laws that hold society together. |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Paladin/5e - Oath of the Open Sea.md\|5e - Oath of the Open Sea]] | The Oath of the Open Sea calls to seafaring warriors, swashbuckling sailors, and traveling guardians who seek the thrill of a limitless horizon.                                                                                                                                                     |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Paladin/5e - Oath of the Watchers.md\|5e - Oath of the Watchers]] | The Oath of the Watchers binds paladins to protect mortal realms from the predations of extraplanar creatures, many of which can lay waste to mortal soldiers.                                                                                                                                       |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Paladin/5e - Oath of Vengeance.md\|5e - Oath of Vengeance]]       | The Oath of Vengeance is a solemn commitment to punish those who have committed a grievous sin. To these paladins — sometimes called avengers or dark knights — their own purity is not as important as delivering justice.                                                                          |
+| [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Paladin/5e - Oathless.md\|5e - Oathless]]                         | Not all paladins are able to hold to their Sacred Oaths. Some break their Oath and fall into evil, becoming Blackguards and Oathbreakers, but not all who falter become paragons of evil.                                                                                                            |
 
 ### Level 4: Feat
 
@@ -333,9 +317,9 @@ You radiate an unseeable aura in a <u>10-foot Emanation</u> that originates fr
 
 When you use your **Paladin's Smite**, you may choose from these additional options.
 
-**<u>Shining (Cost: 2d8):</u>** The target makes a **DEX Save**. _**Failure:**_ It sheds [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Illumination/5e - Bright Light|💡Bright Light]] in a <u>5-foot radius emanation</u> until the start of your next turn. During this period, it can't benefit from the invisible condition and all attack rolls against it have advantage.
+**<u>Shining (Cost: 2d8):</u>** The target makes a **repeated DEX Save**. _**Failure:**_ It sheds [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Illumination/5e - Bright Light|💡Bright Light]] in a <u>5-foot radius emanation</u> for <u>1 Minute</u>. During this period, it can't benefit from the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Invisible|☠️Invisible]] condition and all <u>attack rolls</u> against it have **ADV**.
 
-**<u>Searing (Cost: 2d8):</u>** The damage type of your Paladin's Smite is fire damage. The target takes 1d8 ongoing fire damage at the start of its turns for 1 minute. At the end of a creatures turn it may make a Constitution saving throw against your spell save DC. On a successful save the effect ends.
+**<u>Searing (Cost: 2d8):</u>** The damage type of your **Paladin's Smite** is <u>fire</u> damage. The Target starts [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Burning|☠️Burning]] for 1 Minute. It makes **repeated CON Saves** to end the effect.
 
 ### Level 9: 🦸‍♀️5e - Paladin🦸‍♀️ Subclass
 
@@ -345,7 +329,17 @@ Your 🦸‍♀️5e - Paladin🦸‍♀️ Subclass grants you features at 3rd,
 
 As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
-### Level 11: XXX
+### Level 11: Greater Improved Paladin's Smite
+
+When you use your Paladin's Smite, you may choose from these additional options.
+
+**<u>Blinding (Cost: 2d8):</u>** The target makes a **repeated CON Save**. _**Failure:**_ The Target is [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Blinded|☠️Blinded]] for <u>1 Minute</u>. _**Success:**_ The Target is [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Hindered|☠️Hindered]] until the end of its next turn.
+
+**<u>Staggering (Cost: 2d8):</u>** The damage type of your **Paladin's Smite** is <u>psychic</u> damage. The target makes a **WIS Save**. _**Failure:**_ The Target is [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Stunned|☠️Stunned]] until the end of your next turn. _**Success:**_ The Target is [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Rattled|☠️Rattled]] instead.
+
+### Level 11: Radiant Strikes
+
+You are so suffused with divine might that your weapon strikes carry supernatural power with them. When you hit a target with an attack roll using a <u>melee weapon</u> or an <u>Unarmed Strike</u>, the target takes an extra `1d8` <u>Radiant</u> damage.
 
 ### Level 12: Feat
 
@@ -359,7 +353,27 @@ Your 🦸‍♀️5e - Paladin🦸‍♀️ Subclass grants you features at 3rd,
 
 As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
-### Level 15: XXX
+### Level 15: Improved Sacred Aura
+
+You gain a more powerful aura that is active alongside your **Sacred Aura**. The range of this aura is the same, and you can only have one **Improved  Sacred Aura** active at a time. You can swap your active improved aura upon finishing a **long rest**.
+
+**<u>Aura of Courage:</u>** You and allies within range cannot be [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Frightened|☠️Frightened]].
+
+**<u>Aura of Smiting:</u>** Whenever an ally within your aura scores a [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Checks & Saves Outcomes/5e - Critical Success|🎲Critical Hit]] with a <u>weapon attack</u>, they deal additional <u>radiant</u> damage equal to `1/2 x your paladin level (rounded down)`.
+
+**<u>Aura of Willpower:</u>** You and allies within range cannot be [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]].
+
+### Level 15: Infectious Resolve
+
+You can use your **Action** to touch one willing creature (or yourself) and choose one of the following effects.
+
+**<u>All In:</u>** The target gains **ADV** on its next weapon attack, and deals an extra `2d8` <u>radiant</u> damage on a hit.
+
+**<u>Iron Will:</u>** For the next <u>1 minute</u>, as long as you are conscious the target gains **ADV** on **WIS Saves**.
+
+**<u>Walk It Off:</u>** One <u>spell effect</u> or [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Conditions|☠️Condition]] affecting the target ends.
+
+Once you have used this feature a number of times equal to <u>your CHA modifier</u>, you cannot do so again until you finish a **long rest**.
 
 ### Level 16: Feat
 
@@ -373,7 +387,15 @@ Your 🦸‍♀️5e - Paladin🦸‍♀️ Subclass grants you features at 3rd,
 
 As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
-### Level 19: XXX
+### Level 19: Supreme Paladin's Smite
+
+When you use your Paladin's Smite, you may choose from these additional options.
+
+**Banishing (Cost: 2d8)** The damage type of the **Paladin's Smite** is <u>force</u> damage. The target must succeed on a **CHA Save**. _**Failure:**_ The Target is transported to a harmless demiplane for <u>1 Minute</u> and is [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]] for the duration. A target with more than <u>50 hit points</u> remaining reappears at the start of your next turn in the space it left or the nearest unoccupied space if that space is occupied.
+
+### Level 19: Aura Expansion
+
+The range of your **auras** increase to <u>30 feet</u>.
 
 ### Level 20: Epic Boon
 
