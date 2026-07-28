@@ -2,8 +2,8 @@
 publish: true
 title: ✨5e - Arcane Spell List✨
 created: 2026-07-20T12:11:02.704+02:00
-modified: 2026-07-28T15:06:05.637+02:00
-published: 2026-07-28T15:06:05.637+02:00
+modified: 2026-07-28T15:36:24.879+02:00
+published: 2026-07-28T15:36:24.879+02:00
 tags:
   - "#Combatrules"
   - "#5e"
@@ -50,7 +50,9 @@ views:
       - saveart
       - effekt
     sort:
-      - property: reichweite
+      - property: magielevel
+        direction: ASC
+      - property: file.name
         direction: ASC
     image: note.image
     cardSize: 150

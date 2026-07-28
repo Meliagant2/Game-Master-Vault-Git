@@ -2,8 +2,8 @@
 publish: true
 title: 💡5e - Dim Light💡
 created: 2026-07-22T07:30:53.425+02:00
-modified: 2026-07-27T15:07:19.438+02:00
-published: 2026-07-27T15:07:19.438+02:00
+modified: 2026-07-28T15:40:35.298+02:00
+published: 2026-07-28T15:40:35.298+02:00
 tags:
   - "#Charaktererstellung"
   - "#Grundregeln"
