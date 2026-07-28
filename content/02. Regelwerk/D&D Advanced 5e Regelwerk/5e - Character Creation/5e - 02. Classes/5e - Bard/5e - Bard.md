@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Bard🦸‍♀️
 created: 2026-07-20T12:11:02.526+02:00
-modified: 2026-07-23T11:14:52.510+02:00
-published: 2026-07-23T11:14:52.510+02:00
+modified: 2026-07-28T09:07:45.614+02:00
+published: 2026-07-28T09:07:45.614+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -206,13 +206,13 @@ Whenever you gain a bard level, you may swap one battle hymn you know for a new 
 ### Level 1: Spellcasting
 
 **<u>Spellcasting Ability:</u>** Charisma
+**<u>Spell Attack:</u>** `CHA + Proficiency Bonus`
+**<u>Spell Save DC:</u>** `10 + CHA + Proficiency Bonus`
 **<u>Spellcasting Focus:</u>** Musical Instruments
 **<u>Spell List:</u>** Bard Spell list and choose one: Arcane, Divine, Primal
 **<u>Spell Slots:</u>** The Spellcaster Table shows how many Spell Slots you have to cast Spells. To cast one of these Spells, you must expend a Slot of the Spell’s level or higher. You regain all expended spell slots when you finish a Long Rest.
 **<u>Cantrips:</u>** Whenever you gain a Level in this Class, you can replace one of your cantrips with another cantrip of your choice from your Spell List.
 **<u>Spells:</u>** You know a number of spells from your Spell List as shown in the Spellcaster Table. Whenever you gain a Level in this Class, you can replace one of your known spells with another spell of your choice from your Spell List for which you have Spell Slots.
-**<u>Spell Attack:</u>** Spellcasting Ability + Proficiency Bonus
-**<u>Spell Save DC:</u>** 10 + Spellcasting Ability + Proficiency Bonus
 
 #### Bard Spell List
 

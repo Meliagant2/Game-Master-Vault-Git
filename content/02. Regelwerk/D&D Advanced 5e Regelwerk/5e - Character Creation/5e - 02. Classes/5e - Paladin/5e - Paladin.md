@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Paladin🦸‍♀️
 created: 2026-07-20T12:11:02.575+02:00
-modified: 2026-07-28T09:00:21.334+02:00
-published: 2026-07-28T09:00:21.334+02:00
+modified: 2026-07-28T09:09:39.344+02:00
+published: 2026-07-28T09:09:39.344+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -129,6 +129,28 @@ This table shows the general progression of every character class. Every column,
 ## Class Features
 
 > [!charakterklasse]+ Class Features Table
+> | Level | Features                                                  | Channel Divinity | Divine Lessons |
+> | :---: | :-------------------------------------------------------- | :--------------: | :------------: |
+> |  1st  | Divine Lessons, Lay on Hands, Spellcasting                |        —         |       1        |
+> |  2nd  | Channel Divinity, Combat Maneuvers, Paladin's Smite, Feat |        1         |       1        |
+> |  3rd  | Sacred Oath                                               |        2         |       1        |
+> |  4th  | Feat                                                      |        2         |       1        |
+> |  5th  | Extra Attack, Faithful Steed                              |        2         |       2        |
+> |  6th  | Sacred Oath Feature                                       |        2         |       2        |
+> |  7th  | Feat                                                      |        2         |       3        |
+> |  8th  | Improved Paladin's Smite, Sacred Aura                     |        2         |       3        |
+> |  9th  | Sacred Oath Feature                                       |        2         |       4        |
+> | 10th  | Feat                                                      |        2         |       4        |
+> | 11th  | Greater Improved Paladin's Smite, Radiant Strikes         |        3         |       5        |
+> | 12th  | Feat                                                      |        3         |       5        |
+> | 13th  | Sacred Oath Feature                                       |        3         |       5        |
+> | 14th  | Feat                                                      |        3         |       6        |
+> | 15th  | Improved Sacred Aura, Infectious Resolve                  |        3         |       6        |
+> | 16th  | Feat                                                      |        3         |       6        |
+> | 17th  | Sacred Oath Feature                                       |        3         |       6        |
+> | 18th  | Feat                                                      |        3         |       6        |
+> | 19th  | Aura Expansion, Supreme Paladin's Smite                   |        3         |       7        |
+> | 20th  | Epic Boon, Feat                                           |        3         |       7        |
 
 > [!charakterklasse]+ Spellcaster Table: Half Caster
 > | Level | Exertion | Maneuvers | Maneuver Degree | Cantrips | Spells | 1st | 2nd | 3rd | 4th | 5th |
@@ -154,7 +176,30 @@ This table shows the general progression of every character class. Every column,
 > | 19th  |  = PB          |     8     |       4th       |    4     |   15   |  4  |  3  |  3  |  3  |  2  |
 > | 20th  |  = PB          |     8     |       4th       |    4     |   15   |  4  |  3  |  3  |  3  |  2  |
 
-### Level 1: XXX
+### Level 1: Divine Lessons
+
+1st-level Paladin Feature
+
+In preparing to take your oath, you have learned a number of skills and tricks that can help you during your adventures. You gain a divine lesson of your choice. The divine lessons available to you are detailed at the end of the class description. The Lessons Known column of the Paladin table shows when you learn more divine lessons.
+
+### Level 1: Lay on Hands
+
+Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you take a Long Rest. With that pool, you can restore a total number of Hit Points equal to five times your Paladin level.
+
+As a Bonus Action, you can touch a creature (which could be yourself) and draw power from the pool of healing to restore a number of Hit Points to that creature, up to the maximum amount remaining in the pool.
+
+In addition, you can expend 5 Hit Points from the pool of healing to remove the Poisoned condition from the creature, rather than using those points to restore Hit Points.
+
+### Level 1: Spellcasting
+
+**<u>Spellcasting Ability:</u>** Charisma
+**<u>Spell Attack:</u>** `CHA + Proficiency Bonus`
+**<u>Spell Save DC:</u>** `10 + CHA + Proficiency Bonus`
+**<u>Spellcasting Focus:</u>** Holy Symbol
+**<u>Spell List:</u>** Paladin Spell list and Divine Spell List
+**<u>Spell Slots:</u>** The Spellcaster Table shows how many Spell Slots you have to cast Spells. To cast one of these Spells, you must expend a Slot of the Spell’s level or higher. You regain all expended spell slots when you finish a Long Rest.
+**<u>Cantrips:</u>** Whenever you gain a Level in this Class, you can replace one of your cantrips with another cantrip of your choice from your Spell List.
+**<u>Spells:</u>** Whenever you finish a Long Rest, you can change your list of prepared spells, replacing one or more of the spells there with other spells from your Spell List for which you have spell slots.
 
 ### Level 2: XXX
 
