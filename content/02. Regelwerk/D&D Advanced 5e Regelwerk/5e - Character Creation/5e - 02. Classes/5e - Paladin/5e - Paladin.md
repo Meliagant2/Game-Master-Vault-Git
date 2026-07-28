@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Paladin🦸‍♀️
 created: 2026-07-20T12:11:02.575+02:00
-modified: 2026-07-28T09:26:10.707+02:00
-published: 2026-07-28T09:26:10.707+02:00
+modified: 2026-07-28T09:52:05.565+02:00
+published: 2026-07-28T09:52:05.565+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -243,11 +243,11 @@ In preparing to take your oath, you have learned a number of skills and tricks t
 
 ### Level 1: Lay on Hands
 
-Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you take a Long Rest. With that pool, you can restore a total number of Hit Points equal to five times your Paladin level.
+Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you take a **Long Rest**. With that pool, you can restore a total number of <u>Hit Points</u> equal to `5 x your Paladin level.`
 
-As a Bonus Action, you can touch a creature (which could be yourself) and draw power from the pool of healing to restore a number of Hit Points to that creature, up to the maximum amount remaining in the pool.
+As a **Bonus Action**, you can touch a creature (which could be yourself) and draw power from the pool of healing to restore a number of <u>Hit Points</u> to that creature, up to the maximum amount remaining in the pool.
 
-In addition, you can expend 5 Hit Points from the pool of healing to remove the Poisoned condition from the creature, rather than using those points to restore Hit Points.
+In addition, you can expend <u>5 Hit Points</u> from the pool of healing to remove the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Poisoned|☠️Poisoned]] condition from the creature, rather than using those points to restore Hit Points.
 
 ### Level 1: Spellcasting
 
@@ -260,7 +260,29 @@ In addition, you can expend 5 Hit Points from the pool of healing to remove the 
 **<u>Cantrips:</u>** Whenever you gain a Level in this Class, you can replace one of your cantrips with another cantrip of your choice from your Spell List.
 **<u>Spells:</u>** Whenever you finish a Long Rest, you can change your list of prepared spells, replacing one or more of the spells there with other spells from your Spell List for which you have spell slots.
 
-### Level 2: XXX
+### Level 2: Combat Maneuvers
+
+You gain the ability to use combat maneuvers. You gain proficiency in two **combat traditions** from the following list: [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Sanguine Knot Tradition/5e - Sanguine Knot Tradition|🤺Sanguine Knot]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Spirited Steed Tradition/5e - Spirited Steed Tradition|🤺Spirited Steed]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Tempered Iron Tradition/5e - Tempered Iron Tradition|🤺Tempered Iron]]. You learn <u>two</u> <u>maneuvers</u> of your choice from traditions you are proficient with.
+
+You gain an [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Exertion|🤺Exertion]] pool equal to `your proficiency bonus`, regaining any spent exertion at the end of a [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Short Rest|😴Short]] or [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Long Rest|😴Long Rest]]. You use your maneuvers by spending points from your <u>exertion pool</u>. Also, at the start of each of your turns you can expend spell slots of `1st-level` or higher to gain a number of exertion points equal to the expended spell slot level (**no action** required).
+
+The <u>Maneuvers Known column</u> of the Paladin table shows when you learn more maneuvers from a tradition you are proficient with, while the<u> Maneuver Degree</u> column shows the highest degree you can select maneuvers from at a given level.
+
+Additionally, whenever you learn a new maneuver, you can choose one of the maneuvers you know and replace it with another maneuver of the same degree from a tradition you are proficient with.
+
+### Level 2: Paladin's Smite
+
+When you strike a target, you can channel divine energy to smite it. Immediately after you hit a target with an attack roll using a <u>melee weapon</u> or an <u>Unarmed Strike</u>, you can expend one <u>Spell Slot</u> to deal <u>Radiant</u> Damage to the target.
+
+The damage is `1d8 + the Spell Slot's Level`.
+
+Also when you deal Paladin's Smite damage you can add one of the following effects. Each effect has a <u>die cost</u>, which is the number of **Paladin's Smite** <u>damage dice</u> you must forego to add the effect. You remove the die before rolling, and the effect occurs immediately after the attack's damage is dealt. If a Smite requires a saving throw, your **Smite save DC** equals your **Spell Save DC**.
+
+**<u>Thunderous (Cost: 1d8):</u>** The damage type of your **Paladin's Smite** is <u>thunder</u> damage. The target makes a **STR Save**. _**Failure:**_ The Target is pushed <u>10 feet</u> away from you and is [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]].
+
+**<u>Wrathful (Cost: 1d8):</u>** The damage type of the **Paladin's Smite** is <u>psychic</u> damage. The target makes a **WIS Save**. _**Failure:**_ The Target is [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Frightened|☠️Frightened]] until the end of your next turn.
+
+You can use your Paladin's Smite no more than <u>once</u> during a turn, and you can't use it on the same turn that you cast a <u>Spell</u> using your **Bonus Action**.
 
 ### Level 2: Feat
 
@@ -279,7 +301,15 @@ Your 🦸‍♀️5e - Paladin🦸‍♀️ Subclass grants you features at 3rd,
 
 As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
-### Level 5: XXX
+### Level 5: Extra Attack
+
+You can attack twice, instead of once, when you take the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Attack (Action)|⚔️Attack]]-Action on your turn.
+
+### Level 5: Faithful Steed
+
+You can easily call on the aid of an otherworldly steed. You always have the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Level 2 Conjuration/5e - Find Steed (Spell)|☄️Find Steed]] spell prepared.
+
+You can also cast the spell <u>once</u> without expending a spell slot, and you regain the ability to do so when you finish a **Long Rest**. If you cast the Spell in this way, you treat it as if you had used a Spell Slot of the highest level available to you.
 
 ### Level 6: 🦸‍♀️5e - Paladin🦸‍♀️ Subclass
 
@@ -289,7 +319,23 @@ Your 🦸‍♀️5e - Paladin🦸‍♀️ Subclass grants you features at 3rd,
 
 As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
-### Level 8: XXX
+### Level 8: Sacred Aura
+
+You radiate an unseeable aura in a <u>10-foot Emanation</u> that originates from you. The aura is inactive while you have the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]] condition. You can have only one of the following auras active at a time, and can change which aura is active whenever you finish a **long rest**. At <u>19th level</u>, the range of all auras (including the ones given to you by your subclass) increases to <u>30 feet</u>. A creature can benefit from this feature from only one paladin at a time.
+
+**<u>Aura of Healing:</u>** Whenever you or an ally cast a <u>spell</u> to <u>heal</u> yourself or another ally while both are within your aura, both the spellcaster and target gain additional <u>hit points</u> equal to `3 x your CHA modifier`.
+
+**<u>Aura of Overcoming:</u>** You and allies within range of your aura gain a bonus on <u>melee weapon damage rolls</u> equal to `your CHA modifier` (minimum of `+1`).
+
+**<u>Aura of Protection:</u>** You and allies within range of your aura gain a bonus on <u>Saves</u> equal to `your CHA modifier` (minimum of `+1`).
+
+### Level 8: Improved Paladin's Smite
+
+When you use your **Paladin's Smite**, you may choose from these additional options.
+
+**<u>Shining (Cost: 2d8):</u>** The target makes a **DEX Save**. _**Failure:**_ It sheds [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Illumination/5e - Bright Light|💡Bright Light]] in a <u>5-foot radius emanation</u> until the start of your next turn. During this period, it can't benefit from the invisible condition and all attack rolls against it have advantage.
+
+**<u>Searing (Cost: 2d8):</u>** The damage type of your Paladin's Smite is fire damage. The target takes 1d8 ongoing fire damage at the start of its turns for 1 minute. At the end of a creatures turn it may make a Constitution saving throw against your spell save DC. On a successful save the effect ends.
 
 ### Level 9: 🦸‍♀️5e - Paladin🦸‍♀️ Subclass
 

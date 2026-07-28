@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Fighter🦸‍♀️
 created: 2026-07-20T12:11:02.557+02:00
-modified: 2026-07-28T08:58:21.322+02:00
-published: 2026-07-28T08:58:21.322+02:00
+modified: 2026-07-28T09:31:57.523+02:00
+published: 2026-07-28T09:31:57.523+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -246,7 +246,7 @@ You can use this feature a number of times as shown in the <u>Second Wind column
 
 You gain the ability to use [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Maneuvers|🤺Combat Maneuvers]]. You gain proficiency in two **combat traditions** of your choice. You learn <u>three</u> <u>maneuvers</u> of your choice from traditions you are proficient with.
 
-You gain an [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Exertion|🤺Exertion]] pool equal to twice your proficiency bonus, regaining any spent exertion at the end of a [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Short Rest|😴Short]] or [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Long Rest|😴Long Rest]].  You use your maneuvers by spending points from your <u>exertion pool</u>. The <u>Maneuvers Known column</u> of the Fighter table shows when you learn more maneuvers from a tradition you are proficient with, while the <u>Maneuver Degree column</u> shows the highest degree you can select maneuvers from at a given level.
+You gain an [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Exertion|🤺Exertion]] pool equal to `2 x your proficiency bonus`, regaining any spent exertion at the end of a [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Short Rest|😴Short]] or [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Long Rest|😴Long Rest]].  You use your maneuvers by spending points from your <u>exertion pool</u>. The <u>Maneuvers Known column</u> of the Fighter table shows when you learn more maneuvers from a tradition you are proficient with, while the <u>Maneuver Degree column</u> shows the highest degree you can select maneuvers from at a given level.
 
 Additionally, whenever you learn a new maneuver, you can choose one of the maneuvers you know and replace it with another maneuver of the same degree from a tradition you are proficient with.
 

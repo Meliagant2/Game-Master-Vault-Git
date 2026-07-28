@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-28T09:28:08.990+02:00
-published: 2026-07-28T09:28:08.990+02:00
+modified: 2026-07-28T09:52:43.455+02:00
+published: 2026-07-28T09:52:43.455+02:00
 tags:
   - "#Home"
 ---
@@ -28,6 +28,9 @@ tags:
 
 |Test|Demonstration|Hi|
 |:-|:-:|-:|
+|some text|Centered text|text to the right|
+|some text|Centered text|text to the right|
+|some text|Centered text|text to the right|
 |some text|Centered text|text to the right|
 |some text|Centered text|text to the right|
 |some text|Centered text|text to the right|
