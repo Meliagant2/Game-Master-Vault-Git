@@ -1,18 +1,20 @@
 ---
 publish: true
-title: ☄️5e - Primal Spell List☄️
-created: 2026-07-20T12:11:02.819+02:00
-modified: 2026-07-29T14:19:42.567+02:00
-published: 2026-07-29T14:19:42.567+02:00
+title: ☄️5e - Enchantment Spellschool☄️
+created: 2026-07-21T10:25:40.415+02:00
+modified: 2026-07-29T14:33:53.031+02:00
+published: 2026-07-29T14:33:53.031+02:00
 tags:
   - "#Combatrules"
   - "#5e"
 status: ✅
 ---
 
-# ☄️5e - Primal Spell List☄️
+# ☄️5e - Enchantment Spellschool☄️
 
-## List of all Primal Spells:
+Enchantment spells twist the mind.
+
+## List of all Enchantment Spells:
 
 ```base
 properties:
@@ -32,12 +34,12 @@ properties:
     displayName: Damage/Effect
 views:
   - type: table
-    name: 5e all Primal Spells
+    name: 5e all Enchantment Spells
     filters:
       and:
         - dateitags.contains("#Spell")
         - dateitags.contains("#5e")
-        - zauberliste.contains("Primal")
+        - magieschule.contains("Enchantment")
     order:
       - file.name
       - magielevel
@@ -65,12 +67,12 @@ views:
       note.reichweite: 132
       note.saveart: 50
   - type: table
-    name: 5e Primal Cantrips
+    name: 5e Enchantment Cantrips
     filters:
       and:
         - dateitags.contains("#Spell")
         - dateitags.contains("#5e")
-        - zauberliste.contains("Primal")
+        - magieschule.contains("Enchantment")
         - magielevel == 0
     order:
       - file.name
@@ -99,12 +101,12 @@ views:
       note.reichweite: 132
       note.saveart: 50
   - type: table
-    name: 5e 1st level Primal
+    name: 5e 1st level Enchantment
     filters:
       and:
         - dateitags.contains("#Spell")
         - dateitags.contains("#5e")
-        - zauberliste.contains("Primal")
+        - magieschule.contains("Enchantment")
         - magielevel == 1
     order:
       - file.name
@@ -133,12 +135,12 @@ views:
       note.reichweite: 132
       note.saveart: 50
   - type: table
-    name: 5e 2nd level Primal
+    name: 5e 2nd level Enchantment
     filters:
       and:
         - dateitags.contains("#Spell")
         - dateitags.contains("#5e")
-        - zauberliste.contains("Primal")
+        - magieschule.contains("Enchantment")
         - magielevel == 2
     order:
       - file.name
@@ -167,12 +169,12 @@ views:
       note.reichweite: 132
       note.saveart: 50
   - type: table
-    name: 5e 3rd level Primal
+    name: 5e 3rd level Enchantment
     filters:
       and:
         - dateitags.contains("#Spell")
         - dateitags.contains("#5e")
-        - zauberliste.contains("Primal")
+        - magieschule.contains("Enchantment")
         - magielevel == 3
     order:
       - file.name
@@ -201,12 +203,12 @@ views:
       note.reichweite: 132
       note.saveart: 50
   - type: table
-    name: 5e 4th level Primal
+    name: 5e 4th level Enchantment
     filters:
       and:
         - dateitags.contains("#Spell")
         - dateitags.contains("#5e")
-        - zauberliste.contains("Primal")
+        - magieschule.contains("Enchantment")
         - magielevel == 4
     order:
       - file.name
@@ -235,12 +237,12 @@ views:
       note.reichweite: 132
       note.saveart: 50
   - type: table
-    name: 5e 5th level Primal
+    name: 5e 5th level Enchantment
     filters:
       and:
         - dateitags.contains("#Spell")
         - dateitags.contains("#5e")
-        - zauberliste.contains("Primal")
+        - magieschule.contains("Enchantment")
         - magielevel == 5
     order:
       - file.name
@@ -269,12 +271,12 @@ views:
       note.reichweite: 132
       note.saveart: 50
   - type: table
-    name: 5e 6th level Primal
+    name: 5e 6th level Enchantment
     filters:
       and:
         - dateitags.contains("#Spell")
         - dateitags.contains("#5e")
-        - zauberliste.contains("Primal")
+        - magieschule.contains("Enchantment")
         - magielevel == 6
     order:
       - file.name
@@ -303,12 +305,12 @@ views:
       note.reichweite: 132
       note.saveart: 50
   - type: table
-    name: 5e 7th level Primal
+    name: 5e 7th level Enchantment
     filters:
       and:
         - dateitags.contains("#Spell")
         - dateitags.contains("#5e")
-        - zauberliste.contains("Primal")
+        - magieschule.contains("Enchantment")
         - magielevel == 7
     order:
       - file.name
@@ -337,12 +339,12 @@ views:
       note.reichweite: 132
       note.saveart: 50
   - type: table
-    name: 5e 8th level Primal
+    name: 5e 8th level Enchantment
     filters:
       and:
         - dateitags.contains("#Spell")
         - dateitags.contains("#5e")
-        - zauberliste.contains("Primal")
+        - magieschule.contains("Enchantment")
         - magielevel == 8
     order:
       - file.name
@@ -371,12 +373,12 @@ views:
       note.reichweite: 132
       note.saveart: 50
   - type: table
-    name: 5e 9th level Primal
+    name: 5e 9th level Enchantment
     filters:
       and:
         - dateitags.contains("#Spell")
         - dateitags.contains("#5e")
-        - zauberliste.contains("Primal")
+        - magieschule.contains("Enchantment")
         - magielevel == 9
     order:
       - file.name
