@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-29T13:20:23.754+02:00
-published: 2026-07-29T13:20:23.754+02:00
+modified: 2026-07-29T14:35:27.185+02:00
+published: 2026-07-29T14:35:27.185+02:00
 tags:
   - "#Home"
 ---
@@ -89,6 +89,10 @@ Müssen leider von den physischen Orten abgetrennt sein, da sich Ländergrenzen 
 Regelwerke werden immer in der Sprache aufgeführt, in der sie mir am einfachsten zur Verfügung stehen (ergo meistens englisch). Manches habe ich aber ins deutsche übersetzt.
 
 > [!warnung] Aktueller Fortschritt der Übertragung aus Homebrewery
+>
+> ##### Changelog
+>
+> Die Changelogs sind [[02. Regelwerk/D&D 5e Regelwerk/5e - Changelog/5e - Changelog|HIER]] zu finden
 >
 > ##### Eingefügt
 >
