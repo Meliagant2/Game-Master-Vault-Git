@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Produce Flame☄️
 created: 2026-07-20T12:11:02.720+02:00
-modified: 2026-07-29T11:11:00.701+02:00
-published: 2026-07-29T11:11:00.701+02:00
+modified: 2026-07-29T11:46:47.451+02:00
+published: 2026-07-29T11:46:47.451+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -41,7 +41,6 @@ zauberliste:
 > |**Concentration:**|n |
 > |**Attack/Save:**|Ranged|
 > |**Spell List:**|Primal |
-> |**Class List:**| |
 
 A flickering flame appears in your hand and remains there for the duration. While there, the flame emits no heat and ignites nothing, and it sheds [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Illumination/5e - Bright Light|💡Bright Light]] in a <u>20-foot radius</u> and [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Illumination/5e - Dim Light|💡Dim Light]] for an additional <u>20 feet</u>. The spell ends if you dismiss it as a **Bonus Action** or if you cast it again.
 

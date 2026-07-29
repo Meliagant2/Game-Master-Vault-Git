@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Sapping String☄️
 created: 2026-07-29T09:33:36.954+02:00
-modified: 2026-07-29T09:36:31.565+02:00
-published: 2026-07-29T09:36:31.565+02:00
+modified: 2026-07-29T11:49:20.092+02:00
+published: 2026-07-29T11:49:20.092+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -25,7 +25,6 @@ effekt:
   - Prone
 zauberliste:
   - Arcane
-klassenliste:
   - Blood Hunter
 ---
 
@@ -42,8 +41,7 @@ klassenliste:
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|n |
 > |**Attack/Save:**|CON|
-> |**Spell List:**|Arcane |
-> |**Class List:**|Blood Hunter |
+> |**Spell List:**|Arcane,Blood Hunter |
 
 You sap the vitality of one creature you can see in range. The target makes a **CON Save**. _**Failure:**_ The Target takes `1d4` <u>Necrotic</u> damage and is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]]
 

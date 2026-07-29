@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Control Flames☄️
 created: 2026-07-28T15:22:00.366+02:00
-modified: 2026-07-29T08:11:24.527+02:00
-published: 2026-07-29T08:11:24.527+02:00
+modified: 2026-07-29T11:49:56.979+02:00
+published: 2026-07-29T11:49:56.979+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -24,7 +24,6 @@ effekt:
 zauberliste:
   - Arcane
   - Primal
-klassenliste:
   - Blood Hunter
 ---
 
@@ -41,8 +40,7 @@ klassenliste:
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|n |
 > |**Attack/Save:**||
-> |**Spell List:**|Arcane,Primal |
-> |**Class List:**|Blood Hunter |
+> |**Spell List:**|Arcane,Primal,Blood Hunter |
 
 You choose nonmagical flame that you can see within range and that fits within a <u>5-foot cube</u>. You affect it in one of the following ways:
 

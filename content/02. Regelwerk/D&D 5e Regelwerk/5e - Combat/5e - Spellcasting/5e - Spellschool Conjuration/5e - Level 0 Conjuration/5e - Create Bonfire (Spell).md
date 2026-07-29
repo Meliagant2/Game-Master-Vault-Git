@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Create Bonfire☄️
 created: 2026-07-28T15:30:07.920+02:00
-modified: 2026-07-28T15:41:56.931+02:00
-published: 2026-07-28T15:41:56.931+02:00
+modified: 2026-07-29T11:46:25.790+02:00
+published: 2026-07-29T11:46:25.790+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -40,9 +40,7 @@ zauberliste:
 > |**Concentration:**|y |
 > |**Attack/Save:**|DEX|
 > |**Spell List:**|Arcane,Primal |
-> |**Class List:**| |
-
-You create a bonfire on ground that you can see within range. Until the spell ends, the magic bonfire fills a <u>5-foot cube</u>. Any creature in the bonfire’s space when you cast the spell and any creature that moves into the bonfire’s space for the first time on a turn or ends its turn there, makes a **DEX Save**. _**Failure:**_ The creature takes `1d8` <u>Fire</u> damage.
+> You create a bonfire on ground that you can see within range. Until the spell ends, the magic bonfire fills a <u>5-foot cube</u>. Any creature in the bonfire’s space when you cast the spell and any creature that moves into the bonfire’s space for the first time on a turn or ends its turn there, makes a **DEX Save**. _**Failure:**_ The creature takes `1d8` <u>Fire</u> damage.
 
 The bonfire ignites flammable objects in its area that aren’t being worn or carried.
 

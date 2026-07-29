@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Toll the Dead☄️
 created: 2026-07-29T10:40:50.209+02:00
-modified: 2026-07-29T10:45:03.881+02:00
-published: 2026-07-29T10:45:03.881+02:00
+modified: 2026-07-29T11:49:37.640+02:00
+published: 2026-07-29T11:49:37.640+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -40,7 +40,6 @@ zauberliste:
 > |**Concentration:**|n |
 > |**Attack/Save:**|WIS|
 > |**Spell List:**|Divine |
-> |**Class List:**| |
 
 You point at one creature you can see within range, and the sound of a dolorous bell fills the air around it for a moment. The target makes a **WIS Save**. _**Failure:**_ The Target takes `1d8` <u>Necrotic</u> damage. If the target is missing any of its hit points, it instead takes `1d12` <u>Necrotic</u> damage.
 

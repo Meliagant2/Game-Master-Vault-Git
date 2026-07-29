@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Shillelagh☄️
 created: 2026-07-29T11:13:32.069+02:00
-modified: 2026-07-29T11:16:11.372+02:00
-published: 2026-07-29T11:16:11.372+02:00
+modified: 2026-07-29T11:50:46.110+02:00
+published: 2026-07-29T11:50:46.110+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -41,7 +41,6 @@ zauberliste:
 > |**Concentration:**|n |
 > |**Attack/Save:**||
 > |**Spell List:**|Primal |
-> |**Class List:**| |
 
 A Club or Quarterstaff you are holding is imbued with nature’s power. For the duration, you can use your <u>spellcasting ability</u> instead of <u>STR</u> or <u>DEX</u> for the attack and damage rolls of <u>melee attacks</u> using that weapon, and the weapon’s <u>damage die</u> becomes a `d8`. If the attack deals damage, it can be <u>Force</u> damage or the weapon’s normal damage type (your choice).
 

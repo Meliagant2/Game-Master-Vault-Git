@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Acid Splash☄️
 created: 2026-07-22T13:59:34.672+02:00
-modified: 2026-07-29T09:54:17.656+02:00
-published: 2026-07-29T09:54:17.656+02:00
+modified: 2026-07-29T11:47:29.168+02:00
+published: 2026-07-29T11:47:29.168+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -40,7 +40,6 @@ effekt:
 > |**Concentration:**|n |
 > |**Attack/Save:**|DEX|
 > |**Spell List:**|Arcane |
-> |**Class List:**| |
 
 You create an acidic bubble and hurl it at a point within range, where it explodes in a <u>5-foot-radius sphere</u>. Each creature in that sphere makes a **DEX Save**. _**Failure:**_ The Creature takes `1d6` <u>Acid</u> damage.
 

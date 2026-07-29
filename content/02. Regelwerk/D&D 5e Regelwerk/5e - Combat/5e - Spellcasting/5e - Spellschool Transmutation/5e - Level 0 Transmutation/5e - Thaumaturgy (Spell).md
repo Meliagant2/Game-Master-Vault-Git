@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Thaumaturgy☄️
 created: 2026-07-29T10:36:47.243+02:00
-modified: 2026-07-29T10:40:26.244+02:00
-published: 2026-07-29T10:40:26.244+02:00
+modified: 2026-07-29T12:07:16.513+02:00
+published: 2026-07-29T12:07:16.513+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -24,6 +24,7 @@ effekt:
   - Control
 zauberliste:
   - Divine
+  - Blood Hunter
 ---
 
 # ☄️5e - Thaumaturgy☄️
@@ -39,8 +40,7 @@ zauberliste:
 > |**Duration:**|1 Minute |
 > |**Concentration:**|n |
 > |**Attack/Save:**||
-> |**Spell List:**|Divine |
-> |**Class List:**| |
+> |**Spell List:**|Divine,Blood Hunter |
 
 You manifest a minor wonder within range. You create one of the effects below within range. If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time.
 

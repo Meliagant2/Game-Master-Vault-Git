@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - True Strike☄️
 created: 2026-07-27T12:33:46.171+02:00
-modified: 2026-07-29T10:11:44.539+02:00
-published: 2026-07-29T10:11:44.539+02:00
+modified: 2026-07-29T11:47:06.235+02:00
+published: 2026-07-29T11:47:06.235+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -40,7 +40,6 @@ zauberliste:
 > |**Concentration:**|n |
 > |**Attack/Save:**|Weapon|
 > |**Spell List:**|Arcane |
-> |**Class List:**| |
 
 Guided by a flash of magical insight, you make one attack with the weapon used in the spell’s casting. The attack uses your <u>spellcasting ability</u> for the attack and damage rolls instead of using <u>STR</u> or <u>DEX</u>. If the attack deals damage, it can be <u>Radiant</u> damage or the weapon’s normal damage type (your choice).
 

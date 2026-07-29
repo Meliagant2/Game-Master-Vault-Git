@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Gust☄️
 created: 2026-07-29T10:51:42.355+02:00
-modified: 2026-07-29T11:01:12.165+02:00
-published: 2026-07-29T11:01:12.165+02:00
+modified: 2026-07-29T11:50:15.501+02:00
+published: 2026-07-29T11:50:15.501+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -42,7 +42,6 @@ zauberliste:
 > |**Concentration:**|n |
 > |**Attack/Save:**|STR|
 > |**Spell List:**|Arcane,Primal |
-> |**Class List:**| |
 
 You seize the air and compel it to create one of the following effects at a point you can see within range:
 

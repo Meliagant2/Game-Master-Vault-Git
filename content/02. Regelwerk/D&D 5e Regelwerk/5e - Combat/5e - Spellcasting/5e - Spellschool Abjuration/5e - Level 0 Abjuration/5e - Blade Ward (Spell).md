@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Blade Ward☄️
 created: 2026-07-28T15:07:23.711+02:00
-modified: 2026-07-29T08:10:37.921+02:00
-published: 2026-07-29T08:10:37.921+02:00
+modified: 2026-07-29T11:46:12.242+02:00
+published: 2026-07-29T11:46:12.242+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -23,7 +23,6 @@ effekt:
   - DISADV
 zauberliste:
   - Arcane
-klassenliste:
   - Blood Hunter
 reactionbedingung: (A Creature targets you with a melee attack)
 ---
@@ -41,7 +40,6 @@ reactionbedingung: (A Creature targets you with a melee attack)
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|n |
 > |**Attack/Save:**||
-> |**Spell List:**|Arcane |
-> |**Class List:**|Blood Hunter |
+> |**Spell List:**|Arcane,Blood Hunter |
 
 You trace a sigil of warding, imposing **DISADV** on the creature’s attack roll against you.

@@ -1,16 +1,16 @@
 ---
 publish: true
-title: ☄️5e - Mind Sliver☄️
-created: 2026-07-29T09:11:49.182+02:00
-modified: 2026-07-29T11:47:18.661+02:00
-published: 2026-07-29T11:47:18.661+02:00
+title: ☄️5e - Vicious Mockery☄️
+created: 2026-07-29T11:52:43.158+02:00
+modified: 2026-07-29T11:55:57.237+02:00
+published: 2026-07-29T11:55:57.237+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: INT
+saveart: WIS
 status: ✅
 reactionbedingung: " "
 magieschule: Enchantment
@@ -22,12 +22,12 @@ dauer: Instantaneous
 concentration: n
 effekt:
   - Psychic
-  - Debuff
+  - Taunted
 zauberliste:
-  - Arcane
+  - Bard
 ---
 
-# ☄️5e - Mind Sliver☄️
+# ☄️5e - Vicious Mockery☄️
 
 > [!wikibox]
 > |||
@@ -39,9 +39,9 @@ zauberliste:
 > |**Components:**|V |
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|n |
-> |**Attack/Save:**|INT|
-> |**Spell List:**|Arcane |
+> |**Attack/Save:**|WIS|
+> |**Spell List:**|Bard |
 
-You drive a disorienting spike of psychic energy into the mind of one creature you can see within range. The target makes an **INT Save**. _**Failure:**_ The Target takes `1d6` <u>Psychic</u> damage and subtract `1d4` from the next <u>Save</u> it makes before the <u>end of your next turn</u>.
+You unleash a string of provoking words at a creature that can hear and understand you within range. The creature makes a **WIS Save**. _**Failure:**_ The Target takes `1d6` <u>Psychic</u> damage and is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Taunted|☠️Taunted]] by you <u>until the start of your next turn</u>.
 
 **<u>Cantrip Upgrade:</u>** This spell’s damage increases by `1d6` when you reach levels <u>5</u> (`2d6`), <u>11</u> (`3d6`), and <u>17</u> (`4d6`).

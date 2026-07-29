@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Void Maw☄️
 created: 2026-07-29T10:13:08.712+02:00
-modified: 2026-07-29T10:15:56.018+02:00
-published: 2026-07-29T10:15:56.018+02:00
+modified: 2026-07-29T11:49:41.316+02:00
+published: 2026-07-29T11:49:41.316+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -24,7 +24,6 @@ effekt:
   - Necrotic
 zauberliste:
   - Arcane
-klassenliste:
   - Blood Hunter
 ---
 
@@ -41,8 +40,7 @@ klassenliste:
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|n |
 > |**Attack/Save:**|Ranged|
-> |**Spell List:**|Arcane |
-> |**Class List:**|Blood Hunter |
+> |**Spell List:**|Arcane,Blood Hunter |
 
 You reach out into the perilous void to create an orb of hungry shadows, making a ranged spell attack that deals `1d8` <u>Necrotic</u> damage. Inanimate corpses and Tiny or smaller nonmagical objects hit by this spell disintegrate into nothing. If this spell kills a creature, the corpse disintegrates into nothing. A creature reduced to <u>0 hit points</u> by this spell is not consumed until it fails its final <u>Death Save</u>.
 

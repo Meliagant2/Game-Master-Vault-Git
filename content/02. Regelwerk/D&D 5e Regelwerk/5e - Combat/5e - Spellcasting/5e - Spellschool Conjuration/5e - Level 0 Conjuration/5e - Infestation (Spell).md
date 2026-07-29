@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Infestation☄️
 created: 2026-07-28T15:48:04.143+02:00
-modified: 2026-07-29T09:52:04.715+02:00
-published: 2026-07-29T09:52:04.715+02:00
+modified: 2026-07-29T11:46:29.234+02:00
+published: 2026-07-29T11:46:29.234+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -41,7 +41,6 @@ zauberliste:
 > |**Concentration:**|n |
 > |**Attack/Save:**|CON|
 > |**Spell List:**|Arcane,Primal |
-> |**Class List:**| |
 
 You cause a cloud of mites, fleas, and other parasites to appear momentarily on one creature you can see within range. The target makes a **CON Save**. _**Failure:**_ It takes `2d6` <u>Poison</u> damage and moves <u>5 feet</u> in a random direction if it can move and its speed is at least <u>5 feet</u>.
 

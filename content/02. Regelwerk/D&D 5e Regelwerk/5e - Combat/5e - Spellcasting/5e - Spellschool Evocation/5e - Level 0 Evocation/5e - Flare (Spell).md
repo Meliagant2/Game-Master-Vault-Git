@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Flare☄️
 created: 2026-07-29T09:39:52.647+02:00
-modified: 2026-07-29T09:46:17.921+02:00
-published: 2026-07-29T09:46:17.921+02:00
+modified: 2026-07-29T11:48:07.719+02:00
+published: 2026-07-29T11:48:07.719+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -43,7 +43,6 @@ zauberliste:
 > |**Concentration:**|n |
 > |**Attack/Save:**|Ranged|
 > |**Spell List:**|Arcane,Divine |
-> |**Class List:**| |
 
 You launch a pulse of radiant energy at a target within range. Make a <u>ranged spell attack</u> against the target. On a hit, the target takes `1d8` Radiant damage.
 

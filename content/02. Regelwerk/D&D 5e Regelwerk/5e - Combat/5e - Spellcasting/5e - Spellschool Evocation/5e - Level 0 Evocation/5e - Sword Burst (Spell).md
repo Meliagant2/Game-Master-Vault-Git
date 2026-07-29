@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Sword Burst☄️
 created: 2026-07-29T09:52:23.531+02:00
-modified: 2026-07-29T10:05:34.566+02:00
-published: 2026-07-29T10:05:34.566+02:00
+modified: 2026-07-29T11:48:40.395+02:00
+published: 2026-07-29T11:48:40.395+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -41,7 +41,6 @@ zauberliste:
 > |**Concentration:**|n |
 > |**Attack/Save:**|DEX|
 > |**Spell List:**|Arcane |
-> |**Class List:**| |
 
 You create a momentary circle of spectral blades that sweep around you. Each creature in a <u>5-foot Emanation</u> originating from you makes a **CON Save**. _**Failure:**_ The Creature takes `1d8` <u>Force</u> damage.
 

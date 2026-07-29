@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Word of Radiance☄️
 created: 2026-07-29T10:45:30.552+02:00
-modified: 2026-07-29T10:48:03.125+02:00
-published: 2026-07-29T10:48:03.125+02:00
+modified: 2026-07-29T11:48:45.980+02:00
+published: 2026-07-29T11:48:45.980+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -41,7 +41,6 @@ zauberliste:
 > |**Concentration:**|n |
 > |**Attack/Save:**|CON|
 > |**Spell List:**|Divine |
-> |**Class List:**| |
 
 You utter a divine word, and burning radiance erupts from you. Each creature of your choice in a <u>5-foot Emanation</u> originating from you makes a **CON Save**. _**Failure:**_ The Creature takes `1d10` <u>Radiant</u> damage.
 

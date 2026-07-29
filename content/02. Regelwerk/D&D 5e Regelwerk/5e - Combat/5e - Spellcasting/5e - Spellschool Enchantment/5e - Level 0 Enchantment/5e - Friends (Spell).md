@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Friends☄️
 created: 2026-07-29T11:29:12.470+02:00
-modified: 2026-07-29T11:44:52.658+02:00
-published: 2026-07-29T11:44:52.658+02:00
+modified: 2026-07-29T11:47:15.410+02:00
+published: 2026-07-29T11:47:15.410+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -41,7 +41,6 @@ zauberliste:
 > |**Concentration:**|y |
 > |**Attack/Save:**|WIS|
 > |**Spell List:**|Arcane,Bard |
-> |**Class List:**| |
 
 You magically emanate a sense of friendship toward one visible creature within range. The target makes a **WIS Save**. _**Failure:**_ The Target is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]] for the duration. The target succeeds automatically if it isn’t a Humanoid, if you’re fighting it, or if you have cast this spell on it within the past <u>24 hours</u>.
 

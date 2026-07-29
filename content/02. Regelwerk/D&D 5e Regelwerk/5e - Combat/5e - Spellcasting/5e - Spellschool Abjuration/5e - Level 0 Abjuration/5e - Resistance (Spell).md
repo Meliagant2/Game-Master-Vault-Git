@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Resistance☄️
 created: 2026-07-20T12:11:02.688+02:00
-modified: 2026-07-29T10:24:20.630+02:00
-published: 2026-07-29T10:24:20.630+02:00
+modified: 2026-07-29T11:46:16.068+02:00
+published: 2026-07-29T11:46:16.068+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -25,7 +25,6 @@ effekt:
 zauberliste:
   - Divine
   - Primal
-klassenliste:
   - Blood Hunter
 ---
 
@@ -42,7 +41,6 @@ klassenliste:
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|n |
 > |**Attack/Save:**||
-> |**Spell List:**|Divine,Primal |
-> |**Class List:**|Blood Hunter |
+> |**Spell List:**|Divine,Primal,Blood Hunter |
 
 You channel magical protection to the creature who failed the <u>Save</u>. That creature can roll `1d4` and add the number rolled to the save, potentially turning it into a success.

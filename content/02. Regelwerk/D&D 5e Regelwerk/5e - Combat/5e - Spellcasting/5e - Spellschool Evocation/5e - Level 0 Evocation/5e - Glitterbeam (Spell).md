@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Glitterbeam☄️
 created: 2026-07-29T11:34:45.703+02:00
-modified: 2026-07-29T11:42:31.505+02:00
-published: 2026-07-29T11:42:31.505+02:00
+modified: 2026-07-29T11:52:33.849+02:00
+published: 2026-07-29T11:52:33.849+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -22,37 +22,9 @@ dauer: Instantaneous
 concentration: n
 zauberliste:
   - Bard
+effekt:
+  - Radiant
 ---
-
-> [!metadata]- Metadata
->
-> > [!metadataoption]- Status
-> >
-> > #### Status
-> >
-> > | | |
-> > |---|---|
-> > |**Status** | `INPUT[Status][:status]` |
-> > |**Publish**|`INPUT[inlineSelect(option(true), option(false)):publish]`|
->
-> > [!metadataoption]- Info
-> >
-> > #### Info
-> >
-> > | | |
-> > |---|---|
-> > |**Display Title** | `INPUT[textArea:title]`|
-> > |**Schule**|`INPUT[inlineSelect(option(Abjuration), option(Conjuration), option(Divination), option(Enchantment), option(Evocation), option(Illusion), option(Necromancy), option(Transmutation)):magieschule]`   |
-> > |**Level**|`INPUT[number:magielevel]`|
-> > |**Wirkzeit**| `INPUT[inlineSelect(option(A), option(BA), option(R), option(1m), option(10m), option(1h), option(8h), option(24h)):wirkzeit]`   |
-> > |**Reaction Bedingung**|`INPUT[text:reactionbedingung]`|
-> > |**Reichweite & Wirkareal** |`INPUT[text:reichweite]`|
-> > |**Komponenten**| `INPUT[text:komponenten]`|
-> > |**Dauer** |`INPUT[text:dauer]`|
-> > |**Concentration** |`INPUT[inlineSelect(option(y), option(n)):concentration]`   |
-> > |**Angriff/Save (Angriff: Melee/Ranged)**| `INPUT[text:saveart]`|
-> > |**Effekt**|`INPUT[SpellEffect5e][inlineListSuggester:effekt]` |
-> > |**Zauberliste** |`INPUT[inlineListSuggester(option(Arcane), option(Divine), option(Primal), option(Special), option(Artificer), option(Bard), option(Blood Hunter), option(Cleric), option(Druid), option(Paladin), option(Ranger), option(Sorcerer), option(Warlock), option(Wizard)):zauberliste]`   |
 
 # ☄️5e - Glitterbeam☄️
 
@@ -68,3 +40,7 @@ zauberliste:
 > |**Concentration:**|n |
 > |**Attack/Save:**|Ranged|
 > |**Spell List:**|Bard |
+
+You project a beam of twinkling lights at a creature or object within range. Make a <u>ranged spell attack</u> against the target. On a hit, it takes `1d8` <u>Radiant</u> damage. Until a creature uses an **Action** to remove the glitter, a target hit by this spell emits [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Illumination/5e - Bright Light|💡Bright Light]] in a <u>5-foot Emanation</u> and has **DISADV** on any <u>Stealth</u> checks it makes to hide or conceal itself.
+
+**<u>Cantrip Upgrade:</u>** This spell’s damage increases by `1d8` when you reach levels <u>5</u> (`2d8`), <u>11</u> (`3d8`), and <u>17</u> (`4d8`).

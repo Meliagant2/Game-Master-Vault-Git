@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Lightning Lure☄️
 created: 2026-07-22T14:01:34.951+02:00
-modified: 2026-07-29T08:08:03.005+02:00
-published: 2026-07-29T08:08:03.005+02:00
+modified: 2026-07-29T11:48:26.675+02:00
+published: 2026-07-29T11:48:26.675+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -40,7 +40,6 @@ zauberliste:
 > |**Concentration:**|n |
 > |**Attack/Save:**|STR|
 > |**Spell List:**|Arcane |
-> |**Class List:**| |
 
 You create a lash of lightning energy that strikes at one creature of your choice that you can see within <u>15 feet</u> of you. The target makes a **STR Save**. _**Failure:**_ The Target is pulled up to <u>10 feet</u> in a straight line toward you and then take `1d8` <u>Lightning</u> damage if it is within <u>5 feet</u> of you.
 

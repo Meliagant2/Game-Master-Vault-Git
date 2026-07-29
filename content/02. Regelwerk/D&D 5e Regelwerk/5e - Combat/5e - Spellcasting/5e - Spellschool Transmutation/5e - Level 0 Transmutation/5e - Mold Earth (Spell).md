@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Mold Earth☄️
 created: 2026-07-29T11:01:48.127+02:00
-modified: 2026-07-29T11:05:20.977+02:00
-published: 2026-07-29T11:05:20.977+02:00
+modified: 2026-07-29T11:50:25.256+02:00
+published: 2026-07-29T11:50:25.256+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -42,7 +42,6 @@ zauberliste:
 > |**Concentration:**|n |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane,Primal |
-> |**Class List:**| |
 
 You choose a portion of dirt or stone that you can see within range and that fits within a <u>5-foot cube</u>. You manipulate it in one of the following ways:
 

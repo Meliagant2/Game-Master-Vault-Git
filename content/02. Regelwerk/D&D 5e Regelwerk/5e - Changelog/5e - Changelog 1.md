@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-23T08:25:41.594+02:00
-modified: 2026-07-29T11:32:32.376+02:00
-published: 2026-07-29T11:32:32.376+02:00
+modified: 2026-07-29T12:18:53.865+02:00
+published: 2026-07-29T12:18:53.865+02:00
 tags:
   - "#Changelog"
   - "#5e"
@@ -58,15 +58,19 @@ datum: 2026-07-29
 
 **Bardcraft:** Now gives Advantage on Performance checks.
 **Contagious Thoughts:** Increased damage from 1d6 to 1d8.
+**Druidcraft:** Changed out the text to the 2024PHB Text. There might be changes.
 **Friends:** Added the Spell to the Arcane list (in addition to bard).
 **Frostbite:** Increased damage from 1d6 to 1d8.
 **Gust:** Added the Spell to the Arcane list (in addition to primal). Added the option to push a target Prone. Added scaling range with higher levels.
+**Hemokinesis:** Added the Spell to the Arcane list (in addition to Blood Hunter).
 **Infestation:** Increased damage from 1d6 to 2d6.
 **Magic Stone:** Renamed the Spell to "Magic Fling". Changed damage formula from 1d6 + Spellcasting ability to 1d4 + Spellcasting ability. Changed "pebble" to "tiny objects". The Attack with the item now counts as an Attack action.
 **Minor Illusion:** Changed out the text to the 2024PHB Text. There might be changes.
 **Mold Earth:** Added the Spell to the Arcane list (in addition to primal).
+**Pestilence:** Increased damage from 1d4 to 1d6.
 **Poison Spray:** Changed Spellschool from Necromancy to Evocation.
 **Prestidigitation:** Changed out the text to the 2024PHB Text. There might be changes.
+**Rend Flesh:** Added the Spell to the Arcane list (in addition to Blood Hunter).
 **Sacred Flame:** Increased damage from 1d8 to 1d10.
 **Shape Water:** Added the Spell to the Arcane list (in addition to primal).
 **Shocking Grasp:** Increased damage from 1d8 to 1d10.
@@ -74,6 +78,7 @@ datum: 2026-07-29
 **Sword Burst:** Increased damage from 1d6 to 1d8.
 **Thaumaturgy:** Changed out the text to the 2024PHB Text. There might be changes.
 **Thunderclap:** Increased damage from 1d6 to 2d4.
+**Vicious Mockery:** Increased damage from 1d4 to 1d6.
 **Void Maw:** Changed Spellschool from Conjuration to Necromancy. Increased damage from 1d6 to 1d8.
 **Word of Radiance:** Increased damage from 1d8 to 1d10.
 

@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-29T11:19:14.928+02:00
-published: 2026-07-29T11:19:14.928+02:00
+modified: 2026-07-29T13:20:23.754+02:00
+published: 2026-07-29T13:20:23.754+02:00
 tags:
   - "#Home"
 ---
@@ -104,12 +104,7 @@ Regelwerke werden immer in der Sprache aufgeführt, in der sie mir am einfachste
 >   - Fighter
 >   - Paladin
 > - A12 Spellcasting
->   - Arcane List
->     - Cantrips
->   - Divine List
->     - Cantrips
->   - Primal List
->     - Cantrips
+>   - All Cantrips
 >
 > ##### Ausstehend
 >

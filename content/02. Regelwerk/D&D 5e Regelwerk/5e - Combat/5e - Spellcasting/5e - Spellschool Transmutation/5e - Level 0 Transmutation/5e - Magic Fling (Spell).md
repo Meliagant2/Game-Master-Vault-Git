@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Magic Fling☄️
 created: 2026-07-29T08:18:11.559+02:00
-modified: 2026-07-29T09:18:20.923+02:00
-published: 2026-07-29T09:18:20.923+02:00
+modified: 2026-07-29T11:50:20.140+02:00
+published: 2026-07-29T11:50:20.140+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -41,7 +41,6 @@ zauberliste:
 > |**Concentration:**|n |
 > |**Attack/Save:**|Ranged|
 > |**Spell List:**|Arcane,Primal |
-> |**Class List:**| |
 
 You touch <u>one to three</u> tiny objects (like pebbles, playing cards, or pencils) and imbue them with magic. You or someone else can make a <u>ranged spell attack</u> with one of the objects by throwing it or hurling it with a sling. This attack counts as one attack from the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Attack Action|⚔️Attack Action]].
 

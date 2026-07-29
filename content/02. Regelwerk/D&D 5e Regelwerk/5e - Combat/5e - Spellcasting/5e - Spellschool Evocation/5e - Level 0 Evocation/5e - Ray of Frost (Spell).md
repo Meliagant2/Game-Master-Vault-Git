@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Ray of Frost☄️
 created: 2026-07-21T11:23:58.220+02:00
-modified: 2026-07-29T09:33:15.113+02:00
-published: 2026-07-29T09:33:15.113+02:00
+modified: 2026-07-29T11:48:32.573+02:00
+published: 2026-07-29T11:48:32.573+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -41,7 +41,6 @@ zauberliste:
 > |**Concentration:**|n |
 > |**Attack/Save:**|Ranged|
 > |**Spell List:**|Arcane |
-> |**Class List:**| |
 
 A frigid beam of blue-white light streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes `1d8` <u>Cold</u> damage, and its speed is reduced by <u>10 feet</u> until the start of your next turn.
 

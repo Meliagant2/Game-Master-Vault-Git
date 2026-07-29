@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Thorn Whip☄️
 created: 2026-07-29T11:16:31.060+02:00
-modified: 2026-07-29T11:18:40.914+02:00
-published: 2026-07-29T11:18:40.914+02:00
+modified: 2026-07-29T11:50:52.221+02:00
+published: 2026-07-29T11:50:52.221+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -41,7 +41,6 @@ zauberliste:
 > |**Concentration:**|n |
 > |**Attack/Save:**|Melee|
 > |**Spell List:**|Primal |
-> |**Class List:**| |
 
 You create a long, vine-like whip covered in thorns that lashes out at your command toward a creature in range. Make a <u>melee spell attack</u> against the target. If the attack hits, the creature takes `1d6` <u>Piercing</u> damage, and if the creature is Large or smaller, you pull the creature up to <u>10 feet</u> closer to you.
 

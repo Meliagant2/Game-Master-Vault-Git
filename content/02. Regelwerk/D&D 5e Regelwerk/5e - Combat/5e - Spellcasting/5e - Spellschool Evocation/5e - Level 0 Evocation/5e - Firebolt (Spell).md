@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Firebolt☄️
 created: 2026-07-22T14:00:35.219+02:00
-modified: 2026-07-28T15:43:25.933+02:00
-published: 2026-07-28T15:43:25.933+02:00
+modified: 2026-07-29T11:48:04.875+02:00
+published: 2026-07-29T11:48:04.875+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -39,7 +39,6 @@ zauberliste:
 > |**Concentration:**|n |
 > |**Attack/Save:**|Ranged|
 > |**Spell List:**|Arcane |
-> |**Class List:**| |
 
 You hurl a mote of fire at a creature or object within range. Make a <u>ranged spell attack</u> against the target. On a hit, the target takes `1d10` <u>Fire</u> damage. A flammable object hit by this spell ignites if it isn't being worn or carried.
 

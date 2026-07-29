@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Shape Water☄️
 created: 2026-07-29T11:11:24.496+02:00
-modified: 2026-07-29T11:13:25.060+02:00
-published: 2026-07-29T11:13:25.060+02:00
+modified: 2026-07-29T11:50:42.886+02:00
+published: 2026-07-29T11:50:42.886+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -41,7 +41,6 @@ effekt:
 > |**Concentration:**|n |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane,Primal |
-> |**Class List:**| |
 
 You choose an area of water that you can see within range and that fits within a <u>5-foot cube</u>. You manipulate it in one of the following ways:
 

@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Sacred Flame☄️
 created: 2026-07-29T10:24:37.671+02:00
-modified: 2026-07-29T10:28:01.335+02:00
-published: 2026-07-29T10:28:01.335+02:00
+modified: 2026-07-29T11:48:35.155+02:00
+published: 2026-07-29T11:48:35.155+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -40,7 +40,6 @@ zauberliste:
 > |**Concentration:**|n |
 > |**Attack/Save:**|DEX|
 > |**Spell List:**|Divine |
-> |**Class List:**| |
 
 Flame-like radiance descends on a creature that you can see within range. The target makes a **DEX Save**. _**Failure:**_ The Target takes `1d10` <u>Radiant</u> damage.
 

@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Poison Spray☄️
 created: 2026-07-29T09:23:23.717+02:00
-modified: 2026-07-29T10:41:23.954+02:00
-published: 2026-07-29T10:41:23.954+02:00
+modified: 2026-07-29T11:48:29.659+02:00
+published: 2026-07-29T11:48:29.659+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -41,7 +41,6 @@ zauberliste:
 > |**Concentration:**|n |
 > |**Attack/Save:**|Ranged|
 > |**Spell List:**|Arcane,Primal |
-> |**Class List:**| |
 
 You launch a mist of toxic energy at a creature within range. Make a <u>ranged spell attack</u> against the target. On a hit, the target takes `1d12` <u>Poison</u> damage.
 

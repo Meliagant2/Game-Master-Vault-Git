@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Message☄️
 created: 2026-07-21T11:01:27.042+02:00
-modified: 2026-07-29T09:10:36.295+02:00
-published: 2026-07-29T09:10:36.295+02:00
+modified: 2026-07-29T11:47:02.961+02:00
+published: 2026-07-29T11:47:02.961+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -42,7 +42,6 @@ zauberliste:
 > |**Concentration:**|n |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane,Primal |
-> |**Class List:**| |
 
 You point your finger toward a creature within range and whisper a message. The target (and only the target) hears the message and can reply in a whisper that only you can hear.
 
