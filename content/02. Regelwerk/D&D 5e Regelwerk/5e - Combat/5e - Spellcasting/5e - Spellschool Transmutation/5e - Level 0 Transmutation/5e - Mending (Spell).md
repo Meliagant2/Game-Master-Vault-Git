@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Mending☄️
 created: 2026-07-21T11:18:45.011+02:00
-modified: 2026-07-29T09:00:31.468+02:00
-published: 2026-07-29T09:00:31.468+02:00
+modified: 2026-07-29T09:05:50.802+02:00
+published: 2026-07-29T09:05:50.802+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -15,38 +15,17 @@ status: ✅
 reactionbedingung: " "
 magieschule: Transmutation
 magielevel: 0
+wirkzeit: 1m
+reichweite: Touch
+komponenten: V, S, M (two lodestones)
+dauer: Instantaneous
+concentration: n
+effekt:
+  - Utility
+zauberliste:
+  - Arcane
+  - Divine
 ---
-
-> [!metadata]- Metadata
->
-> > [!metadataoption]- Status
-> >
-> > #### Status
-> >
-> > | | |
-> > |---|---|
-> > |**Status** | `INPUT[Status][:status]` |
-> > |**Publish**|`INPUT[inlineSelect(option(true), option(false)):publish]`|
->
-> > [!metadataoption]- Info
-> >
-> > #### Info
-> >
-> > | | |
-> > |---|---|
-> > |**Display Title** | `INPUT[textArea:title]`|
-> > |**Schule**|`INPUT[inlineSelect(option(Abjuration), option(Conjuration), option(Divination), option(Enchantment), option(Evocation), option(Illusion), option(Necromancy), option(Transmutation)):magieschule]`   |
-> > |**Level**|`INPUT[number:magielevel]`|
-> > |**Wirkzeit**| `INPUT[inlineSelect(option(A), option(BA), option(R), option(1 Minute), option(10 Minutes), option(1 Hour), option(8 Hours), option(24 Hours)):wirkzeit]`   |
-> > |**Reaction Bedingung**|`INPUT[text:reactionbedingung]`|
-> > |**Reichweite & Wirkareal** |`INPUT[text:reichweite]`|
-> > |**Komponenten**| `INPUT[text:komponenten]`|
-> > |**Dauer** |`INPUT[text:dauer]`|
-> > |**Concentration** |`INPUT[inlineSelect(option(y), option(n)):concentration]`   |
-> > |**Angriff/Save (Angriff: Melee/Ranged)**| `INPUT[text:saveart]`|
-> > |**Effekt**|`INPUT[SpellEffect5e][inlineListSuggester:effekt]` |
-> > |**Zauberliste** |`INPUT[inlineListSuggester(option(Arcane), option(Divine), option(Primal), option(Class only), option(Special)):zauberliste]`   |
-> > |**Klassenlisten**|`INPUT[inlineListSuggester(option(Artificer), option(Bard), option(Blood Hunter), option(Cleric), option(Druid), option(Paladin), option(Ranger), option(Sorcerer), option(Warlock), option(Wizard)):klassenliste]`   |
 
 # ☄️5e - Mending☄️
 
@@ -55,11 +34,15 @@ magielevel: 0
 > |:-|:-|
 > |**School:**|Transmutation |
 > |**Level:**|0 |
-> |**Casting Time:**|  |
-> |**Range/Area:**| |
-> |**Components:**| |
-> |**Duration:**| |
-> |**Concentration:**| |
+> |**Casting Time:**|PT1M  |
+> |**Range/Area:**|Touch |
+> |**Components:**|V, S, M (two lodestones) |
+> |**Duration:**|Instantaneous |
+> |**Concentration:**|n |
 > |**Attack/Save:**||
-> |**Spell List:**| |
+> |**Spell List:**|Arcane,Divine |
 > |**Class List:**| |
+
+This spell repairs a single break or tear in an object you touch, such as a broken chain link, two halves of a broken key, a torn cloak, or a leaking wineskin. As long as the break or tear is no larger than <u>30 cm</u> in any dimension, you mend it, leaving no trace of the former damage.
+
+This spell can physically repair a magic item or construct, but the spell can't restore magic to such an object.

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-23T08:25:41.594+02:00
-modified: 2026-07-29T08:57:40.837+02:00
-published: 2026-07-29T08:57:40.837+02:00
+modified: 2026-07-29T10:48:23.218+02:00
+published: 2026-07-29T10:48:23.218+02:00
 tags:
   - "#Changelog"
   - "#5e"
@@ -54,6 +54,23 @@ datum: 2026-07-29
 
 ### Spells
 
+#### Changed Spells
+
 **Frostbite:** Increased damage from 1d6 to 1d8.
-**Infestation:** Increased damage from 1d6 to 1d10.
+**Infestation:** Increased damage from 1d6 to 2d6.
 **Magic Stone:** Renamed the Spell to "Magic Fling". Changed damage formula from 1d6 + Spellcasting ability to 1d4 + Spellcasting ability. Changed "pebble" to "tiny objects". The Attack with the item now counts as an Attack action.
+**Minor Illusion:** Changed out the text to the 2024PHB Text. There might be changes.
+**Poison Spray:** Changed Spellschool from Necromancy to Evocation.
+**Prestidigitation:** Changed out the text to the 2024PHB Text. There might be changes.
+**Sacred Flame:** Increased damage from 1d8 to 1d10.
+**Shocking Grasp:** Increased damage from 1d8 to 1d10.
+**Spare the Dying:** Casting time changed from Action to Bonus Action.
+**Sword Burst:** Increased damage from 1d6 to 1d8.
+**Thaumaturgy:** Changed out the text to the 2024PHB Text. There might be changes.
+**Thunderclap:** Increased damage from 1d6 to 2d4.
+**Void Maw:** Changed Spellschool from Conjuration to Necromancy. Increased damage from 1d6 to 1d8.
+**Word of Radiance:** Increased damage from 1d8 to 1d10.
+
+#### New Spells
+
+**Flare:** Arcane and Divine Spell list.

@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Booming Blade☄️
 created: 2026-07-28T15:10:58.961+02:00
-modified: 2026-07-28T15:17:04.586+02:00
-published: 2026-07-28T15:17:04.586+02:00
+modified: 2026-07-29T10:11:59.936+02:00
+published: 2026-07-29T10:11:59.936+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -16,7 +16,7 @@ magieschule: Evocation
 magielevel: 0
 wirkzeit: A
 reichweite: Self
-komponenten: S, M
+komponenten: S, M (a weapon with which you have proficiency and that is worth 1+ CP)
 dauer: 1 Round
 concentration: n
 effekt:
@@ -36,7 +36,7 @@ klassenliste:
 > |**Level:**|0 |
 > |**Casting Time:**|A|
 > |**Range/Area:**|Self |
-> |**Components:**|S, M |
+> |**Components:**|S, M (a weapon with which you have proficiency and that is worth 1+ CP) |
 > |**Duration:**|1 Round |
 > |**Concentration:**|n |
 > |**Attack/Save:**|Melee|

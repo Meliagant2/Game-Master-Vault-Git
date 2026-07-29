@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - College of Spirits🦸‍♀️
 created: 2026-07-23T10:41:20.409+02:00
-modified: 2026-07-29T08:11:23.224+02:00
-published: 2026-07-29T08:11:23.224+02:00
+modified: 2026-07-29T10:23:48.960+02:00
+published: 2026-07-29T10:23:48.960+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -22,7 +22,7 @@ Bards of the College of Spirits seek tales with inherent power—be they legends
 
 ### Level 3: Guiding Whispers
 
-You can reach out to spirits to guide you and others. You learn the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Divination/5e - Level 0 Divination/5e- Guidance (Spell)|☄️Guidance]] cantrip, which doesn’t count against the number of bard cantrips you know. For you, it has a range of <u>60 feet</u> when you cast it.
+You can reach out to spirits to guide you and others. You learn the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Divination/5e - Level 0 Divination/5e - Guidance (Spell)|☄️Guidance]] cantrip, which doesn’t count against the number of bard cantrips you know. For you, it has a range of <u>60 feet</u> when you cast it.
 
 ### Level 3: Spiritual Focus
 

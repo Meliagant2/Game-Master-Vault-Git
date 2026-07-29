@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Acid Splash☄️
 created: 2026-07-22T13:59:34.672+02:00
-modified: 2026-07-28T15:07:11.083+02:00
-published: 2026-07-28T15:07:11.083+02:00
+modified: 2026-07-29T09:54:17.656+02:00
+published: 2026-07-29T09:54:17.656+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -18,11 +18,12 @@ concentration: n
 zauberliste:
   - Arcane
 wirkzeit: A
-reichweite: 60 ft. (5ft. radius Sphere)
+reichweite: 60 ft. (5ft. Sphere)
 komponenten: V, S
 dauer: Instantaneous
 effekt:
   - Acid
+  - AOE
 ---
 
 # ☄️5e - Acid Splash☄️
@@ -33,7 +34,7 @@ effekt:
 > |**School:**|Evocation |
 > |**Level:**|0 |
 > |**Casting Time:**|A|
-> |**Range/Area:**|60 ft. (5ft. radius Sphere) |
+> |**Range/Area:**|60 ft. (5ft. Sphere) |
 > |**Components:**|V, S |
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|n |

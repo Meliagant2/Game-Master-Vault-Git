@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Fighter🦸‍♀️
 created: 2026-07-20T12:11:02.557+02:00
-modified: 2026-07-29T08:11:23.361+02:00
-published: 2026-07-29T08:11:23.361+02:00
+modified: 2026-07-29T09:18:20.892+02:00
+published: 2026-07-29T09:18:20.892+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -333,7 +333,7 @@ As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D 5e Regelwe
 
 ### Level 5: Extra Attack
 
-You can attack twice, instead of once, when you take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Attack (Action)|⚔️Attack]]-Action on your turn.
+You can attack twice, instead of once, when you take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Attack Action|⚔️Attack]]-Action on your turn.
 
 ### Level 5: Maneuver Specialization
 
@@ -387,7 +387,7 @@ As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D 5e Regelwe
 
 ### Level 11: Second Extra Attack
 
-You can attack three times, instead of twice, when you take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Attack (Action)|⚔️Attack]]-Action on your turn..
+You can attack three times, instead of twice, when you take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Attack Action|⚔️Attack]]-Action on your turn..
 
 ### Level 11: Studied Attacks
 
@@ -427,7 +427,7 @@ You have become an undisputed master of battle. You gain the following benefits:
 
 #### Third Extra Attack
 
-You can attack four times, instead of thrice, when you take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Attack (Action)|⚔️Attack]]-Action on your turn.
+You can attack four times, instead of thrice, when you take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Attack Action|⚔️Attack]]-Action on your turn.
 
 #### Master of Combat
 
