@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Bard🦸‍♀️
 created: 2026-07-20T12:11:02.526+02:00
-modified: 2026-07-29T11:38:32.621+02:00
-published: 2026-07-29T11:38:32.621+02:00
+modified: 2026-07-29T11:45:30.590+02:00
+published: 2026-07-29T11:45:30.590+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -216,12 +216,6 @@ Whenever you gain a bard level, you may swap one battle hymn you know for a new 
 
 #### Bard Spell List
 
-| Spell                                                                                                                                                                                        | Level | School        | Time | Conc. | Range/Area       | Attack/Save | Damage/Effect             |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ------------- | ---- | ----- | ---------------- | ----------- | ------------------------- |
-| [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 0 Enchantment/5e - Contagious Thoughts (Spell).md\|5e - Contagious Thoughts (Spell)]] | 0     | Enchantment   | A    | n     | 10 ft. Emanation | INT         | <ul><li>Psychic</li></ul> |
-| [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 0 Enchantment/5e - Friends (Spell).md\|5e - Friends (Spell)]]                         | 0     | Enchantment   | A    | y     | 10 ft.           | WIS         | <ul><li>Charmed</li></ul> |
-| [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 0 Transmutation/5e - Bardcraft (Spell).md\|5e - Bardcraft (Spell)]]                 | 0     | Transmutation | A    | n     | 10 ft.           |             | <ul><li>Control</li></ul> |
-
 ```base
 properties:
   note.saveart:
@@ -245,7 +239,106 @@ views:
       and:
         - dateitags.contains("#Spell")
         - dateitags.contains("#5e")
-        - klassenliste.contains("Bard")
+        - zauberliste.contains("Bard")
+    order:
+      - file.name
+      - magielevel
+      - magieschule
+      - wirkzeit
+      - concentration
+      - reichweite
+      - saveart
+      - effekt
+    sort:
+      - property: magielevel
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    image: note.image
+    cardSize: 150
+    imageAspectRatio: 1
+    imageFit: contain
+    columnSize:
+      file.name: 200
+      note.magielevel: 56
+      note.magieschule: 76
+      note.wirkzeit: 55
+      note.concentration: 30
+      note.reichweite: 132
+      note.saveart: 50
+  - type: table
+    name: 5e Bard Arcane Spell List
+    filters:
+      and:
+        - dateitags.contains("#Spell")
+        - dateitags.contains("#5e")
+        - zauberliste.containsAny("Bard", "Arcane")
+    order:
+      - file.name
+      - magielevel
+      - magieschule
+      - wirkzeit
+      - concentration
+      - reichweite
+      - saveart
+      - effekt
+    sort:
+      - property: magielevel
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    image: note.image
+    cardSize: 150
+    imageAspectRatio: 1
+    imageFit: contain
+    columnSize:
+      file.name: 200
+      note.magielevel: 56
+      note.magieschule: 76
+      note.wirkzeit: 55
+      note.concentration: 30
+      note.reichweite: 132
+      note.saveart: 50
+  - type: table
+    name: 5e Bard Divine Spell List
+    filters:
+      and:
+        - dateitags.contains("#Spell")
+        - dateitags.contains("#5e")
+        - zauberliste.containsAny("Bard", "Divine")
+    order:
+      - file.name
+      - magielevel
+      - magieschule
+      - wirkzeit
+      - concentration
+      - reichweite
+      - saveart
+      - effekt
+    sort:
+      - property: magielevel
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    image: note.image
+    cardSize: 150
+    imageAspectRatio: 1
+    imageFit: contain
+    columnSize:
+      file.name: 200
+      note.magielevel: 56
+      note.magieschule: 76
+      note.wirkzeit: 55
+      note.concentration: 30
+      note.reichweite: 132
+      note.saveart: 50
+  - type: table
+    name: 5e Bard Primal Spell List
+    filters:
+      and:
+        - dateitags.contains("#Spell")
+        - dateitags.contains("#5e")
+        - zauberliste.containsAny("Bard", "Primal")
     order:
       - file.name
       - magielevel

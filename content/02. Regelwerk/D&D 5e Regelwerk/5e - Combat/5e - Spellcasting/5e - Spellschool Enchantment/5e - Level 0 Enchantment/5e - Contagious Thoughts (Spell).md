@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Contagious Thoughts☄️
 created: 2026-07-29T11:25:53.245+02:00
-modified: 2026-07-29T11:29:06.322+02:00
-published: 2026-07-29T11:29:06.322+02:00
+modified: 2026-07-29T11:44:58.848+02:00
+published: 2026-07-29T11:44:58.848+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -23,8 +23,6 @@ concentration: n
 effekt:
   - Psychic
 zauberliste:
-  - Class only
-klassenliste:
   - Bard
 ---
 
@@ -41,8 +39,8 @@ klassenliste:
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|n |
 > |**Attack/Save:**|INT|
-> |**Spell List:**|Class only |
-> |**Class List:**|Bard |
+> |**Spell List:**|Bard |
+> |**Class List:**| |
 
 You share whatever thought is at the forefront of your mind with all creatures within range. Each creature in a <u>10-foot Emanation</u> originating from you makes an **INT Save**. _**Failure:**_ The Creature takes `1d8` <u>Psychic</u> damage.
 

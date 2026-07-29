@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Bardcraft☄️
 created: 2026-07-23T10:12:45.322+02:00
-modified: 2026-07-29T11:25:12.844+02:00
-published: 2026-07-29T11:25:12.844+02:00
+modified: 2026-07-29T11:44:45.480+02:00
+published: 2026-07-29T11:44:45.480+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -23,8 +23,6 @@ concentration: n
 effekt:
   - Control
 zauberliste:
-  - Class only
-klassenliste:
   - Bard
 ---
 
@@ -41,8 +39,8 @@ klassenliste:
 > |**Duration:**|PT1H |
 > |**Concentration:**|n |
 > |**Attack/Save:**||
-> |**Spell List:**|Class only |
-> |**Class List:**|Bard |
+> |**Spell List:**|Bard |
+> |**Class List:**| |
 
 A spell often taught to new bards, this spell can produce minor magical artistic effects. You can cause one of the following effects (or a similar effect of your choosing at the GM's discretion) to occur within range. Whichever effect you choose, you have **ADV** on <u>Performance</u> checks for the duration.
 

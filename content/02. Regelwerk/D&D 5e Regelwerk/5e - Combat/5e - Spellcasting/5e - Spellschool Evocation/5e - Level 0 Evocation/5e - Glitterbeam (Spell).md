@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Glitterbeam☄️
 created: 2026-07-29T11:34:45.703+02:00
-modified: 2026-07-29T11:35:17.492+02:00
-published: 2026-07-29T11:35:17.492+02:00
+modified: 2026-07-29T11:42:31.505+02:00
+published: 2026-07-29T11:42:31.505+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -20,6 +20,8 @@ reichweite: 120 ft.
 komponenten: V, S
 dauer: Instantaneous
 concentration: n
+zauberliste:
+  - Bard
 ---
 
 > [!metadata]- Metadata
@@ -50,8 +52,7 @@ concentration: n
 > > |**Concentration** |`INPUT[inlineSelect(option(y), option(n)):concentration]`   |
 > > |**Angriff/Save (Angriff: Melee/Ranged)**| `INPUT[text:saveart]`|
 > > |**Effekt**|`INPUT[SpellEffect5e][inlineListSuggester:effekt]` |
-> > |**Zauberliste** |`INPUT[inlineListSuggester(option(Arcane), option(Divine), option(Primal), option(Class only), option(Special)):zauberliste]`   |
-> > |**Klassenlisten**|`INPUT[inlineListSuggester(option(Artificer), option(Bard), option(Blood Hunter), option(Cleric), option(Druid), option(Paladin), option(Ranger), option(Sorcerer), option(Warlock), option(Wizard)):klassenliste]`   |
+> > |**Zauberliste** |`INPUT[inlineListSuggester(option(Arcane), option(Divine), option(Primal), option(Special), option(Artificer), option(Bard), option(Blood Hunter), option(Cleric), option(Druid), option(Paladin), option(Ranger), option(Sorcerer), option(Warlock), option(Wizard)):zauberliste]`   |
 
 # ☄️5e - Glitterbeam☄️
 
@@ -66,5 +67,4 @@ concentration: n
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|n |
 > |**Attack/Save:**|Ranged|
-> |**Spell List:**| |
-> |**Class List:**| |
+> |**Spell List:**|Bard |
