@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-23T08:25:41.594+02:00
-modified: 2026-07-29T12:18:53.865+02:00
-published: 2026-07-29T12:18:53.865+02:00
+modified: 2026-07-29T13:59:13.984+02:00
+published: 2026-07-29T13:59:13.984+02:00
 tags:
   - "#Changelog"
   - "#5e"
@@ -84,4 +84,11 @@ datum: 2026-07-29
 
 #### New Spells
 
+**Acid Burn:** Arcane and Blood Hunter Spell list.
+**Bacterial Barrage:** Arcane and Primal Spell list.
+**Blood Bolt:** Arcane and Blood Hunter Spell list.
+**Calling Card:** Arcane and Bard Spell list.
 **Flare:** Arcane and Divine Spell list.
+**Green-Flame Blade:** Arcane and Blood Hunter Spell list.
+**Poison Needle:** Arcane and Primal Spell list.
+**Spark:** Arcane and Primal Spell list.

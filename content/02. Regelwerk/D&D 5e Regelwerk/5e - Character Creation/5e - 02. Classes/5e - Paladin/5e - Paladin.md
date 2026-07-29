@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Paladin🦸‍♀️
 created: 2026-07-20T12:11:02.575+02:00
-modified: 2026-07-29T09:18:20.909+02:00
-published: 2026-07-29T09:18:20.909+02:00
+modified: 2026-07-29T13:23:07.884+02:00
+published: 2026-07-29T13:23:07.884+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -233,6 +233,64 @@ In addition, you can expend <u>5 Hit Points</u> from the pool of healing to remo
 **<u>Spell Slots:</u>** The Spellcaster Table shows how many Spell Slots you have to cast Spells. To cast one of these Spells, you must expend a Slot of the Spell’s level or higher. You regain all expended spell slots when you finish a Long Rest.
 **<u>Cantrips:</u>** Whenever you gain a Level in this Class, you can replace one of your cantrips with another cantrip of your choice from your Spell List.
 **<u>Spells:</u>** Whenever you finish a Long Rest, you can change your list of prepared spells, replacing one or more of the spells there with other spells from your Spell List for which you have spell slots.
+
+#### Paladin Spell List
+
+```base
+properties:
+  note.saveart:
+    displayName: Attack/Save
+  note.magieschule:
+    displayName: School
+  note.magielevel:
+    displayName: Level
+  note.wirkzeit:
+    displayName: Time
+  note.reichweite:
+    displayName: Range/Area
+  note.concentration:
+    displayName: Conc.
+  note.effekt:
+    displayName: Damage/Effect
+views:
+  - type: table
+    name: 5e Paladin Spell List
+    filters:
+      and:
+        - dateitags.contains("#Spell")
+        - dateitags.contains("#5e")
+        - zauberliste.containsAny("Paladin", "Divine")
+        - magielevel <= 5
+    order:
+      - file.name
+      - magielevel
+      - magieschule
+      - wirkzeit
+      - concentration
+      - reichweite
+      - saveart
+      - effekt
+    sort:
+      - property: magielevel
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    image: note.image
+    cardSize: 150
+    imageAspectRatio: 1
+    imageFit: contain
+    columnSize:
+      file.name: 200
+      note.magielevel: 56
+      note.magieschule: 76
+      note.wirkzeit: 55
+      note.concentration: 30
+      note.reichweite: 132
+      note.saveart: 50
+
+```
+
+<br>
 
 ### Level 2: Combat Maneuvers
 
