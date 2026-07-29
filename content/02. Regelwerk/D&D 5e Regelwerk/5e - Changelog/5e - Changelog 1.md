@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-23T08:25:41.594+02:00
-modified: 2026-07-29T08:43:45.675+02:00
-published: 2026-07-29T08:43:45.675+02:00
+modified: 2026-07-29T08:57:40.837+02:00
+published: 2026-07-29T08:57:40.837+02:00
 tags:
   - "#Changelog"
   - "#5e"
@@ -56,4 +56,4 @@ datum: 2026-07-29
 
 **Frostbite:** Increased damage from 1d6 to 1d8.
 **Infestation:** Increased damage from 1d6 to 1d10.
-**Magic Stone:** Changed damage formula from 1d6 + Spellcasting ability to 1d12. Changed "pebble" to "tiny objects". Added Scaling damage on higher levels.
+**Magic Stone:** Renamed the Spell to "Magic Fling". Changed damage formula from 1d6 + Spellcasting ability to 1d4 + Spellcasting ability. Changed "pebble" to "tiny objects". The Attack with the item now counts as an Attack action.
