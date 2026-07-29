@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Mage Hand☄️
 created: 2026-07-29T08:07:31.866+02:00
-modified: 2026-07-29T08:07:50.491+02:00
-published: 2026-07-29T08:07:50.491+02:00
+modified: 2026-07-29T08:17:18.708+02:00
+published: 2026-07-29T08:17:18.708+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -15,37 +15,15 @@ status: ✅
 magieschule: Conjuration
 magielevel: 0
 wirkzeit: A
+reichweite: 30 ft.
+komponenten: V, S
+dauer: 1 Minute
+concentration: n
+effekt:
+  - Utility
+zauberliste:
+  - Arcane
 ---
-
-> [!metadata]- Metadata
->
-> > [!metadataoption]- Status
-> >
-> > #### Status
-> >
-> > | | |
-> > |---|---|
-> > |**Status** | `INPUT[Status][:status]` |
-> > |**Publish**|`INPUT[inlineSelect(option(true), option(false)):publish]`|
->
-> > [!metadataoption]- Info
-> >
-> > #### Info
-> >
-> > | | |
-> > |---|---|
-> > |**Display Title** | `INPUT[textArea:title]`|
-> > |**Schule**|`INPUT[inlineSelect(option(Abjuration), option(Conjuration), option(Divination), option(Enchantment), option(Evocation), option(Illusion), option(Necromancy), option(Transmutation)):magieschule]`   |
-> > |**Level**|`INPUT[number:magielevel]`|
-> > |**Wirkzeit**| `INPUT[text:wirkzeit]`|
-> > |**Reichweite & Wirkareal** |`INPUT[text:reichweite]`|
-> > |**Komponenten**| `INPUT[text:komponenten]`|
-> > |**Dauer** |`INPUT[text:dauer]`|
-> > |**Concentration** |`INPUT[inlineSelect(option(y), option(n)):concentration]`   |
-> > |**Angriff/Save (Angriff: Melee/Ranged)**| `INPUT[text:saveart]`|
-> > |**Effekt**|`INPUT[SpellEffect5e][inlineListSuggester:effekt]` |
-> > |**Zauberliste** |`INPUT[inlineListSuggester(option(Arcane), option(Divine), option(Primal), option(Class only), option(Special)):zauberliste]`   |
-> > |**Klassenlisten**|`INPUT[inlineListSuggester(option(Artificer), option(Bard), option(Blood Hunter), option(Cleric), option(Druid), option(Paladin), option(Ranger), option(Sorcerer), option(Warlock), option(Wizard)):klassenliste]`   |
 
 # ☄️5e - Mage Hand☄️
 
@@ -55,10 +33,18 @@ wirkzeit: A
 > |**School:**|Conjuration |
 > |**Level:**|0 |
 > |**Casting Time:**|A|
-> |**Range/Area:**| |
-> |**Components:**| |
-> |**Duration:**| |
-> |**Concentration:**| |
+> |**Range/Area:**|30 ft. |
+> |**Components:**|V, S |
+> |**Duration:**|1 Minute |
+> |**Concentration:**|n |
 > |**Attack/Save:**||
-> |**Spell List:**| |
+> |**Spell List:**|Arcane |
 > |**Class List:**| |
+
+A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration. The hand vanishes if it is ever more than <u>30 feet</u> away from you or if you cast this spell again.
+
+When you cast the spell, you can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial.
+
+As a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Magic Action|⚔️Magic Action]] on your later turns, you can control the hand thus again. As part of that action, you can move the hand up to <u>30 feet</u>.
+
+The hand can't attack, activate magic items, or carry more than 5 kg.

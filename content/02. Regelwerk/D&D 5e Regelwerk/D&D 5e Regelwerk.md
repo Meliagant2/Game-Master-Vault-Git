@@ -2,8 +2,8 @@
 publish: true
 title: D&D 5e Regelwerk
 created: 2026-07-20T12:11:02.432+02:00
-modified: 2026-07-29T08:11:24.530+02:00
-published: 2026-07-29T08:11:24.530+02:00
+modified: 2026-07-29T08:42:19.026+02:00
+published: 2026-07-29T08:42:19.026+02:00
 tags:
   - "#Regelwerk"
   - "#5e"
@@ -29,7 +29,7 @@ status: ✅
 > [!warnung] CHANGELOG
 > Ich habe bei der Übertragung von Homebrewery größtenteils Syntax und Formatierung verändert, manchmal auch Formulierungen. Ich habe aber auch bei manchen Features Änderungen durchgeführt, die Einfluss aufs Gameplay haben!
 >
-> Die Changelog ist [[02. Regelwerk/D&D 5e Regelwerk/Homebrewery Changelog|‼️HIER‼️]] zu finden
+> Die Changelogs sind [[02. Regelwerk/D&D 5e Regelwerk/5e - Changelog/5e - Changelog|HIER]] zu finden
 
 ## Basic Rules
 
