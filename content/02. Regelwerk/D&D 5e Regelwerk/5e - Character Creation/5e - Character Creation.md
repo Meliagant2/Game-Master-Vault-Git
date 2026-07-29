@@ -2,8 +2,8 @@
 publish: true
 title: ⚙️5e - Character Creation⚙️
 created: 2026-07-20T12:11:02.432+02:00
-modified: 2026-07-21T10:10:54.906+02:00
-published: 2026-07-21T10:10:54.906+02:00
+modified: 2026-07-29T08:11:24.458+02:00
+published: 2026-07-29T08:11:24.458+02:00
 tags:
   - "#Charaktererstellung"
   - "#5e"
@@ -52,7 +52,7 @@ Origins are detailed later but consist of four main aspects: **heritage**, **cul
 
 ### Heritage
 
-See [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 01. Heritage/5e - 01. Heritage|👥Heritage]] for more information.
+See [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 01. Heritage/5e - 01. Heritage|👥Heritage]] for more information.
 
 Characters in the world belong to a heritage which includes certain biological characteristics and defines some aspects of their physical appearance. Other things, such as a character’s **speed** and **size**, are also derived from their heritage. While a heritage may be a factor in your character’s story, that’s just the beginning. Who they are is defined by the experiences and the actions that lead them to where they are now.
 
@@ -62,7 +62,7 @@ In addition, as your character levels up, they choose a paragon heritage gift th
 
 ### Culture
 
-See [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 04. Culture/5e - 04. Culture|🎎Culture]] for more information.
+See [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 04. Culture/5e - 04. Culture|🎎Culture]] for more information.
 
 Your character’s culture details the society and circumstances that helped shape who they are. This provides a number of traits including **proficiencies**, **languages**, and other benefits related to the culture that influenced their development.
 
@@ -70,7 +70,7 @@ One of the key things to keep in mind during character creation is that culture 
 
 ### Background
 
-See [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 05. Background/5e - 05. Background|⛏️Background]] for more information.
+See [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 05. Background/5e - 05. Background|⛏️Background]] for more information.
 
 If a culture tells how a character started, their background helps outline where their journey led. There are a number of backgrounds to choose from each of which provides bonuses to your **ability scores**, additional **proficiencies**, and **features** your character can use while adventuring.
 
@@ -78,7 +78,7 @@ That’s just mechanics though, and thinking about the details of how a backgrou
 
 ### Destiny
 
-See [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - 06. Destiny|🔮Destiny]] for more information.
+See [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - 06. Destiny|🔮Destiny]] for more information.
 
 All characters in the world have a destiny that they move towards, though whether or not they will reach it is a mystery. When creating a character you are able to place a mark of destiny upon them to not just help you better understand who they are and where you want them to go, but also help the Game Master get an idea of what you’re looking for as a player. It is a summation of their motivations, goals and outlook.
 
@@ -86,7 +86,7 @@ It also provides your character an edge at key moments that would help them move
 
 ### Class
 
-See [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - 02. Classes|🧙Classes]] for more information.
+See [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - 02. Classes|🧙Classes]] for more information.
 
 Adventurers come from all walks of life and approach the world in different ways. Class is the term used to broadly describe the set of skills and abilities they use while confronting the challenges of the world. While your origin describes your character’s past, your class represents what they are doing now.
 
@@ -104,7 +104,7 @@ Depending on the campaign your Game Master is making for the group, your game’
 
 ### Hit Points and Hit Dice
 
-See [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|❤️Hit Points]] for more information.
+See [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|❤️Hit Points]] for more information.
 
 Your character’s **Hit Points (HP)** provide a rough idea of how much damage they can withstand. Your HP are determined by your **Hit Dice** which are in turn tied to your class. At 1st level, your character begins with **1 Hit Die** and hit points equal to the maximum number of that Hit Die. You also gain additional HP based on your **Constitution** which will be covered later in the character creation process. Another use for Hit Dice is the ability to roll them in order to recover hit points during a short rest.
 
@@ -114,7 +114,7 @@ Be sure to record your character’s Hit Dice and Hit Points on the character sh
 
 ### Proficiency Bonus
 
-See [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Proficiency/5e - Proficiency|⚙️Proficiency]] for more information.
+See [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Proficiency/5e - Proficiency|⚙️Proficiency]] for more information.
 
 Your **Proficiency Bonus (PB)** can be found in the table that describes the features you gain at each level of your class. Characters starting out at 1st level begin with a <u>+2</u> to proficiency and that bonus applies to a number of important character elements:
 
@@ -130,7 +130,7 @@ Your proficiency bonus can only be added to a die roll or any other circumstance
 
 ### Determine Ability Scores
 
-See [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 00. Ability Scores/5e - 00. Ability Scores|⚙️Ability Scores]] for more information.
+See [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 00. Ability Scores/5e - 00. Ability Scores|⚙️Ability Scores]] for more information.
 
 There are six key ability scores that factor into everything that your character does in the game: **Strength (STR)**, **Dexterity (DEX)**, **Constitution (CON)**, **Intelligence (INT)**, **Wisdom (WIS)**, and **Charisma (CHA)**. These abilities and their uses are described in detail later.
 
@@ -201,7 +201,7 @@ Important for: **Bards**, **Paladins**, **Sorcerers**, **Warlocks**
 
 ### Gear up for Adventure
 
-See [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Equipment|🛠️Equipment]] for more information.
+See [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Equipment|🛠️Equipment]] for more information.
 
 Your character begins the game with **starting equipment** determined by their background and class. Starting equipment includes everything from **weapons** and **armor** to general tools and items. Be sure to record your starting equipment on the character sheet.
 

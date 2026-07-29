@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - College of Lore🦸‍♀️
 created: 2026-07-23T10:41:20.409+02:00
-modified: 2026-07-23T12:14:48.301+02:00
-published: 2026-07-23T12:14:48.301+02:00
+modified: 2026-07-29T08:11:23.218+02:00
+published: 2026-07-29T08:11:23.218+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -12,7 +12,7 @@ dateitags:
   - "#5e"
 status: ✅
 hauptklasse:
-  - "[[5e - Bard]]"
+  - "[[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Bard/5e - Bard]]"
 kurzbeschreibung: Bards of the College of Lore know something about most things, collecting bits of knowledge from sources as diverse as scholarly tomes and peasant tales.
 ---
 
@@ -26,7 +26,7 @@ The college’s members gather in libraries and sometimes in actual colleges, co
 
 ### Level 3: Bonus Proficiencies
 
-You	gain	proficiency	with	three	[[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - Skills|💃Skills]]	of	your choice.
+You	gain	proficiency	with	three	[[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - Skills|💃Skills]]	of	your choice.
 
 ### Level 3: Cutting Words
 

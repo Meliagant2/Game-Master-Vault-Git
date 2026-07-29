@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Fighter🦸‍♀️
 created: 2026-07-20T12:11:02.557+02:00
-modified: 2026-07-28T10:15:06.375+02:00
-published: 2026-07-28T10:15:06.375+02:00
+modified: 2026-07-29T08:11:23.361+02:00
+published: 2026-07-29T08:11:23.361+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -158,11 +158,11 @@ You adopt a particular style of fighting as your specialty. Choose one of the fo
 >
 > #### Blind Fighting
 >
-> You have [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Senses/5e - Blindsight|👁️Blindsight]] with a range of <u>10 feet</u>.
+> You have [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Senses/5e - Blindsight|👁️Blindsight]] with a range of <u>10 feet</u>.
 >
 > #### Close Quarters Shooter
 >
-> When making a <u>ranged weapon attack</u> while you are within <u>5 feet</u> of a hostile creature, you do not have **DISADV** on the <u>attack roll</u>. Your <u>ranged weapon attacks</u> ignore [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Environment/5e - Cover/5e - Half Cover|🏔️Half Cover]] and [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Environment/5e - Cover/5e - Three-Quarters Cover|🏔️Three-Quarters Cover]] against targets within <u>30 feet</u> of you. Finally, you  have a `+1` bonus to <u>attack rolls</u> on <u>ranged attacks</u>.
+> When making a <u>ranged weapon attack</u> while you are within <u>5 feet</u> of a hostile creature, you do not have **DISADV** on the <u>attack roll</u>. Your <u>ranged weapon attacks</u> ignore [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Environment/5e - Cover/5e - Half Cover|🏔️Half Cover]] and [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Environment/5e - Cover/5e - Three-Quarters Cover|🏔️Three-Quarters Cover]] against targets within <u>30 feet</u> of you. Finally, you  have a `+1` bonus to <u>attack rolls</u> on <u>ranged attacks</u>.
 >
 > #### Defensive Fighting
 >
@@ -182,7 +182,7 @@ You adopt a particular style of fighting as your specialty. Choose one of the fo
 >
 > #### Heavyweight Fighting
 >
-> You use the weight of your weapon, to land devastating blows. While you are wielding a <u>heavy weapon</u>, you gain a `+2` bonus to <u>damage rolls</u> and you have **ADV** on <u>Athletics checks</u> made to [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Basic Maneuvers/5e - Shove (Maneuver)|🤺Shove]].
+> You use the weight of your weapon, to land devastating blows. While you are wielding a <u>heavy weapon</u>, you gain a `+2` bonus to <u>damage rolls</u> and you have **ADV** on <u>Athletics checks</u> made to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Basic Maneuvers/5e - Shove (Maneuver)|🤺Shove]].
 >
 > #### Improvised Fighting
 >
@@ -226,7 +226,7 @@ You adopt a particular style of fighting as your specialty. Choose one of the fo
 >
 > #### Unarmed Fighting
 >
-> Your <u>unarmed strikes</u> can deal bludgeoning damage equal to `1d6 + STR` on a hit. If you aren’t wielding any weapons or a shield when you make the attack roll, the `d6` becomes a `d8`. At the start of each of your turns, you can deal `1d4` bludgeoning damage to one creature [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Basic Maneuvers/5e - Grapple (Maneuver)|🤺Grappled]] by you.
+> Your <u>unarmed strikes</u> can deal bludgeoning damage equal to `1d6 + STR` on a hit. If you aren’t wielding any weapons or a shield when you make the attack roll, the `d6` becomes a `d8`. At the start of each of your turns, you can deal `1d4` bludgeoning damage to one creature [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Basic Maneuvers/5e - Grapple (Maneuver)|🤺Grappled]] by you.
 >
 > #### Versatile Fighting
 >
@@ -234,25 +234,25 @@ You adopt a particular style of fighting as your specialty. Choose one of the fo
 >
 > #### Wrestler
 >
-> When you hit a creature with a <u>melee attack</u>, you can attempt to [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Basic Maneuvers/5e - Grapple (Maneuver)|🤺Grapple]] that creature as a **Bonus Action** on that turn, so long as you have a free hand to do so. Also, you can drag grappled creatures up to your full speed.
+> When you hit a creature with a <u>melee attack</u>, you can attempt to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Basic Maneuvers/5e - Grapple (Maneuver)|🤺Grapple]] that creature as a **Bonus Action** on that turn, so long as you have a free hand to do so. Also, you can drag grappled creatures up to your full speed.
 
 ### Level 1: Second Wind
 
 You have a limited well of physical and mental stamina that you can draw on. As a **Bonus Action**, you can use it to regain <u>Hit Points</u> equal to `1d10 + your Fighter level`.
 
-You can use this feature a number of times as shown in the <u>Second Wind column</u> of the <u>Fighter table</u>. You regain <u>one</u> expended use when you finish a [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Short Rest|👁️Short Rest]], and you regain <u>all</u> expended uses when you finish a [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Long Rest|👁️Long Rest]].
+You can use this feature a number of times as shown in the <u>Second Wind column</u> of the <u>Fighter table</u>. You regain <u>one</u> expended use when you finish a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Short Rest|👁️Short Rest]], and you regain <u>all</u> expended uses when you finish a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Long Rest|👁️Long Rest]].
 
 ### Level 1: Combat Maneuvers
 
-You gain the ability to use [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Maneuvers|🤺Combat Maneuvers]]. You gain proficiency in two **combat traditions** of your choice. You learn <u>three</u> <u>maneuvers</u> of your choice from traditions you are proficient with.
+You gain the ability to use [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Maneuvers|🤺Combat Maneuvers]]. You gain proficiency in two **combat traditions** of your choice. You learn <u>three</u> <u>maneuvers</u> of your choice from traditions you are proficient with.
 
-You gain an [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Exertion|🤺Exertion]] pool equal to `2 x your proficiency bonus`, regaining any spent exertion at the end of a [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Short Rest|😴Short]] or [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Long Rest|😴Long Rest]].  You use your maneuvers by spending points from your <u>exertion pool</u>. The <u>Maneuvers Known column</u> of the Fighter table shows when you learn more maneuvers from a tradition you are proficient with, while the <u>Maneuver Degree column</u> shows the highest degree you can select maneuvers from at a given level.
+You gain an [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Exertion|🤺Exertion]] pool equal to `2 x your proficiency bonus`, regaining any spent exertion at the end of a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Short Rest|😴Short]] or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Long Rest|😴Long Rest]].  You use your maneuvers by spending points from your <u>exertion pool</u>. The <u>Maneuvers Known column</u> of the Fighter table shows when you learn more maneuvers from a tradition you are proficient with, while the <u>Maneuver Degree column</u> shows the highest degree you can select maneuvers from at a given level.
 
 Additionally, whenever you learn a new maneuver, you can choose one of the maneuvers you know and replace it with another maneuver of the same degree from a tradition you are proficient with.
 
 ### Level 2: Action Surge
 
-You can push yourself past your limits, if only for a moment. On your turn, you can take one additional **Action**, except the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Magic Action|⚔️Magic Action]].
+You can push yourself past your limits, if only for a moment. On your turn, you can take one additional **Action**, except the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Magic Action|⚔️Magic Action]].
 
 Once you do so, you must finish a **short** or **long rest** before you can use this feature again.
 
@@ -275,27 +275,27 @@ Over the course of your training and adventures you have picked up a variety of 
 >
 > #### Campaigner
 >
-> You have the ability to go for the long haul, carrying heavy equipment across long distances. You double your <u>STR</u> when determining your <u>carrying capacity</u> and the weight you can <u>lift</u>, <u>push</u>, or <u>drag</u>. You may also add your proficiency bonus to the number of hours you can march before you risk [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Fatigue|☠️Fatigue]] from a forced march.
+> You have the ability to go for the long haul, carrying heavy equipment across long distances. You double your <u>STR</u> when determining your <u>carrying capacity</u> and the weight you can <u>lift</u>, <u>push</u>, or <u>drag</u>. You may also add your proficiency bonus to the number of hours you can march before you risk [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Fatigue|☠️Fatigue]] from a forced march.
 >
 > #### Clearsight Sentinel
 >
-> You gain [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Senses/5e - Darkvision|👁️Darkvision]] with a range of <u>60 feet</u>.
+> You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Senses/5e - Darkvision|👁️Darkvision]] with a range of <u>60 feet</u>.
 >
 > #### Extreme Leap
 >
-> When you take the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Dash|5⚔️Dash]]-Action and make a [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Speed/5e - Jumping|🏃‍♀️Long Jump]] after moving no less than <u>20 feet</u>, your jump distance is <u>doubled</u> for the turn. You may spend `1 exertion` to <u>triple</u> your <u>jump distance</u> for the turn instead, and may move the full distance of your jump even if it exceeds your Speed.
+> When you take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Dash|5⚔️Dash]]-Action and make a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Speed/5e - Jumping|🏃‍♀️Long Jump]] after moving no less than <u>20 feet</u>, your jump distance is <u>doubled</u> for the turn. You may spend `1 exertion` to <u>triple</u> your <u>jump distance</u> for the turn instead, and may move the full distance of your jump even if it exceeds your Speed.
 >
 > #### Mountaineer
 >
-> You gain a <u>climbing speed</u> equal to your <u>Speed</u>, and may spend `1 exertion` to reroll a failed <u>Athletics</u> check to climb, choosing whether to use the new roll or the original. In addition, moving through nonmagical [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Environment/5e - Difficult Terrain|🏔️Difficult Terrain]] costs you no extra movement.
+> You gain a <u>climbing speed</u> equal to your <u>Speed</u>, and may spend `1 exertion` to reroll a failed <u>Athletics</u> check to climb, choosing whether to use the new roll or the original. In addition, moving through nonmagical [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Environment/5e - Difficult Terrain|🏔️Difficult Terrain]] costs you no extra movement.
 >
 > #### Nightwatch
 >
-> When taking a [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Long Rest|😴Long Rest]], add your proficiency bonus to the number of hours you can spend in <u>light activity</u>. In addition, one hour of that time can be spent in <u>strenuous activity</u> near the rest site (such as patrolling, fighting, or other adventuring activities) without interrupting your rest.
+> When taking a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Long Rest|😴Long Rest]], add your proficiency bonus to the number of hours you can spend in <u>light activity</u>. In addition, one hour of that time can be spent in <u>strenuous activity</u> near the rest site (such as patrolling, fighting, or other adventuring activities) without interrupting your rest.
 >
 > #### Stable Footing
 >
-> A steady stance and careful footwork is instinctive to you. You have **ADV** on any <u>check</u> or <u>saving throw</u> to avoid falling [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]] or handle difficult ground (such as against a [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Level 1 Conjuration/5e - Grease (Spell)|☄️Grease]] spell or slippery ice). You are never <u>prone</u> after taking <u>fall damage</u>, and when calculating fall damage you treat the fall distance as if it were shorter by a number of feet equal to `PB × 10`.
+> A steady stance and careful footwork is instinctive to you. You have **ADV** on any <u>check</u> or <u>saving throw</u> to avoid falling [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]] or handle difficult ground (such as against a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Level 1 Conjuration/5e - Grease (Spell)|☄️Grease]] spell or slippery ice). You are never <u>prone</u> after taking <u>fall damage</u>, and when calculating fall damage you treat the fall distance as if it were shorter by a number of feet equal to `PB × 10`.
 >
 > #### Weather Beaten
 >
@@ -303,7 +303,7 @@ Over the course of your training and adventures you have picked up a variety of 
 
 ### Level 2: Feat
 
-As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
 ### Level 3: 🦸‍♀️5e - Fighter🦸‍♀️ Subclass
 
@@ -313,19 +313,27 @@ Your 🦸‍♀️5e - Fighter🦸‍♀️ Subclass grants you features at 3rd,
 
 | Subclass                                                                                                                               | Description                                                                                                                                                                                                                                                                                                                                |
 | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Fighter/5e - Bladeseer.md\|5e - Bladeseer]]             | Fighters always strive to be two steps ahead of their opponents, studying their techniques, predicting their moves, and outmaneuvering them by precision and skill. The bladeseer takes this approach one step further, using their weapon as a focus to manipulate fate and see beyond normal means.                                      |
+| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Fighter/5e - Cavalier.md\|5e - Cavalier]]               | Often raised at court or in the upper circles of the nobility, the archetypal Cavalier is a chivalric warrior of the highest order. They excel at mounted combat and wander the world in search of adventure and opportunities for heroism.                                                                                                |
 | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Fighter/5e - Charging Shield.md\|5e - Charging Shield]] | Though primarily an armament for defense, in the hands of a properly trained combatant a shield can become a powerful weapon. Charging Shield warriors are thus terrifying to behold in battle, battering away the blows of their foes while surging through combat to deliver shattering strikes at the edge of their chosen tool of war. |
+| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Fighter/5e - Crusader.md\|5e - Crusader]]               | Many warriors swear Oaths to gods of battle and war, but not all are blessed with the divine power of paladins or clerics. Those who fight for the gods without their explicit blessing are known as Crusaders.                                                                                                                            |
+| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Fighter/5e - Duelist.md\|5e - Duelist]]                 | Dueling is about reading an opponent, getting into their head and knowing what they’ll do before they do. A duelist moves with grace and style, attacks with finesse and biting wit, and lives a life of flamboyance and honor.                                                                                                            |
+| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Fighter/5e - Dungoneer.md\|5e - Dungoneer]]             | A dungeoneer is at home in underground lairs, winding caves, and labyrinthian passages. They have adapted to the harsh conditions of dungeon environments and turned them to their advantage.                                                                                                                                              |
 | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Fighter/5e - Echo Knight.md\|5e - Echo Knight]]         | A mysterious and feared frontline warrior, the Echo Knight has mastered the art of using magic powers to summon the fading shades of unrealized timelines to aid them in battle.                                                                                                                                                           |
 | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Fighter/5e - Gladiator.md\|5e - Gladiator]]             | Gladiators are athletes of bloodsports and performers to mass applause—more than simple warriors, they’re entertainers with a dramatic flair who have survived and triumphed where countless others have failed. Gladiator fighters are champions, feared or beloved but always respected.                                                 |
+| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Fighter/5e - Houndmaster.md\|5e - Houndmaster]]         | Whether on a lonely hunt in the deep forest or blazing a path through the battlefield, the image of a rugged figure moving as one with their faithful hound is an iconic one.                                                                                                                                                              |
 | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Fighter/5e - Marksman.md\|5e - Marksman]]               | While all fighters learn to draw a bow or hurl a javelin, those who train as Marksmen dedicate themselves to mastering ranged weapons of all types. Often, their deadly skills are backed up with an unmistakable swagger and unshakable confidence.                                                                                       |
+| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Fighter/5e - Master at Arms.md\|5e - Master at Arms]]   | While most fighters master one specific martial discipline, a Master at Arms is the rare warrior who is able to truly master multiple styles of combat. Whether through grit, dedication, or extraordinary skill, these elite fighters learn all they can about the theory of combat.                                                      |
+| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Fighter/5e - Militarist.md\|5e - Militarist]]           | As comfortable in a war council as they are on the front lines, militarists are always looking for ways to exploit the weaknesses of their enemies.                                                                                                                                                                                        |
 | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Fighter/5e - Rune Knight.md\|5e - Rune Knight]]         | In the times of ancient, humans made pacts with giants and learned their powerful Rune magic. Traces of this ancient magic can still be found in the wild and remote places of the world, and Fighters who learn to use the power of Runes to augment combat ability become known as Rune Knights.                                         |
 
 ### Level 4: Feat
 
-As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
 ### Level 5: Extra Attack
 
-You can attack twice, instead of once, when you take the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Attack (Action)|⚔️Attack]]-Action on your turn.
+You can attack twice, instead of once, when you take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Attack (Action)|⚔️Attack]]-Action on your turn.
 
 ### Level 5: Maneuver Specialization
 
@@ -345,7 +353,7 @@ Your 🦸‍♀️5e - Fighter🦸‍♀️ Subclass grants you features at 3rd,
 
 ### Level 7: Feat
 
-As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
 ### Level 8: Martial Lore
 
@@ -375,11 +383,11 @@ Your 🦸‍♀️5e - Fighter🦸‍♀️ Subclass grants you features at 3rd,
 
 ### Level 10: Feat
 
-As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
 ### Level 11: Second Extra Attack
 
-You can attack three times, instead of twice, when you take the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Attack (Action)|⚔️Attack]]-Action on your turn..
+You can attack three times, instead of twice, when you take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Attack (Action)|⚔️Attack]]-Action on your turn..
 
 ### Level 11: Studied Attacks
 
@@ -387,7 +395,7 @@ You masterfully study your opponents and learn from each attack you make. If you
 
 ### Level 12: Feat
 
-As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
 ### Level 13: 🦸‍♀️5e - Fighter🦸‍♀️ Subclass
 
@@ -395,7 +403,7 @@ Your 🦸‍♀️5e - Fighter🦸‍♀️ Subclass grants you features at 3rd,
 
 ### Level 14: Feat
 
-As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
 ### Level 15: Unrelenting
 
@@ -403,7 +411,7 @@ Your Body and Mind are unbreakable. Whenever you use your **Inflexible Feature**
 
 ### Level 16: Feat
 
-As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
 ### Level 17: 🦸‍♀️5e - Fighter🦸‍♀️ Subclass
 
@@ -411,7 +419,7 @@ Your 🦸‍♀️5e - Fighter🦸‍♀️ Subclass grants you features at 3rd,
 
 ### Level 18: Feat
 
-As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
 ### Level 19: Warmaster
 
@@ -419,7 +427,7 @@ You have become an undisputed master of battle. You gain the following benefits:
 
 #### Third Extra Attack
 
-You can attack four times, instead of thrice, when you take the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Attack (Action)|⚔️Attack]]-Action on your turn.
+You can attack four times, instead of thrice, when you take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Attack (Action)|⚔️Attack]]-Action on your turn.
 
 #### Master of Combat
 
@@ -435,7 +443,7 @@ You gain one Epic Boon feat of your choice, for which you qualify.
 
 ### Level 20: Feat
 
-As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
 ## Inspiration/Quelle
 

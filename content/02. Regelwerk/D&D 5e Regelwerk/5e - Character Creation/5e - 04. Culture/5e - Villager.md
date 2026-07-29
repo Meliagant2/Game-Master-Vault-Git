@@ -2,8 +2,8 @@
 publish: true
 title: 🎎5e - Villager🎎
 created: 2026-07-20T18:00:21.058+02:00
-modified: 2026-07-21T12:42:47.896+02:00
-published: 2026-07-21T12:42:47.896+02:00
+modified: 2026-07-29T08:11:24.010+02:00
+published: 2026-07-29T08:11:24.010+02:00
 tags:
   - "#Culture"
   - "#5e"
@@ -30,7 +30,7 @@ More so than larger towns and cities, a village is a community. With rarely more
 
 Characters raised in the village culture share a variety of traits in common with one another:
 
-**Languages:** You can speak, read, write, and sign <u>Common</u> and <u>one other</u> [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Language]].
+**Languages:** You can speak, read, write, and sign <u>Common</u> and <u>one other</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Language]].
 **Skill Proficiencies:** You gain proficiency in <u>Animal Handling</u>.
 **Sharpened Tools:** When danger approaches the village and there are no adventurers around, it’s often left to the villagers to defend themselves with whatever they have on hand. You are proficient with <u>improvised weapons</u>.
 **Tall Tales:** Life along the crossroads rarely offers an opportunity for proper schooling, but the roads carry with them legends and stories from far and wide. You may always choose to use Wisdom when making <u>History</u>, <u>Nature</u>, or <u>Religion</u> checks. However, the Game Master may decide that the results of a check made in this way are distorted or exaggerated forms of the truth.

@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Paladin🦸‍♀️
 created: 2026-07-20T12:11:02.575+02:00
-modified: 2026-07-28T12:13:05.224+02:00
-published: 2026-07-28T12:13:05.224+02:00
+modified: 2026-07-29T08:11:23.573+02:00
+published: 2026-07-29T08:11:23.573+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -163,11 +163,11 @@ In preparing to take your oath, you have learned a number of skills and tricks t
 >
 > #### Divine Health
 >
-> You are immune to <u>diseases</u> and have **ADV** on <u>Saves</u> made to resist the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Poisoned|☠️Poisoned]] condition.
+> You are immune to <u>diseases</u> and have **ADV** on <u>Saves</u> made to resist the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Poisoned|☠️Poisoned]] condition.
 >
 > #### Divine Vision
 >
-> You gain [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Senses/5e - Darkvision|👁️Darkvision]] with a range of <u>60 ft</u>. In addition, you always have the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Divination/5e - Level 2 Divination/5e - See Invisibility (Spell)|☄️See Invisibility]] spell prepared and can use this feature <u>once</u> per **long rest** to cast it without expending a spell slot.
+> You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Senses/5e - Darkvision|👁️Darkvision]] with a range of <u>60 ft</u>. In addition, you always have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Divination/5e - Level 2 Divination/5e - See Invisibility (Spell)|☄️See Invisibility]] spell prepared and can use this feature <u>once</u> per **long rest** to cast it without expending a spell slot.
 >
 > #### Do Without
 >
@@ -179,7 +179,7 @@ In preparing to take your oath, you have learned a number of skills and tricks t
 >
 > #### Glorious Purpose
 >
-> When you agree to undertake a quest that specifically fulfills the tenets of your sacred oath, you gain proficiency with a [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - Skills|💃Skills]] that will be crucial to completing that quest. The skill is chosen by the Game Master. If you are already proficient with the skill, you gain an <u>expertise die</u> instead. The benefits of this divine lesson do not change until the quest has been completed.
+> When you agree to undertake a quest that specifically fulfills the tenets of your sacred oath, you gain proficiency with a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - Skills|💃Skills]] that will be crucial to completing that quest. The skill is chosen by the Game Master. If you are already proficient with the skill, you gain an <u>expertise die</u> instead. The benefits of this divine lesson do not change until the quest has been completed.
 >
 > #### Heraldic Order
 >
@@ -221,7 +221,7 @@ Your blessed touch can heal wounds. You have a pool of healing power that replen
 
 As a **Bonus Action**, you can touch a creature (which could be yourself) and draw power from the pool of healing to restore a number of <u>Hit Points</u> to that creature, up to the maximum amount remaining in the pool.
 
-In addition, you can expend <u>5 Hit Points</u> from the pool of healing to remove the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Poisoned|☠️Poisoned]] condition from the creature, rather than using those points to restore Hit Points.
+In addition, you can expend <u>5 Hit Points</u> from the pool of healing to remove the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Poisoned|☠️Poisoned]] condition from the creature, rather than using those points to restore Hit Points.
 
 ### Level 1: Spellcasting
 
@@ -236,9 +236,9 @@ In addition, you can expend <u>5 Hit Points</u> from the pool of healing to remo
 
 ### Level 2: Combat Maneuvers
 
-You gain the ability to use combat maneuvers. You gain proficiency in two **combat traditions** from the following list: [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Sanguine Knot Tradition/5e - Sanguine Knot Tradition|🤺Sanguine Knot]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Spirited Steed Tradition/5e - Spirited Steed Tradition|🤺Spirited Steed]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Tempered Iron Tradition/5e - Tempered Iron Tradition|🤺Tempered Iron]]. You learn <u>two</u> <u>maneuvers</u> of your choice from traditions you are proficient with.
+You gain the ability to use combat maneuvers. You gain proficiency in two **combat traditions** from the following list: [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Sanguine Knot Tradition/5e - Sanguine Knot Tradition|🤺Sanguine Knot]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Spirited Steed Tradition/5e - Spirited Steed Tradition|🤺Spirited Steed]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Tempered Iron Tradition/5e - Tempered Iron Tradition|🤺Tempered Iron]]. You learn <u>two</u> <u>maneuvers</u> of your choice from traditions you are proficient with.
 
-You gain an [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Exertion|🤺Exertion]] pool equal to `your proficiency bonus`, regaining any spent exertion at the end of a [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Short Rest|😴Short]] or [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Long Rest|😴Long Rest]]. You use your maneuvers by spending points from your <u>exertion pool</u>. Also, at the start of each of your turns you can expend spell slots of `1st-level` or higher to gain a number of exertion points equal to the expended spell slot level (**no action** required).
+You gain an [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Exertion|🤺Exertion]] pool equal to `your proficiency bonus`, regaining any spent exertion at the end of a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Short Rest|😴Short]] or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Long Rest|😴Long Rest]]. You use your maneuvers by spending points from your <u>exertion pool</u>. Also, at the start of each of your turns you can expend spell slots of `1st-level` or higher to gain a number of exertion points equal to the expended spell slot level (**no action** required).
 
 The <u>Maneuvers Known column</u> of the Paladin table shows when you learn more maneuvers from a tradition you are proficient with, while the<u> Maneuver Degree</u> column shows the highest degree you can select maneuvers from at a given level.
 
@@ -252,15 +252,15 @@ The damage is `1d8 + the Spell Slot's Level`.
 
 Also when you deal Paladin's Smite damage you can add one of the following effects. Each effect has a <u>die cost</u>, which is the number of **Paladin's Smite** <u>damage dice</u> you must forego to add the effect. You remove the die before rolling, and the effect occurs immediately after the attack's damage is dealt. If a Smite requires a saving throw, your **Smite save DC** equals your **Spell Save DC**.
 
-**<u>Thunderous (Cost: 1d8):</u>** The damage type of your **Paladin's Smite** is <u>thunder</u> damage. The target makes a **STR Save**. _**Failure:**_ The Target is pushed <u>10 feet</u> away from you and is [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]].
+**<u>Thunderous (Cost: 1d8):</u>** The damage type of your **Paladin's Smite** is <u>thunder</u> damage. The target makes a **STR Save**. _**Failure:**_ The Target is pushed <u>10 feet</u> away from you and is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]].
 
-**<u>Wrathful (Cost: 1d8):</u>** The damage type of the **Paladin's Smite** is <u>psychic</u> damage. The target makes a **WIS Save**. _**Failure:**_ The Target is [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Frightened|☠️Frightened]] until the end of your next turn.
+**<u>Wrathful (Cost: 1d8):</u>** The damage type of the **Paladin's Smite** is <u>psychic</u> damage. The target makes a **WIS Save**. _**Failure:**_ The Target is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Frightened|☠️Frightened]] until the end of your next turn.
 
 You can use your Paladin's Smite no more than <u>once</u> during a turn, and you can't use it on the same turn that you cast a <u>Spell</u> using your **Bonus Action**.
 
 ### Level 2: Feat
 
-As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
 ### Level 3: 🦸‍♀️5e - Paladin🦸‍♀️ Subclass
 
@@ -268,22 +268,30 @@ You choose one 🦸‍♀️5e - Paladin🦸‍♀️ Subclass, which represents
 
 Your 🦸‍♀️5e - Paladin🦸‍♀️ Subclass grants you features at 3rd, 6th, 9th, 13th, and again at 17th level.
 
-| Subclass                                                                                                                                     | Description                                                                                                                                                                                                                                                                                          |
-| -------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Paladin/5e - Oath of Redemption.md\|5e - Oath of Redemption]] | The Oath of Redemption sets a paladin on a difficult path, one that requires a holy warrior to use violence only as a last resort. Paladins who dedicate themselves to this oath believe that any person can be redeemed and that the path of benevolence and justice is one that anyone can walk.   |
-| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Paladin/5e - Oath of the Crown.md\|5e - Oath of the Crown]]   | The Oath of the Crown is sworn to the ideals of civilization, be it the spirit of a nation, fealty to a sovereign, or service to a deity of law and rulership. The paladins who swear this oath dedicate themselves to serving society and, in particular, the just laws that hold society together. |
+| Subclass                                                                                                                                         | Description                                                                                                                                                                                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Paladin/5e - Oath of Conquest.md\|5e - Oath of Conquest]]         | The Oath of Conquest calls to paladins who seek glory in battle and the subjugation of their enemies. It isn’t enough for these paladins to establish order. They must crush the forces of chaos.                                                                                                    |
+| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Paladin/5e - Oath of Devotion.md\|5e - Oath of Devotion]]         | The Oath of Devotion binds a paladin to the loftiest ideals of justice, virtue, and order. Sometimes called cavaliers, white knights, or holy warriors, these paladins meet the ideal of the knight in shining armor, acting with honor in pursuit of justice and the greater good.                  |
+| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Paladin/5e - Oath of Glory.md\|5e - Oath of Glory]]               | Paladins who take the Oath of Glory believe they and their companions are destined to achieve glory through deeds of heroism. They train diligently and encourage their companions so they’re all ready when destiny calls.                                                                          |
+| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Paladin/5e - Oath of Redemption.md\|5e - Oath of Redemption]]     | The Oath of Redemption sets a paladin on a difficult path, one that requires a holy warrior to use violence only as a last resort. Paladins who dedicate themselves to this oath believe that any person can be redeemed and that the path of benevolence and justice is one that anyone can walk.   |
+| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Paladin/5e - Oath of the Ancients.md\|5e - Oath of the Ancients]] | The Oath of the Ancients is as old as the first elves. Paladins who swear this oath cherish the light; they love the beautiful and life-giving things of the world more than any principles of honor, courage, and justice.                                                                          |
+| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Paladin/5e - Oath of the Crown.md\|5e - Oath of the Crown]]       | The Oath of the Crown is sworn to the ideals of civilization, be it the spirit of a nation, fealty to a sovereign, or service to a deity of law and rulership. The paladins who swear this oath dedicate themselves to serving society and, in particular, the just laws that hold society together. |
+| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Paladin/5e - Oath of the Open Sea.md\|5e - Oath of the Open Sea]] | The Oath of the Open Sea calls to seafaring warriors, swashbuckling sailors, and traveling guardians who seek the thrill of a limitless horizon.                                                                                                                                                     |
+| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Paladin/5e - Oath of the Watchers.md\|5e - Oath of the Watchers]] | The Oath of the Watchers binds paladins to protect mortal realms from the predations of extraplanar creatures, many of which can lay waste to mortal soldiers.                                                                                                                                       |
+| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Paladin/5e - Oath of Vengeance.md\|5e - Oath of Vengeance]]       | The Oath of Vengeance is a solemn commitment to punish those who have committed a grievous sin. To these paladins — sometimes called avengers or dark knights — their own purity is not as important as delivering justice.                                                                          |
+| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Paladin/5e - Oathless.md\|5e - Oathless]]                         | Not all paladins are able to hold to their Sacred Oaths. Some break their Oath and fall into evil, becoming Blackguards and Oathbreakers, but not all who falter become paragons of evil.                                                                                                            |
 
 ### Level 4: Feat
 
-As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
 ### Level 5: Extra Attack
 
-You can attack twice, instead of once, when you take the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Attack (Action)|⚔️Attack]]-Action on your turn.
+You can attack twice, instead of once, when you take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Attack (Action)|⚔️Attack]]-Action on your turn.
 
 ### Level 5: Faithful Steed
 
-You can easily call on the aid of an otherworldly steed. You always have the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Level 2 Conjuration/5e - Find Steed (Spell)|☄️Find Steed]] spell prepared.
+You can easily call on the aid of an otherworldly steed. You always have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Level 2 Conjuration/5e - Find Steed (Spell)|☄️Find Steed]] spell prepared.
 
 You can also cast the spell <u>once</u> without expending a spell slot, and you regain the ability to do so when you finish a **Long Rest**. If you cast the Spell in this way, you treat it as if you had used a Spell Slot of the highest level available to you.
 
@@ -293,11 +301,11 @@ Your 🦸‍♀️5e - Paladin🦸‍♀️ Subclass grants you features at 3rd,
 
 ### Level 7: Feat
 
-As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
 ### Level 8: Sacred Aura
 
-You radiate an unseeable aura in a <u>10-foot Emanation</u> that originates from you. The aura is inactive while you have the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]] condition. You can have only one of the following auras active at a time, and can change which aura is active whenever you finish a **long rest**. At <u>19th level</u>, the range of all auras (including the ones given to you by your subclass) increases to <u>30 feet</u>. A creature can benefit from this feature from only one paladin at a time.
+You radiate an unseeable aura in a <u>10-foot Emanation</u> that originates from you. The aura is inactive while you have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]] condition. You can have only one of the following auras active at a time, and can change which aura is active whenever you finish a **long rest**. At <u>19th level</u>, the range of all auras (including the ones given to you by your subclass) increases to <u>30 feet</u>. A creature can benefit from this feature from only one paladin at a time.
 
 **<u>Aura of Healing:</u>** Whenever you or an ally cast a <u>spell</u> to <u>heal</u> yourself or another ally while both are within your aura, both the spellcaster and target gain additional <u>hit points</u> equal to `3 x your CHA modifier`.
 
@@ -309,9 +317,9 @@ You radiate an unseeable aura in a <u>10-foot Emanation</u> that originates fr
 
 When you use your **Paladin's Smite**, you may choose from these additional options.
 
-**<u>Shining (Cost: 2d8):</u>** The target makes a **repeated DEX Save**. _**Failure:**_ It sheds [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Illumination/5e - Bright Light|💡Bright Light]] in a <u>5-foot radius emanation</u> for <u>1 Minute</u>. During this period, it can't benefit from the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Invisible|☠️Invisible]] condition and all <u>attack rolls</u> against it have **ADV**.
+**<u>Shining (Cost: 2d8):</u>** The target makes a **repeated DEX Save**. _**Failure:**_ It sheds [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Illumination/5e - Bright Light|💡Bright Light]] in a <u>5-foot radius emanation</u> for <u>1 Minute</u>. During this period, it can't benefit from the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Invisible|☠️Invisible]] condition and all <u>attack rolls</u> against it have **ADV**.
 
-**<u>Searing (Cost: 2d8):</u>** The damage type of your **Paladin's Smite** is <u>fire</u> damage. The Target starts [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Burning|☠️Burning]] for 1 Minute. It makes **repeated CON Saves** to end the effect.
+**<u>Searing (Cost: 2d8):</u>** The damage type of your **Paladin's Smite** is <u>fire</u> damage. The Target starts [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Burning|☠️Burning]] for 1 Minute. It makes **repeated CON Saves** to end the effect.
 
 ### Level 9: 🦸‍♀️5e - Paladin🦸‍♀️ Subclass
 
@@ -319,15 +327,15 @@ Your 🦸‍♀️5e - Paladin🦸‍♀️ Subclass grants you features at 3rd,
 
 ### Level 10: Feat
 
-As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
 ### Level 11: Greater Improved Paladin's Smite
 
 When you use your Paladin's Smite, you may choose from these additional options.
 
-**<u>Blinding (Cost: 2d8):</u>** The target makes a **repeated CON Save**. _**Failure:**_ The Target is [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Blinded|☠️Blinded]] for <u>1 Minute</u>. _**Success:**_ The Target is [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Hindered|☠️Hindered]] until the end of its next turn.
+**<u>Blinding (Cost: 2d8):</u>** The target makes a **repeated CON Save**. _**Failure:**_ The Target is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Blinded|☠️Blinded]] for <u>1 Minute</u>. _**Success:**_ The Target is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Hindered|☠️Hindered]] until the end of its next turn.
 
-**<u>Staggering (Cost: 2d8):</u>** The damage type of your **Paladin's Smite** is <u>psychic</u> damage. The target makes a **WIS Save**. _**Failure:**_ The Target is [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Stunned|☠️Stunned]] until the end of your next turn. _**Success:**_ The Target is [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Rattled|☠️Rattled]] instead.
+**<u>Staggering (Cost: 2d8):</u>** The damage type of your **Paladin's Smite** is <u>psychic</u> damage. The target makes a **WIS Save**. _**Failure:**_ The Target is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Stunned|☠️Stunned]] until the end of your next turn. _**Success:**_ The Target is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Rattled|☠️Rattled]] instead.
 
 ### Level 11: Radiant Strikes
 
@@ -335,7 +343,7 @@ You are so suffused with divine might that your weapon strikes carry supernatura
 
 ### Level 12: Feat
 
-As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
 ### Level 13: 🦸‍♀️5e - Paladin🦸‍♀️ Subclass
 
@@ -343,17 +351,17 @@ Your 🦸‍♀️5e - Paladin🦸‍♀️ Subclass grants you features at 3rd,
 
 ### Level 14: Feat
 
-As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
 ### Level 15: Improved Sacred Aura
 
 You gain a more powerful aura that is active alongside your **Sacred Aura**. The range of this aura is the same, and you can only have one **Improved  Sacred Aura** active at a time. You can swap your active improved aura upon finishing a **long rest**.
 
-**<u>Aura of Courage:</u>** You and allies within range cannot be [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Frightened|☠️Frightened]].
+**<u>Aura of Courage:</u>** You and allies within range cannot be [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Frightened|☠️Frightened]].
 
-**<u>Aura of Smiting:</u>** Whenever an ally within your aura scores a [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Checks & Saves Outcomes/5e - Critical Success|🎲Critical Hit]] with a <u>weapon attack</u>, they deal additional <u>radiant</u> damage equal to `1/2 x your paladin level (rounded down)`.
+**<u>Aura of Smiting:</u>** Whenever an ally within your aura scores a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Checks & Saves Outcomes/5e - Critical Success|🎲Critical Hit]] with a <u>weapon attack</u>, they deal additional <u>radiant</u> damage equal to `1/2 x your paladin level (rounded down)`.
 
-**<u>Aura of Willpower:</u>** You and allies within range cannot be [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]].
+**<u>Aura of Willpower:</u>** You and allies within range cannot be [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]].
 
 ### Level 15: Infectious Resolve
 
@@ -363,13 +371,13 @@ You can use your **Action** to touch one willing creature (or yourself) and choo
 
 **<u>Iron Will:</u>** For the next <u>1 minute</u>, as long as you are conscious the target gains **ADV** on **WIS Saves**.
 
-**<u>Walk It Off:</u>** One <u>spell effect</u> or [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Conditions|☠️Condition]] affecting the target ends.
+**<u>Walk It Off:</u>** One <u>spell effect</u> or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Conditions|☠️Condition]] affecting the target ends.
 
 Once you have used this feature a number of times equal to <u>your CHA modifier</u>, you cannot do so again until you finish a **long rest**.
 
 ### Level 16: Feat
 
-As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
 ### Level 17: 🦸‍♀️5e - Paladin🦸‍♀️ Subclass
 
@@ -377,13 +385,13 @@ Your 🦸‍♀️5e - Paladin🦸‍♀️ Subclass grants you features at 3rd,
 
 ### Level 18: Feat
 
-As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
 ### Level 19: Supreme Paladin's Smite
 
 When you use your Paladin's Smite, you may choose from these additional options.
 
-**Banishing (Cost: 2d8)** The damage type of the **Paladin's Smite** is <u>force</u> damage. The target must succeed on a **CHA Save**. _**Failure:**_ The Target is transported to a harmless demiplane for <u>1 Minute</u> and is [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]] for the duration. A target with more than <u>50 hit points</u> remaining reappears at the start of your next turn in the space it left or the nearest unoccupied space if that space is occupied.
+**Banishing (Cost: 2d8)** The damage type of the **Paladin's Smite** is <u>force</u> damage. The target must succeed on a **CHA Save**. _**Failure:**_ The Target is transported to a harmless demiplane for <u>1 Minute</u> and is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]] for the duration. A target with more than <u>50 hit points</u> remaining reappears at the start of your next turn in the space it left or the nearest unoccupied space if that space is occupied.
 
 ### Level 19: Aura Expansion
 
@@ -395,7 +403,7 @@ You gain one Epic Boon feat of your choice, for which you qualify.
 
 ### Level 20: Feat
 
-As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
 ## Inspiration/Quelle
 

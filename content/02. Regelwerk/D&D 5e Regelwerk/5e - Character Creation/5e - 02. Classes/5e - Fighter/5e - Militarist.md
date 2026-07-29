@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Militarist🦸‍♀️
 created: 2026-07-27T12:10:07.575+02:00
-modified: 2026-07-27T14:11:34.527+02:00
-published: 2026-07-27T14:11:34.527+02:00
+modified: 2026-07-29T08:11:23.428+02:00
+published: 2026-07-29T08:11:23.428+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -12,7 +12,7 @@ dateitags:
   - "#5e"
 status: ✅
 hauptklasse:
-  - "[[5e - Fighter]]"
+  - "[[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Fighter/5e - Fighter]]"
 kurzbeschreibung: As comfortable in a war council as they are on the front lines, militarists are always looking for ways to exploit the weaknesses of their enemies.
 ---
 
@@ -38,7 +38,7 @@ When using **Prior Tactics** the chosen allies gain an <u>expertise die</u> on t
 
 ### Level 9: Commander of Armies
 
-You learn a [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Marshal/5e - Marshal|🦸‍♀️Marshal]] **lesson of war**. Also, whenever you learn a new **soldiering knack** or replace an existing one, you can instead choose a **lesson of war**.
+You learn a [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Marshal/5e - Marshal|🦸‍♀️Marshal]] **lesson of war**. Also, whenever you learn a new **soldiering knack** or replace an existing one, you can instead choose a **lesson of war**.
 
 Additionally, using **Prior Tactics** costs `1 less exertion` (`minimum 1 exertion`) and you can now choose for the extra damage dealt by it to be <u>acid</u>, <u>fire</u>, or <u>poison</u> damage.
 
@@ -46,7 +46,7 @@ Additionally, using **Prior Tactics** costs `1 less exertion` (`minimum 1 exerti
 
 When you use your **Indomitable** feature, you may immediately use **Prior Tactics** without spending <u>exertion</u> (**no Action** required), its range increases to <u>50 feet</u>, and you need not choose allies able to hear you.
 
-In addition, you have **ADV** on <u>Saves</u> made to resist spells of the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Spellschool Enchantment|☄️Enchantment]] school.
+In addition, you have **ADV** on <u>Saves</u> made to resist spells of the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Spellschool Enchantment|☄️Enchantment]] school.
 
 ### Level 17: Master Coordinator
 

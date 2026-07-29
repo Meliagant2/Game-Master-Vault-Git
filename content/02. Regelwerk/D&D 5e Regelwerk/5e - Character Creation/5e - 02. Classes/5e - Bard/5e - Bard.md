@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Bard🦸‍♀️
 created: 2026-07-20T12:11:02.526+02:00
-modified: 2026-07-28T09:07:45.614+02:00
-published: 2026-07-28T09:07:45.614+02:00
+modified: 2026-07-29T08:11:23.140+02:00
+published: 2026-07-29T08:11:23.140+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -291,7 +291,7 @@ Choose one skill or tool you are proficient with. You gain an <u>expertise die</
 
 ### Level 2: Feat
 
-As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
 ### Level 3: 🦸‍♀️5e - Bard🦸‍♀️ Subclass
 
@@ -299,12 +299,21 @@ You choose one 🦸‍♀️5e - Bard🦸‍♀️ Subclass, which represents yo
 
 Your 🦸‍♀️5e - Bard🦸‍♀️ Subclass grants you features at 3rd, 6th, 9th, 13th, and again at 17th level.
 
-| Subclass | Description |
-| -------- | ----------- |
+| Subclass                                                                                                                                      | Description                                                                                                                                                                                                                                                                   |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Bard/5e - College of Comedy.md\|5e - College of Comedy]]       | Long have the performing arts been a favorite pastime for people of all walks of life. Performers and thespians use the stage to tell stories that while fictional, can reveal great truths about life, death, and the struggles in between.                                  |
+| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Bard/5e - College of Creation.md\|5e - College of Creation]]   | Bards believe the cosmos is a work of art—the creation of the first dragons and gods. That creative work included harmonies that continue to resound through existence today, a power known as the Song of Creation.                                                          |
+| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Bard/5e - College of Dance.md\|5e - College of Dance]]         | Bards of the College of Dance know that the Words of Creation can’t be contained within speech or even song; they are uttered by the movements of celestial bodies and flow through the motions of even the smallest creatures.                                               |
+| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Bard/5e - College of Eloquence.md\|5e - College of Eloquence]] | Adherents of the College of Eloquence master the art of oratory. Persuasion is regarded as a high art, and a well-reasoned, well-spoken argument often proves more persuasive than facts.                                                                                     |
+| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Bard/5e - College of Glamour.md\|5e - College of Glamour]]     | The College of Glamour is the home of bards who mastered their craft in the vibrant realm of the Feywild or under the tutelage of someone who dwelled there. Tutored by satyrs, eladrin, and other fey, these bards learn to use their magic to delight and captivate others. |
+| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Bard/5e - College of Lore.md\|5e - College of Lore]]           | Bards of the College of Lore know something about most things, collecting bits of knowledge from sources as diverse as scholarly tomes and peasant tales.                                                                                                                     |
+| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Bard/5e - College of Spirits.md\|5e - College of Spirits]]     | Bards of the College of Spirits seek tales with inherent power—be they legends, histories, or fictions— and bring their subjects to life.                                                                                                                                     |
+| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Bard/5e - College of Tragedy.md\|5e - College of Tragedy]]     | These bards specialize in the power of tragic storytelling, weaving words and spells together to dramatic and devastating effect.                                                                                                                                             |
+| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Bard/5e - College of Whispers.md\|5e - College of Whispers]]   | The College of Whispers teaches its students that they are wolves among sheep. These bards use their knowledge and magic to uncover secrets and turn them against others through extortion and threats.                                                                       |
 
 ### Level 4: Feat
 
-As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
 ### Level 5: Battle Hymn Focus
 
@@ -326,7 +335,7 @@ Your 🦸‍♀️5e - Bard🦸‍♀️ Subclass grants you features at 3rd, 6t
 
 ### Level 7: Feat
 
-As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
 ### Level 8: Maestro
 
@@ -345,7 +354,7 @@ Your 🦸‍♀️5e - Bard🦸‍♀️ Subclass grants you features at 3rd, 6t
 
 ### Level 10: Feat
 
-As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
 ### Level 11: Art Mastery
 
@@ -365,7 +374,7 @@ At <u>17th level</u>, you gain an additional **art mastery**.
 
 ### Level 12: Feat
 
-As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
 ### Level 13: 🦸‍♀️5e - Bard🦸‍♀️ Subclass
 
@@ -373,13 +382,13 @@ Your 🦸‍♀️5e - Bard🦸‍♀️ Subclass grants you features at 3rd, 6t
 
 ### Level 14: Feat
 
-As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
 ### Level 15: Grand Battle Hymns
 
 You master one of three grand battle hymns that can shake the firmament with arcane power. Choose one of the following grand battle hymns.
 
-**<u>Beyond the Grave:</u>** All allies within <u>60 feet</u> of you that are [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Bloodied|☠️Bloodied]] or [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Unconscious|☠️Unconscious]] are restored to <u>half their maximum hit points</u>. In addition, each is healed of up to 3 levels of [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Fatigue|☠️Fatigue]].
+**<u>Beyond the Grave:</u>** All allies within <u>60 feet</u> of you that are [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Bloodied|☠️Bloodied]] or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Unconscious|☠️Unconscious]] are restored to <u>half their maximum hit points</u>. In addition, each is healed of up to 3 levels of [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Fatigue|☠️Fatigue]].
 
 **<u>Magic Never Dies:</u>** Allies within <u>30 feet</u> of you regain up to 5 levels of <u>spell slots</u>, or if they have no spell slots, gain <u>30 temporary hit points</u>.
 
@@ -393,7 +402,7 @@ When	you	roll	<u>Initiative</u>, you	regain	three	expended uses	of  your <u>bard
 
 ### Level 16: Feat
 
-As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
 ### Level 17: 🦸‍♀️5e - Bard🦸‍♀️ Subclass
 
@@ -401,15 +410,15 @@ Your 🦸‍♀️5e - Bard🦸‍♀️ Subclass grants you features at 3rd, 6t
 
 ### Level 18: Feat
 
-As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
 ### Level 19: Virtuoso
 
-Your capacity for drawing a crowd reaches dizzying new heights. As an **Action**, you can expend a use of **Bardic Inspiration** to start an epic performance that lasts for <u>1d4</u> rounds. During that time, you can choose up to <u>50 creatures</u> that are within <u>120 feet</u> of you. Each creature able to hear or see your Epic Performance makes a **CHA Save** against your [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Save DC|☄️Spell Save DC]]. _**Failure:**_ The Creature is [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]] by you for the duration plus <u>6 days</u>, or until you or your companions do anything harmful to it. A charmed creature regards you as a friendly acquaintance.
+Your capacity for drawing a crowd reaches dizzying new heights. As an **Action**, you can expend a use of **Bardic Inspiration** to start an epic performance that lasts for <u>1d4</u> rounds. During that time, you can choose up to <u>50 creatures</u> that are within <u>120 feet</u> of you. Each creature able to hear or see your Epic Performance makes a **CHA Save** against your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Save DC|☄️Spell Save DC]]. _**Failure:**_ The Creature is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]] by you for the duration plus <u>6 days</u>, or until you or your companions do anything harmful to it. A charmed creature regards you as a friendly acquaintance.
 
 The performance ends early if you are incapacitated or silenced, or if you voluntarily end it (**no action** required). At the end of the duration, you can expend an additional use of **Bardic Inspiration** to extend the duration by <u>1d4</u> rounds.
 
-When your Epic Performance lasts at least <u>1 minute</u>, at the end of the duration you can target each **charmed** creature as if using the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 6 Enchantment/5e - Mass Suggestion|☄️Mass Suggestion]] spell cast at <u>9th-level</u>. Creatures do not make saving throws to resist this effect. The commands you give a charmed creature are not obvious, and other creatures must make a <u>Wisdom (Insight) check</u> opposed by your <u>Charisma (Performance) check</u> to understand that you are doing anything more than giving a performance.
+When your Epic Performance lasts at least <u>1 minute</u>, at the end of the duration you can target each **charmed** creature as if using the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 6 Enchantment/5e - Mass Suggestion|☄️Mass Suggestion]] spell cast at <u>9th-level</u>. Creatures do not make saving throws to resist this effect. The commands you give a charmed creature are not obvious, and other creatures must make a <u>Wisdom (Insight) check</u> opposed by your <u>Charisma (Performance) check</u> to understand that you are doing anything more than giving a performance.
 
 You can give each creature its own set of commands, but can only give out 6 different sets of commands.
 
@@ -421,7 +430,7 @@ You gain one Epic Boon feat of your choice, for which you qualify.
 
 ### Level 20: Feat
 
-As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
 ## Inspiration/Quelle
 

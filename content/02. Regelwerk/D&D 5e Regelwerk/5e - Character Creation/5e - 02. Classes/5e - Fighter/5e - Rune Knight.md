@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Rune Knight🦸‍♀️
 created: 2026-07-27T12:10:07.575+02:00
-modified: 2026-07-27T15:01:51.533+02:00
-published: 2026-07-27T15:01:51.533+02:00
+modified: 2026-07-29T08:11:23.444+02:00
+published: 2026-07-29T08:11:23.444+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -12,7 +12,7 @@ dateitags:
   - "#5e"
 status: ✅
 hauptklasse:
-  - "[[5e - Fighter]]"
+  - "[[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Fighter/5e - Fighter]]"
 kurzbeschreibung: In the times of ancient, humans made pacts with giants and learned their powerful Rune magic. Traces of this ancient magic can still be found in the wild and remote places of the world, and Fighters who learn to use the power of Runes to augment combat ability become known as Rune Knights.
 ---
 
@@ -49,7 +49,7 @@ Once you invoke this rune, you can’t do so again until you finish a **short** 
 
 This rune’s magic channels the masterful craftsmanship of great smiths. While wearing or carrying an object inscribed with this rune, your <u>proficiency bonus is doubled</u> for any ability check you make that uses your proficiency with a <u>tool</u>.
 
-In addition, when you hit a creature with an <u>attack</u> using a weapon, you can invoke the rune to summon fiery shackles: the target takes an extra `2d6` fire damage, and it must make a **repeated STR Save**. _**Failure:**_ The Target is [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Restrained|☠️Restrained]] for <u>1 Minute</u>. While restrained by the shackles, the target takes `2d6` fire damage at the start of each of its turns.
+In addition, when you hit a creature with an <u>attack</u> using a weapon, you can invoke the rune to summon fiery shackles: the target takes an extra `2d6` fire damage, and it must make a **repeated STR Save**. _**Failure:**_ The Target is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Restrained|☠️Restrained]] for <u>1 Minute</u>. While restrained by the shackles, the target takes `2d6` fire damage at the start of each of its turns.
 
 <u>Once</u> you invoke this rune, you can’t do so again until you finish a **short** or **long rest**.
 
@@ -63,9 +63,9 @@ In addition, you can invoke the rune as a **Bonus Action** to increase your stur
 
 #### Stone Rune
 
-This rune’s magic channels the judiciousness associated with stone giants. While wearing or carrying an object inscribed with this rune, you have **ADV** on <u>Insight</u> checks, and you have [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Senses/5e - Darkvision|👁️Darkvision]] out to a range of <u>120 feet</u>.
+This rune’s magic channels the judiciousness associated with stone giants. While wearing or carrying an object inscribed with this rune, you have **ADV** on <u>Insight</u> checks, and you have [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Senses/5e - Darkvision|👁️Darkvision]] out to a range of <u>120 feet</u>.
 
-In addition, when a creature you can see ends its turn within <u>30 feet</u> of you, you can use your **Reaction** to invoke the rune and force the creature to make a **repeated WIS Save**. _**Failure:**_ The creature is [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]] by you for <u>1 minute</u>. While charmed in this way, the creature has a speed of 0 and is [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]], descending into a dreamy stupor.
+In addition, when a creature you can see ends its turn within <u>30 feet</u> of you, you can use your **Reaction** to invoke the rune and force the creature to make a **repeated WIS Save**. _**Failure:**_ The creature is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]] by you for <u>1 minute</u>. While charmed in this way, the creature has a speed of 0 and is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]], descending into a dreamy stupor.
 
 <u>Once</u> you invoke this rune, you can’t do so again until you finish a **short** or **long rest**.
 
@@ -73,7 +73,7 @@ In addition, when a creature you can see ends its turn within <u>30 feet</u> of 
 
 **<u>Prerequisite:</u>** 6th-level Fighter
 
-This rune’s magic bestows a resilience reminiscent of a hill giant. While wearing or carrying an object that bears this rune, you have **ADV** on <u>Saves</u> against being [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Poisoned|☠️Poisoned]], and you have <u>resistance</u> against <u>poison</u> damage.
+This rune’s magic bestows a resilience reminiscent of a hill giant. While wearing or carrying an object that bears this rune, you have **ADV** on <u>Saves</u> against being [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Poisoned|☠️Poisoned]], and you have <u>resistance</u> against <u>poison</u> damage.
 
 In addition, you can invoke the rune as a **Bonus Action**, gaining <u>resistance</u> to <u>bludgeoning</u>, <u>piercing</u>, and <u>slashing</u> damage for <u>1 minute</u>.
 
@@ -83,7 +83,7 @@ In addition, you can invoke the rune as a **Bonus Action**, gaining <u>resistanc
 
 **<u>Prerequisite:</u>** 6th-level Fighter
 
-Using this rune, you can glimpse the future like a storm giant seer. While wearing or carrying an object inscribed with this rune, you have **ADV** on <u>Arcana</u> checks, and you can’t be <u>surprised</u> as long as you aren’t [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]].
+Using this rune, you can glimpse the future like a storm giant seer. While wearing or carrying an object inscribed with this rune, you have **ADV** on <u>Arcana</u> checks, and you can’t be <u>surprised</u> as long as you aren’t [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]].
 
 In addition, you can invoke the rune as a **Bonus Action** to enter a prophetic state for <u>1 minute</u> or until you’re <u>incapacitated</u>. Until the state ends, when you or another creature you can see within <u>60 feet</u> of you makes an <u>attack roll</u>, a <u>Save</u>, or an <u>ability check</u>, you can use your **Reaction** to cause the roll to have **ADV** or **DISADV**.
 
@@ -107,7 +107,7 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 
 ### Level 9: Unyielding
 
-The elder magic of the giants has caused physical changes. You have **ADV** on saving throws to resist being moved against your will, knocked [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Poisoned|☠️Poisoned]], or [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Stunned|☠️Stunned]].
+The elder magic of the giants has caused physical changes. You have **ADV** on saving throws to resist being moved against your will, knocked [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Poisoned|☠️Poisoned]], or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Stunned|☠️Stunned]].
 
 Moreover, the extra damage you deal with your **Giant’s Might** feature increases to `1d8`.
 

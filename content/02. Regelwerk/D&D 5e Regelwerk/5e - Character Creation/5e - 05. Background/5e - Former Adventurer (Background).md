@@ -2,8 +2,8 @@
 publish: true
 title: ⛏️5e - Former Adventurer⛏️
 created: 2026-07-21T13:43:12.271+02:00
-modified: 2026-07-21T14:41:48.493+02:00
-published: 2026-07-21T14:41:48.493+02:00
+modified: 2026-07-29T08:11:24.191+02:00
+published: 2026-07-29T08:11:24.191+02:00
 tags:
   - "#Background"
   - "#5e"
@@ -28,7 +28,7 @@ What caused you to quit a life of adventure? What drags you back? What are you l
 
 **Ability Score Increases:** +1 to Constitution and one other ability score (both to a maximum of +4).
 **Skill Proficiencies:** <u>Insight</u> and either <u>Animal Handling</u>, <u>Medicine</u>, <u>Nature</u>, <u>Performance</u>, or <u>Religion</u>.
-**Tool Proficiencies:** Your choice of one type of [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Artisan_s Tools/5e - Artisan_s Tools|🛠️Artisan's Tools]], <u>herbalism kit</u>, or <u>sewing kit</u> and one kind of [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Vehicles/5e - Vehicles|🛠️Vehicle]] of your choice.
+**Tool Proficiencies:** Your choice of one type of [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Artisan_s Tools/5e - Artisan_s Tools|🛠️Artisan's Tools]], <u>herbalism kit</u>, or <u>sewing kit</u> and one kind of [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Vehicles/5e - Vehicles|🛠️Vehicle]] of your choice.
 **Equipment:** One set of tools granted by this background, common clothes, 3 silver
 **Feature: Moments of Faded Glory.** Though in many ways you have slipped from the heights of your prowess, moments of greatness do occur. Once per long rest, when you roll a critical on an attack or to cast a spell, you add an expertise die to your next saving throw or attack roll, whichever comes first
 **Adventures and Advancement.** Some are able to wed their lives as adventurers to that of a humble shopkeep or other mundane profession, and their businesses often benefit from their reputations. When you gain a stronghold and its type matches what you did for a profession outside of adventuring, you gain an additional follower above and beyond what the stronghold would normally award. As people connect your name with the business, it can support you at one higher level of lifestyle than you otherwise would be.

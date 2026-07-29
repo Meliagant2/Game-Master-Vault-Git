@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Houndmaster🦸‍♀️
 created: 2026-07-27T12:10:07.575+02:00
-modified: 2026-07-27T13:54:55.898+02:00
-published: 2026-07-27T13:54:55.898+02:00
+modified: 2026-07-29T08:11:23.390+02:00
+published: 2026-07-29T08:11:23.390+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -12,7 +12,7 @@ dateitags:
   - "#5e"
 status: ✅
 hauptklasse:
-  - "[[5e - Fighter]]"
+  - "[[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Fighter/5e - Fighter]]"
 kurzbeschreibung: Whether on a lonely hunt in the deep forest or blazing a path through the battlefield, the image of a rugged figure moving as one with their faithful hound is an iconic one.
 ---
 
@@ -22,9 +22,9 @@ Whether on a lonely hunt in the deep forest or blazing a path through the battle
 
 ### Level 3: Loyal Hound
 
-When you adopt this Archetype, you complete the training of a Loyal Hound. Your Hound is friendly to you and obeys your commands. It uses the **Loyal Hound stat block**, which uses your proficiency bonus (PB) in several places. You are proficient in the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Beast Unity Tradition/5e - Beast Unity Tradition|☠️Beast Unity Tradition]].
+When you adopt this Archetype, you complete the training of a Loyal Hound. Your Hound is friendly to you and obeys your commands. It uses the **Loyal Hound stat block**, which uses your proficiency bonus (PB) in several places. You are proficient in the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Beast Unity Tradition/5e - Beast Unity Tradition|☠️Beast Unity Tradition]].
 
-In combat, your Hound acts during your turn. It can move and use its reaction on its own, but it only takes the **Dodge** action unless you use a **Bonus Action** to command it to take an action from its stat block, or another action. Whenever you take the **Attack action**, you can command the Hound to take the Attack action in place of one of your attacks. If you are [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]], your Hound acts on its own.
+In combat, your Hound acts during your turn. It can move and use its reaction on its own, but it only takes the **Dodge** action unless you use a **Bonus Action** to command it to take an action from its stat block, or another action. Whenever you take the **Attack action**, you can command the Hound to take the Attack action in place of one of your attacks. If you are [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]], your Hound acts on its own.
 
 If your Hound is reduced to <u>0 hit points</u>, it makes <u>death saving throws</u> like a player character would. If your Hound dies, your special skills allow you to find a canine-like creature and train it as a Loyal Hound over the course of a long rest, at which point, that creature uses the Loyal Hound stat block.
 

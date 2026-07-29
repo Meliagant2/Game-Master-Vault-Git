@@ -2,8 +2,8 @@
 publish: true
 title: 👥5e - Anahera👥
 created: 2026-07-20T12:11:02.479+02:00
-modified: 2026-07-27T15:01:51.463+02:00
-published: 2026-07-27T15:01:51.463+02:00
+modified: 2026-07-29T08:11:22.898+02:00
+published: 2026-07-29T08:11:22.898+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -54,7 +54,7 @@ This heritage of planetouched is created through some sort of divine interventio
 **<u>Age:</u>** Planetouched typically mature at the same rate as humans but have longer live spans. Most Planetouched born to non-Planetouched parents tend to mirror their parents life span, but all Planetouched can age to a maximum of 160 years.\
 **<u>Size:</u>** Medium (4-7 feet / 120cm - 210cm) or Small (2-4 feet / 60cm - 120cm)
 **<u>Speed:</u>** 30 feet
-**<u>Darkvision:</u>** You have [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Senses/5e - Darkvision|👁️Darkvision]] with a range of <u>60 feet</u>.
+**<u>Darkvision:</u>** You have [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Senses/5e - Darkvision|👁️Darkvision]] with a range of <u>60 feet</u>.
 
 ### Immortal Blessing
 
@@ -62,7 +62,7 @@ Your connection with the source of your bloodline allows you to cheat death. Whe
 
 ### Celestial Legacy
 
-You know the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Divination/5e - Level 0 Divination/5e- Guidance (Spell)|✨Guidance]] cantrip. In addition, you can use an **Action** to touch a willing creature and restore a number of <u>hit points</u> equal to your level. Once you use this trait, you must finish a long rest before doing so again.
+You know the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Divination/5e - Level 0 Divination/5e- Guidance (Spell)|✨Guidance]] cantrip. In addition, you can use an **Action** to touch a willing creature and restore a number of <u>hit points</u> equal to your level. Once you use this trait, you must finish a long rest before doing so again.
 
 ### Divine Protection
 

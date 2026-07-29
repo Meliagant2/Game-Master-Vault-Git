@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Warrior of the Elements🦸‍♀️
 created: 2026-07-22T12:06:01.852+02:00
-modified: 2026-07-22T14:04:05.250+02:00
-published: 2026-07-22T14:04:05.250+02:00
+modified: 2026-07-29T08:11:23.081+02:00
+published: 2026-07-29T08:11:23.081+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -12,7 +12,7 @@ dateitags:
   - "#5e"
 status: ✅
 hauptklasse:
-  - "[[5e - Adept]]"
+  - "[[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Adept]]"
 kurzbeschreibung: The tradition of the Four Elements encompasses Adepts who tap into the power of the Elements through their practice of martial arts.
 ---
 
@@ -22,9 +22,9 @@ The tradition of the Four Elements encompasses Adepts who tap into the power of 
 
 ### Level 3: Elemental Attunement
 
-You have attuned yourself with the elemental forces of the multiverse. You know the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 0 Transmutation/5e - Elementalism (Spell)|☄️Elementalism]] cantrip.
+You have attuned yourself with the elemental forces of the multiverse. You know the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 0 Transmutation/5e - Elementalism (Spell)|☄️Elementalism]] cantrip.
 
-In addition, at the start of your turn, you can spend **1 exertion** to imbue yourself with elemental energy. The energy lasts for 10 minutes or until you have the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]] condition. You gain the following benefits for the duration:
+In addition, at the start of your turn, you can spend **1 exertion** to imbue yourself with elemental energy. The energy lasts for 10 minutes or until you have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]] condition. You gain the following benefits for the duration:
 
 **<u>Elemental Strikes:</u>** Whenever you hit with your Unarmed Strike, you can cause it to deal your choice of Acid, Cold, Fire, or Lightning damage rather than its normal damage type. When you deal one of these types with your Unarmed Strike, you can also force the target to make a **STR Save**. _**Failure:**_ You can move the target up to <u>10 feet</u> toward or away from you, as elemental energy swirls around it.
 Also once on each of your turns, you can deal extra damage to a target equal to one roll of your <u>Martial Arts die</u> when you hit it with an Unarmed Strike.
@@ -45,7 +45,7 @@ When you use your **Step of the Wind**, you gain a <u>Fly Speed</u> and <u>Swim 
 
 ### Level 13: Elemental Blasts
 
-When you use your **Flurry of Blows** Feature, you can cast one of the following cantrips instead of making an additional unarmed attack. Your spellcasting ability for those cantrips is <u>WIS</u>: [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 0 Evocation/5e - Acid Splash (Spell)|☄️Acid Splash]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 0 Evocation/5e - Firebolt (Spell)|☄️Firebolt]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 0 Evocation/5e - Frostbite (Spell)|☄️Frostbite]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 0 Evocation/5e - Lightning Lure (Spell)|☄️Lightning Lure]]
+When you use your **Flurry of Blows** Feature, you can cast one of the following cantrips instead of making an additional unarmed attack. Your spellcasting ability for those cantrips is <u>WIS</u>: [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 0 Evocation/5e - Acid Splash (Spell)|☄️Acid Splash]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 0 Evocation/5e - Firebolt (Spell)|☄️Firebolt]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 0 Evocation/5e - Frostbite (Spell)|☄️Frostbite]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 0 Evocation/5e - Lightning Lure (Spell)|☄️Lightning Lure]]
 
 ### Level 17: Elemental Epitome
 

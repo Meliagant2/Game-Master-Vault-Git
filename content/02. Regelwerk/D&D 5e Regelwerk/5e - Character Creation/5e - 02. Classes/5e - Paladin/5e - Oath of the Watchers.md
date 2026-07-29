@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Oath of the Watchers🦸‍♀️
 created: 2026-07-28T10:25:11.789+02:00
-modified: 2026-07-28T14:08:39.215+02:00
-published: 2026-07-28T14:08:39.215+02:00
+modified: 2026-07-29T08:11:23.558+02:00
+published: 2026-07-29T08:11:23.558+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -12,7 +12,7 @@ dateitags:
   - "#5e"
 status: ✅
 hauptklasse:
-  - "[[5e - Paladin]]"
+  - "[[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Paladin/5e - Paladin]]"
 kurzbeschreibung: The Oath of the Watchers binds paladins to protect mortal realms from the predations of extraplanar creatures, many of which can lay waste to mortal soldiers.
 ---
 
@@ -32,15 +32,15 @@ Paladins who follow the Watchers’ oath are ever vigilant in spotting the influ
 
 You gain oath spells at the paladin levels listed below. You always have these spells prepared and they don't count against the maximum number of spells you can prepare each day.
 
-**<u>3rd level:</u>** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 1 Abjuration/5e - Alarm (Spell)|☄️Alarm]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Divination/5e - Level 1 Divination/5e - Detect Magic (Spell)|☄️Detect Magic]]
+**<u>3rd level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 1 Abjuration/5e - Alarm (Spell)|☄️Alarm]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Divination/5e - Level 1 Divination/5e - Detect Magic (Spell)|☄️Detect Magic]]
 
-**<u>5th level:</u>** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 2 Evocation/5e - Moonbeam (Spell)|☄️Moonbeam]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Divination/5e - Level 2 Divination/5e - See Invisibility (Spell)|☄️See Invisibility]]
+**<u>5th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 2 Evocation/5e - Moonbeam (Spell)|☄️Moonbeam]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Divination/5e - Level 2 Divination/5e - See Invisibility (Spell)|☄️See Invisibility]]
 
-**<u>9th level:</u>** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 3 Abjuration/5e - Counterspell (Spell)|☄️Counterspell]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 3 Abjuration/5e - Nondetection (Spell)|☄️Nondetection]]
+**<u>9th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 3 Abjuration/5e - Counterspell (Spell)|☄️Counterspell]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 3 Abjuration/5e - Nondetection (Spell)|☄️Nondetection]]
 
-**<u>13th level:</u>** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 4 Abjuration/5e - Aura of Purity (Spell)|☄️Aura of Purity]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 4 Abjuration/5e - Banishment (Spell)|☄️Banishment]]
+**<u>13th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 4 Abjuration/5e - Aura of Purity (Spell)|☄️Aura of Purity]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 4 Abjuration/5e - Banishment (Spell)|☄️Banishment]]
 
-**<u>17th level:</u>** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 5 Enchantment/5e - Hold Monster (Spell)|☄️Hold Monster]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Level 5 Conjuration/5e - Scrying (Spell)|☄️Scrying]]
+**<u>17th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 5 Enchantment/5e - Hold Monster (Spell)|☄️Hold Monster]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Level 5 Conjuration/5e - Scrying (Spell)|☄️Scrying]]
 
 ### Level 3: Watcher's Will
 
@@ -48,7 +48,7 @@ You can use your **Channel Divinity** to invest your presence with the warding p
 
 ### Level 6: Aura of the Sentinel
 
-You constantly emanate an alerting, unseeable aura in a <u>10-foot Emanation</u> that originates from you. The aura is inactive while you have the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]] condition.
+You constantly emanate an alerting, unseeable aura in a <u>10-foot Emanation</u> that originates from you. The aura is inactive while you have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]] condition.
 
 When you and any creatures of your choice within your Aura roll <u>initiative</u>, you all gain a bonus to initiative equal to `your CHA`.
 
@@ -64,7 +64,7 @@ You’ve learned how to chastise anyone who dares wield beguilements against you
 
 You manifest a spark of divine power in defense of the mortal realms. As a **Bonus Action**, you gain the following benefits for <u>1 minute</u>:
 
-- You gain [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Senses/5e - Truesight|👁️Truesight]] with a range of <u>120 feet</u>.
+- You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Senses/5e - Truesight|👁️Truesight]] with a range of <u>120 feet</u>.
 - You have **ADV** on attack rolls against <u>aberrations</u>, <u>celestials</u>, <u>elementals</u>, <u>fey</u>, and <u>fiends</u>.
 - When you hit a creature with an attack roll and deal damage to it, you can also force it to make a **CHA Save**. _**Failure:**_ The creature is magically banished to its native plane of existence if it’s currently not there. _**Success:**_ On a successful save, the creature can’t be banished by this feature for <u>24 hours</u>.
 

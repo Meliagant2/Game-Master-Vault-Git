@@ -2,8 +2,8 @@
 publish: true
 title: 🎲5e - Checks & Saves🎲
 created: 2026-07-20T12:11:02.894+02:00
-modified: 2026-07-22T08:15:37.810+02:00
-published: 2026-07-22T08:15:37.810+02:00
+modified: 2026-07-29T08:11:22.010+02:00
+published: 2026-07-29T08:11:22.010+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -21,7 +21,7 @@ Whenever an attempt is made by a creature to perform an action that has a chance
 
 ## Ability Checks
 
-See [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - Skills|🎲Skills]] for more information.
+See [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - Skills|🎲Skills]] for more information.
 
 An ability check tests a character’s or monster’s training and talent to overcome a challenge. The Game Master calls for an ability check when a creature attempts any action (other than an attack) that has a chance of failure. When an outcome is uncertain, it is determined by a roll of the dice.
 
@@ -85,7 +85,7 @@ The result of a successful or failed saving throw is also detailed in the effect
 
 ## Check & Save Outcomes
 
-See [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Checks & Saves Outcomes/5e - Checks & Saves Outcomes|🎲Checks & Saves Outcomes]] for more information
+See [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Checks & Saves Outcomes/5e - Checks & Saves Outcomes|🎲Checks & Saves Outcomes]] for more information
 
 When a creature rolls a <u>20</u> on a <u>d20</u>, the Check or Save gains a **Critical Success**. When a creature rolls a <u>1</u> on a <u>d20</u>, the Check or Save suffers a **Critical Failure**. A Critical Success or Critical Failure can affect the outcome in different ways, as determined by the type of Check or Save being made.
 

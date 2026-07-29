@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Oath of Glory🦸‍♀️
 created: 2026-07-28T10:25:11.789+02:00
-modified: 2026-07-28T11:30:22.407+02:00
-published: 2026-07-28T11:30:22.407+02:00
+modified: 2026-07-29T08:11:23.488+02:00
+published: 2026-07-29T08:11:23.488+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -12,7 +12,7 @@ dateitags:
   - "#5e"
 status: ✅
 hauptklasse:
-  - "[[5e - Paladin]]"
+  - "[[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Paladin/5e - Paladin]]"
 kurzbeschreibung: Paladins who take the Oath of Glory believe they and their companions are destined to achieve glory through deeds of heroism. They train diligently and encourage their companions so they’re all ready when destiny calls.
 ---
 
@@ -31,15 +31,15 @@ Paladins who take the Oath of Glory believe they and their companions are destin
 
 You gain oath spells at the paladin levels listed below. You always have these spells prepared and they don't count against the maximum number of spells you can prepare each day.
 
-**<u>3rd level:</u>** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 1 Evocation/5e - Guiding Bolt (Spell)|☄️Guiding Bolt]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 1 Enchantment/5e - Heroism (Spell)|☄️Heroism]]
+**<u>3rd level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 1 Evocation/5e - Guiding Bolt (Spell)|☄️Guiding Bolt]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 1 Enchantment/5e - Heroism (Spell)|☄️Heroism]]
 
-**<u>5th level:</u>** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 2 Transmutation/5e - Enhance Ability (Spell)|☄️Enhance Ability]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 2 Transmutation/5e - Magic Weapon (Spell)|☄️Magic Weapon]]
+**<u>5th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 2 Transmutation/5e - Enhance Ability (Spell)|☄️Enhance Ability]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 2 Transmutation/5e - Magic Weapon (Spell)|☄️Magic Weapon]]
 
-**<u>9th level:</u>** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 3 Transmutation/5e - Haste (Spell)|☄️Haste]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 3 Abjuration/5e - Protection from Energy (Spell)|☄️Protection from Energy]]
+**<u>9th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 3 Transmutation/5e - Haste (Spell)|☄️Haste]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 3 Abjuration/5e - Protection from Energy (Spell)|☄️Protection from Energy]]
 
-**<u>13th level:</u>** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 4 Enchantment/5e - Compulsion (Spell)|☄️Compulsion]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 4 Abjuration/5e - Freedom of Movement (Spell)|☄️Freedom of Movement]]
+**<u>13th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 4 Enchantment/5e - Compulsion (Spell)|☄️Compulsion]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 4 Abjuration/5e - Freedom of Movement (Spell)|☄️Freedom of Movement]]
 
-**<u>17th level:</u>** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Divination/5e - Level 5 Divination/5e - Legend Lore (Spell)|☄️Legend Lore]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 5 Enchantment/5e - Regal Presence (Spell)|☄️Regal Presence]]
+**<u>17th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Divination/5e - Level 5 Divination/5e - Legend Lore (Spell)|☄️Legend Lore]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 5 Enchantment/5e - Regal Presence (Spell)|☄️Regal Presence]]
 
 ### Level 3: Inspiring Smite
 
@@ -47,17 +47,17 @@ Immediately after you deal damage to a creature with any of your **Paladin’s S
 
 ### Level 3: Peerless Athlete
 
-As a **Bonus Action**, you can expend one use of your **Channel Divinity** to augment your athleticism. For <u>1 hour</u>, you have **ADV** on <u>Acrobatics</u> and <u>Athletics</u> checks; you can carry, push, drag, and lift twice as much weight as normal; and the distance of your [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Speed/5e - Jumping|💃long]] and **high jumps** increases by <u>10 feet</u> (this extra distance costs movement as normal).
+As a **Bonus Action**, you can expend one use of your **Channel Divinity** to augment your athleticism. For <u>1 hour</u>, you have **ADV** on <u>Acrobatics</u> and <u>Athletics</u> checks; you can carry, push, drag, and lift twice as much weight as normal; and the distance of your [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Speed/5e - Jumping|💃long]] and **high jumps** increases by <u>10 feet</u> (this extra distance costs movement as normal).
 
 ### Level 6: Aura of Alacrity
 
-You constantly emanate an unseeable aura in a <u>10-foot Emanation</u> that originates from you. The aura is inactive while you have the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]] condition.
+You constantly emanate an unseeable aura in a <u>10-foot Emanation</u> that originates from you. The aura is inactive while you have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]] condition.
 
 Your Speed increases by <u>10 feet</u>. In addition, whenever an ally enters your **Aura** for the first time on a turn or starts their turn there, the ally's Speed increases by <u>10 feet</u> until the end of their next turn.
 
 ### Level 9: Iron Will
 
-You have honed your mind to resist any effects that would restrict your agency or obscure your judgment. You are immune to the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]] condition.
+You have honed your mind to resist any effects that would restrict your agency or obscure your judgment. You are immune to the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]] condition.
 
 ### Level 13: Glorious Defense
 

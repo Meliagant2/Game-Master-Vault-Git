@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Adept🦸‍♀️
 created: 2026-07-20T12:11:02.494+02:00
-modified: 2026-07-28T08:59:40.851+02:00
-published: 2026-07-28T08:59:40.851+02:00
+modified: 2026-07-29T08:11:22.938+02:00
+published: 2026-07-29T08:11:22.938+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -157,13 +157,13 @@ Starting at <u>11th-level</u>, your AC increases by +1.
 ### Level 1: Combat Maneuvers
 
 You gain the ability to use combat maneuvers. You gain proficiency in two **combat traditions** from the following list:
-[[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Mirrors Glint Tradition/5e - Mirrors Glint Tradition|🤺Mirrors Glint]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Rapid Current Tradition/5e - Rapid Current Tradition|🤺Rapid Current]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Razors Edge Tradition/5e - Razors Edge Tradition|🤺Razors Edge]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Unending Wheel Tradition/5e - Unending Wheel Tradition|🤺Unending Wheel]]. You learn two maneuvers of your choice from traditions you are proficient with.
+[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Mirrors Glint Tradition/5e - Mirrors Glint Tradition|🤺Mirrors Glint]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Rapid Current Tradition/5e - Rapid Current Tradition|🤺Rapid Current]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Razors Edge Tradition/5e - Razors Edge Tradition|🤺Razors Edge]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Unending Wheel Tradition/5e - Unending Wheel Tradition|🤺Unending Wheel]]. You learn two maneuvers of your choice from traditions you are proficient with.
 
-You gain an [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Exertion|🤺Exertion]] pool equal to twice your proficiency bonus plus <u>half your Adept level (rounded down)</u>, regaining any spent exertion at the end of a [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Short Rest|😴Short]] or [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Long Rest|😴Long Rest]]. You use your maneuvers by spending points from your <u>exertion pool</u>. The <u>Maneuvers Known column</u> of the Adept table shows when you learn more maneuvers from a tradition you are proficient with, while the <u>Maneuver Degree column</u> shows the highest degree you can select maneuvers from at a given level.
+You gain an [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Exertion|🤺Exertion]] pool equal to twice your proficiency bonus plus <u>half your Adept level (rounded down)</u>, regaining any spent exertion at the end of a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Short Rest|😴Short]] or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Long Rest|😴Long Rest]]. You use your maneuvers by spending points from your <u>exertion pool</u>. The <u>Maneuvers Known column</u> of the Adept table shows when you learn more maneuvers from a tradition you are proficient with, while the <u>Maneuver Degree column</u> shows the highest degree you can select maneuvers from at a given level.
 
 Additionally, whenever you learn a new maneuver, you can choose one of the maneuvers you know and replace it with another maneuver of the same degree from a tradition you are proficient with.
 
-As an adept, you gain <u>+1</u> to your [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Save DC|🤺Maneuver Save DC]].
+As an adept, you gain <u>+1</u> to your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Save DC|🤺Maneuver Save DC]].
 
 ### Level 1: Martial Arts
 
@@ -186,9 +186,9 @@ Some of your focus features require your target to make a saving throw to resist
 
 **<u>Flurry of Blows:</u>** You can spend <u>1 exertion</u> to make <u>two</u> unarmed strikes as a **Bonus Action**.
 
-**<u>Long Step:</u>** You can take the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Dash|⚔️Dash]]-Action as a **Bonus Action**. Alternatively, you can spend <u>1 exertion</u> to take both the **Dash** and the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Disengage|⚔️Disengage]]-Actions as a **Bonus Action**, and your [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Speed/5e - Jumping|🏃‍♀️Jump]] distance is doubled for the turn.
+**<u>Long Step:</u>** You can take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Dash|⚔️Dash]]-Action as a **Bonus Action**. Alternatively, you can spend <u>1 exertion</u> to take both the **Dash** and the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Disengage|⚔️Disengage]]-Actions as a **Bonus Action**, and your [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Speed/5e - Jumping|🏃‍♀️Jump]] distance is doubled for the turn.
 
-**<u>Patient Defense:</u>** You can take the **Disengage**-Action as a **Bonus Action**. Alternatively, you can spend <u>1 exertion</u> to take both the **Disengage** and the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Dodge|⚔️Dodge]]-Actions as a **Bonus Action**.
+**<u>Patient Defense:</u>** You can take the **Disengage**-Action as a **Bonus Action**. Alternatively, you can spend <u>1 exertion</u> to take both the **Disengage** and the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Dodge|⚔️Dodge]]-Actions as a **Bonus Action**.
 
 ### Level 2: Practiced Techniques
 
@@ -213,7 +213,7 @@ You have picked up a number of tricks in your path towards perfection. You gain 
 >
 > **Requirement:** <u>Gale Walk</u>
 >
-> Your step is so light you seem to float in the air. You can use a **Bonus Action** and spend <u>1 exertion </u>to cast [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 3 Transmutation/5e - Fly (Spell)|☄️Fly (Spell)]] on yourself. You also have **ADV** on <u>Stealth</u> checks related to noise. The effect lasts until the start of your next turn.
+> Your step is so light you seem to float in the air. You can use a **Bonus Action** and spend <u>1 exertion </u>to cast [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 3 Transmutation/5e - Fly (Spell)|☄️Fly (Spell)]] on yourself. You also have **ADV** on <u>Stealth</u> checks related to noise. The effect lasts until the start of your next turn.
 >
 > #### Marathon Runner
 >
@@ -239,7 +239,7 @@ You have picked up a number of tricks in your path towards perfection. You gain 
 >
 > **Requirement:** <u>Adept Speed</u>, proficiency with <u>Acrobatics</u>
 >
-> You gain the ability to move along vertical surfaces on your turn without falling during the move. You can use a **Bonus Action** and spend <u>1 exertion</u> to cast [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 2 Transmutation/5e - Spider Climb (Spell)|☄️Spider Climb]] on yourself. The effect lasts until the start of your next turn.
+> You gain the ability to move along vertical surfaces on your turn without falling during the move. You can use a **Bonus Action** and spend <u>1 exertion</u> to cast [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 2 Transmutation/5e - Spider Climb (Spell)|☄️Spider Climb]] on yourself. The effect lasts until the start of your next turn.
 >
 > #### Warrior’s Awareness
 >
@@ -251,7 +251,7 @@ You have picked up a number of tricks in your path towards perfection. You gain 
 >
 > **Requirement:** <u>Adept Speed</u>
 >
-> You gain the ability to move across liquids on your turn without falling during the move. You can use a **Bonus Action** and spend <u>1 exertion</u> to cast [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 3 Transmutation/5e - Water Walk (Spell)|☄️Water Walk]] on yourself. The effect lasts until the start of your next turn.
+> You gain the ability to move across liquids on your turn without falling during the move. You can use a **Bonus Action** and spend <u>1 exertion</u> to cast [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 3 Transmutation/5e - Water Walk (Spell)|☄️Water Walk]] on yourself. The effect lasts until the start of your next turn.
 >
 > #### Wilderness Training
 >
@@ -261,13 +261,13 @@ You have picked up a number of tricks in your path towards perfection. You gain 
 >
 > **Requirement:** <u>Adept Speed</u>, <u>11th level</u>
 >
-> You can move so fast you seem to teleport. You can use an **Action** and spend <u>4 exertion</u> to cast [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Level 4 Conjuration/5e - Dimension Door (Spell)|☄️Dimension Door]]. In addition to the Spell effects, you become invisible until the beginning of your next turn.
+> You can move so fast you seem to teleport. You can use an **Action** and spend <u>4 exertion</u> to cast [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Level 4 Conjuration/5e - Dimension Door (Spell)|☄️Dimension Door]]. In addition to the Spell effects, you become invisible until the beginning of your next turn.
 >
 > #### Shadow Walk
 >
 > **Requirement:** <u>11th level</u>, proficiency with <u>Stealth</u>
 >
-> You can step into a shadow and come out of another. When you are in [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Illumination/5e - Dim Light|💡Dim Light]] or [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Illumination/5e - Darkness (Illumination)|💡Darkness]], as a **Bonus Action** you can teleport up to <u>60 feet</u> to an unoccupied space you can see that is also in **dim light** or **darkness**. You have **ADV** on <u>Stealth</u> checks until the beginning of your next turn.
+> You can step into a shadow and come out of another. When you are in [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Illumination/5e - Dim Light|💡Dim Light]] or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Illumination/5e - Darkness (Illumination)|💡Darkness]], as a **Bonus Action** you can teleport up to <u>60 feet</u> to an unoccupied space you can see that is also in **dim light** or **darkness**. You have **ADV** on <u>Stealth</u> checks until the beginning of your next turn.
 >
 > #### Sixth Sense
 >
@@ -289,7 +289,7 @@ Once you use this feature, you can’t use it again until you finish a **Long Re
 
 ### Level 2: Feat
 
-As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
 ### Level 3: 🦸‍♀️5e - Adept🦸‍♀️ Subclass
 
@@ -297,22 +297,26 @@ You choose one 🦸‍♀️5e - Adept🦸‍♀️ Subclass, which represents y
 
 Your 🦸‍♀️5e - Adept🦸‍♀️ Subclass grants you features at 3rd, 6th, 9th, 13th, and again at 17th level.
 
-| Subclass                                                                                                                                                 | Description                                                                                                                                                                                                                                                                |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Warrior of Bruising.md\|5e - Warrior of Bruising]]             | Known unflatteringly as bruisers, these formidable adepts can stand toe-to-toe with foes that many of their contemporaries would prefer to dodge around.                                                                                                                   |
-| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Warrior of Mercy.md\|5e - Warrior of Mercy]]                   | Warrior of Mercy Adeps learn to manipulate the life force of others to bring aid to those in need. They are wandering physicians to the poor and hurt. However, to those beyond their help, they bring a swift end as an act of mercy.                                     |
-| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Warrior of the Hand.md\|5e - Warrior of the Hand]]             | Warriors of the Hand are masters of unarmed combat. They learn techniques to push and trip their opponents and manipulate their own energy to protect themselves from harm.                                                                                                |
-| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Warrior of the Rising Sun.md\|5e - Warrior of the Rising Sun]] | Warrior of the Sun Adepts learn to channel their life energy into searing bolts of light. They teach that meditation can unlock the ability to unleash the indomitable light shed by the soul of every living creature.                                                    |
-| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Warrior of Tranquility.md\|5e - Warrior of Tranquility]]       | Calm and unassuming, tranquil masters are as much about limiting conflict as they are at swiftly putting it down. In addition to their formidable mental fortitude, such adepts use a variety of soothing roots and herbs for the warm drinks they use to ply their craft. |
-| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Warrior of Virtue.md\|5e - Warrior of Virtue]]                 | A warrior of Virtue utilizes divine boons to augment their already striking prowess.                                                                                                                                                                                       |
+| Subclass                                                                                                                                                 | Description                                                                                                                                                                                                                                                                           |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Warrior of Blackpowder.md\|5e - Warrior of Blackpowder]]       | Adepts of the Way of the Blackpowder can dodge and even catch bullets, curve their shots around barriers, and perform other supernatural feats with firearms.                                                                                                                         |
+| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Warrior of Bruising.md\|5e - Warrior of Bruising]]             | Known unflatteringly as bruisers, these formidable adepts can stand toe-to-toe with foes that many of their contemporaries would prefer to dodge around.                                                                                                                              |
+| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Warrior of Mercy.md\|5e - Warrior of Mercy]]                   | Warrior of Mercy Adeps learn to manipulate the life force of others to bring aid to those in need. They are wandering physicians to the poor and hurt. However, to those beyond their help, they bring a swift end as an act of mercy.                                                |
+| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Warrior of Pugulism.md\|5e - Warrior of Pugulism]]             | Most adepts find intellectual and spiritual knowledge an important part of their studies—that’s not the case for pugulists. These adepts are only concerned about fighting and winning, which not only makes them tougher than their peers but also more versatile and unpredictable. |
+| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Warrior of Quickstepping.md\|5e - Warrior of Quickstepping]]   | There’s something spectacular about dodging an enthusiastic blow, an amazing sense of exhilaration that only comes after a well delivered taunt drives a foe to make a strike they are likely to miss.                                                                                |
+| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Warrior of the Elements.md\|5e - Warrior of the Elements]]     | The tradition of the Four Elements encompasses Adepts who tap into the power of the Elements through their practice of martial arts.                                                                                                                                                  |
+| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Warrior of the Hand.md\|5e - Warrior of the Hand]]             | Warriors of the Hand are masters of unarmed combat. They learn techniques to push and trip their opponents and manipulate their own energy to protect themselves from harm.                                                                                                           |
+| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Warrior of the Rising Sun.md\|5e - Warrior of the Rising Sun]] | Warrior of the Sun Adepts learn to channel their life energy into searing bolts of light. They teach that meditation can unlock the ability to unleash the indomitable light shed by the soul of every living creature.                                                               |
+| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Warrior of Tranquility.md\|5e - Warrior of Tranquility]]       | Calm and unassuming, tranquil masters are as much about limiting conflict as they are at swiftly putting it down. In addition to their formidable mental fortitude, such adepts use a variety of soothing roots and herbs for the warm drinks they use to ply their craft.            |
+| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Warrior of Virtue.md\|5e - Warrior of Virtue]]                 | A warrior of Virtue utilizes divine boons to augment their already striking prowess.                                                                                                                                                                                                  |
 
 ### Level 4: Feat
 
-As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
 ### Level 5: Extra Attack
 
-You can attack twice, instead of once, when you take the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Attack (Action)|⚔️Attack]]-Action on your turn.
+You can attack twice, instead of once, when you take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Attack (Action)|⚔️Attack]]-Action on your turn.
 
 ### Level 5: Focus Feature
 
@@ -322,7 +326,7 @@ Focus features stem from the mastery of your internal energies. At <u>5th level<
 >
 > #### Battle Dance
 >
-> You gain proficiency in the <u>Performance</u> skill. As a **Bonus Action**, you can spend <u>2 exertion</u> to bob and sway, starting a battle dance. Until the end of your turn, your Speed increases by <u>20 feet</u> and [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Reactions/5e - Opportunity Attack|⚔️Opportunity Attacks]] against you are made with **DISADV**.
+> You gain proficiency in the <u>Performance</u> skill. As a **Bonus Action**, you can spend <u>2 exertion</u> to bob and sway, starting a battle dance. Until the end of your turn, your Speed increases by <u>20 feet</u> and [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Reactions/5e - Opportunity Attack|⚔️Opportunity Attacks]] against you are made with **DISADV**.
 >
 > When an opportunity attack misses you, you can use your **Reaction** to retaliate with an <u>unarmed strike</u>.
 >
@@ -383,7 +387,7 @@ Focus features stem from the mastery of your internal energies. At <u>5th level<
 >
 > #### Stunning Strike
 >
-> You can deal incapacitating blows. When you hit another creature with a melee weapon attack, you can spend <u>1 exertion</u> to attempt a stunning strike. The target makes a **CON Save**. _**Failure:**_ The Target is [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Stunned|☠️Stunned]] until the end of your next turn. _**Success:**_ The creature is [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Rattled|☠️Rattled]] instead.
+> You can deal incapacitating blows. When you hit another creature with a melee weapon attack, you can spend <u>1 exertion</u> to attempt a stunning strike. The target makes a **CON Save**. _**Failure:**_ The Target is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Stunned|☠️Stunned]] until the end of your next turn. _**Success:**_ The creature is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Rattled|☠️Rattled]] instead.
 >
 > #### Distant Death Dance
 >
@@ -395,7 +399,7 @@ Focus features stem from the mastery of your internal energies. At <u>5th level<
 >
 > #### Mirage Dance
 >
-> As a **Bonus Action**, you can spend <u>2 exertion</u> to swiftly start a mirage dance. Until the end of your next turn, you are under the effect of the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Illusion/5e - Level 2 Illusion/5e - Mirror Image (Spell)|☄️Mirror Image]] spell.
+> As a **Bonus Action**, you can spend <u>2 exertion</u> to swiftly start a mirage dance. Until the end of your next turn, you are under the effect of the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Illusion/5e - Level 2 Illusion/5e - Mirror Image (Spell)|☄️Mirror Image]] spell.
 >
 > #### Powerful Blow
 >
@@ -403,7 +407,7 @@ Focus features stem from the mastery of your internal energies. At <u>5th level<
 >
 > #### Shockwave
 >
-> You can use an **Action** and spend <u>3 exertion</u> to hit the ground so hard it sends a shockwave in a <u>40-foot line</u> that is <u>5 feet wide</u>. Each creature in that line must make a **DEX Save**. _**Failure:**_ The creature takes <u>6d6</u> bludgeoning damage and falls [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]]. _**Success:**_ Half damage.
+> You can use an **Action** and spend <u>3 exertion</u> to hit the ground so hard it sends a shockwave in a <u>40-foot line</u> that is <u>5 feet wide</u>. Each creature in that line must make a **DEX Save**. _**Failure:**_ The creature takes <u>6d6</u> bludgeoning damage and falls [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]]. _**Success:**_ Half damage.
 >
 > #### Warding Dance
 >
@@ -425,13 +429,13 @@ Focus features stem from the mastery of your internal energies. At <u>5th level<
 >
 > **Requirement:** <u>7th level</u>
 >
-> You can use your **Action** to end one effect on yourself that is causing you to be [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Poisoned|☠️Poisoned]] or **diseased**.
+> You can use your **Action** to end one effect on yourself that is causing you to be [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Poisoned|☠️Poisoned]] or **diseased**.
 >
 > #### Stillness of Mind
 >
 > **Requirement:** <u>7th level</u>
 >
-> You can use your **Action** to end one effect on yourself that is causing you to be [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]] or [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Frightened|☠️Frightened]].
+> You can use your **Action** to end one effect on yourself that is causing you to be [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]] or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Frightened|☠️Frightened]].
 >
 > #### Closed Soul
 >
@@ -449,7 +453,7 @@ Focus features stem from the mastery of your internal energies. At <u>5th level<
 >
 > **Requirement:** <u>11th level</u>
 >
-> You can attack three times, instead of twice, when you take the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Attack (Action)|⚔️Attack]]-Action on your turn.
+> You can attack three times, instead of twice, when you take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Attack (Action)|⚔️Attack]]-Action on your turn.
 >
 > #### Battering Shield
 >
@@ -461,7 +465,7 @@ Focus features stem from the mastery of your internal energies. At <u>5th level<
 >
 > **Requirement:** <u>11th level</u>
 >
-> You have learned to use your opponents’ size against them. You can use [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Basic Maneuvers/5e - Basic Maneuvers|🤺Basic Maneuvers]] against creatures of any size. If a creature is larger than you, when it saves against your basic maneuver you can use your **Reaction** to give it **DISADV**.
+> You have learned to use your opponents’ size against them. You can use [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Basic Maneuvers/5e - Basic Maneuvers|🤺Basic Maneuvers]] against creatures of any size. If a creature is larger than you, when it saves against your basic maneuver you can use your **Reaction** to give it **DISADV**.
 >
 > #### Dancing Maneuver
 >
@@ -485,7 +489,7 @@ Focus features stem from the mastery of your internal energies. At <u>5th level<
 >
 > **Requirement:** <u>11th level</u>
 >
-> When you deal [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Damage/5e - Basic Melee Damage|💔Basic Melee Damage]] from using a [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Basic Maneuvers/5e - Basic Maneuvers|🤺Basic Maneuvers]], you deal additional damage equal to your <u>Martial Arts die</u>.
+> When you deal [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Damage/5e - Basic Melee Damage|💔Basic Melee Damage]] from using a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Basic Maneuvers/5e - Basic Maneuvers|🤺Basic Maneuvers]], you deal additional damage equal to your <u>Martial Arts die</u>.
 >
 > #### Undefeated
 >
@@ -509,7 +513,7 @@ Focus features stem from the mastery of your internal energies. At <u>5th level<
 >
 > **Requirement:** <u>15th level</u>
 >
-> When you make a [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Saves/5e - Death Save|🎲Death Save]], you can choose to set your own spirit loose as a vengeful ghost to stalk your prey. The spirit acts on your initiative, has your statistics, ethereal copies of your equipment, full hit points, and half your exertion pool. Your vengeful spirit is <u>resistant</u> to piercing, bludgeoning, and slashing damage from nonmagical weapons. It can move through other creatures and objects as if they were difficult terrain , but it takes <u>1d10</u> force damage if it ends its turn inside an object.
+> When you make a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Saves/5e - Death Save|🎲Death Save]], you can choose to set your own spirit loose as a vengeful ghost to stalk your prey. The spirit acts on your initiative, has your statistics, ethereal copies of your equipment, full hit points, and half your exertion pool. Your vengeful spirit is <u>resistant</u> to piercing, bludgeoning, and slashing damage from nonmagical weapons. It can move through other creatures and objects as if they were difficult terrain , but it takes <u>1d10</u> force damage if it ends its turn inside an object.
 >
 > The vengeful spirit targets only the creature who reduced you to 0 hit points. When the creature is defeated, the spirit returns to your body. While the vengeful spirit is active, you don’t need to make death saving throws, but you still suffer automatic failures if you are hit. You can’t use this feature again until you finish a long rest.
 
@@ -519,7 +523,7 @@ Your 🦸‍♀️5e - Adept🦸‍♀️ Subclass grants you features at 3rd, 6
 
 ### Level 7: Feat
 
-As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
 ### Level 8: Evasion
 
@@ -531,7 +535,7 @@ Your 🦸‍♀️5e - Adept🦸‍♀️ Subclass grants you features at 3rd, 6
 
 ### Level 10: Feat
 
-As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
 ### Level 11: Heightened Discipline
 
@@ -541,11 +545,11 @@ Your training has pushed your body and mind to new levels. Your Flurry of Blows,
 
 **<u>Patient Defense:</u>** When you spend exertion to use **Patient Defense**, you gain a number of <u>Temporary Hit Points</u> equal to **2x your Martial Arts Die**.
 
-**<u>Far Step:</u>** When you spend exertion to use **Far Step**, you can choose a willing creature within <u>5 feet</u> of you that is Large or smaller. You move the creature with you until the end of your turn. The creature’s movement doesn’t provoke [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Reactions/5e - Opportunity Attack|⚔️Opportunity Attacks]].
+**<u>Far Step:</u>** When you spend exertion to use **Far Step**, you can choose a willing creature within <u>5 feet</u> of you that is Large or smaller. You move the creature with you until the end of your turn. The creature’s movement doesn’t provoke [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Reactions/5e - Opportunity Attack|⚔️Opportunity Attacks]].
 
 ### Level 12: Feat
 
-As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
 ### Level 13: 🦸‍♀️5e - Adept🦸‍♀️ Subclass
 
@@ -553,7 +557,7 @@ Your 🦸‍♀️5e - Adept🦸‍♀️ Subclass grants you features at 3rd, 6
 
 ### Level 14: Feat
 
-As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
 ### Level 15: Disciplined Survivor
 
@@ -563,7 +567,7 @@ Additionally, whenever you make	a saving throw	and fail, you can spend <u>1 exer
 
 ### Level 16: Feat
 
-As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
 ### Level 17: 🦸‍♀️5e - Adept🦸‍♀️ Subclass
 
@@ -571,7 +575,7 @@ Your 🦸‍♀️5e - Adept🦸‍♀️ Subclass grants you features at 3rd, 6
 
 ### Level 18: Feat
 
-As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
 ### Level 19: Grandmaster
 
@@ -583,7 +587,7 @@ You gain one Epic Boon feat of your choice, for which you qualify.
 
 ### Level 20: Feat
 
-As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|🥇Feat]] of your choice, for which you qualify. View "General Character Table" to see if you qualify for a feat at this level.
 
 ## Inspiration/Quelle
 

@@ -2,8 +2,8 @@
 publish: true
 title: 🏃‍♀️5e - Movement🏃‍♀️
 created: 2026-07-20T12:11:02.868+02:00
-modified: 2026-07-27T14:46:45.054+02:00
-published: 2026-07-27T14:46:45.054+02:00
+modified: 2026-07-29T08:11:20.461+02:00
+published: 2026-07-29T08:11:20.461+02:00
 tags:
   - "#Charaktererstellung"
   - "#Grundregeln"
@@ -27,7 +27,7 @@ Of course the world is wide and vast, leading to exceptions in mounts and method
 
 #### Vehicles
 
-See [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Vehicles/5e - Vehicles|🛠️Vehicles]] for more Information.
+See [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Vehicles/5e - Vehicles|🛠️Vehicles]] for more Information.
 
 Not all travel is done by foot. Vehicles and mounts are used by many adventurers to help travel the vast distances of the world.
 
@@ -39,7 +39,7 @@ Not all travel can be accomplished by simply walking from one point to another. 
 
 #### Climbing, Swimming, and Crawling
 
-Movement using these three methods is similar to traveling through difficult terrain though there are some key differences. First, it costs a creature an extra foot to move for every foot spent. Worse, if a creature is moving in actual [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Environment/5e - Difficult Terrain|🏔️Difficult Terrain]], it costs four feet to move for every foot spent. Moving by climbing or swimming through normal terrain by a creature with the corresponding speed costs no additional movement.
+Movement using these three methods is similar to traveling through difficult terrain though there are some key differences. First, it costs a creature an extra foot to move for every foot spent. Worse, if a creature is moving in actual [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Environment/5e - Difficult Terrain|🏔️Difficult Terrain]], it costs four feet to move for every foot spent. Moving by climbing or swimming through normal terrain by a creature with the corresponding speed costs no additional movement.
 
 A Game Master may apply additional checks in certain scenarios, such as climbing a particularly slippery surface or swimming in churning water.
 
@@ -47,7 +47,7 @@ For example, a barbarian with a 30 foot movement speed only moves 15 feet on the
 
 #### Jumping
 
-See [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Speed/5e - Jumping|🏃‍♀️Jumping]] for more Information.
+See [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Speed/5e - Jumping|🏃‍♀️Jumping]] for more Information.
 
 The distance a creature can jump is determined both by the method attempted and their <u>STR modifier</u>.
 
@@ -55,7 +55,7 @@ A **long jump** requires a creature to move at least <u>10 feet</u> by foot imme
 
 A Game Master can also request a <u>DC 10 Strength (Athletics)</u> check to clear low obstacles, which must be no taller than a quarter of the jump’s distance. A failure indicates that instead of jumping over such an obstacle, a creature crashes into it.
 
-Landing is also a fair challenge. Should a creature land in difficult terrain, perhaps jumping over a table in the kitchen only to land on a freshly mopped floor on the other side, the creature must make an additional <u>DC 10 Dexterity (Acrobatics)</u> to actually land on its feet. Should it fail, it instead falls [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]].
+Landing is also a fair challenge. Should a creature land in difficult terrain, perhaps jumping over a table in the kitchen only to land on a freshly mopped floor on the other side, the creature must make an additional <u>DC 10 Dexterity (Acrobatics)</u> to actually land on its feet. Should it fail, it instead falls [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]].
 
 A **high jump** is a bit more complex. To make a running high jump, a creature must move <u>10 feet</u> on foot immediately before the jump, leaping up into the air a number of feet equal to **3 + STR Modifier (minimum of 0 feet)**. To make a **standing high jump**, a creature needs not move beforehand, but only jumps half the distance it would have doing a running high jump.
 

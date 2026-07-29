@@ -2,8 +2,8 @@
 publish: true
 title: ⛏️5e - Sage⛏️
 created: 2026-07-21T13:46:29.234+02:00
-modified: 2026-07-21T15:08:47.186+02:00
-published: 2026-07-21T15:08:47.186+02:00
+modified: 2026-07-29T08:11:24.258+02:00
+published: 2026-07-29T08:11:24.258+02:00
 tags:
   - "#Background"
   - "#5e"
@@ -28,7 +28,7 @@ Why have you left the confines of the library to explore the wider world? Do you
 
 **Ability Score Increases:** +1 to Intelligence and one other ability score (both to a maximum of +4).
 **Skill Proficiencies:** <u>History</u>, and either <u>Arcana</u>, <u>Culture</u>, <u>Engineering</u>, or <u>Religion</u>.
-**Languages:** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Two of your Choice]].
+**Languages:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Two of your Choice]].
 **Equipment:** Bottle of ink, ink pen, 50 sheets of parchment, common clothes, 3 silver
 **Feature: Library Privileges:** As a fellow or friend of several universities you have visiting access to the great libraries, most of which are off-limits to the general public. With enough time spent in a library, you can uncover most of the answers you seek (any question answerable with a DC 20 Arcana, Culture, Engineering, History, Nature, or Religion check).
 **Adventures and Advancement:** When you visit libraries and universities you tend to be asked for help in your role as a comparatively rough-and-tumble adventurer. After fetching a few bits of esoteric knowledge and settling a few academic disputes, you may be granted access to the restricted areas of the library (which contain darker secrets and deeper mysteries, such as those answerable with a DC 25 Arcana, Culture, Engineering, History, Nature, or Religion check).

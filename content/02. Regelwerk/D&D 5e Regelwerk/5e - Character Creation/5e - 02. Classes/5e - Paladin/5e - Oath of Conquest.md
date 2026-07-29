@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Oath of Conquest🦸‍♀️
 created: 2026-07-28T10:24:46.566+02:00
-modified: 2026-07-28T11:06:41.777+02:00
-published: 2026-07-28T11:06:41.777+02:00
+modified: 2026-07-29T08:11:23.468+02:00
+published: 2026-07-29T08:11:23.468+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -12,7 +12,7 @@ dateitags:
   - "#5e"
 status: ✅
 hauptklasse:
-  - "[[5e - Paladin]]"
+  - "[[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Paladin/5e - Paladin]]"
 kurzbeschreibung: The Oath of Conquest calls to paladins who seek glory in battle and the subjugation of their enemies. It isn’t enough for these paladins to establish order. They must crush the forces of chaos.
 ---
 
@@ -32,15 +32,15 @@ Some of these paladins go so far as to consort with the powers of the Nine Hells
 
 You gain oath spells at the paladin levels listed below. You always have these spells prepared and they don't count against the maximum number of spells you can prepare each day.
 
-**<u>3rd level:</u>** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 1 Abjuration/5e - Armor of Agathys (Spell)|☄️Armor of Agathys]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Illusion/5e - Level 1 Illusion/5e - Cause Fear (Spell)|☄️Cause Fear]]
+**<u>3rd level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 1 Abjuration/5e - Armor of Agathys (Spell)|☄️Armor of Agathys]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Illusion/5e - Level 1 Illusion/5e - Cause Fear (Spell)|☄️Cause Fear]]
 
-**<u>5th level:</u>** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 2 Enchantment/5e - Hold Person (Spell)|☄️Hold Person]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 2 Evocation/5e - Spiritual Weapon (Spell)|☄️Spiritual Weapon]]
+**<u>5th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 2 Enchantment/5e - Hold Person (Spell)|☄️Hold Person]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 2 Evocation/5e - Spiritual Weapon (Spell)|☄️Spiritual Weapon]]
 
-**<u>9th level:</u>** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 3 Enchantment/5e - Bestow Curse (Spell)|☄️Bestow Curse]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Illusion/5e - Level 3 Illusion/5e - Fear (Spell)|☄️Fear]]
+**<u>9th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 3 Enchantment/5e - Bestow Curse (Spell)|☄️Bestow Curse]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Illusion/5e - Level 3 Illusion/5e - Fear (Spell)|☄️Fear]]
 
-**<u>13th level:</u>** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 4 Enchantment/5e - Dominate Beast (Spell)|☄️Dominate Beast]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 4 Abjuration/5e - Stoneskin (Spell)|☄️Stoneskin]]
+**<u>13th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 4 Enchantment/5e - Dominate Beast (Spell)|☄️Dominate Beast]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 4 Abjuration/5e - Stoneskin (Spell)|☄️Stoneskin]]
 
-**<u>17th level:</u>** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Level 5 Conjuration/5e - Cloudkill (Spell)|☄️Cloudkill]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 5 Enchantment/5e - Dominate Person (Spell)|☄️Dominate Person]]
+**<u>17th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Level 5 Conjuration/5e - Cloudkill (Spell)|☄️Cloudkill]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 5 Enchantment/5e - Dominate Person (Spell)|☄️Dominate Person]]
 
 ### Level 3: Guided Strike
 
@@ -48,19 +48,19 @@ When you or a creature within <u>30 feet</u> of you misses with an attack roll, 
 
 ### Level 6: Aura of Conquest
 
-You constantly emanate a menacing, unseeable aura in a <u>10-foot Emanation</u> that originates from you. The aura is inactive while you have the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]] condition.
+You constantly emanate a menacing, unseeable aura in a <u>10-foot Emanation</u> that originates from you. The aura is inactive while you have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]] condition.
 
-If a creature is [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Frightened|☠️Frightened]] of you, its <u>speed</u> is reduced to 0 while in the aura, and that creature takes <u>psychic</u> damage equal to `1/2 x your paladin level` if it starts its turn there.
+If a creature is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Frightened|☠️Frightened]] of you, its <u>speed</u> is reduced to 0 while in the aura, and that creature takes <u>psychic</u> damage equal to `1/2 x your paladin level` if it starts its turn there.
 
 ### Level 9: Unstoppable Conquest
 
-You do not tolerate those who would stand in the way of your quest. <u>Once per turn</u>, when you hit a Large or smaller creature with a <u>melee attack</u>, you can force them to make a **STR Save** against your <u>spell save DC</u>. _**Failure:**_ The Target is knocked [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]].
+You do not tolerate those who would stand in the way of your quest. <u>Once per turn</u>, when you hit a Large or smaller creature with a <u>melee attack</u>, you can force them to make a **STR Save** against your <u>spell save DC</u>. _**Failure:**_ The Target is knocked [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]].
 
 At <u>18th level</u>, this ability can also effect Huge creatures.
 
 ### Level 13: Scornful Rebuke
 
-Those who dare to strike you are psychically punished for their audacity. Whenever a creature hits you with an <u>attack</u>, that creature takes <u>psychic</u> damage equal to `your CHA modifier` (minimum of `1`) if you’re not [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]].
+Those who dare to strike you are psychically punished for their audacity. Whenever a creature hits you with an <u>attack</u>, that creature takes <u>psychic</u> damage equal to `your CHA modifier` (minimum of `1`) if you’re not [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]].
 
 ### Level 17: Invincible Conqueror
 
@@ -68,6 +68,6 @@ You gain the ability to harness extraordinary martial Expertise. As a **Bonus Ac
 
 - You have <u>resistance to all damage</u>.
 - When you take the **Attack Action** on your turn, you can make <u>one additional</u> attack as part of that action.
-- Your <u>melee weapon</u> attacks score a [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Checks & Saves Outcomes/5e - Critical Success|🎲Critical Hit]] on a roll of `18 to 20` on the <u>d20</u>.
+- Your <u>melee weapon</u> attacks score a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Checks & Saves Outcomes/5e - Critical Success|🎲Critical Hit]] on a roll of `18 to 20` on the <u>d20</u>.
 
 <u>Once</u> you use this feature, you can’t use it again until you finish a **long rest**. You can also restore your use of it by expending a <u>5th-level spell slot</u> (**no action** required).

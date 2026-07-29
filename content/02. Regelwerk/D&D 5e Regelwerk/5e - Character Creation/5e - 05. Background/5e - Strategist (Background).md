@@ -2,8 +2,8 @@
 publish: true
 title: ⛏️5e - Strategist⛏️
 created: 2026-07-21T13:46:29.234+02:00
-modified: 2026-07-21T15:16:45.491+02:00
-published: 2026-07-21T15:16:45.491+02:00
+modified: 2026-07-29T08:11:24.269+02:00
+published: 2026-07-29T08:11:24.269+02:00
 tags:
   - "#Background"
   - "#5e"
@@ -27,7 +27,7 @@ Where did you gain this level of tactical ability? Do you hire your skills out t
 
 **Ability Score Increases:** +1 to Strength or Dexterity, and +1 to Intelligence or Wisdom (both to a maximum of +4).
 **Skill Proficiencies:** <u>Engineering</u> and <u>Survival</u>.
-**Tool Proficiencies:** One type of [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Artisan_s Tools/5e - Artisan_s Tools|🛠️Artisan's Tools]] and <u>Gaming Set</u>.
+**Tool Proficiencies:** One type of [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Artisan_s Tools/5e - Artisan_s Tools|🛠️Artisan's Tools]] and <u>Gaming Set</u>.
 **Equipment:** Traveler’s clothes, ink (1-ounce bottle), ink pen, mess tin, 10 sheets of parchment, a signal whistle, 2 silver
 **Feature: Strategic Eye:** Focusing on the tactical aspects of fighting can push combatants in different directions. Choose one of the following options.
 

@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - College of Eloquence🦸‍♀️
 created: 2026-07-23T10:41:20.409+02:00
-modified: 2026-07-23T11:52:13.201+02:00
-published: 2026-07-23T11:52:13.201+02:00
+modified: 2026-07-29T08:11:23.178+02:00
+published: 2026-07-29T08:11:23.178+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -12,7 +12,7 @@ dateitags:
   - "#5e"
 status: ✅
 hauptklasse:
-  - "[[5e - Bard]]"
+  - "[[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Bard/5e - Bard]]"
 kurzbeschreibung: Adherents of the College of Eloquence master the art of oratory. Persuasion is regarded as a high art, and a well-reasoned, well-spoken argument often proves more persuasive than facts.
 ---
 

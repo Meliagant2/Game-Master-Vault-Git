@@ -2,8 +2,8 @@
 publish: true
 title: 👥5e - Human👥
 created: 2026-07-20T12:11:02.463+02:00
-modified: 2026-07-23T09:05:51.614+02:00
-published: 2026-07-23T09:05:51.614+02:00
+modified: 2026-07-29T08:11:22.823+02:00
+published: 2026-07-29T08:11:22.823+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -71,21 +71,21 @@ Humanity’s most overlooked trait is their physical and spiritual endurance. Ho
 
 Foes of humanity may see them as ants, but humans are equally difficult to eliminate. The ancestors of human beings learned to survive through the harshest conditions, including drought, winter, and famine. Humans, in their stubbornness, can even pull themselves back from the brink of death to fulfill their dreams. You have the following traits:
 
-**<u>Feast and Famine:</u>** You can tighten your belt during hard times. You can go a number of days equal to your CON modifier without suffering any [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Fatigue|☠️Fatigue]] from lack of Supply. Afterwards you require twice as much Supply for as many days as you went without.
+**<u>Feast and Famine:</u>** You can tighten your belt during hard times. You can go a number of days equal to your CON modifier without suffering any [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Fatigue|☠️Fatigue]] from lack of Supply. Afterwards you require twice as much Supply for as many days as you went without.
 **<u>Radical Perseverance:</u>** Through your sheer stubbornness and will to live, you sometimes manage to wriggle out of death’s grasp. You only die after failing 4 death saving throws instead of 3.
 
 #### Ingenious Focus
 
 Not all human minds work the same — some have a nearly miraculous level of focus. People with this intellectual mode often bring a surprising level of insight and passion to almost any topic they engage. In spite of their brilliance, they typically have difficulty with more general awareness. You have the following traits:
 
-**<u>Inexorable Concentration:</u>** When you fail a CON Save to maintain [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Saves/5e - Concentration|☄️Concentration]], you can immediately reroll it, taking the new result. You may use this trait a number of times equal to your INT (minimum 1), and regain all expended uses after a long rest.
+**<u>Inexorable Concentration:</u>** When you fail a CON Save to maintain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Saves/5e - Concentration|☄️Concentration]], you can immediately reroll it, taking the new result. You may use this trait a number of times equal to your INT (minimum 1), and regain all expended uses after a long rest.
 **<u>Resident Expert:</u>** You have a reputation for painstaking detail on certain tasks and subjects. Choose two tools with which you are proficient, or a skill with which you are proficient from Animal Handling, Arcana, Culture, Engineering, History, Medicine, Nature, or Religion. When you make a check with that tool or skill and the <u>d20</u> shows a natural result of less than 8, you can count the d20 result as being 8.
 
 #### Spirited Traveler
 
 The power of movement is one of humanity’s evolutionary advantages. An ancient human hunting strategy for killing fast game is persistence hunting—following prey relentlessly, shifting between walking and running endlessly until a beast became too exhausted to defend itself. Many humans maintain their health through running, and foot races are a universal favorite game. In a word, humans gifted at running will go far. You have the following traits:
 
-**<u>Desperate Dash:</u>** You can take the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Dash|⚔️Dash]]-Action as a **Bonus Action** and your movement this turn does not provoke opportunity attacks. During this movement, you gain an expertise die on Acrobatics checks made to avoid hazards and Dexterity saving throws. Once you use this trait, you cannot use it again until you finish a short rest.
+**<u>Desperate Dash:</u>** You can take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Dash|⚔️Dash]]-Action as a **Bonus Action** and your movement this turn does not provoke opportunity attacks. During this movement, you gain an expertise die on Acrobatics checks made to avoid hazards and Dexterity saving throws. Once you use this trait, you cannot use it again until you finish a short rest.
 **<u>Marathon Runner:</u>** The first time between each long rest you would gain a level of **fatigue**, you do not gain that level of fatigue. You still suffer a level of fatigue from finishing a long rest without any Supply.
 **<u>Sojourner’s Fortitude:</u>** You gain an expertise die on saving throws made to resist **fatigue** for marching longer than 8 hours.
 
@@ -95,7 +95,7 @@ When you reach 10th level, you are an exemplar of humankind, and you gain one pa
 
 #### Determined
 
-When you are [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Bloodied|☠️Bloodied]] and make an **attack roll** or **saving throw**, you can use this feature to treat the result of the <u>D20</u> roll as a natural 20. Once you use this feature, you cannot use it again until you finish a short or long rest.
+When you are [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Bloodied|☠️Bloodied]] and make an **attack roll** or **saving throw**, you can use this feature to treat the result of the <u>D20</u> roll as a natural 20. Once you use this feature, you cannot use it again until you finish a short or long rest.
 
 #### Wind at Your Back
 

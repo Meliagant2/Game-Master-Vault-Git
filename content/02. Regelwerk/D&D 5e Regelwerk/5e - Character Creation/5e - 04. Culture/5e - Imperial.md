@@ -2,8 +2,8 @@
 publish: true
 title: 🎎5e - Imperial🎎
 created: 2026-07-20T18:00:21.058+02:00
-modified: 2026-07-21T11:44:18.326+02:00
-published: 2026-07-21T11:44:18.326+02:00
+modified: 2026-07-29T08:11:23.899+02:00
+published: 2026-07-29T08:11:23.899+02:00
 tags:
   - "#Culture"
   - "#5e"
@@ -31,7 +31,7 @@ Great civilizations provide shelter and comfort. As empires and kingdoms grow an
 
 Characters raised in the imperial culture share a variety of traits in common with one another.
 
-**Languages:** You can speak, read, write, and sign in <u>Common</u> and <u>one other</u> [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Language]].
-**Skill Proficiencies:** You gain proficiency in <u>History</u> and <u>one other</u> [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - Skills|💃Skills]] of your choice.
+**Languages:** You can speak, read, write, and sign in <u>Common</u> and <u>one other</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Language]].
+**Skill Proficiencies:** You gain proficiency in <u>History</u> and <u>one other</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - Skills|💃Skills]] of your choice.
 **Conscript:** All subjects of the crown must register for the draft, but many go ahead and serve in the guard. You are proficient with light armor, spears, and light crossbows.
 **Local Healers:** Citizens at the heart of a nation often see more healers and clerics in a year than a remote villager sees in a lifetime, and your medical upkeep has made you resilient. Whenever your **hit point maximum** or one of your **ability scores** would be reduced, it is reduced by half as much instead (minimum 1).

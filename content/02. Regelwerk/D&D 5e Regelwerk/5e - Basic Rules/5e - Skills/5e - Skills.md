@@ -2,8 +2,8 @@
 publish: true
 title: 💃5e - Skills💃
 created: 2026-07-20T12:11:02.903+02:00
-modified: 2026-07-21T10:51:08.729+02:00
-published: 2026-07-21T10:51:08.729+02:00
+modified: 2026-07-29T08:11:22.257+02:00
+published: 2026-07-29T08:11:22.257+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -44,7 +44,7 @@ While the list of skills below is fairly comprehensive, the Game Master may expa
 
 <br>
 
-See [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Tools|🛠️Tools]] for more information.
+See [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Tools|🛠️Tools]] for more information.
 
 ### Expertise or Modifiers?
 

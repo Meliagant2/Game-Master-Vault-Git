@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Warrior of Quickstepping🦸‍♀️
 created: 2026-07-22T12:06:01.852+02:00
-modified: 2026-07-22T13:51:05.587+02:00
-published: 2026-07-22T13:51:05.587+02:00
+modified: 2026-07-29T08:11:23.058+02:00
+published: 2026-07-29T08:11:23.058+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -12,7 +12,7 @@ dateitags:
   - "#5e"
 status: ✅
 hauptklasse:
-  - "[[5e - Adept]]"
+  - "[[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Adept]]"
 kurzbeschreibung: "There’s something spectacular about dodging an enthusiastic blow, an amazing sense of exhilaration that only comes after a well delivered taunt drives a foe to make a strike they are likely to miss. "
 ---
 
@@ -32,15 +32,15 @@ Once you have used this feature a number of times equal to your Wisdom modifier,
 
 ### Level 6: Deft Steps
 
-You gain proficiency with the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Tooth and Claw Tradition/5e - 2nd degree Tooth and Claw/5e - Expert Tumble (Maneuver)|🤺Expert Tumble]] combat maneuver, do not need to spend exertion to activate it, and can benefit from its effects even if you only move half your speed. In addition, you gain proficiency in <u>Acrobatics</u>. If you are already proficient, you gain an <u>expertise die</u>.
+You gain proficiency with the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Tooth and Claw Tradition/5e - 2nd degree Tooth and Claw/5e - Expert Tumble (Maneuver)|🤺Expert Tumble]] combat maneuver, do not need to spend exertion to activate it, and can benefit from its effects even if you only move half your speed. In addition, you gain proficiency in <u>Acrobatics</u>. If you are already proficient, you gain an <u>expertise die</u>.
 
 ### Level 9: Entangling Throw
 
 You become a master of channeling your momentum to quickly whip cords, vines, ropes, or whatever length of material is at hand to wrap around and restrict an opponent.
 
-At the end of each [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Short Rest|😴Short Rest]], you can put together a number of bundles of such materials equal to your proficiency bonus, each costing 50 copper worth of raw materials. Alternatively, if the Game Master determines the environment is suitable, you can collect the maximum amount of such materials at no cost on a successful Survival check to Hunt and Gather, while gaining half the usual amount of Supply (rounded down).
+At the end of each [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Short Rest|😴Short Rest]], you can put together a number of bundles of such materials equal to your proficiency bonus, each costing 50 copper worth of raw materials. Alternatively, if the Game Master determines the environment is suitable, you can collect the maximum amount of such materials at no cost on a successful Survival check to Hunt and Gather, while gaining half the usual amount of Supply (rounded down).
 
-Once each turn, you can spend **1 exertion** to make an entangling throw at a target within <u>20 feet</u> with a ranged weapon attack you are considered proficient at, either expending a bundle of material or using what is available in the environment (at the Game Master's discretion). You do not have **DISADV** from making an entangling throw at a creature you have hit with a melee weapon attack since the start of your last turn from being within its reach. On a hit, the target makes a **repeated STR Save**. _**Failure:**_ The Target is [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Grappled|☠️Grappled]]. The material from the entangling throw can also be destroyed (AC equal to your maneuver DC, hit points equal to your adept level).
+Once each turn, you can spend **1 exertion** to make an entangling throw at a target within <u>20 feet</u> with a ranged weapon attack you are considered proficient at, either expending a bundle of material or using what is available in the environment (at the Game Master's discretion). You do not have **DISADV** from making an entangling throw at a creature you have hit with a melee weapon attack since the start of your last turn from being within its reach. On a hit, the target makes a **repeated STR Save**. _**Failure:**_ The Target is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Grappled|☠️Grappled]]. The material from the entangling throw can also be destroyed (AC equal to your maneuver DC, hit points equal to your adept level).
 
 Once you have used this feature a number of times equal to your <u>WIS modifier</u>, you cannot do so again until you finish a **long rest**.
 
@@ -56,7 +56,7 @@ Movement is not so much a strain to you as an exhilaration. Choose one of the fo
 - You gain the **Instant Step** technique (as long as you meet the prerequisites).
 - You only need to spend <u>2 exertion</u> to use the **Instant Step** technique (if you have previously chosen it).
 
-Additionally, once per **short rest** when you would gain a level of [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Fatigue|☠️Fatigue]]e, you can choose not to gain that level of fatigue.
+Additionally, once per **short rest** when you would gain a level of [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Fatigue|☠️Fatigue]]e, you can choose not to gain that level of fatigue.
 
 ### Level 17: Deadly Momentum
 

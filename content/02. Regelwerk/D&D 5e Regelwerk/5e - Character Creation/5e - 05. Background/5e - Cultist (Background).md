@@ -2,8 +2,8 @@
 publish: true
 title: ⛏️5e - Cultist⛏️
 created: 2026-07-21T13:40:44.481+02:00
-modified: 2026-07-21T14:13:02.968+02:00
-published: 2026-07-21T14:13:02.968+02:00
+modified: 2026-07-29T08:11:24.129+02:00
+published: 2026-07-29T08:11:24.129+02:00
 tags:
   - "#Background"
   - "#5e"
@@ -28,7 +28,7 @@ Why did you leave the cult? Did you come to recognize the emptiness of its promi
 
 **Ability Score Increases:** +1 to Intelligence and one other ability score (both to a maximum of +4).
 **Skill Proficiencies:** <u>Religion</u>, and either <u>Arcana</u> or <u>Deception</u>.
-**Languages:** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️One of your Choice]].
+**Languages:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️One of your Choice]].
 **Equipment:** Holy symbol (amulet or reliquary), common clothes, robes, 5 torches, 2 silver
 **Feature: Forbidden Lore:** When you fail an <u>Arcana</u> or <u>Religion</u> check, you know what being or book holds the knowledge you seek-finding the book or paying the being’s price is another matter.
 **Adventures and Advancement:** Members of your former order may be hunting you for reenlistment, punishment, or both. Additionally, your cult still seeks to open a portal, effect an apotheosis, or otherwise cause catastrophe. Eventually you may have to face the leader of your cult and perhaps even the being you once worshiped.

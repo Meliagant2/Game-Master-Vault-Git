@@ -2,8 +2,8 @@
 publish: true
 title: 🔮5e - Foundation🔮
 created: 2026-07-21T15:26:14.616+02:00
-modified: 2026-07-22T08:28:19.368+02:00
-published: 2026-07-22T08:28:19.368+02:00
+modified: 2026-07-29T08:11:24.328+02:00
+published: 2026-07-29T08:11:24.328+02:00
 tags:
   - "#Destiny"
   - "#5e"
@@ -17,7 +17,7 @@ status: ✅
 
 Characters with the Foundation destiny wish to create something new, something big, something important; and to do it from scratch. This can mean founding a city, starting a large organization, or even their very own culture. What’s important is that it didn’t exist before they arrived, and it will continue to do so long after they are gone. The world will be changed, at least in some way, and it will have been thanks to them.
 
-**Source of Inspiration: If You Build It.** You draw [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Inspiration|✨Inspiration]] by causing enduring change Establish an alliance, craft a rare spell or magic item, take an apprentice, create or build an enduring structure such as a statue or building, invest in a business, neighborhood, or promising individual, start a family (found or otherwise).
+**Source of Inspiration: If You Build It.** You draw [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Inspiration|✨Inspiration]] by causing enduring change Establish an alliance, craft a rare spell or magic item, take an apprentice, create or build an enduring structure such as a statue or building, invest in a business, neighborhood, or promising individual, start a family (found or otherwise).
 **Inspiration Feature: I’ve Got a Dream.** You have developed a great deal of personal magnetism in the pursuit of your vision. If you or a friendly creature you can hear fails a <u>Persuasion</u> check, you can spend your inspiration to succeed instead. Note that this does not necessarily get you everything you wanted out of the conversation or negotiation, but does mean that the other creature is inclined to view you and your goals favorably.
 
 ##### Fulfilling Your Destiny

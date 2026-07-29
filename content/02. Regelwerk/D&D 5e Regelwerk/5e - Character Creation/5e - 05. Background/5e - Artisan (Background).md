@@ -2,8 +2,8 @@
 publish: true
 title: ⛏️5e - Artisan⛏️
 created: 2026-07-21T13:39:48.444+02:00
-modified: 2026-07-21T13:56:34.040+02:00
-published: 2026-07-21T13:56:34.040+02:00
+modified: 2026-07-29T08:11:24.108+02:00
+published: 2026-07-29T08:11:24.108+02:00
 tags:
   - "#Background"
   - "#5e"
@@ -27,7 +27,7 @@ Why did you become an adventurer? Did you flee a cruel master? Were you bored? O
 
 **Ability Score Increases:** +1 to Intelligence and one other ability score (both to a maximum of +4).
 **Skill Proficiencies:** <u>Persuasion</u>, and either <u>Insight</u> or <u>History</u>.
-**Tool Proficiencies:** One type of [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Artisan_s Tools/5e - Artisan_s Tools|🛠️Artisan's Tools]]
+**Tool Proficiencies:** One type of [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Artisan_s Tools/5e - Artisan_s Tools|🛠️Artisan's Tools]]
 **Equipment:** One set of artisan’s tools, traveler’s clothes, 6 silver
 **Feature: Trade Mark:** When in a city or town, you have access to a fully-stocked workshop with everything you need to ply your trade. Furthermore, you can expect to earn full price when you sell items you have crafted (though there is no guarantee of a buyer).
 **Adventures and Advancement:** If you participate in the creation of a magic item (a “masterwork”), you will gain the services of up to 8 commoner apprentices with the appropriate tool proficiency.

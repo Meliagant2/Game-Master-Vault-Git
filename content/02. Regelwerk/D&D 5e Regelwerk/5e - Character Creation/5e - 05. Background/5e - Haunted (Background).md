@@ -2,8 +2,8 @@
 publish: true
 title: ⛏️5e - Haunted⛏️
 created: 2026-07-21T13:44:14.806+02:00
-modified: 2026-07-21T14:49:53.430+02:00
-published: 2026-07-21T14:49:53.430+02:00
+modified: 2026-07-29T08:11:24.208+02:00
+published: 2026-07-29T08:11:24.208+02:00
 tags:
   - "#Background"
   - "#5e"
@@ -27,8 +27,8 @@ Spirits exist. It’s a simple fact of reality that most people forget until the
 How did you become haunted and who is it that drifts in your wake? How has their presence affected your life? Do you adventure because you are an outcast whose spirit occasionally manifests in the presence of others? Or perhaps worse, remains invisible, forcing you to argue with thin air? Do you seek to merely break your bond or to send them to their final reward?
 
 **Ability Score Increase:** +1 Wisdom and one other ability score of your choice (both to a maximum of +4).
-**Skill Proficiencies:** <u>Religion</u>, and any one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - Skills|💃Skill]] of your choice that the spirit has imparted to you.
-**Languages:** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Two of your Choice]], one of which is the spirit’s native language.
+**Skill Proficiencies:** <u>Religion</u>, and any one [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - Skills|💃Skill]] of your choice that the spirit has imparted to you.
+**Languages:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Two of your Choice]], one of which is the spirit’s native language.
 **Equipment:** 2 days worth of rations, bell, 5 candles, ink, ink pen, 10 sheets of paper, 5 pieces of chalk, traveler’s clothes
 **Feature: Silent Aid:** Being in tune with your spirit allows them to point out something you might have missed, if only for their own purposes. You gain a +2 to your choice of your passive Perception, Investigation, or Insight score, depending on your spirit’s skills. If you banish, free, or otherwise lose your spirit, consult with the Game Master to choose an appropriate feature from another background. Alternatively, the Game Master may rule that you’ve become a beacon for the supernatural and another spirit has taken up haunting you.
 **Adventures and Advancement:** Whether you seek to violently banish the restless dead or help them to peacefully pass on, you will gain a reputation as a spiritspeaker. Common folk and nobility alike are likely to approach you for advice and aid with everything from hereditary curses to irritable poltergeists to speaking with a dead relative about a lost treasure. After you have solved several such problems, you’ve become known to those who deal in certain kinds of esoteric knowledge and gain access to their private libraries. These vast personal collections contain esoteric mysteries, such as those answerable with a DC 25 Arcana, History, or Religion check. While using such a library your host will provide you and your companions a moderate or rich lifestyle, depending on their means and how impressed they are by your exploits.

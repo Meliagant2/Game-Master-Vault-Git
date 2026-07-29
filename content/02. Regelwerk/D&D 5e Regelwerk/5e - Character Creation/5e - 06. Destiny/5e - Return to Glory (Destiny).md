@@ -2,8 +2,8 @@
 publish: true
 title: 🔮5e - Return to Glory🔮
 created: 2026-07-21T15:26:14.616+02:00
-modified: 2026-07-22T08:59:58.797+02:00
-published: 2026-07-22T08:59:58.797+02:00
+modified: 2026-07-29T08:11:24.371+02:00
+published: 2026-07-29T08:11:24.371+02:00
 tags:
   - "#Destiny"
   - "#5e"
@@ -18,7 +18,7 @@ status: ✅
 Some adventurers hang up their swords and put away their spellbooks, only to find that they have to take them up again. This may be a story of fulfilling one’s true potential, achieving a glory always longed for, or even one of redemption and penance for a past life of violence or treachery.
 
 **Special Feature: Former Self:** Upon character creation, also create a version of your character that represents who they once were, up to 10 levels higher than whatever your adventure starts at.
-**Source of Inspiration: Memory:** You are both haunted and driven by who you once were. You gain [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Inspiration|✨Inspiration]] whenever you score a [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Checks & Saves Outcomes/5e - Critical Success|🎲Critical Success]] with an <u>ability check</u> your former self had proficiency in, or overcome something that you could not in your past adventures. Defeat a foe who you had previously lost to, face a fear you developed from your previous life adventuring, restore (or destroy) an item, relationship, or group that was iconic of your old adventures, subvert or fulfill the expectations of someone who knew you before.
+**Source of Inspiration: Memory:** You are both haunted and driven by who you once were. You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Inspiration|✨Inspiration]] whenever you score a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Checks & Saves Outcomes/5e - Critical Success|🎲Critical Success]] with an <u>ability check</u> your former self had proficiency in, or overcome something that you could not in your past adventures. Defeat a foe who you had previously lost to, face a fear you developed from your previous life adventuring, restore (or destroy) an item, relationship, or group that was iconic of your old adventures, subvert or fulfill the expectations of someone who knew you before.
 **Inspiration Feature: Things Remembered:** As a **Reaction**, you may spend your inspiration to use the proficiency bonus and ability score of your former self to make a single <u>attack roll</u>, <u>ability check</u>, or <u>saving throw</u>.
 
 ##### Fulfilling Your Destiny

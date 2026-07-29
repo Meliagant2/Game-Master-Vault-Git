@@ -2,8 +2,8 @@
 publish: true
 title: ⛏️5e - Outlander⛏️
 created: 2026-07-21T13:46:29.234+02:00
-modified: 2026-07-21T15:07:21.275+02:00
-published: 2026-07-21T15:07:21.275+02:00
+modified: 2026-07-29T08:11:24.250+02:00
+published: 2026-07-29T08:11:24.250+02:00
 tags:
   - "#Background"
   - "#5e"
@@ -30,7 +30,7 @@ Were you part of a nomadic tribe? A hunter or guide? A lone wanderer or explorer
 **Ability Score Increases:** +1 to Constitution and one other ability score (both to a maximum of +4).
 **Skill Proficiencies:** <u>Survival</u>, and either <u>Athletics</u> or <u>Intimidation</u>.
 **Tool Proficiencies:** <u>Herbalism kit</u>.
-**Languages:** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️One of your Choice]].
+**Languages:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️One of your Choice]].
 **Equipment:** Traveler’s clothes, waterskin, healer’s satchel, 7 days rations, 1 silver
 **Feature: Trader.** If you’re in or near the wilderness and have a trading relationship with a tribe, settlement, or other nearby group, you can maintain a moderate lifestyle for yourself and your companions by trading the products of your hunting and gathering.
 **Adventures and Advancement.** During your travels, wilderness dwellers may come to you for help battling monsters and other dangers. If you succeed in several such adventures, you may earn the freely given aid of up to 8 warriors.

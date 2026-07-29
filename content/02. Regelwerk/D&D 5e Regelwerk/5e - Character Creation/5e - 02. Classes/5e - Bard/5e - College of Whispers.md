@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - College of Whispers🦸‍♀️
 created: 2026-07-23T10:41:20.409+02:00
-modified: 2026-07-23T12:38:48.596+02:00
-published: 2026-07-23T12:38:48.596+02:00
+modified: 2026-07-29T08:11:23.248+02:00
+published: 2026-07-29T08:11:23.248+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -12,7 +12,7 @@ dateitags:
   - "#5e"
 status: ✅
 hauptklasse:
-  - "[[5e - Bard]]"
+  - "[[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Bard/5e - Bard]]"
 kurzbeschreibung: The College of Whispers teaches its students that they are wolves among sheep. These bards use their knowledge and magic to uncover secrets and turn them against others through extortion and threats.
 ---
 
@@ -34,7 +34,7 @@ Your strikes assault body and mind. When you hit a creature with a weapon attack
 
 ### Level 3: Seeds of Terror
 
-You can lace innocent speech with insidious bardic magic to inspire terror and paranoia. If you speak with a humanoid for at least <u>1 minute</u>, you can expend one <u>Bardic Inspiration die</u> and force it to make a **WIS Save**. _**Failure:**_ It is [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Frightened|☠️Frightened]] of a creature of your choice that it can see for <u>1 hour</u>. This effect ends early if the frightened creature or its allies are attacked or damaged by you or your allies.
+You can lace innocent speech with insidious bardic magic to inspire terror and paranoia. If you speak with a humanoid for at least <u>1 minute</u>, you can expend one <u>Bardic Inspiration die</u> and force it to make a **WIS Save**. _**Failure:**_ It is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Frightened|☠️Frightened]] of a creature of your choice that it can see for <u>1 hour</u>. This effect ends early if the frightened creature or its allies are attacked or damaged by you or your allies.
 
 Regardless of the outcome of the saving throw, the target is unaware that you tried to magically influence its feelings.
 
@@ -58,13 +58,13 @@ Once you capture a shadow with this feature, you can’t capture another one wit
 
 ### Level 9: Mental Anguish
 
-You weave manipulative magic into every strike. When you use **Psychic Assault**, you can force the creature to make a **WIS Save**. _**Failure:**_ It becomes [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Frightened|☠️Frightened]]of you until the end of your next turn.
+You weave manipulative magic into every strike. When you use **Psychic Assault**, you can force the creature to make a **WIS Save**. _**Failure:**_ It becomes [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Frightened|☠️Frightened]]of you until the end of your next turn.
 
-Also, when you hit a creature that is **frightened** of you with a weapon attack, you can end the frightened condition for it and turn your weapon attack into an automatic [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Checks & Saves Outcomes/5e - Critical Success|🎲Critical Hit]].
+Also, when you hit a creature that is **frightened** of you with a weapon attack, you can end the frightened condition for it and turn your weapon attack into an automatic [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Checks & Saves Outcomes/5e - Critical Success|🎲Critical Hit]].
 
 ### Level 13: Sinister Manipulation
 
-Your manipulative magic knows no bounds. As an **Action**, you can whisper into the ear of a creature that can both hear and understand you within <u>5 feet</u> and force it to make a **WIS Save**. _**Failure:**_ The creature believes that you know of its darkest secret, though you have no knowledge of it. It is then [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]] by you until you or your allies attack or damage it.
+Your manipulative magic knows no bounds. As an **Action**, you can whisper into the ear of a creature that can both hear and understand you within <u>5 feet</u> and force it to make a **WIS Save**. _**Failure:**_ The creature believes that you know of its darkest secret, though you have no knowledge of it. It is then [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]] by you until you or your allies attack or damage it.
 
 While **charmed** this way, a creature will secretly aid you in any way it can, short of fighting or risking its life for you. You can only have one creature charmed in this way at a time, and attempting to charm another creature in this way ends this effect for the previous creature. You can also end these effects on the charmed creature as an **Action**.
 

@@ -2,8 +2,8 @@
 publish: true
 title: ⛏️5e - Dungoneer⛏️
 created: 2026-07-21T13:40:44.481+02:00
-modified: 2026-07-21T14:20:08.469+02:00
-published: 2026-07-21T14:20:08.469+02:00
+modified: 2026-07-29T08:11:24.138+02:00
+published: 2026-07-29T08:11:24.138+02:00
 tags:
   - "#Background"
   - "#5e"
@@ -30,7 +30,7 @@ Are you associated with a wizards’ college or institute of higher learning, or
 **Ability Score Increases:** +1 to Intelligence and one other ability score (both to a maximum of +4).
 **Skill Proficiencies:** <u>History</u>, and either <u>Investigation</u> or <u>Religion</u>.
 **Tool Proficiencies:** <u>Cartographers’ tools</u>.
-**Languages:** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Six of your Choice]].
+**Languages:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Six of your Choice]].
 **Equipment:** Cartographers’ tools, miner’s pick, traveler’s clothes, shovel, 4 silver
 **Feature: Unreliable Intelligence:** You know conspiracy theorists, armchair historians, disgraced academics, and other people with useful, if unreliable, knowledge. While in a city, once per day you can find an NPC who can make an Intelligence check with a +10 bonus to recall a fact. When you do so, the Game Master secretly rolls a d6. On a 1, your contact’s information is dangerously inaccurate.
 **Adventures and Advancement:** As you build your reputation, shady people approach you with requests to “discover” items of uncertain ownership. After enough successes, a legitimate organization, such as a wizard’s college or esteemed museum, takes an interest in you. They offer you a position, which comes with funding granting a Wealthy lifestyle, access to free spellcasting services, and legal representation when you inevitably run afoul of the law.

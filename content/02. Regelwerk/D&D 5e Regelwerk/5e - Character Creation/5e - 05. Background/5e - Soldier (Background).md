@@ -2,8 +2,8 @@
 publish: true
 title: ⛏️5e - Soldier⛏️
 created: 2026-07-21T13:46:29.234+02:00
-modified: 2026-07-21T15:14:06.725+02:00
-published: 2026-07-21T15:14:06.725+02:00
+modified: 2026-07-29T08:11:24.264+02:00
+published: 2026-07-29T08:11:24.264+02:00
 tags:
   - "#Background"
   - "#5e"
@@ -30,7 +30,7 @@ Were you a battlefield soldier in a war between nations? A mercenary or town gua
 **Ability Score Increases:** +1 to Strength and one other ability score (both to a maximum of +4).
 **Skill Proficiencies:** <u>Athletics</u>, and either <u>Animal Handling</u> or <u>Intimidation</u>.
 **Tool Proficiencies:** <u>Gaming Set</u>.
-**Languages:** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️One of your Choice]].
+**Languages:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️One of your Choice]].
 **Equipment:** Uniform, common clothes, 7 days rations, 3 silver
 **Feature: Military Bearing:** Soldiers recognize their own. Off duty soldiers are usually willing to trade tales and gossip with you. On duty soldiers, while not obeying your orders, are likely to answer your questions and treat you respectfully on the off chance that you’re an unfamiliar officer who can get them in trouble.
 **Adventures and Advancement:** You will occasionally run into old comrades, some of whom may need favors. If you perform a few celebrated martial deeds your old military outfit (or a new one) is likely to offer you an officer’s rank. You gain the free service of up to 8 guards. Your new commanders will occasionally give you objectives: you will be expected to act independently in order to achieve these objectives.

@@ -2,8 +2,8 @@
 publish: true
 title: ⛏️5e - Trader⛏️
 created: 2026-07-21T13:46:29.234+02:00
-modified: 2026-07-21T15:18:39.221+02:00
-published: 2026-07-21T15:18:39.221+02:00
+modified: 2026-07-29T08:11:24.283+02:00
+published: 2026-07-29T08:11:24.283+02:00
 tags:
   - "#Background"
   - "#5e"
@@ -29,8 +29,8 @@ Why are you living a life of adventure? Are you working off your debt to the com
 
 **Ability Score Increases:** +1 to Charisma and one other ability score (both to a maximum of +4).
 **Skill Proficiencies:** <u>Persuasion</u>, and either <u>Culture</u>, <u>Deception</u>, or <u>Insight</u>.
-**Tool Proficiencies:** One [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Vehicles/5e - Vehicles|🛠️Vehicle]].
-**Languages:** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️One of your Choice]].
+**Tool Proficiencies:** One [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Vehicles/5e - Vehicles|🛠️Vehicle]].
+**Languages:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️One of your Choice]].
 **Equipment:** Traveler’s clothes, abacus, merchant’s scale, 7 silver
 **Feature: Supply and Demand:** When you buy a trade good and sell it elsewhere to a community in need of that good, you gain a 10% bonus to its sale price for every 100 miles between the buy and sell location (maximum of 50%).
 **Adventures and Advancement:** Because of your commercial contacts you may be offered money to lead or escort trade caravans. You’ll receive a fee from each trader that reaches their destination safely.

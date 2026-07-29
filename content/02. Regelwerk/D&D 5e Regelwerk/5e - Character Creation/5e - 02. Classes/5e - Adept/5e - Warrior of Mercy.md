@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Warrior of Mercy🦸‍♀️
 created: 2026-07-22T12:06:01.852+02:00
-modified: 2026-07-22T12:52:04.482+02:00
-published: 2026-07-22T12:52:04.482+02:00
+modified: 2026-07-29T08:11:23.015+02:00
+published: 2026-07-29T08:11:23.015+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -12,7 +12,7 @@ dateitags:
   - "#5e"
 status: ✅
 hauptklasse:
-  - "[[5e - Adept]]"
+  - "[[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Adept]]"
 kurzbeschreibung: Warrior of Mercy Adeps learn to manipulate the life force of others to bring aid to those in need. They are wandering physicians to the poor and hurt. However, to those beyond their help, they bring a swift end as an act of mercy.
 ---
 
@@ -42,9 +42,9 @@ You use your energy to inflict wounds. When you hit a creature with an unarmed s
 
 You can administer even greater cures with a touch, and if you feel it’s necessary, you can use your knowledge to cause harm.
 
-When you use **Hand of Healing** on a creature, you can also end one <u>disease</u> or one of the following conditions affecting the creature: [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Blinded|☠️Blinded]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Deafened|☠️Deafened]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Paralyzed|☠️Paralyzed]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Poisoned|☠️Poisoned]], or [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Stunned|☠️Stunned]]
+When you use **Hand of Healing** on a creature, you can also end one <u>disease</u> or one of the following conditions affecting the creature: [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Blinded|☠️Blinded]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Deafened|☠️Deafened]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Paralyzed|☠️Paralyzed]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Poisoned|☠️Poisoned]], or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Stunned|☠️Stunned]]
 
-When you use **Hand of Harm** on a creature, you can subject that creature to the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Poisoned|☠️Poisoned]] condition until the end of your next turn.
+When you use **Hand of Harm** on a creature, you can subject that creature to the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Poisoned|☠️Poisoned]] condition until the end of your next turn.
 
 ### Level 9: Flurry of Healing and Harm
 

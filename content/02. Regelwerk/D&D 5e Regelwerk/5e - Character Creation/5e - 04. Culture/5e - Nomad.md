@@ -2,8 +2,8 @@
 publish: true
 title: 🎎5e - Nomad🎎
 created: 2026-07-20T18:00:21.058+02:00
-modified: 2026-07-21T11:58:49.422+02:00
-published: 2026-07-21T11:58:49.422+02:00
+modified: 2026-07-29T08:11:23.958+02:00
+published: 2026-07-29T08:11:23.958+02:00
 tags:
   - "#Culture"
   - "#5e"
@@ -34,7 +34,7 @@ Nomadic groups are often close-knit, behaving much like a large family even when
 
 Characters raised as nomads share a variety of traits in common with one another:
 
-**Languages:** You can speak, read, write, and sign in <u>Common</u> and <u>two additional</u> [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Languages]].
+**Languages:** You can speak, read, write, and sign in <u>Common</u> and <u>two additional</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Languages]].
 **Skill Proficiencies:** You are proficient in <u>Animal Handling</u> and <u>Survival</u>, and either <u>Medicine</u>, <u>Nature</u>, or <u>Perception</u>.
 **On the Road Again:** You are proficient with <u>land vehicles</u> and <u>tinker’s tools</u>. You can use tinker’s tools to repair a land vehicle you have travelled in for at least <u>1 month</u>, and gain an <u>expertise die</u> on any checks made to do so. Additionally, you gain an <u>expertise die</u> on checks made to control or navigate a land vehicle.
 **Sense Weather:** After observing an outside area for <u>1 minute</u>, you can predict the weather within the next 24 hours. You cannot foresee magical changes, but you can use an **Action** to make an <u>Insight</u> or <u>Perception</u> check to notice them.

@@ -2,8 +2,8 @@
 publish: true
 title: 🎎5e - Eladrin🎎
 created: 2026-07-20T18:00:21.058+02:00
-modified: 2026-07-21T11:26:14.696+02:00
-published: 2026-07-21T11:26:14.696+02:00
+modified: 2026-07-29T08:11:23.816+02:00
+published: 2026-07-29T08:11:23.816+02:00
 tags:
   - "#Culture"
   - "#5e"
@@ -23,16 +23,16 @@ weaponproficiencies:
   - Longswords
   - Rapiers
 combatknown:
-  - "[[5e - Resistance (Spell)]]"
-  - "[[5e - Minor Illusion (Spell)]]"
-  - "[[5e - Mending (Spell)]]"
-  - "[[5e - Chill Touch (Spell)]]"
-  - "[[5e - Druidcraft (Spell)]]"
-  - "[[5e - Dancing Lights (Spell)]]"
-  - "[[5e - Shocking Grasp (Spell)]]"
-  - "[[5e - Produce Flame (Spell)]]"
-  - "[[5e - Pestilence (Spell)]]"
-  - "[[5e - Ray of Frost (Spell)]]"
+  - "[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 0 Abjuration/5e - Resistance (Spell)]]"
+  - "[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Illusion/5e - Level 0 Illusion/5e - Minor Illusion (Spell)]]"
+  - "[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 0 Transmutation/5e - Mending (Spell)]]"
+  - "[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Necromancy/5e - Level 0 Necromancy/5e - Chill Touch (Spell)]]"
+  - "[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 0 Transmutation/5e - Druidcraft (Spell)]]"
+  - "[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 0 Evocation/5e - Dancing Lights (Spell)]]"
+  - "[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 0 Evocation/5e - Shocking Grasp (Spell)]]"
+  - "[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Level 0 Conjuration/5e - Produce Flame (Spell)]]"
+  - "[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Level 0 Conjuration/5e - Pestilence (Spell)]]"
+  - "[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 0 Evocation/5e - Ray of Frost (Spell)]]"
 ---
 
 # 🎎5e - Eladrin🎎
@@ -51,18 +51,18 @@ Characters raised in the eladrin culture share a variety of traits in common wit
 **Skill Proficiencies:** You are proficient in one of the following skills: <u>Arcana</u>, <u>Culture</u>, <u>Deception</u>, <u>History</u>, <u>Insight</u>, <u>Persuasion</u>, <u>Survival</u>.
 **Eladrin Weapon Training:** You have proficiency with <u>longswords</u> and <u>rapiers</u>.
 **Fey Sublimation:** Your time in the Faerie Realm has suffused your being with its very energy. In addition to being humanoid, you also have the <u>fey creature type</u>.
-**Invocation of the Eladrin Lords:** Hierarchies among the fey often deploy pact magic and a ripple of that power is available to all eladrin subjects. You know one **cantrip** from **Table: Eladrin Invocations**, based on the aspect of nature you wish to manifest or that of your liege. Your spellcasting ability for this cantrip is INT, WIS, or CHA (whichever is highest). Your selected aspect also imparts minor changes of your choice to your appearance, such as to your eye and hair color, skin tone, or even the color of your clothing. At the end of a [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Long Rest|😴Long Rest]], you can change your selected aspect.
-**Twilight Step:** You have learned how to skip out of the Material Plane, fly through the Plane of Faerie, and land back in your native realm. You can forego your movement on your turn to teleport <u>30 feet</u> to an unoccupied space you can see. Once you have used this trait, you cannot do so again until you finish a [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Short Rest|😴Short]] or **long rest**.
+**Invocation of the Eladrin Lords:** Hierarchies among the fey often deploy pact magic and a ripple of that power is available to all eladrin subjects. You know one **cantrip** from **Table: Eladrin Invocations**, based on the aspect of nature you wish to manifest or that of your liege. Your spellcasting ability for this cantrip is INT, WIS, or CHA (whichever is highest). Your selected aspect also imparts minor changes of your choice to your appearance, such as to your eye and hair color, skin tone, or even the color of your clothing. At the end of a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Long Rest|😴Long Rest]], you can change your selected aspect.
+**Twilight Step:** You have learned how to skip out of the Material Plane, fly through the Plane of Faerie, and land back in your native realm. You can forego your movement on your turn to teleport <u>30 feet</u> to an unoccupied space you can see. Once you have used this trait, you cannot do so again until you finish a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Short Rest|😴Short]] or **long rest**.
 
 ##### Eladrin Invocations
 
-**Autumn:** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 0 Abjuration/5e - Resistance (Spell)|☄️Resistance]]
-**Hiding:** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Illusion/5e - Level 0 Illusion/5e - Minor Illusion (Spell)|☄️Minor Illusion]]
-**Respite:** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 0 Transmutation/5e - Mending (Spell)|☄️Mending]]
-**Rot:** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Necromancy/5e - Level 0 Necromancy/5e - Chill Touch (Spell)|☄️Chill Touch]]
-**Spring:** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 0 Transmutation/5e - Druidcraft (Spell)|☄️Druidcraft]]
-**Stars:** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 0 Evocation/5e - Dancing Lights (Spell)|☄️Dancing Lights]]
-**Storm:** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 0 Evocation/5e - Shocking Grasp (Spell)|☄️Shocking Grasp]]
-**Summer:** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Level 0 Conjuration/5e - Produce Flame (Spell)|☄️Produce Flame]]
-**Toxicity:** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Level 0 Conjuration/5e - Pestilence (Spell)|☄️Pestilence]]
-**Winter:** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 0 Evocation/5e - Ray of Frost (Spell)|☄️Ray of Frost]]
+**Autumn:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 0 Abjuration/5e - Resistance (Spell)|☄️Resistance]]
+**Hiding:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Illusion/5e - Level 0 Illusion/5e - Minor Illusion (Spell)|☄️Minor Illusion]]
+**Respite:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 0 Transmutation/5e - Mending (Spell)|☄️Mending]]
+**Rot:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Necromancy/5e - Level 0 Necromancy/5e - Chill Touch (Spell)|☄️Chill Touch]]
+**Spring:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 0 Transmutation/5e - Druidcraft (Spell)|☄️Druidcraft]]
+**Stars:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 0 Evocation/5e - Dancing Lights (Spell)|☄️Dancing Lights]]
+**Storm:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 0 Evocation/5e - Shocking Grasp (Spell)|☄️Shocking Grasp]]
+**Summer:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Level 0 Conjuration/5e - Produce Flame (Spell)|☄️Produce Flame]]
+**Toxicity:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Level 0 Conjuration/5e - Pestilence (Spell)|☄️Pestilence]]
+**Winter:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 0 Evocation/5e - Ray of Frost (Spell)|☄️Ray of Frost]]

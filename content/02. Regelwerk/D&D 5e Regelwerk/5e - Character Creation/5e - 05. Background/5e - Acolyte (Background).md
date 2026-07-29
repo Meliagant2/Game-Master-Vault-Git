@@ -2,8 +2,8 @@
 publish: true
 title: ⛏️5e - Acolyte⛏️
 created: 2026-07-21T11:36:37.112+02:00
-modified: 2026-07-21T13:51:17.956+02:00
-published: 2026-07-21T13:51:17.956+02:00
+modified: 2026-07-29T08:11:24.078+02:00
+published: 2026-07-29T08:11:24.078+02:00
 tags:
   - "#Background"
   - "#5e"
@@ -28,7 +28,7 @@ What gods do you worship? Why did you leave the confines of your temple and take
 
 **Ability Score Increases:** +1 to Wisdom and one other ability score (both to a maximum of +4).
 **Skill Proficiencies:** <u>Religion</u>, and either <u>Insight</u> or <u>Persuasion</u>.
-**Languages:** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️One of your Choice]].
+**Languages:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️One of your Choice]].
 **Equipment:** Holy symbol (amulet or reliquary), common clothes, robe, and a prayer book, prayer wheel, or prayer beads, 3 silver
 **Feature: Ordination:** You are expected to perform the religious ceremonies of your faith, including weddings and funerals. In exchange, members of your faith will provide you and your companions food, lodging, and a moderate lifestyle.
 **Adventures and Advancement:** In small settlements without other resources, your authority may extend to such matters as settling disputes and punishing criminals. You might also be expected to deal with local outbreaks of supernatural dangers such as fiendish possessions, cults, and the unquiet dead. If you solve several problems brought to you by members of your faith, you may be promoted (or reinstated) within the hierarchy of your order. You gain the free service of up to 4 acolytes, and direct access to your order’s leaders.

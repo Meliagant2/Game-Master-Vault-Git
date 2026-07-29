@@ -2,8 +2,8 @@
 publish: true
 title: ⛏️5e - Entertainer⛏️
 created: 2026-07-21T13:40:44.481+02:00
-modified: 2026-07-21T14:24:53.553+02:00
-published: 2026-07-21T14:24:53.553+02:00
+modified: 2026-07-29T08:11:24.158+02:00
+published: 2026-07-29T08:11:24.158+02:00
 tags:
   - "#Background"
   - "#5e"
@@ -28,7 +28,7 @@ Are you a lute-strumming singer? An actor? A poet or author? A tumbler or juggle
 
 **Ability Score Increases:** +1 to Charisma and one other ability score (both to a maximum of +4).
 **Skill Proficiencies:** <u>Performance</u>, and either <u>Acrobatics</u>, <u>Culture</u>, or <u>Persuasion</u>.
-**Tool Proficiencies:** <u>Gaming set</u>, one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Musical Instruments/5e - Musical Instruments|🛠️Musical Instrument]].
+**Tool Proficiencies:** <u>Gaming set</u>, one [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Musical Instruments/5e - Musical Instruments|🛠️Musical Instrument]].
 **Equipment:** Lute or other musical instrument, costume, 3 silver
 **Feature: Pay the Piper:** In any settlement in which you haven’t made yourself unpopular, your performances can earn enough money to support yourself and your companions: the bigger the settlement, the higher your standard of living, up to a moderate lifestyle in a city.
 **Adventures and Advancement:** Some of your admirers will pay you to plead a cause or smear an enemy. If you succeed at several such quests, your fame will grow. You will be welcome at royal courts, which will support you at a rich lifestyle.

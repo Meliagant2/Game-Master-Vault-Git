@@ -2,8 +2,8 @@
 publish: true
 title: ⛏️5e - Exile⛏️
 created: 2026-07-21T13:40:44.481+02:00
-modified: 2026-07-21T14:28:28.413+02:00
-published: 2026-07-21T14:28:28.413+02:00
+modified: 2026-07-29T08:11:24.168+02:00
+published: 2026-07-29T08:11:24.168+02:00
 tags:
   - "#Background"
   - "#5e"
@@ -26,7 +26,7 @@ Your homeland is barred to you and you wander strange lands. You will never be m
 
 **Ability Score Increases:** +1 to Wisdom and one other ability score (both to a maximum of +4).
 **Skill Proficiencies:** <u>Survival</u>, and either <u>History</u> or <u>Performance</u>.
-**Languages:** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Two of your Choice]].
+**Languages:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Two of your Choice]].
 **Equipment:** Traveler’s clothes, 10 days rations.
 **Feature: Fellow Traveler:** You gain an <u>expertise die</u> on <u>Persuasion</u> checks against others who are away from their land of birth.
 **Adventures and Advancement.:** You may occasionally meet others from your native land. Some may be friends, and some dire enemies; few will be indifferent to you. After a few such encounters, you may become the leader of a faction of exiles. Your followers include up to three NPCs of Challenge Rating 1/2 or less, such as scouts.

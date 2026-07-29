@@ -2,8 +2,8 @@
 publish: true
 title: ⛏️5e - Monster Slayer⛏️
 created: 2026-07-21T13:44:14.806+02:00
-modified: 2026-07-21T15:03:57.636+02:00
-published: 2026-07-21T15:03:57.636+02:00
+modified: 2026-07-29T08:11:24.238+02:00
+published: 2026-07-29T08:11:24.238+02:00
 tags:
   - "#Background"
   - "#5e"
@@ -27,7 +27,7 @@ How long have you been hunting monsters? How did you get started? Do you enjoy y
 
 **Ability Score Increases:** +1 to Wisdom and one other ability score (both to a maximum of +4).
 **Skill Proficiencies:** Two chosen from <u>Arcana</u>, <u>Nature</u>, and <u>Religion</u>.
-**Languages:** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️One of your Choice]].
+**Languages:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️One of your Choice]].
 **Equipment:** Traveler’s clothes, flask of holy water, wooden stake, shovel, 3 silver
 **Feature: Stand Firm.** Once per long rest , you can completely ignore an Intimidation attempt or an effect that causes the confused , frightened , and/or rattled conditions from a creature not of the humanoid type. Additionally, once you have put down a threat in a given region the people may reward you by sharing what they have. You are able to maintain a poor or moderate lifestyle with the assistance they provide, depending on their means.
 **Adventures and Advancement.** As your reputation and skills grow, you will have the opportunity to take on some help with your hunts in the form of apprentices. You may gain the service of an acolyte , a scout , and 2 warriors who you are training to follow in your footsteps.

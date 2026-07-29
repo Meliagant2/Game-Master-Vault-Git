@@ -2,8 +2,8 @@
 publish: true
 title: ⛏️5e - Convict⛏️
 created: 2026-07-21T13:40:44.481+02:00
-modified: 2026-07-21T14:01:12.818+02:00
-published: 2026-07-21T14:01:12.818+02:00
+modified: 2026-07-29T08:11:24.118+02:00
+published: 2026-07-29T08:11:24.118+02:00
 tags:
   - "#Background"
   - "#5e"
@@ -28,7 +28,7 @@ What was your supposed crime? Were you innocent, guilty, or something in between
 
 **Ability Score Increases:** +1 to Constitution and one other ability score (both to a maximum of +4).
 **Skill Proficiencies:** <u>Insight</u> and either <u>Athletics</u>, <u>Intimidation</u>, or <u>Sleight of Hand</u>.
-**Languages:** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️One of your Choice]].
+**Languages:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️One of your Choice]].
 **Equipment:** Traveler’s clothes, crowbar, dagger.
 **Feature: Prison Lessons.** Incarceration affects different people differently. Choose one of the following options.
 

@@ -2,8 +2,8 @@
 publish: true
 title: 5e - Artificer
 created: 2026-07-20T12:11:02.510+02:00
-modified: 2026-07-20T15:56:09.313+02:00
-published: 2026-07-20T15:56:09.313+02:00
+modified: 2026-07-29T08:11:23.129+02:00
+published: 2026-07-29T08:11:23.129+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -112,7 +112,7 @@ This table shows the general progression of every character class. Every column,
 
 ### Level 2: Feat
 
-As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|Feat]] of your choice, for which you qualify. At Character levels 4, 7, 10, 12, 14, 16, 18, and 20 you can choose another feat of your choice for which you qualify.
+As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - 03. Feats|Feat]] of your choice, for which you qualify. At Character levels 4, 7, 10, 12, 14, 16, 18, and 20 you can choose another feat of your choice for which you qualify.
 
 View "General Character Table" to see if you qualify for a feat at this level.
 

@@ -2,8 +2,8 @@
 publish: true
 title: 👥5e - Hobbit👥
 created: 2026-07-20T12:11:02.463+02:00
-modified: 2026-07-27T15:01:51.462+02:00
-published: 2026-07-27T15:01:51.462+02:00
+modified: 2026-07-29T08:11:22.778+02:00
+published: 2026-07-29T08:11:22.778+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -55,7 +55,7 @@ Their non-threatening stature and generally pleasant demeanor has served them we
 
 ### Fearless
 
-You are immune to the effects of the frightened [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Frightened|☠️Frightened]] condition, whether caused by magic or by natural phenomena. You might still feel fear, but you are able to ignore it; alternatively you might be unable to even experience that emotion, and are unable to understand it in others.
+You are immune to the effects of the frightened [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Frightened|☠️Frightened]] condition, whether caused by magic or by natural phenomena. You might still feel fear, but you are able to ignore it; alternatively you might be unable to even experience that emotion, and are unable to understand it in others.
 
 ### Halfling Nimbleness
 
@@ -81,13 +81,13 @@ The creation myth of halfling tells of humans, who posessed primordial powers th
 You have a slender body and a sparkle in your eyes, that other people can't understand. You have the following traits:
 
 **<u>Halfling Agility:</u>** You gain <u>+1</u> to your AC against creatures of a size category larger than your own.
-**<u>Misty Escape:</u>** As a **Bonus Action**, or as a **Reaction** immediately after taking damage, you can turn [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Invisible|☠️IInvisible]]. The invisibility lasts until the end of your next turn, and it ends early if you attack, deal damage, cast a spell, or force a creature to make a Save. You can use this trait once between long rests.
+**<u>Misty Escape:</u>** As a **Bonus Action**, or as a **Reaction** immediately after taking damage, you can turn [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Invisible|☠️IInvisible]]. The invisibility lasts until the end of your next turn, and it ends early if you attack, deal damage, cast a spell, or force a creature to make a Save. You can use this trait once between long rests.
 
 ### Tuft Feet
 
 You have thick patches of bushy hair that grow atop your proportionally large feet. You don’t need to wear shoes, or any sort of foot covering, as your big hairy feet are usually calloused and tough enough to tread on most anything. You have the following traits:
 
-**<u>Big Feet:</u>** You gain an expertise die on checks and Saves made to resist being knocked [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]].
+**<u>Big Feet:</u>** You gain an expertise die on checks and Saves made to resist being knocked [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]].
 **<u>Thick Soles:</u>** You are immune to damage from sharp terrain hazards (such as caltrops, broken glass, or the spike growth spell) and ignore difficult terrain caused by them. Additionally, difficult terrain doesn't reduce your movement speed.
 **<u>Naturally Stealthy:</u>** You have Proficiency in the <u>Stealth</u> Skill.
 
@@ -95,7 +95,7 @@ You have thick patches of bushy hair that grow atop your proportionally large fe
 
 You are blanched of both emotion and color with wide, alarmingly pure white eyes, and skin that is either starkly pallid or disquietingly sallow. There’s no hair at all atop your head or you have only a few bedraggled locks of hair. You form stronger communal bonds than other halflings, and can speak without the need for words. You have the following traits:
 
-**<u>Darkvision:</u>** You have [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Senses/5e - Darkvision|👁️Darkvision]] with a range of <u>60 feet</u>.
+**<u>Darkvision:</u>** You have [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Senses/5e - Darkvision|👁️Darkvision]] with a range of <u>60 feet</u>.
 **<u>Telepathy:</u>** You can send telepathic messages to any creature you can see within 30 feet of you. You don’t need to share a language with the creature for it to understand these messages, but it must be able to understand at least one language to comprehend them.
 
 ## Halfling Paragon

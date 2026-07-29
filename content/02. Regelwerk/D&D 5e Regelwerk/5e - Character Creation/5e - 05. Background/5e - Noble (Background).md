@@ -2,8 +2,8 @@
 publish: true
 title: ⛏️5e - Noble⛏️
 created: 2026-07-21T13:46:29.234+02:00
-modified: 2026-07-21T15:05:47.846+02:00
-published: 2026-07-21T15:05:47.846+02:00
+modified: 2026-07-29T08:11:24.243+02:00
+published: 2026-07-29T08:11:24.243+02:00
 tags:
   - "#Background"
   - "#5e"
@@ -29,7 +29,7 @@ You come from a family with hereditary power. Since you’re taking up a life of
 **Ability Score Increases:** +1 to Strength and one other ability score (both to a maximum of +4).
 **Skill Proficiencies:** <u>Culture</u>, <u>History</u>, and either <u>Animal Handling</u> or <u>Persuasion</u>.
 **Tool Proficiencies:** <u>Gaming Sets</u>.
-**Languages:** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️One of your Choice]].
+**Languages:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️One of your Choice]].
 **Equipment:** clothes, signet ring, writ detailing your family tree, 10 silver
 **Feature: High Society:** You know of — or personally know — most of the noble families for hundreds of miles. In most settled areas you (and possibly your companions, if well-behaved) can find a noble host who will feed you, shelter you, and offer you a rich lifestyle.
 **Adventures and Advancement:** Your family may ask you for one or two little favors: convince this relative to marry a family-approved spouse, slay that family foe in a duel, serve under a liege lord in a battle. If you advance your family’s fortunes, you may earn a knighthood along with the free service of a retinue of servants and up to 8 guards.

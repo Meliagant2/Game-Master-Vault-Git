@@ -2,8 +2,8 @@
 publish: true
 title: 🎎5e - Cosmopolitan🎎
 created: 2026-07-20T17:59:28.825+02:00
-modified: 2026-07-21T10:53:53.267+02:00
-published: 2026-07-21T10:53:53.267+02:00
+modified: 2026-07-29T08:11:23.782+02:00
+published: 2026-07-29T08:11:23.782+02:00
 tags:
   - "#Culture"
   - "#5e"
@@ -29,8 +29,8 @@ Folks tend to have polarized opinions on the city—you either love it or hate i
 
 Characters raised in the cosmopolitan culture share a variety of traits in common with one another:
 
-**Languages:** You can speak, read, write, and sign in <u>Common</u> and <u>two additional</u> [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Languages]].
-**Skill Proficiencies:** You gain proficiency in <u>Culture</u> and one other [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - Skills|💃Skill]] of your choice.
+**Languages:** You can speak, read, write, and sign in <u>Common</u> and <u>two additional</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Languages]].
+**Skill Proficiencies:** You gain proficiency in <u>Culture</u> and one other [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - Skills|💃Skill]] of your choice.
 **Discreetly Armed:** Even while armed, you know how to be discreet and nonthreatening. You gain an <u>expertise die</u> on checks made to persuade others to let you remain armed or to conceal weapons or items about your person.
 **Fashion Sense:** You know how to read people through their clothes and bearing. After you spend at least 1 minute observing a creature within 60 feet, you can use an **Action** to make either an <u>Insight</u> or <u>History</u> check against a DC equal to the creature’s <u>passive Deception</u> check score. On a success, you learn the following information about that creature:
 

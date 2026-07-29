@@ -2,8 +2,8 @@
 publish: true
 title: ⛏️5e - Archaeologist⛏️
 created: 2026-07-21T13:39:48.444+02:00
-modified: 2026-07-21T13:54:06.563+02:00
-published: 2026-07-21T13:54:06.563+02:00
+modified: 2026-07-29T08:11:24.095+02:00
+published: 2026-07-29T08:11:24.095+02:00
 tags:
   - "#Background"
   - "#5e"
@@ -28,7 +28,7 @@ Though most eyes look to the future, the past fascinates you, and you have found
 **Ability Score Increase:** +1 to Intelligence and one other ability score (both to a maximum of +4).
 **Skill Proficiencies:** <u>History</u>, and either <u>Arcana</u> or <u>Survival</u>.
 **Tool Proficiencies:** <u>Cartographer’s tools</u> or <u>navigator’s tools</u>.
-**Languages:** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Two of your Choice]].
+**Languages:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Two of your Choice]].
 **Equipment:** A bullseye lantern, a miner’s pick, traveler’s clothes, a shovel, a two-person tent, a trinket recovered from a dig site, 4 silver
 **Feature: Historical Knowledge:** You can easily assess the monetary value of art objects that are more than a century old, and when you see ruins you can accurately ascertain who built them and for what purpose. Sometimes when you sleep near ruins, you faintly recall dreams of the people who lived there, which might guide you to where to search or dig.
 **Adventures and Advancement:** Your archaeological finds earn you gratitude from scholars and researchers. When you donate a valuable object to a museum or library, you gain advantage on all ability checks made during Research downtime activities performed at that institution.

@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Oath of Redemption🦸‍♀️
 created: 2026-07-28T10:25:11.789+02:00
-modified: 2026-07-28T11:43:54.335+02:00
-published: 2026-07-28T11:43:54.335+02:00
+modified: 2026-07-29T08:11:23.500+02:00
+published: 2026-07-29T08:11:23.500+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -12,7 +12,7 @@ dateitags:
   - "#5e"
 status: ✅
 hauptklasse:
-  - "[[5e - Paladin]]"
+  - "[[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Paladin/5e - Paladin]]"
 kurzbeschreibung: The Oath of Redemption sets a paladin on a difficult path, one that requires a holy warrior to use violence only as a last resort. Paladins who dedicate themselves to this oath believe that any person can be redeemed and that the path of benevolence and justice is one that anyone can walk.
 ---
 
@@ -33,15 +33,15 @@ While redeemers are idealists, they are no fools. Redeemers know that undead, de
 
 You gain oath spells at the paladin levels listed below. You always have these spells prepared and they don't count against the maximum number of spells you can prepare each day.
 
-**<u>3rd level:</u>** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 1 Abjuration/5e - Sanctuary (Spell)|☄️Sanctuary]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Illusion/5e - Level 1 Illusion/5e - Sleep (Spell)|☄️Sleep]]
+**<u>3rd level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 1 Abjuration/5e - Sanctuary (Spell)|☄️Sanctuary]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Illusion/5e - Level 1 Illusion/5e - Sleep (Spell)|☄️Sleep]]
 
-**<u>5th level:</u>** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 2 Enchantment/5e - Calm Emotions (Spell)|☄️Calm Emotions]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 2 Enchantment/5e - Hold Person (Spell)|☄️Hold Person]]
+**<u>5th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 2 Enchantment/5e - Calm Emotions (Spell)|☄️Calm Emotions]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 2 Enchantment/5e - Hold Person (Spell)|☄️Hold Person]]
 
-**<u>9th level:</u>** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 3 Abjuration/5e - Counterspell (Spell)|☄️Counterspell]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Illusion/5e - Level 3 Illusion/5e - Hypnotic Pattern (Spell)|☄️Hypnotic Pattern]]
+**<u>9th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 3 Abjuration/5e - Counterspell (Spell)|☄️Counterspell]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Illusion/5e - Level 3 Illusion/5e - Hypnotic Pattern (Spell)|☄️Hypnotic Pattern]]
 
-**<u>13th level:</u>** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 4 Evocation/5e - Resilient Sphere (Spell)|☄️Resilient Sphere]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 4 Abjuration/5e - Stoneskin (Spell)|☄️Stoneskin]]
+**<u>13th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 4 Evocation/5e - Resilient Sphere (Spell)|☄️Resilient Sphere]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 4 Abjuration/5e - Stoneskin (Spell)|☄️Stoneskin]]
 
-**<u>17th level:</u>** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 5 Enchantment/5e - Hold Monster (Spell)|☄️Hold Monster]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 5 Evocation/5e - Wall of Force (Spell)|☄️Wall of Force]]
+**<u>17th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 5 Enchantment/5e - Hold Monster (Spell)|☄️Hold Monster]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 5 Evocation/5e - Wall of Force (Spell)|☄️Wall of Force]]
 
 ### Level 3: Emissary of Peace
 
@@ -53,7 +53,7 @@ You can use your **Channel Divinity** to rebuke those who use violence. Immediat
 
 ### Level 6: Aura of the Guardian
 
-You can shield others from harm at the cost of your own health. You constantly emanate an unseeable aura in a <u>10-foot Emanation</u> that originates from you. The aura is inactive while you have the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]] condition.
+You can shield others from harm at the cost of your own health. You constantly emanate an unseeable aura in a <u>10-foot Emanation</u> that originates from you. The aura is inactive while you have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]] condition.
 
 When a creature within your Aura takes damage, you can use your **Reaction** to magically take that damage, instead of that creature taking it. This feature doesn’t transfer any other effects that might accompany the damage, and this damage can’t be reduced in any way.
 
@@ -65,7 +65,7 @@ You can use this reaction a number of times equal to your <u>CHA modifier</u> (a
 
 ### Level 13: Protective Spirit
 
-A holy presence mends your wounds in battle. You regain hit points equal to `1d6 + half your paladin level` if you end your turn [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Bloodied|☠️Bloodied]] and you aren’t [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]].
+A holy presence mends your wounds in battle. You regain hit points equal to `1d6 + half your paladin level` if you end your turn [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Bloodied|☠️Bloodied]] and you aren’t [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]].
 
 ### Level 17: Emissary of Redemption
 

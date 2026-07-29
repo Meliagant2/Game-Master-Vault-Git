@@ -2,8 +2,8 @@
 publish: true
 title: 👥5e - Gigant👥
 created: 2026-07-20T12:11:02.463+02:00
-modified: 2026-07-27T15:01:51.454+02:00
-published: 2026-07-27T15:01:51.454+02:00
+modified: 2026-07-29T08:11:22.658+02:00
+published: 2026-07-29T08:11:22.658+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -75,7 +75,7 @@ Some goliaths have cloud giants as their ancestors. Such goliaths have the follo
 
 Some goliaths have hill giants as their ancestors. Such goliaths have the following traits:
 
-**<u>Bulwark:</u>** When you are subjected to an effect that would move you at least 5 feet or give you the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]] condition, you can use your **Reaction** to steady yourself. You aren’t moved and don’t have the prone condition.
+**<u>Bulwark:</u>** When you are subjected to an effect that would move you at least 5 feet or give you the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]] condition, you can use your **Reaction** to steady yourself. You aren’t moved and don’t have the prone condition.
 **<u>Giant Slam:</u>** When you hit a Large or smaller creature with an Attack Roll and deal damage to it, you can knock that target Prone. You can use this trait once between long rests.
 
 ### Mountainborn
@@ -89,7 +89,7 @@ Some goliaths have frost giants as their ancestors. Such goliaths have the follo
 
 Some goliaths have stone giants as their ancestors. Such goliaths have the following traits:
 
-**<u>Darkvision:</u>** You have [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Senses/5e - Darkvision|👁️Darkvision]] with a range of <u>60 feet</u>.
+**<u>Darkvision:</u>** You have [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Senses/5e - Darkvision|👁️Darkvision]] with a range of <u>60 feet</u>.
 **<u>Stoneskin:</u>** When you take damage, you can use your **Reaction** to roll a <u>d12</u>. Add your Constitution modifier to the number rolled and reduce the damage by that total. You can use this trait once between long rests.
 
 ### Stormborn
@@ -112,11 +112,11 @@ When you reach 10th level, you are an exemplar of goliathkind, and your Goliath 
 
 ### Ember of the Fire Giants
 
-When you take the **Attack Action** on your turn, you can replace a single attack with a magical burst of flame. Each creature of your choice in a 15-foot-radius sphere centered on you must make a **DEX Save** (DC = your [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Save DC|🤺Maneuver Save DC]]). On a failed save, a creature takes fire damage equal to <u>1d8 + PB</u>, and it has the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Blinded|☠️Blinded]] condition until the start of your next turn. On a successful save, the creature takes half as much damage only. You can use your Searing Ignition a number of times equal to your proficiency bonus (but no more than once per turn), and you regain all expended uses when you finish a long rest.
+When you take the **Attack Action** on your turn, you can replace a single attack with a magical burst of flame. Each creature of your choice in a 15-foot-radius sphere centered on you must make a **DEX Save** (DC = your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Save DC|🤺Maneuver Save DC]]). On a failed save, a creature takes fire damage equal to <u>1d8 + PB</u>, and it has the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Blinded|☠️Blinded]] condition until the start of your next turn. On a successful save, the creature takes half as much damage only. You can use your Searing Ignition a number of times equal to your proficiency bonus (but no more than once per turn), and you regain all expended uses when you finish a long rest.
 
 ### Fury of the Frost Giant
 
-Immediately after a creature you can see within 30 feet of you hits you with an attack roll and deals damage, you can use your **Reaction** to retaliate with a conjured blast of ice. The creature must make a Constitution saving throw (DC = your [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Save DC|🤺Maneuver Save DC]]). On a failed save, the creature takes cold damage equal to <u>1d8 + PB</u>, and its speed is reduced to 0 until the end of its next turn. You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+Immediately after a creature you can see within 30 feet of you hits you with an attack roll and deals damage, you can use your **Reaction** to retaliate with a conjured blast of ice. The creature must make a Constitution saving throw (DC = your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Save DC|🤺Maneuver Save DC]]). On a failed save, the creature takes cold damage equal to <u>1d8 + PB</u>, and its speed is reduced to 0 until the end of its next turn. You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 ### Guile of the Cloud Giant
 
@@ -124,11 +124,11 @@ When a creature you can see hits you with an attack roll, you can use your **Rea
 
 ### Keenness of the Stone Giant
 
-As a **Bonus Action**, you can take a rock and make an attack with it. The attack is a ranged spell attack with a range of 60 feet that uses your CON as the spellcasting ability. On a hit, the rock deals <u>1d10</u> force damage, and the target must succeed on a **STR Save** (DC = your [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Save DC|🤺Maneuver Save DC]]) or have the **prone** condition. You can use this bonus action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+As a **Bonus Action**, you can take a rock and make an attack with it. The attack is a ranged spell attack with a range of 60 feet that uses your CON as the spellcasting ability. On a hit, the rock deals <u>1d10</u> force damage, and the target must succeed on a **STR Save** (DC = your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Save DC|🤺Maneuver Save DC]]) or have the **prone** condition. You can use this bonus action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 ### Soul of the Storm Giant
 
-As a **Bonus Action**, you surround yourself with an aura of magical wind and lightning that extends 10 feet from you in every direction but not through total cover. The aura lasts until the start of your next turn or until you are incapacitated. While the aura is active, you have resistance to lightning and thunder damage. In addition, attack rolls against you have disadvantage, and whenever another creature starts its turn within the aura, you can force the creature to make a **STR Save** (DC = your [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Save DC|🤺Maneuver Save DC]]). On a failed save, the creature’s speed is halved until the start of its next turn. You can use this bonus action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+As a **Bonus Action**, you surround yourself with an aura of magical wind and lightning that extends 10 feet from you in every direction but not through total cover. The aura lasts until the start of your next turn or until you are incapacitated. While the aura is active, you have resistance to lightning and thunder damage. In addition, attack rolls against you have disadvantage, and whenever another creature starts its turn within the aura, you can force the creature to make a **STR Save** (DC = your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Save DC|🤺Maneuver Save DC]]). On a failed save, the creature’s speed is halved until the start of its next turn. You can use this bonus action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 ### Vigor of the Hill Giant
 

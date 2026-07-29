@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - College of Comedy🦸‍♀️
 created: 2026-07-23T10:41:20.409+02:00
-modified: 2026-07-23T11:48:51.232+02:00
-published: 2026-07-23T11:48:51.232+02:00
+modified: 2026-07-29T08:11:23.148+02:00
+published: 2026-07-29T08:11:23.148+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -12,7 +12,7 @@ dateitags:
   - "#5e"
 status: ✅
 hauptklasse:
-  - "[[5e - Bard]]"
+  - "[[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Bard/5e - Bard]]"
 kurzbeschreibung: Long have the performing arts been a favorite pastime for people of all walks of life. Performers and thespians use the stage to tell stories that while fictional, can reveal great truths about life, death, and the struggles in between.
 ---
 
@@ -36,7 +36,7 @@ You can use this reaction a number of times equal to your <u>CHA modifier</u> an
 
 ### Level 9: Countercharm
 
-You gain the ability to use musical notes or words of power to disrupt mind-influencing effects.. As an action, you can start a performance that lasts for 1 minute. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Frightened|☠️Frightened]] or [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]]. A creature must be able to hear you to gain this benefit. The performance ends early if you are [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]] or silenced or if you voluntarily end it (**no action** required).
+You gain the ability to use musical notes or words of power to disrupt mind-influencing effects.. As an action, you can start a performance that lasts for 1 minute. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Frightened|☠️Frightened]] or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]]. A creature must be able to hear you to gain this benefit. The performance ends early if you are [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]] or silenced or if you voluntarily end it (**no action** required).
 
 ### Level 13: Mask of Comedy
 

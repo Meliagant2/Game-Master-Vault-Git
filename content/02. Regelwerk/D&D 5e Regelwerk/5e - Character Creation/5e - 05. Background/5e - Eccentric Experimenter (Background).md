@@ -2,8 +2,8 @@
 publish: true
 title: ⛏️5e - Eccentric Experimenter⛏️
 created: 2026-07-21T13:40:44.481+02:00
-modified: 2026-07-21T14:22:27.904+02:00
-published: 2026-07-21T14:22:27.904+02:00
+modified: 2026-07-29T08:11:24.158+02:00
+published: 2026-07-29T08:11:24.158+02:00
 tags:
   - "#Background"
   - "#5e"
@@ -28,9 +28,9 @@ What is your particular field of study? How did you get started? What’s your c
 
 **Ability Score Increases:** +1 to Intelligence and one other ability score (both to a maximum of +4).
 **Skill Proficiencies:** <u>Engineering</u> and either <u>Arcana</u> or <u>Medicine</u>.
-**Languages:** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️One of your Choice]].
+**Languages:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️One of your Choice]].
 **Equipment:** Common clothes, dried yewclaw bark, 5 sheets of parchment, ink and inkpen, chalk, 2 silver
-**Feature: Trial and Error:** You gain an <u>expertise die</u> on saves made to resist the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Poisoned|☠️Poisoned]] condition.
+**Feature: Trial and Error:** You gain an <u>expertise die</u> on saves made to resist the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Poisoned|☠️Poisoned]] condition.
 **Adventures and Advancement:** Eventually your research will attract some attention, wanted or not. After enough of these encounters, you may recruit assistants; 2 apprentice mages who can help with your experiments. Additionally, you may also attract the attention of a patron who supports your endeavors, allowing you a moderate lifestyle.
 
 **Connection and Memento:** Roll <u>1d10</u>, choose, or make up your own.

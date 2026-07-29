@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Warrior of Blackpowder🦸‍♀️
 created: 2026-07-20T15:07:47.410+02:00
-modified: 2026-07-22T12:25:02.706+02:00
-published: 2026-07-22T12:25:02.706+02:00
+modified: 2026-07-29T08:11:22.969+02:00
+published: 2026-07-29T08:11:22.969+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -12,7 +12,7 @@ dateitags:
   - "#5e"
 status: ✅
 hauptklasse:
-  - "[[5e - Adept]]"
+  - "[[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Adept]]"
 kurzbeschreibung: Adepts of the Way of the Blackpowder can dodge and even catch bullets, curve their shots around barriers, and perform other supernatural feats with firearms.
 ---
 

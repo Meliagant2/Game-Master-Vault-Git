@@ -2,8 +2,8 @@
 publish: true
 title: ⛏️5e - Marauder⛏️
 created: 2026-07-21T13:44:14.806+02:00
-modified: 2026-07-21T15:00:07.737+02:00
-published: 2026-07-21T15:00:07.737+02:00
+modified: 2026-07-29T08:11:24.228+02:00
+published: 2026-07-29T08:11:24.228+02:00
 tags:
   - "#Background"
   - "#5e"
@@ -26,7 +26,7 @@ You were a member of an outlaw band. You might have been part of a troop of cutt
 
 **Ability Score Increases:** +1 to Dexterity and one other ability score (both to a maximum of +4).
 **Skill Proficiencies:** <u>Survival</u>, and either <u>Intimidation</u> or <u>Stealth</u>.
-**Tool Proficiencies:** One type of [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Artisan_s Tools/5e - Artisan_s Tools|🛠️Artisan's Tools]] or [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Vehicles/5e - Vehicles|🛠️Vehicle]].
+**Tool Proficiencies:** One type of [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Artisan_s Tools/5e - Artisan_s Tools|🛠️Artisan's Tools]] or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Vehicles/5e - Vehicles|🛠️Vehicle]].
 **Equipment:** Traveler’s clothes, signal whistle, tent (one person), 1 silver
 **Feature: Secret Ways:** When you navigate while traveling, pursuers have disadvantage on checks made to track your group. Additionally, you can travel stealthily at a normal pace.
 **Adventures and Advancement:** Allies and informants occasionally give you tips about the whereabouts of poorly-guarded loot. After a few such scores, you may gain the free service of up to 8 bandits.

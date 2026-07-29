@@ -2,8 +2,8 @@
 publish: true
 title: 👥5e - Elementari👥
 created: 2026-07-20T12:11:02.479+02:00
-modified: 2026-07-27T15:01:51.475+02:00
-published: 2026-07-27T15:01:51.475+02:00
+modified: 2026-07-29T08:11:22.908+02:00
+published: 2026-07-29T08:11:22.908+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -52,7 +52,7 @@ Regardless of their cause however, most planetouched share a few physical traits
 **<u>Age:</u>** Planetouched typically mature at the same rate as humans but have longer live spans. Most Planetouched born to non-Planetouched parents tend to mirror their parents life span, but all Planetouched can age to a maximum of 160 years.\
 **<u>Size:</u>** Medium (4-7 feet / 120cm - 210cm) or Small (2-4 feet / 60cm - 120cm)
 **<u>Speed:</u>** 30 feet
-**<u>Darkvision:</u>** You have [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Senses/5e - Darkvision|👁️Darkvision]] with a range of <u>60 feet</u>.
+**<u>Darkvision:</u>** You have [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Senses/5e - Darkvision|👁️Darkvision]] with a range of <u>60 feet</u>.
 
 ### Immortal Blessing
 
@@ -67,7 +67,7 @@ Elementari can vary wildly from each other depending on their bloodline. Choose 
 Connected to the Elemental Plane of Air, these planetouched may have skin and hair the color of a sky on a sunny day, that of a cluster of stormclouds, or other light, cool tones. Some, on the other hand, may have a more avian aspect, with feathers instead of hair or the eyes of a bird of prey. You have the following traits:
 
 **<u>Feather on the Wind:</u>** When you fall, you can use your **Reaction** to slow your rate of descent and land from a height of up to <u>60 feet</u> without taking falling damage; you take half damage if falling from heights higher than that.
-**<u>Light on Your Feet:</u>** You can use a **Bonus Action** to make a leap of a distance up to <u>10 feet</u> without provoking opportunity attacks. This distance increases by <u>5 feet</u> each time your proficiency bonus increases. Once you have used this feature a number of times equal to your proficiency bonus, you can’t use it again until you have finished a long rest. Additionally, when you would be knocked [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]], you can use your **Reaction** to instead move 5 feet in a direction you choose. This movement does not provoke an opportunity attack.
+**<u>Light on Your Feet:</u>** You can use a **Bonus Action** to make a leap of a distance up to <u>10 feet</u> without provoking opportunity attacks. This distance increases by <u>5 feet</u> each time your proficiency bonus increases. Once you have used this feature a number of times equal to your proficiency bonus, you can’t use it again until you have finished a long rest. Additionally, when you would be knocked [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]], you can use your **Reaction** to instead move 5 feet in a direction you choose. This movement does not provoke an opportunity attack.
 
 ### Earthborn Elementari
 
@@ -81,7 +81,7 @@ As diverse as any planeborn people, earthborn elementaari may have eyes the clea
 A fireborn’s connection to their elemental plane almost always manifests in warm-hued hair and skin, to the point that some are mistaken for comparatively subtle tieflings and aasimar. Those with more flashy manifestations might have hair that undulates like a flame, or eyes the color of shifting embers. You have the following traits:
 
 **<u>Fevered Blood:</u>** You have resistance to fire damage.
-**<u>Flame On:</u>** When a creature touches you or successfully hits you with a melee attack while within 5 feet of you, you can use your **Reaction** to briefly set your skin aflame. The creature makes a **DEX Save** (DC = your [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Save DC|🤺Maneuver Save DC]]). The creature takes <u>2d6</u> damage on a failed saving throw or half damage on a success. The damage increases to <u>3d6</u> at 5th level, <u>4d6</u> at 9th level, <u>5d6</u> at 13th level, and <u>6d6</u> at 17th level. Once you have used this ability a number of times equal to your Constitution modifier, you can’t use it again until you finish a short or long rest.
+**<u>Flame On:</u>** When a creature touches you or successfully hits you with a melee attack while within 5 feet of you, you can use your **Reaction** to briefly set your skin aflame. The creature makes a **DEX Save** (DC = your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Save DC|🤺Maneuver Save DC]]). The creature takes <u>2d6</u> damage on a failed saving throw or half damage on a success. The damage increases to <u>3d6</u> at 5th level, <u>4d6</u> at 9th level, <u>5d6</u> at 13th level, and <u>6d6</u> at 17th level. Once you have used this ability a number of times equal to your Constitution modifier, you can’t use it again until you finish a short or long rest.
 
 ### Lightningborn Elementari
 
@@ -96,7 +96,7 @@ Lightningborn planetouched may look wild to other people. Often their hair is sp
 The waterborn planetouched, true to their nature, often have aquatic features, though these can be as subtle as bright blue eyes or small patches of scales to needle-like teeth, prominent fins, and colorful skin in tones of blue, green, or even those of tropical fish. You have the following traits:
 
 **<u>Gentle Ministrations:</u>** Leveraging water’s power as a natural healing agent, you can use an action to touch a willing creature and restore a number of hit points equal to twice your level. Once you use this trait, you must finish a long rest before doing so again.
-**<u>Liquid Undulation:</u>** Your fluid movement grants you an <u>expertise die</u> to resist attempts to [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Basic Maneuvers/5e - Grapple (Maneuver)|🤺Grapple]] you and to escape grapples.
+**<u>Liquid Undulation:</u>** Your fluid movement grants you an <u>expertise die</u> to resist attempts to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Basic Maneuvers/5e - Grapple (Maneuver)|🤺Grapple]] you and to escape grapples.
 **<u>Piscine Aspect:</u>** You have a <u>swimming speed</u> of <u>30 feet</u> and you can hold your breath for up to 15 minutes at a time.
 
 ## Planetouched Gifts

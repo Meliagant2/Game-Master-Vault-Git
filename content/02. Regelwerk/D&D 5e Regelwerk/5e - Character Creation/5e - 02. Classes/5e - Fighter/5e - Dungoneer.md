@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Dungoneer🦸‍♀️
 created: 2026-07-27T12:10:07.575+02:00
-modified: 2026-07-27T15:01:51.523+02:00
-published: 2026-07-27T15:01:51.523+02:00
+modified: 2026-07-29T08:11:23.341+02:00
+published: 2026-07-29T08:11:23.341+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -12,7 +12,7 @@ dateitags:
   - "#5e"
 status: ✅
 hauptklasse:
-  - "[[5e - Fighter]]"
+  - "[[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Fighter/5e - Fighter]]"
 kurzbeschreibung: A dungeoneer is at home in underground lairs, winding caves, and labyrinthian passages. They have adapted to the harsh conditions of dungeon environments and turned them to their advantage.
 ---
 
@@ -30,7 +30,7 @@ You have adapted to the confined conditions found in dungeons, and you fight bes
 
 ### Level 3: Dungoneering Traditions
 
-You gain proficiency in one of the following combat traditions of your choice: [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Adamant Mountain Tradition/5e - Adamant Mountain Tradition|🤺Adamant Mountain]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Razors Edge Tradition/5e - Razors Edge Tradition|🤺Razors Edge]], or [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Tempered Iron Tradition/5e - Tempered Iron Tradition|🤺Tempered Iron]]. When you gain this feature you can choose one of the maneuvers you know and replace it with another maneuver of the same degree or lower from your newly chosen combat tradition.
+You gain proficiency in one of the following combat traditions of your choice: [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Adamant Mountain Tradition/5e - Adamant Mountain Tradition|🤺Adamant Mountain]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Razors Edge Tradition/5e - Razors Edge Tradition|🤺Razors Edge]], or [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Tempered Iron Tradition/5e - Tempered Iron Tradition|🤺Tempered Iron]]. When you gain this feature you can choose one of the maneuvers you know and replace it with another maneuver of the same degree or lower from your newly chosen combat tradition.
 
 ### Level 6: Dungeon Crawler
 
@@ -51,8 +51,8 @@ Your experience exploring dungeons has made you a veteran of the depths, able to
 
 You are at home in pitch darkness and fight even more effectively without light.
 
-- You gain [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Senses/5e - Blindsight|👁️Blindsight]] with a radius of <u>10 feet</u>.
-- You gain an <u>expertise die</u> to attack rolls while in [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Illumination/5e - Darkness (Illumination)|💡Darkness]].
+- You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Senses/5e - Blindsight|👁️Blindsight]] with a radius of <u>10 feet</u>.
+- You gain an <u>expertise die</u> to attack rolls while in [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Illumination/5e - Darkness (Illumination)|💡Darkness]].
 
 ### Level 13: Close-Quarters Veteran
 

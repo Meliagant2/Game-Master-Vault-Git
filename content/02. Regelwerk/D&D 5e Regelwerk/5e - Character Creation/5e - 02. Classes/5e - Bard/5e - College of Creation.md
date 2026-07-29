@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - XXX🦸‍♀️
 created: 2026-07-23T10:40:36.502+02:00
-modified: 2026-07-23T11:30:08.414+02:00
-published: 2026-07-23T11:30:08.414+02:00
+modified: 2026-07-29T08:11:23.164+02:00
+published: 2026-07-29T08:11:23.164+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -12,7 +12,7 @@ dateitags:
   - "#5e"
 status: ✅
 hauptklasse:
-  - "[[5e - Bard]]"
+  - "[[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Bard/5e - Bard]]"
 kurzbeschreibung: Bards believe the cosmos is a work of art—the creation of the first dragons and gods. That creative work included harmonies that continue to resound through existence today, a power known as the Song of Creation.
 ---
 
@@ -46,7 +46,7 @@ The size of the item you can create with this feature increases by one size cate
 
 As an **Action**, you can animate one Large or smaller nonmagical item within <u>30 feet</u> of you that isn’t being worn or carried. The animate item uses the **Dancing Item stat block**, which uses your proficiency bonus (PB). The item is friendly to you and your companions and obeys your commands. It lives for <u>1 hour</u>, until it is reduced to 0 hit points, or until you die.
 
-In combat, the item shares your <u>initiative</u> count, but it takes its turn immediately after yours. It can <u>move</u> and use its <u>reaction</u> on its own, but the only <u>action</u> it takes on its turn is the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Dodge|⚔️Dodge]] action, unless you take a **Bonus Action** on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the item can take **any action** of its choice, not just **Dodge**.
+In combat, the item shares your <u>initiative</u> count, but it takes its turn immediately after yours. It can <u>move</u> and use its <u>reaction</u> on its own, but the only <u>action</u> it takes on its turn is the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Dodge|⚔️Dodge]] action, unless you take a **Bonus Action** on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the item can take **any action** of its choice, not just **Dodge**.
 
 When you use your **Bardic Inspiration** feature, you can command the item as part of the same <u>bonus action</u> you use for Bardic Inspiration.
 
@@ -130,6 +130,6 @@ You may create an inanimate sculpture and breath life into it. The creation of t
 
 Once the statue is finished, you spend a full day on the ritual of animation, singing it to life as an automaton.
 
-Your automaton has the statistics of a stone construct spirit, as if you had cast the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Level 4 Conjuration/5e - Summon Construct (Spell)|☄️Summon Construct]] at 5th level – except the duration of the spell would become instantaneous. Your automaton cannot naturally heal, but it can be healed by magical means. You may also use **bardic inspiration** as an **Action** to heal it for your <u>bardic inspiration roll + CHA</u>. If your automaton is dropped to 0 hit points, it becomes inert, and the ritual of animation is needed to bring it back to life.
+Your automaton has the statistics of a stone construct spirit, as if you had cast the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Level 4 Conjuration/5e - Summon Construct (Spell)|☄️Summon Construct]] at 5th level – except the duration of the spell would become instantaneous. Your automaton cannot naturally heal, but it can be healed by magical means. You may also use **bardic inspiration** as an **Action** to heal it for your <u>bardic inspiration roll + CHA</u>. If your automaton is dropped to 0 hit points, it becomes inert, and the ritual of animation is needed to bring it back to life.
 
 If you create another automaton, your previous automaton turns to dust.

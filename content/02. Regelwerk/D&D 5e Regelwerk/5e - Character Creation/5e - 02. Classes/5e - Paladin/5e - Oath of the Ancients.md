@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Oath of the Ancients🦸‍♀️
 created: 2026-07-28T10:25:11.789+02:00
-modified: 2026-07-28T11:57:07.007+02:00
-published: 2026-07-28T11:57:07.007+02:00
+modified: 2026-07-29T08:11:23.513+02:00
+published: 2026-07-29T08:11:23.513+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -12,7 +12,7 @@ dateitags:
   - "#5e"
 status: ✅
 hauptklasse:
-  - "[[5e - Paladin]]"
+  - "[[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Paladin/5e - Paladin]]"
 kurzbeschreibung: "The Oath of the Ancients is as old as the first elves. Paladins who swear this oath cherish the light; they love the beautiful and life-giving things of the world more than any principles of honor, courage, and justice. "
 ---
 
@@ -31,29 +31,29 @@ The Oath of the Ancients is as old as the first elves. Paladins who swear this o
 
 You gain oath spells at the paladin levels listed below. You always have these spells prepared and they don't count against the maximum number of spells you can prepare each day.
 
-**<u>3rd level:</u>** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Level 1 Conjuration/5e - Ensnaring Strike (Spell)|☄️Ensnaring Strike]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Divination/5e - Level 1 Divination/5e - Speak with Animals (Spell)|☄️Speak with Animals]]
+**<u>3rd level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Level 1 Conjuration/5e - Ensnaring Strike (Spell)|☄️Ensnaring Strike]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Divination/5e - Level 1 Divination/5e - Speak with Animals (Spell)|☄️Speak with Animals]]
 
-**<u>5th level:</u>** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Level 2 Conjuration/5e - Misty Step (Spell)|☄️Misty Step]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 2 Evocation/5e - Moonbeam (Spell)|☄️Moonbeam]]
+**<u>5th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Level 2 Conjuration/5e - Misty Step (Spell)|☄️Misty Step]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 2 Evocation/5e - Moonbeam (Spell)|☄️Moonbeam]]
 
-**<u>9th level:</u>** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 3 Transmutation/5e - Plant Growth (Spell)|☄️Plant Growth]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 3 Abjuration/5e - Protection from Energy (Spell)|☄️Protection from Energy]]
+**<u>9th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 3 Transmutation/5e - Plant Growth (Spell)|☄️Plant Growth]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 3 Abjuration/5e - Protection from Energy (Spell)|☄️Protection from Energy]]
 
-**<u>13th level:</u>** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 4 Evocation/5e - Ice Storm (Spell)|☄️Ice Storm]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 4 Abjuration/5e - Stoneskin (Spell)|☄️Stoneskin]]
+**<u>13th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 4 Evocation/5e - Ice Storm (Spell)|☄️Ice Storm]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 4 Abjuration/5e - Stoneskin (Spell)|☄️Stoneskin]]
 
-**<u>17th level:</u>** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Divination/5e - Level 5 Divination/5e - Commune with Nature (Spell)|☄️Commune with Nature]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 5 Enchantment/5e - Tree Stride (Spell)|☄️Tree Stride]]
+**<u>17th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Divination/5e - Level 5 Divination/5e - Commune with Nature (Spell)|☄️Commune with Nature]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 5 Enchantment/5e - Tree Stride (Spell)|☄️Tree Stride]]
 
 ### Level 3: Nature's Wrath
 
-As an **Action**, you can expend one use of your **Channel Divinity** to conjure grasping spectral vines around nearby creatures. Each creature of your choice that you can see within <u>15 feet</u> of you makes a **repeated STR Save**. _**Failure:**_ The Creature is [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Restrained|☠️Restrained]] for <u>1 Minute</u>.
+As an **Action**, you can expend one use of your **Channel Divinity** to conjure grasping spectral vines around nearby creatures. Each creature of your choice that you can see within <u>15 feet</u> of you makes a **repeated STR Save**. _**Failure:**_ The Creature is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Restrained|☠️Restrained]] for <u>1 Minute</u>.
 
 ### Level 6: Aura of Warding
 
-Ancient magic lies so heavily upon you that it forms an eldritch ward. You constantly emanate an unseeable aura in a <u>10-foot Emanation</u> that originates from you. The aura is inactive while you have the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]] condition.
+Ancient magic lies so heavily upon you that it forms an eldritch ward. You constantly emanate an unseeable aura in a <u>10-foot Emanation</u> that originates from you. The aura is inactive while you have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]] condition.
 
 You and allies within your Aura have <u>resistance</u> to damage from spells.
 
 ### Level 9: Nature's Sanctuary
 
-You are always under the effect of the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 1 Abjuration/5e - Sanctuary (Spell)|☄️Sanctuary]] Spell. If you attack a creature, deal damage to it, or cast a spell against it this effect stops working against that creature for <u>24 hours</u>.
+You are always under the effect of the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 1 Abjuration/5e - Sanctuary (Spell)|☄️Sanctuary]] Spell. If you attack a creature, deal damage to it, or cast a spell against it this effect stops working against that creature for <u>24 hours</u>.
 
 ### Level 13: Undying Sentinel
 

@@ -2,8 +2,8 @@
 publish: true
 title: ⛏️5e - Folk Hero⛏️
 created: 2026-07-21T13:43:12.271+02:00
-modified: 2026-07-21T14:39:39.948+02:00
-published: 2026-07-21T14:39:39.948+02:00
+modified: 2026-07-29T08:11:24.188+02:00
+published: 2026-07-29T08:11:24.188+02:00
 tags:
   - "#Background"
   - "#5e"
@@ -27,7 +27,7 @@ Did you win your fame by battling an oppressive tyrant? Saving your village from
 
 **Ability Score Increases:** +1 to Constitution and one other ability score (both to a maximum of +4).
 **Skill Proficiencies:** <u>Survival</u>, and either <u>Animal Handling</u> or <u>Nature</u>.
-**Tool Proficiencies:** One type of [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Artisan_s Tools/5e - Artisan_s Tools|🛠️Artisan's Tools]], one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Vehicles/5e - Vehicles|🛠️Vehicle]].
+**Tool Proficiencies:** One type of [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Artisan_s Tools/5e - Artisan_s Tools|🛠️Artisan's Tools]], one [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Vehicles/5e - Vehicles|🛠️Vehicle]].
 **Equipment:** Any artisan’s tools except alchemist’s supplies, common clothes, 5 silver
 **Feature: Local Fame.** Unless you conceal your identity, you’re universally recognized and admired near the site of your exploits. You and your companions are treated to a moderate lifestyle in any settlement within 100 miles of your Prestige Center.
 **Adventures and Advancement.** Common folk come to you with all sorts of problems. If you fought an oppressive regime, they bring you tales of injustice. If you fought a monster, they seek you out with monster problems. If you solve many such predicaments, you become universally famous, gaining the benefits of your Local Fame feature in every settled land.

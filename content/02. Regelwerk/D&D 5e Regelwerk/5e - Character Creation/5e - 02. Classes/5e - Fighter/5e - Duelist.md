@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Duelist🦸‍♀️
 created: 2026-07-27T12:10:07.575+02:00
-modified: 2026-07-27T13:24:30.784+02:00
-published: 2026-07-27T13:24:30.784+02:00
+modified: 2026-07-29T08:11:23.340+02:00
+published: 2026-07-29T08:11:23.340+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -12,7 +12,7 @@ dateitags:
   - "#5e"
 status: ✅
 hauptklasse:
-  - "[[5e - Fighter]]"
+  - "[[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Fighter/5e - Fighter]]"
 kurzbeschreibung: Dueling is about reading an opponent, getting into their head and knowing what they’ll do before they do. A duelist moves with grace and style, attacks with finesse and biting wit, and lives a life of flamboyance and honor.
 ---
 
@@ -22,7 +22,7 @@ Dueling is about reading an opponent, getting into their head and knowing what t
 
 ### Level 3: Dueling Traditions
 
-You gain proficiency in one of the following combat traditions of your choice: [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Mirrors Glint Tradition/5e - Mirrors Glint Tradition|🤺Mirrors Glint]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Mist and Shade Tradition/5e - Mist and Shade Tradition|🤺Mist and Shade]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Rapid Current Tradition/5e - Rapid Current Tradition|🤺Rapid Current]]. When you gain this feature you can choose one of the maneuvers you know and replace it with another maneuver of the same degree or lower from your newly chosen combat tradition.
+You gain proficiency in one of the following combat traditions of your choice: [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Mirrors Glint Tradition/5e - Mirrors Glint Tradition|🤺Mirrors Glint]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Mist and Shade Tradition/5e - Mist and Shade Tradition|🤺Mist and Shade]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Rapid Current Tradition/5e - Rapid Current Tradition|🤺Rapid Current]]. When you gain this feature you can choose one of the maneuvers you know and replace it with another maneuver of the same degree or lower from your newly chosen combat tradition.
 
 ### Level 3: Panache
 
@@ -40,11 +40,11 @@ You master the art of turning your opponent’s strikes against them. You treat 
 
 ### Level 9: Duelist's Challenge
 
-You’re confident enough to challenge even the most monstrous threats. You can use a **Bonus Action** to expend a use of **Panache** to challenge a creature within <u>30 feet</u> to an honorable duel. Once you challenge a creature in this way, you have **DISADV** on attacks against creatures other than the challenged creature, and the challenged creature has **DISADV** on attacks against creatures other than you. A creature remains challenged in this way until either you or the challenged creature are [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]], dies, or either ends their turn out of line of sight from the other. The challenge also ends if you use this feature again to challenge a different creature, or if a third creature challenges either you or your challenged creature.
+You’re confident enough to challenge even the most monstrous threats. You can use a **Bonus Action** to expend a use of **Panache** to challenge a creature within <u>30 feet</u> to an honorable duel. Once you challenge a creature in this way, you have **DISADV** on attacks against creatures other than the challenged creature, and the challenged creature has **DISADV** on attacks against creatures other than you. A creature remains challenged in this way until either you or the challenged creature are [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]], dies, or either ends their turn out of line of sight from the other. The challenge also ends if you use this feature again to challenge a different creature, or if a third creature challenges either you or your challenged creature.
 
 ### Level 13: Elusive
 
-You can move effortlessly and untouched through any battlefield. Your movement out of a creature’s threatened area does not provoke [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Reactions/5e - Opportunity Attack|⚔️Opportunity Attacks]]. In addition, whenever you parry an attack using a <u>parrying</u> weapon the <u>expertise die</u> to your AC increases by one stage.
+You can move effortlessly and untouched through any battlefield. Your movement out of a creature’s threatened area does not provoke [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Reactions/5e - Opportunity Attack|⚔️Opportunity Attacks]]. In addition, whenever you parry an attack using a <u>parrying</u> weapon the <u>expertise die</u> to your AC increases by one stage.
 
 ### Level 17: Master Duelist
 

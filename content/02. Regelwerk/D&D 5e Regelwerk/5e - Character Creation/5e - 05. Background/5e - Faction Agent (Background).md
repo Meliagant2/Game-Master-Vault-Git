@@ -2,8 +2,8 @@
 publish: true
 title: ⛏️5e - Faction Agent⛏️
 created: 2026-07-21T13:40:44.481+02:00
-modified: 2026-07-21T14:30:07.320+02:00
-published: 2026-07-21T14:30:07.320+02:00
+modified: 2026-07-29T08:11:24.168+02:00
+published: 2026-07-29T08:11:24.168+02:00
 tags:
   - "#Background"
   - "#5e"
@@ -26,7 +26,7 @@ You served – and may still serve – an organization trying to influence event
 
 **Ability Score Increase:** +1 to Charisma and one other ability score (both to a maximum of +4).
 **Skill Proficiencies:** <u>Stealth</u>, and either <u>Culture</u> or <u>Deception</u>.
-**Languages:** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Two of your Choice]].
+**Languages:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Two of your Choice]].
 **Equipment:** Badge or emblem of your faction, a copy of a seminal faction text, a code book, a set of common clothes, 4 silver
 **Feature: Safe Haven:** Efforts taken by your group shield your secret activities from most blanket divinations unless the caster specifically suspects you, and you cannot be magically compelled to confess the organization’s secrets. Additionally, in most large settlements and cities you can subtly signal to others in your organization to get access to a hidden safe house, free room and board, or assistance in finding information. Other agents won’t risk their lives for you or risk revealing their identities, at least not before you’ve put in the work to establish a rapport.
 **Adventures or Advancement:** When your plots begin to show fruit, your fellow agents notice. After you’ve had several successes at advancing your cause, you gain a contact with an agent who is highly-placed in society and can open doors for you. In addition, you gain the services of a low-level agent (with the statistics of a spy).

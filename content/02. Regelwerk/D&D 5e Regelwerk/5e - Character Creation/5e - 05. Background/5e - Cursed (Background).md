@@ -2,8 +2,8 @@
 publish: true
 title: ⛏️5e - Cursed⛏️
 created: 2026-07-21T13:40:44.481+02:00
-modified: 2026-07-21T14:14:54.136+02:00
-published: 2026-07-21T14:14:54.136+02:00
+modified: 2026-07-29T08:11:24.129+02:00
+published: 2026-07-29T08:11:24.129+02:00
 tags:
   - "#Background"
   - "#5e"
@@ -28,7 +28,7 @@ How did you become cursed? Are there those who sympathize with your plight? What
 
 **Ability Score Increase:** +1 Charisma and one other ability score (both to a maximum of +4).
 **Skill Proficiencies:** <u>Perception</u>, and either <u>Arcana</u>, <u>Nature</u>, or <u>Religion</u> based on the source of your curse.
-**Languages:** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Two of your Choice]].
+**Languages:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Two of your Choice]].
 **Equipment:** 4 days of rations, one person tent, traveler’s clothes
 **Feature: Accursed:** Your curse can flare up at any time, but it’s especially likely during times of stress. Whenever you fail at a <u>Deception</u> or <u>Persuasion</u> check, your curse manifests in a manner that you work out with your Game Master ahead of time. The failed check is ignored, and you immediately roll an Intimidation check with which you have expertise, taking the new roll. However, even a successful Intimidation check does not necessarily produce the result you originally intended, as the creatures around you may recoil in fear and distrust. At the Game Master’s discretion, you may keep the expertise die to Intimidation until the end of the scene.
 **Adventures and Advancement:** The entity responsible for your curse may press you to complete specific tasks, such as transporting a mysterious item, defeating a hated enemy, or stealing important documents. Work with your Game Master to determine how your curse is leveraged in these situations. After you complete several such tasks, your infamy grows. You are known by all people within 100 miles of your Prestige Center, many of whom hold you in fearful respect. You and your companions are given a moderate lifestyle in settlements within this area by those who dare not risk your curse.

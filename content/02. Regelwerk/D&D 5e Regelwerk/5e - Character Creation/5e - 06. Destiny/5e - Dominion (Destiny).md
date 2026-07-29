@@ -2,8 +2,8 @@
 publish: true
 title: 🔮5e - Dominion🔮
 created: 2026-07-21T15:26:14.616+02:00
-modified: 2026-07-22T08:03:12.916+02:00
-published: 2026-07-22T08:03:12.916+02:00
+modified: 2026-07-29T08:11:24.310+02:00
+published: 2026-07-29T08:11:24.310+02:00
 tags:
   - "#Destiny"
   - "#5e"
@@ -19,8 +19,8 @@ An impostor seated on your throne, a land divided by civil strife, a feckless bu
 
 Consult with the Game Master to come up with ideas for an ambition suitable to the setting and campaign.
 
-**Source of Inspiration: Leadership:** You draw inspiration from taking charge and directing what needs to be done. You gain [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Inspiration|✨Inspiration]] whenever you lead by example or convince a group of NPCs to act against their own interests in order to complete a difficult task. Settle a vitriolic argument, direct a large number of nonplayer characters to participate in the completion of a task, rally a multitude of people to a cause.
-**Inspiration Feature: Studied Deliberation:** With a level head and measured logic, you objectively determine the best path forward. You may spend your inspiration and a minute’s deliberation to determine the results of an upcoming plan of action (as the [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Divination/5e - Level 2 Divination/5e - Augury (Spell)|☄️Augury]] spell).
+**Source of Inspiration: Leadership:** You draw inspiration from taking charge and directing what needs to be done. You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Inspiration|✨Inspiration]] whenever you lead by example or convince a group of NPCs to act against their own interests in order to complete a difficult task. Settle a vitriolic argument, direct a large number of nonplayer characters to participate in the completion of a task, rally a multitude of people to a cause.
+**Inspiration Feature: Studied Deliberation:** With a level head and measured logic, you objectively determine the best path forward. You may spend your inspiration and a minute’s deliberation to determine the results of an upcoming plan of action (as the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Divination/5e - Level 2 Divination/5e - Augury (Spell)|☄️Augury]] spell).
 
 ##### Fulfilling Your Destiny
 
@@ -28,7 +28,7 @@ You fulfill your destiny of Dominion when you gain a dominion of your own.
 
 Become the ruler of a nation, large city, or other sizable population, become a divine figure with numerous followers, reach the top of a massive organization.
 
-**Fulfillment Feature: Absolute Power:** Either through respect or fear you have become an uncontested ruler, and most simple orders you give are followed without question. You have **ADV** on checks made to influence your subjects. In addition, choose one [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Paladin/5e - Paladin|🦸‍♀️Paladin]]-Subclass. You gain the 6th-level Aura Feature of that Subclass, but increase the Aura's emanation to 30 ft.
+**Fulfillment Feature: Absolute Power:** Either through respect or fear you have become an uncontested ruler, and most simple orders you give are followed without question. You have **ADV** on checks made to influence your subjects. In addition, choose one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Paladin/5e - Paladin|🦸‍♀️Paladin]]-Subclass. You gain the 6th-level Aura Feature of that Subclass, but increase the Aura's emanation to 30 ft.
 
 ##### Table: Dominion Destiny
 

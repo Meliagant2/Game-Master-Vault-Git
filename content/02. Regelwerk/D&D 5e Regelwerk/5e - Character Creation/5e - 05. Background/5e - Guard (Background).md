@@ -2,8 +2,8 @@
 publish: true
 title: ⛏️5e - Guard⛏️
 created: 2026-07-21T13:44:14.806+02:00
-modified: 2026-07-21T14:45:02.147+02:00
-published: 2026-07-21T14:45:02.147+02:00
+modified: 2026-07-29T08:11:24.198+02:00
+published: 2026-07-29T08:11:24.198+02:00
 tags:
   - "#Background"
   - "#5e"
@@ -28,7 +28,7 @@ Did you stand watch in a throne room or lookout tower? Walk a beat on city stree
 
 **Ability Score Increases:** +1 to Strength and one other ability score (both to a maximum of +4).
 **Skill Proficiencies:** <u>Intimidation</u>, and either <u>Athletics</u> or <u>Investigation</u>.
-**Languages:** [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️One of your Choice]].
+**Languages:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️One of your Choice]].
 **Equipment:** Common clothes, halberd, uniform, 3 silver
 **Feature: Natural Authority:** Commoners and civilians sometimes assume you are part of a local constabulary force and defer to you.
 **Adventures and Advancement:** When you visit the city or countryside you once patrolled you’re sure to get embroiled in the same politics that drove you out. Should you stick around righting wrongs, you might accidentally find yourself in a position of responsibility.

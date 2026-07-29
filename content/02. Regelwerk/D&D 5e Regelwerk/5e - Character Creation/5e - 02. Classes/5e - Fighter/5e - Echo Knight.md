@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Echo Knight🦸‍♀️
 created: 2026-07-27T12:10:07.575+02:00
-modified: 2026-07-27T13:37:58.357+02:00
-published: 2026-07-27T13:37:58.357+02:00
+modified: 2026-07-29T08:11:23.348+02:00
+published: 2026-07-29T08:11:23.348+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -12,7 +12,7 @@ dateitags:
   - "#5e"
 status: ✅
 hauptklasse:
-  - "[[5e - Fighter]]"
+  - "[[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Fighter/5e - Fighter]]"
 kurzbeschreibung: A mysterious and feared frontline warrior, the Echo Knight has mastered the art of using magic powers to summon the fading shades of unrealized timelines to aid them in battle.
 ---
 
@@ -52,7 +52,7 @@ You can use this feature a number of times equal to your <u>CON modifier</u> (a 
 
 ### Level 6: Echo Avatar
 
-You can temporarily transfer your consciousness to your echo. As an **Action**, you can see through your echo’s eyes and hear through its ears. During this time, you are [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Deafened|☠️Deafened]] and [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Blinded|☠️Blinded]]. You can sustain this effect for up to <u>10 minutes</u>, and you can end it at any time (requires no action). While your echo is being used in this way, it can be up to <u>1,000 feet</u> away from you without being destroyed.
+You can temporarily transfer your consciousness to your echo. As an **Action**, you can see through your echo’s eyes and hear through its ears. During this time, you are [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Deafened|☠️Deafened]] and [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Blinded|☠️Blinded]]. You can sustain this effect for up to <u>10 minutes</u>, and you can end it at any time (requires no action). While your echo is being used in this way, it can be up to <u>1,000 feet</u> away from you without being destroyed.
 
 ### Level 9: Shadow martyr
 

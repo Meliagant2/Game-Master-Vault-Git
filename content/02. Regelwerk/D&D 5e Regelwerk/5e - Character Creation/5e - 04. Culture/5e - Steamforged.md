@@ -2,8 +2,8 @@
 publish: true
 title: 🎎5e - Steamforged🎎
 created: 2026-07-20T18:00:21.058+02:00
-modified: 2026-07-21T12:31:24.348+02:00
-published: 2026-07-21T12:31:24.348+02:00
+modified: 2026-07-29T08:11:23.983+02:00
+published: 2026-07-29T08:11:23.983+02:00
 tags:
   - "#Culture"
   - "#5e"
@@ -35,10 +35,10 @@ But in all communities, there’s at least someone who finds steamforged folk fa
 
 Characters raised in the steamforged culture share a variety of traits in common with one another:
 
-**Languages:** You can speak, read, write, and sign <u>Common</u> and <u>one other</u> [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Language]].
+**Languages:** You can speak, read, write, and sign <u>Common</u> and <u>one other</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Language]].
 **Skill Proficiencies:** You have proficiency in either <u>History</u>, <u>Investigation</u>, or <u>Nature</u>, and you gain an <u>expertise die</u> on checks made using the chosen skill.
-**Tech Savvy:** You have proficiency with <u>tinker’s tools</u> and <u>Engineering</u>, plus one other [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Artisan_s Tools/5e - Artisan_s Tools|🛠️Artisan's Tool]] of your choice.
+**Tech Savvy:** You have proficiency with <u>tinker’s tools</u> and <u>Engineering</u>, plus one other [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Artisan_s Tools/5e - Artisan_s Tools|🛠️Artisan's Tool]] of your choice.
 **War Scholar:** Even combat is a scholarly discipline for your people. Choose one of the following:
 
-- **Student of Martial Arts:** When you replace an <u>attack</u> or use an **Action** to [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Basic Maneuvers/5e - Disarm (Maneuver)|🤺Disarm]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Basic Maneuvers/5e - Grapple (Maneuver)|🤺Grapple]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Basic Maneuvers/5e - Overrun (Maneuver)|🤺Overrun]], [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Basic Maneuvers/5e - Shove (Maneuver)|🤺Shove]], or [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Tumble|⚔️Tumble]], you gain an <u>expertise die</u>.
-- **Student of Martial Science:** Choose one <u>1st degree</u> combat maneuver from any tradition. You can use this combat maneuver once without spending [[02. Regelwerk/D&D Advanced 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Exertion|🤺Exertion]]. You cannot use it again until you finish a short or long rest .
+- **Student of Martial Arts:** When you replace an <u>attack</u> or use an **Action** to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Basic Maneuvers/5e - Disarm (Maneuver)|🤺Disarm]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Basic Maneuvers/5e - Grapple (Maneuver)|🤺Grapple]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Basic Maneuvers/5e - Overrun (Maneuver)|🤺Overrun]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Basic Maneuvers/5e - Shove (Maneuver)|🤺Shove]], or [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Tumble|⚔️Tumble]], you gain an <u>expertise die</u>.
+- **Student of Martial Science:** Choose one <u>1st degree</u> combat maneuver from any tradition. You can use this combat maneuver once without spending [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Exertion|🤺Exertion]]. You cannot use it again until you finish a short or long rest .
