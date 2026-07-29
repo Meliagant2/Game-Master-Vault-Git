@@ -2,16 +2,16 @@
 publish: true
 title: 💃5e - Skills💃
 created: 2026-07-20T12:11:02.903+02:00
-modified: 2026-07-29T08:11:22.257+02:00
-published: 2026-07-29T08:11:22.257+02:00
+modified: 2026-07-29T15:35:50.251+02:00
+published: 2026-07-29T15:35:50.251+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
-socialImage: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
+socialImage: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Skills.png]]"
 dateitags:
   - "#Grundregeln"
   - "#5e"
-image: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
+image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Skills.png]]"
 status: ✅
 ---
 
@@ -88,7 +88,9 @@ views:
 
 ```
 
+![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Skills.png]]
+
 ## Quellen
 
 > [!inspiration] Quellen
-> **Art:**
+> **Art:** Created by taash5studio from Noun Project

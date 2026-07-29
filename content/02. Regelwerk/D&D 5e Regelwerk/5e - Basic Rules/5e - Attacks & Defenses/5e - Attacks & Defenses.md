@@ -2,16 +2,16 @@
 publish: true
 title: 5e - Attacks & Defenses
 created: 2026-07-21T09:51:36.256+02:00
-modified: 2026-07-21T10:08:21.620+02:00
-published: 2026-07-21T10:08:21.620+02:00
+modified: 2026-07-29T15:33:31.001+02:00
+published: 2026-07-29T15:33:31.001+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
-socialImage: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
+socialImage: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Attacks and Defenses.png]]"
 dateitags:
   - "#Grundregeln"
   - "#5e"
-image: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
+image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Attacks and Defenses.png]]"
 status: ⏳
 ---
 
@@ -36,7 +36,9 @@ status: ⏳
 
 # 5e - Attacks & Defenses
 
+![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Attacks and Defenses.png]]
+
 ## Quellen
 
 > [!inspiration] Quellen
-> **Art:** Created by
+> **Art:** Created by HRF07 from Noun Project
