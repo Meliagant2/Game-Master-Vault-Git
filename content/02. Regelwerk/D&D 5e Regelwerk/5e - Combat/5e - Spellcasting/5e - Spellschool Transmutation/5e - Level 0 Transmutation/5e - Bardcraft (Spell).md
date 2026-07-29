@@ -1,9 +1,9 @@
 ---
 publish: true
-title: ☄️5e Bardcraft☄️
+title: ☄️5e - Bardcraft☄️
 created: 2026-07-23T10:12:45.322+02:00
-modified: 2026-07-28T14:54:37.380+02:00
-published: 2026-07-28T14:54:37.380+02:00
+modified: 2026-07-29T11:25:12.844+02:00
+published: 2026-07-29T11:25:12.844+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -11,64 +11,46 @@ dateitags:
   - "#Spell"
   - "#5e"
 saveart: ""
-status: ⏳
+status: ✅
+reactionbedingung: " "
 magieschule: Transmutation
 magielevel: 0
 wirkzeit: A
-reichweite: 10ft.
+reichweite: 10 ft.
 komponenten: V, S
-dauer: 1 Hour
+dauer: 1h
 concentration: n
 effekt:
   - Control
-klassenliste:
-  - Bard
 zauberliste:
   - Class only
+klassenliste:
+  - Bard
 ---
 
-> [!metadata]- Metadata
->
-> > [!metadataoption]- Status
-> >
-> > #### Status
-> >
-> > | | |
-> > |---|---|
-> > |**Status** | `INPUT[Status][:status]` |
-> > |**Publish**|`INPUT[inlineSelect(option(true), option(false)):publish]`|
->
-> > [!metadataoption]- Info
-> >
-> > #### Info
-> >
-> > | | |
-> > |---|---|
-> > |**Display Title** | `INPUT[textArea:title]`|
-> > |**Schule**|`INPUT[inlineSelect(option(Abjuration), option(Conjuration), option(Divination), option(Enchantment), option(Evocation), option(Illusion), option(Necromancy), option(Transmutation)):magieschule]`   |
-> > |**Level**|`INPUT[number:magielevel]`|
-> > |**Wirkzeit**| `INPUT[text:wirkzeit]`|
-> > |**Reichweite & Wirkareal** |`INPUT[text:reichweite]`|
-> > |**Komponenten**| `INPUT[text:komponenten]`|
-> > |**Dauer** |`INPUT[text:dauer]`|
-> > |**Concentration** |`INPUT[inlineSelect(option(y), option(n)):concentration]`   |
-> > |**Angriff/Save (Angriff: Melee/Ranged)**| `INPUT[text:saveart]`|
-> > |**Effekt**|`INPUT[inlineListSuggester(option(Control)):effekt]`   |
-> > |**Zauberliste** |`INPUT[inlineListSuggester(option(Arcane), option(Divine), option(Primal), option(Class only), option(Special)):zauberliste]`   |
-> > |**Klassenlisten**|`INPUT[inlineListSuggester(option(Artificer), option(Bard), option(Blood Hunter), option(Cleric), option(Druid), option(Paladin), option(Ranger), option(Sorcerer), option(Warlock), option(Wizard)):klassenliste]`   |
-
-# ☄️5e Bardcraft☄️
+# ☄️5e - Bardcraft☄️
 
 > [!wikibox]
 > |||
 > |:-|:-|
 > |**School:**|Transmutation |
 > |**Level:**|0 |
-> |**Casting Time:**|A|
-> |**Range/Area:**|10ft. |
+> |**Casting Time:**|A  |
+> |**Range/Area:**|10 ft. |
 > |**Components:**|V, S |
-> |**Duration:**|1 Hour |
+> |**Duration:**|PT1H |
 > |**Concentration:**|n |
 > |**Attack/Save:**||
 > |**Spell List:**|Class only |
 > |**Class List:**|Bard |
+
+A spell often taught to new bards, this spell can produce minor magical artistic effects. You can cause one of the following effects (or a similar effect of your choosing at the GM's discretion) to occur within range. Whichever effect you choose, you have **ADV** on <u>Performance</u> checks for the duration.
+
+- You cause one unattended musical instrument to begin playing simple music as though a person were playing it for <u>1 minute</u>.
+- You make a painting or other artistic imagery of your choice appear on an object or a surface for <u>1 hour</u>.
+- Music you create can be heard from up to <u>300 feet</u> away for <u>1 hour</u>.
+- You flavor one food or drink for <u>1 hour</u>.
+- You create up to 5 illusionary ribbons of color that circle between <u>5 to 15 feet</u> away from you for <u>1 minute</u>.
+- You cause one non-hostile creature that is listening to your music to move, clap, or hum along to the tune until you stop playing music or one minute passes, whichever happens first.
+
+If you cast this spell multiple times, you can have up to three of its effects active at a time, and you can dismiss such an effect as an **Action**.
