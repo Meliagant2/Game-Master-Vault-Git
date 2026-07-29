@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-29T14:35:27.185+02:00
-published: 2026-07-29T14:35:27.185+02:00
+modified: 2026-07-29T15:24:22.237+02:00
+published: 2026-07-29T15:24:22.237+02:00
 tags:
   - "#Home"
 ---
@@ -109,6 +109,7 @@ Regelwerke werden immer in der Sprache aufgeführt, in der sie mir am einfachste
 >   - Paladin
 > - A12 Spellcasting
 >   - All Cantrips
+> - A14 Conditions
 >
 > ##### Ausstehend
 >
@@ -130,7 +131,6 @@ Regelwerke werden immer in der Sprache aufgeführt, in der sie mir am einfachste
 > - A10 Combat
 > - A11 Combat Maneuvers
 > - A12 Spellcasting
-> - A14 Conditions
 
 ```base
 views:
