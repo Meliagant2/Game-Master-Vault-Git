@@ -1,16 +1,16 @@
 ---
 publish: true
-title: ✨5e - Divine Spell List✨
+title: ☄️5e - Divine Spell List☄️
 created: 2026-07-20T12:11:02.751+02:00
-modified: 2026-07-29T10:17:37.029+02:00
-published: 2026-07-29T10:17:37.029+02:00
+modified: 2026-07-29T14:10:50.428+02:00
+published: 2026-07-29T14:10:50.428+02:00
 tags:
   - "#Combatrules"
   - "#5e"
 status: ✅
 ---
 
-# ✨5e - Divine Spell List✨
+# ☄️5e - Divine Spell List☄️
 
 ## List of all Divine Spells:
 

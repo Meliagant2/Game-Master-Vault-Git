@@ -1,9 +1,9 @@
 ---
 publish: true
-title: ✨5e - Spells✨
+title: ☄️5e - Spells☄️
 created: 2026-07-20T12:11:02.674+02:00
-modified: 2026-07-29T08:11:24.464+02:00
-published: 2026-07-29T08:11:24.464+02:00
+modified: 2026-07-29T14:11:32.842+02:00
+published: 2026-07-29T14:11:32.842+02:00
 tags:
   - "#Combatrules"
   - "#5e"
@@ -12,29 +12,10 @@ dateitags:
   - "#Combatrules"
   - "#5e"
 image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Spellcasting.png]]"
-status: ⏳
+status: ✅
 ---
 
-> [!metadata]- Metadata
->
-> > [!metadataoption]- Status
-> >
-> > #### Status
-> >
-> > | | |
-> > |---|---|
-> > |**Status** | `INPUT[Status][:status]` |
-> > |**Publish**|`INPUT[inlineSelect(option(true), option(false)):publish]`|
->
-> > [!metadataoption]- Bild
-> >
-> > #### Bild
-> >
-> > | | |
-> > |---|---|
-> > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
-
-# ✨5e - Spells✨
+# ☄️5e - Spells☄️
 
 What are Spells? Magical energy flows unseen throughout the multiverse, unimpeded by dungeon walls or planar boundaries. Spells are formulae for manipulating this impalpable force to achieve observable effects: bursts of flame, deceptive illusions, or the restoration of life and limb.
 

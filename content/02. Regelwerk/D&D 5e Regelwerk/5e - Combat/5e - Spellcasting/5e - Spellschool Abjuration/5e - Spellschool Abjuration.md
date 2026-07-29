@@ -1,18 +1,18 @@
 ---
 publish: true
-title: ☄️5e - Primal Spell List☄️
-created: 2026-07-20T12:11:02.819+02:00
-modified: 2026-07-29T14:10:53.364+02:00
-published: 2026-07-29T14:10:53.364+02:00
+title: ☄️5e - Abjuration Spell School☄️
+created: 2026-07-23T12:21:19.955+02:00
+modified: 2026-07-29T14:10:43.871+02:00
+published: 2026-07-29T14:10:43.871+02:00
 tags:
   - "#Combatrules"
   - "#5e"
 status: ✅
 ---
 
-# ☄️5e - Primal Spell List☄️
+# ☄️5e - Abjuration Spell School☄️
 
-## List of all Primal Spells:
+## List of all Divine Spells:
 
 ```base
 properties:
@@ -37,7 +37,7 @@ views:
       and:
         - dateitags.contains("#Spell")
         - dateitags.contains("#5e")
-        - zauberliste.contains("Primal")
+        - zauberliste.contains("Divine")
     order:
       - file.name
       - magielevel
