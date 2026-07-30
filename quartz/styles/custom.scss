@@ -158,8 +158,10 @@
   /* ----------------------------------------Tabellen---------------------------------------- */
 
   table {
-	margin-top: 10px !important;
-	width: auto;
+    margin: 0;
+    max-width: 100%;
+    width: 100%;
+    margin-top: 10px !important;
   }
 
  /* Vertikale Grenzen aus Tabellen entfernen */
