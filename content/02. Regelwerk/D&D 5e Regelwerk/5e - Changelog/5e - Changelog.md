@@ -17,3 +17,4 @@ status: ✅
 | Title                                                                                   | Änderungsdatum |
 | --------------------------------------------------------------------------------------- | -------------- |
 | [[02. Regelwerk/D&D 5e Regelwerk/5e - Changelog/5e - Changelog 1.md\|5e - Changelog 1]] | 29.07.2026     |
+| [[02. Regelwerk/D&D 5e Regelwerk/5e - Changelog/5e - Changelog 2.md\|5e - Changelog 2]] | 30.07.2026     |

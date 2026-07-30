@@ -1,14 +1,34 @@
 ---
 publish: true
 created: 2026-07-23T08:25:41.594+02:00
-modified: 2026-07-29T13:59:13.984+02:00
-published: 2026-07-29T13:59:13.984+02:00
+modified: 2026-07-30T07:47:39.562+02:00
+published: 2026-07-30T07:47:39.562+02:00
 tags:
   - "#Changelog"
   - "#5e"
 status: ✅
 datum: 2026-07-29
 ---
+
+> [!metadata]- Metadata
+>
+> > [!metadataoption]- Status
+> >
+> > #### Status
+> >
+> > | | |
+> > |---|---|
+> > |**Publish**|`INPUT[inlineSelect(option(true), option(false)):publish]`|
+>
+> > [!metadataoption]- Info
+> >
+> > #### Info
+> >
+> > | | |
+> > |---|---|
+> > |**System:**|`INPUT[inlineListSuggester(option(#5e), option(#DC20)):tags]`   |
+> > |**Datum:** | `INPUT[datePicker:datum]`|
+> > |**Änderungen:**|`INPUT[text:aenderungen]`|
 
 # 5e - Changelog 1
 

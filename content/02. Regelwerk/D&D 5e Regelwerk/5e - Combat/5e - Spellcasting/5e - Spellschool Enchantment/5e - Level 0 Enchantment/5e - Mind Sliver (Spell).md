@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Mind Sliver☄️
 created: 2026-07-29T09:11:49.182+02:00
-modified: 2026-07-29T11:47:18.661+02:00
-published: 2026-07-29T11:47:18.661+02:00
+modified: 2026-07-30T07:44:48.171+02:00
+published: 2026-07-30T07:44:48.171+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -25,6 +25,7 @@ effekt:
   - Debuff
 zauberliste:
   - Arcane
+  - Divine
 ---
 
 # ☄️5e - Mind Sliver☄️
@@ -40,7 +41,7 @@ zauberliste:
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|n |
 > |**Attack/Save:**|INT|
-> |**Spell List:**|Arcane |
+> |**Spell List:**|Arcane,Divine |
 
 You drive a disorienting spike of psychic energy into the mind of one creature you can see within range. The target makes an **INT Save**. _**Failure:**_ The Target takes `1d6` <u>Psychic</u> damage and subtract `1d4` from the next <u>Save</u> it makes before the <u>end of your next turn</u>.
 

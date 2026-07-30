@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Chill Touch☄️
 created: 2026-07-21T11:20:43.812+02:00
-modified: 2026-07-29T11:49:13.327+02:00
-published: 2026-07-29T11:49:13.327+02:00
+modified: 2026-07-30T07:45:35.631+02:00
+published: 2026-07-30T07:45:35.631+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -24,6 +24,7 @@ effekt:
   - Wounded
 zauberliste:
   - Arcane
+  - Divine
 ---
 
 # ☄️5e - Chill Touch☄️
@@ -39,7 +40,7 @@ zauberliste:
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|n |
 > |**Attack/Save:**|Melee|
-> |**Spell List:**|Arcane |
+> |**Spell List:**|Arcane,Divine |
 
 You channel the chill of the grave toward one creature you try to touch. Make a <u>melee spell attack</u> against the target. On a hit, the target takes `1d10` <u>Necrotic</u> damage, and it is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Heavily Wounded|☠️Heavily Wounded]] until the end of your next turn.
 
