@@ -192,6 +192,10 @@
 
   /* ----------------------------------------Ausschalten von "Items under this Folder"---------------------------------------- */
 
+  .page-listing {
+	  display: none;
+  }
+
   .page-listing > p:first-of-type {
 	  display: none;
   }
