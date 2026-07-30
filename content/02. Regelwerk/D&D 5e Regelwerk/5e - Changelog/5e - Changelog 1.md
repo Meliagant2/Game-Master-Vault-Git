@@ -1,13 +1,18 @@
 ---
 publish: true
 created: 2026-07-23T08:25:41.594+02:00
-modified: 2026-07-30T07:47:39.562+02:00
-published: 2026-07-30T07:47:39.562+02:00
+modified: 2026-07-30T07:55:29.733+02:00
+published: 2026-07-30T07:55:29.733+02:00
 tags:
   - "#Changelog"
   - "#5e"
 status: ✅
 datum: 2026-07-29
+aenderungen: |-
+  Heritages: All 
+  Destinies: Devotion, Fire, Metamorphosis
+  Classes: Adept, Fighter, Paladin
+  Spells: Many Arcane, Divine and Primal Cantrips
 ---
 
 > [!metadata]- Metadata
@@ -28,7 +33,7 @@ datum: 2026-07-29
 > > |---|---|
 > > |**System:**|`INPUT[inlineListSuggester(option(#5e), option(#DC20)):tags]`   |
 > > |**Datum:** | `INPUT[datePicker:datum]`|
-> > |**Änderungen:**|`INPUT[text:aenderungen]`|
+> > |**Änderungen:**|`INPUT[textArea:aenderungen]`|
 
 # 5e - Changelog 1
 
