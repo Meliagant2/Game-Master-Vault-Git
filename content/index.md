@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-07-29T15:24:22.237+02:00
-published: 2026-07-29T15:24:22.237+02:00
+modified: 2026-07-30T07:10:37.049+02:00
+published: 2026-07-30T07:10:37.049+02:00
 tags:
   - "#Home"
 ---
@@ -13,7 +13,7 @@ tags:
 > [!warnung] WICHTIG
 > **Im Augenblick funktioniert auf dieser Website nur der <u>Light mode</u> korrekt, da ich den dark mode noch nicht designed habe. Daher bitte oben links, neben der Suchleiste bitte darauf wechseln, falls der Dark mode aktiviert ist.**
 
-Test
+Test !!!
 
 > [!wikibox]
 >
