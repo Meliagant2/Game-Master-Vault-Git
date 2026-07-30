@@ -2,25 +2,25 @@
 publish: true
 title: ☄️5e - Produce Flame☄️
 created: 2026-07-20T12:11:02.720+02:00
-modified: 2026-07-29T11:46:47.451+02:00
-published: 2026-07-29T11:46:47.451+02:00
+modified: 2026-07-30T09:05:12.777+02:00
+published: 2026-07-30T09:05:12.777+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: Ranged
+save-Att: Ranged
 status: ✅
 reactionbedingung: " "
-magieschule: Conjuration
-magielevel: 0
-wirkzeit: BA
-reichweite: Self
+school: Conjuration
+level: 0
+time: BA
+range-Area: Self
 komponenten: V, S
 dauer: 10m
-concentration: n
-effekt:
+c: n
+effect:
   - Fire
   - Light
 zauberliste:

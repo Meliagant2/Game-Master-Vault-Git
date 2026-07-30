@@ -2,25 +2,25 @@
 publish: true
 title: ☄️5e - Pestilence☄️
 created: 2026-07-21T11:23:21.720+02:00
-modified: 2026-07-30T07:16:06.651+02:00
-published: 2026-07-30T07:16:06.651+02:00
+modified: 2026-07-30T09:05:22.166+02:00
+published: 2026-07-30T09:05:22.166+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: CON
+save-Att: CON
 status: ✅
 reactionbedingung: " "
-magieschule: Conjuration
-magielevel: 0
-wirkzeit: A
-reichweite: 60 ft. (10 ft. Sphere)
+school: Conjuration
+level: 0
+time: A
+range-Area: 60 ft. (10 ft. Sphere)
 komponenten: V, S
 dauer: 1m
-concentration: y
-effekt:
+c: y
+effect:
   - Piercing
 zauberliste:
   - Druid

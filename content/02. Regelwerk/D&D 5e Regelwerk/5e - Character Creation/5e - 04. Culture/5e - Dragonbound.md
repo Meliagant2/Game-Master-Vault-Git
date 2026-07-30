@@ -2,8 +2,8 @@
 publish: true
 title: 🎎5e - Dragonbound🎎
 created: 2026-07-20T18:00:21.058+02:00
-modified: 2026-07-29T09:06:52.642+02:00
-published: 2026-07-29T09:06:52.642+02:00
+modified: 2026-07-30T08:34:07.964+02:00
+published: 2026-07-30T08:34:07.964+02:00
 tags:
   - "#Culture"
   - "#5e"
@@ -39,7 +39,7 @@ Characters raised in the dragonbound culture share a variety of traits in common
 
 **Languages:** You can speak, read, write, and sign <u>Common</u> and <u>Draconic</u>.
 **Draconic Diplomacy:** You’ve been welltrained in the sometimes difficult art of draconic etiquette and protocols. You gain an <u>expertise die</u> on Charisma checks made to influence dragon creatures.
-**Dragonbound Teachings:** You know one <u>cantrip</u> of your choice from the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell List Arcane/5e - Spell List Arcane|☄️Arcane]] or [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell List Divine/5e - Spell List Divine|☄️Divine]] spell lists. Your spellcasting ability for this cantrip is INT, WIS, or CHA (whichever is highest).
+**Dragonbound Teachings:** You know one <u>cantrip</u> of your choice from the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Lists/5e - Spell List Arcane/5e - Spell List Arcane|☄️Arcane]] or [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Lists/5e - Spell List Divine/5e - Spell List Divine|☄️Divine]] spell lists. Your spellcasting ability for this cantrip is INT, WIS, or CHA (whichever is highest).
 **Progenitor’s Boon:** Members of dragonbound clans overseen by their progenitors usually enjoy the benefits of their progenitor’s boon. Choose one of the following:
 
 - **Chromatic Dragon’s Boon:** Chromatic dragons raise their warriors to shock and terrify their enemies. You can cast [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Illusion/5e - Level 3 Illusion/5e - Fear (Spell)|☄️Fear]] without the need for material components once per [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Long Rest|😴Long Rest]]. Until you reach <u>5th level</u>, the area of this casting of the spell is limited to a <u>15-foot cone</u>. Your spellcasting ability for this spell is CHA.

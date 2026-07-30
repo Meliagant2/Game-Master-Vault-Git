@@ -2,24 +2,23 @@
 publish: true
 title: ☄️5e - Blade Ward☄️
 created: 2026-07-28T15:07:23.711+02:00
-modified: 2026-07-29T11:46:12.242+02:00
-published: 2026-07-29T11:46:12.242+02:00
+modified: 2026-07-30T08:44:23.756+02:00
+published: 2026-07-30T08:44:23.756+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: ""
 status: ✅
-magieschule: Abjuration
-magielevel: 0
-wirkzeit: R
-reichweite: Self
+school: Abjuration
+level: 0
+time: R
+range-Area: Self
 komponenten: V, S
 dauer: Instantaneous
-concentration: n
-effekt:
+c: n
+effect:
   - DISADV
 zauberliste:
   - Arcane

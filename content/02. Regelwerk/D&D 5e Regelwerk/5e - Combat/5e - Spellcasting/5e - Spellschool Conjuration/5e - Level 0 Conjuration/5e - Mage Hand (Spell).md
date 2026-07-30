@@ -2,24 +2,23 @@
 publish: true
 title: ☄️5e - Mage Hand☄️
 created: 2026-07-29T08:07:31.866+02:00
-modified: 2026-07-29T11:46:32.207+02:00
-published: 2026-07-29T11:46:32.207+02:00
+modified: 2026-07-30T09:03:23.001+02:00
+published: 2026-07-30T09:03:23.001+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: ""
 status: ✅
-magieschule: Conjuration
-magielevel: 0
-wirkzeit: A
-reichweite: 30 ft.
+school: Conjuration
+level: 0
+time: A
+range-Area: 30 ft.
 komponenten: V, S
 dauer: 1 Minute
-concentration: n
-effekt:
+c: n
+effect:
   - Utility
 zauberliste:
   - Arcane
@@ -32,7 +31,7 @@ zauberliste:
 > |:-|:-|
 > |**School:**|Conjuration |
 > |**Level:**|0 |
-> |**Casting Time:**|A|
+> |**Casting Time:**|A |
 > |**Range/Area:**|30 ft. |
 > |**Components:**|V, S |
 > |**Duration:**|1 Minute |

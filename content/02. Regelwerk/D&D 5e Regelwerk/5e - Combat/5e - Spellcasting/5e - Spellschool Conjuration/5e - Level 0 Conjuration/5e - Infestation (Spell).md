@@ -2,24 +2,24 @@
 publish: true
 title: ☄️5e - Infestation☄️
 created: 2026-07-28T15:48:04.143+02:00
-modified: 2026-07-29T11:46:29.234+02:00
-published: 2026-07-29T11:46:29.234+02:00
+modified: 2026-07-30T08:50:47.468+02:00
+published: 2026-07-30T08:50:47.468+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: CON
+save-Att: CON
 status: ✅
-magieschule: Conjuration
-magielevel: 0
-wirkzeit: A
-reichweite: 30 ft.
+school: Conjuration
+level: 0
+time: A
+range-Area: 30 ft.
 komponenten: V, S, M (a living flea)
 dauer: Instantaneous
-concentration: n
-effekt:
+c: n
+effect:
   - Poison
   - Move
 zauberliste:
@@ -34,7 +34,7 @@ zauberliste:
 > |:-|:-|
 > |**School:**|Conjuration |
 > |**Level:**|0 |
-> |**Casting Time:**|A|
+> |**Casting Time:**|A |
 > |**Range/Area:**|30 ft. |
 > |**Components:**|V, S, M (a living flea) |
 > |**Duration:**|Instantaneous |

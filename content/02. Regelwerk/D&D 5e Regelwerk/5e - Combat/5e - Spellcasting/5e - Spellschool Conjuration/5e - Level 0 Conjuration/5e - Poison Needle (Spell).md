@@ -2,25 +2,25 @@
 publish: true
 title: ☄️5e - Poison Needle☄️
 created: 2026-07-29T13:28:18.374+02:00
-modified: 2026-07-29T13:30:55.571+02:00
-published: 2026-07-29T13:30:55.571+02:00
+modified: 2026-07-30T09:05:18.639+02:00
+published: 2026-07-30T09:05:18.639+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: Ranged
+save-Att: Ranged
 status: ✅
 reactionbedingung: " "
-magieschule: Conjuration
-magielevel: 0
-wirkzeit: A
-reichweite: 60 ft.
+school: Conjuration
+level: 0
+time: A
+range-Area: 60 ft.
 komponenten: V, S
 dauer: Instantaneous
-concentration: n
-effekt:
+c: n
+effect:
   - Poison
   - Poisoned
 zauberliste:

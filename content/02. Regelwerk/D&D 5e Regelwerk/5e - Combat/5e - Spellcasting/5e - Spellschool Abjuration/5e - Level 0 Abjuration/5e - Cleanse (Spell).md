@@ -2,25 +2,25 @@
 publish: true
 title: ☄️5e - Cleanse☄️
 created: 2026-07-30T07:23:30.415+02:00
-modified: 2026-07-30T08:11:40.546+02:00
-published: 2026-07-30T08:11:40.546+02:00
+modified: 2026-07-30T08:48:32.020+02:00
+published: 2026-07-30T08:48:32.020+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: ""
-status:
+status: ✅
 reactionbedingung: " "
-magieschule: Abjuration
-magielevel: 0
-wirkzeit: A
-reichweite: Touch
+school: Abjuration
+level: 0
+time: A
+range-Area: Touch
 komponenten: V, S
 dauer: Instantaneous
-concentration: n
-effekt:
+c: n
+effect:
+  - Healing
 zauberliste:
   - Divine
   - Primal

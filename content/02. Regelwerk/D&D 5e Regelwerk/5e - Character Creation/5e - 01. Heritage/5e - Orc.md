@@ -2,8 +2,8 @@
 publish: true
 title: 👥5e - Orc👥
 created: 2026-07-20T12:11:02.463+02:00
-modified: 2026-07-29T08:11:22.878+02:00
-published: 2026-07-29T08:11:22.878+02:00
+modified: 2026-07-30T08:34:07.953+02:00
+published: 2026-07-30T08:34:07.953+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -87,7 +87,7 @@ Orcs with this gift are believed to have been blessed by their ancestors. Every 
 
 The true origin of the magic adepts — the odanti — has been lost to time, but the elders tell tales of fey-touched ancestors and the tribe’s proclivity for magic.
 
-You are born with magic coursing through your veins, and are able to utilize it in a number of ways. You learn one cantrip of your choice from the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell List Arcane/5e - Spell List Arcane|☄️Arcane Spell List]]. At <u>3rd level</u>, choose one 1st- or 2nd-level spell from the <u>arcane spell list</u>. You can cast the chosen spell without any material components once per long rest. A 1st-level spell chosen this way can be cast at 2nd-level using this trait, if the spell allows. INT, WIS or CHA is your Spellcasting ability for those spells (whichever is highest).
+You are born with magic coursing through your veins, and are able to utilize it in a number of ways. You learn one cantrip of your choice from the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Lists/5e - Spell List Arcane/5e - Spell List Arcane|☄️Arcane Spell List]]. At <u>3rd level</u>, choose one 1st- or 2nd-level spell from the <u>arcane spell list</u>. You can cast the chosen spell without any material components once per long rest. A 1st-level spell chosen this way can be cast at 2nd-level using this trait, if the spell allows. INT, WIS or CHA is your Spellcasting ability for those spells (whichever is highest).
 
 ## Orc paragon
 
@@ -102,7 +102,7 @@ You gain the following traits:
 
 ### Greater Blessing
 
-You learn two spells from either the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell List Primal/5e - Spell List Primal|☄️Primal]] or the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell List Divine/5e - Spell List Divine|☄️Divine Spell List]]. Those two spells can be any combination of 1st to 3rd level spells. INT, WIS or CHA is your Spellcasting ability for those spells (whichever is highest).
+You learn two spells from either the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Lists/5e - Spell List Primal/5e - Spell List Primal|☄️Primal]] or the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Lists/5e - Spell List Divine/5e - Spell List Divine|☄️Divine Spell List]]. Those two spells can be any combination of 1st to 3rd level spells. INT, WIS or CHA is your Spellcasting ability for those spells (whichever is highest).
 
 ### Ward of the Weave
 

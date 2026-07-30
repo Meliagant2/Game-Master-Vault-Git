@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Paladin🦸‍♀️
 created: 2026-07-20T12:11:02.575+02:00
-modified: 2026-07-30T08:28:10.641+02:00
-published: 2026-07-30T08:28:10.641+02:00
+modified: 2026-07-30T08:36:38.200+02:00
+published: 2026-07-30T08:36:38.200+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -257,7 +257,8 @@ views:
     name: 5e - Paladin; Choose Spell Level
     filters:
       and:
-        - dateitags.containsAll("#Spelllistdivine", "#5e")
+        - dateitags.contains("#5e")
+        - dateitags.containsAny("#Spelllistdivine", "#Spelllistpaladin")
     sort:
       - property: file.name
         direction: ASC

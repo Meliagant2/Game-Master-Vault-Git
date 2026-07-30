@@ -2,25 +2,24 @@
 publish: true
 title: ☄️5e - Resistance☄️
 created: 2026-07-20T12:11:02.688+02:00
-modified: 2026-07-29T11:46:16.068+02:00
-published: 2026-07-29T11:46:16.068+02:00
+modified: 2026-07-30T08:48:12.122+02:00
+published: 2026-07-30T08:48:12.122+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: ""
 status: ✅
 reactionbedingung: (an ally fails a Save)
-magieschule: Abjuration
-magielevel: 0
-wirkzeit: R
-reichweite: 10 ft.
+school: Abjuration
+level: 0
+time: R
+range-Area: 10 ft.
 komponenten: V, S
 dauer: Instantaneous
-concentration: n
-effekt:
+c: n
+effect:
   - Buff
 zauberliste:
   - Divine
