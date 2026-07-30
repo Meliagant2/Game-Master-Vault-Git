@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Catapult☄️
 created: 2026-07-30T10:28:09.248+02:00
-modified: 2026-07-30T10:35:34.207+02:00
-published: 2026-07-30T10:35:34.207+02:00
+modified: 2026-07-30T15:10:42.030+02:00
+published: 2026-07-30T15:10:42.030+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -15,7 +15,7 @@ reactionbedingung: " "
 c: " "
 school: Transmutation
 level: 1
-time: A [R]
+time: A
 range-Area: 60 ft.
 komponenten: S
 dauer: Instantaneous
@@ -33,7 +33,7 @@ zauberliste:
 > |:-|:-|
 > |**School:**|Transmutation |
 > |**Level:**|1 |
-> |**Casting Time:**|A \[R]  |
+> |**Casting Time:**|A  |
 > |**Range/Area:**|60 ft. |
 > |**Components:**|S |
 > |**Duration:**|Instantaneous |

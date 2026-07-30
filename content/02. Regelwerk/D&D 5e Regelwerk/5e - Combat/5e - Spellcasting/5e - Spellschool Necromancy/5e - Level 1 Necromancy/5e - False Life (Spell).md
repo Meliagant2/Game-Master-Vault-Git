@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - False Life☄️
 created: 2026-07-28T14:19:29.066+02:00
-modified: 2026-07-30T11:10:37.728+02:00
-published: 2026-07-30T11:10:37.728+02:00
+modified: 2026-07-30T15:10:31.515+02:00
+published: 2026-07-30T15:10:31.515+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -15,7 +15,7 @@ reactionbedingung: " "
 c: " "
 school: Necromancy
 level: 1
-time: A [R]
+time: A
 range-Area: Self
 komponenten: V, S, M (a drop of alcohol)
 dauer: Instantaneous
@@ -32,7 +32,7 @@ zauberliste:
 > |:-|:-|
 > |**School:**|Necromancy |
 > |**Level:**|1 |
-> |**Casting Time:**|A \[R]  |
+> |**Casting Time:**|A  |
 > |**Range/Area:**|Self |
 > |**Components:**|V, S, M (a drop of alcohol) |
 > |**Duration:**|Instantaneous |

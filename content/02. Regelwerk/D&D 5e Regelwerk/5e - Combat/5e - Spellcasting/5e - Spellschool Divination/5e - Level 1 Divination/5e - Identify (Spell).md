@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Identify☄️
 created: 2026-07-30T11:32:53.889+02:00
-modified: 2026-07-30T11:38:22.921+02:00
-published: 2026-07-30T11:38:22.921+02:00
+modified: 2026-07-30T15:08:34.462+02:00
+published: 2026-07-30T15:08:34.462+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -21,6 +21,7 @@ komponenten: V, S, M (a pearl)
 dauer: Instantaneous
 effect:
   - Detection
+  - Ritual
 zauberliste:
   - Arcane
   - Divine

@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Holy Ward☄️
 created: 2026-07-30T09:58:35.255+02:00
-modified: 2026-07-30T10:07:59.577+02:00
-published: 2026-07-30T10:07:59.577+02:00
+modified: 2026-07-30T14:04:12.967+02:00
+published: 2026-07-30T14:04:12.967+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -20,7 +20,7 @@ range-Area: 15 ft.
 komponenten: V, S
 dauer: Instantaneous
 effect:
-  - AC
+  - Debuff
 zauberliste:
   - Divine
 ---

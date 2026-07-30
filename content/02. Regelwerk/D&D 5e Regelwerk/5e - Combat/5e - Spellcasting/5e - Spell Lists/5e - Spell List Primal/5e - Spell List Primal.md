@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Primal Spell List☄️
 created: 2026-07-20T12:11:02.819+02:00
-modified: 2026-07-30T10:18:37.844+02:00
-published: 2026-07-30T10:18:37.844+02:00
+modified: 2026-07-30T15:32:37.099+02:00
+published: 2026-07-30T15:32:37.099+02:00
 tags:
   - "#Combatrules"
   - "#5e"
@@ -106,7 +106,7 @@ views:
     columnSize:
       file.name: 200
       note.level: 49
-      note.time: 25
+      note.time: 58
       note.c: 24
   - type: table
     name: 5e - Primal; 2nd-level

@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Illusory Script☄️
 created: 2026-07-21T11:02:16.216+02:00
-modified: 2026-07-30T11:39:36.131+02:00
-published: 2026-07-30T11:39:36.131+02:00
+modified: 2026-07-30T15:10:19.540+02:00
+published: 2026-07-30T15:10:19.540+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -15,10 +15,15 @@ reactionbedingung: " "
 c: " "
 school: Illusion
 level: 1
-time: 1m [R]
+time: 1m
 range-Area: Touch
 komponenten: S, M (a lead-based ink worth at least 10sp, which the spell consumes)
 dauer: 10d
+effect:
+  - Communication
+zauberliste:
+  - Arcane
+  - Bard
 ---
 
 > [!metadata]- Metadata
@@ -58,10 +63,16 @@ dauer: 10d
 > |:-|:-|
 > |**School:**|Illusion |
 > |**Level:**|1 |
-> |**Casting Time:**|1m \[R]  |
+> |**Casting Time:**|PT1M  |
 > |**Range/Area:**|Touch |
 > |**Components:**|S, M (a lead-based ink worth at least 10sp, which the spell consumes) |
 > |**Duration:**|P10D |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
-> |**Spell List:**| |
+> |**Spell List:**|Arcane,Bard |
+
+You write on parchment, paper, or another suitable material and imbue it with an illusion that lasts for the duration. To you and any creatures you designate when you cast the spell, the writing appears normal, seems to be written in your hand, and conveys whatever meaning you intended when you wrote the text. To all others, the writing appears as if it were written in an unknown or magical script that is unintelligible. Alternatively, the illusion can alter the meaning, handwriting, and language of the text, though the language must be one you know.
+
+If the spell is dispelled, the original script and the illusion both disappear.
+
+A creature that has [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Senses/5e - Truesight|👁️Truesight]] can read the hidden message.

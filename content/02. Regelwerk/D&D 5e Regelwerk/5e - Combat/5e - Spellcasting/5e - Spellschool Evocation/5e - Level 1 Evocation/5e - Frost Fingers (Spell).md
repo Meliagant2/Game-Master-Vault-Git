@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Frost Fingers☄️
 created: 2026-07-30T11:17:46.644+02:00
-modified: 2026-07-30T11:20:43.053+02:00
-published: 2026-07-30T11:20:43.053+02:00
+modified: 2026-07-30T15:10:25.843+02:00
+published: 2026-07-30T15:10:25.843+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -15,7 +15,7 @@ reactionbedingung: " "
 c: " "
 school: Evocation
 level: 1
-time: A [R]
+time: A
 range-Area: 15 ft. Cone
 komponenten: V, S
 dauer: Instantaneous
@@ -33,7 +33,7 @@ zauberliste:
 > |:-|:-|
 > |**School:**|Evocation |
 > |**Level:**|1 |
-> |**Casting Time:**|A \[R]  |
+> |**Casting Time:**|A  |
 > |**Range/Area:**|15 ft. Cone |
 > |**Components:**|V, S |
 > |**Duration:**|Instantaneous |

@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Disguise Self☄️
 created: 2026-07-20T17:49:52.862+02:00
-modified: 2026-07-30T10:56:14.734+02:00
-published: 2026-07-30T10:56:14.734+02:00
+modified: 2026-07-30T15:10:34.342+02:00
+published: 2026-07-30T15:10:34.342+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -15,7 +15,7 @@ reactionbedingung: " "
 c: " "
 school: Illusion
 level: 1
-time: A [R]
+time: A
 range-Area: Self
 komponenten: V, S
 dauer: 1h
@@ -34,7 +34,7 @@ zauberliste:
 > |:-|:-|
 > |**School:**|Illusion |
 > |**Level:**|1 |
-> |**Casting Time:**|A \[R]  |
+> |**Casting Time:**|A  |
 > |**Range/Area:**|Self |
 > |**Components:**|V, S |
 > |**Duration:**|PT1H |

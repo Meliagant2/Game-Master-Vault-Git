@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Detect Magic☄️
 created: 2026-07-21T10:35:52.409+02:00
-modified: 2026-07-30T10:50:36.987+02:00
-published: 2026-07-30T10:50:36.987+02:00
+modified: 2026-07-30T15:08:44.240+02:00
+published: 2026-07-30T15:08:44.240+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -21,6 +21,7 @@ komponenten: V, S
 dauer: 10m
 effect:
   - Detection
+  - Ritual
 zauberliste:
   - Arcane
   - Divine

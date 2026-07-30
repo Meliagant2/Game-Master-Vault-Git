@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Comprehend Languages☄️
 created: 2026-07-30T10:42:01.079+02:00
-modified: 2026-07-30T10:46:56.650+02:00
-published: 2026-07-30T10:46:56.650+02:00
+modified: 2026-07-30T15:10:38.484+02:00
+published: 2026-07-30T15:10:38.484+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -21,6 +21,7 @@ komponenten: V, S, M (a pinch of soot and salt)
 dauer: 1h
 effect:
   - Social
+  - Ritual
 zauberliste:
   - Arcane
   - Bard

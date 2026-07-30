@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Oath of the Ancients🦸‍♀️
 created: 2026-07-28T10:25:11.789+02:00
-modified: 2026-07-29T08:11:23.513+02:00
-published: 2026-07-29T08:11:23.513+02:00
+modified: 2026-07-30T16:07:08.012+02:00
+published: 2026-07-30T16:07:08.012+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -31,7 +31,7 @@ The Oath of the Ancients is as old as the first elves. Paladins who swear this o
 
 You gain oath spells at the paladin levels listed below. You always have these spells prepared and they don't count against the maximum number of spells you can prepare each day.
 
-**<u>3rd level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Level 1 Conjuration/5e - Ensnaring Strike (Spell)|☄️Ensnaring Strike]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Divination/5e - Level 1 Divination/5e - Speak with Animals (Spell)|☄️Speak with Animals]]
+**<u>3rd level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 1 Evocation/5e - Faerie Fire (Spell)|☄️Faerie Fire]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Divination/5e - Level 1 Divination/5e - Speak with Animals (Spell)|☄️Speak with Animals]]
 
 **<u>5th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Level 2 Conjuration/5e - Misty Step (Spell)|☄️Misty Step]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 2 Evocation/5e - Moonbeam (Spell)|☄️Moonbeam]]
 

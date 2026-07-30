@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Divine Spell List☄️
 created: 2026-07-20T12:11:02.751+02:00
-modified: 2026-07-30T09:00:14.422+02:00
-published: 2026-07-30T09:00:14.422+02:00
+modified: 2026-07-30T15:07:34.769+02:00
+published: 2026-07-30T15:07:34.769+02:00
 tags:
   - "#Combatrules"
   - "#5e"
@@ -106,7 +106,7 @@ views:
     columnSize:
       file.name: 200
       note.level: 49
-      note.time: 25
+      note.time: 54
       note.c: 24
   - type: table
     name: 5e - Divine; 2nd-level

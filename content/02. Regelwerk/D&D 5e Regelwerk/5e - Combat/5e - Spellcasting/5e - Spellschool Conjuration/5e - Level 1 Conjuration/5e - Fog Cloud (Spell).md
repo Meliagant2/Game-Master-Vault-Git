@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Fog Cloud☄️
 created: 2026-07-30T11:14:14.254+02:00
-modified: 2026-07-30T11:17:25.763+02:00
-published: 2026-07-30T11:17:25.763+02:00
+modified: 2026-07-30T15:10:29.113+02:00
+published: 2026-07-30T15:10:29.113+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -15,7 +15,7 @@ reactionbedingung: " "
 c: x
 school: Conjuration
 level: 1
-time: A [R]
+time: A
 range-Area: 120 ft.
 komponenten: V, S
 dauer: 1h
@@ -33,7 +33,7 @@ zauberliste:
 > |:-|:-|
 > |**School:**|Conjuration |
 > |**Level:**|1 |
-> |**Casting Time:**|A \[R]  |
+> |**Casting Time:**|A  |
 > |**Range/Area:**|120 ft. |
 > |**Components:**|V, S |
 > |**Duration:**|PT1H |

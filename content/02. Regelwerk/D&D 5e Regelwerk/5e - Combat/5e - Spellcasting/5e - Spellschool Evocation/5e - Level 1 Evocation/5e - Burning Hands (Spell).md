@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Burning Hands☄️
 created: 2026-07-30T10:22:13.588+02:00
-modified: 2026-07-30T10:27:29.681+02:00
-published: 2026-07-30T10:27:29.681+02:00
+modified: 2026-07-30T16:25:17.190+02:00
+published: 2026-07-30T16:25:17.190+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -42,7 +42,7 @@ zauberliste:
 > |**Attack/Save:**|DEX|
 > |**Spell List:**|Arcane |
 
-As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips. Each creature in a <u>15-foot cone</u> makes a **DEX Save**. _**Failure:**_ The Creature takes `3d6` <u>Fire</u> damage. _**Success:**_ The Creature takes half the damage.
+As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips. Each creature in a <u>15-foot cone</u> makes a **DEX Save**. _**Failure:**_ The Creature takes `3d6` <u>Fire</u> damage. _**Success:**_ The Creature takes half the damage only.
 
 The fire ignites any flammable objects in the area that aren't being worn or carried.
 

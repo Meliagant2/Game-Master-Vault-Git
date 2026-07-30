@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Evocation Spellschool☄️
 created: 2026-07-23T12:21:26.082+02:00
-modified: 2026-07-30T10:17:49.872+02:00
-published: 2026-07-30T10:17:49.872+02:00
+modified: 2026-07-30T17:45:26.364+02:00
+published: 2026-07-30T17:45:26.364+02:00
 tags:
   - "#Combatrules"
   - "#5e"
@@ -35,8 +35,6 @@ views:
       - effect
     sort:
       - property: level
-        direction: ASC
-      - property: file.name
         direction: ASC
     image: note.image
     cardSize: 150

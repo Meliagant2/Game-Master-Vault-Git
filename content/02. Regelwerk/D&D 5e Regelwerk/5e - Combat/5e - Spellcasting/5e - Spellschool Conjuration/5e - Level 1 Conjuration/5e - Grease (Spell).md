@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Grease☄️
 created: 2026-07-27T11:50:45.144+02:00
-modified: 2026-07-30T11:27:20.469+02:00
-published: 2026-07-30T11:27:20.469+02:00
+modified: 2026-07-30T15:10:23.005+02:00
+published: 2026-07-30T15:10:23.005+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -15,7 +15,7 @@ reactionbedingung: " "
 c: " "
 school: Conjuration
 level: 1
-time: A [R]
+time: A
 range-Area: 60 ft./10 ft. Radius
 komponenten: V, S, M (a bit of pork rind or butter)
 dauer: 1m
@@ -34,7 +34,7 @@ zauberliste:
 > |:-|:-|
 > |**School:**|Conjuration |
 > |**Level:**|1 |
-> |**Casting Time:**|A \[R]  |
+> |**Casting Time:**|A  |
 > |**Range/Area:**|60 ft./10 ft. Radius |
 > |**Components:**|V, S, M (a bit of pork rind or butter) |
 > |**Duration:**|PT1M |
