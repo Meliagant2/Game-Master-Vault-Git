@@ -2,10 +2,13 @@
 publish: true
 title: ☄️5e - Divine Spell List☄️
 created: 2026-07-20T12:11:02.751+02:00
-modified: 2026-07-29T14:18:16.261+02:00
-published: 2026-07-29T14:18:16.261+02:00
+modified: 2026-07-30T08:26:11.037+02:00
+published: 2026-07-30T08:26:11.037+02:00
 tags:
   - "#Combatrules"
+  - "#5e"
+dateitags:
+  - "#Spelllistdivine"
   - "#5e"
 status: ✅
 ---
@@ -35,8 +38,7 @@ views:
     name: 5e all Divine Spells
     filters:
       and:
-        - dateitags.contains("#Spell")
-        - dateitags.contains("#5e")
+        - dateitags.containsAll("#Spell", "#5e")
         - zauberliste.contains("Divine")
     order:
       - file.name
@@ -68,8 +70,7 @@ views:
     name: 5e Divine Cantrips
     filters:
       and:
-        - dateitags.contains("#Spell")
-        - dateitags.contains("#5e")
+        - dateitags.containsAll("#Spell", "#5e")
         - zauberliste.contains("Divine")
         - magielevel == 0
     order:
@@ -102,8 +103,7 @@ views:
     name: 5e 1st level Divine
     filters:
       and:
-        - dateitags.contains("#Spell")
-        - dateitags.contains("#5e")
+        - dateitags.containsAll("#Spell", "#5e")
         - zauberliste.contains("Divine")
         - magielevel == 1
     order:
@@ -136,8 +136,7 @@ views:
     name: 5e 2nd level Divine
     filters:
       and:
-        - dateitags.contains("#Spell")
-        - dateitags.contains("#5e")
+        - dateitags.containsAll("#Spell", "#5e")
         - zauberliste.contains("Divine")
         - magielevel == 2
     order:
@@ -170,8 +169,7 @@ views:
     name: 5e 3rd level Divine
     filters:
       and:
-        - dateitags.contains("#Spell")
-        - dateitags.contains("#5e")
+        - dateitags.containsAll("#Spell", "#5e")
         - zauberliste.contains("Divine")
         - magielevel == 3
     order:
@@ -204,8 +202,7 @@ views:
     name: 5e 4th level Divine
     filters:
       and:
-        - dateitags.contains("#Spell")
-        - dateitags.contains("#5e")
+        - dateitags.containsAll("#Spell", "#5e")
         - zauberliste.contains("Divine")
         - magielevel == 4
     order:
@@ -238,8 +235,7 @@ views:
     name: 5e 5th level Divine
     filters:
       and:
-        - dateitags.contains("#Spell")
-        - dateitags.contains("#5e")
+        - dateitags.containsAll("#Spell", "#5e")
         - zauberliste.contains("Divine")
         - magielevel == 5
     order:
@@ -272,8 +268,7 @@ views:
     name: 5e 6th level Divine
     filters:
       and:
-        - dateitags.contains("#Spell")
-        - dateitags.contains("#5e")
+        - dateitags.containsAll("#Spell", "#5e")
         - zauberliste.contains("Divine")
         - magielevel == 6
     order:
@@ -306,8 +301,7 @@ views:
     name: 5e 7th level Divine
     filters:
       and:
-        - dateitags.contains("#Spell")
-        - dateitags.contains("#5e")
+        - dateitags.containsAll("#Spell", "#5e")
         - zauberliste.contains("Divine")
         - magielevel == 7
     order:
@@ -340,8 +334,7 @@ views:
     name: 5e 8th level Divine
     filters:
       and:
-        - dateitags.contains("#Spell")
-        - dateitags.contains("#5e")
+        - dateitags.containsAll("#Spell", "#5e")
         - zauberliste.contains("Divine")
         - magielevel == 8
     order:
@@ -374,8 +367,7 @@ views:
     name: 5e 9th level Divine
     filters:
       and:
-        - dateitags.contains("#Spell")
-        - dateitags.contains("#5e")
+        - dateitags.containsAll("#Spell", "#5e")
         - zauberliste.contains("Divine")
         - magielevel == 9
     order:

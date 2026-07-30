@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Chill Touch☄️
 created: 2026-07-21T11:20:43.812+02:00
-modified: 2026-07-30T07:45:35.631+02:00
-published: 2026-07-30T07:45:35.631+02:00
+modified: 2026-07-30T08:24:32.046+02:00
+published: 2026-07-30T08:24:32.046+02:00
 tags:
   - "#Spell"
   - "#5e"

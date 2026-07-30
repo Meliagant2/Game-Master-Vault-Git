@@ -2,10 +2,13 @@
 publish: true
 title: ☄️5e - Primal Spell List☄️
 created: 2026-07-20T12:11:02.819+02:00
-modified: 2026-07-29T14:19:42.567+02:00
-published: 2026-07-29T14:19:42.567+02:00
+modified: 2026-07-30T08:27:35.914+02:00
+published: 2026-07-30T08:27:35.914+02:00
 tags:
   - "#Combatrules"
+  - "#5e"
+dateitags:
+  - "#Spelllistprimal"
   - "#5e"
 status: ✅
 ---
@@ -35,8 +38,7 @@ views:
     name: 5e all Primal Spells
     filters:
       and:
-        - dateitags.contains("#Spell")
-        - dateitags.contains("#5e")
+        - dateitags.containsAll("#Spell", "#5e")
         - zauberliste.contains("Primal")
     order:
       - file.name
@@ -68,8 +70,7 @@ views:
     name: 5e Primal Cantrips
     filters:
       and:
-        - dateitags.contains("#Spell")
-        - dateitags.contains("#5e")
+        - dateitags.containsAll("#Spell", "#5e")
         - zauberliste.contains("Primal")
         - magielevel == 0
     order:
@@ -102,8 +103,7 @@ views:
     name: 5e 1st level Primal
     filters:
       and:
-        - dateitags.contains("#Spell")
-        - dateitags.contains("#5e")
+        - dateitags.containsAll("#Spell", "#5e")
         - zauberliste.contains("Primal")
         - magielevel == 1
     order:
@@ -136,8 +136,7 @@ views:
     name: 5e 2nd level Primal
     filters:
       and:
-        - dateitags.contains("#Spell")
-        - dateitags.contains("#5e")
+        - dateitags.containsAll("#Spell", "#5e")
         - zauberliste.contains("Primal")
         - magielevel == 2
     order:
@@ -170,8 +169,7 @@ views:
     name: 5e 3rd level Primal
     filters:
       and:
-        - dateitags.contains("#Spell")
-        - dateitags.contains("#5e")
+        - dateitags.containsAll("#Spell", "#5e")
         - zauberliste.contains("Primal")
         - magielevel == 3
     order:
@@ -204,8 +202,7 @@ views:
     name: 5e 4th level Primal
     filters:
       and:
-        - dateitags.contains("#Spell")
-        - dateitags.contains("#5e")
+        - dateitags.containsAll("#Spell", "#5e")
         - zauberliste.contains("Primal")
         - magielevel == 4
     order:
@@ -238,8 +235,7 @@ views:
     name: 5e 5th level Primal
     filters:
       and:
-        - dateitags.contains("#Spell")
-        - dateitags.contains("#5e")
+        - dateitags.containsAll("#Spell", "#5e")
         - zauberliste.contains("Primal")
         - magielevel == 5
     order:
@@ -272,8 +268,7 @@ views:
     name: 5e 6th level Primal
     filters:
       and:
-        - dateitags.contains("#Spell")
-        - dateitags.contains("#5e")
+        - dateitags.containsAll("#Spell", "#5e")
         - zauberliste.contains("Primal")
         - magielevel == 6
     order:
@@ -306,8 +301,7 @@ views:
     name: 5e 7th level Primal
     filters:
       and:
-        - dateitags.contains("#Spell")
-        - dateitags.contains("#5e")
+        - dateitags.containsAll("#Spell", "#5e")
         - zauberliste.contains("Primal")
         - magielevel == 7
     order:
@@ -340,8 +334,7 @@ views:
     name: 5e 8th level Primal
     filters:
       and:
-        - dateitags.contains("#Spell")
-        - dateitags.contains("#5e")
+        - dateitags.containsAll("#Spell", "#5e")
         - zauberliste.contains("Primal")
         - magielevel == 8
     order:
@@ -371,11 +364,10 @@ views:
       note.reichweite: 132
       note.saveart: 50
   - type: table
-    name: 5e 9th level Primal
+    name: 5e - Primal; 9th-level
     filters:
       and:
-        - dateitags.contains("#Spell")
-        - dateitags.contains("#5e")
+        - dateitags.containsAll("#Spell", "#5e")
         - zauberliste.contains("Primal")
         - magielevel == 9
     order:

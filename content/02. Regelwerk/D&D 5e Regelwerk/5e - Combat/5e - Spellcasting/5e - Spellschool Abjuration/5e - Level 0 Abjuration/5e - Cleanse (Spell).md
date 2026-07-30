@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Cleanse☄️
 created: 2026-07-30T07:23:30.415+02:00
-modified: 2026-07-30T07:36:13.017+02:00
-published: 2026-07-30T07:36:13.017+02:00
+modified: 2026-07-30T08:11:40.546+02:00
+published: 2026-07-30T08:11:40.546+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -21,7 +21,6 @@ komponenten: V, S
 dauer: Instantaneous
 concentration: n
 effekt:
-  - Healing
 zauberliste:
   - Divine
   - Primal
