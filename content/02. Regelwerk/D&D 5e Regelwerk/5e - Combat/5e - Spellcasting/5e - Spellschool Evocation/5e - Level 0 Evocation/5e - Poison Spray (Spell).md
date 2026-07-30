@@ -2,29 +2,29 @@
 publish: true
 title: ☄️5e - Poison Spray☄️
 created: 2026-07-29T09:23:23.717+02:00
-modified: 2026-07-29T11:48:29.659+02:00
-published: 2026-07-29T11:48:29.659+02:00
+modified: 2026-07-30T09:22:42.861+02:00
+published: 2026-07-30T09:22:42.861+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: Ranged
+save-Att: Ranged
 status: ✅
 reactionbedingung: " "
-magieschule: Evocation
-magielevel: 0
-wirkzeit: A
-reichweite: 30 ft.
+school: Evocation
+level: 0
+time: A
+range-Area: 30 ft.
 komponenten: V, S
 dauer: Instantaneous
-concentration: n
-effekt:
+effect:
   - Poison
 zauberliste:
   - Arcane
   - Primal
+c: " "
 ---
 
 # ☄️5e - Poison Spray☄️
@@ -38,7 +38,7 @@ zauberliste:
 > |**Range/Area:**|30 ft. |
 > |**Components:**|V, S |
 > |**Duration:**|Instantaneous |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**|Ranged|
 > |**Spell List:**|Arcane,Primal |
 

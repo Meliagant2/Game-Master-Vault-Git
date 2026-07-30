@@ -2,25 +2,25 @@
 publish: true
 title: ☄️5e - Bacterial Barrage☄️
 created: 2026-07-29T13:56:19.316+02:00
-modified: 2026-07-29T13:58:37.449+02:00
-published: 2026-07-29T13:58:37.449+02:00
+modified: 2026-07-30T09:36:02.508+02:00
+published: 2026-07-30T09:36:02.508+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: Ranged
+save-Att: Ranged
 status: ✅
 reactionbedingung: " "
-magieschule: Necromancy
-magielevel: 0
-wirkzeit: A
-reichweite: 30 ft.
+school: Necromancy
+level: 0
+time: A
+range-Area: 30 ft.
 komponenten: V, S
 dauer: Instantaneous
-concentration: n
-effekt:
+c: " "
+effect:
   - Necrotic
 zauberliste:
   - Arcane
@@ -38,7 +38,7 @@ zauberliste:
 > |**Range/Area:**|30 ft. |
 > |**Components:**|V, S |
 > |**Duration:**|Instantaneous |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**|Ranged|
 > |**Spell List:**|Arcane,Primal |
 

@@ -2,25 +2,25 @@
 publish: true
 title: ☄️5e - Shocking Grasp☄️
 created: 2026-07-21T11:22:23.757+02:00
-modified: 2026-07-29T11:48:37.767+02:00
-published: 2026-07-29T11:48:37.767+02:00
+modified: 2026-07-30T09:29:47.042+02:00
+published: 2026-07-30T09:29:47.042+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: Melee
+save-Att: Melee
 status: ✅
 reactionbedingung: " "
-magieschule: Evocation
-magielevel: 0
-wirkzeit: A
-reichweite: Touch
+school: Evocation
+level: 0
+time: A
+range-Area: Touch
 komponenten: V, S
 dauer: Instantaneous
-concentration: n
-effekt:
+c: " "
+effect:
   - Lightning
 zauberliste:
   - Arcane
@@ -37,7 +37,7 @@ zauberliste:
 > |**Range/Area:**|Touch |
 > |**Components:**|V, S |
 > |**Duration:**|Instantaneous |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**|Melee|
 > |**Spell List:**|Arcane |
 

@@ -2,25 +2,25 @@
 publish: true
 title: ☄️5e - Primal Savagery☄️
 created: 2026-07-29T11:06:04.292+02:00
-modified: 2026-07-29T11:50:35.215+02:00
-published: 2026-07-29T11:50:35.215+02:00
+modified: 2026-07-30T09:45:13.754+02:00
+published: 2026-07-30T09:45:13.754+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: Melee
+save-Att: Melee
 status: ✅
 reactionbedingung: " "
-magieschule: Transmutation
-magielevel: 0
-wirkzeit: A
-reichweite: Self
+school: Transmutation
+level: 0
+time: A
+range-Area: Self
 komponenten: S
 dauer: Instantaneous
-concentration: n
-effekt:
+c: " "
+effect:
   - Acid
 zauberliste:
   - Primal
@@ -37,7 +37,7 @@ zauberliste:
 > |**Range/Area:**|Self |
 > |**Components:**|S |
 > |**Duration:**|Instantaneous |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**|Melee|
 > |**Spell List:**|Primal |
 

@@ -2,25 +2,24 @@
 publish: true
 title: ☄️5e - Minor Illusion☄️
 created: 2026-07-21T11:16:46.924+02:00
-modified: 2026-07-29T11:49:08.178+02:00
-published: 2026-07-29T11:49:08.178+02:00
+modified: 2026-07-30T09:35:12.395+02:00
+published: 2026-07-30T09:35:12.395+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: ""
 status: ✅
 reactionbedingung: " "
-magieschule: Illusion
-magielevel: 0
-wirkzeit: A
-reichweite: 30 ft.
+school: Illusion
+level: 0
+time: A
+range-Area: 30 ft.
 komponenten: S, M (a bit of fleece)
 dauer: 1 Minute
-concentration: n
-effekt:
+c: " "
+effect:
   - Control
 zauberliste:
   - Arcane
@@ -37,7 +36,7 @@ zauberliste:
 > |**Range/Area:**|30 ft. |
 > |**Components:**|S, M (a bit of fleece) |
 > |**Duration:**|1 Minute |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane |
 

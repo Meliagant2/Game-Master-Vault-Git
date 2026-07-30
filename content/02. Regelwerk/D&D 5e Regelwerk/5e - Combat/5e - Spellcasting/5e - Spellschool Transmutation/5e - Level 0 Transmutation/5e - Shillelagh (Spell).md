@@ -2,25 +2,24 @@
 publish: true
 title: ☄️5e - Shillelagh☄️
 created: 2026-07-29T11:13:32.069+02:00
-modified: 2026-07-29T11:50:46.110+02:00
-published: 2026-07-29T11:50:46.110+02:00
+modified: 2026-07-30T09:46:06.246+02:00
+published: 2026-07-30T09:46:06.246+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: ""
 status: ✅
 reactionbedingung: " "
-magieschule: Transmutation
-magielevel: 0
-wirkzeit: BA
-reichweite: Touch
+school: Transmutation
+level: 0
+time: BA
+range-Area: Touch
 komponenten: V, S, M (mistletoe, a shamrock leaf, and a club or Quarterstaff)
 dauer: 1m
-concentration: n
-effekt:
+c: " "
+effect:
   - Buff
   - Force
 zauberliste:
@@ -38,7 +37,7 @@ zauberliste:
 > |**Range/Area:**|Touch |
 > |**Components:**|V, S, M (mistletoe, a shamrock leaf, and a club or Quarterstaff) |
 > |**Duration:**|PT1M |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Primal |
 

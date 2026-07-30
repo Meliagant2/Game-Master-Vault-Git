@@ -2,25 +2,24 @@
 publish: true
 title: ☄️5e - Thaumaturgy☄️
 created: 2026-07-29T10:36:47.243+02:00
-modified: 2026-07-29T12:07:16.513+02:00
-published: 2026-07-29T12:07:16.513+02:00
+modified: 2026-07-30T09:46:27.257+02:00
+published: 2026-07-30T09:46:27.257+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: ""
 status: ✅
 reactionbedingung: " "
-magieschule: Transmutation
-magielevel: 0
-wirkzeit: A
-reichweite: 30 ft.
+school: Transmutation
+level: 0
+time: A
+range-Area: 30 ft.
 komponenten: V
 dauer: 1 Minute
-concentration: n
-effekt:
+c: " "
+effect:
   - Control
 zauberliste:
   - Divine
@@ -38,7 +37,7 @@ zauberliste:
 > |**Range/Area:**|30 ft. |
 > |**Components:**|V |
 > |**Duration:**|1 Minute |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Divine,Blood Hunter |
 

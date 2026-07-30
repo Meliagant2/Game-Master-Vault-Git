@@ -2,25 +2,24 @@
 publish: true
 title: ☄️5e - Guidance☄️
 created: 2026-07-20T12:11:02.735+02:00
-modified: 2026-07-29T15:43:54.323+02:00
-published: 2026-07-29T15:43:54.323+02:00
+modified: 2026-07-30T09:24:54.498+02:00
+published: 2026-07-30T09:24:54.498+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: ""
 status: ✅
 reactionbedingung: (an ally makes an Ability Check)
-magieschule: Divination
-magielevel: 0
-wirkzeit: R
-reichweite: 10 ft.
+school: Divination
+level: 0
+time: R
+range-Area: 10 ft.
 komponenten: V, S
 dauer: Instantaneous
-concentration: n
-effekt:
+c: " "
+effect:
   - Buff
 zauberliste:
   - Divine
@@ -39,7 +38,7 @@ zauberliste:
 > |**Range/Area:**|10 ft. |
 > |**Components:**|V, S |
 > |**Duration:**|Instantaneous |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Divine,Primal,Blood Hunter |
 

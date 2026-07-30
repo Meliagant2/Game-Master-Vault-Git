@@ -2,24 +2,23 @@
 publish: true
 title: ☄️5e - Control Flames☄️
 created: 2026-07-28T15:22:00.366+02:00
-modified: 2026-07-29T11:49:56.979+02:00
-published: 2026-07-29T11:49:56.979+02:00
+modified: 2026-07-30T09:41:03.556+02:00
+published: 2026-07-30T09:41:03.556+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: ""
 status: ✅
-magieschule: Transmutation
-magielevel: 0
-wirkzeit: A
-reichweite: 60 ft.
+school: Transmutation
+level: 0
+time: A
+range-Area: 60 ft.
 komponenten: S
 dauer: Instantaneous
-concentration: n
-effekt:
+c: " "
+effect:
   - Control
 zauberliste:
   - Arcane
@@ -34,11 +33,11 @@ zauberliste:
 > |:-|:-|
 > |**School:**|Transmutation |
 > |**Level:**|0 |
-> |**Casting Time:**|A|
+> |**Casting Time:**|A |
 > |**Range/Area:**|60 ft. |
 > |**Components:**|S |
 > |**Duration:**|Instantaneous |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane,Primal,Blood Hunter |
 

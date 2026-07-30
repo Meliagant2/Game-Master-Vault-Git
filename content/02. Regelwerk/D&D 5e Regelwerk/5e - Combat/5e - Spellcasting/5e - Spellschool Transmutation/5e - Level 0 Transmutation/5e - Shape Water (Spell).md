@@ -2,28 +2,27 @@
 publish: true
 title: ☄️5e - Shape Water☄️
 created: 2026-07-29T11:11:24.496+02:00
-modified: 2026-07-29T11:50:42.886+02:00
-published: 2026-07-29T11:50:42.886+02:00
+modified: 2026-07-30T09:45:39.797+02:00
+published: 2026-07-30T09:45:39.797+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: ""
 status: ✅
 reactionbedingung: " "
 zauberliste:
   - Arcane
   - Primal
-magieschule: Transmutation
-magielevel: 0
-wirkzeit: A
-reichweite: 30 ft.
+school: Transmutation
+level: 0
+time: A
+range-Area: 30 ft.
 komponenten: S
 dauer: Instantaneous
-concentration: n
-effekt:
+c: " "
+effect:
   - Control
 ---
 
@@ -38,7 +37,7 @@ effekt:
 > |**Range/Area:**|30 ft. |
 > |**Components:**|S |
 > |**Duration:**|Instantaneous |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane,Primal |
 

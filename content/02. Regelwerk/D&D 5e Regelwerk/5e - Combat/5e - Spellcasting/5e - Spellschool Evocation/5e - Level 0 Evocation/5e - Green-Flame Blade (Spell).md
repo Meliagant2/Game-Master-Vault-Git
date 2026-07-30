@@ -2,24 +2,24 @@
 publish: true
 title: ☄️5e - Green-Flame Blade☄️
 created: 2026-07-29T13:40:13.073+02:00
-modified: 2026-07-29T13:47:11.530+02:00
-published: 2026-07-29T13:47:11.530+02:00
+modified: 2026-07-30T09:25:51.967+02:00
+published: 2026-07-30T09:25:51.967+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: Melee
+save-Att: Melee
 status: ✅
-magieschule: Evocation
-magielevel: 0
-wirkzeit: A
-reichweite: Self
+school: Evocation
+level: 0
+time: A
+range-Area: Self
 komponenten: S, M (a weapon with which you have proficiency and that is worth 1+ CP)
 dauer: Instantaneous
-concentration: n
-effekt:
+c: " "
+effect:
   - Fire
 zauberliste:
   - Arcane
@@ -37,7 +37,7 @@ zauberliste:
 > |**Range/Area:**|Self |
 > |**Components:**|S, M (a weapon with which you have proficiency and that is worth 1+ CP) |
 > |**Duration:**|Instantaneous |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**|Melee|
 > |**Spell List:**|Arcane,Blood Hunter |
 

@@ -2,25 +2,25 @@
 publish: true
 title: ☄️5e - Sacred Flame☄️
 created: 2026-07-29T10:24:37.671+02:00
-modified: 2026-07-29T11:48:35.155+02:00
-published: 2026-07-29T11:48:35.155+02:00
+modified: 2026-07-30T09:26:45.324+02:00
+published: 2026-07-30T09:26:45.324+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: DEX
+save-Att: DEX
 status: ✅
 reactionbedingung: " "
-magieschule: Evocation
-magielevel: 0
-wirkzeit: A
-reichweite: 60 ft.
+school: Evocation
+level: 0
+time: A
+range-Area: 60 ft.
 komponenten: V, S
 dauer: Instantaneous
-concentration: n
-effekt:
+c: " "
+effect:
   - Radiant
 zauberliste:
   - Divine
@@ -37,7 +37,7 @@ zauberliste:
 > |**Range/Area:**|60 ft. |
 > |**Components:**|V, S |
 > |**Duration:**|Instantaneous |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**|DEX|
 > |**Spell List:**|Divine |
 

@@ -2,25 +2,25 @@
 publish: true
 title: ☄️5e - Magic Fling☄️
 created: 2026-07-29T08:18:11.559+02:00
-modified: 2026-07-29T11:50:20.140+02:00
-published: 2026-07-29T11:50:20.140+02:00
+modified: 2026-07-30T09:43:20.234+02:00
+published: 2026-07-30T09:43:20.234+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: Ranged
+save-Att: Ranged
 status: ✅
-magieschule: Transmutation
-magielevel: 0
-wirkzeit: BA
+school: Transmutation
+level: 0
+time: BA
 reactionbedingung: " "
-reichweite: Touch
+range-Area: Touch
 komponenten: V, S
 dauer: 1 Minute
-concentration: n
-effekt:
+c: " "
+effect:
   - Bludgeoning
 zauberliste:
   - Arcane
@@ -38,7 +38,7 @@ zauberliste:
 > |**Range/Area:**|Touch |
 > |**Components:**|V, S |
 > |**Duration:**|1 Minute |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**|Ranged|
 > |**Spell List:**|Arcane,Primal |
 

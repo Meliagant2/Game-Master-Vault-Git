@@ -2,25 +2,25 @@
 publish: true
 title: ☄️5e - Spark☄️
 created: 2026-07-29T13:48:27.986+02:00
-modified: 2026-07-29T13:51:18.214+02:00
-published: 2026-07-29T13:51:18.214+02:00
+modified: 2026-07-30T09:30:46.715+02:00
+published: 2026-07-30T09:30:46.715+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: Ranged
+save-Att: Ranged
 status: ✅
 reactionbedingung: " "
-magieschule: Evocation
-magielevel: 0
-wirkzeit: A
-reichweite: 60 ft.
+school: Evocation
+level: 0
+time: A
+range-Area: 60 ft.
 komponenten: V, S
 dauer: Instantaneous
-concentration: n
-effekt:
+c: " "
+effect:
   - Lightning
 zauberliste:
   - Arcane
@@ -38,7 +38,7 @@ zauberliste:
 > |**Range/Area:**|60 ft. |
 > |**Components:**|V, S |
 > |**Duration:**|Instantaneous |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**|Ranged|
 > |**Spell List:**|Arcane,Primal |
 

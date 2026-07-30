@@ -2,25 +2,24 @@
 publish: true
 title: ☄️5e - Prestidigitation☄️
 created: 2026-07-29T09:26:44.969+02:00
-modified: 2026-07-29T11:50:33.786+02:00
-published: 2026-07-29T11:50:33.786+02:00
+modified: 2026-07-30T09:44:49.597+02:00
+published: 2026-07-30T09:44:49.597+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: ""
 status: ✅
 reactionbedingung: " "
-magieschule: Transmutation
-magielevel: 0
-wirkzeit: A
-reichweite: 10 ft.
+school: Transmutation
+level: 0
+time: A
+range-Area: 10 ft.
 komponenten: V, S
 dauer: 1 Hour
-concentration: n
-effekt:
+c: " "
+effect:
   - Control
 zauberliste:
   - Arcane
@@ -37,7 +36,7 @@ zauberliste:
 > |**Range/Area:**|10 ft. |
 > |**Components:**|V, S |
 > |**Duration:**|1 Hour |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane |
 

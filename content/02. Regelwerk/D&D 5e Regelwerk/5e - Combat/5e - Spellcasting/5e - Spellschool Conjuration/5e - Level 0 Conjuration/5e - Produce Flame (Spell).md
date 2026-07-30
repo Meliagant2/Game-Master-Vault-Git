@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Produce Flame☄️
 created: 2026-07-20T12:11:02.720+02:00
-modified: 2026-07-30T09:05:12.777+02:00
-published: 2026-07-30T09:05:12.777+02:00
+modified: 2026-07-30T09:24:49.629+02:00
+published: 2026-07-30T09:24:49.629+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ time: BA
 range-Area: Self
 komponenten: V, S
 dauer: 10m
-c: n
+c: " "
 effect:
   - Fire
   - Light
@@ -38,7 +38,7 @@ zauberliste:
 > |**Range/Area:**|Self |
 > |**Components:**|V, S |
 > |**Duration:**|PT10M |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**|Ranged|
 > |**Spell List:**|Primal |
 

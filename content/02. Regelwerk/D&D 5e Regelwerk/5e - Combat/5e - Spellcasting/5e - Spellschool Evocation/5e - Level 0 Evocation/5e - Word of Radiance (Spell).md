@@ -2,25 +2,25 @@
 publish: true
 title: ☄️5e - Word of Radiance☄️
 created: 2026-07-29T10:45:30.552+02:00
-modified: 2026-07-29T11:48:45.980+02:00
-published: 2026-07-29T11:48:45.980+02:00
+modified: 2026-07-30T09:33:22.644+02:00
+published: 2026-07-30T09:33:22.644+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: CON
+save-Att: CON
 status: ✅
 reactionbedingung: " "
-magieschule: Evocation
-magielevel: 0
-wirkzeit: A
-reichweite: 5 ft. Emanation
+school: Evocation
+level: 0
+time: A
+range-Area: 5 ft. Emanation
 komponenten: V, M (a holy symbol)
 dauer: Instantaneous
-concentration: n
-effekt:
+c: " "
+effect:
   - Radiant
   - AOE
 zauberliste:
@@ -38,7 +38,7 @@ zauberliste:
 > |**Range/Area:**|5 ft. Emanation |
 > |**Components:**|V, M (a holy symbol) |
 > |**Duration:**|Instantaneous |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**|CON|
 > |**Spell List:**|Divine |
 

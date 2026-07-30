@@ -2,25 +2,25 @@
 publish: true
 title: ☄️5e - Bardcraft☄️
 created: 2026-07-23T10:12:45.322+02:00
-modified: 2026-07-29T11:49:52.586+02:00
-published: 2026-07-29T11:49:52.586+02:00
+modified: 2026-07-30T09:40:41.301+02:00
+published: 2026-07-30T09:40:41.301+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: ""
+save-Att: ""
 status: ✅
 reactionbedingung: " "
-magieschule: Transmutation
-magielevel: 0
-wirkzeit: A
-reichweite: 10 ft.
+school: Transmutation
+level: 0
+time: A
+range-Area: 10 ft.
 komponenten: V, S
 dauer: 1h
-concentration: n
-effekt:
+c: " "
+effect:
   - Control
 zauberliste:
   - Bard
@@ -37,7 +37,7 @@ zauberliste:
 > |**Range/Area:**|10 ft. |
 > |**Components:**|V, S |
 > |**Duration:**|PT1H |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Bard |
 

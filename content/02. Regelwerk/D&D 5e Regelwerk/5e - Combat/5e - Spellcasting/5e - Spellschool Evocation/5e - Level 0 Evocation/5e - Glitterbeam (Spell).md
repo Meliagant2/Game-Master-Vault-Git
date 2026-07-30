@@ -2,27 +2,27 @@
 publish: true
 title: ☄️5e - Glitterbeam☄️
 created: 2026-07-29T11:34:45.703+02:00
-modified: 2026-07-29T11:52:33.849+02:00
-published: 2026-07-29T11:52:33.849+02:00
+modified: 2026-07-30T09:25:49.839+02:00
+published: 2026-07-30T09:25:49.839+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: Ranged
+save-Att: Ranged
 status: ✅
 reactionbedingung: " "
-magieschule: Evocation
-magielevel: 0
-wirkzeit: A
-reichweite: 120 ft.
+school: Evocation
+level: 0
+time: A
+range-Area: 120 ft.
 komponenten: V, S
 dauer: Instantaneous
-concentration: n
+c: " "
 zauberliste:
   - Bard
-effekt:
+effect:
   - Radiant
 ---
 
@@ -37,7 +37,7 @@ effekt:
 > |**Range/Area:**|120 ft. |
 > |**Components:**|V, S |
 > |**Duration:**|Instantaneous |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**|Ranged|
 > |**Spell List:**|Bard |
 

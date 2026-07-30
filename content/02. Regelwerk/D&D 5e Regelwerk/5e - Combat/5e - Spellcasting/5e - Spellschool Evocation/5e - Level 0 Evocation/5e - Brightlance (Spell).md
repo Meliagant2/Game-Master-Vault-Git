@@ -2,25 +2,25 @@
 publish: true
 title: ☄️5e - Brightlance☄️
 created: 2026-07-29T12:07:35.166+02:00
-modified: 2026-07-29T12:10:17.975+02:00
-published: 2026-07-29T12:10:17.975+02:00
+modified: 2026-07-30T09:25:37.067+02:00
+published: 2026-07-30T09:25:37.067+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: Spell Attack
+save-Att: Spell Attack
 status: ✅
 reactionbedingung: " "
-magieschule: Evocation
-magielevel: 0
-wirkzeit: A
-reichweite: 120 ft.
+school: Evocation
+level: 0
+time: A
+range-Area: 120 ft.
 komponenten: V, S
 dauer: Instantaneous
-concentration: n
-effekt:
+c: " "
+effect:
   - Lightning
   - Radiant
 zauberliste:
@@ -38,7 +38,7 @@ zauberliste:
 > |**Range/Area:**|120 ft. |
 > |**Components:**|V, S |
 > |**Duration:**|Instantaneous |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**|Spell Attack|
 > |**Spell List:**|Cleric |
 

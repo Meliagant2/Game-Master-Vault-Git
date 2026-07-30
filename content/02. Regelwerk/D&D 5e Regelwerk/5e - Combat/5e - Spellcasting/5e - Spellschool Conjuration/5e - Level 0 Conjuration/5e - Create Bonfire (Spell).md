@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Create Bonfire☄️
 created: 2026-07-28T15:30:07.920+02:00
-modified: 2026-07-30T08:50:16.338+02:00
-published: 2026-07-30T08:50:16.338+02:00
+modified: 2026-07-30T09:24:34.248+02:00
+published: 2026-07-30T09:24:34.248+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -18,7 +18,7 @@ time: A
 range-Area: 60 ft./ 5ft. Cube
 komponenten: V, S
 dauer: 1 Minute
-c: y
+c: x
 effect:
   - Fire
 zauberliste:
@@ -37,7 +37,7 @@ zauberliste:
 > |**Range/Area:**|60 ft./ 5ft. Cube |
 > |**Components:**|V, S |
 > |**Duration:**|1 Minute |
-> |**Concentration:**|y |
+> |**Concentration:**|x |
 > |**Attack/Save:**|DEX|
 > |**Spell List:**|Arcane,Primal |
 

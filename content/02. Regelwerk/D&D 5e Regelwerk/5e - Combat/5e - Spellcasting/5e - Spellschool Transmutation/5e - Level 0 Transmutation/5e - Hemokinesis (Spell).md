@@ -2,25 +2,25 @@
 publish: true
 title: ☄️5e - Hemokinesis☄️
 created: 2026-07-29T11:57:51.406+02:00
-modified: 2026-07-29T12:03:36.463+02:00
-published: 2026-07-29T12:03:36.463+02:00
+modified: 2026-07-30T09:42:51.967+02:00
+published: 2026-07-30T09:42:51.967+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: CON
+save-Att: CON
 status: ✅
 reactionbedingung: " "
-magieschule: Transmutation
-magielevel: 0
-wirkzeit: A
-reichweite: 30 ft.
+school: Transmutation
+level: 0
+time: A
+range-Area: 30 ft.
 komponenten: S
 dauer: 1 Round
-concentration: n
-effekt:
+c: " "
+effect:
   - Blinded
   - Frightened
   - Rattled
@@ -40,7 +40,7 @@ zauberliste:
 > |**Range/Area:**|30 ft. |
 > |**Components:**|S |
 > |**Duration:**|1 Round |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**|CON|
 > |**Spell List:**|Arcane,Blood Hunter |
 

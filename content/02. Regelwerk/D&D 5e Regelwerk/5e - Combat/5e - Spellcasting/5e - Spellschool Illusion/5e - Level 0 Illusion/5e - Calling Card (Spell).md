@@ -2,25 +2,24 @@
 publish: true
 title: ☄️5e - Calling Card☄️
 created: 2026-07-29T13:52:19.339+02:00
-modified: 2026-07-29T13:54:36.030+02:00
-published: 2026-07-29T13:54:36.030+02:00
+modified: 2026-07-30T09:34:46.028+02:00
+published: 2026-07-30T09:34:46.028+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: ""
 status: ✅
 reactionbedingung: " "
-magieschule: Illusion
-magielevel: 0
-wirkzeit: A
-reichweite: Touch
+school: Illusion
+level: 0
+time: A
+range-Area: Touch
 komponenten: S, M (a stamp)
 dauer: Until Dispelled
-concentration: n
-effekt:
+c: " "
+effect:
   - Communication
 zauberliste:
   - Arcane
@@ -38,7 +37,7 @@ zauberliste:
 > |**Range/Area:**|Touch |
 > |**Components:**|S, M (a stamp) |
 > |**Duration:**|Until Dispelled |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane,Bard |
 

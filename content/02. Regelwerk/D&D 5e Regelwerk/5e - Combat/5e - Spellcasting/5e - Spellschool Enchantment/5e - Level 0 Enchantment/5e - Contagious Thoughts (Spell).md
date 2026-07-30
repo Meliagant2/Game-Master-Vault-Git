@@ -2,25 +2,25 @@
 publish: true
 title: ☄️5e - Contagious Thoughts☄️
 created: 2026-07-29T11:25:53.245+02:00
-modified: 2026-07-29T11:47:12.681+02:00
-published: 2026-07-29T11:47:12.681+02:00
+modified: 2026-07-30T09:25:03.440+02:00
+published: 2026-07-30T09:25:03.440+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: INT
+save-Att: INT
 status: ✅
 reactionbedingung: " "
-magieschule: Enchantment
-magielevel: 0
-wirkzeit: A
-reichweite: 10 ft. Emanation
+school: Enchantment
+level: 0
+time: A
+range-Area: 10 ft. Emanation
 komponenten: S, M (a handkerchief)
 dauer: Instantaneous
-concentration: n
-effekt:
+c: " "
+effect:
   - Psychic
 zauberliste:
   - Bard
@@ -37,7 +37,7 @@ zauberliste:
 > |**Range/Area:**|10 ft. Emanation |
 > |**Components:**|S, M (a handkerchief) |
 > |**Duration:**|Instantaneous |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**|INT|
 > |**Spell List:**|Bard |
 

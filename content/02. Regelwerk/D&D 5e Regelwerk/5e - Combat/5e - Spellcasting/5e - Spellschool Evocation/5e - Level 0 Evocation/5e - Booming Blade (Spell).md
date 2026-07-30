@@ -2,24 +2,24 @@
 publish: true
 title: ☄️5e - Booming Blade☄️
 created: 2026-07-28T15:10:58.961+02:00
-modified: 2026-07-29T13:41:42.102+02:00
-published: 2026-07-29T13:41:42.102+02:00
+modified: 2026-07-30T09:25:34.899+02:00
+published: 2026-07-30T09:25:34.899+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: Melee
+save-Att: Melee
 status: ✅
-magieschule: Evocation
-magielevel: 0
-wirkzeit: A
-reichweite: Self
+school: Evocation
+level: 0
+time: A
+range-Area: Self
 komponenten: S, M (a weapon with which you have proficiency and that is worth 1+ CP)
 dauer: 1 Round
-concentration: n
-effekt:
+c: " "
+effect:
   - Thunder
 zauberliste:
   - Arcane
@@ -33,11 +33,11 @@ zauberliste:
 > |:-|:-|
 > |**School:**|Evocation |
 > |**Level:**|0 |
-> |**Casting Time:**|A|
+> |**Casting Time:**|A |
 > |**Range/Area:**|Self |
 > |**Components:**|S, M (a weapon with which you have proficiency and that is worth 1+ CP) |
 > |**Duration:**|1 Round |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**|Melee|
 > |**Spell List:**|Arcane,Blood Hunter |
 

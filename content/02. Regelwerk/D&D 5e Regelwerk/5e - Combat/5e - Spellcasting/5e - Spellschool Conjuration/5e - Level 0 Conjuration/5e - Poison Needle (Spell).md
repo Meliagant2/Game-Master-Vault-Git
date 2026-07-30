@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Poison Needle☄️
 created: 2026-07-29T13:28:18.374+02:00
-modified: 2026-07-30T09:05:18.639+02:00
-published: 2026-07-30T09:05:18.639+02:00
+modified: 2026-07-30T09:24:45.487+02:00
+published: 2026-07-30T09:24:45.487+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ time: A
 range-Area: 60 ft.
 komponenten: V, S
 dauer: Instantaneous
-c: n
+c: " "
 effect:
   - Poison
   - Poisoned
@@ -39,7 +39,7 @@ zauberliste:
 > |**Range/Area:**|60 ft. |
 > |**Components:**|V, S |
 > |**Duration:**|Instantaneous |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**|Ranged|
 > |**Spell List:**|Arcane,Primal |
 

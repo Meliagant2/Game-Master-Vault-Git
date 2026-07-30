@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Infestation☄️
 created: 2026-07-28T15:48:04.143+02:00
-modified: 2026-07-30T08:50:47.468+02:00
-published: 2026-07-30T08:50:47.468+02:00
+modified: 2026-07-30T09:24:37.967+02:00
+published: 2026-07-30T09:24:37.967+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -18,7 +18,7 @@ time: A
 range-Area: 30 ft.
 komponenten: V, S, M (a living flea)
 dauer: Instantaneous
-c: n
+c: " "
 effect:
   - Poison
   - Move
@@ -38,7 +38,7 @@ zauberliste:
 > |**Range/Area:**|30 ft. |
 > |**Components:**|V, S, M (a living flea) |
 > |**Duration:**|Instantaneous |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**|CON|
 > |**Spell List:**|Arcane,Primal |
 

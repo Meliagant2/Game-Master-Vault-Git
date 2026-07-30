@@ -2,25 +2,25 @@
 publish: true
 title: ☄️5e - Acid Burn☄️
 created: 2026-07-29T13:34:07.421+02:00
-modified: 2026-07-29T13:36:20.441+02:00
-published: 2026-07-29T13:36:20.441+02:00
+modified: 2026-07-30T09:25:18.452+02:00
+published: 2026-07-30T09:25:18.452+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: DEX
+save-Att: DEX
 status: ✅
 reactionbedingung: " "
-magieschule: Evocation
-magielevel: 0
-wirkzeit: A
-reichweite: 15 ft. Cone
+school: Evocation
+level: 0
+time: A
+range-Area: 15 ft. Cone
 komponenten: V, S
 dauer: Instantaneous
-concentration: n
-effekt:
+c: " "
+effect:
   - Acid
   - AOE
 zauberliste:
@@ -39,7 +39,7 @@ zauberliste:
 > |**Range/Area:**|15 ft. Cone |
 > |**Components:**|V, S |
 > |**Duration:**|Instantaneous |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**|DEX|
 > |**Spell List:**|Arcane,Blood Hunter |
 

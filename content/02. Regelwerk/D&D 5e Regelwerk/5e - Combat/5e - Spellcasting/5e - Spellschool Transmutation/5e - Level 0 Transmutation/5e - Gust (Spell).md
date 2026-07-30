@@ -2,25 +2,25 @@
 publish: true
 title: ☄️5e - Gust☄️
 created: 2026-07-29T10:51:42.355+02:00
-modified: 2026-07-29T11:50:15.501+02:00
-published: 2026-07-29T11:50:15.501+02:00
+modified: 2026-07-30T09:42:15.008+02:00
+published: 2026-07-30T09:42:15.008+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: STR
+save-Att: STR
 status: ✅
 reactionbedingung: " "
-magieschule: Transmutation
-magielevel: 0
-wirkzeit: A
-reichweite: 30 ft.
+school: Transmutation
+level: 0
+time: A
+range-Area: 30 ft.
 komponenten: V, S
 dauer: Instantaneous
-concentration: n
-effekt:
+c: " "
+effect:
   - Pushing
   - Prone
 zauberliste:
@@ -39,7 +39,7 @@ zauberliste:
 > |**Range/Area:**|30 ft. |
 > |**Components:**|V, S |
 > |**Duration:**|Instantaneous |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**|STR|
 > |**Spell List:**|Arcane,Primal |
 

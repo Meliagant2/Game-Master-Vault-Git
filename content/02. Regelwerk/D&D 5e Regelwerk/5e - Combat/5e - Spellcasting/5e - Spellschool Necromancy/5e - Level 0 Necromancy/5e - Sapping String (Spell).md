@@ -2,25 +2,25 @@
 publish: true
 title: ☄️5e - Sapping String☄️
 created: 2026-07-29T09:33:36.954+02:00
-modified: 2026-07-29T11:49:20.092+02:00
-published: 2026-07-29T11:49:20.092+02:00
+modified: 2026-07-30T09:37:44.907+02:00
+published: 2026-07-30T09:37:44.907+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: CON
+save-Att: CON
 status: ✅
 reactionbedingung: " "
-magieschule: Necromancy
-magielevel: 0
-wirkzeit: A
-reichweite: 30 ft.
+school: Necromancy
+level: 0
+time: A
+range-Area: 30 ft.
 komponenten: V, S
 dauer: Instantaneous
-concentration: n
-effekt:
+c: " "
+effect:
   - Necrotic
   - Prone
 zauberliste:
@@ -39,7 +39,7 @@ zauberliste:
 > |**Range/Area:**|30 ft. |
 > |**Components:**|V, S |
 > |**Duration:**|Instantaneous |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**|CON|
 > |**Spell List:**|Arcane,Blood Hunter |
 

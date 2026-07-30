@@ -2,25 +2,25 @@
 publish: true
 title: ☄️5e - Rend Flesh☄️
 created: 2026-07-29T12:03:51.387+02:00
-modified: 2026-07-29T12:06:42.427+02:00
-published: 2026-07-29T12:06:42.427+02:00
+modified: 2026-07-30T09:37:21.997+02:00
+published: 2026-07-30T09:37:21.997+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: CON
+save-Att: CON
 status: ✅
 reactionbedingung: " "
-magieschule: Necromancy
-magielevel: 0
-wirkzeit: A
-reichweite: 60 ft.
+school: Necromancy
+level: 0
+time: A
+range-Area: 60 ft.
 komponenten: S
 dauer: Instantaneous
-concentration: n
-effekt:
+c: " "
+effect:
   - Poisoned
   - Necrotic
 zauberliste:
@@ -39,7 +39,7 @@ zauberliste:
 > |**Range/Area:**|60 ft. |
 > |**Components:**|S |
 > |**Duration:**|Instantaneous |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**|CON|
 > |**Spell List:**|Arcane,Blood Hunter |
 

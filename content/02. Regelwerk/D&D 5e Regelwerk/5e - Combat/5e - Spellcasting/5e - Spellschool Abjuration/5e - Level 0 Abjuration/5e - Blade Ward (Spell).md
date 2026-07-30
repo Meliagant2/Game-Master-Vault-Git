@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Blade Ward☄️
 created: 2026-07-28T15:07:23.711+02:00
-modified: 2026-07-30T08:44:23.756+02:00
-published: 2026-07-30T08:44:23.756+02:00
+modified: 2026-07-30T09:24:20.878+02:00
+published: 2026-07-30T09:24:20.878+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -17,7 +17,7 @@ time: R
 range-Area: Self
 komponenten: V, S
 dauer: Instantaneous
-c: n
+c: " "
 effect:
   - DISADV
 zauberliste:
@@ -37,7 +37,7 @@ reactionbedingung: (A Creature targets you with a melee attack)
 > |**Range/Area:**|Self |
 > |**Components:**|V, S |
 > |**Duration:**|Instantaneous |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane,Blood Hunter |
 

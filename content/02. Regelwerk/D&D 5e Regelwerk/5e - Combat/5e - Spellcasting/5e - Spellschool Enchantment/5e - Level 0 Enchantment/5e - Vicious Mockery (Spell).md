@@ -2,25 +2,25 @@
 publish: true
 title: ☄️5e - Vicious Mockery☄️
 created: 2026-07-29T11:52:43.158+02:00
-modified: 2026-07-29T11:55:57.237+02:00
-published: 2026-07-29T11:55:57.237+02:00
+modified: 2026-07-30T09:25:13.357+02:00
+published: 2026-07-30T09:25:13.357+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: WIS
+save-Att: WIS
 status: ✅
 reactionbedingung: " "
-magieschule: Enchantment
-magielevel: 0
-wirkzeit: A
-reichweite: 60 ft.
+school: Enchantment
+level: 0
+time: A
+range-Area: 60 ft.
 komponenten: V
 dauer: Instantaneous
-concentration: n
-effekt:
+c: " "
+effect:
   - Psychic
   - Taunted
 zauberliste:
@@ -38,7 +38,7 @@ zauberliste:
 > |**Range/Area:**|60 ft. |
 > |**Components:**|V |
 > |**Duration:**|Instantaneous |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**|WIS|
 > |**Spell List:**|Bard |
 

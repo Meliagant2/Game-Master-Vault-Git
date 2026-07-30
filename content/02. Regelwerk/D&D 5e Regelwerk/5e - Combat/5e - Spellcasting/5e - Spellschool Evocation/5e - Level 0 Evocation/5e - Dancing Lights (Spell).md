@@ -2,24 +2,23 @@
 publish: true
 title: ☄️5e - Dancing Lights☄️
 created: 2026-07-21T11:21:52.716+02:00
-modified: 2026-07-29T11:48:01.861+02:00
-published: 2026-07-29T11:48:01.861+02:00
+modified: 2026-07-30T09:25:39.489+02:00
+published: 2026-07-30T09:25:39.489+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: ""
 status: ✅
-magieschule: Evocation
-magielevel: 0
-wirkzeit: A
-reichweite: 120 ft.
+school: Evocation
+level: 0
+time: A
+range-Area: 120 ft.
 komponenten: V, S, M (a bit of phosphorous or wychwood, or a glowworm)
 dauer: 1 Minute
-concentration: y
-effekt:
+c: x
+effect:
   - Light
 zauberliste:
   - Arcane
@@ -32,11 +31,11 @@ zauberliste:
 > |:-|:-|
 > |**School:**|Evocation |
 > |**Level:**|0 |
-> |**Casting Time:**|A|
+> |**Casting Time:**|A |
 > |**Range/Area:**|120 ft. |
 > |**Components:**|V, S, M (a bit of phosphorous or wychwood, or a glowworm) |
 > |**Duration:**|1 Minute |
-> |**Concentration:**|y |
+> |**Concentration:**|x |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane |
 

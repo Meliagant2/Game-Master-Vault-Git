@@ -2,24 +2,24 @@
 publish: true
 title: ☄️5e - Frostbite☄️
 created: 2026-07-22T14:00:06.625+02:00
-modified: 2026-07-29T11:48:12.544+02:00
-published: 2026-07-29T11:48:12.544+02:00
+modified: 2026-07-30T09:25:47.319+02:00
+published: 2026-07-30T09:25:47.319+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: CON
+save-Att: CON
 status: ✅
-magieschule: Evocation
-magielevel: 0
-wirkzeit: A
-reichweite: 60 ft.
+school: Evocation
+level: 0
+time: A
+range-Att: 60 ft.
 komponenten: V, S
 dauer: Instantanous
-concentration: n
-effekt:
+c: " "
+effect:
   - Cold
   - DISADV
 zauberliste:
@@ -35,11 +35,11 @@ zauberliste:
 > |:-|:-|
 > |**School:**|Evocation |
 > |**Level:**|0 |
-> |**Casting Time:**|A|
-> |**Range/Area:**|60 ft. |
+> |**Casting Time:**|A |
+> |**Range/Area:**| |
 > |**Components:**|V, S |
 > |**Duration:**|Instantanous |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**|CON|
 > |**Spell List:**|Arcane,Primal,Blood Hunter |
 

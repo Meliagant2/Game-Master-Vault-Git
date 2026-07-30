@@ -2,24 +2,24 @@
 publish: true
 title: ☄️5e - Chill Touch☄️
 created: 2026-07-21T11:20:43.812+02:00
-modified: 2026-07-30T08:24:32.046+02:00
-published: 2026-07-30T08:24:32.046+02:00
+modified: 2026-07-30T09:36:57.970+02:00
+published: 2026-07-30T09:36:57.970+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: Melee
+save-Att: Melee
 status: ✅
-magieschule: Necromancy
-magielevel: 0
-wirkzeit: A
-reichweite: Touch
+school: Necromancy
+level: 0
+time: A
+range-Area: Touch
 komponenten: V, S
 dauer: Instantaneous
-concentration: n
-effekt:
+c: " "
+effect:
   - Necrotic
   - Wounded
 zauberliste:
@@ -34,11 +34,11 @@ zauberliste:
 > |:-|:-|
 > |**School:**|Necromancy |
 > |**Level:**|0 |
-> |**Casting Time:**|A|
+> |**Casting Time:**|A |
 > |**Range/Area:**|Touch |
 > |**Components:**|V, S |
 > |**Duration:**|Instantaneous |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**|Melee|
 > |**Spell List:**|Arcane,Divine |
 

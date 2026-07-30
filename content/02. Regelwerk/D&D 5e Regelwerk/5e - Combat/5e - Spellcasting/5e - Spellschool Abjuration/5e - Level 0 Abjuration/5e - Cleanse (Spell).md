@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Cleanse☄️
 created: 2026-07-30T07:23:30.415+02:00
-modified: 2026-07-30T08:48:32.020+02:00
-published: 2026-07-30T08:48:32.020+02:00
+modified: 2026-07-30T09:24:23.010+02:00
+published: 2026-07-30T09:24:23.010+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -18,7 +18,7 @@ time: A
 range-Area: Touch
 komponenten: V, S
 dauer: Instantaneous
-c: n
+c: " "
 effect:
   - Healing
 zauberliste:
@@ -38,7 +38,7 @@ zauberliste:
 > |**Range/Area:**|Touch |
 > |**Components:**|V, S |
 > |**Duration:**|Instantaneous |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Divine,Primal,Artificer |
 

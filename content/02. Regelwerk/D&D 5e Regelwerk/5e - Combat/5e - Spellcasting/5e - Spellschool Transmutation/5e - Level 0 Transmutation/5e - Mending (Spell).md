@@ -2,25 +2,24 @@
 publish: true
 title: ☄️5e - Mending☄️
 created: 2026-07-21T11:18:45.011+02:00
-modified: 2026-07-29T11:50:22.107+02:00
-published: 2026-07-29T11:50:22.107+02:00
+modified: 2026-07-30T09:43:50.787+02:00
+published: 2026-07-30T09:43:50.787+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: ""
 status: ✅
 reactionbedingung: " "
-magieschule: Transmutation
-magielevel: 0
-wirkzeit: 1m
-reichweite: Touch
+school: Transmutation
+level: 0
+time: 1m
+range-Area: Touch
 komponenten: V, S, M (two lodestones)
 dauer: Instantaneous
-concentration: n
-effekt:
+c: " "
+effect:
   - Utility
 zauberliste:
   - Arcane
@@ -38,7 +37,7 @@ zauberliste:
 > |**Range/Area:**|Touch |
 > |**Components:**|V, S, M (two lodestones) |
 > |**Duration:**|Instantaneous |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane,Divine |
 

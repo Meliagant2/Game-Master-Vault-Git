@@ -2,25 +2,24 @@
 publish: true
 title: ☄️5e - Elementalism☄️
 created: 2026-07-20T12:11:02.835+02:00
-modified: 2026-07-29T12:16:20.148+02:00
-published: 2026-07-29T12:16:20.148+02:00
+modified: 2026-07-30T09:41:47.477+02:00
+published: 2026-07-30T09:41:47.477+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: ""
 status: ✅
 reactionbedingung: " "
-magieschule: Transmutation
-magielevel: 0
-wirkzeit: A
-reichweite: 30 ft.
+school: Transmutation
+level: 0
+time: A
+range-Area: 30 ft.
 komponenten: V, S
 dauer: Instantaneous
-concentration: n
-effekt:
+c: " "
+effect:
   - Control
 zauberliste:
   - Artificer
@@ -39,7 +38,7 @@ zauberliste:
 > |**Range/Area:**|30 ft. |
 > |**Components:**|V, S |
 > |**Duration:**|Instantaneous |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Artificer,Druid,Sorcerer |
 

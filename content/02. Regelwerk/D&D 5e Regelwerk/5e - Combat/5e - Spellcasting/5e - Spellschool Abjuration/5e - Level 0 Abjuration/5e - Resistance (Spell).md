@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Resistance☄️
 created: 2026-07-20T12:11:02.688+02:00
-modified: 2026-07-30T08:48:12.122+02:00
-published: 2026-07-30T08:48:12.122+02:00
+modified: 2026-07-30T09:24:26.020+02:00
+published: 2026-07-30T09:24:26.020+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -18,7 +18,7 @@ time: R
 range-Area: 10 ft.
 komponenten: V, S
 dauer: Instantaneous
-c: n
+c: " "
 effect:
   - Buff
 zauberliste:
@@ -38,7 +38,7 @@ zauberliste:
 > |**Range/Area:**|10 ft. |
 > |**Components:**|V, S |
 > |**Duration:**|Instantaneous |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Divine,Primal,Blood Hunter |
 

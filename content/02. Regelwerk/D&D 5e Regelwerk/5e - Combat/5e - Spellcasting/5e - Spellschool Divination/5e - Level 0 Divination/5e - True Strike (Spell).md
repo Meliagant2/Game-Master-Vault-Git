@@ -2,25 +2,25 @@
 publish: true
 title: ☄️5e - True Strike☄️
 created: 2026-07-27T12:33:46.171+02:00
-modified: 2026-07-29T11:47:06.235+02:00
-published: 2026-07-29T11:47:06.235+02:00
+modified: 2026-07-30T09:24:58.053+02:00
+published: 2026-07-30T09:24:58.053+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: Weapon
+save-Att: Weapon
 status: ✅
 reactionbedingung: " "
-magieschule: Divination
-magielevel: 0
-wirkzeit: A
-reichweite: Self
+school: Divination
+level: 0
+time: A
+range-Area: Self
 komponenten: S, M (a weapon with which you have proficiency and that is worth 1+ CP)
 dauer: Instantaneous
-concentration: n
-effekt:
+c: " "
+effect:
   - Radiant
 zauberliste:
   - Arcane
@@ -37,7 +37,7 @@ zauberliste:
 > |**Range/Area:**|Self |
 > |**Components:**|S, M (a weapon with which you have proficiency and that is worth 1+ CP) |
 > |**Duration:**|Instantaneous |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**|Weapon|
 > |**Spell List:**|Arcane |
 

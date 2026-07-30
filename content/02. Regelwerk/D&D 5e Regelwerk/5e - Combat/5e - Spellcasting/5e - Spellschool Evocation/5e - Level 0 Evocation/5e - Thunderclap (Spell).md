@@ -2,25 +2,25 @@
 publish: true
 title: ☄️5e - Thunderclap☄️
 created: 2026-07-29T10:01:05.627+02:00
-modified: 2026-07-29T11:48:42.930+02:00
-published: 2026-07-29T11:48:42.930+02:00
+modified: 2026-07-30T09:32:56.710+02:00
+published: 2026-07-30T09:32:56.710+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: CON
+save-Att: CON
 status: ✅
 reactionbedingung: " "
-magieschule: Evocation
-magielevel: 0
-wirkzeit: A
-reichweite: 5ft. Emanation
+school: Evocation
+level: 0
+time: A
+range-Area: 5ft. Emanation
 komponenten: S
 dauer: Instantaneous
-concentration: n
-effekt:
+c: " "
+effect:
   - Thunder
   - AOE
 zauberliste:
@@ -39,7 +39,7 @@ zauberliste:
 > |**Range/Area:**|5ft. Emanation |
 > |**Components:**|S |
 > |**Duration:**|Instantaneous |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**|CON|
 > |**Spell List:**|Arcane,Primal |
 

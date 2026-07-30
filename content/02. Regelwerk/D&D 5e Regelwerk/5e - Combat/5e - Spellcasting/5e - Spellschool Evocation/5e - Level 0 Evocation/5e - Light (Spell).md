@@ -2,24 +2,24 @@
 publish: true
 title: ☄️5e - Light☄️
 created: 2026-07-22T14:15:36.518+02:00
-modified: 2026-07-29T11:48:23.915+02:00
-published: 2026-07-29T11:48:23.915+02:00
+modified: 2026-07-30T09:25:53.961+02:00
+published: 2026-07-30T09:25:53.961+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: DEX
+save-Att: DEX
 status: ✅
-magieschule: Evocation
-magielevel: 0
-wirkzeit: A
-reichweite: Touch
+school: Evocation
+level: 0
+time: A
+range-Area: Touch
 komponenten: V, M (a firefly or phosphorescent moss)
 dauer: 1 Hour
-concentration: n
-effekt:
+c: " "
+effect:
   - Light
 zauberliste:
   - Arcane
@@ -33,11 +33,11 @@ zauberliste:
 > |:-|:-|
 > |**School:**|Evocation |
 > |**Level:**|0 |
-> |**Casting Time:**|A|
+> |**Casting Time:**|A |
 > |**Range/Area:**|Touch |
 > |**Components:**|V, M (a firefly or phosphorescent moss) |
 > |**Duration:**|1 Hour |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**|DEX|
 > |**Spell List:**|Arcane,Divine |
 

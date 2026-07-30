@@ -2,29 +2,29 @@
 publish: true
 title: ☄️5e - Message☄️
 created: 2026-07-21T11:01:27.042+02:00
-modified: 2026-07-29T11:47:02.961+02:00
-published: 2026-07-29T11:47:02.961+02:00
+modified: 2026-07-30T09:24:56.707+02:00
+published: 2026-07-30T09:24:56.707+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: ""
 status: ✅
 reactionbedingung: " "
-magieschule: Divination
-magielevel: 0
-wirkzeit: A
-reichweite: 120 ft.
+school: Divination
+level: 0
+time: A
+range-Area: 120 ft.
 komponenten: V, S, M (a copper wire)
 dauer: 1 Round
-concentration: n
-effekt:
+c: " "
+effect:
   - Communication
   - Utility
 zauberliste:
   - Arcane
+  - Divine
   - Primal
 ---
 
@@ -39,9 +39,9 @@ zauberliste:
 > |**Range/Area:**|120 ft. |
 > |**Components:**|V, S, M (a copper wire) |
 > |**Duration:**|1 Round |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**||
-> |**Spell List:**|Arcane,Primal |
+> |**Spell List:**|Arcane,Divine,Primal |
 
 You point your finger toward a creature within range and whisper a message. The target (and only the target) hears the message and can reply in a whisper that only you can hear.
 

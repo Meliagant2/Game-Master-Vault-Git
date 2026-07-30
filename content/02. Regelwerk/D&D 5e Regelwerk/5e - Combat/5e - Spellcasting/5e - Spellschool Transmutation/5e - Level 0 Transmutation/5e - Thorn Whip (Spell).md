@@ -2,25 +2,25 @@
 publish: true
 title: ☄️5e - Thorn Whip☄️
 created: 2026-07-29T11:16:31.060+02:00
-modified: 2026-07-29T11:50:52.221+02:00
-published: 2026-07-29T11:50:52.221+02:00
+modified: 2026-07-30T09:46:53.719+02:00
+published: 2026-07-30T09:46:53.719+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: Melee
+save-Att: Melee
 status: ✅
 reactionbedingung: " "
-magieschule: Transmutation
-magielevel: 0
-wirkzeit: A
-reichweite: 30 ft.
+school: Transmutation
+level: 0
+time: A
+range-Area: 30 ft.
 komponenten: V, S, M (the stem of a plant with thorns)
 dauer: Instantaneous
-concentration: n
-effekt:
+c: " "
+effect:
   - Piercing
   - Pulling
 zauberliste:
@@ -38,7 +38,7 @@ zauberliste:
 > |**Range/Area:**|30 ft. |
 > |**Components:**|V, S, M (the stem of a plant with thorns) |
 > |**Duration:**|Instantaneous |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**|Melee|
 > |**Spell List:**|Primal |
 

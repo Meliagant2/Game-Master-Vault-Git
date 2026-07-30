@@ -2,25 +2,25 @@
 publish: true
 title: ☄️5e - Mind Sliver☄️
 created: 2026-07-29T09:11:49.182+02:00
-modified: 2026-07-30T07:44:48.171+02:00
-published: 2026-07-30T07:44:48.171+02:00
+modified: 2026-07-30T09:25:10.315+02:00
+published: 2026-07-30T09:25:10.315+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: INT
+save-Att: INT
 status: ✅
 reactionbedingung: " "
-magieschule: Enchantment
-magielevel: 0
-wirkzeit: A
-reichweite: 60 ft.
+school: Enchantment
+level: 0
+time: A
+range-Area: 60 ft.
 komponenten: V
 dauer: Instantaneous
-concentration: n
-effekt:
+c: " "
+effect:
   - Psychic
   - Debuff
 zauberliste:
@@ -39,7 +39,7 @@ zauberliste:
 > |**Range/Area:**|60 ft. |
 > |**Components:**|V |
 > |**Duration:**|Instantaneous |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**|INT|
 > |**Spell List:**|Arcane,Divine |
 

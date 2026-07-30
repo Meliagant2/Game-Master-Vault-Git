@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Illusion Spellschool☄️
 created: 2026-07-23T11:55:35.338+02:00
-modified: 2026-07-29T14:33:21.309+02:00
-published: 2026-07-29T14:33:21.309+02:00
+modified: 2026-07-30T09:56:21.671+02:00
+published: 2026-07-30T09:56:21.671+02:00
 tags:
   - "#Combatrules"
   - "#5e"
@@ -17,40 +17,24 @@ Illusion spells create false sensory impressions.
 ## List of all Illusion Spells:
 
 ```base
-properties:
-  note.saveart:
-    displayName: Attack/Save
-  note.magieschule:
-    displayName: School
-  note.magielevel:
-    displayName: Level
-  note.wirkzeit:
-    displayName: Time
-  note.reichweite:
-    displayName: Range/Area
-  note.concentration:
-    displayName: Conc.
-  note.effekt:
-    displayName: Damage/Effect
 views:
   - type: table
-    name: 5e all Illusion Spells
+    name: 5e - Illusion; All Spells
     filters:
       and:
-        - dateitags.contains("#Spell")
-        - dateitags.contains("#5e")
-        - magieschule.contains("Illusion")
+        - dateitags.containsAll("#Spell", "#5e")
+        - school.contains("Illusion")
     order:
       - file.name
-      - magielevel
-      - magieschule
-      - wirkzeit
-      - concentration
-      - reichweite
-      - saveart
-      - effekt
+      - level
+      - school
+      - time
+      - c
+      - range-Area
+      - save-Att
+      - effect
     sort:
-      - property: magielevel
+      - property: level
         direction: ASC
       - property: file.name
         direction: ASC
@@ -60,31 +44,27 @@ views:
     imageFit: contain
     columnSize:
       file.name: 200
-      note.magielevel: 56
-      note.magieschule: 76
-      note.wirkzeit: 55
-      note.concentration: 30
-      note.reichweite: 132
-      note.saveart: 50
+      note.level: 49
+      note.time: 25
+      note.c: 24
   - type: table
-    name: 5e Illusion Cantrips
+    name: 5e - Illusion; Cantrips
     filters:
       and:
-        - dateitags.contains("#Spell")
-        - dateitags.contains("#5e")
-        - magieschule.contains("Illusion")
+        - dateitags.containsAll("#Spell", "#5e")
+        - school.contains("Illusion")
         - magielevel == 0
     order:
       - file.name
-      - magielevel
-      - magieschule
-      - wirkzeit
-      - concentration
-      - reichweite
-      - saveart
-      - effekt
+      - level
+      - school
+      - time
+      - c
+      - range-Area
+      - save-Att
+      - effect
     sort:
-      - property: magielevel
+      - property: level
         direction: ASC
       - property: file.name
         direction: ASC
@@ -94,33 +74,29 @@ views:
     imageFit: contain
     columnSize:
       file.name: 200
-      note.magielevel: 56
-      note.magieschule: 76
-      note.wirkzeit: 55
-      note.concentration: 30
-      note.reichweite: 132
-      note.saveart: 50
+      note.level: 49
+      note.time: 25
+      note.c: 24
   - type: table
-    name: 5e 1st level Illusion
+    name: 5e - Illusion; 1st-level
     filters:
       and:
-        - dateitags.contains("#Spell")
-        - dateitags.contains("#5e")
-        - magieschule.contains("Illusion")
+        - dateitags.containsAll("#Spell", "#5e")
+        - school.contains("Illusion")
         - magielevel == 1
     order:
       - file.name
-      - magielevel
-      - magieschule
-      - wirkzeit
-      - concentration
-      - reichweite
-      - saveart
-      - effekt
+      - level
+      - school
+      - time
+      - c
+      - range-Area
+      - save-Att
+      - effect
     sort:
-      - property: file.name
+      - property: level
         direction: ASC
-      - property: magielevel
+      - property: file.name
         direction: ASC
     image: note.image
     cardSize: 150
@@ -128,31 +104,27 @@ views:
     imageFit: contain
     columnSize:
       file.name: 200
-      note.magielevel: 56
-      note.magieschule: 76
-      note.wirkzeit: 55
-      note.concentration: 30
-      note.reichweite: 132
-      note.saveart: 50
+      note.level: 49
+      note.time: 25
+      note.c: 24
   - type: table
-    name: 5e 2nd level Illusion
+    name: 5e - Illusion; 2nd-level
     filters:
       and:
-        - dateitags.contains("#Spell")
-        - dateitags.contains("#5e")
-        - magieschule.contains("Illusion")
+        - dateitags.containsAll("#Spell", "#5e")
+        - school.contains("Illusion")
         - magielevel == 2
     order:
       - file.name
-      - magielevel
-      - magieschule
-      - wirkzeit
-      - concentration
-      - reichweite
-      - saveart
-      - effekt
+      - level
+      - school
+      - time
+      - c
+      - range-Area
+      - save-Att
+      - effect
     sort:
-      - property: magielevel
+      - property: level
         direction: ASC
       - property: file.name
         direction: ASC
@@ -162,31 +134,27 @@ views:
     imageFit: contain
     columnSize:
       file.name: 200
-      note.magielevel: 56
-      note.magieschule: 76
-      note.wirkzeit: 55
-      note.concentration: 30
-      note.reichweite: 132
-      note.saveart: 50
+      note.level: 49
+      note.time: 25
+      note.c: 24
   - type: table
-    name: 5e 3rd level Illusion
+    name: 5e - Illusion; 3rd-level
     filters:
       and:
-        - dateitags.contains("#Spell")
-        - dateitags.contains("#5e")
-        - magieschule.contains("Illusion")
+        - dateitags.containsAll("#Spell", "#5e")
+        - school.contains("Illusion")
         - magielevel == 3
     order:
       - file.name
-      - magielevel
-      - magieschule
-      - wirkzeit
-      - concentration
-      - reichweite
-      - saveart
-      - effekt
+      - level
+      - school
+      - time
+      - c
+      - range-Area
+      - save-Att
+      - effect
     sort:
-      - property: magielevel
+      - property: level
         direction: ASC
       - property: file.name
         direction: ASC
@@ -196,31 +164,27 @@ views:
     imageFit: contain
     columnSize:
       file.name: 200
-      note.magielevel: 56
-      note.magieschule: 76
-      note.wirkzeit: 55
-      note.concentration: 30
-      note.reichweite: 132
-      note.saveart: 50
+      note.level: 49
+      note.time: 25
+      note.c: 24
   - type: table
-    name: 5e 4th level Illusion
+    name: 5e - Illusion; 4th-level
     filters:
       and:
-        - dateitags.contains("#Spell")
-        - dateitags.contains("#5e")
-        - magieschule.contains("Illusion")
+        - dateitags.containsAll("#Spell", "#5e")
+        - school.contains("Illusion")
         - magielevel == 4
     order:
       - file.name
-      - magielevel
-      - magieschule
-      - wirkzeit
-      - concentration
-      - reichweite
-      - saveart
-      - effekt
+      - level
+      - school
+      - time
+      - c
+      - range-Area
+      - save-Att
+      - effect
     sort:
-      - property: magielevel
+      - property: level
         direction: ASC
       - property: file.name
         direction: ASC
@@ -230,31 +194,27 @@ views:
     imageFit: contain
     columnSize:
       file.name: 200
-      note.magielevel: 56
-      note.magieschule: 76
-      note.wirkzeit: 55
-      note.concentration: 30
-      note.reichweite: 132
-      note.saveart: 50
+      note.level: 49
+      note.time: 25
+      note.c: 24
   - type: table
-    name: 5e 5th level Illusion
+    name: 5e - Illusion; 5th-level
     filters:
       and:
-        - dateitags.contains("#Spell")
-        - dateitags.contains("#5e")
-        - magieschule.contains("Illusion")
+        - dateitags.containsAll("#Spell", "#5e")
+        - school.contains("Illusion")
         - magielevel == 5
     order:
       - file.name
-      - magielevel
-      - magieschule
-      - wirkzeit
-      - concentration
-      - reichweite
-      - saveart
-      - effekt
+      - level
+      - school
+      - time
+      - c
+      - range-Area
+      - save-Att
+      - effect
     sort:
-      - property: magielevel
+      - property: level
         direction: ASC
       - property: file.name
         direction: ASC
@@ -264,31 +224,27 @@ views:
     imageFit: contain
     columnSize:
       file.name: 200
-      note.magielevel: 56
-      note.magieschule: 76
-      note.wirkzeit: 55
-      note.concentration: 30
-      note.reichweite: 132
-      note.saveart: 50
+      note.level: 49
+      note.time: 25
+      note.c: 24
   - type: table
-    name: 5e 6th level Illusion
+    name: 5e - Illusion; 6th-level
     filters:
       and:
-        - dateitags.contains("#Spell")
-        - dateitags.contains("#5e")
-        - magieschule.contains("Illusion")
+        - dateitags.containsAll("#Spell", "#5e")
+        - school.contains("Illusion")
         - magielevel == 6
     order:
       - file.name
-      - magielevel
-      - magieschule
-      - wirkzeit
-      - concentration
-      - reichweite
-      - saveart
-      - effekt
+      - level
+      - school
+      - time
+      - c
+      - range-Area
+      - save-Att
+      - effect
     sort:
-      - property: magielevel
+      - property: level
         direction: ASC
       - property: file.name
         direction: ASC
@@ -298,31 +254,27 @@ views:
     imageFit: contain
     columnSize:
       file.name: 200
-      note.magielevel: 56
-      note.magieschule: 76
-      note.wirkzeit: 55
-      note.concentration: 30
-      note.reichweite: 132
-      note.saveart: 50
+      note.level: 49
+      note.time: 25
+      note.c: 24
   - type: table
-    name: 5e 7th level Illusion
+    name: 5e - Illusion; 7th-level
     filters:
       and:
-        - dateitags.contains("#Spell")
-        - dateitags.contains("#5e")
-        - magieschule.contains("Illusion")
+        - dateitags.containsAll("#Spell", "#5e")
+        - school.contains("Illusion")
         - magielevel == 7
     order:
       - file.name
-      - magielevel
-      - magieschule
-      - wirkzeit
-      - concentration
-      - reichweite
-      - saveart
-      - effekt
+      - level
+      - school
+      - time
+      - c
+      - range-Area
+      - save-Att
+      - effect
     sort:
-      - property: magielevel
+      - property: level
         direction: ASC
       - property: file.name
         direction: ASC
@@ -332,31 +284,27 @@ views:
     imageFit: contain
     columnSize:
       file.name: 200
-      note.magielevel: 56
-      note.magieschule: 76
-      note.wirkzeit: 55
-      note.concentration: 30
-      note.reichweite: 132
-      note.saveart: 50
+      note.level: 49
+      note.time: 25
+      note.c: 24
   - type: table
-    name: 5e 8th level Illusion
+    name: 5e - Illusion; 8th-level
     filters:
       and:
-        - dateitags.contains("#Spell")
-        - dateitags.contains("#5e")
-        - magieschule.contains("Illusion")
+        - dateitags.containsAll("#Spell", "#5e")
+        - school.contains("Illusion")
         - magielevel == 8
     order:
       - file.name
-      - magielevel
-      - magieschule
-      - wirkzeit
-      - concentration
-      - reichweite
-      - saveart
-      - effekt
+      - level
+      - school
+      - time
+      - c
+      - range-Area
+      - save-Att
+      - effect
     sort:
-      - property: magielevel
+      - property: level
         direction: ASC
       - property: file.name
         direction: ASC
@@ -366,31 +314,27 @@ views:
     imageFit: contain
     columnSize:
       file.name: 200
-      note.magielevel: 56
-      note.magieschule: 76
-      note.wirkzeit: 55
-      note.concentration: 30
-      note.reichweite: 132
-      note.saveart: 50
+      note.level: 49
+      note.time: 25
+      note.c: 24
   - type: table
-    name: 5e 9th level Illusion
+    name: 5e - Illusion; 9th-level
     filters:
       and:
-        - dateitags.contains("#Spell")
-        - dateitags.contains("#5e")
-        - magieschule.contains("Illusion")
+        - dateitags.containsAll("#Spell", "#5e")
+        - school.contains("Illusion")
         - magielevel == 9
     order:
       - file.name
-      - magielevel
-      - magieschule
-      - wirkzeit
-      - concentration
-      - reichweite
-      - saveart
-      - effekt
+      - level
+      - school
+      - time
+      - c
+      - range-Area
+      - save-Att
+      - effect
     sort:
-      - property: magielevel
+      - property: level
         direction: ASC
       - property: file.name
         direction: ASC
@@ -400,11 +344,8 @@ views:
     imageFit: contain
     columnSize:
       file.name: 200
-      note.magielevel: 56
-      note.magieschule: 76
-      note.wirkzeit: 55
-      note.concentration: 30
-      note.reichweite: 132
-      note.saveart: 50
+      note.level: 49
+      note.time: 25
+      note.c: 24
 
 ```

@@ -2,29 +2,28 @@
 publish: true
 title: ☄️5e - Spare the Dying☄️
 created: 2026-07-29T10:28:17.609+02:00
-modified: 2026-07-29T11:49:33.065+02:00
-published: 2026-07-29T11:49:33.065+02:00
+modified: 2026-07-30T09:38:11.919+02:00
+published: 2026-07-30T09:38:11.919+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: ""
 status: ✅
 reactionbedingung: " "
-magieschule: Necromancy
-magielevel: 0
-wirkzeit: BA
-reichweite: 15 ft.
+school: Necromancy
+level: 0
+time: BA
+range-Area: 15 ft.
 komponenten: V, S
 dauer: Instantaneous
-concentration: n
+c: " "
 zauberliste:
   - Divine
   - Primal
   - Artificer
-effekt:
+effect:
   - Healing
 ---
 
@@ -39,7 +38,7 @@ effekt:
 > |**Range/Area:**|15 ft. |
 > |**Components:**|V, S |
 > |**Duration:**|Instantaneous |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Divine,Primal,Artificer |
 

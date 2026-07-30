@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Necromancy Spellschool☄️
 created: 2026-07-23T12:21:28.513+02:00
-modified: 2026-07-29T14:33:08.289+02:00
-published: 2026-07-29T14:33:08.289+02:00
+modified: 2026-07-30T09:56:43.841+02:00
+published: 2026-07-30T09:56:43.841+02:00
 tags:
   - "#Combatrules"
   - "#5e"
@@ -17,40 +17,24 @@ Necromancy spells deal with the power of death.
 ## List of all Necromancy Spells:
 
 ```base
-properties:
-  note.saveart:
-    displayName: Attack/Save
-  note.magieschule:
-    displayName: School
-  note.magielevel:
-    displayName: Level
-  note.wirkzeit:
-    displayName: Time
-  note.reichweite:
-    displayName: Range/Area
-  note.concentration:
-    displayName: Conc.
-  note.effekt:
-    displayName: Damage/Effect
 views:
   - type: table
-    name: 5e all Necromancy Spells
+    name: 5e - Necromancy; All Spells
     filters:
       and:
-        - dateitags.contains("#Spell")
-        - dateitags.contains("#5e")
-        - magieschule.contains("Necromancy")
+        - dateitags.containsAll("#Spell", "#5e")
+        - school.contains("Necromancy")
     order:
       - file.name
-      - magielevel
-      - magieschule
-      - wirkzeit
-      - concentration
-      - reichweite
-      - saveart
-      - effekt
+      - level
+      - school
+      - time
+      - c
+      - range-Area
+      - save-Att
+      - effect
     sort:
-      - property: magielevel
+      - property: level
         direction: ASC
       - property: file.name
         direction: ASC
@@ -60,31 +44,27 @@ views:
     imageFit: contain
     columnSize:
       file.name: 200
-      note.magielevel: 56
-      note.magieschule: 76
-      note.wirkzeit: 55
-      note.concentration: 30
-      note.reichweite: 132
-      note.saveart: 50
+      note.level: 49
+      note.time: 25
+      note.c: 24
   - type: table
-    name: 5e Necromancy Cantrips
+    name: 5e - Necromancy; Cantrips
     filters:
       and:
-        - dateitags.contains("#Spell")
-        - dateitags.contains("#5e")
-        - magieschule.contains("Necromancy")
+        - dateitags.containsAll("#Spell", "#5e")
+        - school.contains("Necromancy")
         - magielevel == 0
     order:
       - file.name
-      - magielevel
-      - magieschule
-      - wirkzeit
-      - concentration
-      - reichweite
-      - saveart
-      - effekt
+      - level
+      - school
+      - time
+      - c
+      - range-Area
+      - save-Att
+      - effect
     sort:
-      - property: magielevel
+      - property: level
         direction: ASC
       - property: file.name
         direction: ASC
@@ -94,33 +74,29 @@ views:
     imageFit: contain
     columnSize:
       file.name: 200
-      note.magielevel: 56
-      note.magieschule: 76
-      note.wirkzeit: 55
-      note.concentration: 30
-      note.reichweite: 132
-      note.saveart: 50
+      note.level: 49
+      note.time: 25
+      note.c: 24
   - type: table
-    name: 5e 1st level Necromancy
+    name: 5e - Necromancy; 1st-level
     filters:
       and:
-        - dateitags.contains("#Spell")
-        - dateitags.contains("#5e")
-        - magieschule.contains("Necromancy")
+        - dateitags.containsAll("#Spell", "#5e")
+        - school.contains("Necromancy")
         - magielevel == 1
     order:
       - file.name
-      - magielevel
-      - magieschule
-      - wirkzeit
-      - concentration
-      - reichweite
-      - saveart
-      - effekt
+      - level
+      - school
+      - time
+      - c
+      - range-Area
+      - save-Att
+      - effect
     sort:
-      - property: file.name
+      - property: level
         direction: ASC
-      - property: magielevel
+      - property: file.name
         direction: ASC
     image: note.image
     cardSize: 150
@@ -128,31 +104,27 @@ views:
     imageFit: contain
     columnSize:
       file.name: 200
-      note.magielevel: 56
-      note.magieschule: 76
-      note.wirkzeit: 55
-      note.concentration: 30
-      note.reichweite: 132
-      note.saveart: 50
+      note.level: 49
+      note.time: 25
+      note.c: 24
   - type: table
-    name: 5e 2nd level Necromancy
+    name: 5e - Necromancy; 2nd-level
     filters:
       and:
-        - dateitags.contains("#Spell")
-        - dateitags.contains("#5e")
-        - magieschule.contains("Necromancy")
+        - dateitags.containsAll("#Spell", "#5e")
+        - school.contains("Necromancy")
         - magielevel == 2
     order:
       - file.name
-      - magielevel
-      - magieschule
-      - wirkzeit
-      - concentration
-      - reichweite
-      - saveart
-      - effekt
+      - level
+      - school
+      - time
+      - c
+      - range-Area
+      - save-Att
+      - effect
     sort:
-      - property: magielevel
+      - property: level
         direction: ASC
       - property: file.name
         direction: ASC
@@ -162,31 +134,27 @@ views:
     imageFit: contain
     columnSize:
       file.name: 200
-      note.magielevel: 56
-      note.magieschule: 76
-      note.wirkzeit: 55
-      note.concentration: 30
-      note.reichweite: 132
-      note.saveart: 50
+      note.level: 49
+      note.time: 25
+      note.c: 24
   - type: table
-    name: 5e 3rd level Necromancy
+    name: 5e - Necromancy; 3rd-level
     filters:
       and:
-        - dateitags.contains("#Spell")
-        - dateitags.contains("#5e")
-        - magieschule.contains("Necromancy")
+        - dateitags.containsAll("#Spell", "#5e")
+        - school.contains("Necromancy")
         - magielevel == 3
     order:
       - file.name
-      - magielevel
-      - magieschule
-      - wirkzeit
-      - concentration
-      - reichweite
-      - saveart
-      - effekt
+      - level
+      - school
+      - time
+      - c
+      - range-Area
+      - save-Att
+      - effect
     sort:
-      - property: magielevel
+      - property: level
         direction: ASC
       - property: file.name
         direction: ASC
@@ -196,31 +164,27 @@ views:
     imageFit: contain
     columnSize:
       file.name: 200
-      note.magielevel: 56
-      note.magieschule: 76
-      note.wirkzeit: 55
-      note.concentration: 30
-      note.reichweite: 132
-      note.saveart: 50
+      note.level: 49
+      note.time: 25
+      note.c: 24
   - type: table
-    name: 5e 4th level Necromancy
+    name: 5e - Necromancy; 4th-level
     filters:
       and:
-        - dateitags.contains("#Spell")
-        - dateitags.contains("#5e")
-        - magieschule.contains("Necromancy")
+        - dateitags.containsAll("#Spell", "#5e")
+        - school.contains("Necromancy")
         - magielevel == 4
     order:
       - file.name
-      - magielevel
-      - magieschule
-      - wirkzeit
-      - concentration
-      - reichweite
-      - saveart
-      - effekt
+      - level
+      - school
+      - time
+      - c
+      - range-Area
+      - save-Att
+      - effect
     sort:
-      - property: magielevel
+      - property: level
         direction: ASC
       - property: file.name
         direction: ASC
@@ -230,31 +194,27 @@ views:
     imageFit: contain
     columnSize:
       file.name: 200
-      note.magielevel: 56
-      note.magieschule: 76
-      note.wirkzeit: 55
-      note.concentration: 30
-      note.reichweite: 132
-      note.saveart: 50
+      note.level: 49
+      note.time: 25
+      note.c: 24
   - type: table
-    name: 5e 5th level Necromancy
+    name: 5e - Necromancy; 5th-level
     filters:
       and:
-        - dateitags.contains("#Spell")
-        - dateitags.contains("#5e")
-        - magieschule.contains("Necromancy")
+        - dateitags.containsAll("#Spell", "#5e")
+        - school.contains("Necromancy")
         - magielevel == 5
     order:
       - file.name
-      - magielevel
-      - magieschule
-      - wirkzeit
-      - concentration
-      - reichweite
-      - saveart
-      - effekt
+      - level
+      - school
+      - time
+      - c
+      - range-Area
+      - save-Att
+      - effect
     sort:
-      - property: magielevel
+      - property: level
         direction: ASC
       - property: file.name
         direction: ASC
@@ -264,31 +224,27 @@ views:
     imageFit: contain
     columnSize:
       file.name: 200
-      note.magielevel: 56
-      note.magieschule: 76
-      note.wirkzeit: 55
-      note.concentration: 30
-      note.reichweite: 132
-      note.saveart: 50
+      note.level: 49
+      note.time: 25
+      note.c: 24
   - type: table
-    name: 5e 6th level Necromancy
+    name: 5e - Necromancy; 6th-level
     filters:
       and:
-        - dateitags.contains("#Spell")
-        - dateitags.contains("#5e")
-        - magieschule.contains("Necromancy")
+        - dateitags.containsAll("#Spell", "#5e")
+        - school.contains("Necromancy")
         - magielevel == 6
     order:
       - file.name
-      - magielevel
-      - magieschule
-      - wirkzeit
-      - concentration
-      - reichweite
-      - saveart
-      - effekt
+      - level
+      - school
+      - time
+      - c
+      - range-Area
+      - save-Att
+      - effect
     sort:
-      - property: magielevel
+      - property: level
         direction: ASC
       - property: file.name
         direction: ASC
@@ -298,31 +254,27 @@ views:
     imageFit: contain
     columnSize:
       file.name: 200
-      note.magielevel: 56
-      note.magieschule: 76
-      note.wirkzeit: 55
-      note.concentration: 30
-      note.reichweite: 132
-      note.saveart: 50
+      note.level: 49
+      note.time: 25
+      note.c: 24
   - type: table
-    name: 5e 7th level Necromancy
+    name: 5e - Necromancy; 7th-level
     filters:
       and:
-        - dateitags.contains("#Spell")
-        - dateitags.contains("#5e")
-        - magieschule.contains("Necromancy")
+        - dateitags.containsAll("#Spell", "#5e")
+        - school.contains("Necromancy")
         - magielevel == 7
     order:
       - file.name
-      - magielevel
-      - magieschule
-      - wirkzeit
-      - concentration
-      - reichweite
-      - saveart
-      - effekt
+      - level
+      - school
+      - time
+      - c
+      - range-Area
+      - save-Att
+      - effect
     sort:
-      - property: magielevel
+      - property: level
         direction: ASC
       - property: file.name
         direction: ASC
@@ -332,31 +284,27 @@ views:
     imageFit: contain
     columnSize:
       file.name: 200
-      note.magielevel: 56
-      note.magieschule: 76
-      note.wirkzeit: 55
-      note.concentration: 30
-      note.reichweite: 132
-      note.saveart: 50
+      note.level: 49
+      note.time: 25
+      note.c: 24
   - type: table
-    name: 5e 8th level Necromancy
+    name: 5e - Necromancy; 8th-level
     filters:
       and:
-        - dateitags.contains("#Spell")
-        - dateitags.contains("#5e")
-        - magieschule.contains("Necromancy")
+        - dateitags.containsAll("#Spell", "#5e")
+        - school.contains("Necromancy")
         - magielevel == 8
     order:
       - file.name
-      - magielevel
-      - magieschule
-      - wirkzeit
-      - concentration
-      - reichweite
-      - saveart
-      - effekt
+      - level
+      - school
+      - time
+      - c
+      - range-Area
+      - save-Att
+      - effect
     sort:
-      - property: magielevel
+      - property: level
         direction: ASC
       - property: file.name
         direction: ASC
@@ -366,31 +314,27 @@ views:
     imageFit: contain
     columnSize:
       file.name: 200
-      note.magielevel: 56
-      note.magieschule: 76
-      note.wirkzeit: 55
-      note.concentration: 30
-      note.reichweite: 132
-      note.saveart: 50
+      note.level: 49
+      note.time: 25
+      note.c: 24
   - type: table
-    name: 5e 9th level Necromancy
+    name: 5e - Necromancy; 9th-level
     filters:
       and:
-        - dateitags.contains("#Spell")
-        - dateitags.contains("#5e")
-        - magieschule.contains("Necromancy")
+        - dateitags.containsAll("#Spell", "#5e")
+        - school.contains("Necromancy")
         - magielevel == 9
     order:
       - file.name
-      - magielevel
-      - magieschule
-      - wirkzeit
-      - concentration
-      - reichweite
-      - saveart
-      - effekt
+      - level
+      - school
+      - time
+      - c
+      - range-Area
+      - save-Att
+      - effect
     sort:
-      - property: magielevel
+      - property: level
         direction: ASC
       - property: file.name
         direction: ASC
@@ -400,11 +344,8 @@ views:
     imageFit: contain
     columnSize:
       file.name: 200
-      note.magielevel: 56
-      note.magieschule: 76
-      note.wirkzeit: 55
-      note.concentration: 30
-      note.reichweite: 132
-      note.saveart: 50
+      note.level: 49
+      note.time: 25
+      note.c: 24
 
 ```

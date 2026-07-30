@@ -2,25 +2,24 @@
 publish: true
 title: ☄️5e - Encode Thoughts☄️
 created: 2026-07-29T13:17:10.636+02:00
-modified: 2026-07-29T13:19:45.083+02:00
-published: 2026-07-29T13:19:45.083+02:00
+modified: 2026-07-30T09:25:05.705+02:00
+published: 2026-07-30T09:25:05.705+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: ""
 status: ✅
 reactionbedingung: " "
-magieschule: Enchantment
-magielevel: 0
-wirkzeit: A
-reichweite: Self
+school: Enchantment
+level: 0
+time: A
+range-Area: Self
 komponenten: S
 dauer: 8h
-concentration: n
-effekt:
+c: " "
+effect:
   - Utility
 zauberliste:
   - Wizard
@@ -37,7 +36,7 @@ zauberliste:
 > |**Range/Area:**|Self |
 > |**Components:**|S |
 > |**Duration:**|PT8H |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Wizard |
 

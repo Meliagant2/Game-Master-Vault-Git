@@ -2,25 +2,25 @@
 publish: true
 title: ☄️5e - Toll the Dead☄️
 created: 2026-07-29T10:40:50.209+02:00
-modified: 2026-07-29T11:49:37.640+02:00
-published: 2026-07-29T11:49:37.640+02:00
+modified: 2026-07-30T09:38:35.606+02:00
+published: 2026-07-30T09:38:35.606+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: WIS
+save-Att: WIS
 status: ✅
 reactionbedingung: " "
-magieschule: Necromancy
-magielevel: 0
-wirkzeit: A
-reichweite: 60 ft.
+school: Necromancy
+level: 0
+time: A
+range-Area: 60 ft.
 komponenten: V, S
 dauer: Instantaneous
-concentration: n
-effekt:
+c: " "
+effect:
   - Necrotic
 zauberliste:
   - Divine
@@ -37,7 +37,7 @@ zauberliste:
 > |**Range/Area:**|60 ft. |
 > |**Components:**|V, S |
 > |**Duration:**|Instantaneous |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**|WIS|
 > |**Spell List:**|Divine |
 

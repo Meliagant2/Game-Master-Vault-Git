@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Mage Hand☄️
 created: 2026-07-29T08:07:31.866+02:00
-modified: 2026-07-30T09:03:23.001+02:00
-published: 2026-07-30T09:03:23.001+02:00
+modified: 2026-07-30T09:24:40.157+02:00
+published: 2026-07-30T09:24:40.157+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -17,7 +17,7 @@ time: A
 range-Area: 30 ft.
 komponenten: V, S
 dauer: 1 Minute
-c: n
+c: " "
 effect:
   - Utility
 zauberliste:
@@ -35,7 +35,7 @@ zauberliste:
 > |**Range/Area:**|30 ft. |
 > |**Components:**|V, S |
 > |**Duration:**|1 Minute |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane |
 

@@ -2,24 +2,24 @@
 publish: true
 title: ☄️5e - Lightning Lure☄️
 created: 2026-07-22T14:01:34.951+02:00
-modified: 2026-07-29T11:48:26.675+02:00
-published: 2026-07-29T11:48:26.675+02:00
+modified: 2026-07-30T09:25:55.321+02:00
+published: 2026-07-30T09:25:55.321+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: STR
+save-Att: STR
 status: ✅
-magieschule: Evocation
-magielevel: 0
-wirkzeit: A
-reichweite: 15 ft.
+school: Evocation
+level: 0
+time: A
+range-Area: 15 ft.
 komponenten: V
 dauer: Instantaneous
-concentration: n
-effekt:
+c: " "
+effect:
   - Lightning
   - Pulling
 zauberliste:
@@ -33,11 +33,11 @@ zauberliste:
 > |:-|:-|
 > |**School:**|Evocation |
 > |**Level:**|0 |
-> |**Casting Time:**|A|
+> |**Casting Time:**|A |
 > |**Range/Area:**|15 ft. |
 > |**Components:**|V |
 > |**Duration:**|Instantaneous |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**|STR|
 > |**Spell List:**|Arcane |
 

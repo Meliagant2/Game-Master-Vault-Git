@@ -2,25 +2,25 @@
 publish: true
 title: ☄️5e - Starry Wisp☄️
 created: 2026-07-29T12:19:19.434+02:00
-modified: 2026-07-29T12:21:10.098+02:00
-published: 2026-07-29T12:21:10.098+02:00
+modified: 2026-07-30T09:31:15.188+02:00
+published: 2026-07-30T09:31:15.188+02:00
 tags:
   - "#Spell"
   - "#5e"
 dateitags:
   - "#Spell"
   - "#5e"
-saveart: Ranged
+save-Att: Ranged
 status: ✅
 reactionbedingung: " "
-magieschule: Evocation
-magielevel: 0
-wirkzeit: A
-reichweite: 60 ft.
+school: Evocation
+level: 0
+time: A
+range-Area: 60 ft.
 komponenten: V, S
 dauer: Instantaneous
-concentration: n
-effekt:
+c: " "
+effect:
   - Radiant
   - Light
 zauberliste:
@@ -38,7 +38,7 @@ zauberliste:
 > |**Range/Area:**|60 ft. |
 > |**Components:**|V, S |
 > |**Duration:**|Instantaneous |
-> |**Concentration:**|n |
+> |**Concentration:**|  |
 > |**Attack/Save:**|Ranged|
 > |**Spell List:**|Druid |
 
