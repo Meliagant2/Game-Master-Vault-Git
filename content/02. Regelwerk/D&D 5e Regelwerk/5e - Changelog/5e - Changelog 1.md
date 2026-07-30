@@ -1,39 +1,20 @@
 ---
 publish: true
 created: 2026-07-23T08:25:41.594+02:00
-modified: 2026-07-30T07:55:29.733+02:00
-published: 2026-07-30T07:55:29.733+02:00
+modified: 2026-07-30T08:05:46.323+02:00
+published: 2026-07-30T08:05:46.323+02:00
 tags:
   - "#Changelog"
   - "#5e"
 status: ✅
 datum: 2026-07-29
-aenderungen: |-
-  Heritages: All 
-  Destinies: Devotion, Fire, Metamorphosis
-  Classes: Adept, Fighter, Paladin
-  Spells: Many Arcane, Divine and Primal Cantrips
+aenderungen:
+  - "Heritages: All"
+  - "Destinies: Devotion, Fire, Metamorphosis"
+  - "Classes: Adept, Fighter, Paladin"
+  - "Changed Spells: Many Arcane, Divine and Primal Cantrips"
+  - "Added Spells: Added Cantrips to Arcane, Divine, Primal, Bard and Blood Hunter list"
 ---
-
-> [!metadata]- Metadata
->
-> > [!metadataoption]- Status
-> >
-> > #### Status
-> >
-> > | | |
-> > |---|---|
-> > |**Publish**|`INPUT[inlineSelect(option(true), option(false)):publish]`|
->
-> > [!metadataoption]- Info
-> >
-> > #### Info
-> >
-> > | | |
-> > |---|---|
-> > |**System:**|`INPUT[inlineListSuggester(option(#5e), option(#DC20)):tags]`   |
-> > |**Datum:** | `INPUT[datePicker:datum]`|
-> > |**Änderungen:**|`INPUT[textArea:aenderungen]`|
 
 # 5e - Changelog 1
 

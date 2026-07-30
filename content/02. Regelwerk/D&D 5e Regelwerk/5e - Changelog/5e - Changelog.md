@@ -14,10 +14,7 @@ status: ✅
 
 ### Alle 5e Changelogs
 
-| Title                                                                                   | Änderungsdatum | Änderungen                                                                                                                                |
-| --------------------------------------------------------------------------------------- | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| [[02. Regelwerk/D&D 5e Regelwerk/5e - Changelog/5e - Changelog 1.md\|5e - Changelog 1]] | 29.07.2026     | Heritages: All
-Destinies: Devotion, Fire, Metamorphosis
-Classes: Adept, Fighter, Paladin
-Spells: Many Arcane, Divine and Primal Cantrips |
-| [[02. Regelwerk/D&D 5e Regelwerk/5e - Changelog/5e - Changelog 2.md\|5e - Changelog 2]] | 30.07.2026     | -                                                                                                                                        |
+| Title                                                                                   | Änderungsdatum | Änderungen                                                                                                                                                                                                                                                                            |
+| --------------------------------------------------------------------------------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[02. Regelwerk/D&D 5e Regelwerk/5e - Changelog/5e - Changelog 1.md\|5e - Changelog 1]] | 29.07.2026     | <ul><li>Heritages: All</li><li>Destinies: Devotion, Fire, Metamorphosis</li><li>Classes: Adept, Fighter, Paladin</li><li>Changed Spells: Many Arcane, Divine and Primal Cantrips</li><li>Added Spells: Added Cantrips to Arcane, Divine, Primal, Bard and Blood Hunter list</li></ul> |
+| [[02. Regelwerk/D&D 5e Regelwerk/5e - Changelog/5e - Changelog 2.md\|5e - Changelog 2]] | 30.07.2026     | -                                                                                                                                                                                                                                                                                    |
