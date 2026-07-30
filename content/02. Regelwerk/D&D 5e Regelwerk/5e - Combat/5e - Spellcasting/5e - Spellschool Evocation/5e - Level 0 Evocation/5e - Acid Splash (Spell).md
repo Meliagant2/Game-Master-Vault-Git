@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Acid Splash☄️
 created: 2026-07-22T13:59:34.672+02:00
-modified: 2026-07-30T09:25:29.239+02:00
-published: 2026-07-30T09:25:29.239+02:00
+modified: 2026-07-30T11:24:43.088+02:00
+published: 2026-07-30T11:24:43.088+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -18,7 +18,7 @@ c: " "
 zauberliste:
   - Arcane
 time: A
-range-Area: 60 ft. (5ft. Sphere)
+range-Area: 60 ft./ 5ft. Sphere
 komponenten: V, S
 dauer: Instantaneous
 effect:
@@ -34,7 +34,7 @@ effect:
 > |**School:**|Evocation |
 > |**Level:**|0 |
 > |**Casting Time:**|A |
-> |**Range/Area:**|60 ft. (5ft. Sphere) |
+> |**Range/Area:**|60 ft./ 5ft. Sphere |
 > |**Components:**|V, S |
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|  |

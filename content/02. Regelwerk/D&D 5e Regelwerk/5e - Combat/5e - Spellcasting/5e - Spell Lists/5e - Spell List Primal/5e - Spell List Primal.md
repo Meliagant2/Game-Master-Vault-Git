@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Primal Spell List☄️
 created: 2026-07-20T12:11:02.819+02:00
-modified: 2026-07-30T09:01:28.452+02:00
-published: 2026-07-30T09:01:28.452+02:00
+modified: 2026-07-30T10:18:37.844+02:00
+published: 2026-07-30T10:18:37.844+02:00
 tags:
   - "#Combatrules"
   - "#5e"
@@ -18,21 +18,6 @@ status: ✅
 ## List of all Primal Spells:
 
 ```base
-properties:
-  note.saveart:
-    displayName: Attack/Save
-  note.magieschule:
-    displayName: School
-  note.magielevel:
-    displayName: Level
-  note.wirkzeit:
-    displayName: Time
-  note.reichweite:
-    displayName: Range/Area
-  note.concentration:
-    displayName: Conc.
-  note.effekt:
-    displayName: Damage/Effect
 views:
   - type: table
     name: 5e - Primal; All Spells

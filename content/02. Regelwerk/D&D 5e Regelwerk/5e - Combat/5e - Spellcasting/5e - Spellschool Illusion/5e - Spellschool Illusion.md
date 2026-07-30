@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Illusion Spellschool☄️
 created: 2026-07-23T11:55:35.338+02:00
-modified: 2026-07-30T09:56:21.671+02:00
-published: 2026-07-30T09:56:21.671+02:00
+modified: 2026-07-30T10:17:53.473+02:00
+published: 2026-07-30T10:17:53.473+02:00
 tags:
   - "#Combatrules"
   - "#5e"
@@ -53,7 +53,7 @@ views:
       and:
         - dateitags.containsAll("#Spell", "#5e")
         - school.contains("Illusion")
-        - magielevel == 0
+        - level == 0
     order:
       - file.name
       - level
@@ -83,7 +83,7 @@ views:
       and:
         - dateitags.containsAll("#Spell", "#5e")
         - school.contains("Illusion")
-        - magielevel == 1
+        - level == 1
     order:
       - file.name
       - level
@@ -113,7 +113,7 @@ views:
       and:
         - dateitags.containsAll("#Spell", "#5e")
         - school.contains("Illusion")
-        - magielevel == 2
+        - level == 2
     order:
       - file.name
       - level
@@ -143,7 +143,7 @@ views:
       and:
         - dateitags.containsAll("#Spell", "#5e")
         - school.contains("Illusion")
-        - magielevel == 3
+        - level == 3
     order:
       - file.name
       - level
@@ -173,7 +173,7 @@ views:
       and:
         - dateitags.containsAll("#Spell", "#5e")
         - school.contains("Illusion")
-        - magielevel == 4
+        - level == 4
     order:
       - file.name
       - level
@@ -203,7 +203,7 @@ views:
       and:
         - dateitags.containsAll("#Spell", "#5e")
         - school.contains("Illusion")
-        - magielevel == 5
+        - level == 5
     order:
       - file.name
       - level
@@ -233,7 +233,7 @@ views:
       and:
         - dateitags.containsAll("#Spell", "#5e")
         - school.contains("Illusion")
-        - magielevel == 6
+        - level == 6
     order:
       - file.name
       - level
@@ -263,7 +263,7 @@ views:
       and:
         - dateitags.containsAll("#Spell", "#5e")
         - school.contains("Illusion")
-        - magielevel == 7
+        - level == 7
     order:
       - file.name
       - level
@@ -293,7 +293,7 @@ views:
       and:
         - dateitags.containsAll("#Spell", "#5e")
         - school.contains("Illusion")
-        - magielevel == 8
+        - level == 8
     order:
       - file.name
       - level
@@ -323,7 +323,7 @@ views:
       and:
         - dateitags.containsAll("#Spell", "#5e")
         - school.contains("Illusion")
-        - magielevel == 9
+        - level == 9
     order:
       - file.name
       - level

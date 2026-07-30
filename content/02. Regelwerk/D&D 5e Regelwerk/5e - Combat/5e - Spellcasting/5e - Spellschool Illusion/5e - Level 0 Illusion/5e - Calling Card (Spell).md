@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Calling Card☄️
 created: 2026-07-29T13:52:19.339+02:00
-modified: 2026-07-30T09:34:46.028+02:00
-published: 2026-07-30T09:34:46.028+02:00
+modified: 2026-07-30T11:40:00.918+02:00
+published: 2026-07-30T11:40:00.918+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -17,7 +17,7 @@ level: 0
 time: A
 range-Area: Touch
 komponenten: S, M (a stamp)
-dauer: Until Dispelled
+dauer: 5d
 c: " "
 effect:
   - Communication
@@ -36,7 +36,7 @@ zauberliste:
 > |**Casting Time:**|A  |
 > |**Range/Area:**|Touch |
 > |**Components:**|S, M (a stamp) |
-> |**Duration:**|Until Dispelled |
+> |**Duration:**|P5D |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane,Bard |

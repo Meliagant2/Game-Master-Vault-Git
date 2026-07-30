@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Transmutation Spellschool☄️
 created: 2026-07-23T12:21:30.073+02:00
-modified: 2026-07-30T09:57:06.049+02:00
-published: 2026-07-30T09:57:06.049+02:00
+modified: 2026-07-30T10:18:03.644+02:00
+published: 2026-07-30T10:18:03.644+02:00
 tags:
   - "#Combatrules"
   - "#5e"
@@ -53,7 +53,7 @@ views:
       and:
         - dateitags.containsAll("#Spell", "#5e")
         - school.contains("Transmutation")
-        - magielevel == 0
+        - level == 0
     order:
       - file.name
       - level
@@ -83,7 +83,7 @@ views:
       and:
         - dateitags.containsAll("#Spell", "#5e")
         - school.contains("Transmutation")
-        - magielevel == 1
+        - level == 1
     order:
       - file.name
       - level
@@ -113,7 +113,7 @@ views:
       and:
         - dateitags.containsAll("#Spell", "#5e")
         - school.contains("Transmutation")
-        - magielevel == 2
+        - level == 2
     order:
       - file.name
       - level
@@ -143,7 +143,7 @@ views:
       and:
         - dateitags.containsAll("#Spell", "#5e")
         - school.contains("Transmutation")
-        - magielevel == 3
+        - level == 3
     order:
       - file.name
       - level
@@ -173,7 +173,7 @@ views:
       and:
         - dateitags.containsAll("#Spell", "#5e")
         - school.contains("Transmutation")
-        - magielevel == 4
+        - level == 4
     order:
       - file.name
       - level
@@ -203,7 +203,7 @@ views:
       and:
         - dateitags.containsAll("#Spell", "#5e")
         - school.contains("Transmutation")
-        - magielevel == 5
+        - level == 5
     order:
       - file.name
       - level
@@ -233,7 +233,7 @@ views:
       and:
         - dateitags.containsAll("#Spell", "#5e")
         - school.contains("Transmutation")
-        - magielevel == 6
+        - level == 6
     order:
       - file.name
       - level
@@ -263,7 +263,7 @@ views:
       and:
         - dateitags.containsAll("#Spell", "#5e")
         - school.contains("Transmutation")
-        - magielevel == 7
+        - level == 7
     order:
       - file.name
       - level
@@ -293,7 +293,7 @@ views:
       and:
         - dateitags.containsAll("#Spell", "#5e")
         - school.contains("Transmutation")
-        - magielevel == 8
+        - level == 8
     order:
       - file.name
       - level
@@ -323,7 +323,7 @@ views:
       and:
         - dateitags.containsAll("#Spell", "#5e")
         - school.contains("Transmutation")
-        - magielevel == 9
+        - level == 9
     order:
       - file.name
       - level
