@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Disguise Self☄️
 created: 2026-07-20T17:49:52.862+02:00
-modified: 2026-07-30T15:10:34.342+02:00
-published: 2026-07-30T15:10:34.342+02:00
+modified: 2026-07-31T08:22:52.236+02:00
+published: 2026-07-31T08:22:52.236+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -24,7 +24,6 @@ effect:
   - Social
 zauberliste:
   - Arcane
-  - Bard
 ---
 
 # ☄️5e - Disguise Self☄️
@@ -40,7 +39,7 @@ zauberliste:
 > |**Duration:**|PT1H |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
-> |**Spell List:**|Arcane,Bard |
+> |**Spell List:**|Arcane |
 
 You make yourself—including your clothing, armor, weapons, and other belongings on your person—look different until the spell ends. You can seem 30 cm shorter or taller and can appear heavier or lighter. You must adopt a form that has the same basic arrangement of limbs as you have. Otherwise, the extent of the illusion is up to you.
 

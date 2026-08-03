@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Comprehend Languages☄️
 created: 2026-07-30T10:42:01.079+02:00
-modified: 2026-07-30T15:10:38.484+02:00
-published: 2026-07-30T15:10:38.484+02:00
+modified: 2026-07-31T08:22:42.287+02:00
+published: 2026-07-31T08:22:42.287+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -24,7 +24,6 @@ effect:
   - Ritual
 zauberliste:
   - Arcane
-  - Bard
 ---
 
 # ☄️5e - Comprehend Languages☄️
@@ -40,6 +39,6 @@ zauberliste:
 > |**Duration:**|PT1H |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
-> |**Spell List:**|Arcane,Bard |
+> |**Spell List:**|Arcane |
 
 For the duration, you understand the literal meaning of any language that you hear or see signed. You also understand any written language that you see, but you must be touching the surface on which the words are written. It takes about <u>1 minute</u> to read one page of text. This spell doesn't decode symbols or secret messages.

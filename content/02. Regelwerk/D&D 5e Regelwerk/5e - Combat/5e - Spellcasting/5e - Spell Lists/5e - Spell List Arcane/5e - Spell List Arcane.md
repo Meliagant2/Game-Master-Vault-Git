@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Arcane Spell List☄️
 created: 2026-07-20T12:11:02.704+02:00
-modified: 2026-07-30T15:09:06.376+02:00
-published: 2026-07-30T15:09:06.376+02:00
+modified: 2026-07-31T08:37:53.301+02:00
+published: 2026-07-31T08:37:53.301+02:00
 tags:
   - "#Combatrules"
   - "#5e"

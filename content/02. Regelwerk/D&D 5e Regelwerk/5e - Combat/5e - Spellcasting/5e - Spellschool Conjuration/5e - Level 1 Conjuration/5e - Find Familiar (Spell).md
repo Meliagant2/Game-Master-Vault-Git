@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Find Familiar☄️
 created: 2026-07-30T16:45:58.181+02:00
-modified: 2026-07-30T16:57:05.966+02:00
-published: 2026-07-30T16:57:05.966+02:00
+modified: 2026-08-03T08:31:49.851+02:00
+published: 2026-08-03T08:31:49.851+02:00
 tags:
   - "#Spell"
   - "#5e"

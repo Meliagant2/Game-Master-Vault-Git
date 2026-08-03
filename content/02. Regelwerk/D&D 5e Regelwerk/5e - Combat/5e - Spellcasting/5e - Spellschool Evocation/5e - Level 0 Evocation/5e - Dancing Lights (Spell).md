@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Dancing Lights☄️
 created: 2026-07-21T11:21:52.716+02:00
-modified: 2026-07-30T09:25:39.489+02:00
-published: 2026-07-30T09:25:39.489+02:00
+modified: 2026-07-31T08:33:33.680+02:00
+published: 2026-07-31T08:33:33.680+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -22,6 +22,7 @@ effect:
   - Light
 zauberliste:
   - Arcane
+  - Bard
 ---
 
 # ☄️5e - Dancing Lights☄️
@@ -37,7 +38,7 @@ zauberliste:
 > |**Duration:**|1 Minute |
 > |**Concentration:**|x |
 > |**Attack/Save:**||
-> |**Spell List:**|Arcane |
+> |**Spell List:**|Arcane,Bard |
 
 You create up to <u>four</u> torch-sized lights within range, making them appear as torches, lanterns, or glowing orbs that hover in the air for the duration. You can also combine the four lights into one glowing vaguely humanoid form of Medium size. Whichever form you choose, each light sheds [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Illumination/5e - Dim Light|💡Dim Light]] in a <u>10-foot radius</u>.
 

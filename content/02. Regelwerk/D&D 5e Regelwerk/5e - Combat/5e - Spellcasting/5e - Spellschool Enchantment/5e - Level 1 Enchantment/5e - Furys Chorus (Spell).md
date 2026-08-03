@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Furys Chorus☄️
 created: 2026-07-30T17:40:59.693+02:00
-modified: 2026-07-30T17:44:25.232+02:00
-published: 2026-07-30T17:44:25.232+02:00
+modified: 2026-07-31T08:32:34.433+02:00
+published: 2026-07-31T08:32:34.433+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -15,10 +15,12 @@ reactionbedingung: " "
 c: x
 school: Enchantment
 level: 1
-time: A [R]
+time: A
 range-Area: 60 ft./ 20 ft. Sphere
 dauer: 1 Minute
 save-Att: CHA
+effect:
+  - Control
 zauberliste:
   - Bard
   - Cleric
@@ -32,7 +34,7 @@ zauberliste:
 > |:-|:-|
 > |**School:**|Enchantment |
 > |**Level:**|1 |
-> |**Casting Time:**|A \[R]  |
+> |**Casting Time:**|A  |
 > |**Range/Area:**|60 ft./ 20 ft. Sphere |
 > |**Components:**| |
 > |**Duration:**|1 Minute |

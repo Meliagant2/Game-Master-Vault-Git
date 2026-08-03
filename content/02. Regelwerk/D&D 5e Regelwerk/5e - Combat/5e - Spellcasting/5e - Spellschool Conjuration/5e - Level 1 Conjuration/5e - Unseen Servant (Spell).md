@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Unseen Servant☄️
 created: 2026-07-30T12:20:33.919+02:00
-modified: 2026-07-30T15:10:08.712+02:00
-published: 2026-07-30T15:10:08.712+02:00
+modified: 2026-07-31T08:31:39.357+02:00
+published: 2026-07-31T08:31:39.357+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -24,6 +24,7 @@ effect:
   - Ritual
 zauberliste:
   - Arcane
+  - Bard
 ---
 
 # ☄️5e - Unseen Servant☄️
@@ -39,7 +40,7 @@ zauberliste:
 > |**Duration:**|1 Hour |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
-> |**Spell List:**|Arcane |
+> |**Spell List:**|Arcane,Bard |
 
 This spell creates an Invisible, mindless, shapeless, Medium force that performs simple tasks at your command until the spell ends. The servant springs into existence in an unoccupied space on the ground within range. It has `AC 10, 1 HP, and a Strength of -4`, and it can't attack. If it drops to 0 HP, the spell ends.
 

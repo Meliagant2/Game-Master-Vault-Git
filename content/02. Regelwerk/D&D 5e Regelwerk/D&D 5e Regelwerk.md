@@ -1,9 +1,9 @@
 ---
 publish: true
-title: D&D 5e Regelwerk
+title: D&D5e Regelwerk
 created: 2026-07-20T12:11:02.432+02:00
-modified: 2026-07-29T08:42:19.026+02:00
-published: 2026-07-29T08:42:19.026+02:00
+modified: 2026-08-03T10:28:10.360+02:00
+published: 2026-08-03T10:28:10.360+02:00
 tags:
   - "#Regelwerk"
   - "#5e"
@@ -15,21 +15,67 @@ image: "[[98. Diverses/Bilder/Regelwerk Bilder/D&D 5e Regelwerk Cover.png]]"
 status: ✅
 ---
 
-# D\&D 5e Regelwerk
+# D\&D5e Regelwerk
 
-![[98. Diverses/Bilder/Regelwerk Bilder/D&D 5e Regelwerk Cover.png|D&D 5e Regelwerk Cover.png]]
-
-<br>
+![[98. Diverses/Bilder/Regelwerk Bilder/D&D 5e Regelwerk Cover.png]]
 
 > [!info] Anmerkungen
 > Der Großteil dieses Regelwerks ist von mir homebrewed. Ich habe hier die Systeme D\&D 5e 2014, D\&D 5e 2024 und A5e kombiniert. Ziel war größtmögliche Charaktervielfalt, es kann aber sein, dass bestimmte Features entsprechend unbalanced sind.
 >
 > In manchen Texten und Beschreibungen werden Orte, Personen, Götter und diverses Andere aus meiner Welt beschrieben, manchmal auch (da STRG + C -> STRG + V) aus anderen Werken. Das bitte ignorieren. Ich habe all das um Mitte/Ende 2023 verfasst, als ich noch keine richtige Struktur für Worldbuilding hatte. Manches davon könnte noch aktuell sein, aber bitte eher davon ausgehen, dass die einzig korrekten Informationen zu meiner Welt im Welt Almanach zu finden sind, nicht in diesem Regelwerk.
 
-> [!warnung] CHANGELOG
-> Ich habe bei der Übertragung von Homebrewery größtenteils Syntax und Formatierung verändert, manchmal auch Formulierungen. Ich habe aber auch bei manchen Features Änderungen durchgeführt, die Einfluss aufs Gameplay haben!
+> [!warnung] Aktueller Fortschritt der Übertragung aus Homebrewery
+>
+> ##### Changelog
 >
 > Die Changelogs sind [[02. Regelwerk/D&D 5e Regelwerk/5e - Changelog/5e - Changelog|HIER]] zu finden
+>
+> ##### Eingefügt
+>
+> - 0 Character Creation
+> - 1 Ability Scores
+> - 2 Heritage
+> - 3 Culture
+> - 4 Background
+> - 5 Destiny
+> - 6 Classes
+>   - Adept
+>   - Bard
+>   - Fighter
+>   - Paladin
+> - A12 Spellcasting
+>   - Cantrips
+>   - 1st-level Spells
+> - A14 Conditions
+>
+> ##### Ausstehend
+>
+> - 6 Classes
+>   - Artificer
+>   - Barbarian
+>   - Blood Hunter
+>   - Cleric
+>   - Druid
+>   - Marshal
+>   - Ranger
+>   - Rogue
+>   - Sorcerer
+>   - Warlock
+>   - Wizard
+> - 7 Equipment, Strongholds, Followers
+> - 8 Multiclassing, Feats & Epic Boons
+> - 9 Adventuring
+> - A10 Combat
+> - A11 Combat Maneuvers
+> - A12 Spellcasting
+>   - 2n-level Spells
+>   - 3rd-level Spells
+>   - 4th-level Spells
+>   - 5th-level Spells
+>   - 6th-level Spells
+>   - 7th-level Spells
+>   - 8th-level Spells
+>   - 9th-level Spells
 
 ## Basic Rules
 
@@ -94,8 +140,3 @@ views:
     imageFit: contain
 
 ```
-
-## Quellen
-
-> [!inspiration] Quellen
-> **Art:** Wylie Beckert, Tyler Jacobson; Cover Art vom D\&D5e 2024 Player's Handbook

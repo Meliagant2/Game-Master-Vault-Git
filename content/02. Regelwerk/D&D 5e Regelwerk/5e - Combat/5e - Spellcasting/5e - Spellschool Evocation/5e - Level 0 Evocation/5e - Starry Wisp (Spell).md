@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Starry Wisp☄️
 created: 2026-07-29T12:19:19.434+02:00
-modified: 2026-07-30T09:31:15.188+02:00
-published: 2026-07-30T09:31:15.188+02:00
+modified: 2026-07-31T08:33:44.669+02:00
+published: 2026-07-31T08:33:44.669+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -25,6 +25,7 @@ effect:
   - Light
 zauberliste:
   - Druid
+  - Bard
 ---
 
 # ☄️5e - Starry Wisp☄️
@@ -40,7 +41,7 @@ zauberliste:
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|  |
 > |**Attack/Save:**|Ranged|
-> |**Spell List:**|Druid |
+> |**Spell List:**|Druid,Bard |
 
 You launch a mote of light at one creature or object within range. Make a <u>ranged spell attack</u> against the target. On a hit, the target takes `1d8` <u>Radiant</u> damage, and until the end of your next turn, it emits [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Illumination/5e - Dim Light|💡Dim Light]] in a <u>10-foot Emanation</u> and can’t benefit from the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Invisible|☠️Invisible]] condition.
 

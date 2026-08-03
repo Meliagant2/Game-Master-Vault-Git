@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Prestidigitation☄️
 created: 2026-07-29T09:26:44.969+02:00
-modified: 2026-07-30T09:44:49.597+02:00
-published: 2026-07-30T09:44:49.597+02:00
+modified: 2026-07-31T08:38:19.051+02:00
+published: 2026-07-31T08:38:19.051+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -23,6 +23,7 @@ effect:
   - Control
 zauberliste:
   - Arcane
+  - Bard
 ---
 
 # ☄️5e - Prestidigitation☄️
@@ -38,7 +39,7 @@ zauberliste:
 > |**Duration:**|1 Hour |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
-> |**Spell List:**|Arcane |
+> |**Spell List:**|Arcane,Bard |
 
 You create a magical effect within range. Choose the effect from the options below. If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time.
 

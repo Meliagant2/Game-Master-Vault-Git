@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Illusory Script☄️
 created: 2026-07-21T11:02:16.216+02:00
-modified: 2026-07-30T15:10:19.540+02:00
-published: 2026-07-30T15:10:19.540+02:00
+modified: 2026-07-31T08:08:23.216+02:00
+published: 2026-07-31T08:08:23.216+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -23,7 +23,6 @@ effect:
   - Communication
 zauberliste:
   - Arcane
-  - Bard
 ---
 
 > [!metadata]- Metadata
@@ -69,7 +68,7 @@ zauberliste:
 > |**Duration:**|P10D |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
-> |**Spell List:**|Arcane,Bard |
+> |**Spell List:**|Arcane |
 
 You write on parchment, paper, or another suitable material and imbue it with an illusion that lasts for the duration. To you and any creatures you designate when you cast the spell, the writing appears normal, seems to be written in your hand, and conveys whatever meaning you intended when you wrote the text. To all others, the writing appears as if it were written in an unknown or magical script that is unintelligible. Alternatively, the illusion can alter the meaning, handwriting, and language of the text, though the language must be one you know.
 

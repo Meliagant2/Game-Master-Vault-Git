@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Thunderwave☄️
 created: 2026-07-30T12:16:51.428+02:00
-modified: 2026-07-30T12:20:16.456+02:00
-published: 2026-07-30T12:20:16.456+02:00
+modified: 2026-07-31T08:34:23.732+02:00
+published: 2026-07-31T08:34:23.732+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -26,6 +26,7 @@ effect:
 zauberliste:
   - Arcane
   - Primal
+  - Bard
 ---
 
 # ☄️5e - Thunderwave☄️
@@ -41,7 +42,7 @@ zauberliste:
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|  |
 > |**Attack/Save:**|CON|
-> |**Spell List:**|Arcane,Primal |
+> |**Spell List:**|Arcane,Primal,Bard |
 
 A wave of thunderous force sweeps out from you. Each creature in a <u>15-foot cube</u> originating from you makes a **CON Save**. _**Failure:**_ The Creature takes `2d8` <u>Thunder</u> damage and is pushed <u>10 feet</u> away from you. _**Success:**_ The Creature takes half the damage only.
 

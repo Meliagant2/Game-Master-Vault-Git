@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Sleep☄️
 created: 2026-07-23T12:10:07.877+02:00
-modified: 2026-07-30T15:10:13.040+02:00
-published: 2026-07-30T15:10:13.040+02:00
+modified: 2026-07-31T08:23:05.887+02:00
+published: 2026-07-31T08:23:05.887+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -24,7 +24,6 @@ effect:
   - Incapacitated
 zauberliste:
   - Arcane
-  - Bard
 ---
 
 # ☄️5e - Sleep☄️
@@ -40,7 +39,7 @@ zauberliste:
 > |**Duration:**|1 Minute |
 > |**Concentration:**|x |
 > |**Attack/Save:**|WIS|
-> |**Spell List:**|Arcane,Bard |
+> |**Spell List:**|Arcane |
 
 Each creature of your choice in a <u>5-foot-radius Sphere</u> centered on a point within range makes a **WIS Save**. _**Failure:**_ The Creature has the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]] condition until the end of its next turn, at which point it must **repeat the save**. _**Failure:**_ The Target has the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Unconscious|☠️Unconscious]] condition for the duration. The spell ends on a target if it takes damage or someone within <u>5 feet</u> of it takes an **Action** to shake it out of the spell's effect.
 

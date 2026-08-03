@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Mage Hand☄️
 created: 2026-07-29T08:07:31.866+02:00
-modified: 2026-07-30T09:24:40.157+02:00
-published: 2026-07-30T09:24:40.157+02:00
+modified: 2026-07-31T08:29:17.555+02:00
+published: 2026-07-31T08:29:17.555+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -22,6 +22,7 @@ effect:
   - Utility
 zauberliste:
   - Arcane
+  - Bard
 ---
 
 # ☄️5e - Mage Hand☄️
@@ -37,7 +38,7 @@ zauberliste:
 > |**Duration:**|1 Minute |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
-> |**Spell List:**|Arcane |
+> |**Spell List:**|Arcane,Bard |
 
 A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration. The hand vanishes if it is ever more than <u>30 feet</u> away from you or if you cast this spell again.
 

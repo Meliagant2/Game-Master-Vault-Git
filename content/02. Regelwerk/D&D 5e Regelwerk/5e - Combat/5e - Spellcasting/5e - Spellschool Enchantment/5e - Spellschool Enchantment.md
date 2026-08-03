@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Enchantment Spellschool☄️
 created: 2026-07-21T10:25:40.415+02:00
-modified: 2026-07-30T10:17:46.027+02:00
-published: 2026-07-30T10:17:46.027+02:00
+modified: 2026-07-31T08:16:38.196+02:00
+published: 2026-07-31T08:16:38.196+02:00
 tags:
   - "#Combatrules"
   - "#5e"
@@ -73,7 +73,7 @@ views:
     imageAspectRatio: 1
     imageFit: contain
     columnSize:
-      file.name: 200
+      file.name: 247
       note.level: 49
       note.time: 25
       note.c: 24

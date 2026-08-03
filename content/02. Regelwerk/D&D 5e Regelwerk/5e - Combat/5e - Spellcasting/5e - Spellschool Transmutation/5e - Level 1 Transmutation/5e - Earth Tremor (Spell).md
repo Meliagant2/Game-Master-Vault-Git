@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Earth Tremor☄️
 created: 2026-07-30T10:58:03.811+02:00
-modified: 2026-07-30T11:03:38.413+02:00
-published: 2026-07-30T11:03:38.413+02:00
+modified: 2026-07-31T08:34:11.656+02:00
+published: 2026-07-31T08:34:11.656+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -27,6 +27,7 @@ effect:
 zauberliste:
   - Arcane
   - Primal
+  - Bard
   - Cleric
 ---
 
@@ -43,7 +44,7 @@ zauberliste:
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|  |
 > |**Attack/Save:**|STR|
-> |**Spell List:**|Arcane,Primal,Cleric |
+> |**Spell List:**|Arcane,Primal,Bard,Cleric |
 
 You cause a tremor in the ground within range. Each creature other than you in that area makes a **DEX Save**. _**Failure:**_ The creature takes `2d6` <u>Bludgeoning</u> damage and is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]]. If the ground in that area is loose earth or stone, it becomes [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Environment/5e - Difficult Terrain|🏔️Difficult Terrain]] until cleared, with each <u>5-foot-diameter</u> portion requiring at least <u>1 minute</u> to clear by hand.
 

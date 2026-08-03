@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Heroism☄️
 created: 2026-07-28T11:17:38.740+02:00
-modified: 2026-07-30T16:01:55.163+02:00
-published: 2026-07-30T16:01:55.163+02:00
+modified: 2026-07-31T08:32:02.525+02:00
+published: 2026-07-31T08:32:02.525+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -12,7 +12,7 @@ dateitags:
   - "#5e"
 status: ✅
 reactionbedingung: " "
-c: C
+c: x
 school: Enchantment
 level: 1
 time: A
@@ -23,6 +23,7 @@ effect:
   - Temp. HP
   - Immunity
 zauberliste:
+  - Bard
   - Paladin
 ---
 
@@ -37,9 +38,9 @@ zauberliste:
 > |**Range/Area:**|Touch |
 > |**Components:**|V, S |
 > |**Duration:**|1 Minute |
-> |**Concentration:**|C |
+> |**Concentration:**|x |
 > |**Attack/Save:**||
-> |**Spell List:**|Paladin |
+> |**Spell List:**|Bard,Paladin |
 
 A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to being [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Frightened|☠️Frightened]] and gains <u>temporary hit points</u> equal to your spellcasting ability modifier at the start of each of its turns.
 

@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Fighter🦸‍♀️
 created: 2026-07-20T12:11:02.557+02:00
-modified: 2026-07-29T09:18:20.892+02:00
-published: 2026-07-29T09:18:20.892+02:00
+modified: 2026-07-31T11:21:45.101+02:00
+published: 2026-07-31T11:21:45.101+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -256,7 +256,7 @@ You can push yourself past your limits, if only for a moment. On your turn, you 
 
 Once you do so, you must finish a **short** or **long rest** before you can use this feature again.
 
-When you reach <u>15th level</u>, you can use this feature <u>twice</u> between each short or long rest, but only _once per turn_.
+When you reach <u>15th level</u>, you can use this feature <u>twice</u> between each short or long rest, but only <u>once per turn</u>.
 
 ### Level 2: Soldiering Knacks
 

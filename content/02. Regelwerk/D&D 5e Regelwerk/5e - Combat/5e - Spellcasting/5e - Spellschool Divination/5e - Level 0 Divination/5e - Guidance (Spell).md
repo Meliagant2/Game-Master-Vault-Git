@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Guidance☄️
 created: 2026-07-20T12:11:02.735+02:00
-modified: 2026-07-30T09:24:54.498+02:00
-published: 2026-07-30T09:24:54.498+02:00
+modified: 2026-07-31T08:25:05.549+02:00
+published: 2026-07-31T08:25:05.549+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -24,6 +24,7 @@ effect:
 zauberliste:
   - Divine
   - Primal
+  - Artificer
   - Blood Hunter
 ---
 
@@ -40,6 +41,6 @@ zauberliste:
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
-> |**Spell List:**|Divine,Primal,Blood Hunter |
+> |**Spell List:**|Divine,Primal,Artificer,Blood Hunter |
 
 You channel magical insight to the creature who makes the <u>Ability Check</u> within range. That creature can roll `1d4` and add the number rolled to the check.
