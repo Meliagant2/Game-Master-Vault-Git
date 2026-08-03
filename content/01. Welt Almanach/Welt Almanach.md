@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T10:13:14.065+02:00
-modified: 2026-08-03T10:20:05.687+02:00
-published: 2026-08-03T10:20:05.687+02:00
+modified: 2026-08-03T10:29:42.367+02:00
+published: 2026-08-03T10:29:42.367+02:00
 tags:
   - "#Weltalmanach"
 socialImage: "[[98. Diverses/Bilder/Welt Almanach/Welt Almanach Cover.png]]"
@@ -14,8 +14,6 @@ status: ⏳
 ---
 
 # Welt Almanach
-
-![[98. Diverses/Bilder/Welt Almanach/Welt Almanach Cover.png]]
 
 ## Übersicht der Welt/ Welt Almanach
 
