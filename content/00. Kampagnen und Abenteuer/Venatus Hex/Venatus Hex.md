@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-20T12:11:02.318+02:00
-modified: 2026-08-03T10:48:42.404+02:00
-published: 2026-08-03T10:48:42.404+02:00
+modified: 2026-08-03T10:49:13.140+02:00
+published: 2026-08-03T10:49:13.140+02:00
 tags:
   - "#Organisation"
   - "#Spielergruppe"
@@ -36,7 +36,7 @@ status: ⏳
 ```base
 views:
   - type: cards
-    name: Gruppenmitglieder Venatus Hex
+    name: Venatus Hex Gruppenmitglieder
     filters:
       and:
         - dateitags.contains("#SpielerPC")
@@ -52,7 +52,7 @@ views:
     cardSize: 200
     imageFit: contain
   - type: table
-    name: Session Logs
+    name: Venatus Hex Session Logs 
     filters:
       and:
         - tags.contains("#SessionNote")

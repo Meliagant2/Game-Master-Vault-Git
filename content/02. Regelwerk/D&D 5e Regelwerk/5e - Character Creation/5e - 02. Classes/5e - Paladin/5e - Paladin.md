@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Paladin🦸‍♀️
 created: 2026-07-20T12:11:02.575+02:00
-modified: 2026-07-30T10:09:58.564+02:00
-published: 2026-07-30T10:09:58.564+02:00
+modified: 2026-08-04T08:55:36.301+02:00
+published: 2026-08-04T08:55:36.301+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -227,7 +227,7 @@ In addition, you can expend <u>5 Hit Points</u> from the pool of healing to remo
 
 **<u>Spellcasting Ability:</u>** Charisma
 **<u>Spell Attack:</u>** `CHA + Proficiency Bonus`
-**<u>Spell Save DC:</u>** `10 + CHA + Proficiency Bonus`
+**<u>Spell Save DC:</u>** `8 + CHA + Proficiency Bonus`
 **<u>Spellcasting Focus:</u>** Holy Symbol
 **<u>Spell List:</u>** Paladin Spell list and Divine Spell List
 **<u>Spell Slots:</u>** The Spellcaster Table shows how many Spell Slots you have to cast Spells. To cast one of these Spells, you must expend a Slot of the Spell’s level or higher. You regain all expended spell slots when you finish a Long Rest.
@@ -461,6 +461,20 @@ views:
 ```
 
 <br>
+
+### Level 2: Channel Divinity
+
+You can channel divine energy directly from the Outer Planes, using that energy to fuel magical effects. Other Paladin features give additional Channel Divinity effect options. Each time you use this Channel Divinity, you choose which effect to create from among those you have from this class.
+
+You can use Channel Divinity <u>twice</u>. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest. You gain additional uses when you reach certain Paladin levels, as shown in the <u>Channel Divinity column</u> of the Paladin table.
+
+If a Channel Divinity effect requires a saving throw, the DC equals the **Spell Save DC** from this class’s Spellcasting feature.
+
+**<u>Abjure Foes:</u>** As a **Magic Action**, you can expend one use of your Channel Divinity to overwhelm foes with divine awe. As you present your Holy Symbol or weapon, you can target a number of creatures equal to `your CHA modifier` (minimum of one creature) that you can see within <u>60 feet</u> of yourself. Each target makes a **WIS Save**. _**Failure:**_ The Target is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Dazed|☠️Dazed]] and [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Frightened|☠️Frightened]] for <u>1 minute</u> or until it takes any damage.
+
+**<u>Harness Divine Power:</u>** As a **Bonus Action**, you touch your holy symbol, utter a prayer, and regain one expended spell slot, the level of which can be no higher than half your proficiency bonus (rounded up). The number of times you can use this feature is based on the level you’ve reached in this class: 3rd level, <u>once</u>; 7th level, <u>twice</u>; and 15th level, <u>thrice</u>. You regain all expended uses when you finish a **long rest**.
+
+**<u>Divine Sense:</u>** As a **Bonus Action**, you can open your awareness to detect <u>Celestials</u>, <u>Fiends</u>, and <u>Undead</u>. For the next <u>10 minutes</u> or until you have the Incapacitated condition, you know the location of any creature of those types within <u>60 feet</u> of yourself, and you know its creature type. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the Hallow spell. You also gain an <u>Expertise die</u> on attack rolls you make against those creatures.
 
 ### Level 2: Combat Maneuvers
 

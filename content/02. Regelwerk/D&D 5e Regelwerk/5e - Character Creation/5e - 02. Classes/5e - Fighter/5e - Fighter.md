@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Fighter🦸‍♀️
 created: 2026-07-20T12:11:02.557+02:00
-modified: 2026-07-31T11:21:45.101+02:00
-published: 2026-07-31T11:21:45.101+02:00
+modified: 2026-08-04T09:17:58.589+02:00
+published: 2026-08-04T09:17:58.589+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -250,6 +250,1862 @@ You gain an [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5
 
 Additionally, whenever you learn a new maneuver, you can choose one of the maneuvers you know and replace it with another maneuver of the same degree from a tradition you are proficient with.
 
+```base
+views:
+  - type: table
+    name: 5e - Fighter; Choose Combat Tradition
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Combattradition")
+        - classes.contains("Fighter")
+    order:
+      - file.name
+      - description
+      - classes
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Adamant Mountain All Maneuvers
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Adamant Mountain")
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Adamant Mountain 1st-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Adamant Mountain")
+        - degree == 1
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Adamant Mountain 2nd-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Adamant Mountain")
+        - degree == 2
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Adamant Mountain 3rd-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Adamant Mountain")
+        - degree == 3
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Adamant Mountain 4th-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Adamant Mountain")
+        - degree == 4
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Adamant Mountain 5th-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Adamant Mountain")
+        - degree == 5
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Arcane Knight All Maneuvers
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Arcane Knight")
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Arcane Knight 1st-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Arcane Knight")
+        - degree == 1
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Arcane Knight 2nd-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Arcane Knight")
+        - degree == 2
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Arcane Knight 3rd-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Arcane Knight")
+        - degree == 3
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Arcane Knight 4th-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Arcane Knight")
+        - degree == 4
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Arcane Knight 5th-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Arcane Knight")
+        - degree == 5
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Beast Unity All Maneuvers
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Beast Unity")
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Beast Unity 1st-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Beast Unity")
+        - degree == 1
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Beast Unity 2nd-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Beast Unity")
+        - degree == 2
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Beast Unity 3rd-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Beast Unity")
+        - degree == 3
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Beast Unity 4th-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Beast Unity")
+        - degree == 4
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Beast Unity 5th-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Beast Unity")
+        - degree == 5
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Biting Zephyr All Maneuvers
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Biting Zephyr")
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Biting Zephyr 1st-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Biting Zephyr")
+        - degree == 1
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Biting Zephyr 2nd-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Biting Zephyr")
+        - degree == 2
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Biting Zephyr 3rd-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Biting Zephyr")
+        - degree == 3
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Biting Zephyr 4th-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Biting Zephyr")
+        - degree == 4
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Biting Zephyr 5th-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Biting Zephyr")
+        - degree == 5
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Eldritch Blackguard All Maneuvers
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Eldritch Blackguard")
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Eldritch Blackguard 1st-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Eldritch Blackguard")
+        - degree == 1
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Eldritch Blackguard 2nd-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Eldritch Blackguard")
+        - degree == 2
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Eldritch Blackguard 3rd-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Eldritch Blackguard")
+        - degree == 3
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Eldritch Blackguard 4th-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Eldritch Blackguard")
+        - degree == 4
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Eldritch Blackguard 5th-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Eldritch Blackguard")
+        - degree == 5
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Mirrors Glint All Maneuvers
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Mirrors Glint")
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Mirrors Glint 1st-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Mirrors Glint")
+        - degree == 1
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Mirrors Glint 2nd-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Mirrors Glint")
+        - degree == 2
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Mirrors Glint 3rd-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Mirrors Glint")
+        - degree == 3
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Mirrors Glint 4th-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Mirrors Glint")
+        - degree == 4
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Mirrors Glint 5th-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Mirrors Glint")
+        - degree == 5
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Mist and Shade All Maneuvers
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Mist and Shade")
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Mist and Shade 1st-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Mist and Shade")
+        - degree == 1
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Mist and Shade 2nd-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Mist and Shade")
+        - degree == 2
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Mist and Shade 3rd-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Mist and Shade")
+        - degree == 3
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Mist and Shade 4th-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Mist and Shade")
+        - degree == 4
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Mist and Shade 5th-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Mist and Shade")
+        - degree == 5
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Rapid Current All Maneuvers
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Rapid Current")
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Rapid Current 1st-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Rapid Current")
+        - degree == 1
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Rapid Current 2nd-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Rapid Current")
+        - degree == 2
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Rapid Current 3rd-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Rapid Current")
+        - degree == 3
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Rapid Current 4th-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Rapid Current")
+        - degree == 4
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Rapid Current 5th-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Rapid Current")
+        - degree == 5
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Razors Edge All Maneuvers
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Razors Edge")
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Razors Edge 1st-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Razors Edge")
+        - degree == 1
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Razors Edge 2nd-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Razors Edge")
+        - degree == 2
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Razors Edge 3rd-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Razors Edge")
+        - degree == 3
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Razors Edge 4th-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Razors Edge")
+        - degree == 4
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Razors Edge 5th-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Razors Edge")
+        - degree == 5
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Sanguine Knot All Maneuvers
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Sanguine Knot")
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Sanguine Knot 1st-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Sanguine Knot")
+        - degree == 1
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Sanguine Knot 2nd-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Sanguine Knot")
+        - degree == 2
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Sanguine Knot 3rd-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Sanguine Knot")
+        - degree == 3
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Sanguine Knot 4th-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Sanguine Knot")
+        - degree == 4
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Sanguine Knot 5th-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Sanguine Knot")
+        - degree == 5
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Spirited Steed All Maneuvers
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Spirited Steed")
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Spirited Steed 1st-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Spirited Steed")
+        - degree == 1
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Spirited Steed 2nd-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Spirited Steed")
+        - degree == 2
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Spirited Steed 3rd-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Spirited Steed")
+        - degree == 3
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Spirited Steed 4th-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Spirited Steed")
+        - degree == 4
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Spirited Steed 5th-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Spirited Steed")
+        - degree == 5
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Tempered Iron All Maneuvers
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Tempered Iron")
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Tempered Iron 1st-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Tempered Iron")
+        - degree == 1
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Tempered Iron 2nd-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Tempered Iron")
+        - degree == 2
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Tempered Iron 3rd-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Tempered Iron")
+        - degree == 3
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Tempered Iron 4th-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Tempered Iron")
+        - degree == 4
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Tempered Iron 5th-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Tempered Iron")
+        - degree == 5
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Tooth and Claw All Maneuvers
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Tooth and Claw")
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Tooth and Claw 1st-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Tooth and Claw")
+        - degree == 1
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Tooth and Claw 2nd-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Tooth and Claw")
+        - degree == 2
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Tooth and Claw 3rd-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Tooth and Claw")
+        - degree == 3
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Tooth and Claw 4th-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Tooth and Claw")
+        - degree == 4
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Tooth and Claw 5th-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Tooth and Claw")
+        - degree == 5
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Unending Wheel All Maneuvers
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Unending Wheel")
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Unending Wheel 1st-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Unending Wheel")
+        - degree == 1
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Unending Wheel 2nd-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Unending Wheel")
+        - degree == 2
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Unending Wheel 3rd-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Unending Wheel")
+        - degree == 3
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Unending Wheel 4th-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Unending Wheel")
+        - degree == 4
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+  - type: table
+    name: 5e - Fighter; Unending Wheel 5th-Degree
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Maneuver")
+        - tradition.contains("Unending Wheel")
+        - degree == 5
+    order:
+      - file.name
+      - degree
+      - tradition
+      - time
+      - range-Area
+      - save-Att
+      - effect
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.degree: 84
+      note.time: 42
+      note.range-Area: 54
+
+```
+
 ### Level 2: Action Surge
 
 You can push yourself past your limits, if only for a moment. On your turn, you can take one additional **Action**, except the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Magic Action|⚔️Magic Action]].
@@ -283,7 +2139,7 @@ Over the course of your training and adventures you have picked up a variety of 
 >
 > #### Extreme Leap
 >
-> When you take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Dash|5⚔️Dash]]-Action and make a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Speed/5e - Jumping|🏃‍♀️Long Jump]] after moving no less than <u>20 feet</u>, your jump distance is <u>doubled</u> for the turn. You may spend `1 exertion` to <u>triple</u> your <u>jump distance</u> for the turn instead, and may move the full distance of your jump even if it exceeds your Speed.
+> When you take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Dash|⚔️Dash]]-Action and make a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Speed/5e - Jumping|🏃‍♀️Long Jump]] after moving no less than <u>20 feet</u>, your jump distance is <u>doubled</u> for the turn. You may spend `1 exertion` to <u>triple</u> your <u>jump distance</u> for the turn instead, and may move the full distance of your jump even if it exceeds your Speed.
 >
 > #### Mountaineer
 >

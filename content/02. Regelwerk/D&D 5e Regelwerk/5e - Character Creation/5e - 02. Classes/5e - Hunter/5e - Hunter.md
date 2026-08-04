@@ -1,17 +1,17 @@
 ---
 publish: true
-title: 5e - Blood Hunter
-created: 2026-07-20T12:11:02.526+02:00
-modified: 2026-08-04T08:07:53.684+02:00
-published: 2026-08-04T08:07:53.684+02:00
+title: 5e - Ranger
+created: 2026-07-20T12:11:02.584+02:00
+modified: 2026-07-29T08:11:23.586+02:00
+published: 2026-07-29T08:11:23.586+02:00
 tags:
   - "#Classes"
   - "#5e"
-socialImage: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
+socialImage: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Ranger 5e.png]]"
 dateitags:
   - "#Classes"
   - "#5e"
-image: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
+image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Ranger 5e.png]]"
 status: ⏳
 ---
 
@@ -43,12 +43,12 @@ status: ⏳
 > > |**Display Title** | `INPUT[textArea:title]`|
 > > |**Kurzbeschreibung** | `INPUT[textArea:kurzbeschreibung]`|
 
-# 5e - Blood Hunter
+# 5e - Ranger
 
 > [!lore] Kurzbeschreibung
 
 > [!bildrechts]
-> ![[98. Diverses/Bilder/Misc/PlaceholderImage.png|PlaceholderImage.png]]
+> ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Ranger 5e.png|Regelwerk Klasse Ranger 5e.png]]
 
 > [!charakterklasse]+ Core Class Traits
 > |  |   |
@@ -66,13 +66,13 @@ status: ⏳
 
 #### As a Level 1 Character
 
-- Gain all the traits in the Core 5e - Blood Hunter Traits table.
-- Gain the 5e - Blood Hunter’s level 1 features, which are listed in the 5e - Blood Hunter Features table.
+- Gain all the traits in the Core 5e - Hunter Traits table.
+- Gain the 5e - Hunter’s level 1 features, which are listed in the 5e - Hunter Features table.
 
 #### As a Multiclass Character
 
-- Gain the following traits from the Core 5e - Blood Hunter Traits table: Hit Point Die,
-- Gain the 5e - Blood Hunter’s level 1 features, which are listed in the 5e - Blood Hunter Features table. See the multiclassing rules to determine your available spell slots.
+- Gain the following traits from the Core 5e - Hunter Traits table: Hit Point Die,
+- Gain the 5e - Hunter’s level 1 features, which are listed in the 5e - Hunter Features table. See the multiclassing rules to determine your available spell slots.
 
 #### General Character Table
 
@@ -106,8 +106,6 @@ This table shows the general progression of every character class. Every column,
 
 > [!charakterklasse]+ Class Features Table
 
-KANN HP OPFERN UM SPELLS ZU CASTEN UND MANEUVER ZU NUTZEN!!!!!!
-
 ### Level 1: XXX
 
 ### Level 2: XXX
@@ -118,11 +116,11 @@ As long as you are not multiclassed, you gain one [[02. Regelwerk/D&D 5e Regelwe
 
 View "General Character Table" to see if you qualify for a feat at this level.
 
-### Level 3: 5e - Blood Hunter Subclass
+### Level 3: 5e - Hunter Subclass
 
-You choose one 5e - Blood Hunter Subclass, which represents you best.
+You choose one 5e - Hunter Subclass, which represents you best.
 
-Your 5e - Blood Hunter Subclass grants you features at 3rd, 6th, 9th, 13th, and again at 17th level.
+Your 5e - Hunter Subclass grants you features at 3rd, 6th, 9th, 13th, and again at 17th level.
 
 ```base
 views:
@@ -132,7 +130,7 @@ views:
       and:
         - dateitags.contains("#5e")
         - dateitags.contains("#Subclass")
-        - dateitags.contains("#Blood Hunter")
+        - dateitags.contains("#Ranger")
     image: note.image
     cardSize: 150
     imageAspectRatio: 1
@@ -148,9 +146,9 @@ View "General Character Table" to see if you qualify for a feat at this level.
 
 ### Level 5: XXX
 
-### Level 6: 5e - Blood Hunter Subclass
+### Level 6: 5e - Hunter Subclass
 
-Your 5e - Blood Hunter Subclass grants you features at 3rd, 6th, 9th, 13th, and again at 17th level.
+Your 5e - Hunter Subclass grants you features at 3rd, 6th, 9th, 13th, and again at 17th level.
 
 ### Level 7: Feat
 
@@ -160,9 +158,9 @@ View "General Character Table" to see if you qualify for a feat at this level.
 
 ### Level 8: XXX
 
-### Level 9: 5e - Blood Hunter Subclass
+### Level 9: 5e - Hunter Subclass
 
-Your 5e - Blood Hunter Subclass grants you features at 3rd, 6th, 9th, 13th, and again at 17th level.
+Your 5e - Hunter Subclass grants you features at 3rd, 6th, 9th, 13th, and again at 17th level.
 
 ### Level 10: Feat
 
@@ -178,9 +176,9 @@ As long as you are not multiclassed, you gain one feat of your choice, for which
 
 View "General Character Table" to see if you qualify for a feat at this level.
 
-### Level 13: 5e - Blood Hunter Subclass
+### Level 13: 5e - Hunter Subclass
 
-Your 5e - Blood Hunter Subclass grants you features at 3rd, 6th, 9th, 13th, and again at 17th level.
+Your 5e - Hunter Subclass grants you features at 3rd, 6th, 9th, 13th, and again at 17th level.
 
 ### Level 14: Feat
 
@@ -196,9 +194,9 @@ As long as you are not multiclassed, you gain one feat of your choice, for which
 
 View "General Character Table" to see if you qualify for a feat at this level.
 
-### Level 17: 5e - Blood Hunter Subclass
+### Level 17: 5e - Hunter Subclass
 
-Your 5e - Blood Hunter Subclass grants you features at 3rd, 6th, 9th, 13th, and again at 17th level.
+Your 5e - Hunter Subclass grants you features at 3rd, 6th, 9th, 13th, and again at 17th level.
 
 ### Level 18: Feat
 

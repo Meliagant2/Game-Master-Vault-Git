@@ -1,42 +1,22 @@
 ---
 publish: true
-title: 🗡️5e - Exertion🗡️
+title: 🤺5e - Exertion
 created: 2026-07-21T10:38:53.848+02:00
-modified: 2026-07-21T10:39:06.794+02:00
-published: 2026-07-21T10:39:06.794+02:00
+modified: 2026-08-04T09:00:19.298+02:00
+published: 2026-08-04T09:00:19.298+02:00
 tags:
   - "#Combatrules"
   - "#5e"
-socialImage: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Maneuver.png]]"
 dateitags:
-  - "#Regel"
+  - "#Combatrules"
   - "#5e"
-image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Maneuver.png]]"
-status: ⏳
+status: ✅
 ---
 
-> [!metadata]- Metadata
->
-> > [!metadataoption]- Status
-> >
-> > #### Status
-> >
-> > | | |
-> > |---|---|
-> > |**Status** | `INPUT[Status][:status]` |
-> > |**Publish**|`INPUT[inlineSelect(option(true), option(false)):publish]`|
->
-> > [!metadataoption]- Bild
-> >
-> > #### Bild
-> >
-> > | | |
-> > |---|---|
-> > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
+# 🤺5e - Exertion🤺
 
-# 🗡️5e - Exertion🗡️
+A warrior requires willpower, whether born from discipline, survival instinct, or bloodlust, to control the ebb and flow of combat around them. Every call to act beyond a typical block or strike depletes this cool disposition.
 
-## Quellen
+To use a combat maneuver, you must expend <u>exertion points</u>. You have a maximum number of exertion points as specified by your class. You regain any spent exertion points at the end of a **short** or **long rest**.
 
-> [!inspiration] Quellen
-> **Art:** Created by Kirby Wu from Noun Project
+Alternatively, you can meditate, refocus, and stretch to refill your exertion pool more quickly. You expend <u>Hit Dice</u> to do so, recovering `1d4` <u>exertion points</u> for each <u>Hit Die</u> expended. The process takes <u>1 minute</u> per expended Hit Die.

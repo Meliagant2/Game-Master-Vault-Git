@@ -2,8 +2,8 @@
 publish: true
 title: 🎎5e - Forsaken🎎
 created: 2026-07-20T18:00:21.058+02:00
-modified: 2026-07-29T08:11:23.860+02:00
-published: 2026-07-29T08:11:23.860+02:00
+modified: 2026-08-04T07:17:13.006+02:00
+published: 2026-08-04T07:17:13.006+02:00
 tags:
   - "#Culture"
   - "#5e"
@@ -20,9 +20,7 @@ sprachen:
 
 # 🎎5e - Forsaken🎎
 
-In world-shaking catastrophes where magic, disasters, and monsters ran rampant, there were those that gritted their teeth and adapted to survive rather than flee their homes. Such cataclysms are now stories of a distant past, and descendants of the survivors continue
-\column
-to channel and embrace the unpredictability of the magical energies surrounding their ruined lands.
+In world-shaking catastrophes where magic, disasters, and monsters ran rampant, there were those that gritted their teeth and adapted to survive rather than flee their homes. Such cataclysms are now stories of a distant past, and descendants of the survivors continue to channel and embrace the unpredictability of the magical energies surrounding their ruined lands.
 
 Despite having lost most everything — sometimes more than once — these people remain optimistic. They are not bound by tradition and are the culture least likely to be obsessed with the glory of past kingdoms.
 

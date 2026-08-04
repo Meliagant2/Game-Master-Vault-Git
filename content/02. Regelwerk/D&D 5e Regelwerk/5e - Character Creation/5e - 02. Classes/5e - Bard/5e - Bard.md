@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Bard🦸‍♀️
 created: 2026-07-20T12:11:02.526+02:00
-modified: 2026-07-29T11:45:30.590+02:00
-published: 2026-07-29T11:45:30.590+02:00
+modified: 2026-08-04T08:55:26.614+02:00
+published: 2026-08-04T08:55:26.614+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -207,7 +207,7 @@ Whenever you gain a bard level, you may swap one battle hymn you know for a new 
 
 **<u>Spellcasting Ability:</u>** Charisma
 **<u>Spell Attack:</u>** `CHA + Proficiency Bonus`
-**<u>Spell Save DC:</u>** `10 + CHA + Proficiency Bonus`
+**<u>Spell Save DC:</u>** `8 + CHA + Proficiency Bonus`
 **<u>Spellcasting Focus:</u>** Musical Instruments
 **<u>Spell List:</u>** Bard Spell list and choose one: Arcane, Divine, Primal
 **<u>Spell Slots:</u>** The Spellcaster Table shows how many Spell Slots you have to cast Spells. To cast one of these Spells, you must expend a Slot of the Spell’s level or higher. You regain all expended spell slots when you finish a Long Rest.
