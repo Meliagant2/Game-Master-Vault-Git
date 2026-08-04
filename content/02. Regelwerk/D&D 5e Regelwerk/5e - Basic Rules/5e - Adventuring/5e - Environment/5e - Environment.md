@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 🏃‍♀️5e - Environment🏃‍♀️
+title: 🏔️5e - Environment
 created: 2026-07-27T14:46:05.014+02:00
-modified: 2026-07-29T08:11:20.118+02:00
-published: 2026-07-29T08:11:20.118+02:00
+modified: 2026-08-04T10:32:06.722+02:00
+published: 2026-08-04T10:32:06.722+02:00
 tags:
   - "#Charaktererstellung"
   - "#Grundregeln"
@@ -11,7 +11,7 @@ tags:
 status: ✅
 ---
 
-# 🏃‍♀️5e - Environment🏃‍♀️
+# 🏔️5e - Environment🏔️
 
 Not all dangers while adventuring are from enemies, monsters, and beasts. Whether urban or rural, the very environment a hero must traverse in order to complete their quest (or the battlefield they find themselves on) can present a multitude of hazards.
 

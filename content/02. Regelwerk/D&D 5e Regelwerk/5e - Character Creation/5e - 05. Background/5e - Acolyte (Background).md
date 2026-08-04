@@ -2,8 +2,8 @@
 publish: true
 title: ⛏️5e - Acolyte⛏️
 created: 2026-07-21T11:36:37.112+02:00
-modified: 2026-07-29T08:11:24.078+02:00
-published: 2026-07-29T08:11:24.078+02:00
+modified: 2026-08-04T10:41:55.548+02:00
+published: 2026-08-04T10:41:55.548+02:00
 tags:
   - "#Background"
   - "#5e"

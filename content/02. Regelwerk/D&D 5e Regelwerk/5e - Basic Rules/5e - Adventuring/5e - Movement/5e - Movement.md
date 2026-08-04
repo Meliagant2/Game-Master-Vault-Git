@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 🏃‍♀️5e - Movement🏃‍♀️
+title: 🏃‍♀️5e - Movement
 created: 2026-07-20T12:11:02.868+02:00
-modified: 2026-07-29T08:11:20.461+02:00
-published: 2026-07-29T08:11:20.461+02:00
+modified: 2026-08-04T10:32:10.334+02:00
+published: 2026-08-04T10:32:10.334+02:00
 tags:
   - "#Charaktererstellung"
   - "#Grundregeln"

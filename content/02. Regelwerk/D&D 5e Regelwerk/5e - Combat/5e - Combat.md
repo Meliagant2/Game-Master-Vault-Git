@@ -1,9 +1,9 @@
 ---
 publish: true
-title: ⚔️5e - Combat⚔️
+title: ⚔️5e - Combat
 created: 2026-07-20T12:11:02.981+02:00
-modified: 2026-07-21T11:51:43.342+02:00
-published: 2026-07-21T11:51:43.342+02:00
+modified: 2026-08-04T10:45:00.032+02:00
+published: 2026-08-04T10:45:00.032+02:00
 tags:
   - "#Combat"
   - "#5e"

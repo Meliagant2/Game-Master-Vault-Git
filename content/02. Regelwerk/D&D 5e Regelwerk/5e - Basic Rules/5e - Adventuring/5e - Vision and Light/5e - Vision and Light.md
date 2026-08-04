@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 👁️5e - Vision and Light👁️
+title: 👁️5e - Vision and Light
 created: 2026-07-27T15:01:28.571+02:00
-modified: 2026-07-29T08:11:21.878+02:00
-published: 2026-07-29T08:11:21.878+02:00
+modified: 2026-08-04T10:32:16.726+02:00
+published: 2026-08-04T10:32:16.726+02:00
 tags:
   - "#Charaktererstellung"
   - "#Grundregeln"
