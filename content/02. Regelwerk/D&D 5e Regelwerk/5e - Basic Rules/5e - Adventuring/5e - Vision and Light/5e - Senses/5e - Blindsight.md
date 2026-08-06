@@ -2,8 +2,8 @@
 publish: true
 title: 👁️5e - Blindsight👁️
 created: 2026-07-27T11:12:45.454+02:00
-modified: 2026-07-29T08:11:21.393+02:00
-published: 2026-07-29T08:11:21.393+02:00
+modified: 2026-08-06T10:34:36.907+02:00
+published: 2026-08-06T10:34:36.907+02:00
 tags:
   - "#Charaktererstellung"
   - "#Grundregeln"

@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Brawler
 created: 2026-08-04T11:27:16.685+02:00
-modified: 2026-08-06T09:46:15.660+02:00
-published: 2026-08-06T09:46:15.660+02:00
+modified: 2026-08-06T10:20:46.276+02:00
+published: 2026-08-06T10:20:46.276+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -32,7 +32,7 @@ You gain the following benefits:
 
 **<u>Damage rerolls:</u>** When making <u>Unarmed Strikes</u>, you roll your <u>damage dice</u> twice and use the highest result.
 
-**<u>Improvised Weaponry:</u>** You have proficiency with [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Improvised Weapons|🛠️Improvised Weapons]].
+**<u>Improvised Weaponry:</u>** You have proficiency with [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Improvised Weapons/5e - Improvised Weapons|🛠️Improvised Weapons]].
 
 **<u>Push:</u>** Your <u>Unarmed Strikes</u> gain the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Mastery/5e - Push Mastery Property|5e - Push Mastery Property]]
 

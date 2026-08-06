@@ -2,8 +2,8 @@
 publish: true
 title: 🎎5e - Collegiate🎎
 created: 2026-07-20T17:59:28.825+02:00
-modified: 2026-07-29T08:11:23.748+02:00
-published: 2026-07-29T08:11:23.748+02:00
+modified: 2026-08-06T10:04:57.980+02:00
+published: 2026-08-06T10:04:57.980+02:00
 tags:
   - "#Culture"
   - "#5e"
@@ -33,7 +33,7 @@ Characters raised in the collegiate culture share a variety of traits in common 
 
 **Languages:** You can speak, read, write, and sign <u>Common</u> and <u>three additional</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Languages]].
 **Philosophic Mind:** Your rationale shields your psyche occasionally. Once between [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Long Rest|😴Long Rests]], at the start of your turn you can suppress the effects of an [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Spellschool Enchantment|☄️Enchantment]]-Spell you are under for 1 round as your logic overrides it.
-**Practiced Artisan:** You are proficient with [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Artisan_s Tools/5e - Calligrapher_s Supplies|🛠️Calligrapher's Supplies]] and two other [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Artisan_s Tools/5e - Artisan_s Tools|🛠️Artisan's Tools]].
+**Practiced Artisan:** You are proficient with [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Artisan_s Tools/5e - Calligraphers Supplies|🛠️Calligrapher's Supplies]] and two other [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Artisan_s Tools/5e - Artisan_s Tools|🛠️Artisan's Tools]].
 **Studied Discipline:** You have extensive knowledge in certain fields. For all skill proficiencies gained through this trait, you always choose which ability score to use for these rolls (INT, WIS, or CHA). Choose one of the following:
 
 - **Architecture:** You gain proficiency in <u>Engineering</u>. You can use a **Bonus Action** to intuitively identify the weight-bearing wall or pillars of a structure, dealing double damage against it with your next weapon attack. Alternatively, you can double the hit points a structure regains from the next action you or an ally take to repair it.

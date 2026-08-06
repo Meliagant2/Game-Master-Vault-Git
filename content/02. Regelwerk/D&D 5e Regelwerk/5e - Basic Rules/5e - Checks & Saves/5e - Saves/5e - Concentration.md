@@ -2,8 +2,8 @@
 publish: true
 title: 🎲5e - Concentration🎲
 created: 2026-07-20T12:11:02.677+02:00
-modified: 2026-07-28T14:46:51.705+02:00
-published: 2026-07-28T14:46:51.705+02:00
+modified: 2026-08-06T11:34:33.326+02:00
+published: 2026-08-06T11:34:33.326+02:00
 tags:
   - "#Combatrules"
   - "#5e"
@@ -23,3 +23,5 @@ Normal activity, such as moving and attacking, doesn’t interfere with concentr
 - The spellcaster successfully casts another spell that requires concentration.
 - The Game Master may rule that a sudden interruption, such as a push, may force the spellcaster to make a **DC 10 CON Save**. On a failure, the spell ends.
 - If the spellcaster takes damage while concentrating on a spell, they must make a Constitution saving throw; on a failure, the spell ends. The DC is 10 or half the damage taken, whichever is higher.
+
+You can end Concentration at any time (**no action** required).

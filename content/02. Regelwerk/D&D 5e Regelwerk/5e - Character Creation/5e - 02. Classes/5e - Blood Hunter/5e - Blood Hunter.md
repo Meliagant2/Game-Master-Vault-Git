@@ -2,8 +2,8 @@
 publish: true
 title: 5e - Blood Hunter
 created: 2026-07-20T12:11:02.526+02:00
-modified: 2026-08-04T08:07:53.684+02:00
-published: 2026-08-04T08:07:53.684+02:00
+modified: 2026-08-06T15:36:56.129+02:00
+published: 2026-08-06T15:36:56.129+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -44,6 +44,8 @@ status: ⏳
 > > |**Kurzbeschreibung** | `INPUT[textArea:kurzbeschreibung]`|
 
 # 5e - Blood Hunter
+
+https://5e.tools/classes.html#monster%20hunter\_grimhollowpg24
 
 > [!lore] Kurzbeschreibung
 
