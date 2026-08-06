@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Brawler
 created: 2026-08-04T11:27:16.685+02:00
-modified: 2026-08-06T08:53:03.322+02:00
-published: 2026-08-06T08:53:03.322+02:00
+modified: 2026-08-06T09:46:15.660+02:00
+published: 2026-08-06T09:46:15.660+02:00
 tags:
   - "#Feat"
   - "#5e"

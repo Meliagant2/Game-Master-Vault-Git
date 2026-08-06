@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 🎒5e - Adventuring
+title: 👒5e - Adventuring
 created: 2026-07-20T12:11:02.853+02:00
-modified: 2026-08-04T10:31:50.526+02:00
-published: 2026-08-04T10:31:50.526+02:00
+modified: 2026-08-06T09:27:10.923+02:00
+published: 2026-08-06T09:27:10.923+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -64,7 +64,7 @@ status: ⏳
 > > |---|---|
 > > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
 
-# 🎒5e - Adventuring🎒
+# 👒5e - Adventuring👒
 
 The world is vast and full of danger. From the cramped and darkened tunnels of a subterranean labyrinth to the wide open expanse of the plains, the worlds you explore are bound to be full of wonder and woe in equal measure. This chapter covers the basics of adventuring through that world, including movement, social interactions, time, and more.
 

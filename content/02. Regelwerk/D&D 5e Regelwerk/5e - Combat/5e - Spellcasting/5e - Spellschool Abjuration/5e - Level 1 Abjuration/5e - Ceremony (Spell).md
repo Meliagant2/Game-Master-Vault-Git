@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Ceremony☄️
 created: 2026-07-22T14:23:47.082+02:00
-modified: 2026-07-30T15:08:55.833+02:00
-published: 2026-07-30T15:08:55.833+02:00
+modified: 2026-08-06T09:33:47.780+02:00
+published: 2026-08-06T09:33:47.780+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -43,7 +43,7 @@ zauberliste:
 
 You perform a special religious ceremony that is infused with magic. When you cast the spell, choose one of the following rites, the target of which must be within <u>10 feet</u> of you throughout the casting.
 
-**<u>Bless Water:</u>** You touch one vial of water and cause it to become [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Holy Water|💎Holy Water]].
+**<u>Bless Water:</u>** You touch one vial of water and cause it to become [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Oils/5e - Holy Water|🏺Holy Water]].
 
 **<u>Coming of Age:</u>** You touch one humanoid who is a young adult. For the next <u>24 hours</u>, whenever the target makes an <u>ability check</u>, it can roll a `d4` and add the number rolled to the ability check. A creature can benefit from this rite only once.
 

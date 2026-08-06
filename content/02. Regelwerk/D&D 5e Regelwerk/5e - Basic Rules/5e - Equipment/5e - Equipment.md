@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 🛠️5e - Equipment🛠️
+title: 🎒5e - Equipment
 created: 2026-07-20T12:11:02.653+02:00
-modified: 2026-07-21T10:08:42.356+02:00
-published: 2026-07-21T10:08:42.356+02:00
+modified: 2026-08-06T09:25:50.211+02:00
+published: 2026-08-06T09:25:50.211+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -34,7 +34,7 @@ status: ⏳
 > > |---|---|
 > > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
 
-# 🛠️5e - Equipment🛠️
+# 🎒5e - Equipment🎒
 
 ## Quellen
 

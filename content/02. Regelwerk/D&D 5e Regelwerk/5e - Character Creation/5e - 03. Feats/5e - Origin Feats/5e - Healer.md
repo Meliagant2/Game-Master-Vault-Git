@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Healer
 created: 2026-08-04T11:01:44.685+02:00
-modified: 2026-08-06T08:27:06.235+02:00
-published: 2026-08-06T08:27:06.235+02:00
+modified: 2026-08-06T09:28:20.707+02:00
+published: 2026-08-06T09:28:20.707+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -28,7 +28,7 @@ level: 0
 
 You  gain the following benefits:
 
-**<u>Physician:</u>** If you have a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Adventuring Gear/5e - Healers Kit|🛠️Healers Kit]], you can expend one use of it and tend to a creature within <u>5 feet</u> of yourself as a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Utilize|⚔️Utilize]] action. That creature can expend one of its <u>Hit Point Dice</u>, and you then roll that die. The creature regains a number of <u>Hit Points</u> equal to `the roll + your PB`.
+**<u>Physician:</u>** If you have a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Adventuring Gear/5e - Healers Kit|🪓Healers Kit]], you can expend one use of it and tend to a creature within <u>5 feet</u> of yourself as a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Utilize|⚔️Utilize]] action. That creature can expend one of its <u>Hit Point Dice</u>, and you then roll that die. The creature regains a number of <u>Hit Points</u> equal to `the roll + your PB`.
 
 **<u>Healing Rerolls:</u>** Whenever you roll a die to determine the number of Hit Points you restore with a spell or with this feat’s Physician benefit, you can reroll the die if it rolls a `1`, and you must use the new roll.
 
