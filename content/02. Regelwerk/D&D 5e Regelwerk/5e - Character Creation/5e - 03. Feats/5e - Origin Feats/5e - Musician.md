@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Musician
 created: 2026-08-04T11:27:16.685+02:00
-modified: 2026-08-04T11:31:14.528+02:00
-published: 2026-08-04T11:31:14.528+02:00
+modified: 2026-08-06T08:37:51.399+02:00
+published: 2026-08-06T08:37:51.399+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -13,6 +13,7 @@ dateitags:
 status: ✅
 category: Origin
 source: Player's Handbook 2024
+level: 0
 ---
 
 # 🥇5e - Musician🥇
@@ -21,6 +22,7 @@ source: Player's Handbook 2024
 > | | |
 > |---|---|
 > |**Category**|Origin |
+> |**Level Requirement**|0 |
 > |**Prerequisite**| |
 > |**Repeatable**| |
 

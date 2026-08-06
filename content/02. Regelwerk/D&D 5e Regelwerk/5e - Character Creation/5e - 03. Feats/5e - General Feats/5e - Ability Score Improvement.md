@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Ability Score Improvement
 created: 2026-08-04T09:48:15.683+02:00
-modified: 2026-08-04T11:19:41.675+02:00
-published: 2026-08-04T11:19:41.675+02:00
+modified: 2026-08-06T08:24:52.959+02:00
+published: 2026-08-06T08:24:52.959+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -12,9 +12,10 @@ dateitags:
   - "#5e"
 status: ✅
 category: General
-prerequisite: Lvl 4
+prerequisite: ""
 repeatable: x
 source: Player's Handbook 2014
+level: 4
 ---
 
 # 🥇5e - Ability Score Improvement🥇
@@ -23,7 +24,8 @@ source: Player's Handbook 2014
 > | | |
 > |---|---|
 > |**Category**|General |
-> |**Prerequisite**|Lvl 4 |
+> |**Level Requirement**|4 |
+> |**Prerequisite**| |
 > |**Repeatable**|x |
 
 Increase one ability score of your choice by `1`. This feat can't increase an ability score above `+5`.

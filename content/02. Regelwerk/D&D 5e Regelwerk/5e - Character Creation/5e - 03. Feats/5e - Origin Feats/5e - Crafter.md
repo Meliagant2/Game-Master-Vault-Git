@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Crafter
 created: 2026-08-04T10:55:04.218+02:00
-modified: 2026-08-04T11:19:48.551+02:00
-published: 2026-08-04T11:19:48.551+02:00
+modified: 2026-08-06T08:26:46.783+02:00
+published: 2026-08-06T08:26:46.783+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -13,6 +13,7 @@ dateitags:
 status: ✅
 category: Origin
 source: Player's Handbook 2024
+level: 0
 ---
 
 # 🥇5e - Crafter🥇
@@ -21,6 +22,7 @@ source: Player's Handbook 2024
 > | | |
 > |---|---|
 > |**Category**|Origin |
+> |**Level Requirement**|0 |
 > |**Prerequisite**| |
 > |**Repeatable**| |
 

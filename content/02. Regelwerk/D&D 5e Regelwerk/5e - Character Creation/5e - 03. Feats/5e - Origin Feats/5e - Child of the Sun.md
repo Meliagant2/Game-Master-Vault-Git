@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Child of the Sun
 created: 2026-08-04T10:49:31.609+02:00
-modified: 2026-08-04T11:19:46.206+02:00
-published: 2026-08-04T11:19:46.206+02:00
+modified: 2026-08-06T08:26:31.623+02:00
+published: 2026-08-06T08:26:31.623+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -13,6 +13,7 @@ dateitags:
 status: ✅
 category: Origin
 source: "Lorwyn: First Light"
+level: 0
 ---
 
 # 🥇5e - Child of the Sun🥇
@@ -21,6 +22,7 @@ source: "Lorwyn: First Light"
 > | | |
 > |---|---|
 > |**Category**|Origin |
+> |**Level Requirement**|0 |
 > |**Prerequisite**| |
 > |**Repeatable**| |
 

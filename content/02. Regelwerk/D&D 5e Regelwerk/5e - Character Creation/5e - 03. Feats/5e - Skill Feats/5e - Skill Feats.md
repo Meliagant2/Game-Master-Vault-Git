@@ -3,8 +3,8 @@ publish: true
 title: 🥇5e - Skill Feats
 description: Enhance a character's Skill and Tool proficiencies.
 created: 2026-08-04T09:29:16.710+02:00
-modified: 2026-08-04T10:33:07.519+02:00
-published: 2026-08-04T10:33:07.519+02:00
+modified: 2026-08-06T08:25:28.388+02:00
+published: 2026-08-06T08:25:28.388+02:00
 tags:
   - "#Charaktererstellung"
   - "#5e"
@@ -36,17 +36,19 @@ views:
     order:
       - file.name
       - category
+      - level
       - prerequisite
       - repeatable
       - source
     sort:
-      - property: source
+      - property: level
         direction: ASC
       - property: file.name
         direction: ASC
     columnSize:
       file.name: 243
-      note.prerequisite: 347
+      note.level: 30
+      note.prerequisite: 144
       note.repeatable: 34
 
 ```

@@ -3,8 +3,8 @@ publish: true
 title: 🥇5e - General Feats
 description: Grant new abilities to a character of any class.
 created: 2026-08-04T09:29:16.329+02:00
-modified: 2026-08-04T10:19:34.920+02:00
-published: 2026-08-04T10:19:34.920+02:00
+modified: 2026-08-06T08:24:45.157+02:00
+published: 2026-08-06T08:24:45.157+02:00
 tags:
   - "#Charaktererstellung"
   - "#5e"
@@ -36,17 +36,43 @@ views:
     order:
       - file.name
       - category
+      - level
       - prerequisite
       - repeatable
       - source
     sort:
-      - property: source
+      - property: level
         direction: ASC
       - property: file.name
         direction: ASC
     columnSize:
       file.name: 243
-      note.prerequisite: 347
+      note.level: 30
+      note.prerequisite: 144
+      note.repeatable: 34
+  - type: table
+    name: 5e - General, Origin and Skill Feats
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Feat")
+        - '!file.name.contains("Template")'
+        - category.containsAny("General", "Origin", "Skill")
+    order:
+      - file.name
+      - category
+      - level
+      - prerequisite
+      - repeatable
+      - source
+    sort:
+      - property: level
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 243
+      note.level: 30
+      note.prerequisite: 144
       note.repeatable: 34
 
 ```

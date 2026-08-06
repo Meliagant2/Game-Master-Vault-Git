@@ -2,8 +2,8 @@
 publish: true
 title: 💃5e - Skills💃
 created: 2026-07-20T12:11:02.903+02:00
-modified: 2026-07-29T15:35:50.251+02:00
-published: 2026-07-29T15:35:50.251+02:00
+modified: 2026-08-06T08:42:17.087+02:00
+published: 2026-08-06T08:42:17.087+02:00
 tags:
   - "#Grundregeln"
   - "#5e"

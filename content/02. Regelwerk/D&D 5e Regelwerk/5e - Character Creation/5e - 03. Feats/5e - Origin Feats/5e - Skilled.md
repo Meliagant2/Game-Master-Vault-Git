@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 🥇5e - Alert
-created: 2026-08-04T10:38:22.542+02:00
-modified: 2026-08-06T08:26:18.908+02:00
-published: 2026-08-06T08:26:18.908+02:00
+title: 🥇5e - Skilled
+created: 2026-08-04T11:27:16.685+02:00
+modified: 2026-08-06T08:43:16.657+02:00
+published: 2026-08-06T08:43:16.657+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -12,11 +12,12 @@ dateitags:
   - "#5e"
 status: ✅
 category: Origin
-source: Player's Handbook 2024
 level: 0
+source: Player's Handbook 2024
+repeatable: x
 ---
 
-# 🥇5e - Alert🥇
+# 🥇5e - Skilled🥇
 
 > [!wikibox]
 > | | |
@@ -24,13 +25,9 @@ level: 0
 > |**Category**|Origin |
 > |**Level Requirement**|0 |
 > |**Prerequisite**| |
-> |**Repeatable**| |
+> |**Repeatable**|x |
 
-You gain the following benefits:
-
-**<u>Initiative Proficiency:</u>** You add your <u>Proficiency Bonus</u> to your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Initiative|🎲Initiative]] rolls
-
-**<u>Initiative Swap:</u>** Immediately after you roll Initiative, you can swap your Initiative with the Initiative of one willing ally in the same combat. You can’t make this swap if you or the ally is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]].
+You gain proficiency in any combination of <u>three</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - Skills|💃Skills]] or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Tools|🛠️Tools]] of your choice.
 
 ### Backgrounds that grant this Feat
 

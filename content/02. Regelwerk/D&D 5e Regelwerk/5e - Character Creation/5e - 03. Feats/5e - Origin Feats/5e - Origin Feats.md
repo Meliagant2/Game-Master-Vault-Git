@@ -3,8 +3,8 @@ publish: true
 title: 🥇5e - Origin Feats
 description: Available to Characters through their Background.
 created: 2026-08-04T10:02:13.169+02:00
-modified: 2026-08-04T10:27:07.871+02:00
-published: 2026-08-04T10:27:07.871+02:00
+modified: 2026-08-06T08:25:24.245+02:00
+published: 2026-08-06T08:25:24.245+02:00
 tags:
   - "#Charaktererstellung"
   - "#5e"
@@ -36,17 +36,19 @@ views:
     order:
       - file.name
       - category
+      - level
       - prerequisite
       - repeatable
       - source
     sort:
-      - property: source
+      - property: level
         direction: ASC
       - property: file.name
         direction: ASC
     columnSize:
       file.name: 243
-      note.prerequisite: 347
+      note.level: 30
+      note.prerequisite: 144
       note.repeatable: 34
 
 ```

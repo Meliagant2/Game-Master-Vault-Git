@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 🥇5e - Alert
-created: 2026-08-04T10:38:22.542+02:00
-modified: 2026-08-06T08:26:18.908+02:00
-published: 2026-08-06T08:26:18.908+02:00
+title: 🥇5e - Savage Attacker
+created: 2026-08-04T11:27:16.685+02:00
+modified: 2026-08-06T08:50:51.500+02:00
+published: 2026-08-06T08:50:51.500+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -12,11 +12,11 @@ dateitags:
   - "#5e"
 status: ✅
 category: Origin
-source: Player's Handbook 2024
 level: 0
+source: Baldur's Gate 3
 ---
 
-# 🥇5e - Alert🥇
+# 🥇5e - Savage Attacker🥇
 
 > [!wikibox]
 > | | |
@@ -26,11 +26,7 @@ level: 0
 > |**Prerequisite**| |
 > |**Repeatable**| |
 
-You gain the following benefits:
-
-**<u>Initiative Proficiency:</u>** You add your <u>Proficiency Bonus</u> to your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Initiative|🎲Initiative]] rolls
-
-**<u>Initiative Swap:</u>** Immediately after you roll Initiative, you can swap your Initiative with the Initiative of one willing ally in the same combat. You can’t make this swap if you or the ally is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]].
+When making <u>melee weapon attacks</u>, you roll your <u>weapon's Damage Dice</u> twice and use the highest result.
 
 ### Backgrounds that grant this Feat
 
@@ -63,4 +59,4 @@ views:
 ## Quelle
 
 > [!inspiration] Quelle/Inspiration
-> Player's Handbook 2024
+> Baldur's Gate 3

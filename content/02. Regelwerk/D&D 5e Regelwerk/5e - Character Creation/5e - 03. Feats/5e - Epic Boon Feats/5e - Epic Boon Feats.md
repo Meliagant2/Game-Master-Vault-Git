@@ -3,8 +3,8 @@ publish: true
 title: 🥇5e - Epic Boon Feats
 description: The most powerful of Feats, only available at 20th level.
 created: 2026-08-04T09:29:15.695+02:00
-modified: 2026-08-04T10:17:59.215+02:00
-published: 2026-08-04T10:17:59.215+02:00
+modified: 2026-08-06T08:25:19.766+02:00
+published: 2026-08-06T08:25:19.766+02:00
 tags:
   - "#Charaktererstellung"
   - "#5e"
@@ -32,17 +32,19 @@ views:
     order:
       - file.name
       - category
+      - level
       - prerequisite
       - repeatable
       - source
     sort:
-      - property: source
+      - property: level
         direction: ASC
       - property: file.name
         direction: ASC
     columnSize:
       file.name: 243
-      note.prerequisite: 347
+      note.level: 30
+      note.prerequisite: 144
       note.repeatable: 34
 
 ```
