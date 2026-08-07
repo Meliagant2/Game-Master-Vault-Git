@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Telepathic
 created: 2026-08-06T15:26:06.738+02:00
-modified: 2026-08-06T15:27:44.595+02:00
-published: 2026-08-06T15:27:44.595+02:00
+modified: 2026-08-07T09:56:00.597+02:00
+published: 2026-08-07T09:56:00.597+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -12,7 +12,7 @@ dateitags:
   - "#5e"
 status: ✅
 category: Skill
-level: 4
+level: 2
 source: Player's Handbook 2024
 ---
 
@@ -22,7 +22,7 @@ source: Player's Handbook 2024
 > | | |
 > |---|---|
 > |**Category**|Skill |
-> |**Level Requirement**|4 |
+> |**Level Requirement**|2 |
 > |**Prerequisite**| |
 > |**Repeatable**| |
 

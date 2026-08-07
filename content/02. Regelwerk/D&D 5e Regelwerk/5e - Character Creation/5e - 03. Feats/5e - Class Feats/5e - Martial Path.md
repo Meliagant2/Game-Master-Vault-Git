@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Martial Path
 created: 2026-08-06T13:05:44.637+02:00
-modified: 2026-08-06T13:44:31.012+02:00
-published: 2026-08-06T13:44:31.012+02:00
+modified: 2026-08-07T14:24:22.793+02:00
+published: 2026-08-07T14:24:22.793+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -40,28 +40,28 @@ You gain the following benefits. This allows you to pick Class Feats, that requi
 
 #### Martial Table
 
-| Level | Exertion | Maneuvers Known | Maneuver Degree |
-| :---: | :------: | :-------------: | :-------------: |
-|  1st  |    2     |        1        |       1st       |
-|  2nd  |    2     |        1        |       1st       |
-|  3rd  |    2     |        1        |       1st       |
-|  4th  |    2     |        1        |       1st       |
-|  5th  |    3     |        2        |       1st       |
-|  6th  |    3     |        2        |       1st       |
-|  7th  |    3     |        2        |       1st       |
-|  8th  |    3     |        2        |       1st       |
-|  9th  |    4     |        3        |       2nd       |
-| 10th  |    4     |        3        |       2nd       |
-| 11th  |    4     |        3        |       2nd       |
-| 12th  |    4     |        3        |       2nd       |
-| 13th  |    5     |        4        |       2nd       |
-| 14th  |    5     |        4        |       2nd       |
-| 15th  |    5     |        4        |       2nd       |
-| 16th  |    5     |        4        |       2nd       |
-| 17th  |    6     |        5        |       3rd       |
-| 18th  |    6     |        5        |       3rd       |
-| 19th  |    6     |        5        |       3rd       |
-| 20th  |    6     |        5        |       3rd       |
+| Level | Exertion | Maneuvers Known | Maneuver Degree | Attacks per Attack Action |
+| :---: | :------: | :-------------: | :-------------: | :-----------------------: |
+|  1st  |    2     |        1        |       1st       |             1             |
+|  2nd  |    2     |        1        |       1st       |             1             |
+|  3rd  |    2     |        1        |       1st       |             1             |
+|  4th  |    2     |        1        |       1st       |             1             |
+|  5th  |    3     |        2        |       1st       |             1             |
+|  6th  |    3     |        2        |       1st       |             1             |
+|  7th  |    3     |        2        |       1st       |             2             |
+|  8th  |    3     |        2        |       1st       |             2             |
+|  9th  |    4     |        3        |       2nd       |             2             |
+| 10th  |    4     |        3        |       2nd       |             2             |
+| 11th  |    4     |        3        |       2nd       |             2             |
+| 12th  |    4     |        3        |       2nd       |             2             |
+| 13th  |    5     |        4        |       2nd       |             2             |
+| 14th  |    5     |        4        |       2nd       |             2             |
+| 15th  |    5     |        4        |       2nd       |             2             |
+| 16th  |    5     |        4        |       2nd       |             2             |
+| 17th  |    6     |        5        |       3rd       |             2             |
+| 18th  |    6     |        5        |       3rd       |             2             |
+| 19th  |    6     |        5        |       3rd       |             2             |
+| 20th  |    6     |        5        |       3rd       |             2             |
 
 ## Quelle
 

@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Medic
 created: 2026-08-04T11:05:05.862+02:00
-modified: 2026-08-06T11:54:31.920+02:00
-published: 2026-08-06T11:54:31.920+02:00
+modified: 2026-08-07T09:14:19.730+02:00
+published: 2026-08-07T09:14:19.730+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -12,7 +12,7 @@ dateitags:
   - "#5e"
 status: ✅
 category: Skill
-prerequisite: Healer Origin Feat
+prerequisite: Healer Feat
 level: 2
 ---
 
@@ -23,7 +23,7 @@ level: 2
 > |---|---|
 > |**Category**|Skill |
 > |**Level Requirement**|2 |
-> |**Prerequisite**|Healer Origin Feat |
+> |**Prerequisite**|Healer Feat |
 > |**Repeatable**| |
 
 You gain the following benefits:
