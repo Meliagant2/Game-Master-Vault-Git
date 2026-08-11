@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - College of Spirits🦸‍♀️
 created: 2026-07-23T10:41:20.409+02:00
-modified: 2026-08-07T13:38:02.388+02:00
-published: 2026-08-07T13:38:02.388+02:00
+modified: 2026-08-10T08:08:43.198+02:00
+published: 2026-08-10T08:08:43.198+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -13,7 +13,7 @@ dateitags:
 status: ✅
 hauptklasse:
   - "[[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Bard (Legacy)/5e - Bard (Legacy)]]"
-kurzbeschreibung: "Bards of the College of Spirits seek tales with inherent power—be they legends, histories, or fictions— and bring their subjects to life. "
+kurzbeschreibung: Bards of the College of Spirits seek tales with inherent power—be they legends, histories, or fictions— and bring their subjects to life.
 ---
 
 # 🦸‍♀️5e - College of Spirits🦸‍♀️

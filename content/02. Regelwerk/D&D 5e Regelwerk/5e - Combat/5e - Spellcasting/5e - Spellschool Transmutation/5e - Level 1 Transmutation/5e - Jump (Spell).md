@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Jump☄️
 created: 2026-07-30T11:43:00.576+02:00
-modified: 2026-07-30T11:44:23.383+02:00
-published: 2026-07-30T11:44:23.383+02:00
+modified: 2026-08-11T08:40:24.086+02:00
+published: 2026-08-11T08:40:24.086+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -41,6 +41,6 @@ zauberliste:
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane,Primal |
 
-You touch a willing creature. Once on each of its turns until the spell ends, that creature can jump up to <u>30 feet</u> by spending <u>10 feet</u> of movement.
+You touch a willing creature. <u>Once</u> on each of its turns until the spell ends, that creature can jump up to <u>30 feet</u> by spending <u>10 feet</u> of movement. Additionally its [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Speed/5e - Jumping|🏃‍♀️Jumping]] distance is tripled for the duration.
 
 **<u>Using a Higher-Level Spell Slot:</u>** You can target one additional creature for each spell slot level above 1.

@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Durable
 created: 2026-08-06T10:53:18.007+02:00
-modified: 2026-08-06T10:55:24.463+02:00
-published: 2026-08-06T10:55:24.463+02:00
+modified: 2026-08-10T11:49:45.078+02:00
+published: 2026-08-10T11:49:45.078+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -31,6 +31,9 @@ You gain the following benefits:
 **<u>Defy Death:</u>** You have **ADV**e on [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Saves/5e - Death Save|🎲Death Saves]].
 
 **<u>Speedy Recovery:</u>** As a **Bonus Action**, you can expend one of your <u>Hit Dice</u>, roll the die, and regain a number of <u>Hit Points</u> equal to the roll.
+
+> [!info] Feat "Upgrades"
+> Taking this Feat allows you, to take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - General Feats/5e - Remarkable Recovery|🥇Remarkable Recovery]] Feat Later
 
 ## Quelle
 

@@ -1,9 +1,9 @@
 ---
 publish: true
-title: ☄️5e - Spell Save DC☄️
+title: ☄️5e - Spell Save DC
 created: 2026-07-22T07:44:12.541+02:00
-modified: 2026-08-06T15:25:00.928+02:00
-published: 2026-08-06T15:25:00.928+02:00
+modified: 2026-08-10T09:12:38.945+02:00
+published: 2026-08-10T09:12:38.945+02:00
 tags:
   - "#Combatrules"
   - "#5e"
