@@ -1,9 +1,9 @@
 ---
 publish: true
-title: ☠️5e - Exhaustion☠️
+title: ☠️5e - Exhaustion
 created: 2026-07-29T14:55:41.435+02:00
-modified: 2026-07-29T14:57:51.692+02:00
-published: 2026-07-29T14:57:51.692+02:00
+modified: 2026-08-12T09:28:14.492+02:00
+published: 2026-08-12T09:28:14.492+02:00
 tags:
   - "#Grundregeln"
   - "#5e"

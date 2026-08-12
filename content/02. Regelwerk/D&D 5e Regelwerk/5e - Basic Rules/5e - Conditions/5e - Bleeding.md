@@ -1,9 +1,9 @@
 ---
 publish: true
-title: ☠️5e - Bleeding☠️
+title: ☠️5e - Bleeding
 created: 2026-07-27T14:01:51.898+02:00
-modified: 2026-07-29T14:45:13.415+02:00
-published: 2026-07-29T14:45:13.415+02:00
+modified: 2026-08-12T09:27:38.777+02:00
+published: 2026-08-12T09:27:38.777+02:00
 tags:
   - "#Grundregeln"
   - "#5e"

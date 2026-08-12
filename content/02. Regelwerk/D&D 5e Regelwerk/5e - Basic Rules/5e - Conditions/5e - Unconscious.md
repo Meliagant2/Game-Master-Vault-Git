@@ -1,9 +1,9 @@
 ---
 publish: true
-title: ☠️5e - Unconcious☠️
+title: ☠️5e - Unconcious
 created: 2026-07-22T12:34:23.663+02:00
-modified: 2026-07-29T15:16:41.780+02:00
-published: 2026-07-29T15:16:41.780+02:00
+modified: 2026-08-12T09:30:02.482+02:00
+published: 2026-08-12T09:30:02.482+02:00
 tags:
   - "#Grundregeln"
   - "#5e"

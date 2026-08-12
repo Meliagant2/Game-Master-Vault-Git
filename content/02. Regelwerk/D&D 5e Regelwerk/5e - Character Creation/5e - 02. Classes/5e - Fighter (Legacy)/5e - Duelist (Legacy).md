@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Duelist🦸‍♀️
 created: 2026-07-27T12:10:07.575+02:00
-modified: 2026-08-10T13:37:21.840+02:00
-published: 2026-08-10T13:37:21.840+02:00
+modified: 2026-08-12T07:43:52.800+02:00
+published: 2026-08-12T07:43:52.800+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -22,7 +22,7 @@ Dueling is about reading an opponent, getting into their head and knowing what t
 
 ### Level 3: Dueling Traditions
 
-You gain proficiency in one of the following combat traditions of your choice: [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Mirrors Glint Tradition/5e - Mirrors Glint Tradition|🤺Mirrors Glint]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Mist and Shade Tradition/5e - Mist and Shade Tradition|🤺Mist and Shade]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Rapid Current Tradition/5e - Rapid Current Tradition|🤺Rapid Current]]. When you gain this feature you can choose one of the maneuvers you know and replace it with another maneuver of the same degree or lower from your newly chosen combat tradition.
+You gain proficiency in one of the following combat traditions of your choice: [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Legacy Combat Traditions/5e - Mirrors Glint Tradition/5e - Mirrors Glint Tradition|🤺Mirrors Glint]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Legacy Combat Traditions/5e - Mist and Shade Tradition/5e - Mist and Shade Tradition|🤺Mist and Shade]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Legacy Combat Traditions/5e - Rapid Current Tradition/5e - Rapid Current Tradition|🤺Rapid Current]]. When you gain this feature you can choose one of the maneuvers you know and replace it with another maneuver of the same degree or lower from your newly chosen combat tradition.
 
 ### Level 3: Panache
 

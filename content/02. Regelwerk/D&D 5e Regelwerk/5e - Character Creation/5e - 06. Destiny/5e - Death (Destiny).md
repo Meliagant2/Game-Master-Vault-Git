@@ -2,8 +2,8 @@
 publish: true
 title: 🔮5e - Death🔮
 created: 2026-07-21T15:26:14.616+02:00
-modified: 2026-07-29T08:11:24.303+02:00
-published: 2026-07-29T08:11:24.303+02:00
+modified: 2026-08-12T07:44:29.074+02:00
+published: 2026-08-12T07:44:29.074+02:00
 tags:
   - "#Destiny"
   - "#5e"
@@ -28,7 +28,7 @@ You fulfill your destiny of Death when you end a life of pivotal importance to t
 
 Participate in the slaying of something immensely powerful or meaningful, such as a monarch, an empire, the last member of a species or culture, an immortal creature, or a god.
 
-**Fulfillment Feature: Deathly Aura:** You are an end-bringer, a frightful harbinger of the inevitable when you want to be. As an **Action**, you can spend your inspiration to emit a deathly aura in a <u>30 foot</u> radius around yourself that remains for a number of rounds equal to your <u>Proficiency Bonus</u>. Whenever a creature enters your deathly aura for the first time on their turn or starts their turn there they must make a **WIS Save** (DC = your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Save DC|🤺Maneuver Save DC]], or your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Save DC|☄️Spell Save DC]] if you have one). _**Failure:**_ Creatures are [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Frightened|☠️Frightened]] of you until your deathly aura ends. In addition, all creatures that enter your deathly aura or start their turn there make <u>Death Saves</u> and <u>CON Saves</u> at disadvantage. When you activate this ability, you can choose creatures to exclude from this effect.
+**Fulfillment Feature: Deathly Aura:** You are an end-bringer, a frightful harbinger of the inevitable when you want to be. As an **Action**, you can spend your inspiration to emit a deathly aura in a <u>30 foot</u> radius around yourself that remains for a number of rounds equal to your <u>Proficiency Bonus</u>. Whenever a creature enters your deathly aura for the first time on their turn or starts their turn there they must make a **WIS Save** (DC = your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Rules/5e - Maneuver Save DC|🤺Maneuver Save DC]], or your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Save DC|☄️Spell Save DC]] if you have one). _**Failure:**_ Creatures are [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Frightened|☠️Frightened]] of you until your deathly aura ends. In addition, all creatures that enter your deathly aura or start their turn there make <u>Death Saves</u> and <u>CON Saves</u> at disadvantage. When you activate this ability, you can choose creatures to exclude from this effect.
 
 ##### Table: Death Destiny
 

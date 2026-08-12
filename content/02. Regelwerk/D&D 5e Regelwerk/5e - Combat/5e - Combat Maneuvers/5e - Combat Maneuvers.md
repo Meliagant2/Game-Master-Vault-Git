@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Combat Maneuvers🤺
 created: 2026-07-20T12:11:02.666+02:00
-modified: 2026-08-04T09:19:55.944+02:00
-published: 2026-08-04T09:19:55.944+02:00
+modified: 2026-08-12T07:44:27.921+02:00
+published: 2026-08-12T07:44:27.921+02:00
 tags:
   - "#Combatrules"
   - "#5e"
@@ -62,7 +62,7 @@ Adventurers can do much more than just hit an opponent or dodge a blow, instead 
 
 You know a number of <u>combat maneuvers</u> determined by your class and class level. Your known combat maneuvers are chosen from the combat traditions you are proficient with. Whenever you learn a new maneuver, you can choose one of the maneuvers you know and replace it with another maneuver of the same degree or lower.
 
-Using a combat maneuver requires spending one or more [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Exertion|🤺Exertion]] points and either an **Action**, **Bonus Action**, or **Reaction**. Certain combat maneuvers require two or more attacks (from Extra Attacks or the use of other class features), and if you are unable to use the Attack action to make as many attacks on your turn as the combat maneuver requires, you cannot use that combat maneuver.
+Using a combat maneuver requires spending one or more [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Rules/5e - Exertion|🤺Exertion]] points and either an **Action**, **Bonus Action**, or **Reaction**. Certain combat maneuvers require two or more attacks (from Extra Attacks or the use of other class features), and if you are unable to use the Attack action to make as many attacks on your turn as the combat maneuver requires, you cannot use that combat maneuver.
 
 A maneuver sometimes forces a target to make a <u>Save</u> to resist its effects. The **saving throw DC** is calculated as follows:
 
@@ -86,7 +86,7 @@ A warrior requires willpower, whether born from discipline, survival instinct, o
 
 To use a combat maneuver, you must expend <u>exertion points</u>. You have a maximum number of exertion points as specified by your class. You regain any spent exertion points at the end of a **short** or **long rest**.
 
-Alternatively, you can meditate, refocus, and stretch to refill your exertion pool more quickly. You expend <u>Hit Dice</u> to do so, recovering `1d4` <u>exertion points</u> for each <u>Hit Die</u> expended. The process takes <u>1 minute</u> per expended Hit Die.
+Alternatively, you can meditate, refocus, and stretch to refill your exertion pool more quickly. As an **Action** you expend <u>Hit Dice</u> to do so, recovering `1d4` <u>exertion points</u> for each <u>Hit Die</u> expended.
 
 ## Quellen
 

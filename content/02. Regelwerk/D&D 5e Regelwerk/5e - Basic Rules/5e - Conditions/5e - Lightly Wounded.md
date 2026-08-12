@@ -1,9 +1,9 @@
 ---
 publish: true
-title: ☠️5e - Lightly Wounded☠️
+title: ☠️5e - Lightly Wounded
 created: 2026-07-28T15:19:17.765+02:00
-modified: 2026-07-29T15:18:53.026+02:00
-published: 2026-07-29T15:18:53.026+02:00
+modified: 2026-08-12T09:29:06.841+02:00
+published: 2026-08-12T09:29:06.841+02:00
 tags:
   - "#Grundregeln"
   - "#5e"

@@ -1,9 +1,9 @@
 ---
 publish: true
-title: ☠️5e - Burning☠️
+title: ☠️5e - Burning
 created: 2026-07-28T09:57:16.144+02:00
-modified: 2026-07-29T14:48:31.987+02:00
-published: 2026-07-29T14:48:31.987+02:00
+modified: 2026-08-12T09:27:52.542+02:00
+published: 2026-08-12T09:27:52.542+02:00
 tags:
   - "#Grundregeln"
   - "#5e"

@@ -1,9 +1,9 @@
 ---
 publish: true
-title: ☠️5e - Unseen☠️
+title: ☠️5e - Unseen
 created: 2026-07-29T14:46:28.264+02:00
-modified: 2026-07-29T15:17:22.959+02:00
-published: 2026-07-29T15:17:22.959+02:00
+modified: 2026-08-12T09:30:07.715+02:00
+published: 2026-08-12T09:30:07.715+02:00
 tags:
   - "#Grundregeln"
   - "#5e"

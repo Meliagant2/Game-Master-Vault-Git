@@ -1,9 +1,9 @@
 ---
 publish: true
-title: ☠️5e - Heavily Wounded☠️
+title: ☠️5e - Heavily Wounded
 created: 2026-07-28T15:19:17.765+02:00
-modified: 2026-07-29T15:19:37.362+02:00
-published: 2026-07-29T15:19:37.362+02:00
+modified: 2026-08-12T09:28:35.832+02:00
+published: 2026-08-12T09:28:35.832+02:00
 tags:
   - "#Grundregeln"
   - "#5e"

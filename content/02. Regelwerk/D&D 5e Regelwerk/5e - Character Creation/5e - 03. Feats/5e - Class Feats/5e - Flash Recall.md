@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Flash Recall
 created: 2026-08-06T15:13:48.899+02:00
-modified: 2026-08-06T15:16:03.498+02:00
-published: 2026-08-06T15:16:03.498+02:00
+modified: 2026-08-11T08:53:43.107+02:00
+published: 2026-08-11T08:53:43.107+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -12,7 +12,7 @@ dateitags:
   - "#5e"
 status: ✅
 category: Class
-level: 4
+level: 6
 prerequisite: Cleric, Druid, Paladin
 source: Tal'Dorei Campaign Setting Reborn
 ---
@@ -23,7 +23,7 @@ source: Tal'Dorei Campaign Setting Reborn
 > | | |
 > |---|---|
 > |**Category**|Class |
-> |**Level Requirement**|4 |
+> |**Level Requirement**|6 |
 > |**Prerequisite**|Cleric, Druid, Paladin |
 > |**Repeatable**| |
 

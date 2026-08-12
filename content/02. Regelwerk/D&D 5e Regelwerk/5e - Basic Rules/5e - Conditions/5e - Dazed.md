@@ -1,9 +1,9 @@
 ---
 publish: true
-title: ☠️5e - Dazed☠️
+title: ☠️5e - Dazed
 created: 2026-07-29T14:50:37.443+02:00
-modified: 2026-07-29T14:51:15.442+02:00
-published: 2026-07-29T14:51:15.442+02:00
+modified: 2026-08-12T09:27:59.854+02:00
+published: 2026-08-12T09:27:59.854+02:00
 tags:
   - "#Grundregeln"
   - "#5e"

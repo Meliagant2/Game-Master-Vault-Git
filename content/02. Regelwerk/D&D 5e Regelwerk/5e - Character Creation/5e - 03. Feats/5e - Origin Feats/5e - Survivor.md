@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Survivor
 created: 2026-08-06T09:41:03.522+02:00
-modified: 2026-08-06T09:45:58.707+02:00
-published: 2026-08-06T09:45:58.707+02:00
+modified: 2026-08-11T12:00:27.041+02:00
+published: 2026-08-11T12:00:27.041+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -32,7 +32,7 @@ You gain the following benefits:
 
 **<u>Steel Yourself:</u>** When you fail a <u>Save</u> to avoid or end the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]] or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Frightened|☠️Frightened]] condition, you can take a **Reaction** to add a bonus to the roll, potentially causing it to succeed. The bonus is equal to `your Proficiency Bonus`.
 
-<u>Once</u> you take this Reaction, you can't do so again until you finish a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Long Rest|😴Long Rest]].
+**<u>Number of Uses:</u>** <u>Once</u> you take this Reaction, you can't do so again until you finish a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Long Rest|😴Long Rest]].
 
 ### Backgrounds that grant this Feat
 

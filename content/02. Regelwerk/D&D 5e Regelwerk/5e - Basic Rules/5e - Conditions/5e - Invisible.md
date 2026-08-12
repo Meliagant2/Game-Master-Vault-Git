@@ -1,9 +1,9 @@
 ---
 publish: true
-title: ☠️5e - Invisible☠️
+title: ☠️5e - Invisible
 created: 2026-07-20T12:11:03.044+02:00
-modified: 2026-07-29T15:06:06.262+02:00
-published: 2026-07-29T15:06:06.262+02:00
+modified: 2026-08-12T09:29:00.184+02:00
+published: 2026-08-12T09:29:00.184+02:00
 tags:
   - "#Grundregeln"
   - "#5e"

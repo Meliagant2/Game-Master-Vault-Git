@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Paladin🦸‍♀️
 created: 2026-07-20T12:11:02.575+02:00
-modified: 2026-08-04T08:55:36.301+02:00
-published: 2026-08-04T08:55:36.301+02:00
+modified: 2026-08-12T07:44:27.892+02:00
+published: 2026-08-12T07:44:27.892+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -478,9 +478,9 @@ If a Channel Divinity effect requires a saving throw, the DC equals the **Spell 
 
 ### Level 2: Combat Maneuvers
 
-You gain the ability to use combat maneuvers. You gain proficiency in two **combat traditions** from the following list: [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Sanguine Knot Tradition/5e - Sanguine Knot Tradition|🤺Sanguine Knot]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Spirited Steed Tradition/5e - Spirited Steed Tradition|🤺Spirited Steed]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Tempered Iron Tradition/5e - Tempered Iron Tradition|🤺Tempered Iron]]. You learn <u>two</u> <u>maneuvers</u> of your choice from traditions you are proficient with.
+You gain the ability to use combat maneuvers. You gain proficiency in two **combat traditions** from the following list: [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Legacy Combat Traditions/5e - Sanguine Knot Tradition/5e - Sanguine Knot Tradition|🤺Sanguine Knot]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Legacy Combat Traditions/5e - Spirited Steed Tradition/5e - Spirited Steed Tradition|🤺Spirited Steed]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Legacy Combat Traditions/5e - Tempered Iron Tradition/5e - Tempered Iron Tradition|🤺Tempered Iron]]. You learn <u>two</u> <u>maneuvers</u> of your choice from traditions you are proficient with.
 
-You gain an [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Exertion|🤺Exertion]] pool equal to `your proficiency bonus`, regaining any spent exertion at the end of a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Short Rest|😴Short]] or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Long Rest|😴Long Rest]]. You use your maneuvers by spending points from your <u>exertion pool</u>. Also, at the start of each of your turns you can expend spell slots of `1st-level` or higher to gain a number of exertion points equal to the expended spell slot level (**no action** required).
+You gain an [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Rules/5e - Exertion|🤺Exertion]] pool equal to `your proficiency bonus`, regaining any spent exertion at the end of a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Short Rest|😴Short]] or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Long Rest|😴Long Rest]]. You use your maneuvers by spending points from your <u>exertion pool</u>. Also, at the start of each of your turns you can expend spell slots of `1st-level` or higher to gain a number of exertion points equal to the expended spell slot level (**no action** required).
 
 The <u>Maneuvers Known column</u> of the Paladin table shows when you learn more maneuvers from a tradition you are proficient with, while the<u> Maneuver Degree</u> column shows the highest degree you can select maneuvers from at a given level.
 

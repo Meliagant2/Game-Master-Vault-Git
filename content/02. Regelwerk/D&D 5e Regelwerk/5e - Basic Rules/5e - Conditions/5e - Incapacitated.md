@@ -1,9 +1,9 @@
 ---
 publish: true
-title: ☠️5e - Incapacitated☠️
+title: ☠️5e - Incapacitated
 created: 2026-07-20T12:11:03.044+02:00
-modified: 2026-07-29T15:04:56.173+02:00
-published: 2026-07-29T15:04:56.173+02:00
+modified: 2026-08-12T09:28:50.745+02:00
+published: 2026-08-12T09:28:50.745+02:00
 tags:
   - "#Grundregeln"
   - "#5e"

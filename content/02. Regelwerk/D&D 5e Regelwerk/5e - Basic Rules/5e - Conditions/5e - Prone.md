@@ -1,9 +1,9 @@
 ---
 publish: true
-title: ☠️5e - Prone☠️
+title: ☠️5e - Prone
 created: 2026-07-20T12:11:03.057+02:00
-modified: 2026-07-30T17:13:38.236+02:00
-published: 2026-07-30T17:13:38.236+02:00
+modified: 2026-08-12T09:29:24.887+02:00
+published: 2026-08-12T09:29:24.887+02:00
 tags:
   - "#Grundregeln"
   - "#5e"

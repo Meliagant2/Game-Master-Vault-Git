@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Adept🦸‍♀️
 created: 2026-07-20T12:11:02.494+02:00
-modified: 2026-08-10T15:56:17.197+02:00
-published: 2026-08-10T15:56:17.197+02:00
+modified: 2026-08-12T07:44:28.952+02:00
+published: 2026-08-12T07:44:28.952+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -159,13 +159,13 @@ Starting at <u>11th-level</u>, your AC increases by +1.
 ### Level 1: Combat Maneuvers
 
 You gain the ability to use combat maneuvers. You gain proficiency in two **combat traditions** from the following list:
-[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Mirrors Glint Tradition/5e - Mirrors Glint Tradition|🤺Mirrors Glint]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Rapid Current Tradition/5e - Rapid Current Tradition|🤺Rapid Current]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Razors Edge Tradition/5e - Razors Edge Tradition|🤺Razors Edge]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Unending Wheel Tradition/5e - Unending Wheel Tradition|🤺Unending Wheel]]. You learn two maneuvers of your choice from traditions you are proficient with.
+[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Legacy Combat Traditions/5e - Mirrors Glint Tradition/5e - Mirrors Glint Tradition|🤺Mirrors Glint]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Legacy Combat Traditions/5e - Rapid Current Tradition/5e - Rapid Current Tradition|🤺Rapid Current]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Legacy Combat Traditions/5e - Razors Edge Tradition/5e - Razors Edge Tradition|🤺Razors Edge]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Legacy Combat Traditions/5e - Unending Wheel Tradition/5e - Unending Wheel Tradition|🤺Unending Wheel]]. You learn two maneuvers of your choice from traditions you are proficient with.
 
-You gain an [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Exertion|🤺Exertion]] pool equal to twice your proficiency bonus plus <u>half your Adept level (rounded down)</u>, regaining any spent exertion at the end of a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Short Rest|😴Short]] or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Long Rest|😴Long Rest]]. You use your maneuvers by spending points from your <u>exertion pool</u>. The <u>Maneuvers Known column</u> of the Adept table shows when you learn more maneuvers from a tradition you are proficient with, while the <u>Maneuver Degree column</u> shows the highest degree you can select maneuvers from at a given level.
+You gain an [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Rules/5e - Exertion|🤺Exertion]] pool equal to twice your proficiency bonus plus <u>half your Adept level (rounded down)</u>, regaining any spent exertion at the end of a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Short Rest|😴Short]] or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Long Rest|😴Long Rest]]. You use your maneuvers by spending points from your <u>exertion pool</u>. The <u>Maneuvers Known column</u> of the Adept table shows when you learn more maneuvers from a tradition you are proficient with, while the <u>Maneuver Degree column</u> shows the highest degree you can select maneuvers from at a given level.
 
 Additionally, whenever you learn a new maneuver, you can choose one of the maneuvers you know and replace it with another maneuver of the same degree from a tradition you are proficient with.
 
-As an adept, you gain <u>+1</u> to your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Save DC|🤺Maneuver Save DC]].
+As an adept, you gain <u>+1</u> to your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Rules/5e - Maneuver Save DC|🤺Maneuver Save DC]].
 
 ### Level 1: Martial Arts
 
@@ -409,7 +409,7 @@ Focus features stem from the mastery of your internal energies. At <u>5th level<
 >
 > #### Shockwave
 >
-> You can use an **Action** and spend <u>3 exertion</u> to hit the ground so hard it sends a shockwave in a <u>40-foot line</u> that is <u>5 feet wide</u>. Each creature in that line must make a **DEX Save**. _**Failure:**_ The creature takes <u>6d6</u> bludgeoning damage and falls [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]]. _**Success:**_ Half damage.
+> You can use an **Action** and spend <u>3 exertion</u> to hit the ground so hard it sends a shockwave in a <u>40-foot line</u> that is <u>5 feet wide</u>. Each creature in that line must make a **DEX Save**. _**Failure:**_ The creature takes <u>6d6</u> bludgeoning damage and falls [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]]. _**Success:**_ Half damage only.
 >
 > #### Warding Dance
 >
@@ -443,7 +443,7 @@ Focus features stem from the mastery of your internal energies. At <u>5th level<
 >
 > **Requirement:** <u>9th level</u>
 >
-> When you make a saving throw , you can use your **Reaction** and spend <u>2 exertion</u> to gain **ADV** on saving throws against <u>spells</u> and other <u>magical effects</u> until the beginning of your next turn.
+> When you make a saving throw, you can use your **Reaction** and spend <u>2 exertion</u> to gain **ADV** on saving throws against <u>spells</u> and other <u>magical effects</u> until the beginning of your next turn.
 >
 > #### Deflect Energy
 >
@@ -473,7 +473,7 @@ Focus features stem from the mastery of your internal energies. At <u>5th level<
 >
 > **Requirement:** <u>11th level</u>, <u>any dance</u>
 >
-> When you use a **Bonus Action** to activate a **combat maneuver** , you can spend <u>2 exertion</u> to start one of your <u>dances</u> as part of the same bonus action.
+> When you use a **Bonus Action** to activate a **combat maneuver**, you can spend <u>2 exertion</u> to start one of your <u>dances</u> as part of the same bonus action.
 >
 > #### Dual Stance
 >
@@ -491,7 +491,7 @@ Focus features stem from the mastery of your internal energies. At <u>5th level<
 >
 > **Requirement:** <u>11th level</u>
 >
-> When you deal [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Damage/5e - Basic Melee Damage|💔Basic Melee Damage]] from using a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Basic Maneuvers/5e - Basic Maneuvers|🤺Basic Maneuvers]], you deal additional damage equal to your <u>Martial Arts die</u>.
+> When you deal [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Damage/5e - Basic Melee Damage|💔Basic Melee Damage]] from using a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Basic Maneuvers/5e - Basic Maneuvers|🤺Basic Maneuver]], you deal additional damage equal to `your Martial Arts die`.
 >
 > #### Undefeated
 >

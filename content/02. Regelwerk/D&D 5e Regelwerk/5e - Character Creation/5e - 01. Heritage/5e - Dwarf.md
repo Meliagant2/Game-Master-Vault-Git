@@ -2,8 +2,8 @@
 publish: true
 title: 👥5e - Dwarf👥
 created: 2026-07-20T12:11:02.463+02:00
-modified: 2026-07-29T08:11:22.509+02:00
-published: 2026-07-29T08:11:22.509+02:00
+modified: 2026-08-12T07:44:28.892+02:00
+published: 2026-08-12T07:44:28.892+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -90,7 +90,7 @@ When you reach 10th level, you gain one of the following paragon gifts.
 
 ### Fury of the Earth
 
-As an **Action**, you can strike the ground with a melee weapon you’re proficient with. The ground in a <u>30-foot radius Emanation</u> becomes **difficult terrain**. Each creature on the ground in the area makes a **DEX Save** (DC = your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Save DC|🤺Maneuver Save DC]], or your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Save DC|☄️Spell Save DC]], whichever is higher). _**Failure:**_ The Creature is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]].
+As an **Action**, you can strike the ground with a melee weapon you’re proficient with. The ground in a <u>30-foot radius Emanation</u> becomes **difficult terrain**. Each creature on the ground in the area makes a **DEX Save** (DC = your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Rules/5e - Maneuver Save DC|🤺Maneuver Save DC]], or your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Save DC|☄️Spell Save DC]], whichever is higher). _**Failure:**_ The Creature is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]].
 
 A creature [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Saves/5e - Concentration|🎲concentrating]] on a spell makes a **CON Save (DC 10)** or its concentration is broken.
 

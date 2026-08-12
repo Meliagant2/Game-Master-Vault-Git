@@ -1,9 +1,9 @@
 ---
 publish: true
-title: ☠️5e - Weakened☠️
+title: ☠️5e - Weakened
 created: 2026-07-29T15:17:30.227+02:00
-modified: 2026-07-29T15:18:05.245+02:00
-published: 2026-07-29T15:18:05.245+02:00
+modified: 2026-08-12T09:30:11.457+02:00
+published: 2026-08-12T09:30:11.457+02:00
 tags:
   - "#Grundregeln"
   - "#5e"

@@ -2,8 +2,8 @@
 publish: true
 title: 👥5e - Elementari👥
 created: 2026-07-20T12:11:02.479+02:00
-modified: 2026-07-29T08:11:22.908+02:00
-published: 2026-07-29T08:11:22.908+02:00
+modified: 2026-08-12T07:44:28.926+02:00
+published: 2026-08-12T07:44:28.926+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -81,7 +81,7 @@ As diverse as any planeborn people, earthborn elementaari may have eyes the clea
 A fireborn’s connection to their elemental plane almost always manifests in warm-hued hair and skin, to the point that some are mistaken for comparatively subtle tieflings and aasimar. Those with more flashy manifestations might have hair that undulates like a flame, or eyes the color of shifting embers. You have the following traits:
 
 **<u>Fevered Blood:</u>** You have resistance to fire damage.
-**<u>Flame On:</u>** When a creature touches you or successfully hits you with a melee attack while within 5 feet of you, you can use your **Reaction** to briefly set your skin aflame. The creature makes a **DEX Save** (DC = your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Save DC|🤺Maneuver Save DC]]). The creature takes <u>2d6</u> damage on a failed saving throw or half damage on a success. The damage increases to <u>3d6</u> at 5th level, <u>4d6</u> at 9th level, <u>5d6</u> at 13th level, and <u>6d6</u> at 17th level. Once you have used this ability a number of times equal to your Constitution modifier, you can’t use it again until you finish a short or long rest.
+**<u>Flame On:</u>** When a creature touches you or successfully hits you with a melee attack while within 5 feet of you, you can use your **Reaction** to briefly set your skin aflame. The creature makes a **DEX Save** (DC = your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Rules/5e - Maneuver Save DC|🤺Maneuver Save DC]]). The creature takes <u>2d6</u> damage on a failed saving throw or half damage on a success. The damage increases to <u>3d6</u> at 5th level, <u>4d6</u> at 9th level, <u>5d6</u> at 13th level, and <u>6d6</u> at 17th level. Once you have used this ability a number of times equal to your Constitution modifier, you can’t use it again until you finish a short or long rest.
 
 ### Lightningborn Elementari
 

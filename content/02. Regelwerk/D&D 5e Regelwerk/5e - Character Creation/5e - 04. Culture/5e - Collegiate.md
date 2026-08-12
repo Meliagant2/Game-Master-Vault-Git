@@ -2,8 +2,8 @@
 publish: true
 title: 🎎5e - Collegiate🎎
 created: 2026-07-20T17:59:28.825+02:00
-modified: 2026-08-06T10:04:57.980+02:00
-published: 2026-08-06T10:04:57.980+02:00
+modified: 2026-08-12T13:57:19.100+02:00
+published: 2026-08-12T13:57:19.100+02:00
 tags:
   - "#Culture"
   - "#5e"
@@ -22,7 +22,7 @@ proficiencies:
   - Skill - Spielerwahl
 combatknown:
   - "[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Divination/5e - Level 1 Divination/5e - Detect Magic (Spell)]]"
-  - "[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Biting Zephyr Tradition/5e - 3rd degree Biting Zephyr/5e - Ricochet (Maneuver)]]"
+  - "[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Legacy Combat Traditions/5e - Biting Zephyr Tradition/5e - 3rd degree Biting Zephyr/5e - Ricochet (Maneuver) (Legacy)]]"
 ---
 
 # 🎎5e - Collegiate🎎
@@ -40,6 +40,6 @@ Characters raised in the collegiate culture share a variety of traits in common 
 - **Engineering:** You gain proficiency in <u>Engineering</u>, and you gain an <u>expertise die</u> on checks made to fix or take apart mechanical mechanisms. You also gain an <u>expertise die</u> on checks and saving throws made against environmental damage from structural changes and collapse.
 - **Fine Arts:** You gain proficiency in <u>Performance</u>. In addition, choose one <u>artisan’s tool</u> you are proficient with. You gain an <u>expertise die</u> on checks made using that tool.
 - **Magic:** You gain proficiency in <u>Arcana</u>. In addition, at 3rd level, you can cast [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Divination/5e - Level 1 Divination/5e - Detect Magic (Spell)|☄️Detect Magic]] once per long rest without expending a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Slot|☄️Spell Slot]]. Your spellcasting ability for this spell is INT, WIS, or CHA (whichever is highest).
-- **Mathematics:** You gain proficiency in <u>Engineering</u>. In addition, once between rests, you can spend a full uninterrupted minute observing an environment, at the end of which you can use the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Biting Zephyr Tradition/5e - 3rd degree Biting Zephyr/5e - Ricochet (Maneuver)|🤺Ricochet]]-Combat Maneuver without spending [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Exertion|🤺Exertion]].
+- **Mathematics:** You gain proficiency in <u>Engineering</u>. In addition, once between rests, you can spend a full uninterrupted minute observing an environment, at the end of which you can use the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Traditions/5e - Tradition of Cunning/5e - 2nd degree Cunning/5e - Ricochet (Maneuver)|🤺Ricochet]] Combat Maneuver without spending [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Rules/5e - Exertion|🤺Exertion]].
 - **Medicine:** You gain proficiency in <u>Medicine</u>. You gain an expertise die when identifying disease and poison, or doing small field surgeries and triage.
 - **Sciences:** Pick two skills from <u>Arcana</u>, <u>History</u>, <u>Nature</u>, and <u>Religion</u>. You gain proficiency with the two skills.

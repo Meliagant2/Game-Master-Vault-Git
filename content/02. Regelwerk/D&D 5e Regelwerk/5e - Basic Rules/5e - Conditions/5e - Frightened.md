@@ -1,9 +1,9 @@
 ---
 publish: true
-title: ☠️5e - Frightened☠️
+title: ☠️5e - Frightened
 created: 2026-07-20T12:11:03.044+02:00
-modified: 2026-07-29T14:59:42.131+02:00
-published: 2026-07-29T14:59:42.131+02:00
+modified: 2026-08-12T09:28:29.529+02:00
+published: 2026-08-12T09:28:29.529+02:00
 tags:
   - "#Grundregeln"
   - "#5e"

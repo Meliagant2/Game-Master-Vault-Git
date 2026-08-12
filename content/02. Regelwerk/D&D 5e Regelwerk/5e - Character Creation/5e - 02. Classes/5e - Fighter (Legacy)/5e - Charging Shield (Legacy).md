@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Charging Shield🦸‍♀️
 created: 2026-07-27T12:10:07.575+02:00
-modified: 2026-08-10T13:37:21.800+02:00
-published: 2026-08-10T13:37:21.800+02:00
+modified: 2026-08-12T13:53:30.260+02:00
+published: 2026-08-12T13:53:30.260+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -22,15 +22,15 @@ Though primarily an armament for defense, in the hands of a properly trained com
 
 ### Level 3: Shield Fighting
 
-You gain proficiency with shields as weapons. In addition, you gain proficiency with the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Rapid Current Tradition/5e - 1st degree Rapid Current/5e - Charge (Maneuver)|🤺Charge]] maneuver, and when you are wielding a shield and no other weapons you do not have to spend <u>exertion</u> to activate it.
+You gain proficiency with shields as weapons. In addition, you gain proficiency with the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Legacy Combat Traditions/5e - Rapid Current Tradition/5e - 1st degree Rapid Current/5e - Charge (Maneuver) (Legacy)|🤺Charge]] maneuver, and when you are wielding a shield and no other weapons you do not have to spend <u>exertion</u> to activate it.
 
 ### Level 3: Inspiring Traditions
 
-You gain proficiency in one of the following combat traditions of your choice: [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Biting Zephyr Tradition/5e - Biting Zephyr Tradition|🤺Biting Zephyr]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Rapid Current Tradition/5e - Rapid Current Tradition|🤺Rapid Current]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Tempered Iron Tradition/5e - Tempered Iron Tradition|🤺Tempered Iron]]. When you gain this feature you can choose one of the maneuvers you know and replace it with another maneuver of the same degree or lower from your newly chosen combat tradition.
+You gain proficiency in one of the following combat traditions of your choice: [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Legacy Combat Traditions/5e - Biting Zephyr Tradition/5e - Biting Zephyr Tradition|🤺Biting Zephyr]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Legacy Combat Traditions/5e - Rapid Current Tradition/5e - Rapid Current Tradition|🤺Rapid Current]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Legacy Combat Traditions/5e - Tempered Iron Tradition/5e - Tempered Iron Tradition|🤺Tempered Iron]]. When you gain this feature you can choose one of the maneuvers you know and replace it with another maneuver of the same degree or lower from your newly chosen combat tradition.
 
 ### Level 6: Shield Throwing
 
-You treat all shields except tower shields as having the <u>thrown</u> property (<u>light 60/120 feet, medium 50/100 feet, heavy 40/80 feet</u>). In addition, you gain proficiency with the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Biting Zephyr Tradition/5e - 3rd degree Biting Zephyr/5e - Ricochet (Maneuver)|🤺Ricochet]] combat maneuver, and when you use a shield with it you do not have to spend <u>exertion</u> to activate it.
+You treat all shields except tower shields as having the <u>thrown</u> property (<u>light 60/120 feet, medium 50/100 feet, heavy 40/80 feet</u>). In addition, you gain proficiency with the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Legacy Combat Traditions/5e - Biting Zephyr Tradition/5e - 3rd degree Biting Zephyr/5e - Ricochet (Maneuver) (Legacy)|🤺Ricochet]] combat maneuver, and when you use a shield with it you do not have to spend <u>exertion</u> to activate it.
 
 ### Level 9: Galvanizing Charger
 

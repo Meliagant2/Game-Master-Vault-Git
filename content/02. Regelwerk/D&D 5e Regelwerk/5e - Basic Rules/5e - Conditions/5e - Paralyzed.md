@@ -1,9 +1,9 @@
 ---
 publish: true
-title: ☠️5e - Paralyzed☠️
+title: ☠️5e - Paralyzed
 created: 2026-07-21T12:36:05.569+02:00
-modified: 2026-07-29T15:07:09.738+02:00
-published: 2026-07-29T15:07:09.738+02:00
+modified: 2026-08-12T09:29:09.693+02:00
+published: 2026-08-12T09:29:09.693+02:00
 tags:
   - "#Grundregeln"
   - "#5e"

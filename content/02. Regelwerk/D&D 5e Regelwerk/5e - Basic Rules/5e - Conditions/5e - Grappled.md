@@ -1,9 +1,9 @@
 ---
 publish: true
-title: ☠️5e - Grappled☠️
+title: ☠️5e - Grappled
 created: 2026-07-22T12:33:14.288+02:00
-modified: 2026-07-29T15:01:39.769+02:00
-published: 2026-07-29T15:01:39.769+02:00
+modified: 2026-08-12T09:28:33.023+02:00
+published: 2026-08-12T09:28:33.023+02:00
 tags:
   - "#Grundregeln"
   - "#5e"

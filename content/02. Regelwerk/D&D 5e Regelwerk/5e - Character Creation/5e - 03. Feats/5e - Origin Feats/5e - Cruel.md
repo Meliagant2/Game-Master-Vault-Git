@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Cruel
 created: 2026-08-10T11:57:36.322+02:00
-modified: 2026-08-10T12:02:51.782+02:00
-published: 2026-08-10T12:02:51.782+02:00
+modified: 2026-08-11T12:03:34.316+02:00
+published: 2026-08-11T12:03:34.316+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -33,6 +33,34 @@ You gain a number of **Cruelty Dice** equal to `your PB`. your **Cruelty Dice** 
 - **<u>Intimidation:</u>** When you make an <u>Intimidation</u> check, spend one **Cruelty Die** and add the roll to your check.
 
 **<u>Regaining Uses:</u>** You regain all spent **Cruelty Dice** when you finish a **Long Rest**.
+
+### Backgrounds that grant this Feat
+
+```base
+views:
+  - type: table
+    name: 5e - Origin Feats
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Background")
+        - '!file.name.contains("Template")'
+        - file.links.contains(this.file)
+    order:
+      - file.name
+      - primeability
+      - sprachen
+      - proficiencies
+    sort:
+      - property: source
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 243
+      note.prerequisite: 347
+      note.repeatable: 34
+
+```
 
 ## Quelle
 

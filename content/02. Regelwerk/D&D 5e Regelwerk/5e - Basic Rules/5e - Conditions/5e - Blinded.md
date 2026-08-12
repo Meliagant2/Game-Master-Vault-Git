@@ -1,9 +1,9 @@
 ---
 publish: true
-title: ☠️5e - Blinded☠️
+title: ☠️5e - Blinded
 created: 2026-07-20T12:11:03.028+02:00
-modified: 2026-07-29T14:47:18.408+02:00
-published: 2026-07-29T14:47:18.408+02:00
+modified: 2026-08-12T09:27:42.062+02:00
+published: 2026-08-12T09:27:42.062+02:00
 tags:
   - "#Grundregeln"
   - "#5e"

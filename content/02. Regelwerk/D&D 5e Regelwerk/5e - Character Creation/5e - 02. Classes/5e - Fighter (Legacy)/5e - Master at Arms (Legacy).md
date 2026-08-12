@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Master at Arms🦸‍♀️
 created: 2026-07-27T12:10:07.575+02:00
-modified: 2026-08-10T13:37:21.909+02:00
-published: 2026-08-10T13:37:21.909+02:00
+modified: 2026-08-12T07:44:28.970+02:00
+published: 2026-08-12T07:44:28.970+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -24,7 +24,7 @@ While most fighters master one specific martial discipline, a Master at Arms is 
 
 Your ability to learn and utilize martial techniques exceeds most other warriors. Your total number of <u>exertion</u> increases by `2`.
 
-Your training has also made your maneuvers more potent than the average fighter. Your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Save DC|🤺Maneuver Save DC]] increases by `1`. Once you reach <u>level 11</u> in this class your maneuver save DC increases by `2` instead.
+Your training has also made your maneuvers more potent than the average fighter. Your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Rules/5e - Maneuver Save DC|🤺Maneuver Save DC]] increases by `1`. Once you reach <u>level 11</u> in this class your maneuver save DC increases by `2` instead.
 
 ### Level 3: Fluid Traditions
 

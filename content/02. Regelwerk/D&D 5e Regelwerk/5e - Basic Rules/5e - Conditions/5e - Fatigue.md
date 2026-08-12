@@ -1,9 +1,9 @@
 ---
 publish: true
-title: ☠️5e - Fatigue☠️
+title: ☠️5e - Fatigue
 created: 2026-07-20T12:11:03.044+02:00
-modified: 2026-07-29T14:58:11.939+02:00
-published: 2026-07-29T14:58:11.939+02:00
+modified: 2026-08-12T09:28:23.852+02:00
+published: 2026-08-12T09:28:23.852+02:00
 tags:
   - "#Grundregeln"
   - "#5e"

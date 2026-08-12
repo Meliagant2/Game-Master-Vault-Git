@@ -1,9 +1,9 @@
 ---
 publish: true
-title: ☠️5e - Strife☠️
+title: ☠️5e - Strife
 created: 2026-07-27T14:57:26.483+02:00
-modified: 2026-07-29T14:58:23.394+02:00
-published: 2026-07-29T14:58:23.394+02:00
+modified: 2026-08-12T09:29:38.282+02:00
+published: 2026-08-12T09:29:38.282+02:00
 tags:
   - "#Grundregeln"
   - "#5e"

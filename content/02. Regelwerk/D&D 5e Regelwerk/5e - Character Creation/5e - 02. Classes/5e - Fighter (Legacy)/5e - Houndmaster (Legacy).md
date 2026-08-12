@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Houndmaster🦸‍♀️
 created: 2026-07-27T12:10:07.575+02:00
-modified: 2026-08-10T13:37:21.879+02:00
-published: 2026-08-10T13:37:21.879+02:00
+modified: 2026-08-12T07:43:37.751+02:00
+published: 2026-08-12T07:43:37.751+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -22,7 +22,7 @@ Whether on a lonely hunt in the deep forest or blazing a path through the battle
 
 ### Level 3: Loyal Hound
 
-When you adopt this Archetype, you complete the training of a Loyal Hound. Your Hound is friendly to you and obeys your commands. It uses the **Loyal Hound stat block**, which uses your proficiency bonus (PB) in several places. You are proficient in the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Beast Unity Tradition/5e - Beast Unity Tradition|☠️Beast Unity Tradition]].
+When you adopt this Archetype, you complete the training of a Loyal Hound. Your Hound is friendly to you and obeys your commands. It uses the **Loyal Hound stat block**, which uses your proficiency bonus (PB) in several places. You are proficient in the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Legacy Combat Traditions/5e - Beast Unity Tradition/5e - Beast Unity Tradition|☠️Beast Unity Tradition]].
 
 In combat, your Hound acts during your turn. It can move and use its reaction on its own, but it only takes the **Dodge** action unless you use a **Bonus Action** to command it to take an action from its stat block, or another action. Whenever you take the **Attack action**, you can command the Hound to take the Attack action in place of one of your attacks. If you are [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]], your Hound acts on its own.
 

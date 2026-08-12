@@ -1,9 +1,9 @@
 ---
 publish: true
-title: ☠️5e - Stable☠️
+title: ☠️5e - Stable
 created: 2026-07-29T10:33:17.633+02:00
-modified: 2026-07-29T15:11:08.123+02:00
-published: 2026-07-29T15:11:08.123+02:00
+modified: 2026-08-12T09:29:35.522+02:00
+published: 2026-08-12T09:29:35.522+02:00
 tags:
   - "#Grundregeln"
   - "#5e"

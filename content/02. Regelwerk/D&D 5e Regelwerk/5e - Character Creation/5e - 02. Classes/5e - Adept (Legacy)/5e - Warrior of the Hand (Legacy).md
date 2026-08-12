@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Warrior of the Hand🦸‍♀️
 created: 2026-07-22T12:06:01.852+02:00
-modified: 2026-08-10T14:31:07.158+02:00
-published: 2026-08-10T14:31:07.158+02:00
+modified: 2026-08-11T11:40:25.984+02:00
+published: 2026-08-11T11:40:25.984+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -34,7 +34,7 @@ You can meditate during a long rest to commune with the spirits of ancient warri
 
 ### Level 13: Quivering Palm
 
-You gain the ability to set up lethal vibrations in someone’s body. When you hit a creature with an Unarmed Strike, you can spend <u>3 exertion</u> to start these imperceptible vibrations, which last for a number of days equal to your Adept level. The vibrations are harmless unless you use your **Action** to end them. To do so, you and the target must be on the same plane of existence. When you use this action, the target must make a **CON Save**. _**Failure:**_ The Target takes <u>10d12 + your Adept level</u> of Force damage. _**Success:**_ The Target takes half the damage.
+You gain the ability to set up lethal vibrations in someone’s body. When you hit a creature with an [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Unarmed Strike|⚔️Unarmed Strike]], you can spend `4` <u>Exertion</u> to start these imperceptible vibrations, which last for <u>20 days</u>. The vibrations are harmless unless you use your **Action** to end them. Alternatively, when you take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Attack Action|⚔️Attack]] action on your turn, you can forgo one of the attacks to end the vibrations. To end them, you and the target must be on the same plane of existence. When you end them, the target makes a **CON Save**. _**Failure:**_ The Target takes <u>10d12 + your Adept level</u> <u>Force</u> damage. _**Success:**_ The Target takes <u>half</u> the damage.
 
 You can have only one creature under the effect of this feature at a time. You can end the vibrations harmlessly without using an action.
 

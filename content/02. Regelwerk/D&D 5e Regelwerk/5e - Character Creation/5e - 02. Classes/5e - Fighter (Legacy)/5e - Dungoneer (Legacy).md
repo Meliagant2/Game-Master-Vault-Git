@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Dungoneer🦸‍♀️
 created: 2026-07-27T12:10:07.575+02:00
-modified: 2026-08-10T13:37:21.868+02:00
-published: 2026-08-10T13:37:21.868+02:00
+modified: 2026-08-12T07:43:55.962+02:00
+published: 2026-08-12T07:43:55.962+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -30,7 +30,7 @@ You have adapted to the confined conditions found in dungeons, and you fight bes
 
 ### Level 3: Dungoneering Traditions
 
-You gain proficiency in one of the following combat traditions of your choice: [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Adamant Mountain Tradition/5e - Adamant Mountain Tradition|🤺Adamant Mountain]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Razors Edge Tradition/5e - Razors Edge Tradition|🤺Razors Edge]], or [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Tempered Iron Tradition/5e - Tempered Iron Tradition|🤺Tempered Iron]]. When you gain this feature you can choose one of the maneuvers you know and replace it with another maneuver of the same degree or lower from your newly chosen combat tradition.
+You gain proficiency in one of the following combat traditions of your choice: [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Legacy Combat Traditions/5e - Adamant Mountain Tradition/5e - Adamant Mountain Tradition|🤺Adamant Mountain]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Legacy Combat Traditions/5e - Razors Edge Tradition/5e - Razors Edge Tradition|🤺Razors Edge]], or [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Legacy Combat Traditions/5e - Tempered Iron Tradition/5e - Tempered Iron Tradition|🤺Tempered Iron]]. When you gain this feature you can choose one of the maneuvers you know and replace it with another maneuver of the same degree or lower from your newly chosen combat tradition.
 
 ### Level 6: Dungeon Crawler
 

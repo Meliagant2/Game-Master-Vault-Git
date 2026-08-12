@@ -1,9 +1,9 @@
 ---
 publish: true
-title: ☠️5e - Hidden☠️
+title: ☠️5e - Hidden
 created: 2026-07-29T15:01:48.780+02:00
-modified: 2026-07-29T15:03:03.959+02:00
-published: 2026-07-29T15:03:03.959+02:00
+modified: 2026-08-12T09:28:38.543+02:00
+published: 2026-08-12T09:28:38.543+02:00
 tags:
   - "#Grundregeln"
   - "#5e"

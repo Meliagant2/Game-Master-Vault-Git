@@ -1,9 +1,9 @@
 ---
 publish: true
-title: ☠️5e - Slowed☠️
+title: ☠️5e - Slowed
 created: 2026-07-22T12:34:23.663+02:00
-modified: 2026-07-29T15:10:21.698+02:00
-published: 2026-07-29T15:10:21.698+02:00
+modified: 2026-08-12T09:29:32.748+02:00
+published: 2026-08-12T09:29:32.748+02:00
 tags:
   - "#Grundregeln"
   - "#5e"

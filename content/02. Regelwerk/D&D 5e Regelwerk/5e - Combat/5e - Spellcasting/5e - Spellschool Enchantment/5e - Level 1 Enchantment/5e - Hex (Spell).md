@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Hex☄️
 created: 2026-07-30T16:35:45.233+02:00
-modified: 2026-07-30T16:41:11.491+02:00
-published: 2026-07-30T16:41:11.491+02:00
+modified: 2026-08-11T13:55:50.590+02:00
+published: 2026-08-11T13:55:50.590+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -22,7 +22,7 @@ dauer: 1 Hour
 effect:
   - Necrotic
   - Curse
-  - DISADV
+  - Impaired
 zauberliste:
   - Warlock
 ---
@@ -42,7 +42,7 @@ zauberliste:
 > |**Attack/Save:**||
 > |**Spell List:**|Warlock |
 
-You place a curse on a creature that you can see within range. Until the spell ends, <u>once per turn</u>, you deal an extra `1d8` <u>Necrotic</u> damage to the target when you hit it with an <u>attack roll</u>. Also, choose one ability when you cast the spell. The target has **DISADV** on <u>skill checks</u> made with the chosen ability.
+You place a curse on a creature that you can see within range. Until the spell ends, <u>once per turn</u>, you deal an extra `1d8` <u>Necrotic</u> damage to the target when you hit it with an <u>attack roll</u>. Also, choose one ability when you cast the spell. The target is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Impaired|☠️Impaired]] with the chosen ability.
 
 If the target drops to 0 <u>HP</u> before this spell ends, you can take a **Bonus Action** on a later turn to curse a new creature.
 

@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 🏃‍♀️5e - Speed🏃‍♀️
+title: 🏃‍♀️5e - Speed
 created: 2026-07-20T12:11:02.868+02:00
-modified: 2026-07-29T08:11:20.686+02:00
-published: 2026-07-29T08:11:20.686+02:00
+modified: 2026-08-12T10:48:18.125+02:00
+published: 2026-08-12T10:48:18.125+02:00
 tags:
   - "#Grundregeln"
   - "#5e"

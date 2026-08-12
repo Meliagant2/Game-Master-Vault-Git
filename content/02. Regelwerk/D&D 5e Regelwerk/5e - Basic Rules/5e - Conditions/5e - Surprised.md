@@ -1,9 +1,9 @@
 ---
 publish: true
-title: ☠️5e - Surprised☠️
+title: ☠️5e - Surprised
 created: 2026-07-29T15:12:52.757+02:00
-modified: 2026-07-29T15:13:30.392+02:00
-published: 2026-07-29T15:13:30.392+02:00
+modified: 2026-08-12T09:29:51.762+02:00
+published: 2026-08-12T09:29:51.762+02:00
 tags:
   - "#Grundregeln"
   - "#5e"

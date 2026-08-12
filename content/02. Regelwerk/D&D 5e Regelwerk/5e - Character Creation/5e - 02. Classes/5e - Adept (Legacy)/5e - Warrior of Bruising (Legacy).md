@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Warrior of Bruising🦸‍♀️
 created: 2026-07-22T11:58:26.534+02:00
-modified: 2026-08-10T14:31:07.032+02:00
-published: 2026-08-10T14:31:07.032+02:00
+modified: 2026-08-12T07:43:55.946+02:00
+published: 2026-08-12T07:43:55.946+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -24,7 +24,7 @@ While adepts are typically known for a certain level of grace and speed, there a
 
 You learn to use heavier weapons than most adepts. Choose 2 melee weapons with the heavy, two-handed, or versatile property. They become adept weapons for you.
 
-You also gain proficiency in either the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Adamant Mountain Tradition/5e - Adamant Mountain Tradition|🤺Adamant Mountain]] or [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Tempered Iron Tradition/5e - Tempered Iron Tradition|🤺Tempered Iron]] combat tradition and learn a first-level **maneuver** from the tradition you selected that does not count against your maneuvers known.
+You also gain proficiency in either the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Legacy Combat Traditions/5e - Adamant Mountain Tradition/5e - Adamant Mountain Tradition|🤺Adamant Mountain]] or [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Legacy Combat Traditions/5e - Tempered Iron Tradition/5e - Tempered Iron Tradition|🤺Tempered Iron]] combat tradition and learn a first-level **maneuver** from the tradition you selected that does not count against your maneuvers known.
 
 ### Level 6: Dogged
 

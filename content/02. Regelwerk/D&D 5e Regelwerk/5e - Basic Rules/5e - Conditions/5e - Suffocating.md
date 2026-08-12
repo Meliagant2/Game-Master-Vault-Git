@@ -1,9 +1,9 @@
 ---
 publish: true
-title: ☠️5e - Suffocating☠️
+title: ☠️5e - Suffocating
 created: 2026-07-27T14:54:50.984+02:00
-modified: 2026-07-29T08:11:22.128+02:00
-published: 2026-07-29T08:11:22.128+02:00
+modified: 2026-08-12T09:29:47.949+02:00
+published: 2026-08-12T09:29:47.949+02:00
 tags:
   - "#Grundregeln"
   - "#5e"

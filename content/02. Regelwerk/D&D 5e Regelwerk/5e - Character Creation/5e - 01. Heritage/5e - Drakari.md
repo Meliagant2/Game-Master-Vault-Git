@@ -2,8 +2,8 @@
 publish: true
 title: 👥5e - Drakari👥
 created: 2026-07-20T12:11:02.447+02:00
-modified: 2026-07-29T08:11:22.383+02:00
-published: 2026-07-29T08:11:22.383+02:00
+modified: 2026-08-12T07:44:28.870+02:00
+published: 2026-08-12T07:44:28.870+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -58,7 +58,7 @@ Scales, tails, horns, fangs, claws, wings, and any feature found within dragonki
 
 Drawing upon great reservoirs of draconic power, you can unleash magical destruction upon your foes. When you take the **Attack Action** on your turn, you can replace one of your attacks with your Dragon Breath.
 During Character Creation, choose the type of damage dealt by your breath weapon: **Acid**, **Cold**, **Fire**, **Force**, **Lightning**, **Necrotic**, **Poison**, **Psychic**, **Radiant**, or **Thunder**.
-Additionally, choose between a <u>30-foot line that is 5 feet wide</u> or a <u>15-foot</u> cone for the area that your breath weapon affects. Each creature in the breath’s area makes a **DEX Save** if your breath weapon deals acid, fire, or lightning damage, a **CON Save** if it deals cold, force, poison, or thunder damage, and a **WIS Save** if it deals necrotic, psychic, or radiant damage (DC = your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Save DC|🤺Maneuver Save DC]], or your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Save DC|☄️Spell Save DC]], whichever is higher).
+Additionally, choose between a <u>30-foot line that is 5 feet wide</u> or a <u>15-foot</u> cone for the area that your breath weapon affects. Each creature in the breath’s area makes a **DEX Save** if your breath weapon deals acid, fire, or lightning damage, a **CON Save** if it deals cold, force, poison, or thunder damage, and a **WIS Save** if it deals necrotic, psychic, or radiant damage (DC = your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Rules/5e - Maneuver Save DC|🤺Maneuver Save DC]], or your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Save DC|☄️Spell Save DC]], whichever is higher).
 _**Failed Save:**_ The creature takes <u>2d6</u> damage. _**Successful save:**_ The creature takes half the damage.
 The damage increases to <u>5d6</u> at 5th level, <u>8d6</u> at 9th level, <u>12d6</u> at 13th level, and <u>15d6</u> at 17th level. You can use your Dragon Breath <u>once</u> between **long rests**.
 

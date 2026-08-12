@@ -1,9 +1,9 @@
 ---
 publish: true
-title: ☠️5e - Stunned☠️
+title: ☠️5e - Stunned
 created: 2026-07-21T12:36:05.569+02:00
-modified: 2026-07-29T15:12:43.466+02:00
-published: 2026-07-29T15:12:43.466+02:00
+modified: 2026-08-12T09:29:42.337+02:00
+published: 2026-08-12T09:29:42.337+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
