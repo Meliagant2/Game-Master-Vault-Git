@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Bard🦸‍♀️
 created: 2026-07-20T12:11:02.526+02:00
-modified: 2026-08-07T13:44:33.249+02:00
-published: 2026-08-07T13:44:33.249+02:00
+modified: 2026-08-13T08:06:33.198+02:00
+published: 2026-08-13T08:06:33.198+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -431,7 +431,7 @@ Even when abroad you are most at home when surrounded by those who love you — 
 
 ### Level 2: Jack of all trades
 
-You can add `half` your <u>proficiency bonus</u> to any ability check you make that doesn’t already include your proficiency bonus.
+You can add `half` your <u>proficiency bonus</u>, _rounded down_, to any ability check you make that doesn’t already include your proficiency bonus.
 
 ### Level 2: Varied Expertise
 

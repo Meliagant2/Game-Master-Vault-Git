@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Adept🦸‍♀️
 created: 2026-07-20T12:11:02.494+02:00
-modified: 2026-08-12T07:44:28.952+02:00
-published: 2026-08-12T07:44:28.952+02:00
+modified: 2026-08-14T13:33:58.148+02:00
+published: 2026-08-14T13:33:58.148+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -467,7 +467,7 @@ Focus features stem from the mastery of your internal energies. At <u>5th level<
 >
 > **Requirement:** <u>11th level</u>
 >
-> You have learned to use your opponents’ size against them. You can use [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Basic Maneuvers/5e - Basic Maneuvers|🤺Basic Maneuvers]] against creatures of any size. If a creature is larger than you, when it saves against your basic maneuver you can use your **Reaction** to give it **DISADV**.
+> You have learned to use your opponents’ size against them. You can use [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Traditions/5e - Basic Maneuvers/5e - Basic Maneuvers|🤺Basic Maneuvers]] against creatures of any size. If a creature is larger than you, when it saves against your basic maneuver you can use your **Reaction** to give it **DISADV**.
 >
 > #### Dancing Maneuver
 >
@@ -491,7 +491,7 @@ Focus features stem from the mastery of your internal energies. At <u>5th level<
 >
 > **Requirement:** <u>11th level</u>
 >
-> When you deal [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Damage/5e - Basic Melee Damage|💔Basic Melee Damage]] from using a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Basic Maneuvers/5e - Basic Maneuvers|🤺Basic Maneuver]], you deal additional damage equal to `your Martial Arts die`.
+> When you deal [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Damage/5e - Basic Melee Damage|💔Basic Melee Damage]] from using a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Traditions/5e - Basic Maneuvers/5e - Basic Maneuvers|🤺Basic Maneuver]], you deal additional damage equal to `your Martial Arts die`.
 >
 > #### Undefeated
 >

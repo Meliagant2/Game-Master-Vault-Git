@@ -2,8 +2,8 @@
 publish: true
 title: 👥5e - Elementari👥
 created: 2026-07-20T12:11:02.479+02:00
-modified: 2026-08-12T07:44:28.926+02:00
-published: 2026-08-12T07:44:28.926+02:00
+modified: 2026-08-14T13:33:58.122+02:00
+published: 2026-08-14T13:33:58.122+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -96,7 +96,7 @@ Lightningborn planetouched may look wild to other people. Often their hair is sp
 The waterborn planetouched, true to their nature, often have aquatic features, though these can be as subtle as bright blue eyes or small patches of scales to needle-like teeth, prominent fins, and colorful skin in tones of blue, green, or even those of tropical fish. You have the following traits:
 
 **<u>Gentle Ministrations:</u>** Leveraging water’s power as a natural healing agent, you can use an action to touch a willing creature and restore a number of hit points equal to twice your level. Once you use this trait, you must finish a long rest before doing so again.
-**<u>Liquid Undulation:</u>** Your fluid movement grants you an <u>expertise die</u> to resist attempts to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Basic Maneuvers/5e - Grapple (Maneuver)|🤺Grapple]] you and to escape grapples.
+**<u>Liquid Undulation:</u>** Your fluid movement grants you an <u>expertise die</u> to resist attempts to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Traditions/5e - Basic Maneuvers/5e - Grapple (Maneuver)|🤺Grapple]] you and to escape grapples.
 **<u>Piscine Aspect:</u>** You have a <u>swimming speed</u> of <u>30 feet</u> and you can hold your breath for up to 15 minutes at a time.
 
 ## Planetouched Gifts

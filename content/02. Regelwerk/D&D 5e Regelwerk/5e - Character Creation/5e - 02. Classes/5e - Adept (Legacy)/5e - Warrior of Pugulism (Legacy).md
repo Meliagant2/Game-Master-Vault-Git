@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Warrior of Pugulism🦸‍♀️
 created: 2026-07-22T12:06:01.852+02:00
-modified: 2026-08-10T14:31:07.071+02:00
-published: 2026-08-10T14:31:07.071+02:00
+modified: 2026-08-14T13:33:58.174+02:00
+published: 2026-08-14T13:33:58.174+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -22,7 +22,7 @@ Most adepts find intellectual and spiritual knowledge an important part of their
 
 ### Level 3: Unorthodox Arsenal
 
-Everything can be a weapon in your hands. You are proficient with <u>improvised weapons</u>. When you hit a target with an improvised weapon, you can spend <u>1 exertion</u> to deal additional damage equal to your <u>Martial Arts die</u> or use a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Basic Maneuvers/5e - Basic Maneuvers|🤺Basic Maneuver]] against the same target.
+Everything can be a weapon in your hands. You are proficient with <u>improvised weapons</u>. When you hit a target with an improvised weapon, you can spend <u>1 exertion</u> to deal additional damage equal to your <u>Martial Arts die</u> or use a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Traditions/5e - Basic Maneuvers/5e - Basic Maneuvers|🤺Basic Maneuver]] against the same target.
 
 ### Level 6: No Sell
 

@@ -2,8 +2,8 @@
 publish: true
 title: ☠️5e - Deafened
 created: 2026-07-22T12:40:36.573+02:00
-modified: 2026-08-12T09:28:08.682+02:00
-published: 2026-08-12T09:28:08.682+02:00
+modified: 2026-08-14T09:16:26.474+02:00
+published: 2026-08-14T09:16:26.474+02:00
 tags:
   - "#Grundregeln"
   - "#5e"

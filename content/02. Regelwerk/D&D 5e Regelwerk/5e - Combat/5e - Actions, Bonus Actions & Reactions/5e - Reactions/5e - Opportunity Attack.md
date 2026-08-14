@@ -2,13 +2,13 @@
 publish: true
 title: ⚔️5e - Opportunity Attack
 created: 2026-07-22T11:26:15.677+02:00
-modified: 2026-08-06T11:32:23.336+02:00
-published: 2026-08-06T11:32:23.336+02:00
+modified: 2026-08-14T09:06:03.955+02:00
+published: 2026-08-14T09:06:03.955+02:00
 tags:
   - "#Action"
   - "#5e"
 dateitags:
-  - "#Action"
+  - "#Reaction"
   - "#5e"
 status: ✅
 ---

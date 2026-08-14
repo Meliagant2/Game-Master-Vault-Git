@@ -2,8 +2,8 @@
 publish: true
 title: ☠️5e - Confused
 created: 2026-07-22T08:30:07.636+02:00
-modified: 2026-08-12T09:27:57.069+02:00
-published: 2026-08-12T09:27:57.069+02:00
+modified: 2026-08-14T08:34:06.376+02:00
+published: 2026-08-14T08:34:06.376+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -17,7 +17,7 @@ status: ✅
 
 You are subjected to the following effects:
 
-- You can't take Reactions.
+- You can't take **Reactions**.
 - On your turn you roll a `d10` to determine what you do:
   - <b><i>1:</i></b> You take **no Action** or **Bonus Action** and use all your Movement to move in a randomly determined direction (`1d8`).
   - <b><i>2-6:</i></b> You do Nothing.

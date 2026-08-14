@@ -2,8 +2,8 @@
 publish: true
 title: ☠️5e - Strife
 created: 2026-07-27T14:57:26.483+02:00
-modified: 2026-08-12T09:29:38.282+02:00
-published: 2026-08-12T09:29:38.282+02:00
+modified: 2026-08-14T08:38:41.468+02:00
+published: 2026-08-14T08:38:41.468+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -17,9 +17,10 @@ status: ✅
 
 You are subjected to the following effects:
 
-- You gain a penalty equal to `X` on all <u>INT</u>, <u>WIS</u>, <u>CHA</u> <u>d20</u> rolls you make.
-- Reaching <u>5 Strife</u> gives you a <u>Minor Mental Illness</u>.
-- Reaching <u>10 Strife</u> gives you a <u>Major Mental Illness</u>.
+- You gain a penalty equal to `2 × X` on all <u>INT</u>, <u>WIS</u>, <u>CHA</u> <u>d20</u> rolls you make.
+- Reaching <u>3 Strife</u> gives you a <u>Minor Mental Illness</u>.
+- Reaching <u>5 Strife</u> gives you a <u>Major Mental Illness</u>.
 
-**<u>Ending Exhaustion</u>**
-**Long Rest:** Finishing a Long Rest removes 1 Stack of both <u>Fatigue</u> and <u>Strife</u>.
+###### Ending Exhaustion
+
+**<u>Long Rest:</u>** Finishing a **Long Rest** removes `1` Stack of both <u>Fatigue</u> and <u>Strife</u>.

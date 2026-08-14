@@ -1,9 +1,9 @@
 ---
 publish: true
-title: ☠️5e - Conditions☠️
+title: ☠️5e - Conditions
 created: 2026-07-20T12:11:03.060+02:00
-modified: 2026-07-29T15:23:52.848+02:00
-published: 2026-07-29T15:23:52.848+02:00
+modified: 2026-08-13T15:47:48.636+02:00
+published: 2026-08-13T15:47:48.636+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -49,6 +49,7 @@ This glossary defines these conditions:
 - [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone.md|5e - Prone]]
 - [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Rattled.md|5e - Rattled]]
 - [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Restrained.md|5e - Restrained]]
+- [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Silenced.md|5e - Silenced]]
 - [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Slowed.md|5e - Slowed]]
 - [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Stable.md|5e - Stable]]
 - [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Strife.md|5e - Strife]]

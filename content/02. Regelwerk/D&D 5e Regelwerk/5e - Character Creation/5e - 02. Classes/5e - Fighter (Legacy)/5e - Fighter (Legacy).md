@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Fighter🦸‍♀️
 created: 2026-07-20T12:11:02.557+02:00
-modified: 2026-08-12T07:44:27.892+02:00
-published: 2026-08-12T07:44:27.892+02:00
+modified: 2026-08-14T13:33:58.239+02:00
+published: 2026-08-14T13:33:58.239+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -182,7 +182,7 @@ You adopt a particular style of fighting as your specialty. Choose one of the fo
 >
 > #### Heavyweight Fighting
 >
-> You use the weight of your weapon, to land devastating blows. While you are wielding a <u>heavy weapon</u>, you gain a `+2` bonus to <u>damage rolls</u> and you have **ADV** on <u>Athletics checks</u> made to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Basic Maneuvers/5e - Shove (Maneuver)|🤺Shove]].
+> You use the weight of your weapon, to land devastating blows. While you are wielding a <u>heavy weapon</u>, you gain a `+2` bonus to <u>damage rolls</u> and you have **ADV** on <u>Athletics checks</u> made to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Traditions/5e - Basic Maneuvers/5e - Shove (Maneuver)|🤺Shove]].
 >
 > #### Improvised Fighting
 >
@@ -226,7 +226,7 @@ You adopt a particular style of fighting as your specialty. Choose one of the fo
 >
 > #### Unarmed Fighting
 >
-> Your <u>unarmed strikes</u> can deal bludgeoning damage equal to `1d6 + STR` on a hit. If you aren’t wielding any weapons or a shield when you make the attack roll, the `d6` becomes a `d8`. At the start of each of your turns, you can deal `1d4` bludgeoning damage to one creature [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Basic Maneuvers/5e - Grapple (Maneuver)|🤺Grappled]] by you.
+> Your <u>unarmed strikes</u> can deal bludgeoning damage equal to `1d6 + STR` on a hit. If you aren’t wielding any weapons or a shield when you make the attack roll, the `d6` becomes a `d8`. At the start of each of your turns, you can deal `1d4` bludgeoning damage to one creature [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Traditions/5e - Basic Maneuvers/5e - Grapple (Maneuver)|🤺Grappled]] by you.
 >
 > #### Versatile Fighting
 >
@@ -234,7 +234,7 @@ You adopt a particular style of fighting as your specialty. Choose one of the fo
 >
 > #### Wrestler
 >
-> When you hit a creature with a <u>melee attack</u>, you can attempt to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Basic Maneuvers/5e - Grapple (Maneuver)|🤺Grapple]] that creature as a **Bonus Action** on that turn, so long as you have a free hand to do so. Also, you can drag grappled creatures up to your full speed.
+> When you hit a creature with a <u>melee attack</u>, you can attempt to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Traditions/5e - Basic Maneuvers/5e - Grapple (Maneuver)|🤺Grapple]] that creature as a **Bonus Action** on that turn, so long as you have a free hand to do so. Also, you can drag grappled creatures up to your full speed.
 
 ### Level 1: Second Wind
 
