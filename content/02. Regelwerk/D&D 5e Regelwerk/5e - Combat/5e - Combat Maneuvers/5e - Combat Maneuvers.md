@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 🤺5e - Combat Maneuvers🤺
+title: 🤺5e - Combat Maneuvers
 created: 2026-07-20T12:11:02.666+02:00
-modified: 2026-08-14T13:33:34.656+02:00
-published: 2026-08-14T13:33:34.656+02:00
+modified: 2026-08-17T08:17:21.743+02:00
+published: 2026-08-17T08:17:21.743+02:00
 tags:
   - "#Combatrules"
   - "#5e"

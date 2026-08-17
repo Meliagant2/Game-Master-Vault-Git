@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Warrior of Quickstepping🦸‍♀️
 created: 2026-07-22T12:06:01.852+02:00
-modified: 2026-08-12T13:57:41.838+02:00
-published: 2026-08-12T13:57:41.838+02:00
+modified: 2026-08-17T08:13:13.287+02:00
+published: 2026-08-17T08:13:13.287+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -32,7 +32,7 @@ Once you have used this feature a number of times equal to your Wisdom modifier,
 
 ### Level 6: Deft Steps
 
-You gain proficiency with the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Legacy Combat Traditions/5e - Tooth and Claw Tradition/5e - 2nd degree Tooth and Claw/5e - Expert Tumble (Maneuver) (Legacy)|🤺Expert Tumble]] combat maneuver, do not need to spend exertion to activate it, and can benefit from its effects even if you only move half your speed. In addition, you gain proficiency in <u>Acrobatics</u>. If you are already proficient, you gain an <u>expertise die</u>.
+You gain proficiency with the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Legacy Combat Traditions/(Legacy) 5e - Tooth and Claw Tradition/5e - 2nd degree Tooth and Claw/5e - Expert Tumble (Maneuver) (Legacy)|🤺Expert Tumble]] combat maneuver, do not need to spend exertion to activate it, and can benefit from its effects even if you only move half your speed. In addition, you gain proficiency in <u>Acrobatics</u>. If you are already proficient, you gain an <u>expertise die</u>.
 
 ### Level 9: Entangling Throw
 

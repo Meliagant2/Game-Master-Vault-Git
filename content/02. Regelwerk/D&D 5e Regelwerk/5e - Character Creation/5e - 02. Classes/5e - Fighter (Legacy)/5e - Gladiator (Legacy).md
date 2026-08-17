@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Gladiator🦸‍♀️
 created: 2026-07-27T12:10:07.575+02:00
-modified: 2026-08-12T07:43:56.845+02:00
-published: 2026-08-12T07:43:56.845+02:00
+modified: 2026-08-17T08:13:13.305+02:00
+published: 2026-08-17T08:13:13.305+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -26,7 +26,7 @@ You gain proficiency with one of the following skills: <u>Acrobatics</u>, <u>Ath
 
 ### Level 3: Gladiatorial Traditions
 
-You gain proficiency in one of the following combat traditions of your choice: [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Legacy Combat Traditions/5e - Mist and Shade Tradition/5e - Mist and Shade Tradition|🤺Mist and Shade]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Legacy Combat Traditions/5e - Razors Edge Tradition/5e - Razors Edge Tradition|🤺Razors Edge]], or [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Legacy Combat Traditions/5e - Tooth and Claw Tradition/5e - Tooth and Claw Tradition|🤺Tooth and Claw]]. When you gain this feature you can choose one of the maneuvers you know and replace it with another maneuver of the same degree or lower from your newly chosen combat tradition.
+You gain proficiency in one of the following combat traditions of your choice: [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Legacy Combat Traditions/(Legacy) 5e - Mist and Shade Tradition/(Legacy) 5e - Mist and Shade Tradition|🤺Mist and Shade]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Legacy Combat Traditions/(Legacy) 5e - Razors Edge Tradition/(Legacy) 5e - Razors Edge Tradition|🤺Razors Edge]], or [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Legacy Combat Traditions/(Legacy) 5e - Tooth and Claw Tradition/(Legacy) 5e - Tooth and Claw Tradition|🤺Tooth and Claw]]. When you gain this feature you can choose one of the maneuvers you know and replace it with another maneuver of the same degree or lower from your newly chosen combat tradition.
 
 ### Level 3: Bloodsport Flourishes
 

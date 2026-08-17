@@ -2,8 +2,8 @@
 publish: true
 title: D&D5e Regelwerk
 created: 2026-07-20T12:11:02.432+02:00
-modified: 2026-08-03T10:28:10.360+02:00
-published: 2026-08-03T10:28:10.360+02:00
+modified: 2026-08-17T08:10:17.152+02:00
+published: 2026-08-17T08:10:17.152+02:00
 tags:
   - "#Regelwerk"
   - "#5e"
@@ -42,7 +42,6 @@ status: ✅
 >   - Adept
 >   - Bard
 >   - Fighter
->   - Paladin
 > - A12 Spellcasting
 >   - Cantrips
 >   - 1st-level Spells
@@ -56,8 +55,9 @@ status: ✅
 >   - Blood Hunter
 >   - Cleric
 >   - Druid
+>   - Hunter
 >   - Marshal
->   - Ranger
+>   - Paladin
 >   - Rogue
 >   - Sorcerer
 >   - Warlock

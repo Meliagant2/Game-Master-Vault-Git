@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Cavalier🦸‍♀️
 created: 2026-07-27T12:10:07.575+02:00
-modified: 2026-08-12T07:43:55.182+02:00
-published: 2026-08-12T07:43:55.182+02:00
+modified: 2026-08-17T08:13:06.016+02:00
+published: 2026-08-17T08:13:06.016+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -31,7 +31,7 @@ You learn some of the finer minutiae that let you feel comfortable in even the h
 
 ### Level 3: Chivalrous Traditions
 
-You gain proficiency in one of the following combat traditions of your choice: [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Legacy Combat Traditions/5e - Adamant Mountain Tradition/5e - Adamant Mountain Tradition|🤺Adamant Mountain]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Legacy Combat Traditions/5e - Sanguine Knot Tradition/5e - Sanguine Knot Tradition|🤺Sanguine Knot]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Legacy Combat Traditions/5e - Spirited Steed Tradition/5e - Spirited Steed Tradition|🤺Spirited Steed]]. When you gain this feature you can choose one of the maneuvers you know and replace it with another maneuver of the same degree or lower from your newly chosen combat tradition.
+You gain proficiency in one of the following combat traditions of your choice: [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Legacy Combat Traditions/(Legacy) 5e - Adamant Mountain Tradition/(Legacy) 5e - Adamant Mountain Tradition|🤺Adamant Mountain]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Legacy Combat Traditions/(Legacy) 5e - Sanguine Knot Tradition/(Legacy) 5e - Sanguine Knot Tradition|🤺Sanguine Knot]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Legacy Combat Traditions/(Legacy) 5e - Spirited Steed Tradition/(Legacy) 5e - Spirited Steed Tradition|🤺Spirited Steed]]. When you gain this feature you can choose one of the maneuvers you know and replace it with another maneuver of the same degree or lower from your newly chosen combat tradition.
 
 ### Level 3: Chivalric Mark
 

@@ -2,8 +2,8 @@
 publish: true
 title: 🎎5e - Collegiate🎎
 created: 2026-07-20T17:59:28.825+02:00
-modified: 2026-08-14T11:07:01.720+02:00
-published: 2026-08-14T11:07:01.720+02:00
+modified: 2026-08-17T08:12:33.627+02:00
+published: 2026-08-17T08:12:33.627+02:00
 tags:
   - "#Culture"
   - "#5e"
@@ -22,7 +22,7 @@ proficiencies:
   - Skill - Spielerwahl
 combatknown:
   - "[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Divination/5e - Level 1 Divination/5e - Detect Magic (Spell)]]"
-  - "[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Legacy Combat Traditions/5e - Biting Zephyr Tradition/5e - 3rd degree Biting Zephyr/5e - Ricochet (Maneuver) (Legacy)]]"
+  - "[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Legacy Combat Traditions/(Legacy) 5e - Biting Zephyr Tradition/5e - 3rd degree Biting Zephyr/5e - Ricochet (Maneuver) (Legacy)]]"
 ---
 
 # 🎎5e - Collegiate🎎
