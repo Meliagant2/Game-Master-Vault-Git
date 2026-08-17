@@ -2,8 +2,8 @@
 publish: true
 title: ☠️5e - Grappled
 created: 2026-07-22T12:33:14.288+02:00
-modified: 2026-08-13T09:50:00.799+02:00
-published: 2026-08-13T09:50:00.799+02:00
+modified: 2026-08-17T09:56:28.633+02:00
+published: 2026-08-17T09:56:28.633+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -20,6 +20,8 @@ You are [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - I
 - You can't move.
 - You have **DISADV** on <u>DEX Saves</u>.
 - You have **DISADV** on <u>attack rolls</u> against any target other than the grappler.
+
+While you are grappling a creature, you are [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Slowed|☠️Slowed]].
 
 ###### Ending Grappled
 

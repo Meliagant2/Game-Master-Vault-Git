@@ -2,8 +2,8 @@
 publish: true
 title: D&D5e Regelwerk
 created: 2026-07-20T12:11:02.432+02:00
-modified: 2026-08-17T08:10:17.152+02:00
-published: 2026-08-17T08:10:17.152+02:00
+modified: 2026-08-17T10:00:25.013+02:00
+published: 2026-08-17T10:00:25.013+02:00
 tags:
   - "#Regelwerk"
   - "#5e"
@@ -40,11 +40,7 @@ status: ✅
 > - 5 Destiny
 > - 6 Classes
 >   - Adept
->   - Bard
->   - Fighter
-> - A12 Spellcasting
->   - Cantrips
->   - 1st-level Spells
+> - A11 Combat Maneuvers
 > - A14 Conditions
 >
 > ##### Ausstehend
@@ -52,9 +48,11 @@ status: ✅
 > - 6 Classes
 >   - Artificer
 >   - Barbarian
+>   - Bard
 >   - Blood Hunter
 >   - Cleric
 >   - Druid
+>   - Fighter
 >   - Hunter
 >   - Marshal
 >   - Paladin
@@ -66,8 +64,9 @@ status: ✅
 > - 8 Multiclassing, Feats & Epic Boons
 > - 9 Adventuring
 > - A10 Combat
-> - A11 Combat Maneuvers
 > - A12 Spellcasting
+>   - Cantrips
+>   - 1st-level Spells
 >   - 2n-level Spells
 >   - 3rd-level Spells
 >   - 4th-level Spells
