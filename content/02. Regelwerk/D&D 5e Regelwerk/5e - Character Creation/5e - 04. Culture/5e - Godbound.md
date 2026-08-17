@@ -2,8 +2,8 @@
 publish: true
 title: 🎎5e - Godbound🎎
 created: 2026-07-20T18:00:21.058+02:00
-modified: 2026-07-30T08:34:06.837+02:00
-published: 2026-07-30T08:34:06.837+02:00
+modified: 2026-08-17T15:41:45.025+02:00
+published: 2026-08-17T15:41:45.025+02:00
 tags:
   - "#Culture"
   - "#5e"
@@ -40,5 +40,5 @@ Characters raised in the godbound culture share a variety of traits in common wi
 - Whether they have class levels in the cleric or paladin class.
 
 **Devotion:** You gain an <u>expertise die</u> on Saves made to resist being [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]] or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Frightened|☠️Frightened]].
-**Religious Education:** Your community is steeped in scripture, song, and storytelling. You are proficient in the <u>Religion</u> skill and know one <u>cantrip</u> of your choice from the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Lists/5e - Spell List Divine/5e - Spell List Divine|☄️Divine]], or [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Lists/5e - Spell List Primal/5e - Spell List Primal|☄️Primal]] spell list. Your spellcasting ability score for this cantrip is INT, WIS, or CHA (whichever is highest).
+**Religious Education:** Your community is steeped in scripture, song, and storytelling. You are proficient in the <u>Religion</u> skill and know one <u>cantrip</u> of your choice from the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Sources/5e - Spell Source Divine/5e - Spell Source Divine|☄️Divine]], or [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Sources/5e - Spell Source Primal/5e - Spell Source Primal|☄️Primal]] spell list. Your spellcasting ability score for this cantrip is INT, WIS, or CHA (whichever is highest).
 **Siblings in Faith:** You have **ADV** on checks made to socially interact with members of your current or former faith, such as when requesting services or gathering information.

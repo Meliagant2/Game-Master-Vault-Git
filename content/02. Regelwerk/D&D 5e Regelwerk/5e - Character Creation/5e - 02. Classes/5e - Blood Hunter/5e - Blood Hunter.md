@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Blood Hunter
 created: 2026-07-20T12:11:02.526+02:00
-modified: 2026-08-17T14:23:56.252+02:00
-published: 2026-08-17T14:23:56.252+02:00
+modified: 2026-08-17T15:36:15.895+02:00
+published: 2026-08-17T15:36:15.895+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -129,7 +129,7 @@ In choosing this path, every blood hunter irrevocably gives a part of themself t
 > | 17th  |    10    |        7        |       3rd       |             3             |
 > | 18th  |    10    |        7        |       3rd       |             3             |
 > | 19th  |    10    |        8        |       4th       |             3             |
-> | 20th  |    10    |       15        |       4th       |             3             |
+> | 20th  |    10    |       8      |       4th       |             3             |
 
 #### Class Maneuvers
 

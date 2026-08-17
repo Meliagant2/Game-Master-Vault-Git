@@ -2,8 +2,8 @@
 publish: true
 title: 🔮5e - Dominion🔮
 created: 2026-07-21T15:26:14.616+02:00
-modified: 2026-07-29T08:11:24.310+02:00
-published: 2026-07-29T08:11:24.310+02:00
+modified: 2026-08-17T15:24:31.595+02:00
+published: 2026-08-17T15:24:31.595+02:00
 tags:
   - "#Destiny"
   - "#5e"
@@ -28,7 +28,7 @@ You fulfill your destiny of Dominion when you gain a dominion of your own.
 
 Become the ruler of a nation, large city, or other sizable population, become a divine figure with numerous followers, reach the top of a massive organization.
 
-**Fulfillment Feature: Absolute Power:** Either through respect or fear you have become an uncontested ruler, and most simple orders you give are followed without question. You have **ADV** on checks made to influence your subjects. In addition, choose one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Paladin/5e - Paladin|🦸‍♀️Paladin]]-Subclass. You gain the 6th-level Aura Feature of that Subclass, but increase the Aura's emanation to 30 ft.
+**Fulfillment Feature: Absolute Power:** Either through respect or fear you have become an uncontested ruler, and most simple orders you give are followed without question. You have **ADV** on checks made to influence your subjects. In addition, choose one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/Legacy 5e Classes/(Legacy) 5e - Paladin/(Legacy) 5e - Paladin|🦸‍♀️Paladin]]-Subclass. You gain the 6th-level Aura Feature of that Subclass, but increase the Aura's emanation to 30 ft.
 
 ##### Table: Dominion Destiny
 

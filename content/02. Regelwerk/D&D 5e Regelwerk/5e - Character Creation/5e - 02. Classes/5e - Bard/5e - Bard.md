@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Bard
 description: A charismatic performer who uses their music as a conduit to wield powerful magic.
 created: 2026-07-31T10:15:39.250+02:00
-modified: 2026-08-17T14:34:53.545+02:00
-published: 2026-08-17T14:34:53.545+02:00
+modified: 2026-08-17T15:41:44.888+02:00
+published: 2026-08-17T15:41:44.888+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -60,7 +60,7 @@ The greatest strength of bards is their sheer versatility. Many bards prefer to 
 > |                                |                                                                                                              |
 > | ------------------------------ | ------------------------------------------------------------------------------------------------------------ |
 > | **Armor Training**             | Light Armor                                                                                                  |
-> | **Weapon Proficiencies**       | Simple Weapons, Hand Crossbows, Swords that lack the <u>Heavy</u> Property                                   |
+> | **Weapon Proficiencies**       | Simple                                |
 > | **Saving Throw Proficiencies** | <u>Choose one proficiency of each A and B:</u> **(A)** Dexterity OR Wisdom; **(B)** Intelligence OR Charisma |
 > | **Skill Proficiencies**        | Choose any 3 skills                                                                                          |
 > | **Tool Proficiencies**         | Choose any 3 Musical Instruments                                                                             |
@@ -522,7 +522,7 @@ You gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. F
 
 ### Level 9: Magical Secrets
 
-You've learned secrets from various magical traditions. Whenever you reach a Bard level (including this level) and the Prepared Spells number in the Spellcaster table increases, you can choose any of your new prepared spells from the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Lists/5e - Spell List Bard/5e - Spell List Bard|☄️Bard]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Lists/5e - Spell List Arcane/5e - Spell List Arcane|☄️Arcane]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Lists/5e - Spell List Divine/5e - Spell List Divine|☄️Divine]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Lists/5e - Spell List Occult/5e - Spell List Occult|☄️Occult]], and [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Lists/5e - Spell List Primal/5e - Spell List Primal|☄️Primal]] spell lists. In addition, whenever you replace a spell prepared for this class, you can replace it with a spell from those lists.
+You've learned secrets from various magical traditions. Whenever you reach a Bard level (including this level) and the Prepared Spells number in the Spellcaster table increases, you can choose any of your new prepared spells from the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Class Spell Lists/5e - Spell List Bard/5e - Spell List Bard|☄️Bard]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Sources/5e - Spell Source Arcane/5e - Spell Source Arcane|☄️Arcane]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Sources/5e - Spell Source Divine/5e - Spell Source Divine|☄️Divine]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Sources/5e - Spell Source Occult/5e - Spell Source Occult|☄️Occult]], and [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Sources/5e - Spell Source Primal/5e - Spell Source Primal|☄️Primal]] spell lists. In addition, whenever you replace a spell prepared for this class, you can replace it with a spell from those lists.
 
 ### Level 10: Feats
 
