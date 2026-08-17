@@ -3,8 +3,8 @@ publish: true
 title: 🤺5e - Basic Maneuvers
 description: Basic Melee Maneuvers
 created: 2026-07-22T10:44:14.031+02:00
-modified: 2026-08-14T13:34:08.518+02:00
-published: 2026-08-14T13:34:08.518+02:00
+modified: 2026-08-17T07:52:11.010+02:00
+published: 2026-08-17T07:52:11.010+02:00
 tags:
   - "#Combatrules"
   - "#5e"
@@ -40,7 +40,7 @@ views:
     filters:
       and:
         - dateitags.containsAll("#5e", "#Maneuver")
-        - tradition.contains("Basic Maneuver")
+        - tradition.contains("Basic")
     order:
       - file.name
       - degree
@@ -56,115 +56,4 @@ views:
       note.degree: 84
       note.time: 42
       note.range-Area: 54
-  - type: table
-    name: 5e - Basic Maneuver; 1st-Degree
-    filters:
-      and:
-        - dateitags.containsAll("#5e", "#Maneuver")
-        - tradition.contains("Basic Maneuver")
-        - degree == 1
-    order:
-      - file.name
-      - degree
-      - tradition
-      - time
-      - range-Area
-      - save-Att
-      - effect
-    sort:
-      - property: file.name
-        direction: ASC
-    columnSize:
-      note.degree: 84
-      note.time: 42
-      note.range-Area: 54
-  - type: table
-    name: 5e - Basic Maneuver; 2nd-Degree
-    filters:
-      and:
-        - dateitags.containsAll("#5e", "#Maneuver")
-        - tradition.contains("Basic Maneuver")
-        - degree == 2
-    order:
-      - file.name
-      - degree
-      - tradition
-      - time
-      - range-Area
-      - save-Att
-      - effect
-    sort:
-      - property: file.name
-        direction: ASC
-    columnSize:
-      note.degree: 84
-      note.time: 42
-      note.range-Area: 54
-  - type: table
-    name: 5e - Basic Maneuver; 3rd-Degree
-    filters:
-      and:
-        - dateitags.containsAll("#5e", "#Maneuver")
-        - tradition.contains("Basic Maneuver")
-        - degree == 3
-    order:
-      - file.name
-      - degree
-      - tradition
-      - time
-      - range-Area
-      - save-Att
-      - effect
-    sort:
-      - property: file.name
-        direction: ASC
-    columnSize:
-      note.degree: 84
-      note.time: 42
-      note.range-Area: 54
-  - type: table
-    name: 5e - Basic Maneuver; 4th-Degree
-    filters:
-      and:
-        - dateitags.containsAll("#5e", "#Maneuver")
-        - tradition.contains("Basic Maneuver")
-        - degree == 4
-    order:
-      - file.name
-      - degree
-      - tradition
-      - time
-      - range-Area
-      - save-Att
-      - effect
-    sort:
-      - property: file.name
-        direction: ASC
-    columnSize:
-      note.degree: 84
-      note.time: 42
-      note.range-Area: 54
-  - type: table
-    name: 5e - Basic Maneuver; 5th-Degree
-    filters:
-      and:
-        - dateitags.containsAll("#5e", "#Maneuver")
-        - tradition.contains("Basic Maneuver")
-        - degree == 5
-    order:
-      - file.name
-      - degree
-      - tradition
-      - time
-      - range-Area
-      - save-Att
-      - effect
-    sort:
-      - property: file.name
-        direction: ASC
-    columnSize:
-      note.degree: 84
-      note.time: 42
-      note.range-Area: 54
-
 ```
