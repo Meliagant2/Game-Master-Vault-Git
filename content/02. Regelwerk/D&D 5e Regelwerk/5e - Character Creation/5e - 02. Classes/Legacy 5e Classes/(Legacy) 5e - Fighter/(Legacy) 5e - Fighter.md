@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - Fighter🦸‍♀️
 created: 2026-07-20T12:11:02.557+02:00
-modified: 2026-08-17T10:11:38.995+02:00
-published: 2026-08-17T10:11:38.995+02:00
+modified: 2026-08-17T11:28:02.578+02:00
+published: 2026-08-17T11:28:02.578+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -179,7 +179,7 @@ You adopt a particular style of fighting as your specialty. Choose one of the fo
 >
 > #### Great Weapon Fighting
 >
-> When you roll <u>damage</u> for an <u>attack</u> you make with a <u>Melee weapon</u> that you are holding with <u>two hands</u>, you can treat any `1` or `2` on a damage die as a `3`.. The weapon must have the <u>heavy</u>, <u>versatile</u>, or <u>two-handed</u> property to gain this benefit.
+> When you roll <u>damage</u> for an <u>attack</u> you make with a <u>Melee weapon</u> that you are holding with <u>two hands</u>, you can treat any `1` or `2` on a damage die as a `3`. The weapon must have the <u>heavy</u>, <u>versatile</u>, or <u>two-handed</u> property to gain this benefit.
 >
 > #### Heavyweight Fighting
 >

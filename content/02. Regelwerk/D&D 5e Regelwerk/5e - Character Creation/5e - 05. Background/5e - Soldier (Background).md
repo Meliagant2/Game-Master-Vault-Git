@@ -2,8 +2,8 @@
 publish: true
 title: ⛏️5e - Soldier⛏️
 created: 2026-07-21T13:46:29.234+02:00
-modified: 2026-07-29T08:11:24.264+02:00
-published: 2026-07-29T08:11:24.264+02:00
+modified: 2026-08-17T11:25:14.562+02:00
+published: 2026-08-17T11:25:14.562+02:00
 tags:
   - "#Background"
   - "#5e"
@@ -25,15 +25,14 @@ proficiencies:
 
 You’re a hard-bitten veteran accustomed to long marches, short supplies, and the sight of blood. A career as an adventurer seems like the logical next step.
 
-Were you a battlefield soldier in a war between nations? A mercenary or town guard? Were you a front-line grunt, an officer, or a specialist such as a medic or a war mage? Did you retire with honor or in disgrace, or do you still serve?
+Soldiers recognize their own. Off duty soldiers are usually willing to trade tales and gossip with you. On duty soldiers, while not obeying your orders, are likely to answer your questions and treat you respectfully on the off chance that you’re an unfamiliar officer who can get them in trouble.
 
 **Ability Score Increases:** +1 to Strength and one other ability score (both to a maximum of +4).
 **Skill Proficiencies:** <u>Athletics</u>, and either <u>Animal Handling</u> or <u>Intimidation</u>.
 **Tool Proficiencies:** <u>Gaming Set</u>.
 **Languages:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️One of your Choice]].
 **Equipment:** Uniform, common clothes, 7 days rations, 3 silver
-**Feature: Military Bearing:** Soldiers recognize their own. Off duty soldiers are usually willing to trade tales and gossip with you. On duty soldiers, while not obeying your orders, are likely to answer your questions and treat you respectfully on the off chance that you’re an unfamiliar officer who can get them in trouble.
-**Adventures and Advancement:** You will occasionally run into old comrades, some of whom may need favors. If you perform a few celebrated martial deeds your old military outfit (or a new one) is likely to offer you an officer’s rank. You gain the free service of up to 8 guards. Your new commanders will occasionally give you objectives: you will be expected to act independently in order to achieve these objectives.
+**Feat:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Alert|🥇Alert]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Savage Attacker|🥇Savage Attacker]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Tough|🥇Tough]] or a **Special** Origin Feat.
 
 **Connection and Memento:** Roll <u>1d10</u>, choose, or make up your own.
 

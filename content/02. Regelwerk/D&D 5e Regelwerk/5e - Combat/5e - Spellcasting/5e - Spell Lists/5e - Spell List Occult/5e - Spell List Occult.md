@@ -1,44 +1,30 @@
 ---
 publish: true
-title: ☄️5e - Bard Spell List☄️
-created: 2026-07-30T08:37:02.056+02:00
-modified: 2026-08-17T14:32:24.523+02:00
-published: 2026-08-17T14:32:24.523+02:00
+title: ☄️5e - Occult Spell List☄️
+created: 2026-08-17T14:29:28.487+02:00
+modified: 2026-08-17T14:29:44.605+02:00
+published: 2026-08-17T14:29:44.605+02:00
 tags:
   - "#Combatrules"
   - "#5e"
 dateitags:
-  - "#SpelllistBard"
+  - "#SpelllistOccult"
   - "#5e"
 status: ✅
 ---
 
-# ☄️5e - Bard Spell List☄️
+# ☄️5e - Occult Spell List☄️
 
-## List of all Bard Spells:
-
-1. All Bard Spells
-2. All Arcane Illusion Spells
-3. All Arcane Enchantment Spells
-4. All Arcane Divination Spells
-5. All "Conjure" Spells
+## List of all Occult Spells:
 
 ```base
 views:
   - type: table
-    name: 5e - Bard; Choose Spell Level
+    name: 5e - Occult; All Spells
     filters:
       and:
-        - dateitags.contains("#5e")
-        - dateitags.containsAny("#SpelllistBard")
-    sort:
-      - property: file.name
-        direction: ASC
-  - type: table
-    name: 5e - Bard; All Spells
-    filters:
-      and:
-        - zauberliste.containsAny("Bard", "Occult")
+        - dateitags.containsAll("#Spell", "#5e")
+        - zauberliste.contains("Occult")
     order:
       - file.name
       - level
@@ -60,13 +46,14 @@ views:
     columnSize:
       file.name: 200
       note.level: 49
-      note.time: 51
+      note.time: 25
       note.c: 24
   - type: table
-    name: 5e - Bard; Cantrips
+    name: 5e - Occult; Cantrips
     filters:
       and:
-        - zauberliste.containsAny("Bard", "Occult")
+        - dateitags.containsAll("#Spell", "#5e")
+        - zauberliste.contains("Occult")
         - level == 0
     order:
       - file.name
@@ -89,14 +76,14 @@ views:
     columnSize:
       file.name: 200
       note.level: 49
-      note.school: 107
       note.time: 25
       note.c: 24
   - type: table
-    name: 5e - Bard; 1st-level
+    name: 5e - Occult; 1st-level
     filters:
       and:
-        - zauberliste.containsAny("Bard", "Occult")
+        - dateitags.containsAll("#Spell", "#5e")
+        - zauberliste.contains("Occult")
         - level == 1
     order:
       - file.name
@@ -119,13 +106,14 @@ views:
     columnSize:
       file.name: 200
       note.level: 49
-      note.time: 25
+      note.time: 54
       note.c: 24
   - type: table
-    name: 5e - Bard; 2nd-level
+    name: 5e - Occult; 2nd-level
     filters:
       and:
-        - zauberliste.containsAny("Bard", "Occult")
+        - dateitags.containsAll("#Spell", "#5e")
+        - zauberliste.contains("Occult")
         - level == 2
     order:
       - file.name
@@ -151,10 +139,11 @@ views:
       note.time: 25
       note.c: 24
   - type: table
-    name: 5e - Bard; 3rd-level
+    name: 5e - Occult; 3rd-level
     filters:
       and:
-        - zauberliste.containsAny("Bard", "Occult")
+        - dateitags.containsAll("#Spell", "#5e")
+        - zauberliste.contains("Occult")
         - level == 3
     order:
       - file.name
@@ -180,10 +169,11 @@ views:
       note.time: 25
       note.c: 24
   - type: table
-    name: 5e - Bard; 4th-level
+    name: 5e - Occult; 4th-level
     filters:
       and:
-        - zauberliste.containsAny("Bard", "Occult")
+        - dateitags.containsAll("#Spell", "#5e")
+        - zauberliste.contains("Occult")
         - level == 4
     order:
       - file.name
@@ -209,12 +199,12 @@ views:
       note.time: 25
       note.c: 24
   - type: table
-    name: 5e - Bard; 5th-level
+    name: 5e - Occult; 5th-level
     filters:
-      or:
-        - and:
-            - zauberliste.containsAny("Arcane", "Divine", "Primal", "Occult", "Bard")
-            - level == 5
+      and:
+        - dateitags.containsAll("#Spell", "#5e")
+        - zauberliste.contains("Occult")
+        - level == 5
     order:
       - file.name
       - level
@@ -239,12 +229,12 @@ views:
       note.time: 25
       note.c: 24
   - type: table
-    name: 5e - Bard; 6th-level
+    name: 5e - Occult; 6th-level
     filters:
-      or:
-        - and:
-            - zauberliste.containsAny("Arcane", "Divine", "Primal", "Occult", "Bard")
-            - level == 6
+      and:
+        - dateitags.containsAll("#Spell", "#5e")
+        - zauberliste.contains("Occult")
+        - level == 6
     order:
       - file.name
       - level
@@ -269,12 +259,12 @@ views:
       note.time: 25
       note.c: 24
   - type: table
-    name: 5e - Bard; 7th-level
+    name: 5e - Occult; 7th-level
     filters:
-      or:
-        - and:
-            - zauberliste.containsAny("Arcane", "Divine", "Primal", "Occult", "Bard")
-            - level == 7
+      and:
+        - dateitags.containsAll("#Spell", "#5e")
+        - zauberliste.contains("Occult")
+        - level == 7
     order:
       - file.name
       - level
@@ -299,12 +289,12 @@ views:
       note.time: 25
       note.c: 24
   - type: table
-    name: 5e - Bard; 8th-level
+    name: 5e - Occult; 8th-level
     filters:
-      or:
-        - and:
-            - zauberliste.containsAny("Arcane", "Divine", "Primal", "Occult", "Bard")
-            - level == 8
+      and:
+        - dateitags.containsAll("#Spell", "#5e")
+        - zauberliste.contains("Occult")
+        - level == 8
     order:
       - file.name
       - level
@@ -329,12 +319,12 @@ views:
       note.time: 25
       note.c: 24
   - type: table
-    name: 5e - Bard; 9th-level
+    name: 5e - Occult; 9th-level
     filters:
-      or:
-        - and:
-            - zauberliste.containsAny("Arcane", "Divine", "Primal", "Occult", "Bard")
-            - level == 9
+      and:
+        - dateitags.containsAll("#Spell", "#5e")
+        - zauberliste.contains("Occult")
+        - level == 9
     order:
       - file.name
       - level

@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Fighter
 description: A master of martial techniques with expertise in a wide variety of weapons and combat maneuvers.
 created: 2026-07-31T11:11:41.436+02:00
-modified: 2026-08-17T10:27:52.507+02:00
-published: 2026-08-17T10:27:52.507+02:00
+modified: 2026-08-17T12:56:43.368+02:00
+published: 2026-08-17T12:56:43.368+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -17,35 +17,6 @@ status: ✅
 kurzbeschreibung: A master of martial techniques with expertise in a wide variety of weapons and combat maneuvers.
 classtype: Martial
 ---
-
-> [!metadata]- Metadata
->
-> > [!metadataoption]- Status
-> >
-> > #### Status
-> >
-> > | | |
-> > |---|---|
-> > |**Status** | `INPUT[Status][:status]` |
-> > |**Publish**|`INPUT[inlineSelect(option(true), option(false)):publish]`|
->
-> > [!metadataoption]- Bild
-> >
-> > #### Bild
-> >
-> > | | |
-> > |---|---|
-> > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
->
-> > [!metadataoption]- Info
-> >
-> > #### Info
-> >
-> > | | |
-> > |---|---|
-> > |**Display Title** | `INPUT[textArea:title]`|
-> > |**Kurzbeschreibung** | `INPUT[textArea:description]`|
-> > |**Class Type**|`INPUT[inlineSelect(option(Full Caster), option(Half Caster), option(Martial)):classtype]`|
 
 # 🦸‍♀️5e - Fighter🦸‍♀️
 
@@ -202,7 +173,7 @@ After observing a Creature for <u>1 Minute</u> or as a **Bonus Action**, you can
 
 ### Level 1: Precise Strike
 
-<u>Once per turn</u>, when you make a <u>weapon attack</u> roll against a creature, you can cause the attack roll to have **ADV**. If the attack hits, you roll `1d6` and add the number rolled as a bonus to the attack’s <u>damage roll</u>.
+<u>Once per turn</u>, when you make a <u>weapon attack</u> roll against a creature, you can cause the attack roll to have **ADV**.
 
 **<u>Number of Uses:</u>** You can use this feature a number of times equal to <u>your proficiency bonus</u>, but a use is expended only if the attack _hits_. You regain all expended uses when you finish a **Long Rest**.
 
@@ -249,7 +220,11 @@ As you experience combat and perfect your techniques they get easier for you to 
 
 ### Level 5: Tactical Master
 
-When you attack with a weapon, you can replace that weapon's [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Mastery/5e - Weapon Mastery|🗡️Mastery Property]] with the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Mastery/5e - Push Mastery Property|🗡️Push]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Mastery/5e - Sap Mastery Property|🗡️Sap]], or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Mastery/5e - Slow Mastery Property|🗡️Slow]] mastery property for that attack.
+You gain the following benefits:
+
+**<u>Combat Maneuver Tradition:</u>** You gain proficiency in one additional **Combat Tradition** of your choice, that is available to Fighters at 1st level.
+
+**<u>Flexible Mastery:</u>** When you attack with a weapon, you can replace that weapon's [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Mastery/5e - Weapon Mastery|🗡️Mastery Property]] with the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Mastery/5e - Push Mastery Property|🗡️Push]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Mastery/5e - Sap Mastery Property|🗡️Sap]], or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Mastery/5e - Slow Mastery Property|🗡️Slow]] mastery property for that attack.
 
 ### Level 6: Feats
 
@@ -309,11 +284,13 @@ You gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. F
 
 You gain the following benefits:
 
+**<u>Immovable:</u>** When you roll [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Initiative|🎲Initiative]], you regain `2d6` <u>Exertion</u> and `2` uses of **Second Wind**.
+
 **<u>Maneuver Specialization:</u>** You master another maneuver (see **Level 5: Maneuver Specialization**).
 
-**<u>Saving Throw Proficiency:</u>** You gain <u>Saving Throw Proficiency</u> with in both <u>Ability Scores</u> that you didn't pick at 1st level. If you are already proficient in one of those <u>Saves</u>, you gain <u>Saving Throw Proficiency</u> with another <u>Ability Score</u> of your choice.
+**<u>No Surrender:</u>** When you take damage that reduces you to _0 hit points_ but doesn’t kill you, you don’t fall [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Unconscious|☠️Unconscious]] and can continue acting normally. You still make [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Saves/5e - Death Save|🎲Death Saves]] at the start of your turn, suffer <u>Death Saves</u> whenever you take damage, and die after three failed <u>Death Saves</u>. If you are stabilized during this time, you remain conscious, but fall [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Unconscious|☠️Unconscious]] after <u>1 minute</u> if you do not regain at least `1 hit point`.
 
-**<u>Immovable:</u>** When you roll [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Initiative|🎲Initiative]], you regain `2d6` <u>Exertion</u> and `2` uses of **Second Wind**.
+**<u>Saving Throw Proficiency:</u>** You gain <u>Saving Throw Proficiency</u> with in both <u>Ability Scores</u> that you didn't pick at 1st level. If you are already proficient in one of those <u>Saves</u>, you gain <u>Saving Throw Proficiency</u> with another <u>Ability Score</u> of your choice.
 
 ### Level 18: Feats
 

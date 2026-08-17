@@ -2,8 +2,8 @@
 publish: true
 title: ☠️5e - Intimidated
 created: 2026-07-29T15:05:11.831+02:00
-modified: 2026-08-14T08:43:27.292+02:00
-published: 2026-08-14T08:43:27.292+02:00
+modified: 2026-08-17T12:19:07.150+02:00
+published: 2026-08-17T12:19:07.150+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
