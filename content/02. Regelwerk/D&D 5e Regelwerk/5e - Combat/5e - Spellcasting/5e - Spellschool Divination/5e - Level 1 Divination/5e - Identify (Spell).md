@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Identify☄️
 created: 2026-07-30T11:32:53.889+02:00
-modified: 2026-07-30T15:08:34.462+02:00
-published: 2026-07-30T15:08:34.462+02:00
+modified: 2026-08-18T07:57:29.188+02:00
+published: 2026-08-18T07:57:29.188+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -42,7 +42,7 @@ zauberliste:
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane,Divine |
 
-You touch an object throughout the spell's casting. If the object is a <u>magic item</u> or some other <u>magical object</u>, you learn its properties and how to use them, whether it requires [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Attunement|🛠️Attunement]], and how many charges it has, if any. You learn whether any ongoing spells are affecting the item and what they are. If the item was created by a spell, you learn that spell's name.
+You touch an object throughout the spell's casting. If the object is a <u>magic item</u> or some other <u>magical object</u>, you learn its properties and how to use them, whether it requires [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Attunement/5e - Attunement|🛠️Attunement]], and how many charges it has, if any. You learn whether any ongoing spells are affecting the item and what they are. If the item was created by a spell, you learn that spell's name.
 
 If you instead touch a creature throughout the casting, you learn which ongoing spells, if any, are currently affecting it.
 

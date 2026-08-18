@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Adept
 description: A living weapon that hones their control over body and mind, and channels their unwavering focus to achieve amazing feats
 created: 2026-07-31T11:14:22.631+02:00
-modified: 2026-08-17T10:14:23.588+02:00
-published: 2026-08-17T10:14:23.588+02:00
+modified: 2026-08-18T08:36:30.395+02:00
+published: 2026-08-18T08:36:30.395+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -76,7 +76,7 @@ Adepts generally view adventures as tests of their physical and mental developme
 **<u>Exertion:</u>** The Martial Table shows how much Exertion you have to use Manuevers. To use one of these Maneuvers, you must expend an amount of Exertion as defined by the Maneuver. You regain any spent Exertion at the end of a **Short** or **Long Rest**.
 **<u>Maneuvers:</u>** You know a number of Maneuvers from Combat Traditions you are proficient in as shown in the Martial Table. The <u>Maneuvers Known column</u> of the Martial table shows when you learn more maneuvers from a tradition you are proficient with, while the <u>Maneuver Degree column</u> shows the highest degree you can select maneuvers from at a given level. Whenever you gain a Level in this Class you can replace one of your Maneuvers with another Maneuver of your choice.
 **<u>Fighting Style:</u>** You gain one Fighting Style [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats|🥇Class Feat]] of your choice.
-**<u>Weapon Masteries:</u>** You can use the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Mastery/5e - Weapon Mastery|🗡️Mastery]] Properties of all Weapons you are proficient in.
+**<u>Weapon Masteries:</u>** You can use the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Mastery Properties/5e - Weapon Mastery Properties|🗡️Mastery]] Properties of all Weapons you are proficient in.
 **<u>Extra Attack:</u>** Starting at <u>5th Level</u>, you can attack twice, instead of once, whenever you take the Attack action on your turn. Starting at <u>11th Level</u> you can attack three times and starting at <u>17th level</u> you can attack four times. This is shown in the Martial table below.
 
 #### Martial Table
@@ -186,7 +186,7 @@ You learn special defensive techniques. You gain the following Benefits:
 
 You honed your body into a weapon, mastering many styles of martial arts. You gain the following benefits:
 
-**<u>Martial Arts Attacks:</u>** For the purpose of your Adept abilities, **Martial Arts Attacks** are [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Unarmed Strike|⚔️Unarmed Strikes]], and any attacks with <u>melee weapons</u> that lack the <u>heavy</u> property. Your <u>Unarmed Strikes</u> gain the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Mastery/5e - Push Mastery Property|🗡️Push Mastery Property]] and count as _Martial melee Weapons_ for the purpose of [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Maneuvers|🤺Combat Maneuvers]] and other features.
+**<u>Martial Arts Attacks:</u>** For the purpose of your Adept abilities, **Martial Arts Attacks** are [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Unarmed Strike|⚔️Unarmed Strikes]], and any attacks with <u>melee weapons</u> that lack the <u>heavy</u> property. Your <u>Unarmed Strikes</u> gain the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Mastery Properties/5e - Push Mastery Property|🗡️Push Mastery Property]] and count as _Martial melee Weapons_ for the purpose of [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Maneuvers|🤺Combat Maneuvers]] and other features.
 
 So long as you are not wearing <u>heavy armor</u>, wielding a <u>shield</u>, or wielding a <u>heavy</u> weapon, your **Martial Arts Attacks** gain the following benefits:
 
@@ -326,4 +326,4 @@ You gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. F
 ## Inspiration/Quelle
 
 > [!inspiration] Inspiration/Quelle
-> **Class Artwork:**
+> **Class Artwork:** Joshua Raphael; Class Artwork Monk D\&D5e 2024 Player's Handbook

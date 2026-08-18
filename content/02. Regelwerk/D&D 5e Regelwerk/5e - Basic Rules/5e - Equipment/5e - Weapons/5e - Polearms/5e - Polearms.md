@@ -1,35 +1,50 @@
 ---
 publish: true
 title: 🗡️5e - Polearms
-created: 2026-08-06T14:51:20.301+02:00
-modified: 2026-08-06T14:51:30.009+02:00
-published: 2026-08-06T14:51:30.009+02:00
+created: 2026-08-18T10:45:47.132+02:00
+modified: 2026-08-18T11:39:40.793+02:00
+published: 2026-08-18T11:39:40.793+02:00
 tags:
   - "#Weapon"
   - "#5e"
 dateitags:
-  - "#Weapon"
+  - "#Weapons"
   - "#5e"
-status: ⏳
+status: ✅
 ---
 
-> [!metadata]- Metadata
->
-> > [!metadataoption]- Status
-> >
-> > #### Status
-> >
-> > | | |
-> > |---|---|
-> > |**Status** | `INPUT[Status][:status]` |
-> > |**Publish**|`INPUT[inlineSelect(option(true), option(false)):publish]`|
->
-> > [!metadataoption]- Bild
-> >
-> > #### Bild
-> >
-> > | | |
-> > |---|---|
-> > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|🗡️Weapons]].
 
 # 🗡️5e - Polearms🗡️
+
+This chapter lists all weapons with the "Polearm" category.
+
+```base
+views:
+  - type: table
+    name: 5e Weapons - Polearms
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Weapon", "#Item")
+        - '!dateitags.contains("#Legacy")'
+        - '!file.name.contains("Template")'
+        - category == "Polearm"
+    order:
+      - file.name
+      - type
+      - damage
+      - damagetype
+      - properties
+      - mastery
+      - a
+      - weight
+      - cost
+    sort:
+      - property: type
+        direction: DESC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.properties: 236
+
+```

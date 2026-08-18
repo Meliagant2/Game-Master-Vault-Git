@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Fighter
 description: A master of martial techniques with expertise in a wide variety of weapons and combat maneuvers.
 created: 2026-07-31T11:11:41.436+02:00
-modified: 2026-08-17T12:56:43.368+02:00
-published: 2026-08-17T12:56:43.368+02:00
+modified: 2026-08-18T08:36:30.426+02:00
+published: 2026-08-18T08:36:30.426+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -75,7 +75,7 @@ Some fighters feel drawn to use their training as adventurers. The dungeon delvi
 **<u>Exertion:</u>** The Martial Table shows how much Exertion you have to use Manuevers. To use one of these Maneuvers, you must expend an amount of Exertion as defined by the Maneuver. You regain any spent Exertion at the end of a **Short** or **Long Rest**.
 **<u>Maneuvers:</u>** You know a number of Maneuvers from Combat Traditions you are proficient in as shown in the Martial Table. The <u>Maneuvers Known column</u> of the Martial table shows when you learn more maneuvers from a tradition you are proficient with, while the <u>Maneuver Degree column</u> shows the highest degree you can select maneuvers from at a given level. Whenever you gain a Level in this Class you can replace one of your Maneuvers with another Maneuver of your choice.
 **<u>Fighting Style:</u>** You gain one Fighting Style [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats|🥇Class Feat]] of your choice.
-**<u>Weapon Masteries:</u>** You can use the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Mastery/5e - Weapon Mastery|🗡️Mastery]] Properties of all Weapons you are proficient in.
+**<u>Weapon Masteries:</u>** You can use the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Mastery Properties/5e - Weapon Mastery Properties|🗡️Mastery]] Properties of all Weapons you are proficient in.
 **<u>Extra Attack:</u>** Starting at <u>5th Level</u>, you can attack twice, instead of once, whenever you take the Attack action on your turn. Starting at <u>11th Level</u> you can attack three times and starting at <u>17th level</u> you can attack four times. This is shown in the Martial table below.
 
 #### Martial Table
@@ -224,7 +224,7 @@ You gain the following benefits:
 
 **<u>Combat Maneuver Tradition:</u>** You gain proficiency in one additional **Combat Tradition** of your choice, that is available to Fighters at 1st level.
 
-**<u>Flexible Mastery:</u>** When you attack with a weapon, you can replace that weapon's [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Mastery/5e - Weapon Mastery|🗡️Mastery Property]] with the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Mastery/5e - Push Mastery Property|🗡️Push]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Mastery/5e - Sap Mastery Property|🗡️Sap]], or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Mastery/5e - Slow Mastery Property|🗡️Slow]] mastery property for that attack.
+**<u>Flexible Mastery:</u>** When you attack with a weapon, you can replace that weapon's [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Mastery Properties/5e - Weapon Mastery Properties|🗡️Mastery Property]] with the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Mastery Properties/5e - Push Mastery Property|🗡️Push]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Mastery Properties/5e - Sap Mastery Property|🗡️Sap]], or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Mastery Properties/5e - Slow Mastery Property|🗡️Slow]] mastery property for that attack.
 
 ### Level 6: Feats
 
@@ -313,3 +313,8 @@ You have become an undisputed master of battle. You gain the following benefits:
 ### Level 20: Feats
 
 You gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Epic Boon Feats/5e - Epic Boon Feats|🥇Epic Boon Feat]], one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats|🥇Class Feat]], one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - General Feats/5e - General Feats|🥇General Feat]] and one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Skill Feats|🥇Skill Feat]] for which you qualify.
+
+## Inspiration/Quelle
+
+> [!inspiration] Inspiration/Quelle
+> **Class Artwork:** Nèstor Ossandón Leal; Class Artwork Monk D\&D5e 2024 Player's Handbook

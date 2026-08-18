@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-08-17T08:09:42.724+02:00
-published: 2026-08-17T08:09:42.724+02:00
+modified: 2026-08-18T10:03:40.002+02:00
+published: 2026-08-18T10:03:40.002+02:00
 tags:
   - "#Home"
 ---
@@ -39,3 +39,70 @@ views:
     imageFit: contain
 
 ```
+
+![[98. Diverses/Bilder/Regelwerk Bilder/Basic Rules/Basic Rules Equipment Adventuring Gear.png]]
+
+![[98. Diverses/Bilder/Regelwerk Bilder/Basic Rules/Basic Rules Equipment Attunement.png]]
+
+![[98. Diverses/Bilder/Regelwerk Bilder/Basic Rules/Basic Rules Equipment Currency.png]]
+
+![[98. Diverses/Bilder/Regelwerk Bilder/Basic Rules/Basic Rules Equipment Elixirs.png]]
+
+![[98. Diverses/Bilder/Regelwerk Bilder/Basic Rules/Basic Rules Equipment Oils.png]]
+
+![[98. Diverses/Bilder/Regelwerk Bilder/Basic Rules/Basic Rules Equipment Ointments.png]]
+
+![[98. Diverses/Bilder/Regelwerk Bilder/Basic Rules/Basic Rules Equipment Potions.png]]
+
+![[98. Diverses/Bilder/Regelwerk Bilder/Basic Rules/Basic Rules Equipment Grenades.png]]
+
+![[98. Diverses/Bilder/Regelwerk Bilder/Basic Rules/Basic Rules Equipment Spellcasting Foci.png]]
+
+![[98. Diverses/Bilder/Regelwerk Bilder/Basic Rules/Basic Rules Equipment Tools.png]]
+
+![[98. Diverses/Bilder/Regelwerk Bilder/Basic Rules/Basic Rules Equipment Weapons.png]]
+
+![[98. Diverses/Bilder/Regelwerk Bilder/Basic Rules/Basic Rules Equipment Armor.png]]
+
+![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Equipment.png]]
+
+![[98. Diverses/Bilder/Regelwerk Bilder/Basic Rules/Basic Rules Equipment Shields.png]]
+
+![[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Whip.png]]
+![[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Battleaxe.png]]
+![[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Blowgun.png]]
+![[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Club.png]]
+![[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Dagger.png]]
+![[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Dart.png]]
+![[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Flail.png]]
+![[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Glaive.png]]
+![[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Greataxe.png]]
+![[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Greatclub.png]]
+![[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Greatsword.png]]
+![[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Halberd.png]]
+![[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Handaxe.png]]
+![[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Handcrossbow.png]]
+![[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Heavy Crossbow.png]]
+![[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Javelin.png]]
+![[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Lance.png]]
+![[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Light Crossbow.png]]
+![[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Light Hammer.png]]
+![[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Longbow.png]]
+![[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Longsword.png]]
+![[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Mace.png]]
+![[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Maul.png]]
+![[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Morningstar.png]]
+![[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Musket.png]]
+![[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Pike.png]]
+![[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Pistol.png]]
+![[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Quarterstaff.png]]
+![[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Rapier.png]]
+![[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Scimitar.png]]
+![[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Shortbow.png]]
+![[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Shortsword.png]]
+![[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Sickle.png]]
+![[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Sling.png]]
+![[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Spear.png]]
+![[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Trident.png]]
+![[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon War Pick.png]]
+![[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Warhammer.png]]

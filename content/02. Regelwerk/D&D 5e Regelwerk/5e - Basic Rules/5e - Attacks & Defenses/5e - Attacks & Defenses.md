@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 5e - Attacks & Defenses
+title: ♟️5e - Attacks & Defenses
 created: 2026-07-21T09:51:36.256+02:00
-modified: 2026-07-29T15:33:31.001+02:00
-published: 2026-07-29T15:33:31.001+02:00
+modified: 2026-08-18T08:33:26.016+02:00
+published: 2026-08-18T08:33:26.016+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -34,9 +34,7 @@ status: ⏳
 > > |---|---|
 > > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
 
-# 5e - Attacks & Defenses
-
-![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Attacks and Defenses.png]]
+# ♟️5e - Attacks & Defenses♟️
 
 ## Quellen
 

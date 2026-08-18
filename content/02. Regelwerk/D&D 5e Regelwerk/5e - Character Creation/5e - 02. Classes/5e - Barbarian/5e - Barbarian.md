@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Barbarian
 created: 2026-07-20T12:11:02.510+02:00
-modified: 2026-08-17T13:44:15.388+02:00
-published: 2026-08-17T13:44:15.388+02:00
+modified: 2026-08-18T08:36:30.415+02:00
+published: 2026-08-18T08:36:30.415+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -98,7 +98,7 @@ BESCHREIBUNG
 **<u>Exertion:</u>** The Martial Table shows how much Exertion you have to use Manuevers. To use one of these Maneuvers, you must expend an amount of Exertion as defined by the Maneuver. You regain any spent Exertion at the end of a **Short** or **Long Rest**.
 **<u>Maneuvers:</u>** You know a number of Maneuvers from Combat Traditions you are proficient in as shown in the Martial Table. The <u>Maneuvers Known column</u> of the Martial table shows when you learn more maneuvers from a tradition you are proficient with, while the <u>Maneuver Degree column</u> shows the highest degree you can select maneuvers from at a given level. Whenever you gain a Level in this Class you can replace one of your Maneuvers with another Maneuver of your choice.
 **<u>Fighting Style:</u>** You gain one Fighting Style [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats|🥇Class Feat]] of your choice.
-**<u>Weapon Masteries:</u>** You can use the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Mastery/5e - Weapon Mastery|🗡️Mastery]] Properties of all Weapons you are proficient in.
+**<u>Weapon Masteries:</u>** You can use the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Mastery Properties/5e - Weapon Mastery Properties|🗡️Mastery]] Properties of all Weapons you are proficient in.
 **<u>Extra Attack:</u>** Starting at <u>5th Level</u>, you can attack twice, instead of once, whenever you take the Attack action on your turn. Starting at <u>11th Level</u> you can attack three times and starting at <u>17th level</u> you can attack four times. This is shown in the Martial table below.
 
 #### Martial Table
