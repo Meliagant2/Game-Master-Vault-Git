@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Fate-Touched
 created: 2026-08-11T12:02:33.344+02:00
-modified: 2026-08-11T12:05:00.405+02:00
-published: 2026-08-11T12:05:00.405+02:00
+modified: 2026-08-18T14:31:51.802+02:00
+published: 2026-08-18T14:31:51.802+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -13,6 +13,7 @@ dateitags:
 status: ✅
 category: Origin
 level: 0
+prerequisite: Special
 ---
 
 # 🥇5e - Fate-Touched🥇
@@ -22,7 +23,7 @@ level: 0
 > |---|---|
 > |**Category**|Origin |
 > |**Level Requirement**|0 |
-> |**Prerequisite**| |
+> |**Prerequisite**|Special |
 > |**Repeatable**| |
 
 You gain the following benefits:

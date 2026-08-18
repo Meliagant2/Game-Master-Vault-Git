@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Bomber
 created: 2026-08-06T15:56:15.933+02:00
-modified: 2026-08-06T15:58:04.991+02:00
-published: 2026-08-06T15:58:04.991+02:00
+modified: 2026-08-18T14:21:16.242+02:00
+published: 2026-08-18T14:21:16.242+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -13,7 +13,7 @@ dateitags:
 status: ✅
 category: General
 level: 2
-source: Astarion's Book of Hunger
+source: Astarion's Book of Hungers
 ---
 
 # 🥇5e - Bomber🥇
@@ -35,4 +35,4 @@ You gain the following benefits:
 ## Quelle
 
 > [!inspiration] Quelle/Inspiration
-> Astarion's Book of Hunger
+> Astarion's Book of Hungers
