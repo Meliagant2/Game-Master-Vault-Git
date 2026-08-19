@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Infernal Pact
 created: 2026-08-19T12:01:46.256+02:00
-modified: 2026-08-19T12:15:34.560+02:00
-published: 2026-08-19T12:15:34.560+02:00
+modified: 2026-08-19T13:02:30.166+02:00
+published: 2026-08-19T13:02:30.166+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -36,7 +36,7 @@ You gain the following benefits:
 **<u>Silver-Tongued:</u>** You gain proficiency in the <u>Deception</u> skill, or if you are already proficient in <u>Deception</u>, an <u>expertise die</u> in that skill.
 
 > [!info] Feat "Upgrades"
-> Taking this Feat allows you, to take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Fey Sentinel|🥇Fey Sentinel]] and/or [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Fey Tormentor|🥇Fey Tormentor]] Feats Later
+> Taking this Feat allows you, to take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Infernal Bulwark|🥇Infernal Bulwark]] and/or [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Infernal Dragoon|🥇Infernal Dragoon]] Feats Later
 
 ## Quelle
 

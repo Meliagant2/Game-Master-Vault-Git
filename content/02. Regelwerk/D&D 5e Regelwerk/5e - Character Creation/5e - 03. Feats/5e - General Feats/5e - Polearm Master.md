@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Polearm Master
 created: 2026-08-06T14:50:23.023+02:00
-modified: 2026-08-18T10:45:14.704+02:00
-published: 2026-08-18T10:45:14.704+02:00
+modified: 2026-08-19T13:38:37.677+02:00
+published: 2026-08-19T13:38:37.677+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -12,7 +12,7 @@ dateitags:
   - "#5e"
 status: ✅
 category: General
-level: 4
+level: 6
 prerequisite: STR or DEX +1
 source: Player's Handbook 2014
 ---
@@ -23,7 +23,7 @@ source: Player's Handbook 2014
 > | | |
 > |---|---|
 > |**Category**|General |
-> |**Level Requirement**|4 |
+> |**Level Requirement**|6 |
 > |**Prerequisite**|STR or DEX +1 |
 > |**Repeatable**| |
 

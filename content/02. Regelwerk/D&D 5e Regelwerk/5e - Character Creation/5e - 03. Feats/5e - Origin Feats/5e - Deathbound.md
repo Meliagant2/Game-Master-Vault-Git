@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 🥇5e - Fate-Touched
-created: 2026-08-11T12:02:33.344+02:00
-modified: 2026-08-19T14:10:27.746+02:00
-published: 2026-08-19T14:10:27.746+02:00
+title: 🥇5e - Deathbound
+created: 2026-08-19T14:07:49.685+02:00
+modified: 2026-08-19T14:09:53.292+02:00
+published: 2026-08-19T14:09:53.292+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -13,27 +13,24 @@ dateitags:
 status: ✅
 category: Origin
 level: 0
-prerequisite: Special
 source: "Grim Hollow: Player's Guide (2024)"
 ---
 
-# 🥇5e - Fate-Touched🥇
+# 🥇5e - Deathbound🥇
 
 > [!wikibox]
 > | | |
 > |---|---|
 > |**Category**|Origin |
 > |**Level Requirement**|0 |
-> |**Prerequisite**|Special |
+> |**Prerequisite**| |
 > |**Repeatable**| |
 
 You gain the following benefits:
 
-**<u>Fortune's Fortitude:</u>** When you fail a <u>D20 Test</u>, you can expend and roll one <u>Hit Die</u>, adding that number to your result. You can do this only <u>once</u> per <u>D20 Test</u>.
+**<u>One Last Breath:</u>** If you have two [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Saves/5e - Death Save|🎲Death Save]] failures, you have **[Advantage](https://5e.tools/variantrules.html#advantage_xphb)** on [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Saves/5e - Death Save|🎲Death Saves]] until you are no longer at _0 HP_.
 
-**<u>Number of Uses:</u>** You can use this benefit a number of times equal to <u>your Proficiency Bonus</u>, and you regain all uses of this ability when you finish a **Long Rest**.
-
-**<u>Fortune of the Unknown:</u>** When using the **Fortune's Fortitude** benefit, if you roll the _highest_ or _lowest_ number on the Hit Die, you regain that <u>Hit Die</u>. It still counts as a use of **Fortune's Fortitude**.
+**<u>Recuperation:</u>** When you spend a _Hit Die_ during a **Short Rest** to recover _Hit Points_, you can roll the _Hit Die_ twice and use the higher roll.
 
 ### Backgrounds that grant this Feat
 
