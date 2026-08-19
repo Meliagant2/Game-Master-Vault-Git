@@ -2,8 +2,8 @@
 publish: true
 title: ⛏️5e - Entertainer⛏️
 created: 2026-07-21T13:40:44.481+02:00
-modified: 2026-08-17T15:06:58.779+02:00
-published: 2026-08-17T15:06:58.779+02:00
+modified: 2026-08-19T10:06:31.890+02:00
+published: 2026-08-19T10:06:31.890+02:00
 tags:
   - "#Background"
   - "#5e"
@@ -30,7 +30,7 @@ In any settlement in which you haven’t made yourself unpopular, your performan
 **Skill Proficiencies:** <u>Performance</u>, and either <u>Acrobatics</u>, <u>Culture</u>, or <u>Persuasion</u>.
 **Tool Proficiencies:** <u>Gaming set</u>, one [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Musical Instruments/5e - Musical Instruments|🛠️Musical Instrument]].
 **Equipment:** Lute or other musical instrument, costume, 3 silver
-**<u>Feat:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Musician|🥇Musician]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Tireless Reveler|🥇Tireless Reveler]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Well-Versed|🥇Well-Versed]] or a **Special** Origin Feat.
+**<u>Feat:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Musician|🥇Musician]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Travelling Performer|🥇Travelling Performer]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Well-Versed|🥇Well-Versed]] or a **Special** Origin Feat.
 
 **Connection and Memento:** Roll <u>1d10</u>, choose, or make up your own.
 

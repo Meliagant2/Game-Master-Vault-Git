@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Mark of Hospitality
 created: 2026-08-18T14:43:44.413+02:00
-modified: 2026-08-18T15:26:21.875+02:00
-published: 2026-08-18T15:26:21.875+02:00
+modified: 2026-08-19T08:20:02.248+02:00
+published: 2026-08-19T08:20:02.248+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -13,7 +13,7 @@ dateitags:
 status: ✅
 category: Origin
 level: 0
-prerequisite: Special, No other Dragonmark
+prerequisite: Special, No other Spellmark
 source: "Eberron: Forge of the Artificer"
 ---
 
@@ -24,7 +24,7 @@ source: "Eberron: Forge of the Artificer"
 > |---|---|
 > |**Category**|Origin |
 > |**Level Requirement**|0 |
-> |**Prerequisite**|Special, No other Dragonmark |
+> |**Prerequisite**|Special, No other Spellmark |
 > |**Repeatable**| |
 
 You gain the following benefits:
@@ -41,6 +41,9 @@ When you reach character _level 3_, you also always have the [[02. Regelwerk/D&
 **Spell level 3:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Level 3 Conjuration/5e - Create Food and Water|☄️Create Food and Water]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 3 Evocation/5e - Tiny Hut (Spell)|☄️Tiny Hut]]
 **Spell level 4:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 4 Abjuration/5e - Aura of Purity (Spell)|☄️Aura of Purity]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 4 Abjuration/5e - Private Sanctum (Spell)|☄️Private Sanctum]]
 **Spell level 5:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 5 Abjuration/5e - Hallow (Spell)|☄️Hallow]]
+
+> [!info] Feat "Upgrades"
+> Taking this Feat allows you, to take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Greater Mark of Hospitality|🥇Greater Mark of Hospitality]] and/or the [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - General Feats/5e - Potent Spellmark|🥇Potent Spellmark]] Feats Later
 
 ### Backgrounds that grant this Feat
 

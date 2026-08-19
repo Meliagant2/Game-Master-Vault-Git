@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Bard
 description: A charismatic performer who uses their music as a conduit to wield powerful magic.
 created: 2026-07-31T10:15:39.250+02:00
-modified: 2026-08-17T15:41:44.888+02:00
-published: 2026-08-17T15:41:44.888+02:00
+modified: 2026-08-19T08:42:29.245+02:00
+published: 2026-08-19T08:42:29.245+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -67,6 +67,8 @@ The greatest strength of bards is their sheer versatility. Many bards prefer to 
 > | **Starting Equipment**         | <u>Choose A or B</u>: **(A)** 1 Light Armor, 2 Weapons, a Musical Instrument, 30 SP; **(B)** 150 SP          |
 
 ### Spellcaster Class
+
+#### Spellcasting
 
 **<u>Spellcasting Ability:</u>** Charisma
 **<u>Spell Attack:</u>** `CHA + Proficiency Bonus`

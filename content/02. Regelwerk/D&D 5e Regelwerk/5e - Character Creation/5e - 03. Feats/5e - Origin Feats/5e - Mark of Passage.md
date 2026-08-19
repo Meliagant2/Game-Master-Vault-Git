@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Mark of Passage
 created: 2026-08-18T14:43:44.413+02:00
-modified: 2026-08-18T15:43:25.022+02:00
-published: 2026-08-18T15:43:25.022+02:00
+modified: 2026-08-19T08:20:10.630+02:00
+published: 2026-08-19T08:20:10.630+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -13,7 +13,7 @@ dateitags:
 status: ✅
 category: Origin
 level: 0
-prerequisite: Special, No other Dragonmark
+prerequisite: Special, No other Spellmark
 source: "Eberron: Forge of the Artificer"
 ---
 
@@ -24,7 +24,7 @@ source: "Eberron: Forge of the Artificer"
 > |---|---|
 > |**Category**|Origin |
 > |**Level Requirement**|0 |
-> |**Prerequisite**|Special, No other Dragonmark |
+> |**Prerequisite**|Special, No other Spellmark |
 > |**Repeatable**| |
 
 You gain the following benefits:
@@ -41,6 +41,9 @@ You gain the following benefits:
 **Spell level 3:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 3 Transmutation/5e - Blink (Spell)|☄️Blink]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Illusion/5e - Level 3 Illusion/5e - Phantom Steed (Spell)|☄️Phantom Steed]]
 **Spell level 4:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Level 4 Conjuration/5e - Dimension Door (Spell)|☄️Dimension Door]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 4 Abjuration/5e - Freedom of Movement (Spell)|☄️Freedom of Movement]]
 **Spell level 5:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Level 5 Conjuration/5e - Teleportation Circle (Spell)|☄️Teleportation Circle]]
+
+> [!info] Feat "Upgrades"
+> Taking this Feat allows you, to take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Greater Mark of Passage|🥇Greater Mark of Passage]] and/or the [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - General Feats/5e - Potent Spellmark|🥇Potent Spellmark]] Feats Later
 
 ### Backgrounds that grant this Feat
 

@@ -2,8 +2,8 @@
 publish: true
 title: ☠️5e - Exhaustion
 created: 2026-07-29T14:55:41.435+02:00
-modified: 2026-08-14T12:36:16.522+02:00
-published: 2026-08-14T12:36:16.522+02:00
+modified: 2026-08-19T07:44:51.282+02:00
+published: 2026-08-19T07:44:51.282+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -15,7 +15,7 @@ status: ✅
 
 # ☠️5e - Exhaustion☠️
 
-Exhaustion is split up into two sub-Conditions: Fatigue and Strife. Both can go from `1 to 5`.
+Exhaustion is split up into two sub-Conditions: Fatigue and Strife. Both can go from `1 to 5`.  If a feature or an effect mentions **Exhaustion**, it affects both Fatigue and Strife at the same time.
 
 #### [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Fatigue|☠️Fatigue]]
 

@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Cartomancer
 created: 2026-08-07T09:59:01.200+02:00
-modified: 2026-08-18T13:50:15.945+02:00
-published: 2026-08-18T13:50:15.945+02:00
+modified: 2026-08-19T11:43:27.292+02:00
+published: 2026-08-19T11:43:27.292+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -13,7 +13,7 @@ dateitags:
 status: ✅
 category: General
 level: 4
-prerequisite: Spellcasting Feature
+prerequisite: Spellcasting
 source: The Book of Many Things
 ---
 
@@ -24,7 +24,7 @@ source: The Book of Many Things
 > |---|---|
 > |**Category**|General |
 > |**Level Requirement**|4 |
-> |**Prerequisite**|Spellcasting Feature |
+> |**Prerequisite**|Spellcasting |
 > |**Repeatable**| |
 
 You gain the following benefits:

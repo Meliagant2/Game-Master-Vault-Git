@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Mark of Scribing
 created: 2026-08-18T14:43:44.413+02:00
-modified: 2026-08-18T15:49:20.073+02:00
-published: 2026-08-18T15:49:20.073+02:00
+modified: 2026-08-19T08:20:14.459+02:00
+published: 2026-08-19T08:20:14.459+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -13,7 +13,7 @@ dateitags:
 status: ✅
 category: Origin
 level: 0
-prerequisite: Special, No other Dragonmark
+prerequisite: Special, No other Spellmark
 source: "Eberron: Forge of the Artificer"
 ---
 
@@ -24,7 +24,7 @@ source: "Eberron: Forge of the Artificer"
 > |---|---|
 > |**Category**|Origin |
 > |**Level Requirement**|0 |
-> |**Prerequisite**|Special, No other Dragonmark |
+> |**Prerequisite**|Special, No other Spellmark |
 > |**Repeatable**| |
 
 You gain the following benefits:
@@ -41,6 +41,9 @@ When you reach character _level 3_, you also always have the [[02. Regelwerk/D&
 **Spell level 3:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Divination/5e - Level 3 Divination/5e - Sending (Spell)|☄️Sending]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Divination/5e - Level 3 Divination/5e - Tongues (Spell)|☄️Tongues]]
 **Spell level 4:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Divination/5e - Level 4 Divination/5e - Arcane Eye (Spell)|☄️Arcane Eye]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 4 Enchantment/5e - Confusion (Spell)|☄️Confusion]]
 **Spell level 5:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Illusion/5e - Level 5 Illusion/5e - Dream (Spell)|☄️Dream]]
+
+> [!info] Feat "Upgrades"
+> Taking this Feat allows you, to take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Greater Mark of Scribing|🥇Greater Mark of Scribing]] and/or the [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - General Feats/5e - Potent Spellmark|🥇Potent Spellmark]] Feats Later
 
 ### Backgrounds that grant this Feat
 

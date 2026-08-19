@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Mark of Storm
 created: 2026-08-18T14:43:44.413+02:00
-modified: 2026-08-18T16:04:34.788+02:00
-published: 2026-08-18T16:04:34.788+02:00
+modified: 2026-08-19T08:20:26.489+02:00
+published: 2026-08-19T08:20:26.489+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -13,33 +13,9 @@ dateitags:
 status: ✅
 category: Origin
 level: 0
-prerequisite: Special, No other Dragonmark
+prerequisite: Special, No other Spellmark
 source: "Eberron: Forge of the Artificer"
 ---
-
-> [!metadata]- Metadata
->
-> > [!metadataoption]- Status
-> >
-> > #### Status
-> >
-> > | | |
-> > |---|---|
-> > |**Status** | `INPUT[Status][:status]` |
-> > |**Publish**|`INPUT[inlineSelect(option(true), option(false)):publish]`|
->
-> > [!metadataoption]- Info
-> >
-> > #### Info
-> >
-> > | | |
-> > |---|---|
-> > |**Display Title** | `INPUT[textArea:title]`|
-> > |**Category** | `INPUT[inlineSelect(option(Class), option(Epic Boon), option(General), option(Origin), option(Skill)):category]` |
-> > |**Level Requirement** |`INPUT[number:level]`|
-> > |**Prerequisite** | `INPUT[textArea:prerequisite]`|
-> > |**Repeatable** | `INPUT[inlineSelect(option(null), option(x)):repeatable]` |
-> > |**Source** | `INPUT[textArea:source]`|
 
 # 🥇5e - Mark of Storm🥇
 
@@ -48,7 +24,7 @@ source: "Eberron: Forge of the Artificer"
 > |---|---|
 > |**Category**|Origin |
 > |**Level Requirement**|0 |
-> |**Prerequisite**|Special, No other Dragonmark |
+> |**Prerequisite**|Special, No other Spellmark |
 > |**Repeatable**| |
 
 You gain the following benefits:
@@ -65,6 +41,9 @@ You gain the following benefits:
 **Spell level 3:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Level 3 Conjuration/5e - Sleet Storm (Spell)|☄️Sleet Storm]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 3 Evocation/5e - Wind Wall (Spell)|☄️Wind Wall]]
 **Spell level 4:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Level 4 Conjuration/5e - Conjure Minor Elementals (Spell)|☄️Conjure Minor Elementals]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 4 Transmutation/5e - Control Water (Spell)|☄️Control Water]]
 **Spell level 5:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Level 5 Conjuration/5e - Conjure Elemental (Spell)|☄️Conjure Elemental]]
+
+> [!info] Feat "Upgrades"
+> Taking this Feat allows you, to take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Greater Mark of Storm|🥇Greater Mark of Storm]] and/or the [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - General Feats/5e - Potent Spellmark|🥇Potent Spellmark]] Feats Later
 
 ### Backgrounds that grant this Feat
 

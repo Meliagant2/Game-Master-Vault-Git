@@ -1,9 +1,9 @@
 ---
 publish: true
-title: ✨5e - Inspiration✨
+title: ✨5e - Inspiration
 created: 2026-07-21T15:23:08.714+02:00
-modified: 2026-07-22T07:20:07.561+02:00
-published: 2026-07-22T07:20:07.561+02:00
+modified: 2026-08-19T11:52:15.411+02:00
+published: 2026-08-19T11:52:15.411+02:00
 tags:
   - "#Grundregeln"
   - "#5e"

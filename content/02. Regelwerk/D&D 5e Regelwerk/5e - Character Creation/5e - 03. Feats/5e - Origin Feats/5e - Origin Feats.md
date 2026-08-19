@@ -3,8 +3,8 @@ publish: true
 title: 🥇5e - Origin Feats
 description: Available to Characters through their Background.
 created: 2026-08-04T10:02:13.169+02:00
-modified: 2026-08-18T14:46:55.210+02:00
-published: 2026-08-18T14:46:55.210+02:00
+modified: 2026-08-19T08:14:36.753+02:00
+published: 2026-08-19T08:14:36.753+02:00
 tags:
   - "#Charaktererstellung"
   - "#5e"
@@ -22,7 +22,7 @@ Origin Feats are Feats your Character starts with. They earned them throughout t
 
 **Dark Gifts:** The Dark Powers of the world influence many who struggle within their clutches, tempting both the innocent and the ambitious with whispered promises. These sinister bargains come in dreams or mysterious visions. Their terms are always clear and their prices terrible. With the GM's permission, whenever you would gain a feat from the Origin category, you can instead gain a Dark Gift feat.
 
-**Marks:** Some characters are born with a special, magical mark. These marks are also called "Dragonmarks", for it is believed, that the latent magic of dragons, who once upon a time ruled the world, infects, or strengthens some people when they are born.
+**Marks:** Spellmarks are mysterious and magical symbols that appear on the skin of some people across the world. Most spellmarks are small—no more than the size of the bearer's palm—and grant limited magical power. And even these minor marks are rather rare. But rarer and more powerful marks appear on some individuals. Greater spellmarks manifest only on people who already possess an ordinary mark. When a greater spellmark manifests, it grows from an ordinary mark and expands outward to two or three times the original mark's size.
 
 **Touched:** Some feats are called "touched" (e.g. [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Fey Touched|🥇Fey Touched]]). Characters who start out with a feat like that have to think about, how they came into contact with the given source. Did they live in the realm of the Fey? Were they bitten by a Vampire, but not completely turned? Is there some sort of connection to the cosmic power of fate?
 
