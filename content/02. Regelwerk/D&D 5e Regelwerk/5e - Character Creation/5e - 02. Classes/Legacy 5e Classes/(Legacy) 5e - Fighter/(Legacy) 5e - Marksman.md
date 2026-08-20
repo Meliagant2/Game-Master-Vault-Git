@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - Marksman🦸‍♀️
 created: 2026-07-27T12:10:07.575+02:00
-modified: 2026-08-17T10:12:29.890+02:00
-published: 2026-08-17T10:12:29.890+02:00
+modified: 2026-08-20T06:45:33.650+02:00
+published: 2026-08-20T06:45:33.650+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -58,4 +58,4 @@ Your accurate reflexes allow you to threaten shots at a moment’s notice. You m
 
 ### Level 17: Critical Shot
 
-You can hit miniscule targets at ludicrous ranges with seemingly impossible accuracy. Whenever you take the **Attack action** and are able to make multiple ranged attacks, you may forgo all of those ranged attacks except for one to turn that remaining attack into a **Critical Shot**, making a ranged weapon attack with **ADV**. If your **Critical Shot** hits it becomes a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Checks & Saves Outcomes/5e - Critical Success|🎲Critical Hit]].
+You can hit miniscule targets at ludicrous ranges with seemingly impossible accuracy. Whenever you take the **Attack action** and are able to make multiple ranged attacks, you may forgo all of those ranged attacks except for one to turn that remaining attack into a **Critical Shot**, making a ranged weapon attack with **ADV**. If your **Critical Shot** hits it becomes a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Checks & Saves Outcomes/5e - Critical Success|🎲Critical Hit]].

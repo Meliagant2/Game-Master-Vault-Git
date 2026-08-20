@@ -2,8 +2,8 @@
 publish: true
 title: 🔮5e - Ice🔮
 created: 2026-07-21T15:26:14.616+02:00
-modified: 2026-07-29T08:11:24.338+02:00
-published: 2026-07-29T08:11:24.338+02:00
+modified: 2026-08-20T06:45:34.187+02:00
+published: 2026-08-20T06:45:34.187+02:00
 tags:
   - "#Destiny"
   - "#5e"
@@ -17,7 +17,7 @@ status: ✅
 
 The ice is quiet, a still and solemn thing content to merely be. Ice is uncaring, stubborn, and somber. Those with a destiny of ice are harsh and calculating, slow and purposeful. They tend towards the distant and the calm, unnerved by the bustle of activity and reassured by isolation and stillness. They are beings of cold calculation and unwavering ideals, bulwarks against change who work to keep the world as it is.
 
-**Source of Inspiration: Frigid Stillness:** You draw inspiration from contemplation and stillness. You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Inspiration|✨Inspiration]] whenever you spend extended time alone tending to your own quiet interests. Complete a complicated or difficult task on your own, finish crafting a complex item, spend at least 24 hours in relative isolation and silence.
+**Source of Inspiration: Frigid Stillness:** You draw inspiration from contemplation and stillness. You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Inspiration|✨Inspiration]] whenever you spend extended time alone tending to your own quiet interests. Complete a complicated or difficult task on your own, finish crafting a complex item, spend at least 24 hours in relative isolation and silence.
 **Inspiration Feature: Chill Emotions:** Your mind is set and steady and you can easily center yourself even amidst chaos. As an **Action**, you may spend your inspiration to immediately end the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Confused|☠️Confused]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Frightened|☠️Frightened]] and [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Rattled|☠️Rattled]] conditions on yourself.
 
 ##### Fulfilling Your Destiny

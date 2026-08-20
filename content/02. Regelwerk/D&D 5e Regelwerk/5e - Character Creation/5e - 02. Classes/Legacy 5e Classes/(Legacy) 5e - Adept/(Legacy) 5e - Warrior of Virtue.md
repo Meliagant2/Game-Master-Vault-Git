@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - Warrior of Virtue🦸‍♀️
 created: 2026-07-22T12:06:01.852+02:00
-modified: 2026-08-17T10:12:32.756+02:00
-published: 2026-08-17T10:12:32.756+02:00
+modified: 2026-08-20T06:53:47.786+02:00
+published: 2026-08-20T06:53:47.786+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -35,7 +35,7 @@ In addition, once per long rest when you would gain a level of [[02. Regelwerk/D
 
 When you perform specific acts of physical and martial prowess, you attract the attention of powerful otherworldly beings—entities that you can call upon for power. Choose three of the following benefits:
 
-**<u>Boon of Death:</u>** The favor of gods of death falls upon you whenever you take a life. When you reduce a living creature to 0 hit points, you can use your **Reaction** to spend <u>2 exertion</u> and gain a number of <u>temporary hit points</u> equal to <u>your Martial Arts die + WIS</u>. In addition, you have **ADV** on [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Saves/5e - Death Save|🎲Death Saves]] for 1 minute.
+**<u>Boon of Death:</u>** The favor of gods of death falls upon you whenever you take a life. When you reduce a living creature to 0 hit points, you can use your **Reaction** to spend <u>2 exertion</u> and gain a number of <u>temporary hit points</u> equal to <u>your Martial Arts die + WIS</u>. In addition, you have **ADV** on [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Death Save|🎲Death Saves]] for 1 minute.
 
 **<u>Boon of Hunting:</u>** When you succeed on a <u>Survival</u> check to Hunt and Gather, you find yourself under the favor of hunting gods and gather twice as much Supply.
 
@@ -45,7 +45,7 @@ When you perform specific acts of physical and martial prowess, you attract the 
 
 **<u>Boon of Tactics:</u>** When you make an [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Reactions/5e - Opportunity Attack|⚔️Opportunity Attack]] against a creature, gods of battle show you favor. You can spend <u>2 exertion</u> to gain **ADV** on the opportunity attack .
 
-**<u>Boon of War:</u>** When you score a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Checks & Saves Outcomes/5e - Critical Success|🎲Critical Hit]] against a creature, you find yourself under the favor of war gods and can use your **Reaction** to spend <u>2 exertion</u> and acquire this boon. Your next successful melee weapon attack deals additional damage equal to <u>your Martial Arts die + WIS</u>.
+**<u>Boon of War:</u>** When you score a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Checks & Saves Outcomes/5e - Critical Success|🎲Critical Hit]] against a creature, you find yourself under the favor of war gods and can use your **Reaction** to spend <u>2 exertion</u> and acquire this boon. Your next successful melee weapon attack deals additional damage equal to <u>your Martial Arts die + WIS</u>.
 
 ### Level 13: Sacred Bulk
 

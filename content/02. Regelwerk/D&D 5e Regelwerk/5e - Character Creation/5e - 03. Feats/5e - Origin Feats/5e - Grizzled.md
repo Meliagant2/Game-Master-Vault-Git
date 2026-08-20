@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Grizzled
 created: 2026-08-19T11:53:07.484+02:00
-modified: 2026-08-19T11:55:23.036+02:00
-published: 2026-08-19T11:55:23.036+02:00
+modified: 2026-08-20T06:45:34.109+02:00
+published: 2026-08-20T06:45:34.109+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -32,7 +32,7 @@ You gain the following benefits:
 
 **<u>Survive:</u>** You require half as much food and water to survive, and you have **ADV** on <u>Survival</u> checks made to forage for food and water.
 
-**<u>Withstand:</u>** Immediately after you take damage that causes you to be [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Bloodied|☠️Bloodied]], you gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Inspiration|✨Inspiration]]. <u>Once</u> you've used this benefit, you can't use it again until you finish a **Short** or **Long Rest**.
+**<u>Withstand:</u>** Immediately after you take damage that causes you to be [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Bloodied|☠️Bloodied]], you gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Inspiration|✨Inspiration]]. <u>Once</u> you've used this benefit, you can't use it again until you finish a **Short** or **Long Rest**.
 
 ### Backgrounds that grant this Feat
 

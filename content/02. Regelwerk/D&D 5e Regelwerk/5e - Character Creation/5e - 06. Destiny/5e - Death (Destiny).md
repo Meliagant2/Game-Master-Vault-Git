@@ -2,8 +2,8 @@
 publish: true
 title: 🔮5e - Death🔮
 created: 2026-07-21T15:26:14.616+02:00
-modified: 2026-08-12T07:44:29.074+02:00
-published: 2026-08-12T07:44:29.074+02:00
+modified: 2026-08-20T06:45:34.154+02:00
+published: 2026-08-20T06:45:34.154+02:00
 tags:
   - "#Destiny"
   - "#5e"
@@ -17,7 +17,7 @@ status: ✅
 
 All things end. This is right, this is nature. Death is a part of life, defending others often requires death, and unnaturally extended lives often require ending. Those with a destiny of death are deliverers of finality. There may be a specific person or type of creature they are devoted to ending, or it may be life in general.
 
-**Source of Inspiration: Endings:** You draw inspiration from the ending of lives, specifically lives of greater import whose ending is felt by others. You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Inspiration|✨Inspiration]] whenever you are directly responsible for ending the life of something meaningful, whether it’s that of a particularly powerful monster or a more abstract “life”, such as the practice of a time-honored tradition. Kill or participate in killing a creature with CR equal to or higher than your class level, end an established organization, stop a long-standing tradition, break something ancient.
+**Source of Inspiration: Endings:** You draw inspiration from the ending of lives, specifically lives of greater import whose ending is felt by others. You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Inspiration|✨Inspiration]] whenever you are directly responsible for ending the life of something meaningful, whether it’s that of a particularly powerful monster or a more abstract “life”, such as the practice of a time-honored tradition. Kill or participate in killing a creature with CR equal to or higher than your class level, end an established organization, stop a long-standing tradition, break something ancient.
 **Inspiration Feature: Death-Scent:** You are intricately familiar with the cycle of life and death and its many interruptions. As a **Bonus Action**, you can spend your inspiration to detect the location of either <u>undead</u> creatures or inanimate corpses within <u>60 feet</u> of yourself. You learn the CR of any undead you detect in this way, as well as two of the following for a single undead (chosen after learning their location and CR): <u>resistances</u>, <u>immunities</u>, <u>vulnerabilities</u>, what languages it speaks, or its <u>Armor Class</u>.
 
 You learn the general cause of death for any corpse you detect with this ability (for example, you know a creature died of poison, but not what kind or how it was administered), its CR in life, and its creature type. You also gain **ADV** on all <u>Medicine</u> checks to examine a corpse you have detected in this way if you choose to exhume and study it.

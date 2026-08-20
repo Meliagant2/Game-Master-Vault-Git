@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - Paladin🦸‍♀️
 created: 2026-07-20T12:11:02.575+02:00
-modified: 2026-08-17T15:24:28.462+02:00
-published: 2026-08-17T15:24:28.462+02:00
+modified: 2026-08-20T06:45:33.702+02:00
+published: 2026-08-20T06:45:33.702+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -602,7 +602,7 @@ You gain a more powerful aura that is active alongside your **Sacred Aura**. The
 
 **<u>Aura of Courage:</u>** You and allies within range cannot be [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Frightened|☠️Frightened]].
 
-**<u>Aura of Smiting:</u>** Whenever an ally within your aura scores a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Checks & Saves Outcomes/5e - Critical Success|🎲Critical Hit]] with a <u>weapon attack</u>, they deal additional <u>radiant</u> damage equal to `1/2 x your paladin level (rounded down)`.
+**<u>Aura of Smiting:</u>** Whenever an ally within your aura scores a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Checks & Saves Outcomes/5e - Critical Success|🎲Critical Hit]] with a <u>weapon attack</u>, they deal additional <u>radiant</u> damage equal to `1/2 x your paladin level (rounded down)`.
 
 **<u>Aura of Willpower:</u>** You and allies within range cannot be [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]].
 

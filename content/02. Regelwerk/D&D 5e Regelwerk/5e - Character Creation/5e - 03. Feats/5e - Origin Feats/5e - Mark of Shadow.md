@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Mark of Shadow
 created: 2026-08-18T14:43:44.413+02:00
-modified: 2026-08-19T08:20:23.477+02:00
-published: 2026-08-19T08:20:23.477+02:00
+modified: 2026-08-20T06:36:34.562+02:00
+published: 2026-08-20T06:36:34.562+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -41,7 +41,7 @@ You gain the following benefits:
 **Spell level 5:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Illusion/5e - Level 5 Illusion/5e - Mislead (Spell)|☄️Mislead]]
 
 > [!info] Feat "Upgrades"
-> Taking this Feat allows you, to take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Greater Mark of Shadow|🥇Greater Mark of Shadow]] and/or the [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - General Feats/5e - Potent Spellmark|🥇Potent Spellmark]] Feats Later
+> Taking this Feat allows you, to take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/Resorting Skill Feats/5e - Greater Mark of Shadow|🥇Greater Mark of Shadow]] and/or the [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - General Feats/5e - Potent Spellmark|🥇Potent Spellmark]] Feats Later
 
 ### Backgrounds that grant this Feat
 

@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - College of Tragedy🦸‍♀️
 created: 2026-07-23T10:41:20.409+02:00
-modified: 2026-08-17T10:12:31.467+02:00
-published: 2026-08-17T10:12:31.467+02:00
+modified: 2026-08-20T06:45:33.583+02:00
+published: 2026-08-20T06:45:33.583+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -41,7 +41,7 @@ You can’t use this feature again until you finish a **short** or **long rest**
 
 ### Level 9: Tale of Hubris
 
-You learn to weave a magical narrative that draws out the fatal arrogance of your foes. When a creature scores a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Checks & Saves Outcomes/5e - Critical Success|🎲Critical Hit]] against you or an ally within <u>60 feet</u> of you that you can see, you can use your **Reaction** to target the attacking creature and evoke the story of their downfall. For <u>1 minute</u> or until the target suffers a **critical hit**, any attack against the target scores a **critical hit** on a roll of <u>17–20</u>.
+You learn to weave a magical narrative that draws out the fatal arrogance of your foes. When a creature scores a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Checks & Saves Outcomes/5e - Critical Success|🎲Critical Hit]] against you or an ally within <u>60 feet</u> of you that you can see, you can use your **Reaction** to target the attacking creature and evoke the story of their downfall. For <u>1 minute</u> or until the target suffers a **critical hit**, any attack against the target scores a **critical hit** on a roll of <u>17–20</u>.
 
 ### Level 13: Mask of Tragedy
 

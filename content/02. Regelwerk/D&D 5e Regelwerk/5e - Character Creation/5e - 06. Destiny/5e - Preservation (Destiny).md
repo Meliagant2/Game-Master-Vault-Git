@@ -2,8 +2,8 @@
 publish: true
 title: 🔮5e - Preservation🔮
 created: 2026-07-21T15:26:14.616+02:00
-modified: 2026-07-29T08:11:24.360+02:00
-published: 2026-07-29T08:11:24.360+02:00
+modified: 2026-08-20T06:45:34.208+02:00
+published: 2026-08-20T06:45:34.208+02:00
 tags:
   - "#Destiny"
   - "#5e"
@@ -19,7 +19,7 @@ The last remaining guardian of a sacred location, the keeper of an important rel
 
 Work with your Game Master to define the nature of what you are trying to protect, as it can affect the campaign very differently if it is an object, a place, or something more conceptual like a tradition or lore.
 
-**Source of Inspiration: Save and Protect:** You understand the importance of protecting the knowledge of those who came before you, their traditions and their creations. You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Inspiration|✨Inspiration]] whenever you help preserve something ancient. Recover a scroll of lost knowledge, practice an endangered language, protect an important historic or religious site, preserve an ancient relic, learn a custom or technique of an old society.
+**Source of Inspiration: Save and Protect:** You understand the importance of protecting the knowledge of those who came before you, their traditions and their creations. You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Inspiration|✨Inspiration]] whenever you help preserve something ancient. Recover a scroll of lost knowledge, practice an endangered language, protect an important historic or religious site, preserve an ancient relic, learn a custom or technique of an old society.
 
 **Inspiration Feature: Preserved Lore:** Your experience with maintaining ancient traditions and customs can help you remember the strangest bits of knowledge. Whenever you or an ally you can see fails an <u>INT based Skill check</u>, you can use a reaction to learn any information that would have been gained from a successful check.
 

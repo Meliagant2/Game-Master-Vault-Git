@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Travelling Performer
 created: 2026-08-19T10:03:25.629+02:00
-modified: 2026-08-19T10:08:14.507+02:00
-published: 2026-08-19T10:08:14.507+02:00
+modified: 2026-08-20T06:36:34.582+02:00
+published: 2026-08-20T06:36:34.582+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -35,7 +35,7 @@ You gain the following benefits:
 **<u>Distracting Melody:</u>** When you take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Help|⚔️Help]] action to assist an ally's <u>attack roll</u>, the enemy you're distracting can be within <u>30 feet</u> of you, rather than within <u>5 feet</u> of you, provided the enemy can _see_ or _hear_ you.
 
 > [!info] Feat "Upgrades"
-> Taking this Feat allows you, to take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Performers Teamwork|🥇Performers Teamwork]] Feat Later
+> Taking this Feat allows you, to take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/Resorting Skill Feats/5e - Performers Teamwork|🥇Performers Teamwork]] Feat Later
 
 ### Backgrounds that grant this Feat
 

@@ -2,8 +2,8 @@
 publish: true
 title: ☠️5e - Actions
 created: 2026-07-21T10:52:09.207+02:00
-modified: 2026-08-14T09:04:20.790+02:00
-published: 2026-08-14T09:04:20.790+02:00
+modified: 2026-08-20T08:55:53.199+02:00
+published: 2026-08-20T08:55:53.199+02:00
 tags:
   - "#Action"
   - "#5e"

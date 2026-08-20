@@ -2,8 +2,8 @@
 publish: true
 title: 🔮5e - Excellence🔮
 created: 2026-07-21T15:26:14.616+02:00
-modified: 2026-07-29T08:11:24.321+02:00
-published: 2026-07-29T08:11:24.321+02:00
+modified: 2026-08-20T06:45:34.171+02:00
+published: 2026-08-20T06:45:34.171+02:00
 tags:
   - "#Destiny"
   - "#5e"
@@ -19,7 +19,7 @@ Some are fated to be the best, the apex, the pinnacle of their craft that all ot
 
 Those destined for Excellence impact the world — often at the cost of countless sacrifices along the way.
 
-**Source of Inspiration: Failure:** Every failed attempt is a chance for growth and each time you fall you stand up stronger. You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Inspiration|✨Inspiration]] whenever the Game Master calls for you to make an <u>D20 Test</u> and the final result of the <u>D20</u> roll is a <u>natural 1</u>.
+**Source of Inspiration: Failure:** Every failed attempt is a chance for growth and each time you fall you stand up stronger. You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Inspiration|✨Inspiration]] whenever the Game Master calls for you to make an <u>D20 Test</u> and the final result of the <u>D20</u> roll is a <u>natural 1</u>.
 **Inspiration Feature: Practiced Edge:** A perfected technique is often the difference between victory and defeat. After you make a <u>D20 Test</u>, you may spend your inspiration to add a <u>+5</u> bonus to that roll, possibly turning a <u>Failure</u> into a <u>Success</u>.
 
 ##### Fulfilling Your Destiny

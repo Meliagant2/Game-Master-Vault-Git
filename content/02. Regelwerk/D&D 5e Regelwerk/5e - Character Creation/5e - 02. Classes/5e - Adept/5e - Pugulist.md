@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Pugulist
 description: Pugulists are masters of unarmed combat.
 created: 2026-08-11T10:24:46.731+02:00
-modified: 2026-08-17T10:48:54.505+02:00
-published: 2026-08-17T10:48:54.505+02:00
+modified: 2026-08-20T06:45:33.379+02:00
+published: 2026-08-20T06:45:33.379+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -29,7 +29,7 @@ Choose a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e -
 
 You gain the following benefits:
 
-**<u>Critical Exertion:</u>** You regain <u>Exertion</u> equal to `1/2 x PB` when you score a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Checks & Saves Outcomes/5e - Critical Success|🎲Critical Hit]] with an [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Unarmed Strike|⚔️Unarmed Strike]].
+**<u>Critical Exertion:</u>** You regain <u>Exertion</u> equal to `1/2 x PB` when you score a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Checks & Saves Outcomes/5e - Critical Success|🎲Critical Hit]] with an [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Unarmed Strike|⚔️Unarmed Strike]].
 
 **<u>Brutal Swing:</u>** When you hit a creature with an [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Unarmed Strike|⚔️Unarmed Strike]], you can spend `1` <u>Exertion</u> to deal additional damage equal to `your Martial Arts die`.
 

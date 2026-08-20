@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Nature's Fledgling
 created: 2026-08-11T12:12:13.849+02:00
-modified: 2026-08-19T09:55:54.720+02:00
-published: 2026-08-19T09:55:54.720+02:00
+modified: 2026-08-20T06:36:34.582+02:00
+published: 2026-08-20T06:36:34.582+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -33,7 +33,7 @@ You gain the following benefits:
 **<u>Tag Team:</u>** When you take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Help|⚔️Help]] action, you can switch places with a willing ally within <u>5 feet</u> of yourself as part of that same action. This movement doesn't provoke [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Reactions/5e - Opportunity Attack|⚔️Opportunity Attacks]]. You can't use this benefit if the ally has the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]] condition.
 
 > [!info] Feat "Upgrades"
-> Taking this Feat allows you, to take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Natures Magic|🥇Natures Magic]] Feat Later
+> Taking this Feat allows you, to take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/Resorting Skill Feats/5e - Natures Magic|🥇Natures Magic]] Feat Later
 
 ### Backgrounds that grant this Feat
 

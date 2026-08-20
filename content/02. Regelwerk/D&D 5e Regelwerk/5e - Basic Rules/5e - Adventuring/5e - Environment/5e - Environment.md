@@ -2,8 +2,8 @@
 publish: true
 title: 🏔️5e - Environment
 created: 2026-07-27T14:46:05.014+02:00
-modified: 2026-08-04T10:32:06.722+02:00
-published: 2026-08-04T10:32:06.722+02:00
+modified: 2026-08-20T06:53:47.744+02:00
+published: 2026-08-20T06:53:47.744+02:00
 tags:
   - "#Charaktererstellung"
   - "#Grundregeln"
@@ -38,7 +38,7 @@ Drowning, strangulation, smothering, strange alternate planes of reality with no
 
 A creature that cannot breathe water begins to **suffocate** underwater once it cannot hold its breath.
 
-In addition, creatures without swim speeds have **DISADV** on attacks made using any weapon other than a dagger, dueling dagger, javelin, shortsword, spear, or trident. Ranged weapon attacks automatically miss beyond their normal range underwater, and bludgeoning and fire damage are halved. A creature that takes damage while holding its breath underwater must succeed on a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Saves/5e - Concentration|🎲Concentration Save]] or immediately begin suffocating as if its breath had run out.
+In addition, creatures without swim speeds have **DISADV** on attacks made using any weapon other than a dagger, dueling dagger, javelin, shortsword, spear, or trident. Ranged weapon attacks automatically miss beyond their normal range underwater, and bludgeoning and fire damage are halved. A creature that takes damage while holding its breath underwater must succeed on a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Concentration|🎲Concentration Save]] or immediately begin suffocating as if its breath had run out.
 
 ### Vision and Light
 

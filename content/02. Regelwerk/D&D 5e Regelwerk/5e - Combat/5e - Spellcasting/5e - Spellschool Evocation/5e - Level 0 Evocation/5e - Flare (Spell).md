@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Flare☄️
 created: 2026-07-29T09:39:52.647+02:00
-modified: 2026-07-30T09:25:45.068+02:00
-published: 2026-07-30T09:25:45.068+02:00
+modified: 2026-08-20T06:45:34.330+02:00
+published: 2026-08-20T06:45:34.330+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -46,7 +46,7 @@ zauberliste:
 
 You launch a pulse of radiant energy at a target within range. Make a <u>ranged spell attack</u> against the target. On a hit, the target takes `1d8` Radiant damage.
 
-On a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Checks & Saves Outcomes/5e - Critical Success|🎲Critical Hit]], the target is covered in glittering mystical light, [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Exposed|☠️exposing]] the target until the <u>end of your next turn</u>.
+On a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Checks & Saves Outcomes/5e - Critical Success|🎲Critical Hit]], the target is covered in glittering mystical light, [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Exposed|☠️exposing]] the target until the <u>end of your next turn</u>.
 
 Alternatively, you can launch the pulse at a point in the air within range where it slowly falls towards the ground. Until the <u>end of your next turn</u>, the flare sheds [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Illumination/5e - Bright Light|💡Bright Light]] in a <u>20-foot</u> radius and [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Illumination/5e - Dim Light|💡Dim Light]] for an additional <u>20 feet</u>.
 

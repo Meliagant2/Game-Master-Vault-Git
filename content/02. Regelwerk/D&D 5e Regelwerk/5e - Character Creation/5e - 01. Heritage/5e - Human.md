@@ -2,8 +2,8 @@
 publish: true
 title: 👥5e - Human👥
 created: 2026-07-20T12:11:02.463+02:00
-modified: 2026-08-11T13:25:02.391+02:00
-published: 2026-08-11T13:25:02.391+02:00
+modified: 2026-08-20T06:53:47.765+02:00
+published: 2026-08-20T06:53:47.765+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -80,7 +80,7 @@ Foes of humanity may see them as ants, but humans are equally difficult to elimi
 
 Not all human minds work the same — some have a nearly miraculous level of focus. People with this intellectual mode often bring a surprising level of insight and passion to almost any topic they engage. In spite of their brilliance, they typically have difficulty with more general awareness. You have the following traits:
 
-**<u>Inexorable Concentration:</u>** When you fail a <u>CON Save</u> to maintain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Saves/5e - Concentration|🎲Concentration]], you can immediately reroll it, taking the new result. You may use this trait a number of times equal to your INT (minimum 1), and regain all expended uses after a long rest.
+**<u>Inexorable Concentration:</u>** When you fail a <u>CON Save</u> to maintain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Concentration|🎲Concentration]], you can immediately reroll it, taking the new result. You may use this trait a number of times equal to your INT (minimum 1), and regain all expended uses after a long rest.
 **<u>Resident Expert:</u>** You have a reputation for painstaking detail on certain tasks and subjects. Choose two tools with which you are proficient, or a skill with which you are proficient from Animal Handling, Arcana, Culture, Engineering, History, Medicine, Nature, or Religion. When you make a check with that tool or skill and the <u>d20</u> shows a natural result of less than 8, you can count the d20 result as being 8.
 
 #### Spirited Traveler

@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - Warrior of Pugulism🦸‍♀️
 created: 2026-07-22T12:06:01.852+02:00
-modified: 2026-08-17T10:12:32.713+02:00
-published: 2026-08-17T10:12:32.713+02:00
+modified: 2026-08-20T06:53:47.783+02:00
+published: 2026-08-20T06:53:47.783+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -35,7 +35,7 @@ The unpredictability of your combat style bleeds over to all aspects of your lif
 
 ### Level 13: Brutish Force
 
-Whenever you make a **Save**, you add one <u>expertise die</u> to that roll. If applying this bonus to a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Saves/5e - Death Save|🎲Death Save]], increasing the total to <u>20</u> or higher, you gain the benefits of rolling a <u>20 </u>on the <u>d20</u>.
+Whenever you make a **Save**, you add one <u>expertise die</u> to that roll. If applying this bonus to a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Death Save|🎲Death Save]], increasing the total to <u>20</u> or higher, you gain the benefits of rolling a <u>20 </u>on the <u>d20</u>.
 
 ### Level 17: Unrelenting
 

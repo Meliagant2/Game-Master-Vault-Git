@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - Oath of Vengeance🦸‍♀️
 created: 2026-07-28T10:25:11.789+02:00
-modified: 2026-08-17T15:24:31.665+02:00
-published: 2026-08-17T15:24:31.665+02:00
+modified: 2026-08-20T06:45:33.682+02:00
+published: 2026-08-20T06:45:33.682+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -59,7 +59,7 @@ This movement doesn’t provoke [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e 
 You gain the following benefits against an enemy under the effect of your **Vow of Enmity** Feature:
 
 - Your <u>Weapon attacks</u> deal extra damage against that target equal to `your CHA`.
-- You score a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Checks & Saves Outcomes/5e - Critical Success|🎲Critical Hit]] against that creature on a roll of <u>19 or 20</u>.
+- You score a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Checks & Saves Outcomes/5e - Critical Success|🎲Critical Hit]] against that creature on a roll of <u>19 or 20</u>.
 - The Creature has **DISADV** on <u>Saves</u> against your Paladin Spells.
 
 ### Level 13: Soul of Vengeance

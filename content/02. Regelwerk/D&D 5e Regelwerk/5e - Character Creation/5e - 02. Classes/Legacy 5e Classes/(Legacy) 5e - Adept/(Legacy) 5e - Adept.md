@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - Adept
 created: 2026-07-20T12:11:02.494+02:00
-modified: 2026-08-17T08:56:22.645+02:00
-published: 2026-08-17T08:56:22.645+02:00
+modified: 2026-08-20T06:53:47.773+02:00
+published: 2026-08-20T06:53:47.773+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -516,7 +516,7 @@ Focus features stem from the mastery of your internal energies. At <u>5th level<
 >
 > **Requirement:** <u>15th level</u>
 >
-> When you make a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Saves/5e - Death Save|🎲Death Save]], you can choose to set your own spirit loose as a vengeful ghost to stalk your prey. The spirit acts on your initiative, has your statistics, ethereal copies of your equipment, full hit points, and half your exertion pool. Your vengeful spirit is <u>resistant</u> to piercing, bludgeoning, and slashing damage from nonmagical weapons. It can move through other creatures and objects as if they were difficult terrain , but it takes <u>1d10</u> force damage if it ends its turn inside an object.
+> When you make a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Death Save|🎲Death Save]], you can choose to set your own spirit loose as a vengeful ghost to stalk your prey. The spirit acts on your initiative, has your statistics, ethereal copies of your equipment, full hit points, and half your exertion pool. Your vengeful spirit is <u>resistant</u> to piercing, bludgeoning, and slashing damage from nonmagical weapons. It can move through other creatures and objects as if they were difficult terrain , but it takes <u>1d10</u> force damage if it ends its turn inside an object.
 >
 > The vengeful spirit targets only the creature who reduced you to 0 hit points. When the creature is defeated, the spirit returns to your body. While the vengeful spirit is active, you don’t need to make death saving throws, but you still suffer automatic failures if you are hit. You can’t use this feature again until you finish a long rest.
 

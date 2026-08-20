@@ -2,8 +2,8 @@
 publish: true
 title: ⚔️5e - Ready
 created: 2026-08-06T11:32:43.456+02:00
-modified: 2026-08-06T11:34:42.373+02:00
-published: 2026-08-06T11:34:42.373+02:00
+modified: 2026-08-20T06:53:47.847+02:00
+published: 2026-08-20T06:53:47.847+02:00
 tags:
   - "#Action"
   - "#5e"
@@ -21,4 +21,4 @@ First, you decide what perceivable circumstance will trigger your <u>Reaction</
 
 When the trigger occurs, you can either take your **Reaction** right after the trigger finishes or ignore the trigger.
 
-When you Ready a <u>spell</u>, you cast it as normal (expending any resources used to cast it) but hold its energy, which you release with your **Reaction** when the trigger occurs. To be readied, a spell must have a <u>casting time of an action</u>, and holding on to the spell's magic requires [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Saves/5e - Concentration|🎲Concentration]], which you can maintain up to the start of your next turn. If your Concentration is broken, the spell dissipates without taking effect.
+When you Ready a <u>spell</u>, you cast it as normal (expending any resources used to cast it) but hold its energy, which you release with your **Reaction** when the trigger occurs. To be readied, a spell must have a <u>casting time of an action</u>, and holding on to the spell's magic requires [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Concentration|🎲Concentration]], which you can maintain up to the start of your next turn. If your Concentration is broken, the spell dissipates without taking effect.

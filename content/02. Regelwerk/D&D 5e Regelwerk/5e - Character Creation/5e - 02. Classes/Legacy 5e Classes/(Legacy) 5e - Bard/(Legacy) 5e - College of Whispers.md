@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - College of Whispers🦸‍♀️
 created: 2026-07-23T10:41:20.409+02:00
-modified: 2026-08-17T10:12:31.477+02:00
-published: 2026-08-17T10:12:31.477+02:00
+modified: 2026-08-20T06:45:33.608+02:00
+published: 2026-08-20T06:45:33.608+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -61,7 +61,7 @@ Once you capture a shadow with this feature, you can’t capture another one wit
 
 You weave manipulative magic into every strike. When you use **Psychic Assault**, you can force the creature to make a **WIS Save**. _**Failure:**_ It becomes [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Frightened|☠️Frightened]]of you until the end of your next turn.
 
-Also, when you hit a creature that is **frightened** of you with a weapon attack, you can end the frightened condition for it and turn your weapon attack into an automatic [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Checks & Saves Outcomes/5e - Critical Success|🎲Critical Hit]].
+Also, when you hit a creature that is **frightened** of you with a weapon attack, you can end the frightened condition for it and turn your weapon attack into an automatic [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Checks & Saves Outcomes/5e - Critical Success|🎲Critical Hit]].
 
 ### Level 13: Sinister Manipulation
 

@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Musician
 created: 2026-08-04T11:27:16.685+02:00
-modified: 2026-08-19T10:04:16.239+02:00
-published: 2026-08-19T10:04:16.239+02:00
+modified: 2026-08-20T06:45:34.127+02:00
+published: 2026-08-20T06:45:34.127+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -30,7 +30,7 @@ You gain the following benefits:
 
 **<u>Instrument Training:</u>** You gain proficiency with three [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Musical Instruments/5e - Musical Instruments|🛠️Musical Instruments]] of your choice.
 
-**<u>Encouraging Song:</u>** As you finish a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Short Rest|😴Short]] or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Long Rest|😴Long Rest]], you can play a song on a Musical Instrument with which you have proficiency and give [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Inspiration|✨Inspiration]] to allies who hear the song. The number of allies you can affect in this way equals `your PB + your CHA`.
+**<u>Encouraging Song:</u>** As you finish a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Short Rest|😴Short]] or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Long Rest|😴Long Rest]], you can play a song on a Musical Instrument with which you have proficiency and give [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Inspiration|✨Inspiration]] to allies who hear the song. The number of allies you can affect in this way equals `your PB + your CHA`.
 
 ### Backgrounds that grant this Feat
 

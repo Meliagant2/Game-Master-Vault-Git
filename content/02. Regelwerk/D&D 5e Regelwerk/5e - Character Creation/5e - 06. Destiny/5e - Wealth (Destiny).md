@@ -2,8 +2,8 @@
 publish: true
 title: 🔮5e - Wealth🔮
 created: 2026-07-21T15:26:14.616+02:00
-modified: 2026-07-29T08:11:24.453+02:00
-published: 2026-07-29T08:11:24.453+02:00
+modified: 2026-08-20T06:45:34.242+02:00
+published: 2026-08-20T06:45:34.242+02:00
 tags:
   - "#Destiny"
   - "#5e"
@@ -17,7 +17,7 @@ status: ✅
 
 Glittering gold holds the promise of luxuries and freedom from want, all wrapped with the exhilarating rush of acquisition. Of the countless people who spend their lives in pursuit of Wealth some are just shrewd, clever, or brave enough to achieve their destiny.
 
-**Source of Inspiration: Profits:** You draw inspiration from spoils both easily gained and hard fought. You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Inspiration|✨Inspiration]] whenever you acquire substantial wealth. Gain currency or property worth at least 10 times your character level in silver, receive a magic item that is uncommon or rarer without purchasing it.
+**Source of Inspiration: Profits:** You draw inspiration from spoils both easily gained and hard fought. You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Inspiration|✨Inspiration]] whenever you acquire substantial wealth. Gain currency or property worth at least 10 times your character level in silver, receive a magic item that is uncommon or rarer without purchasing it.
 **Inspiration Feature: Everyone Has a Price:** You can see the glint in people’s hungry eyes as they watch money change hands and can perfectly name their price. As a **Bonus Action** you may spend your inspiration to accurately determine if a creature you see will take a bribe and what price they’ll accept.
 
 ##### Fulfilling Your Destiny

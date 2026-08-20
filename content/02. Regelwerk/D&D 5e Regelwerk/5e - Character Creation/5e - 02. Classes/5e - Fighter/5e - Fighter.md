@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Fighter
 description: A master of martial techniques with expertise in a wide variety of weapons and combat maneuvers.
 created: 2026-07-31T11:11:41.436+02:00
-modified: 2026-08-18T08:36:30.426+02:00
-published: 2026-08-18T08:36:30.426+02:00
+modified: 2026-08-20T06:53:47.773+02:00
+published: 2026-08-20T06:53:47.773+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -288,7 +288,7 @@ You gain the following benefits:
 
 **<u>Maneuver Specialization:</u>** You master another maneuver (see **Level 5: Maneuver Specialization**).
 
-**<u>No Surrender:</u>** When you take damage that reduces you to _0 hit points_ but doesn’t kill you, you don’t fall [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Unconscious|☠️Unconscious]] and can continue acting normally. You still make [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Saves/5e - Death Save|🎲Death Saves]] at the start of your turn, suffer <u>Death Saves</u> whenever you take damage, and die after three failed <u>Death Saves</u>. If you are stabilized during this time, you remain conscious, but fall [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Unconscious|☠️Unconscious]] after <u>1 minute</u> if you do not regain at least `1 hit point`.
+**<u>No Surrender:</u>** When you take damage that reduces you to _0 hit points_ but doesn’t kill you, you don’t fall [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Unconscious|☠️Unconscious]] and can continue acting normally. You still make [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Death Save|🎲Death Saves]] at the start of your turn, suffer <u>Death Saves</u> whenever you take damage, and die after three failed <u>Death Saves</u>. If you are stabilized during this time, you remain conscious, but fall [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Unconscious|☠️Unconscious]] after <u>1 minute</u> if you do not regain at least `1 hit point`.
 
 **<u>Saving Throw Proficiency:</u>** You gain <u>Saving Throw Proficiency</u> with in both <u>Ability Scores</u> that you didn't pick at 1st level. If you are already proficient in one of those <u>Saves</u>, you gain <u>Saving Throw Proficiency</u> with another <u>Ability Score</u> of your choice.
 

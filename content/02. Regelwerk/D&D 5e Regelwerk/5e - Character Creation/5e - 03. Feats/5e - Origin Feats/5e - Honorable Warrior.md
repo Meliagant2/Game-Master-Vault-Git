@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Honorable Warrior
 created: 2026-08-19T10:12:11.819+02:00
-modified: 2026-08-19T10:15:40.869+02:00
-published: 2026-08-19T10:15:40.869+02:00
+modified: 2026-08-20T06:45:34.116+02:00
+published: 2026-08-20T06:45:34.116+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -28,7 +28,7 @@ source: "Forgotten Realms: Heroes of Faerun"
 
 You gain the following benefits:
 
-**<u>Inspiring Strike:</u>** <u>Once per turn</u> when you score a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Checks & Saves Outcomes/5e - Critical Success|🎲Critical Hit]] against a creature, you can choose an ally within <u>30 feet</u> of yourself who can see or hear you and who lacks [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Inspiration|✨Inspiration]]. That ally gains [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Inspiration|✨Inspiration]].
+**<u>Inspiring Strike:</u>** <u>Once per turn</u> when you score a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Checks & Saves Outcomes/5e - Critical Success|🎲Critical Hit]] against a creature, you can choose an ally within <u>30 feet</u> of yourself who can see or hear you and who lacks [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Inspiration|✨Inspiration]]. That ally gains [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Inspiration|✨Inspiration]].
 
 **<u>Reassert Honor:</u>** When an enemy you can see deals damage to an ally of yours that is within <u>5 feet</u> of you, you have **ADV** on your next attack roll against that enemy before <u>the end of your next turn</u>.
 

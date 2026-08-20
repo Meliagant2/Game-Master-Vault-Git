@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Squire
 created: 2026-08-19T10:34:03.990+02:00
-modified: 2026-08-19T10:38:06.428+02:00
-published: 2026-08-19T10:38:06.428+02:00
+modified: 2026-08-20T06:45:34.131+02:00
+published: 2026-08-20T06:45:34.131+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -30,7 +30,7 @@ You gain the following benefits:
 
 **<u>Entreat:</u>** You gain proficiency in one of the following skills: <u>Insight</u>, <u>Performance</u>, or <u>Persuasion</u>.
 
-**<u>Rallying Cry:</u>** When you roll [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Initiative|5e - Initiative]] and don't have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]] condition, you can choose a number of creatures equal to `your PB` that you can _see_ within <u>30 feet</u> of yourself. Those creatures gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Inspiration|✨Inspiration]].
+**<u>Rallying Cry:</u>** When you roll [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Initiative|5e - Initiative]] and don't have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]] condition, you can choose a number of creatures equal to `your PB` that you can _see_ within <u>30 feet</u> of yourself. Those creatures gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Inspiration|✨Inspiration]].
 
 **<u>Number of Uses:</u>** <u>Once</u> you've used this benefit, you can't use it again until you finish a **Long Rest**.
 

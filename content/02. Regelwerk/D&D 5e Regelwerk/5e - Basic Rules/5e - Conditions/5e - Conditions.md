@@ -29,6 +29,7 @@ This glossary defines these conditions:
 - [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Confused.md|5e - Confused]]
 - [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Dazed.md|5e - Dazed]]
 - [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Deafened.md|5e - Deafened]]
+- [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Drunk.md|5e - Drunk]]
 - [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Exhaustion.md|5e - Exhaustion]]
 - [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Exposed.md|5e - Exposed]]
 - [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Fatigue.md|5e - Fatigue]]

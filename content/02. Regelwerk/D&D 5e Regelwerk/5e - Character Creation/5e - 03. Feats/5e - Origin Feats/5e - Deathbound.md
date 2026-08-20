@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Deathbound
 created: 2026-08-19T14:07:49.685+02:00
-modified: 2026-08-19T14:09:53.292+02:00
-published: 2026-08-19T14:09:53.292+02:00
+modified: 2026-08-20T06:53:47.842+02:00
+published: 2026-08-20T06:53:47.842+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -28,7 +28,7 @@ source: "Grim Hollow: Player's Guide (2024)"
 
 You gain the following benefits:
 
-**<u>One Last Breath:</u>** If you have two [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Saves/5e - Death Save|🎲Death Save]] failures, you have **[Advantage](https://5e.tools/variantrules.html#advantage_xphb)** on [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Saves/5e - Death Save|🎲Death Saves]] until you are no longer at _0 HP_.
+**<u>One Last Breath:</u>** If you have two [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Death Save|🎲Death Save]] failures, you have **[Advantage](https://5e.tools/variantrules.html#advantage_xphb)** on [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Death Save|🎲Death Saves]] until you are no longer at _0 HP_.
 
 **<u>Recuperation:</u>** When you spend a _Hit Die_ during a **Short Rest** to recover _Hit Points_, you can roll the _Hit Die_ twice and use the higher roll.
 

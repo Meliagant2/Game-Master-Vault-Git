@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Mark of Warding
 created: 2026-08-18T14:43:44.413+02:00
-modified: 2026-08-19T08:20:30.971+02:00
-published: 2026-08-19T08:20:30.971+02:00
+modified: 2026-08-20T06:36:34.582+02:00
+published: 2026-08-20T06:36:34.582+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -43,7 +43,7 @@ When you reach character _level 3_, you also always have the [[02. Regelwerk/D&
 **Spell level 5:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 5 Abjuration/5e - Antilife Shell (Spell)|☄️Antilife Shell]]
 
 > [!info] Feat "Upgrades"
-> Taking this Feat allows you, to take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Greater Mark of Warding|🥇Greater Mark of Warding]] and/or the [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - General Feats/5e - Potent Spellmark|🥇Potent Spellmark]] Feats Later
+> Taking this Feat allows you, to take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/Resorting Skill Feats/5e - Greater Mark of Warding|🥇Greater Mark of Warding]] and/or the [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - General Feats/5e - Potent Spellmark|🥇Potent Spellmark]] Feats Later
 
 ### Backgrounds that grant this Feat
 

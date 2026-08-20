@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Healer
 created: 2026-08-04T11:01:44.685+02:00
-modified: 2026-08-07T09:13:00.495+02:00
-published: 2026-08-07T09:13:00.495+02:00
+modified: 2026-08-20T06:36:34.532+02:00
+published: 2026-08-20T06:36:34.532+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -33,7 +33,7 @@ You  gain the following benefits:
 **<u>Healing Rerolls:</u>** Whenever you roll a die to determine the number of Hit Points you restore with a spell or with this feat’s Physician benefit, you can reroll the die if it rolls a `1`, and you must use the new roll.
 
 > [!info] Feat "Upgrades"
-> Taking this Feat allows you, to take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Medic|🥇Medic]] Feat Later
+> Taking this Feat allows you, to take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/Resorting Skill Feats/5e - Medic|🥇Medic]] Feat Later
 
 ### Backgrounds that grant this Feat
 

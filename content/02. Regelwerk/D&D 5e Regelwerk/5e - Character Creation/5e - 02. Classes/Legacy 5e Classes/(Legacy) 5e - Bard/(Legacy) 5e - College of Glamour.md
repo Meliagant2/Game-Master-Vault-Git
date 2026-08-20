@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - College of Glamour🦸‍♀️
 created: 2026-07-23T10:41:20.409+02:00
-modified: 2026-08-17T10:12:31.420+02:00
-published: 2026-08-17T10:12:31.420+02:00
+modified: 2026-08-20T06:53:47.793+02:00
+published: 2026-08-20T06:53:47.793+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -35,7 +35,7 @@ You	can	weave	fey	magic	into	a	song	or	dance	to fill	others	with	vigor.	As	a	**B
 
 ### Level 6: Mantle of Majesty
 
-You	always	have	the	[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 1 Enchantment/5e - Command (Spell)|☄️Command]] spell	prepared. As	a	**Bonus	Action**,	you	cast	**Command** without expending	a	spell	slot,	and	you	take	on	an unearthly	appearance	for	1	minute	or	until	your [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Saves/5e - Concentration|🎲Concentration]]	ends	(as	if	you	were concentrating	on	a	spell).
+You	always	have	the	[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 1 Enchantment/5e - Command (Spell)|☄️Command]] spell	prepared. As	a	**Bonus	Action**,	you	cast	**Command** without expending	a	spell	slot,	and	you	take	on	an unearthly	appearance	for	1	minute	or	until	your [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Concentration|🎲Concentration]]	ends	(as	if	you	were concentrating	on	a	spell).
 
 During	this	time,	you can	cast	**Command** as	a	**Bonus	Action**	without expending	a	spell	slot. Any	creature	<u>Charmed</u>	by	you	automatically fails	its	<u>Save</u>	against	the	**Command** you cast	with	this	feature.
 

@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - Cavalier🦸‍♀️
 created: 2026-07-27T12:10:07.575+02:00
-modified: 2026-08-17T10:12:29.804+02:00
-published: 2026-08-17T10:12:29.804+02:00
+modified: 2026-08-20T06:45:33.627+02:00
+published: 2026-08-20T06:45:33.627+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -56,4 +56,4 @@ You embody the belief that a knight’s duty is never over. Whenever you roll fo
 
 ### Level 17: Knight of Renown
 
-You have become a legendary knight, an almost mythical thing that is inspiring to see fighting alongside. The range of your **Inspiring Charge** is increased to <u>60 feet</u> from <u>10 feet</u>, and any of your allies that enter that area for the first time on their turn or begin their turn there gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Inspiration|✨Inspiration]]. A creature can only gain inspiration in this way <u>once</u> between **long rests**.
+You have become a legendary knight, an almost mythical thing that is inspiring to see fighting alongside. The range of your **Inspiring Charge** is increased to <u>60 feet</u> from <u>10 feet</u>, and any of your allies that enter that area for the first time on their turn or begin their turn there gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Inspiration|✨Inspiration]]. A creature can only gain inspiration in this way <u>once</u> between **long rests**.

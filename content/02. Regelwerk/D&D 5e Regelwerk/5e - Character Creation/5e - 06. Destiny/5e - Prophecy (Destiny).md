@@ -2,8 +2,8 @@
 publish: true
 title: 🔮5e - Prophecy🔮
 created: 2026-07-21T15:26:14.616+02:00
-modified: 2026-07-29T08:11:24.370+02:00
-published: 2026-07-29T08:11:24.370+02:00
+modified: 2026-08-20T06:45:34.215+02:00
+published: 2026-08-20T06:45:34.215+02:00
 tags:
   - "#Destiny"
   - "#5e"
@@ -17,7 +17,7 @@ status: ✅
 
 You are tangled in the threads of a prophecy foretold by the Fate Spinner, her cults, or another powerful prescient entity. This prophecy may promise you great riches and immense power, or it may threaten you with visions of a grim death. Nonetheless, you live each day with the knowledge that your destiny is both greater than yourself, and out of your hands. Consult with the Game Master to come up with a prophecy suitable to the setting and campaign.
 
-**<u>Source of Inspiration: Foresight:</u>** You know in your very being that all things follow naturally from one another in a deterministic pattern, and that by planning in the present you secure the future. You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Inspiration|✨Inspiration]] when enacting plans for the future or when a course of action you set in motion pays off in the long run. Make a plan that snatches victory from the jaws of defeat, make a fool of a foe by remaining one step ahead of them, supply your allies with vital information, sow false or deceptive information among your foes, lay the groundwork for something that won’t pay off until potentially well after the end of your life.
+**<u>Source of Inspiration: Foresight:</u>** You know in your very being that all things follow naturally from one another in a deterministic pattern, and that by planning in the present you secure the future. You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Inspiration|✨Inspiration]] when enacting plans for the future or when a course of action you set in motion pays off in the long run. Make a plan that snatches victory from the jaws of defeat, make a fool of a foe by remaining one step ahead of them, supply your allies with vital information, sow false or deceptive information among your foes, lay the groundwork for something that won’t pay off until potentially well after the end of your life.
 **<u>Inspiration Feature: Preordained Fate:</u>** Your death is already prophesied; anything that arrives sooner is merely an invigorating taste of what’s to come. When you have <u>0 hit points</u> at the end of another creature’s turn, you can spend your inspiration to gain <u>1 hit point</u>. When you do, move your position in initiative to immediately after that creature’s turn, and take your turn normally.
 
 ##### Fulfilling Your Destiny

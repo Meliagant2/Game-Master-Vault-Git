@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Child of Light
 created: 2026-08-04T10:49:31.609+02:00
-modified: 2026-08-06T08:59:53.946+02:00
-published: 2026-08-06T08:59:53.946+02:00
+modified: 2026-08-20T06:53:47.833+02:00
+published: 2026-08-20T06:53:47.833+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -32,7 +32,7 @@ You gain the following benefits:
 
 **<u>Faerie Fire.</u>** You learn the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 1 Evocation/5e - Faerie Fire (Spell)|☄️Faerie Fire]] spell. <u>INT</u>, <u>WIS</u>, or <u>CHA</u> is your spellcasting ability for this spell (whichever is highest). You can cast it <u>once</u> without a spell slot, and you regain the ability to cast it in that way when you finish a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Long Rest|😴Long Rest]]. You can also cast the spell using any spell slots you have.
 
-When you cast <u>Faerie Fire</u> without a spell slot using this benefit, taking damage can't break your [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Saves/5e - Concentration|🎲Concentration]] on the spell.
+When you cast <u>Faerie Fire</u> without a spell slot using this benefit, taking damage can't break your [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Concentration|🎲Concentration]] on the spell.
 
 ### Backgrounds that grant this Feat
 

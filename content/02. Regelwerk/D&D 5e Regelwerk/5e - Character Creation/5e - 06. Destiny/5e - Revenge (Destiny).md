@@ -2,8 +2,8 @@
 publish: true
 title: 🔮5e - Revenge🔮
 created: 2026-07-21T15:26:14.616+02:00
-modified: 2026-07-29T08:11:24.438+02:00
-published: 2026-07-29T08:11:24.438+02:00
+modified: 2026-08-20T06:45:34.222+02:00
+published: 2026-08-20T06:45:34.222+02:00
 tags:
   - "#Destiny"
   - "#5e"
@@ -19,7 +19,7 @@ Someone or something has wronged you, and even the gods cannot shield them from 
 
 Your burning desire for Revenge fuels your plans and kindles your destiny. Was your ire sparked by a grave misunderstanding, a callous uncaring cruelty, or a wicked and personal transgression?
 
-**Source of Inspiration: Served Cold:** You draw inspiration from the wails of those who have wronged you. You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Inspiration|✨Inspiration]] whenever you outwit a foe without the use of <u>Deception</u> or <u>Persuasion</u> checks, successfully attack a surprised opponent, lead a foe into a prepared trap, trick an enemy into harming themself or greatly benefiting you.
+**Source of Inspiration: Served Cold:** You draw inspiration from the wails of those who have wronged you. You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Inspiration|✨Inspiration]] whenever you outwit a foe without the use of <u>Deception</u> or <u>Persuasion</u> checks, successfully attack a surprised opponent, lead a foe into a prepared trap, trick an enemy into harming themself or greatly benefiting you.
 **Inspiration Feature: Cloak and Dagger:** You know how to avert suspicion when danger closes in. Whenever you or an ally you can see fail a <u>Sleight of Hand</u> or <u>Stealth</u> check, you can use your **Reaction** to spend your inspiration and turn that failed check into a success.
 
 ##### Fulfilling Your Destiny

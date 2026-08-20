@@ -2,8 +2,8 @@
 publish: true
 title: 🔮5e - Underdog🔮
 created: 2026-07-21T15:26:14.616+02:00
-modified: 2026-07-29T08:11:24.449+02:00
-published: 2026-07-29T08:11:24.449+02:00
+modified: 2026-08-20T06:45:34.236+02:00
+published: 2026-08-20T06:45:34.236+02:00
 tags:
   - "#Destiny"
   - "#5e"
@@ -17,7 +17,7 @@ status: ✅
 
 Some people strive towards their destiny while others are dragged there. Those fated to be Underdogs must battle adversity and survive against long odds, gradually growing into the heroes they never sought to become.
 
-**Source of Inspiration: Defiance:** You draw inspiration from striking out against oppression, defying long odds, and placing hope in the impossible. You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Inspiration|✨Inspiration]] whenever you score a critical hit against a creature larger than you are, roll a natural 20 on a death saving throw, openly defy a powerful being, or succeed after taking a risk with long odds. Loudly refuse the orders of a tyrant, follow through with a convoluted or risky plan, succeed at something you were extremely likely to fail.
+**Source of Inspiration: Defiance:** You draw inspiration from striking out against oppression, defying long odds, and placing hope in the impossible. You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Inspiration|✨Inspiration]] whenever you score a critical hit against a creature larger than you are, roll a natural 20 on a death saving throw, openly defy a powerful being, or succeed after taking a risk with long odds. Loudly refuse the orders of a tyrant, follow through with a convoluted or risky plan, succeed at something you were extremely likely to fail.
 **Inspiration Feature: A Nose for Trouble:** Get kicked around long enough and you start to know when trouble’s brewing. Whenever you or an ally you can see fails an <u>Insight</u> check, you can use your **Reaction** to spend your inspiration and learn any information that would have been gained by a successful Insight check.
 
 ##### Fulfilling Your Destiny

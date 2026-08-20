@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - Oath of Conquest🦸‍♀️
 created: 2026-07-28T10:24:46.566+02:00
-modified: 2026-08-17T15:24:31.609+02:00
-published: 2026-08-17T15:24:31.609+02:00
+modified: 2026-08-20T06:45:33.662+02:00
+published: 2026-08-20T06:45:33.662+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -69,6 +69,6 @@ You gain the ability to harness extraordinary martial Expertise. As a **Bonus Ac
 
 - You have <u>resistance to all damage</u>.
 - When you take the **Attack Action** on your turn, you can make <u>one additional</u> attack as part of that action.
-- Your <u>melee weapon</u> attacks score a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Checks & Saves Outcomes/5e - Critical Success|🎲Critical Hit]] on a roll of `18 to 20` on the <u>d20</u>.
+- Your <u>melee weapon</u> attacks score a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Checks & Saves Outcomes/5e - Critical Success|🎲Critical Hit]] on a roll of `18 to 20` on the <u>d20</u>.
 
 <u>Once</u> you use this feature, you can’t use it again until you finish a **long rest**. You can also restore your use of it by expending a <u>5th-level spell slot</u> (**no action** required).

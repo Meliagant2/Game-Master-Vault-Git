@@ -2,8 +2,8 @@
 publish: true
 title: 🔮5e - Slayer🔮
 created: 2026-07-21T15:29:03.478+02:00
-modified: 2026-07-29T08:11:24.446+02:00
-published: 2026-07-29T08:11:24.446+02:00
+modified: 2026-08-20T06:45:34.232+02:00
+published: 2026-08-20T06:45:34.232+02:00
 tags:
   - "#Destiny"
   - "#5e"
@@ -17,7 +17,7 @@ status: ✅
 
 There are many in the world who fight terrible evils to protect others. They battle back the clutching hand of death for another day, then enjoy a well-earned, peaceful retirement. For the Slayer, however, these battles are their calling—whether they like it or not. Such people may be fated to battle a powerful being and their minions, a specific kind of monster, like werewolves, or an entire category of creature, such as the undead. Consult with the Game Master to come up with a foe suitable to the setting and campaign.
 
-**Source of Inspiration: War of Attrition:** You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Inspiration|✨Inspiration]] whenever you strike a blow against an especially powerful creature related to your destiny (but not necessarily your specific destined foe).  Force the powerful enemy’s retreat, obtain an item important to their defeat, gain a significant insight into their location or intentions, defeat one of their trusted lieutenants.
+**Source of Inspiration: War of Attrition:** You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Inspiration|✨Inspiration]] whenever you strike a blow against an especially powerful creature related to your destiny (but not necessarily your specific destined foe).  Force the powerful enemy’s retreat, obtain an item important to their defeat, gain a significant insight into their location or intentions, defeat one of their trusted lieutenants.
 **Inspiration Feature: Slayer’s Gift:**  Fighting the creatures of darkness hones both your mental and physical prowess. After you make a <u>D20 Test</u>, you may spend your inspiration to add a <u>+5</u> bonus to that roll, possibly turning a <u>Failure</u> into a <u>Success</u>.
 
 ##### Fulfilling Your Destiny

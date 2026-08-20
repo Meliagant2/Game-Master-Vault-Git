@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - Warrior of the Hand🦸‍♀️
 created: 2026-07-22T12:06:01.852+02:00
-modified: 2026-08-17T10:12:32.733+02:00
-published: 2026-08-17T10:12:32.733+02:00
+modified: 2026-08-20T06:45:33.528+02:00
+published: 2026-08-20T06:45:33.528+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -27,7 +27,7 @@ Your training unlocks lost knowledge. Choose a [[02. Regelwerk/D&D 5e Regelwerk/
 
 ### Level 6: Way of the Fist
 
-You regain <u>exertion</u> equal to <u>half your proficiency bonus</u> when you score a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Checks & Saves/5e - Checks & Saves Outcomes/5e - Critical Success|🎲Critical Hit]] with an unarmed strike. When you hit a creature with an unarmed strike, you can spend <u>1 exertion</u> to deal additional damage equal to your <u>Martial Arts die</u>.
+You regain <u>exertion</u> equal to <u>half your proficiency bonus</u> when you score a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Checks & Saves Outcomes/5e - Critical Success|🎲Critical Hit]] with an unarmed strike. When you hit a creature with an unarmed strike, you can spend <u>1 exertion</u> to deal additional damage equal to your <u>Martial Arts die</u>.
 
 ### Level 9: Ancestral Guidance
 
