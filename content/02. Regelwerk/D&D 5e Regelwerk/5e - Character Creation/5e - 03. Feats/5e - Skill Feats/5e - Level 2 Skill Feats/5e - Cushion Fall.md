@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Cushion Fall
 created: 2026-08-20T09:08:50.484+02:00
-modified: 2026-08-20T09:15:53.537+02:00
-published: 2026-08-20T09:15:53.537+02:00
+modified: 2026-08-20T14:51:25.103+02:00
+published: 2026-08-20T14:51:25.103+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -13,7 +13,7 @@ dateitags:
 status: ⏳
 category: Skill
 level: 2
-source: Self
+source: Humblewood Campaign Setting
 prerequisite: ""
 ability:
   - Falling
@@ -64,7 +64,9 @@ You gain the following benefits:
 
 **<u>Lesser Impact:</u>** Reduce the damage die for [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Environment/5e - Falling|🏃‍♀️Falling]] damage from a `d6` to a `d4`
 
+**<u>Standing Landing:</u>** You do not fall [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]] after taking [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Environment/5e - Falling|🏃‍♀️Falling]] damage.
+
 ## Quelle
 
 > [!inspiration] Quelle/Inspiration
-> Self
+> Humblewood Campaign Setting

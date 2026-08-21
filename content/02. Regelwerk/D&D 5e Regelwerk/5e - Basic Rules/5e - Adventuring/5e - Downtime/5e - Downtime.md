@@ -2,10 +2,9 @@
 publish: true
 title: 🧖‍♀️5e - Downtime
 created: 2026-08-04T10:31:33.884+02:00
-modified: 2026-08-04T10:33:35.908+02:00
-published: 2026-08-04T10:33:35.908+02:00
+modified: 2026-08-20T10:36:33.375+02:00
+published: 2026-08-20T10:36:33.375+02:00
 tags:
-  - "#Charaktererstellung"
   - "#Grundregeln"
   - "#5e"
 status: ⏳

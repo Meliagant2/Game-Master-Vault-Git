@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 🥇5e - Mobile
+title: 🥇5e - Speedy
 created: 2026-08-06T14:38:32.488+02:00
-modified: 2026-08-06T15:20:30.203+02:00
-published: 2026-08-06T15:20:30.203+02:00
+modified: 2026-08-20T11:04:06.335+02:00
+published: 2026-08-20T11:04:06.335+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -16,7 +16,7 @@ level: 4
 source: Player's Handbook 2024
 ---
 
-# 🥇5e - Mobile🥇
+# 🥇5e - Speedy🥇
 
 > [!wikibox]
 > | | |

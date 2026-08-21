@@ -2,19 +2,47 @@
 publish: true
 title: 🥇5e - Alluring
 created: 2026-08-06T15:38:07.565+02:00
-modified: 2026-08-06T15:40:54.230+02:00
-published: 2026-08-06T15:40:54.230+02:00
+modified: 2026-08-21T08:36:07.242+02:00
+published: 2026-08-21T08:36:07.242+02:00
 tags:
   - "#Feat"
   - "#5e"
 dateitags:
   - "#Feat"
   - "#5e"
-status: ✅
+status: ⏳
 source: Astarion's Book of Hungers (Renamed from "Trecherous Allure")
 category: Skill
 level: 4
+ability:
 ---
+
+> [!metadata]- Metadata
+>
+> > [!metadataoption]- Status
+> >
+> > #### Status
+> >
+> > | | |
+> > |---|---|
+> > |**Status** | `INPUT[Status][:status]` |
+> > |**Publish**|`INPUT[inlineSelect(option(true), option(false)):publish]`|
+>
+> > [!metadataoption]- Info
+> >
+> > #### Info
+> >
+> > | | |
+> > |---|---|
+> > |**Display Title** | `INPUT[textArea:title]`|
+> > |**Category** | `INPUT[inlineSelect(option(Class), option(Epic Boon), option(General), option(Origin), option(Skill)):category]` |
+> > |**Level Requirement** |`INPUT[number:level]`|
+> > |**Prerequisite** | `INPUT[textArea:prerequisite]`|
+> > |**Repeatable** | `INPUT[inlineSelect(option(null), option(x)):repeatable]` |
+> > |**Source** | `INPUT[textArea:source]`|
+> > |**Ability**|`INPUT[Featability][inlineListSuggester:ability]` |
+
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Skill Feats|5e - Skill Feats]].
 
 # 🥇5e - Alluring🥇
 
