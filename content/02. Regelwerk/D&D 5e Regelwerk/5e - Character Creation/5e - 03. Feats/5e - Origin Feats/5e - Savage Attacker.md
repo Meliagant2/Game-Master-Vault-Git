@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Savage Attacker
 created: 2026-08-04T11:27:16.685+02:00
-modified: 2026-08-18T14:42:31.565+02:00
-published: 2026-08-18T14:42:31.565+02:00
+modified: 2026-08-21T14:23:52.266+02:00
+published: 2026-08-21T14:23:52.266+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -26,7 +26,7 @@ source: Player's Handbook 2024
 > |**Prerequisite**| |
 > |**Repeatable**| |
 
-You've trained to deal particularly damaging strikes. <u>Once per tur</u>n when you _**hit**_ a target with a weapon, you can roll the weapon's damage dice twice and use either roll against the target.
+You've trained to deal particularly damaging strikes. <u>Once per turn</u> when you _**hit**_ a target with a weapon, you can roll the weapon's <u>damage dice</u> twice and use either roll against the target.
 
 ### Backgrounds that grant this Feat
 

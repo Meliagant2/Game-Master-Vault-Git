@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 🥇5e - Shadow Step
+title: 🥇5e - Shadow Walk
 created: 2026-08-10T16:02:43.026+02:00
-modified: 2026-08-10T16:04:21.995+02:00
-published: 2026-08-10T16:04:21.995+02:00
+modified: 2026-08-21T15:54:33.476+02:00
+published: 2026-08-21T15:54:33.476+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -16,7 +16,7 @@ level: 4
 prerequisite: Stealth Proficiency
 ---
 
-# 🥇5e - Shadow Step🥇
+# 🥇5e - Shadow Walk🥇
 
 > [!wikibox]
 > | | |

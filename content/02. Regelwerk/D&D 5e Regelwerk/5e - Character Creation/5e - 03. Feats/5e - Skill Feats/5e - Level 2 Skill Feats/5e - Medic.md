@@ -2,44 +2,23 @@
 publish: true
 title: 🥇5e - Medic
 created: 2026-08-20T11:31:51.992+02:00
-modified: 2026-08-20T14:11:14.583+02:00
-published: 2026-08-20T14:11:14.583+02:00
+modified: 2026-08-21T10:01:04.251+02:00
+published: 2026-08-21T10:01:04.251+02:00
 tags:
   - "#Feat"
   - "#5e"
 dateitags:
   - "#Feat"
   - "#5e"
-status: ⏳
+status: ✅
 category: Skill
 level: 2
 source: Humblewood Tales
+ability:
+  - Medicine
+  - Condition
+  - Healing
 ---
-
-> [!metadata]- Metadata
->
-> > [!metadataoption]- Status
-> >
-> > #### Status
-> >
-> > | | |
-> > |---|---|
-> > |**Status** | `INPUT[Status][:status]` |
-> > |**Publish**|`INPUT[inlineSelect(option(true), option(false)):publish]`|
->
-> > [!metadataoption]- Info
-> >
-> > #### Info
-> >
-> > | | |
-> > |---|---|
-> > |**Display Title** | `INPUT[textArea:title]`|
-> > |**Category** | `INPUT[inlineSelect(option(Class), option(Epic Boon), option(General), option(Origin), option(Skill)):category]` |
-> > |**Level Requirement** |`INPUT[number:level]`|
-> > |**Prerequisite** | `INPUT[textArea:prerequisite]`|
-> > |**Repeatable** | `INPUT[inlineSelect(option(null), option(x)):repeatable]` |
-> > |**Source** | `INPUT[textArea:source]`|
-> > |**Ability**|`INPUT[Featability][inlineListSuggester:ability]` |
 
 Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Skill Feats|5e - Skill Feats]].
 

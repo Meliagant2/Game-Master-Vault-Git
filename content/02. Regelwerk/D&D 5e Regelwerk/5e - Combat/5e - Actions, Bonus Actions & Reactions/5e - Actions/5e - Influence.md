@@ -2,8 +2,8 @@
 publish: true
 title: ⚔️5e - Influence
 created: 2026-07-30T15:52:54.850+02:00
-modified: 2026-08-06T11:27:24.806+02:00
-published: 2026-08-06T11:27:24.806+02:00
+modified: 2026-08-21T10:40:52.133+02:00
+published: 2026-08-21T10:40:52.133+02:00
 tags:
   - "#Action"
   - "#5e"
@@ -27,10 +27,9 @@ The DC for the Check can vary by the GM determined circumstantial modifiers.
 
 ###### Influence Checks
 
-| Ability Check   | Ability Score | Interaction                               |
-| --------------- | ------------- | ----------------------------------------- |
-| Deception       | CHA           | Deceiving a monster that understands you  |
-| Intimidation    | CHA           | Intimidating a monster                    |
-| Performance     | CHA           | Amusing a monster                         |
-| Persuasion      | CHA           | Persuading a monster that understands you |
-| Animal Handling | WIS           | Gently coaxing a Beast or Monstrosity     |
+| Ability Check | Ability Score | Interaction                               |
+| ------------- | :-------------: | ----------------------------------------- |
+| Deception     | CHA           | Deceiving a monster that understands you  |
+| Intimidation  | STR           | Intimidating a monster                    |
+| Performance   | CHA           | Amusing a monster                         |
+| Persuasion    | CHA           | Persuading a monster that understands you |

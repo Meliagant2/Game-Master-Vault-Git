@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Mystic Conflux
 created: 2026-08-10T11:45:27.375+02:00
-modified: 2026-08-10T11:47:48.732+02:00
-published: 2026-08-10T11:47:48.732+02:00
+modified: 2026-08-21T15:51:57.740+02:00
+published: 2026-08-21T15:51:57.740+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -13,7 +13,7 @@ dateitags:
 status: ✅
 category: General
 level: 6
-source: Tal'Dorei Campaign Setting Rebor
+source: Tal'Dorei Campaign Setting Reborn
 ---
 
 # 🥇5e - Mystic Conflux🥇
@@ -35,4 +35,4 @@ You gain the following benefits:
 ## Quelle
 
 > [!inspiration] Quelle/Inspiration
-> Tal'Dorei Campaign Setting Rebor
+> Tal'Dorei Campaign Setting Reborn

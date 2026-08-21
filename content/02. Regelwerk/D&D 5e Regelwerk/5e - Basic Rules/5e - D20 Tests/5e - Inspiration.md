@@ -2,8 +2,8 @@
 publish: true
 title: ✨5e - Inspiration
 created: 2026-07-21T15:23:08.714+02:00
-modified: 2026-08-19T11:52:15.411+02:00
-published: 2026-08-19T11:52:15.411+02:00
+modified: 2026-08-21T15:37:37.942+02:00
+published: 2026-08-21T15:37:37.942+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -19,3 +19,38 @@ Once you have inspiration, you can save it indefinitely. Whenever you make an at
 Alternatively, you can spend inspiration to use the inspiration feature unique to your chosen destiny.
 
 You either have inspiration or you don’t; if you already have inspiration and do something worth rewarding inspiration, you do not gain a second use of inspiration.
+
+> [!info]+ Links
+> | Name                                                                                                                                                                            |
+> | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Coming of Age (Destiny).md|🔮5e - Coming of Age🔮]]                                             |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Darkness (Destiny).md|🔮5e - Darkness🔮]]                                                       |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Death (Destiny).md|🔮5e - Death🔮]]                                                             |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Devotion (Destiny).md|🔮5e - Devotion🔮]]                                                       |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Dominion (Destiny).md|🔮5e - Dominion🔮]]                                                       |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Excellence (Destiny).md|🔮5e - Excellence🔮]]                                                   |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Fire (Destiny).md|🔮5e - Fire🔮]]                                                               |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Foundation (Destiny).md|🔮5e - Foundation🔮]]                                                   |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Ice (Destiny).md|🔮5e - Ice🔮]]                                                                 |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Knowledge (Destiny).md|🔮5e - Knowledge🔮]]                                                     |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Metamorphosis (Destiny).md|🔮5e - Metamorphosis🔮]]                                             |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Preservation (Destiny).md|🔮5e - Preservation🔮]]                                               |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Prophecy (Destiny).md|🔮5e - Prophecy🔮]]                                                       |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Return to Glory (Destiny).md|🔮5e - Return to Glory🔮]]                                         |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Revenge (Destiny).md|🔮5e - Revenge🔮]]                                                         |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Slayer (Destiny).md|🔮5e - Slayer🔮]]                                                           |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Underdog (Destiny).md|🔮5e - Underdog🔮]]                                                       |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Wealth (Destiny).md|🔮5e - Wealth🔮]]                                                           |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats; Fighter/5e - Battle Scarred.md|🥇5e - Battle Scarred]]              |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Cult Initiate.md|🥇5e - Cult Initiate]]                                         |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Level 6 Skill Feats/5e - Destinys Call.md|🥇5e - Destinys Call]]                 |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/evtl obsolet origin feats/5e - Faithful.md|🥇5e - Faithful]]                         |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Level 4 Skill Feats/5e - Grizzled.md|🥇5e - Grizzled]]                           |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Honorable Warrior.md|🥇5e - Honorable Warrior]]                                 |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats; Bard/5e - Inspiring Inspiration.md|🥇5e - Inspiring Inspiration]]   |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Level 2 Skill Feats/5e - Intimidating.md|🥇5e - Intimidating]]                   |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Mercenary Roughness.md|🥇5e - Mercenary Roughness]]                             |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Musician.md|🥇5e - Musician]]                                                   |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Squire.md|🥇5e - Squire]]                                                       |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Level 4 Skill Feats/5e - Tireless Reveler.md|🥇5e - Tireless Reveler]]           |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/Legacy 5e Classes/(Legacy) 5e - Fighter/(Legacy) 5e - Cavalier.md|🦸‍♀️(Legacy) 5e - Cavalier🦸‍♀️]] |

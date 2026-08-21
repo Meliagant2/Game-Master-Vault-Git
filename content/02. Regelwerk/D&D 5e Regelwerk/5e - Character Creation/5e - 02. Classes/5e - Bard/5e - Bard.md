@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Bard
 description: A charismatic performer who uses their music as a conduit to wield powerful magic.
 created: 2026-07-31T10:15:39.250+02:00
-modified: 2026-08-19T08:42:29.245+02:00
-published: 2026-08-19T08:42:29.245+02:00
+modified: 2026-08-21T15:10:27.914+02:00
+published: 2026-08-21T15:10:27.914+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -456,7 +456,7 @@ You can add `half` your <u>proficiency bonus</u> (**rounded down**) to any abili
 You can supernaturally inspire others through words, music, or dance. This inspiration is epresented by your **Bardic Inspiration die**, which is a <u>d6</u>.
 
 **<u>Using Bardic Inspiration:</u>** As a **Bonus Action**, you can inspire another creature within <u>60 feet</u> of yourself who can <u>see</u> or <u>hear</u> you. That creature gains one of your **Bardic Inspiration dice**. A creature can have only one **Bardic Inspiration die** at a time.
-Once within the <u>next hour</u> when the creature fails a <u>d20 Test</u>, the creature can roll that die and add the number rolled to the <u>d20</u>, potentially turning the failure into a success. A Bardic Inspiration die is expended when it’s rolled.
+Once within the <u>next hour</u> when the creature fails a <u>d20 Test</u>, the creature can roll that die and add the number rolled to the <u>d20</u>, potentially turning the failure into a success. A **Bardic Inspiration die** is expended when it’s rolled.
 
 **<u>Number of Uses:</u>** You can confer a Bardic Inspiration die a number of times equal to your <u>CHA modifier</u> (minimum of `1`), and you regain all expended uses when you finish a **Long Rest**.
 
