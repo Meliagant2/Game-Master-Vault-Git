@@ -2,8 +2,8 @@
 publish: true
 title: 🎎5e - Woodlander🎎
 created: 2026-07-20T18:00:21.058+02:00
-modified: 2026-07-29T08:11:24.054+02:00
-published: 2026-07-29T08:11:24.054+02:00
+modified: 2026-08-27T09:18:14.642+02:00
+published: 2026-08-27T09:18:14.642+02:00
 tags:
   - "#Culture"
   - "#5e"
@@ -38,7 +38,7 @@ Characters raised in the wood elf culture share a variety of traits in common wi
 
 **Languages:** You can speak, read, write, and sign <u>Common</u> and <u>Sylvan</u>.
 **Fleet of Foot:** Your Speed increases by <u>5 feet</u>.
-**Nature’s Ally:** You can cast [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 1 Enchantment/5e - Animal Friendship (Spell)|☄️Animal Friendship]] without material components once per long rest. Your spellcasting ability for this spell is INT, WIS, or CHA (whichever is highest).
+**Nature’s Ally:** You can cast [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Enchantment/5e - Level 1 Enchantment/5e - Animal Friendship (Spell)|☄️Animal Friendship]] without material components once per long rest. Your spellcasting ability for this spell is INT, WIS, or CHA (whichever is highest).
 **Nature’s Touch:** Choose one of the following:
 
 - **Way with Animals:** You gain proficiency in <u>Animal Handling</u> and with <u>land vehicles</u>.

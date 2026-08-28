@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - Oath of the Open Sea🦸‍♀️
 created: 2026-07-28T10:25:11.789+02:00
-modified: 2026-08-17T15:24:31.655+02:00
-published: 2026-08-17T15:24:31.655+02:00
+modified: 2026-08-27T09:18:25.354+02:00
+published: 2026-08-27T09:18:25.354+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -34,15 +34,15 @@ Such guardians believe in the natural beauty of the sea, often making offerings 
 
 You gain oath spells at the paladin levels listed below. You always have these spells prepared and they don't count against the maximum number of spells you can prepare each day.
 
-**<u>3rd level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 1 Transmutation/5e - Create or Destroy Water (Spell)|☄️Create or Destroy Water]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 1 Transmutation/5e - Expeditious Retreat (Spell)|☄️Expeditious Retreat]]
+**<u>3rd level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Transmutation/5e - Level 1 Transmutation/5e - Create or Destroy Water (Spell)|☄️Create or Destroy Water]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Transmutation/5e - Level 1 Transmutation/5e - Expeditious Retreat (Spell)|☄️Expeditious Retreat]]
 
-**<u>5th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Divination/5e - Level 2 Divination/5e - Augury (Spell)|☄️Augury]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Level 2 Conjuration/5e - Misty Step (Spell)|☄️Misty Step]]
+**<u>5th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Divination/5e - Level 2 Divination/5e - Augury (Spell)|☄️Augury]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Conjuration/5e - Level 2 Conjuration/5e - Misty Step (Spell)|☄️Misty Step]]
 
-**<u>9th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Level 3 Conjuration/5e - Call Lightning (Spell)|☄️Call Lightning]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Level 3 Conjuration/5e - Freedom of the Waves (Spell)|☄️Freedom of the Waves]]
+**<u>9th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Conjuration/5e - Level 3 Conjuration/5e - Call Lightning (Spell)|☄️Call Lightning]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Conjuration/5e - Level 3 Conjuration/5e - Freedom of the Waves (Spell)|☄️Freedom of the Waves]]
 
-**<u>13th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 4 Transmutation/5e - Control Water (Spell)|☄️Control Water]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 4 Evocation/5e - Storm Sphere (Spell)|☄️Storm Sphere]]
+**<u>13th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Transmutation/5e - Level 4 Transmutation/5e - Control Water (Spell)|☄️Control Water]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Evocation/5e - Level 4 Evocation/5e - Storm Sphere (Spell)|☄️Storm Sphere]]
 
-**<u>17th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 5 Abjuration/5e - Freedom of the Winds (Spell)|☄️Freedom of the Winds]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 5 Evocation/5e - Maelstrom (Spell)|☄️Maelstrom]]
+**<u>17th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Abjuration/5e - Level 5 Abjuration/5e - Freedom of the Winds (Spell)|☄️Freedom of the Winds]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Evocation/5e - Level 5 Evocation/5e - Maelstrom (Spell)|☄️Maelstrom]]
 
 ### Level 3: Marine Layer
 
@@ -74,7 +74,7 @@ You learn to channel the spirits of historic sea captains to briefly become a pa
 - You are <u>immune</u> to <u>cold</u>, <u>lightning</u>, and <u>thunder</u> damage.
 - You can take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Dash|⚔️Dash]] or [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Disengage|⚔️Disengage]] Action as a **Bonus Action**.
 - You have **ADV** on <u>DEX checks</u> and <u>Saves</u>.
-- You can cast [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 1 Enchantment/5e - Command (Spell)|☄️Command]] as a 1st-level spell, as a **Bonus Action** on each turn without expending a spell slot.
+- You can cast [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Enchantment/5e - Level 1 Enchantment/5e - Command (Spell)|☄️Command]] as a 1st-level spell, as a **Bonus Action** on each turn without expending a spell slot.
 - When you hit an enemy creature with a <u>melee attack</u>, they must make a **STR Save**. _**Failure:**_ The Creature is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]].
 
 <u>Once</u> you use this feature, you can’t use it again until you finish a **long rest**. You can also restore your use of it by expending a <u>5th-level spell slot</u> (**no action** required).

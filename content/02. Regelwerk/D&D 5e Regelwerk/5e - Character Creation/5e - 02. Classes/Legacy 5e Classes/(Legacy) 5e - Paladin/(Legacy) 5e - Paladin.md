@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - Paladin🦸‍♀️
 created: 2026-07-20T12:11:02.575+02:00
-modified: 2026-08-20T06:45:33.702+02:00
-published: 2026-08-20T06:45:33.702+02:00
+modified: 2026-08-27T09:18:11.299+02:00
+published: 2026-08-27T09:18:11.299+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -168,7 +168,7 @@ In preparing to take your oath, you have learned a number of skills and tricks t
 >
 > #### Divine Vision
 >
-> You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Senses/5e - Darkvision|👁️Darkvision]] with a range of <u>60 ft</u>. In addition, you always have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Divination/5e - Level 2 Divination/5e - See Invisibility (Spell)|☄️See Invisibility]] spell prepared and can use this feature <u>once</u> per **long rest** to cast it without expending a spell slot.
+> You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Senses/5e - Darkvision|👁️Darkvision]] with a range of <u>60 ft</u>. In addition, you always have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Divination/5e - Level 2 Divination/5e - See Invisibility (Spell)|☄️See Invisibility]] spell prepared and can use this feature <u>once</u> per **long rest** to cast it without expending a spell slot.
 >
 > #### Do Without
 >
@@ -534,7 +534,7 @@ You can attack twice, instead of once, when you take the [[02. Regelwerk/D&D 5e 
 
 ### Level 5: Faithful Steed
 
-You can easily call on the aid of an otherworldly steed. You always have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Level 2 Conjuration/5e - Find Steed (Spell)|☄️Find Steed]] spell prepared.
+You can easily call on the aid of an otherworldly steed. You always have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Conjuration/5e - Level 2 Conjuration/5e - Find Steed (Spell)|☄️Find Steed]] spell prepared.
 
 You can also cast the spell <u>once</u> without expending a spell slot, and you regain the ability to do so when you finish a **Long Rest**. If you cast the Spell in this way, you treat it as if you had used a Spell Slot of the highest level available to you.
 

@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - Oath of Devotion🦸‍♀️
 created: 2026-07-28T10:25:11.789+02:00
-modified: 2026-08-17T15:24:31.622+02:00
-published: 2026-08-17T15:24:31.622+02:00
+modified: 2026-08-27T09:18:14.295+02:00
+published: 2026-08-27T09:18:14.295+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -33,15 +33,15 @@ The Oath of Devotion binds a paladin to the loftiest ideals of justice, virtue, 
 
 You gain oath spells at the paladin levels listed below. You always have these spells prepared and they don't count against the maximum number of spells you can prepare each day.
 
-**<u>3rd level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 1 Abjuration/5e - Protection from Evil and Good (Spell)|☄️Protection from Evil and Good]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 1 Abjuration/5e - Shield of Faith (Spell)|☄️Shield of Faith]]
+**<u>3rd level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Abjuration/5e - Level 1 Abjuration/5e - Protection from Evil and Good (Spell)|☄️Protection from Evil and Good]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Abjuration/5e - Level 1 Abjuration/5e - Shield of Faith (Spell)|☄️Shield of Faith]]
 
-**<u>5th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 2 Abjuration/5e - Aid (Spell)|☄️Aid]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 2 Enchantment/5e - Zone of Truth (Spell)|☄️Zone of Truth]]
+**<u>5th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Abjuration/5e - Level 2 Abjuration/5e - Aid (Spell)|☄️Aid]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Enchantment/5e - Level 2 Enchantment/5e - Zone of Truth (Spell)|☄️Zone of Truth]]
 
-**<u>9th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 3 Abjuration/5e - Beacon of Hope (Spell)|☄️Beacon of Hope]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 3 Abjuration/5e - Dispel Magic (Spell)|☄️Dispel Magic]]
+**<u>9th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Abjuration/5e - Level 3 Abjuration/5e - Beacon of Hope (Spell)|☄️Beacon of Hope]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Abjuration/5e - Level 3 Abjuration/5e - Dispel Magic (Spell)|☄️Dispel Magic]]
 
-**<u>13th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 4 Abjuration/5e - Freedom of Movement (Spell)|☄️Freedom of Movement]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 4 Enchantment/5e - Guardian of Faith (Spell)|☄️Guardian of Faith]]
+**<u>13th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Abjuration/5e - Level 4 Abjuration/5e - Freedom of Movement (Spell)|☄️Freedom of Movement]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Enchantment/5e - Level 4 Enchantment/5e - Guardian of Faith (Spell)|☄️Guardian of Faith]]
 
-**<u>17th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Divination/5e - Level 5 Divination/5e - Commune (Spell)|☄️Commune]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 5 Enchantment/5e - Flame Strike (Spell)|☄️Flame Strike]]
+**<u>17th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Divination/5e - Level 5 Divination/5e - Commune (Spell)|☄️Commune]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Enchantment/5e - Level 5 Enchantment/5e - Flame Strike (Spell)|☄️Flame Strike]]
 
 ### Level 3: Sacred Weapon
 

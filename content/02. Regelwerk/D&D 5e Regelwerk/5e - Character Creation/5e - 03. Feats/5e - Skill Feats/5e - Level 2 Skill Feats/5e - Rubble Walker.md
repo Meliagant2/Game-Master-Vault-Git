@@ -1,0 +1,44 @@
+---
+publish: true
+title: 🥇5e - Rubble Walker
+created: 2026-08-25T11:06:33.419+02:00
+modified: 2026-08-25T11:07:43.497+02:00
+published: 2026-08-25T11:07:43.497+02:00
+tags:
+  - "#Feat"
+  - "#5e"
+dateitags:
+  - "#Feat"
+  - "#5e"
+status: ✅
+category: Skill
+level: 2
+prerequisite: STR +1
+source: Self
+ability:
+  - Breaking
+  - Difficult Terrain
+---
+
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Skill Feats|5e - Skill Feats]].
+
+# 🥇5e - Rubble Walker🥇
+
+> [!wikibox]
+> | | |
+> |---|---|
+> |**Category**|Skill |
+> |**Level Requirement**|2 |
+> |**Prerequisite**|STR +1 |
+> |**Repeatable**| |
+
+You gain the following benefits:
+
+**<u>Skill Proficiency:</u>** You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - STR Skills/5e - Breaking|💃Breaking]] [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Proficiency|🎲Proficiency]], or one level of [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Expertise|🎲Expertise]], if you are already _proficient_.
+
+**<u>Used to Rubble:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Environment/5e - Difficult Terrain|🏔️Difficult Terrain]] made of rubble or debris doesn't cost you extra movement.
+
+## Quelle
+
+> [!inspiration] Quelle/Inspiration
+> Self

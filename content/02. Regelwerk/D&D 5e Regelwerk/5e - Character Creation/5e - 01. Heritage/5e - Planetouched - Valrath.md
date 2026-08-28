@@ -2,8 +2,8 @@
 publish: true
 title: 👥5e - Valrath👥
 created: 2026-07-20T12:11:02.479+02:00
-modified: 2026-07-29T08:11:22.918+02:00
-published: 2026-07-29T08:11:22.918+02:00
+modified: 2026-08-27T09:18:17.516+02:00
+published: 2026-08-27T09:18:17.516+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -66,7 +66,7 @@ You have resistance to one of the following damage types: Acid, Cold, Fire, Forc
 
 ### Infernal Legacy
 
-You know the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Level 0 Conjuration/5e - Produce Flame (Spell)|☄️Produce Flame]] cantrip. Once you reach <u>3rd level</u>, you can cast [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 1 Evocation/5e - Hellish Rebuke (Spell)|☄️Hellish Rebuke]] once per long rest. The damage of that spell resembles the damage type of your Hellish Resistance. At <u>5th level</u>, you can cast [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 2 Evocation/5e - Darkness (Spell)|☄️Darkness]] without material components once per long rest. INT, WIS or CHA is your Spellcasting ability for those spells (whichever is highest).
+You know the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Conjuration/5e - Level 0 Conjuration/5e - Produce Flame (Spell)|☄️Produce Flame]] cantrip. Once you reach <u>3rd level</u>, you can cast [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Evocation/5e - Level 1 Evocation/5e - Hellish Rebuke (Spell)|☄️Hellish Rebuke]] once per long rest. The damage of that spell resembles the damage type of your Hellish Resistance. At <u>5th level</u>, you can cast [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Evocation/5e - Level 2 Evocation/5e - Darkness (Spell)|☄️Darkness]] without material components once per long rest. INT, WIS or CHA is your Spellcasting ability for those spells (whichever is highest).
 
 ## Planetouched Gifts
 

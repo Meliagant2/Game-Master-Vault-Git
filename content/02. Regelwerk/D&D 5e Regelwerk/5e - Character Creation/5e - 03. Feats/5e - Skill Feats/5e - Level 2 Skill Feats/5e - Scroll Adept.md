@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Scroll Adept
 created: 2026-08-06T12:16:07.194+02:00
-modified: 2026-08-21T10:01:39.716+02:00
-published: 2026-08-21T10:01:39.716+02:00
+modified: 2026-08-25T10:27:49.305+02:00
+published: 2026-08-25T10:27:49.305+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -18,6 +18,7 @@ ability:
   - Arcana
   - Magic Action
   - Magic Item
+prerequisite: INT +1
 ---
 
 Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Skill Feats|5e - Skill Feats]].
@@ -29,7 +30,7 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Fea
 > |---|---|
 > |**Category**|Skill |
 > |**Level Requirement**|2 |
-> |**Prerequisite**| |
+> |**Prerequisite**|INT +1 |
 > |**Repeatable**| |
 
 You gain the following benefits:

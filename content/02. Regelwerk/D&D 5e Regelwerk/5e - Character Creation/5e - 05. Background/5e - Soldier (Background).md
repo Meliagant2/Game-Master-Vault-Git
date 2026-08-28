@@ -2,8 +2,8 @@
 publish: true
 title: ⛏️5e - Soldier⛏️
 created: 2026-07-21T13:46:29.234+02:00
-modified: 2026-08-17T11:25:14.562+02:00
-published: 2026-08-17T11:25:14.562+02:00
+modified: 2026-08-26T09:42:06.785+02:00
+published: 2026-08-26T09:42:06.785+02:00
 tags:
   - "#Background"
   - "#5e"
@@ -32,7 +32,7 @@ Soldiers recognize their own. Off duty soldiers are usually willing to trade tal
 **Tool Proficiencies:** <u>Gaming Set</u>.
 **Languages:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️One of your Choice]].
 **Equipment:** Uniform, common clothes, 7 days rations, 3 silver
-**Feat:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Alert|🥇Alert]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Savage Attacker|🥇Savage Attacker]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Tough|🥇Tough]] or a **Special** Origin Feat.
+**Feat:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats garantiert/5e - Alert|🥇Alert]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats garantiert/5e - Savage Attacker|🥇Savage Attacker]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats garantiert/5e - Tough|🥇Tough]] or a **Special** Origin Feat.
 
 **Connection and Memento:** Roll <u>1d10</u>, choose, or make up your own.
 

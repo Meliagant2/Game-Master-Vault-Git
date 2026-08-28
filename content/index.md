@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-08-21T09:19:45.420+02:00
-published: 2026-08-21T09:19:45.420+02:00
+modified: 2026-08-27T15:51:48.160+02:00
+published: 2026-08-27T15:51:48.160+02:00
 tags:
   - "#Home"
 ---
@@ -39,3 +39,5 @@ views:
     imageFit: contain
 
 ```
+
+![[98. Diverses/Bilder/Item Bilder/Spell Foci/Item Spellcasting Focus Tool Card Deck.png]]

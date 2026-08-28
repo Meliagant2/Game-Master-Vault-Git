@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Intimidating
 created: 2026-08-21T09:20:56.441+02:00
-modified: 2026-08-21T10:00:54.943+02:00
-published: 2026-08-21T10:00:54.943+02:00
+modified: 2026-08-25T12:05:35.564+02:00
+published: 2026-08-25T12:05:35.564+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -16,7 +16,9 @@ level: 2
 source: Self
 ability:
   - Intimidation
-  - Inspiration
+  - Charmed
+  - Taunted
+prerequisite: STR +1
 ---
 
 Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Skill Feats|5e - Skill Feats]].
@@ -28,16 +30,14 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Fea
 > |---|---|
 > |**Category**|Skill |
 > |**Level Requirement**|2 |
-> |**Prerequisite**| |
+> |**Prerequisite**|STR +1 |
 > |**Repeatable**| |
 
 You gain the following benefits:
 
 **<u>Skill Proficiency:</u>** You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - STR Skills/5e - Intimidation|💃Intimidation]] [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Proficiency|🎲Proficiency]], or one level of [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Expertise|🎲Expertise]], if you are already _proficient_.
 
-**<u>Intimidating Inquiry:</u>** When you _succeed_ on an [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - STR Skills/5e - Intimidation|💃Intimidation]] [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Ability Check/5e - Ability Check|🎲Check]] against a creature, you gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Inspiration|✨Inspiration]] if you lack it.
-
-**<u>Number of Uses:</u>** <u>Once</u> you've used this benefit, you can't use it again until you finish a **Long Rest**.
+**<u>Unfaced:</u>** Whenever you make a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Save]] against [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]], or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Taunted|☠️Taunted]], you add `1d4` to that roll.
 
 ## Quelle
 

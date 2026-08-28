@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - Musket
 created: 2026-08-18T11:54:53.868+02:00
-modified: 2026-08-18T11:57:22.238+02:00
-published: 2026-08-18T11:57:22.238+02:00
+modified: 2026-08-27T12:17:57.088+02:00
+published: 2026-08-27T12:17:57.088+02:00
 tags:
   - "#Weapon"
   - "#Grundregeln"
@@ -18,12 +18,11 @@ status: ✅
 a: " "
 type: Martial Ranged
 category: Firearm
-damage: 2d12
+damage: 1d12
 damagetype: Piercing
 properties:
   - Ammunition
-  - Loading
-  - Misfire [2]
+  - Misfire [3]
   - Two-Handed
 mastery: Slow
 weight: 5 kg
@@ -42,8 +41,8 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 > |---|---|
 > |**Weapon Type** |Martial Ranged |
 > |**Weapon Category** |Firearm |
-> |**Damage** |2d12 Piercing |
-> |**Properties** |Ammunition,Loading,Misfire \[2],Two-Handed |
+> |**Damage** |1d12 Piercing |
+> |**Properties** |Ammunition,Misfire \[3],Two-Handed |
 > |**Mastery** |Slow |
 > |**Attunement** |  |
 > |**Weight** |5 kg |

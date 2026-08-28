@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - Oath of the Crown🦸‍♀️
 created: 2026-07-28T10:25:11.789+02:00
-modified: 2026-08-17T15:24:31.652+02:00
-published: 2026-08-17T15:24:31.652+02:00
+modified: 2026-08-27T09:18:14.453+02:00
+published: 2026-08-27T09:18:14.453+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -32,15 +32,15 @@ The Oath of the Crown is sworn to the ideals of civilization, be it the spirit o
 
 You gain oath spells at the paladin levels listed below. You always have these spells prepared and they don't count against the maximum number of spells you can prepare each day.
 
-**<u>3rd level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 1 Enchantment/5e - Command (Spell)|☄️Command]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 1 Enchantment/5e - Compelled Duel (Spell)|☄️Compelled Duel]]
+**<u>3rd level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Enchantment/5e - Level 1 Enchantment/5e - Command (Spell)|☄️Command]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Enchantment/5e - Level 1 Enchantment/5e - Compelled Duel (Spell)|☄️Compelled Duel]]
 
-**<u>5th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 2 Abjuration/5e - Warding Bond (Spell)|☄️Warding Bond]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 2 Enchantment/5e - Zone of Truth (Spell)|☄️Zone of Truth]]
+**<u>5th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Abjuration/5e - Level 2 Abjuration/5e - Warding Bond (Spell)|☄️Warding Bond]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Enchantment/5e - Level 2 Enchantment/5e - Zone of Truth (Spell)|☄️Zone of Truth]]
 
-**<u>9th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 3 Abjuration/5e - Aura of Vitality (Spell)|☄️Aura of Vitality]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Level 3 Conjuration/5e - Spirit Guardians (Spell)|☄️Spirit Guardians]]
+**<u>9th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Abjuration/5e - Level 3 Abjuration/5e - Aura of Vitality (Spell)|☄️Aura of Vitality]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Conjuration/5e - Level 3 Conjuration/5e - Spirit Guardians (Spell)|☄️Spirit Guardians]]
 
-**<u>13th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 4 Abjuration/5e - Banishment (Spell)|☄️Banishment]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 4 Enchantment/5e - Guardian of Faith (Spell)|☄️Guardian of Faith]]
+**<u>13th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Abjuration/5e - Level 4 Abjuration/5e - Banishment (Spell)|☄️Banishment]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Enchantment/5e - Level 4 Enchantment/5e - Guardian of Faith (Spell)|☄️Guardian of Faith]]
 
-**<u>17th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 5 Abjuration/5e - Circle of Power (Spell)|☄️Circle of Power]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 5 Enchantment/5e - Geas (Spell)|☄️Geas]]
+**<u>17th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Abjuration/5e - Level 5 Abjuration/5e - Circle of Power (Spell)|☄️Circle of Power]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Enchantment/5e - Level 5 Enchantment/5e - Geas (Spell)|☄️Geas]]
 
 ### Level 3: Champion Challenge
 

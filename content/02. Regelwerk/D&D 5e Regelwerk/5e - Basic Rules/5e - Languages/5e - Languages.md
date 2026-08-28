@@ -2,8 +2,8 @@
 publish: true
 title: 🗣️5e - Languages🗣️
 created: 2026-07-21T10:45:53.970+02:00
-modified: 2026-08-21T10:03:36.108+02:00
-published: 2026-08-21T10:03:36.108+02:00
+modified: 2026-08-21T15:56:01.960+02:00
+published: 2026-08-21T15:56:01.960+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -40,7 +40,7 @@ THIEVES CANT; DRUIDIC
 
 Language Ability Checks! -> Sprach fluency Grade!
 
-Language mastery levels ()
+Language mastery levels (terminology defined in occult studies feat)
 1: Speaking/Understanding (Audible) -> Limited Understanding
 2: Reading/Writing (Written) -> Full Fluency
 3: Signing

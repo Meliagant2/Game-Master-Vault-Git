@@ -2,8 +2,8 @@
 publish: true
 title: 👥5e - Drakari👥
 created: 2026-07-20T12:11:02.447+02:00
-modified: 2026-08-12T07:44:28.870+02:00
-published: 2026-08-12T07:44:28.870+02:00
+modified: 2026-08-27T09:18:37.041+02:00
+published: 2026-08-27T09:18:37.041+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -58,7 +58,7 @@ Scales, tails, horns, fangs, claws, wings, and any feature found within dragonki
 
 Drawing upon great reservoirs of draconic power, you can unleash magical destruction upon your foes. When you take the **Attack Action** on your turn, you can replace one of your attacks with your Dragon Breath.
 During Character Creation, choose the type of damage dealt by your breath weapon: **Acid**, **Cold**, **Fire**, **Force**, **Lightning**, **Necrotic**, **Poison**, **Psychic**, **Radiant**, or **Thunder**.
-Additionally, choose between a <u>30-foot line that is 5 feet wide</u> or a <u>15-foot</u> cone for the area that your breath weapon affects. Each creature in the breath’s area makes a **DEX Save** if your breath weapon deals acid, fire, or lightning damage, a **CON Save** if it deals cold, force, poison, or thunder damage, and a **WIS Save** if it deals necrotic, psychic, or radiant damage (DC = your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Rules/5e - Maneuver Save DC|🤺Maneuver Save DC]], or your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Save DC|☄️Spell Save DC]], whichever is higher).
+Additionally, choose between a <u>30-foot line that is 5 feet wide</u> or a <u>15-foot</u> cone for the area that your breath weapon affects. Each creature in the breath’s area makes a **DEX Save** if your breath weapon deals acid, fire, or lightning damage, a **CON Save** if it deals cold, force, poison, or thunder damage, and a **WIS Save** if it deals necrotic, psychic, or radiant damage (DC = your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Rules/5e - Maneuver Save DC|🤺Maneuver Save DC]], or your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Save DC|☄️Spell Save DC]], whichever is higher).
 _**Failed Save:**_ The creature takes <u>2d6</u> damage. _**Successful save:**_ The creature takes half the damage.
 The damage increases to <u>5d6</u> at 5th level, <u>8d6</u> at 9th level, <u>12d6</u> at 13th level, and <u>15d6</u> at 17th level. You can use your Dragon Breath <u>once</u> between **long rests**.
 
@@ -87,7 +87,7 @@ Some dragonborn seem naturally adapted to aquatic environments with sleek, hydro
 Some dragonborn are born with a natural attunement to the magic around them. You gain the following traits:
 
 **<u>Arcane Sensitivity:</u>** You gain proficiency in <u>Arcana</u>.
-**<u>Arcane Detection:</u>** As an **Action** you can cast [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Divination/5e - Level 1 Divination/5e - Detect Magic (Spell)|☄️Detect Magic]] without concentration and with a duration of 1 round. You can use this trait <u>once</u> and must finish a **long rest** before you can use it again.
+**<u>Arcane Detection:</u>** As an **Action** you can cast [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Divination/5e - Level 1 Divination/5e - Detect Magic (Spell)|☄️Detect Magic]] without concentration and with a duration of 1 round. You can use this trait <u>once</u> and must finish a **long rest** before you can use it again.
 
 ### Draconic Presence
 
@@ -115,8 +115,8 @@ With enough time and training any dragonborn can unlock their draconic potential
 
 ### Greater Draconic Magic
 
-You learn the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 0 Transmutation/5e - Elementalism (Spell)|☄️Elementalism]] cantrip and the
-[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 3 Transmutation/5e - Erupting Earth (Spell)|☄️Erupting Earth]] spell. <u>Charisma</u> is your spellcasting ability modifier for those spells. You can cast <u>Erupting Earth</u> once with this trait without expending a spell slot and you must finish a long rest before you can do so again. You can also cast this spell using spell slots you have.
+You learn the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Transmutation/5e - Level 0 Transmutation/5e - Elementalism (Spell)|☄️Elementalism]] cantrip and the
+[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Transmutation/5e - Level 3 Transmutation/5e - Erupting Earth (Spell)|☄️Erupting Earth]] spell. <u>Charisma</u> is your spellcasting ability modifier for those spells. You can cast <u>Erupting Earth</u> once with this trait without expending a spell slot and you must finish a long rest before you can do so again. You can also cast this spell using spell slots you have.
 
 ### Impenetrable Draconic Armor
 

@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Empathic
 created: 2026-08-06T10:55:37.657+02:00
-modified: 2026-08-21T11:47:55.419+02:00
-published: 2026-08-21T11:47:55.419+02:00
+modified: 2026-08-25T14:34:58.546+02:00
+published: 2026-08-25T14:34:58.546+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -20,6 +20,7 @@ ability:
   - Performance
   - Persuasion
   - Influence
+prerequisite: CHA +2
 ---
 
 Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Skill Feats|5e - Skill Feats]].
@@ -31,7 +32,7 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Fea
 > |---|---|
 > |**Category**|Skill |
 > |**Level Requirement**|6 |
-> |**Prerequisite**| |
+> |**Prerequisite**|CHA +2 |
 > |**Repeatable**| |
 
 You gain the following benefits:

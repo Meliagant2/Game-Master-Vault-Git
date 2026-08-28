@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Fighting Style - Technical Fighting
 created: 2026-08-07T11:00:57.185+02:00
-modified: 2026-08-07T11:01:41.409+02:00
-published: 2026-08-07T11:01:41.409+02:00
+modified: 2026-08-27T10:27:05.662+02:00
+published: 2026-08-27T10:27:05.662+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -26,7 +26,7 @@ prerequisite: Martial Class
 > |**Prerequisite**|Martial Class |
 > |**Repeatable**| |
 
-Whenever you use a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Maneuvers|🤺Combat Maneuver]] any damage dealt by attacks using it deal an additional `2` damage, and your **Maneuver Save DC** increases by `1`.
+Your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Rules/5e - Maneuver Save DC|🤺Maneuver Save DC]] is increased by `1`.
 
 ## Quelle
 

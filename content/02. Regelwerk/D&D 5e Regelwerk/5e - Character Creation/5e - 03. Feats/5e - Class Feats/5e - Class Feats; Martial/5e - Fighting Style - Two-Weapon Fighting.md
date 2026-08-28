@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Fighting Style - Two-Weapon Fighting
 created: 2026-08-06T10:43:12.978+02:00
-modified: 2026-08-06T10:46:25.368+02:00
-published: 2026-08-06T10:46:25.368+02:00
+modified: 2026-08-27T10:30:31.535+02:00
+published: 2026-08-27T10:30:31.535+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -27,7 +27,7 @@ source: Player's Handbook 2024
 > |**Prerequisite**|Martial Class |
 > |**Repeatable**| |
 
-When you make an extra attack as a result of using a weapon that has the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Properties/5e - Light (Property)|🗡️Light]] property, you can add your <u>ability modifier</u> to the <u>damage</u> of that attack if you aren't already adding it to the damage.
+When you make an extra attack as a result of using [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Two-Weapon Fighting|⚔️Two-Weapon Fighting]], you can add your [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 00. Ability Scores/5e - 00. Ability Scores|⚙️Ability modifier]] to the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Damage/5e - Damage Roll|💔Damage Roll]] of that attack if you aren't already adding it to the damage.
 
 ## Quelle
 

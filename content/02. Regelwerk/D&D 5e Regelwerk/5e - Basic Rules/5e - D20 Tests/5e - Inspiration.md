@@ -23,6 +23,7 @@ You either have inspiration or you don’t; if you already have inspiration and 
 > [!info]+ Links
 > | Name                                                                                                                                                                            |
 > | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | [[00. A_Spielleiter/00Z. Notizen und Ideen/Notizen.md|Notizen]]                                                                                                                |
 > | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Coming of Age (Destiny).md|🔮5e - Coming of Age🔮]]                                             |
 > | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Darkness (Destiny).md|🔮5e - Darkness🔮]]                                                       |
 > | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Death (Destiny).md|🔮5e - Death🔮]]                                                             |
@@ -42,15 +43,10 @@ You either have inspiration or you don’t; if you already have inspiration and 
 > | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Underdog (Destiny).md|🔮5e - Underdog🔮]]                                                       |
 > | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Wealth (Destiny).md|🔮5e - Wealth🔮]]                                                           |
 > | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats; Fighter/5e - Battle Scarred.md|🥇5e - Battle Scarred]]              |
-> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Cult Initiate.md|🥇5e - Cult Initiate]]                                         |
 > | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Level 6 Skill Feats/5e - Destinys Call.md|🥇5e - Destinys Call]]                 |
-> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/evtl obsolet origin feats/5e - Faithful.md|🥇5e - Faithful]]                         |
-> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Level 4 Skill Feats/5e - Grizzled.md|🥇5e - Grizzled]]                           |
-> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Honorable Warrior.md|🥇5e - Honorable Warrior]]                                 |
 > | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats; Bard/5e - Inspiring Inspiration.md|🥇5e - Inspiring Inspiration]]   |
-> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Level 2 Skill Feats/5e - Intimidating.md|🥇5e - Intimidating]]                   |
-> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Mercenary Roughness.md|🥇5e - Mercenary Roughness]]                             |
-> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Musician.md|🥇5e - Musician]]                                                   |
-> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Squire.md|🥇5e - Squire]]                                                       |
-> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Level 4 Skill Feats/5e - Tireless Reveler.md|🥇5e - Tireless Reveler]]           |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - General Feats/5e - Level 6 General Feats/5e - Legatus.md|🥇5e - Legatus]]                         |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats garantiert/5e - Musician.md|🥇5e - Musician]]                      |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats; Marshal/5e - Squire.md|🥇5e - Squire]]                              |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Level 2 Skill Feats/5e - Tireless Reveler.md|🥇5e - Tireless Reveler]]           |
 > | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/Legacy 5e Classes/(Legacy) 5e - Fighter/(Legacy) 5e - Cavalier.md|🦸‍♀️(Legacy) 5e - Cavalier🦸‍♀️]] |

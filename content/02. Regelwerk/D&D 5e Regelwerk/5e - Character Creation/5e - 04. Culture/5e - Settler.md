@@ -2,8 +2,8 @@
 publish: true
 title: 🎎5e - Settler🎎
 created: 2026-07-20T18:00:21.058+02:00
-modified: 2026-08-12T07:44:29.057+02:00
-published: 2026-08-12T07:44:29.057+02:00
+modified: 2026-08-25T09:12:05.799+02:00
+published: 2026-08-25T09:12:05.799+02:00
 tags:
   - "#Culture"
   - "#5e"
@@ -33,5 +33,5 @@ Characters raised in the settler culture share a variety of traits in common wit
 
 **Languages:** You can speak, read, write, and sign in <u>Common</u> and <u>two additional</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Languages]].
 **Skill Proficiencies:** You are proficient in the <u>Insight</u> and <u>Survival</u> skills.
-**Claim Staker:** A tall fence and the grit to defend it is often all it takes to stake a claim out on the frontier. Whenever you begin a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Long Rest|😴Long Rest]]rest, you can choose to spend the first hour of that rest making the area into a fortified position for the duration. While resting in a fortified position, the ground in a <u>60-foot radius</u> area around you is considered [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Environment/5e - Difficult Terrain|🏔️Difficult Terrain]] for any creatures other than those you consider allies. In addition, the first time a hidden creature enters the fortified area, it makes a **DEX Save** (DC = Your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Rules/5e - Maneuver Save DC|🤺Maneuver Save DC]]). _**Failure:**_ The creature inadvertently makes loud noises and is no longer hidden.
+**Claim Staker:** A tall fence and the grit to defend it is often all it takes to stake a claim out on the frontier. Whenever you begin a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Long Rest|😴Long Rest]], you can choose to spend the first hour of that rest making the area into a fortified position for the duration. While resting in a fortified position, the ground in a <u>60-foot radius</u> area around you is considered [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Environment/5e - Difficult Terrain|🏔️Difficult Terrain]] for any creatures other than those you consider allies. In addition, the first time a hidden creature enters the fortified area, it makes a **DEX Save** (DC = Your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Rules/5e - Maneuver Save DC|🤺Maneuver Save DC]]). _**Failure:**_ The creature inadvertently makes loud noises and is no longer hidden.
 **Strange Forager:** You gain an <u>expertise die</u> on any check made to determine if something is poisonous.

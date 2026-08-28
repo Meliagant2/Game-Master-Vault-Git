@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - Light Crossbow
 created: 2026-08-18T10:54:32.652+02:00
-modified: 2026-08-18T11:01:41.113+02:00
-published: 2026-08-18T11:01:41.113+02:00
+modified: 2026-08-27T12:17:44.664+02:00
+published: 2026-08-27T12:17:44.664+02:00
 tags:
   - "#Weapon"
   - "#Grundregeln"
@@ -18,11 +18,11 @@ status: ✅
 a: " "
 type: Simple Ranged
 category: Crossbow
-damage: 2d8
+damage: 1d8
 damagetype: Piercing
 properties:
   - Ammunition
-  - Loading
+  - Misfire [1]
   - Range [80/320]
   - Two-Handed
 mastery: Slow
@@ -42,8 +42,8 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 > |---|---|
 > |**Weapon Type** |Simple Ranged |
 > |**Weapon Category** |Crossbow |
-> |**Damage** |2d8 Piercing |
-> |**Properties** |Ammunition,Loading,Range \[80/320],Two-Handed |
+> |**Damage** |1d8 Piercing |
+> |**Properties** |Ammunition,Misfire \[1],Range \[80/320],Two-Handed |
 > |**Mastery** |Slow |
 > |**Attunement** |  |
 > |**Weight** |2,5 kg |

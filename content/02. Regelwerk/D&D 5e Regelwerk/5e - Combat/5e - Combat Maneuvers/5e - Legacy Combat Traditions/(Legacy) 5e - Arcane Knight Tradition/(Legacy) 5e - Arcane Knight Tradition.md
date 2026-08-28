@@ -3,8 +3,8 @@ publish: true
 title: 🤺(Legacy) 5e - Arcane Knight
 description: Martial Magic, Arcana, Elemental
 created: 2026-07-22T10:44:13.551+02:00
-modified: 2026-08-17T08:13:23.534+02:00
-published: 2026-08-17T08:13:23.534+02:00
+modified: 2026-08-27T09:18:04.969+02:00
+published: 2026-08-27T09:18:04.969+02:00
 tags:
   - "#Combatrules"
   - "#5e"
@@ -23,7 +23,7 @@ classes:
 
 _Martial Magic, Arcana, Elemental_
 
-Some Warriors want to combine martial mastery with careful study of magic. They use magical techniques similar to other spellcasters. These maneuvers can't be used while in an [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 8 Abjuration/5e - Antimagic Field (Spell)|☄️Antimagic Field]] or similair effect.
+Some Warriors want to combine martial mastery with careful study of magic. They use magical techniques similar to other spellcasters. These maneuvers can't be used while in an [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Abjuration/5e - Level 8 Abjuration/5e - Antimagic Field (Spell)|☄️Antimagic Field]] or similair effect.
 
 Arcane Knight Maneuvers are available to the following classes: _Artificer,Blood Hunter,Fighter_
 

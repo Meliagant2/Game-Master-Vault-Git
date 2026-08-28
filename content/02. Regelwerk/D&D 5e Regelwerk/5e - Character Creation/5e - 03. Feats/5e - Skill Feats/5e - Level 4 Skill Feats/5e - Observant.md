@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Observant
 created: 2026-08-06T12:12:03.884+02:00
-modified: 2026-08-21T10:51:51.447+02:00
-published: 2026-08-21T10:51:51.447+02:00
+modified: 2026-08-25T13:21:46.888+02:00
+published: 2026-08-25T13:21:46.888+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -20,6 +20,7 @@ ability:
   - Perception
   - Survival
   - Search
+prerequisite: WIS +2
 ---
 
 Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Skill Feats|5e - Skill Feats]].
@@ -31,7 +32,7 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Fea
 > |---|---|
 > |**Category**|Skill |
 > |**Level Requirement**|4 |
-> |**Prerequisite**| |
+> |**Prerequisite**|WIS +2 |
 > |**Repeatable**| |
 
 You gain the following benefits:

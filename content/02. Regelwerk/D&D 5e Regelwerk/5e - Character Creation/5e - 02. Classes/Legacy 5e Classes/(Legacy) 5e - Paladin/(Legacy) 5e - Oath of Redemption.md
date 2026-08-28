@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - Oath of Redemption🦸‍♀️
 created: 2026-07-28T10:25:11.789+02:00
-modified: 2026-08-17T15:24:31.635+02:00
-published: 2026-08-17T15:24:31.635+02:00
+modified: 2026-08-27T09:18:20.485+02:00
+published: 2026-08-27T09:18:20.485+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -34,15 +34,15 @@ While redeemers are idealists, they are no fools. Redeemers know that undead, de
 
 You gain oath spells at the paladin levels listed below. You always have these spells prepared and they don't count against the maximum number of spells you can prepare each day.
 
-**<u>3rd level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 1 Abjuration/5e - Sanctuary (Spell)|☄️Sanctuary]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Illusion/5e - Level 1 Illusion/5e - Sleep (Spell)|☄️Sleep]]
+**<u>3rd level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Abjuration/5e - Level 1 Abjuration/5e - Sanctuary (Spell)|☄️Sanctuary]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Illusion/5e - Level 1 Illusion/5e - Sleep (Spell)|☄️Sleep]]
 
-**<u>5th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 2 Enchantment/5e - Calm Emotions (Spell)|☄️Calm Emotions]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 2 Enchantment/5e - Hold Person (Spell)|☄️Hold Person]]
+**<u>5th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Enchantment/5e - Level 2 Enchantment/5e - Calm Emotions (Spell)|☄️Calm Emotions]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Enchantment/5e - Level 2 Enchantment/5e - Hold Person (Spell)|☄️Hold Person]]
 
-**<u>9th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 3 Abjuration/5e - Counterspell (Spell)|☄️Counterspell]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Illusion/5e - Level 3 Illusion/5e - Hypnotic Pattern (Spell)|☄️Hypnotic Pattern]]
+**<u>9th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Abjuration/5e - Level 3 Abjuration/5e - Counterspell (Spell)|☄️Counterspell]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Illusion/5e - Level 3 Illusion/5e - Hypnotic Pattern (Spell)|☄️Hypnotic Pattern]]
 
-**<u>13th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 4 Evocation/5e - Resilient Sphere (Spell)|☄️Resilient Sphere]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 4 Abjuration/5e - Stoneskin (Spell)|☄️Stoneskin]]
+**<u>13th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Evocation/5e - Level 4 Evocation/5e - Resilient Sphere (Spell)|☄️Resilient Sphere]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Abjuration/5e - Level 4 Abjuration/5e - Stoneskin (Spell)|☄️Stoneskin]]
 
-**<u>17th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 5 Enchantment/5e - Hold Monster (Spell)|☄️Hold Monster]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 5 Evocation/5e - Wall of Force (Spell)|☄️Wall of Force]]
+**<u>17th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Enchantment/5e - Level 5 Enchantment/5e - Hold Monster (Spell)|☄️Hold Monster]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Evocation/5e - Level 5 Evocation/5e - Wall of Force (Spell)|☄️Wall of Force]]
 
 ### Level 3: Emissary of Peace
 

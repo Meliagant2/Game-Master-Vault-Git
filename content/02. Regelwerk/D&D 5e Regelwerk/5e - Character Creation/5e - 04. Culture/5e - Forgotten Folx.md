@@ -2,8 +2,8 @@
 publish: true
 title: 🎎5e - Forgotten Folx🎎
 created: 2026-07-20T18:00:21.058+02:00
-modified: 2026-07-29T08:11:23.848+02:00
-published: 2026-07-29T08:11:23.848+02:00
+modified: 2026-08-27T09:18:04.961+02:00
+published: 2026-08-27T09:18:04.961+02:00
 tags:
   - "#Culture"
   - "#5e"
@@ -27,5 +27,5 @@ Most who leave this culture do so to become merchants and provide their crafts a
 Characters raised in the forgotten folx culture share a variety of traits in common with one another:
 
 **Languages:** You can speak, read, write, and sign <u>Common</u> and <u>one other</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Language]].
-**Eyes Everywhere:** Thanks to your experience supervising children, you have a knack for keeping track of your companions. As long as an ally is within <u>60 feet</u> of you, you always know their general location even if you cannot see or otherwise sense them. This effect is blocked by 1 foot of lead or iron and magical effects like the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 3 Abjuration/5e - Nondetection (Spell)|☄️Nondetection]] spell.
+**Eyes Everywhere:** Thanks to your experience supervising children, you have a knack for keeping track of your companions. As long as an ally is within <u>60 feet</u> of you, you always know their general location even if you cannot see or otherwise sense them. This effect is blocked by 1 foot of lead or iron and magical effects like the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Abjuration/5e - Level 3 Abjuration/5e - Nondetection (Spell)|☄️Nondetection]] spell.
 **It Takes a Village:** You can use the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Help|⚔️Help]]-Action as a **Bonus Action**. Additionally, when you do so, the range at which you can Help an ally increases to **15 feet**. Once per [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Long Rest|😴Long Rest]] when you Help an ally, in addition to granting ADV you may also choose for your ally to gain an <u>expertise die</u>.

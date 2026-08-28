@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Swift Combatant
 created: 2026-08-11T10:57:59.285+02:00
-modified: 2026-08-21T15:04:57.174+02:00
-published: 2026-08-21T15:04:57.174+02:00
+modified: 2026-08-25T14:35:56.781+02:00
+published: 2026-08-25T14:35:56.781+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -16,6 +16,7 @@ level: 6
 ability:
   - Combat Meneuver
   - Speed
+prerequisite: DEX +2
 ---
 
 Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Skill Feats|5e - Skill Feats]].
@@ -27,7 +28,7 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Fea
 > |---|---|
 > |**Category**|Skill |
 > |**Level Requirement**|6 |
-> |**Prerequisite**| |
+> |**Prerequisite**|DEX +2 |
 > |**Repeatable**| |
 
 You gain the following benefits:

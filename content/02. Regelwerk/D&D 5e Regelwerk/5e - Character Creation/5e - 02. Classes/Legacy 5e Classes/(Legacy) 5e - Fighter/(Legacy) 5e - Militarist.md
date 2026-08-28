@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - Militarist🦸‍♀️
 created: 2026-07-27T12:10:07.575+02:00
-modified: 2026-08-17T10:12:29.903+02:00
-published: 2026-08-17T10:12:29.903+02:00
+modified: 2026-08-27T09:18:14.282+02:00
+published: 2026-08-27T09:18:14.282+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -47,7 +47,7 @@ Additionally, using **Prior Tactics** costs `1 less exertion` (`minimum 1 exerti
 
 When you use your **Indomitable** feature, you may immediately use **Prior Tactics** without spending <u>exertion</u> (**no Action** required), its range increases to <u>50 feet</u>, and you need not choose allies able to hear you.
 
-In addition, you have **ADV** on <u>Saves</u> made to resist spells of the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Spellschool Enchantment|☄️Enchantment]] school.
+In addition, you have **ADV** on <u>Saves</u> made to resist spells of the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Enchantment/5e - Spellschool Enchantment|☄️Enchantment]] school.
 
 ### Level 17: Master Coordinator
 

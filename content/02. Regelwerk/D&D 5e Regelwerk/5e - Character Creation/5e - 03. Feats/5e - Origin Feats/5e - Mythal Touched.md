@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Mythal Touched
 created: 2026-08-19T10:19:37.446+02:00
-modified: 2026-08-19T10:26:05.752+02:00
-published: 2026-08-19T10:26:05.752+02:00
+modified: 2026-08-27T09:18:37.168+02:00
+published: 2026-08-27T09:18:37.168+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -17,6 +17,8 @@ prerequisite: Special
 source: "Forgotten Realms: Heroes of Faerun"
 ---
 
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats|5e - Origin Feats]].
+
 # 🥇5e - Mythal Touched🥇
 
 > [!wikibox]
@@ -29,7 +31,7 @@ source: "Forgotten Realms: Heroes of Faerun"
 
 You gain the following benefits:
 
-**<u>Mythal Ward:</u>** If a <u>spell attack</u> hits you or you fail a <u>Save</u> against a _spell_, you can take a **Reaction** to roll on the <u>Mythal-Touched Magic table</u> to create a magical effect. If an effect requires a <u>Save</u>, the DC equals your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Save DC|☄️Spell Save DC]].
+**<u>Mythal Ward:</u>** If a <u>spell attack</u> hits you or you fail a <u>Save</u> against a _spell_, you can take a **Reaction** to roll on the <u>Mythal-Touched Magic table</u> to create a magical effect. If an effect requires a <u>Save</u>, the DC equals your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Save DC|☄️Spell Save DC]].
 
 **<u>Number of Uses:</u>** You can use this benefit a number of times equal to <u>your PB</u>, and you regain all expended uses when you finish a **Long Rest**.
 

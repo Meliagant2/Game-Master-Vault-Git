@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Mobile
 created: 2026-08-21T10:56:42.729+02:00
-modified: 2026-08-21T11:02:38.286+02:00
-published: 2026-08-21T11:02:38.286+02:00
+modified: 2026-08-25T13:21:37.750+02:00
+published: 2026-08-25T13:21:37.750+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -21,6 +21,7 @@ ability:
   - Hold Breath
   - Revelry
   - Dash
+prerequisite: STR or CON +2
 ---
 
 Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Skill Feats|5e - Skill Feats]].
@@ -32,7 +33,7 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Fea
 > |---|---|
 > |**Category**|Skill |
 > |**Level Requirement**|4 |
-> |**Prerequisite**| |
+> |**Prerequisite**|STR or CON +2 |
 > |**Repeatable**| |
 
 You gain the following benefits:

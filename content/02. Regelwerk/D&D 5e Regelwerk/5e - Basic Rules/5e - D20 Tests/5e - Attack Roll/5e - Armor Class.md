@@ -1,9 +1,9 @@
 ---
 publish: true
-title: ♟️5e - Armor Class
+title: 🛡️5e - Armor Class
 created: 2026-08-18T08:41:48.419+02:00
-modified: 2026-08-18T08:41:58.540+02:00
-published: 2026-08-18T08:41:58.540+02:00
+modified: 2026-08-27T11:12:58.677+02:00
+published: 2026-08-27T11:12:58.677+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -32,4 +32,4 @@ status: ⏳
 > > |---|---|
 > > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
 
-# ♟️5e - Armor Class♟️
+# 🛡️5e - Armor Class🛡️

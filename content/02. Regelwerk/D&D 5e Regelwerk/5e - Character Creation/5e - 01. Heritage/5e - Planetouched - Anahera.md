@@ -2,8 +2,8 @@
 publish: true
 title: 👥5e - Anahera👥
 created: 2026-07-20T12:11:02.479+02:00
-modified: 2026-07-29T10:23:48.945+02:00
-published: 2026-07-29T10:23:48.945+02:00
+modified: 2026-08-27T09:18:11.034+02:00
+published: 2026-08-27T09:18:11.034+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -62,7 +62,7 @@ Your connection with the source of your bloodline allows you to cheat death. Whe
 
 ### Celestial Legacy
 
-You know the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Divination/5e - Level 0 Divination/5e - Guidance (Spell)|✨Guidance]] cantrip. In addition, you can use an **Action** to touch a willing creature and restore a number of <u>hit points</u> equal to your level. Once you use this trait, you must finish a long rest before doing so again.
+You know the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Divination/5e - Level 0 Divination/5e - Guidance (Spell)|✨Guidance]] cantrip. In addition, you can use an **Action** to touch a willing creature and restore a number of <u>hit points</u> equal to your level. Once you use this trait, you must finish a long rest before doing so again.
 
 ### Divine Protection
 

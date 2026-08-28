@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Dancer
 description: Dancers practice a way of being in harmony with the ever-whirling cosmos, emphasizing agility, speed, and grace.
 created: 2026-08-07T13:42:55.828+02:00
-modified: 2026-08-17T14:35:56.214+02:00
-published: 2026-08-17T14:35:56.214+02:00
+modified: 2026-08-27T09:18:24.937+02:00
+published: 2026-08-27T09:18:24.937+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -51,15 +51,15 @@ When you are subjected to an effect that allows you to make a <u>DEX Save</u> 
 
 ### Level 15: Irresistible Dance
 
-You always have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 6 Enchantment/5e - Irresistable Dance (Spell)|☄️Irresistable Dance]] spell prepared. You can cast it without expending a spell slot.
+You always have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Enchantment/5e - Level 6 Enchantment/5e - Irresistable Dance (Spell)|☄️Irresistable Dance]] spell prepared. You can cast it without expending a spell slot.
 
 **<u>Number of Uses:</u>** <u>Once</u> you cast the spell in this way, you can’t do so again until you finish a **Long Rest**. You can also restore your use of the feature by expending <u>two</u> uses of your **Bardic Inspiration** (**no action** required).
 
 ### Level 19: Dance of Creation
 
-As a **Bonus Action**, you can target up to <u>two</u> allies of yours within <u>30 feet</u> of you. You and both of those allies are concidered to be under the effect of the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 3 Transmutation/5e - Haste (Spell)|☄️Haste]] Spell for <u>1 minute</u>, but you do not suffer the lethargy at the end of the effect and you don't need to <u>concentrate</u> on it.
+As a **Bonus Action**, you can target up to <u>two</u> allies of yours within <u>30 feet</u> of you. You and both of those allies are concidered to be under the effect of the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Transmutation/5e - Level 3 Transmutation/5e - Haste (Spell)|☄️Haste]] Spell for <u>1 minute</u>, but you do not suffer the lethargy at the end of the effect and you don't need to <u>concentrate</u> on it.
 
-Alternatively you can choose a number of enemies within <u>30 feet</u> of you equal to `your CHA`. Those enemies make a **WIS Save**. _**Failure:**_ The enemies are considered to be under the effect of the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 3 Transmutation/5e - Slow (Spell)|☄️Slow]] Spell for <u>1 minute</u>, but you don't need to <u>concentrate</u> on it.
+Alternatively you can choose a number of enemies within <u>30 feet</u> of you equal to `your CHA`. Those enemies make a **WIS Save**. _**Failure:**_ The enemies are considered to be under the effect of the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Transmutation/5e - Level 3 Transmutation/5e - Slow (Spell)|☄️Slow]] Spell for <u>1 minute</u>, but you don't need to <u>concentrate</u> on it.
 
 **<u>Number of Uses:</u>** You can use this feature <u>once</u> and must finish a **Long Rest** to use it again. You can also restore your use of the feature by expending <u>four</u> uses of your **Bardic Inspiration** (**no action** required).
 

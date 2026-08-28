@@ -2,8 +2,8 @@
 publish: true
 title: 🔮5e - Wealth🔮
 created: 2026-07-21T15:26:14.616+02:00
-modified: 2026-08-20T06:45:34.242+02:00
-published: 2026-08-20T06:45:34.242+02:00
+modified: 2026-08-27T09:18:08.619+02:00
+published: 2026-08-27T09:18:08.619+02:00
 tags:
   - "#Destiny"
   - "#5e"
@@ -28,7 +28,7 @@ Become the head of a large and successful business, amass at least 100,000 silve
 
 **Fulfillment Feature: Wise Investments:** The fabulously wealthy stay wealthy by creating businesses or investing wisely — then the engine of industry works tirelessly to keep the vaults full. You have a rich lifestyle.
 
-In addition, living lavishly can be reinvigorating. You can lavish yourself and any number of other creatures with luxuries whenever you start a long rest at the cost of 100 silver per creature. Each creature lavished in this way gains the benefits of the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Level 6 Conjuration/5e - Heroes Feast (Spell)|☄️Heroes Feast]]-Spell.
+In addition, living lavishly can be reinvigorating. You can lavish yourself and any number of other creatures with luxuries whenever you start a long rest at the cost of 100 silver per creature. Each creature lavished in this way gains the benefits of the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Conjuration/5e - Level 6 Conjuration/5e - Heroes Feast (Spell)|☄️Heroes Feast]]-Spell.
 
 ##### Table: Wealth Destiny
 

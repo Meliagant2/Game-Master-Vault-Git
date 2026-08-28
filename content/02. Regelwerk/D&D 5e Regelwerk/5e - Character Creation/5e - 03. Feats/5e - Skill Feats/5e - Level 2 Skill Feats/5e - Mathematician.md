@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Mathematician
 created: 2026-08-20T15:18:12.865+02:00
-modified: 2026-08-21T10:00:59.731+02:00
-published: 2026-08-21T10:00:59.731+02:00
+modified: 2026-08-25T10:48:32.041+02:00
+published: 2026-08-25T10:48:32.041+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -17,6 +17,7 @@ source: Self
 ability:
   - Engineering
   - Reaction
+prerequisite: INT +1
 ---
 
 Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Skill Feats|5e - Skill Feats]].
@@ -28,7 +29,7 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Fea
 > |---|---|
 > |**Category**|Skill |
 > |**Level Requirement**|2 |
-> |**Prerequisite**| |
+> |**Prerequisite**|INT +1 |
 > |**Repeatable**| |
 
 You gain the following benefits:

@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Bard
 description: A charismatic performer who uses their music as a conduit to wield powerful magic.
 created: 2026-07-31T10:15:39.250+02:00
-modified: 2026-08-21T15:10:27.914+02:00
-published: 2026-08-21T15:10:27.914+02:00
+modified: 2026-08-27T09:18:37.084+02:00
+published: 2026-08-27T09:18:37.084+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -558,11 +558,11 @@ You gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. F
 
 ### Level 17: Virtuoso
 
-Your capacity for drawing a crowd reaches dizzying new heights. As an **Action**, you can expend a use of **Bardic Inspiration** to start an epic performance that lasts for <u>1d4</u> rounds. During that time, you can choose up to <u>50 creatures</u> that are within <u>120 feet</u> of you. Each creature able to hear or see your Epic Performance makes a **CHA Save** against your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Save DC|☄️Spell Save DC]]. _**Failure:**_ The Creature is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]] by you for the duration plus <u>6 days</u>, or until you or your companions do anything harmful to it. A charmed creature regards you as a friendly acquaintance.
+Your capacity for drawing a crowd reaches dizzying new heights. As an **Action**, you can expend a use of **Bardic Inspiration** to start an epic performance that lasts for <u>1d4</u> rounds. During that time, you can choose up to <u>50 creatures</u> that are within <u>120 feet</u> of you. Each creature able to hear or see your Epic Performance makes a **CHA Save** against your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Save DC|☄️Spell Save DC]]. _**Failure:**_ The Creature is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]] by you for the duration plus <u>6 days</u>, or until you or your companions do anything harmful to it. A charmed creature regards you as a friendly acquaintance.
 
 The performance ends early if you are incapacitated or silenced, or if you voluntarily end it (**no action** required). At the end of the duration, you can expend an additional use of **Bardic Inspiration** to extend the duration by <u>1d4</u> rounds.
 
-When your Epic Performance lasts at least <u>1 minute</u>, at the end of the duration you can target each **charmed** creature as if using the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 6 Enchantment/5e - Mass Suggestion|☄️Mass Suggestion]] spell cast at <u>9th-level</u>. Creatures do not make saving throws to resist this effect. The commands you give a charmed creature are not obvious, and other creatures must make a <u>Wisdom (Insight) check</u> opposed by your <u>Charisma (Performance) check</u> to understand that you are doing anything more than giving a performance.
+When your Epic Performance lasts at least <u>1 minute</u>, at the end of the duration you can target each **charmed** creature as if using the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Enchantment/5e - Level 6 Enchantment/5e - Mass Suggestion|☄️Mass Suggestion]] spell cast at <u>9th-level</u>. Creatures do not make saving throws to resist this effect. The commands you give a charmed creature are not obvious, and other creatures must make a <u>Wisdom (Insight) check</u> opposed by your <u>Charisma (Performance) check</u> to understand that you are doing anything more than giving a performance.
 
 You can give each creature its own set of commands, but can only give out 6 different sets of commands.
 
@@ -578,7 +578,7 @@ You gain the 19th-level Archetype Feature of the Archetype you chose at 3rd leve
 
 ### Level 20: Words of Creation
 
-You have mastered two of the Words of Creation: the words of life and death. You therefore always have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 9 Enchantment/5e - Power Word Heal (Spell)|☄️Power Word Heal]] and [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 9 Enchantment/5e - Power Word Kill (Spell)|☄️Power Word Kill]] spells prepared. When you cast either spell, you can target a second creature with it if that creature is within <u>10 feet</u> of the first target.
+You have mastered two of the Words of Creation: the words of life and death. You therefore always have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Enchantment/5e - Level 9 Enchantment/5e - Power Word Heal (Spell)|☄️Power Word Heal]] and [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Enchantment/5e - Level 9 Enchantment/5e - Power Word Kill (Spell)|☄️Power Word Kill]] spells prepared. When you cast either spell, you can target a second creature with it if that creature is within <u>10 feet</u> of the first target.
 
 ### Level 20: Feats
 

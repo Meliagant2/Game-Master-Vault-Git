@@ -3,8 +3,8 @@ publish: true
 title: 🤺(Legacy) 5e - Eldritch Blackguard
 description: Martial Magic, Terror, Death
 created: 2026-07-22T10:44:16.925+02:00
-modified: 2026-08-17T08:13:34.479+02:00
-published: 2026-08-17T08:13:34.479+02:00
+modified: 2026-08-27T09:18:04.975+02:00
+published: 2026-08-27T09:18:04.975+02:00
 tags:
   - "#Combatrules"
   - "#5e"
@@ -23,7 +23,7 @@ classes:
 
 _Martial Magic, Terror, Death_
 
-Terror and pain can be unleashed through those willing to delve into dark magics and blend them with martial prowess. Unlike normal combat maneuvers, mystical martial maneuvers cannot be used where magic is suppressed, such as within an [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 8 Abjuration/5e - Antimagic Field (Spell)|☄️Antimagic Field]] or similair effect.
+Terror and pain can be unleashed through those willing to delve into dark magics and blend them with martial prowess. Unlike normal combat maneuvers, mystical martial maneuvers cannot be used where magic is suppressed, such as within an [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Abjuration/5e - Level 8 Abjuration/5e - Antimagic Field (Spell)|☄️Antimagic Field]] or similair effect.
 
 Eldritch Blackguard Maneuvers are available to the following classes: _Blood Hunter,Fighter,Paladin_
 

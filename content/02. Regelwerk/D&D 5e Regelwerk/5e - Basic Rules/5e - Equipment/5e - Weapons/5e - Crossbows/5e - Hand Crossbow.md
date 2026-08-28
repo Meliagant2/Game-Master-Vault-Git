@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - Hand Crossbow
 created: 2026-08-18T11:46:04.973+02:00
-modified: 2026-08-18T11:54:27.577+02:00
-published: 2026-08-18T11:54:27.577+02:00
+modified: 2026-08-27T12:17:38.449+02:00
+published: 2026-08-27T12:17:38.449+02:00
 tags:
   - "#Weapon"
   - "#Grundregeln"
@@ -18,12 +18,12 @@ status: ✅
 a: " "
 type: Martial Ranged
 category: Crossbow
-damage: 2d6
+damage: 1d6
 damagetype: Piercing
 properties:
   - Ammunition
   - Light
-  - Loading
+  - Misfire [2]
   - Range [30/120]
 mastery: Vex
 weight: 1,5 kg
@@ -42,8 +42,8 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 > |---|---|
 > |**Weapon Type** |Martial Ranged |
 > |**Weapon Category** |Crossbow |
-> |**Damage** |2d6 Piercing |
-> |**Properties** |Ammunition,Light,Loading,Range \[30/120] |
+> |**Damage** |1d6 Piercing |
+> |**Properties** |Ammunition,Light,Misfire \[2],Range \[30/120] |
 > |**Mastery** |Vex |
 > |**Attunement** |  |
 > |**Weight** |1,5 kg |

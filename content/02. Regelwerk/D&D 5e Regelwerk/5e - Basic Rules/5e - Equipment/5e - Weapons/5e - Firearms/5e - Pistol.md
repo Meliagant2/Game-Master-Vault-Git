@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - Pistol
 created: 2026-08-18T11:52:53.224+02:00
-modified: 2026-08-18T11:57:13.321+02:00
-published: 2026-08-18T11:57:13.321+02:00
+modified: 2026-08-27T12:17:49.071+02:00
+published: 2026-08-27T12:17:49.071+02:00
 tags:
   - "#Weapon"
   - "#Grundregeln"
@@ -18,12 +18,11 @@ status: ✅
 a: " "
 type: Martial Ranged
 category: Firearm
-damage: 2d10
+damage: 1d10
 damagetype: Piercing
 properties:
   - Ammunition
-  - Loading
-  - Misfire [1]
+  - Misfire [3]
   - Range [30/90]
 mastery: Vex
 weight: 1,5 kg
@@ -42,8 +41,8 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 > |---|---|
 > |**Weapon Type** |Martial Ranged |
 > |**Weapon Category** |Firearm |
-> |**Damage** |2d10 Piercing |
-> |**Properties** |Ammunition,Loading,Misfire \[1],Range \[30/90] |
+> |**Damage** |1d10 Piercing |
+> |**Properties** |Ammunition,Misfire \[3],Range \[30/90] |
 > |**Mastery** |Vex |
 > |**Attunement** |  |
 > |**Weight** |1,5 kg |

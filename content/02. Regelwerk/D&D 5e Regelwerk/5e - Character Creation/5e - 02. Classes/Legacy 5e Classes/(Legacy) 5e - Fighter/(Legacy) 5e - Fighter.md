@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - Fighter🦸‍♀️
 created: 2026-07-20T12:11:02.557+02:00
-modified: 2026-08-17T11:28:02.578+02:00
-published: 2026-08-17T11:28:02.578+02:00
+modified: 2026-08-27T09:18:08.255+02:00
+published: 2026-08-27T09:18:08.255+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -2152,7 +2152,7 @@ Over the course of your training and adventures you have picked up a variety of 
 >
 > #### Stable Footing
 >
-> A steady stance and careful footwork is instinctive to you. You have **ADV** on any <u>check</u> or <u>saving throw</u> to avoid falling [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]] or handle difficult ground (such as against a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Level 1 Conjuration/5e - Grease (Spell)|☄️Grease]] spell or slippery ice). You are never <u>prone</u> after taking <u>fall damage</u>, and when calculating fall damage you treat the fall distance as if it were shorter by a number of feet equal to `PB × 10`.
+> A steady stance and careful footwork is instinctive to you. You have **ADV** on any <u>check</u> or <u>saving throw</u> to avoid falling [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]] or handle difficult ground (such as against a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Conjuration/5e - Level 1 Conjuration/5e - Grease (Spell)|☄️Grease]] spell or slippery ice). You are never <u>prone</u> after taking <u>fall damage</u>, and when calculating fall damage you treat the fall distance as if it were shorter by a number of feet equal to `PB × 10`.
 >
 > #### Weather Beaten
 >

@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - Charging Shield🦸‍♀️
 created: 2026-07-27T12:10:07.575+02:00
-modified: 2026-08-17T10:12:29.816+02:00
-published: 2026-08-17T10:12:29.816+02:00
+modified: 2026-08-27T09:18:14.273+02:00
+published: 2026-08-27T09:18:14.273+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -41,7 +41,7 @@ Your brave example inspires your allies. Whenever you use the **Charge maneuver*
 
 ### Level 13: Stalwart Aegis
 
-You become as hardened as the armament you champion. You gain **ADV** on <u>saving throws</u> to resist becoming [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Frightened|☠️Frightened]], or any spell or effect of the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Spellschool Enchantment|☄️Enchantment School]]. Additionally, your <u>unarmed strikes</u> and attacks made using a shield deal an extra `1d6` bludgeoning damage.
+You become as hardened as the armament you champion. You gain **ADV** on <u>saving throws</u> to resist becoming [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Frightened|☠️Frightened]], or any spell or effect of the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Enchantment/5e - Spellschool Enchantment|☄️Enchantment School]]. Additionally, your <u>unarmed strikes</u> and attacks made using a shield deal an extra `1d6` bludgeoning damage.
 
 ### Level 17: Epic Charge
 

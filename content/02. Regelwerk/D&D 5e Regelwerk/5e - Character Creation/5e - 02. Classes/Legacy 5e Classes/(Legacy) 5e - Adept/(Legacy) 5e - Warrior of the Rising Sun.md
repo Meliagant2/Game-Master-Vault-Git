@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - Warrior of the Rising Sun🦸‍♀️
 created: 2026-07-22T12:06:01.852+02:00
-modified: 2026-08-17T10:12:32.745+02:00
-published: 2026-08-17T10:12:32.745+02:00
+modified: 2026-08-27T09:18:17.669+02:00
+published: 2026-08-27T09:18:17.669+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -27,7 +27,7 @@ You have trained to focus your energy into bolts of searing light. Whenever you 
 
 **Radiant Bolts** are <u>ranged (30/90)</u> Adept weapon attacks that you are proficient in. On hit, they deal <u>radiant</u> damage instead of the normal <u>bludgeoning</u> damage from your unarmed attacks.
 
-Finally, you learn the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 0 Evocation/5e - Light (Spell)|☄️Light]] spell.
+Finally, you learn the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Evocation/5e - Level 0 Evocation/5e - Light (Spell)|☄️Light]] spell.
 
 ### Level 6: Searing Blast
 

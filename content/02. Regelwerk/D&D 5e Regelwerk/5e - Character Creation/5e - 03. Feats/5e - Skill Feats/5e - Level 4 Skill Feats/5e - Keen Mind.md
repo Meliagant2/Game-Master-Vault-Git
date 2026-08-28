@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Keen Mind
 created: 2026-08-06T11:56:59.010+02:00
-modified: 2026-08-21T10:49:45.420+02:00
-published: 2026-08-21T10:49:45.420+02:00
+modified: 2026-08-25T13:21:08.463+02:00
+published: 2026-08-25T13:21:08.463+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -24,6 +24,7 @@ ability:
   - Occultism
   - Religion
   - Study
+prerequisite: INT +2
 ---
 
 Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Skill Feats|5e - Skill Feats]].
@@ -35,7 +36,7 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Fea
 > |---|---|
 > |**Category**|Skill |
 > |**Level Requirement**|4 |
-> |**Prerequisite**| |
+> |**Prerequisite**|INT +2 |
 > |**Repeatable**| |
 
 You gain the following benefits:

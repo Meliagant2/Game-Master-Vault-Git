@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Speedy
 created: 2026-08-06T14:38:32.488+02:00
-modified: 2026-08-21T11:49:31.589+02:00
-published: 2026-08-21T11:49:31.589+02:00
+modified: 2026-08-25T14:35:20.803+02:00
+published: 2026-08-25T14:35:20.803+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -20,6 +20,7 @@ ability:
   - Revelry
   - Dash
   - Difficult Terrain
+prerequisite: CON +2
 ---
 
 Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Skill Feats|5e - Skill Feats]].
@@ -31,7 +32,7 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Fea
 > |---|---|
 > |**Category**|Skill |
 > |**Level Requirement**|6 |
-> |**Prerequisite**| |
+> |**Prerequisite**|CON +2 |
 > |**Repeatable**| |
 
 You gain the following benefits:

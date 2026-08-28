@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - Oathless🦸‍♀️
 created: 2026-07-28T10:25:11.789+02:00
-modified: 2026-08-17T15:24:31.679+02:00
-published: 2026-08-17T15:24:31.679+02:00
+modified: 2026-08-27T09:18:25.369+02:00
+published: 2026-08-27T09:18:25.369+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -28,15 +28,15 @@ Not all paladins are able to hold to their Sacred Oaths. Some break their Oath a
 
 You gain oath spells at the paladin levels listed below. You always have these spells prepared and they don't count against the maximum number of spells you can prepare each day.
 
-**<u>3rd level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 1 Enchantment/5e - Charm Person (Spell)|☄️Charm Person]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Necromancy/5e - Level 1 Necromancy/5e - False Life (Spell)|☄️False Life]]
+**<u>3rd level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Enchantment/5e - Level 1 Enchantment/5e - Charm Person (Spell)|☄️Charm Person]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Necromancy/5e - Level 1 Necromancy/5e - False Life (Spell)|☄️False Life]]
 
-**<u>5th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Illusion/5e - Level 2 Illusion/5e - Invisibility (Spell)|☄️Invisibility]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 2 Enchantment/5e - Suggestion (Spell)|☄️Suggestion]]
+**<u>5th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Illusion/5e - Level 2 Illusion/5e - Invisibility (Spell)|☄️Invisibility]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Enchantment/5e - Level 2 Enchantment/5e - Suggestion (Spell)|☄️Suggestion]]
 
-**<u>9th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 3 Transmutation/5e - Gaseous Form (Spell)|☄️Gaseous Form]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Necromancy/5e - Level 3 Necromancy/5e - Vampiric Touch (Spell)|☄️Vampiric Touch]]
+**<u>9th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Transmutation/5e - Level 3 Transmutation/5e - Gaseous Form (Spell)|☄️Gaseous Form]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Necromancy/5e - Level 3 Necromancy/5e - Vampiric Touch (Spell)|☄️Vampiric Touch]]
 
-**<u>13th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 4 Enchantment/5e - Charm Monster (Spell)|☄️Charm Monster]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Illusion/5e - Level 4 Illusion/5e - Greater Invisibility (Spell)|☄️Greater Invisibility]]
+**<u>13th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Enchantment/5e - Level 4 Enchantment/5e - Charm Monster (Spell)|☄️Charm Monster]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Illusion/5e - Level 4 Illusion/5e - Greater Invisibility (Spell)|☄️Greater Invisibility]]
 
-**<u>17th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 5 Enchantment/5e - Geas (Spell)|☄️Geas]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 5 Transmutation/5e - Passwall (Spell)|☄️Passwall]]
+**<u>17th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Enchantment/5e - Level 5 Enchantment/5e - Geas (Spell)|☄️Geas]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Transmutation/5e - Level 5 Transmutation/5e - Passwall (Spell)|☄️Passwall]]
 
 ### Level 3: Coward's Escape
 
@@ -58,7 +58,7 @@ You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e -
 
 ### Level 13: Forceful Will
 
-When you force a creature within <u>15 feet</u> of you to make a <u>Save</u> to resist the effects of an [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Spellschool Enchantment|☄️Enchantment]] spell, they have **DISADV** on their roll.
+When you force a creature within <u>15 feet</u> of you to make a <u>Save</u> to resist the effects of an [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Enchantment/5e - Spellschool Enchantment|☄️Enchantment]] spell, they have **DISADV** on their roll.
 
 ### Level 17: Paragon of Dishonor
 

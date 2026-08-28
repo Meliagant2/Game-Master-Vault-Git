@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - Heavy Crossbow
 created: 2026-08-18T11:48:48.707+02:00
-modified: 2026-08-18T11:50:53.589+02:00
-published: 2026-08-18T11:50:53.589+02:00
+modified: 2026-08-27T12:17:53.116+02:00
+published: 2026-08-27T12:17:53.116+02:00
 tags:
   - "#Weapon"
   - "#Grundregeln"
@@ -18,12 +18,12 @@ status: ✅
 a: " "
 type: Martial Ranged
 category: Crossbow
-damage: 2d10
+damage: 1d10
 damagetype: Piercing
 properties:
   - Ammunition
   - Heavy
-  - Loading
+  - Misfire [1]
   - Range [100/400]
   - Two-Handed
 mastery: Push
@@ -43,8 +43,8 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 > |---|---|
 > |**Weapon Type** |Martial Ranged |
 > |**Weapon Category** |Crossbow |
-> |**Damage** |2d10 Piercing |
-> |**Properties** |Ammunition,Heavy,Loading,Range \[100/400],Two-Handed |
+> |**Damage** |1d10 Piercing |
+> |**Properties** |Ammunition,Heavy,Misfire \[1],Range \[100/400],Two-Handed |
 > |**Mastery** |Push |
 > |**Attunement** |  |
 > |**Weight** |9 kg |

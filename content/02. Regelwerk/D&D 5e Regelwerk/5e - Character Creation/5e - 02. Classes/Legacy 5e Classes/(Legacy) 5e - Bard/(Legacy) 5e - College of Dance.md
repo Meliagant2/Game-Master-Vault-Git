@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - College of Dance🦸‍♀️
 created: 2026-07-23T10:42:33.942+02:00
-modified: 2026-08-17T10:12:31.384+02:00
-published: 2026-08-17T10:12:31.384+02:00
+modified: 2026-08-27T09:18:25.050+02:00
+published: 2026-08-27T09:18:25.050+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -45,12 +45,12 @@ When you are subjected to an effect that allows you to make a <u>DEX Save</u> to
 
 ### Level 13: Irresistible Dance
 
-You	always	have	the	[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 6 Enchantment/5e - Irresistable Dance (Spell)|☄️Irresistable Dance]] spell prepared.	You	can	cast	it	without	expending	a	spell	slot.	Once	you	cast	the	spell	in this	way,	you	can’t	do	so	again	until	you	finish	a **Long	Rest**.	You	can	also	restore	your use	of	the feature	by expending <u>two	uses	of	your	Bardic Inspiration</u> (**no	action**	required).
+You	always	have	the	[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Enchantment/5e - Level 6 Enchantment/5e - Irresistable Dance (Spell)|☄️Irresistable Dance]] spell prepared.	You	can	cast	it	without	expending	a	spell	slot.	Once	you	cast	the	spell	in this	way,	you	can’t	do	so	again	until	you	finish	a **Long	Rest**.	You	can	also	restore	your use	of	the feature	by expending <u>two	uses	of	your	Bardic Inspiration</u> (**no	action**	required).
 
 ### Level 17: Dance of Creation
 
-You dance is so perfectly executed that you inspire your allies with your movement, while putting fear in the hearts of your enemies. As a **Bonus Action**, you can target up to two allies of yours within <u>30 feet</u> of you. You and both of those allies are concidered to be under the effect of the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 3 Transmutation/5e - Haste (Spell)|☄️Haste]] Spell for <u>1 minute</u>, but you do not suffer the lethargy at the end of the effect and you don't need to <u>concentrate</u> on it.
+You dance is so perfectly executed that you inspire your allies with your movement, while putting fear in the hearts of your enemies. As a **Bonus Action**, you can target up to two allies of yours within <u>30 feet</u> of you. You and both of those allies are concidered to be under the effect of the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Transmutation/5e - Level 3 Transmutation/5e - Haste (Spell)|☄️Haste]] Spell for <u>1 minute</u>, but you do not suffer the lethargy at the end of the effect and you don't need to <u>concentrate</u> on it.
 
-Alternatively you can choose a number of enemies within <u>30 feet</u> of you equal to your charisma modifier. Those enemies must make a **WIS Save**. _**Failure:**_ The enemies are considered to be under the effect of the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 3 Transmutation/5e - Slow (Spell)|☄️Slow]] Spell for 1 minute.
+Alternatively you can choose a number of enemies within <u>30 feet</u> of you equal to your charisma modifier. Those enemies must make a **WIS Save**. _**Failure:**_ The enemies are considered to be under the effect of the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Transmutation/5e - Level 3 Transmutation/5e - Slow (Spell)|☄️Slow]] Spell for 1 minute.
 
 You can use this feature <u>once</u> and must finish a **long rest** before you can use it again. Alternatively you can spend <u>4 bardic inspirations</u> to use it again.

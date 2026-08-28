@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - College of Creation (Legacy)🦸‍♀️
 created: 2026-07-23T10:40:36.502+02:00
-modified: 2026-08-17T10:12:31.374+02:00
-published: 2026-08-17T10:12:31.374+02:00
+modified: 2026-08-27T09:18:08.204+02:00
+published: 2026-08-27T09:18:08.204+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -131,6 +131,6 @@ You may create an inanimate sculpture and breath life into it. The creation of t
 
 Once the statue is finished, you spend a full day on the ritual of animation, singing it to life as an automaton.
 
-Your automaton has the statistics of a stone construct spirit, as if you had cast the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Level 4 Conjuration/5e - Summon Construct (Spell)|☄️Summon Construct]] at 5th level – except the duration of the spell would become instantaneous. Your automaton cannot naturally heal, but it can be healed by magical means. You may also use **bardic inspiration** as an **Action** to heal it for your <u>bardic inspiration roll + CHA</u>. If your automaton is dropped to 0 hit points, it becomes inert, and the ritual of animation is needed to bring it back to life.
+Your automaton has the statistics of a stone construct spirit, as if you had cast the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Conjuration/5e - Level 4 Conjuration/5e - Summon Construct (Spell)|☄️Summon Construct]] at 5th level – except the duration of the spell would become instantaneous. Your automaton cannot naturally heal, but it can be healed by magical means. You may also use **bardic inspiration** as an **Action** to heal it for your <u>bardic inspiration roll + CHA</u>. If your automaton is dropped to 0 hit points, it becomes inert, and the ritual of animation is needed to bring it back to life.
 
 If you create another automaton, your previous automaton turns to dust.

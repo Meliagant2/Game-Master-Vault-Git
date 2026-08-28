@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Dark Gift - Aberrant Anatomy
 created: 2026-08-19T11:05:06.741+02:00
-modified: 2026-08-19T11:14:56.608+02:00
-published: 2026-08-19T11:14:56.608+02:00
+modified: 2026-08-26T16:02:11.923+02:00
+published: 2026-08-26T16:02:11.923+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -16,6 +16,8 @@ level: 0
 source: "Ravenloft: The Horrors Within"
 prerequisite: Special
 ---
+
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats|5e - Origin Feats]].
 
 # 🥇5e - Dark Gift - Aberrant Anatomy🥇
 

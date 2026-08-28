@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - College of Spirits🦸‍♀️
 created: 2026-07-23T10:41:20.409+02:00
-modified: 2026-08-17T10:12:31.453+02:00
-published: 2026-08-17T10:12:31.453+02:00
+modified: 2026-08-27T09:18:22.051+02:00
+published: 2026-08-27T09:18:22.051+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -23,7 +23,7 @@ Bards of the College of Spirits seek tales with inherent power—be they legends
 
 ### Level 3: Guiding Whispers
 
-You can reach out to spirits to guide you and others. You learn the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Divination/5e - Level 0 Divination/5e - Guidance (Spell)|☄️Guidance]] cantrip, which doesn’t count against the number of bard cantrips you know. For you, it has a range of <u>60 feet</u> when you cast it.
+You can reach out to spirits to guide you and others. You learn the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Divination/5e - Level 0 Divination/5e - Guidance (Spell)|☄️Guidance]] cantrip, which doesn’t count against the number of bard cantrips you know. For you, it has a range of <u>60 feet</u> when you cast it.
 
 ### Level 3: Spiritual Focus
 
@@ -58,7 +58,7 @@ You can retain only one of these tales in mind at a time, and rolling on the Spi
 
 Spirits provide you with supernatural insights. You can conduct an <u>hour-long</u> ritual channeling spirits (which can be done during a **short** or **long rest**) using your **Spiritual Focus**. You can conduct the ritual with a number of willing creatures equal to your <u>proficiency bonus</u> (including yourself). At the end of the ritual, you temporarily learn one spell of your choice from any Spell List.
 
-The spell you choose must be of a level equal to the number of creatures that conducted the ritual or less, the spell must be of a level you can cast, and it must be in the school of [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Divination/5e - Spellschool Divination|☄️Divination]] or [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Necromancy/5e - Spellschool Necromancy|☄️Necromancy]]. The chosen spell counts as a bard spell for you but doesn’t count against the number of bard spells you know.
+The spell you choose must be of a level equal to the number of creatures that conducted the ritual or less, the spell must be of a level you can cast, and it must be in the school of [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Divination/5e - Spellschool Divination|☄️Divination]] or [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Necromancy/5e - Spellschool Necromancy|☄️Necromancy]]. The chosen spell counts as a bard spell for you but doesn’t count against the number of bard spells you know.
 
 Once you perform the ritual, you can’t do so again until you start a **long rest**, and you know the chosen spell until you start a **long rest**.
 

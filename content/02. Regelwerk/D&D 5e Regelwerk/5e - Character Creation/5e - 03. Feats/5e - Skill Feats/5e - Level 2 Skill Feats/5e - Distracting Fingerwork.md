@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Distracting Fingerwork
 created: 2026-08-21T09:39:39.716+02:00
-modified: 2026-08-21T10:00:38.726+02:00
-published: 2026-08-21T10:00:38.726+02:00
+modified: 2026-08-25T10:49:13.680+02:00
+published: 2026-08-25T10:49:13.680+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -17,6 +17,7 @@ source: "Forgotten Realms: Heroes of Faerun"
 ability:
   - Sleight of Hand
   - Help
+prerequisite: DEX +1
 ---
 
 Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Skill Feats|5e - Skill Feats]].
@@ -28,7 +29,7 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Fea
 > |---|---|
 > |**Category**|Skill |
 > |**Level Requirement**|2 |
-> |**Prerequisite**| |
+> |**Prerequisite**|DEX +1 |
 > |**Repeatable**| |
 
 You gain the following benefits:

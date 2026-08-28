@@ -2,8 +2,8 @@
 publish: true
 title: 👥5e - Elf👥
 created: 2026-07-20T12:11:02.463+02:00
-modified: 2026-07-29T08:11:22.588+02:00
-published: 2026-07-29T08:11:22.588+02:00
+modified: 2026-08-27T09:18:20.427+02:00
+published: 2026-08-27T09:18:20.427+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -56,8 +56,8 @@ Elves do not merely survive in the world — they are among its ancient masters.
 ### Elven Magic
 
 You know the following Spells, depending on your level. <u>INT</u>, <u>WIS</u>, or <u>CHA</u> is your Spellcasting ability for those spells (whichever is highest). You can cast each spell you know once per **Long Rest** without expending a Spell Slot or needing material components:
-**<u>1st Level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 1 Evocation/5e - Faerie Fire (Spell)|☄️Faerie Fire]]
-**<u>5th Level:</u>** <u>Choose one:</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 2 Evocation/5e - Darkness (Spell)|☄️Darkness]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Illusion/5e - Level 2 Illusion/5e - Invisibility (Spell)|☄️Invisibility]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 2 Abjuration/5e - Pass without Trace (Spell)|☄️Pass without Trace]]
+**<u>1st Level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Evocation/5e - Level 1 Evocation/5e - Faerie Fire (Spell)|☄️Faerie Fire]]
+**<u>5th Level:</u>** <u>Choose one:</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Evocation/5e - Level 2 Evocation/5e - Darkness (Spell)|☄️Darkness]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Illusion/5e - Level 2 Illusion/5e - Invisibility (Spell)|☄️Invisibility]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Abjuration/5e - Level 2 Abjuration/5e - Pass without Trace (Spell)|☄️Pass without Trace]]
 
 ### Elven Mind
 
@@ -117,7 +117,7 @@ If you already have the darkvision trait, there is no range limit for your darkv
 
 ### Spiritual Awareness
 
-You are able to cast [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Divination/5e - Level 2 Divination/5e - Detect Thoughts (Spell)|☄️Detect Thoughts]] a number of times equal to your **proficiency bonus** between each **long rest**. Your spellcasting ability for this spell is <u>INT</u>, <u>WIS</u>, or <u>CHA</u> (whichever is highest).
+You are able to cast [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Divination/5e - Level 2 Divination/5e - Detect Thoughts (Spell)|☄️Detect Thoughts]] a number of times equal to your **proficiency bonus** between each **long rest**. Your spellcasting ability for this spell is <u>INT</u>, <u>WIS</u>, or <u>CHA</u> (whichever is highest).
 
 ## Quellen
 

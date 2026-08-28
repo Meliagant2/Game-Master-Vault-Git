@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - Warrior of the Elements🦸‍♀️
 created: 2026-07-22T12:06:01.852+02:00
-modified: 2026-08-17T10:12:32.733+02:00
-published: 2026-08-17T10:12:32.733+02:00
+modified: 2026-08-27T09:18:24.991+02:00
+published: 2026-08-27T09:18:24.991+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -23,7 +23,7 @@ The tradition of the Four Elements encompasses Adepts who tap into the power of 
 
 ### Level 3: Elemental Attunement
 
-You have attuned yourself with the elemental forces of the multiverse. You know the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 0 Transmutation/5e - Elementalism (Spell)|☄️Elementalism]] cantrip.
+You have attuned yourself with the elemental forces of the multiverse. You know the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Transmutation/5e - Level 0 Transmutation/5e - Elementalism (Spell)|☄️Elementalism]] cantrip.
 
 In addition, at the start of your turn, you can spend **1 exertion** to imbue yourself with elemental energy. The energy lasts for 10 minutes or until you have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]] condition. You gain the following benefits for the duration:
 
@@ -46,7 +46,7 @@ When you use your **Step of the Wind**, you gain a <u>Fly Speed</u> and <u>Swim 
 
 ### Level 13: Elemental Blasts
 
-When you use your **Flurry of Blows** Feature, you can cast one of the following cantrips instead of making an additional unarmed attack. Your spellcasting ability for those cantrips is <u>WIS</u>: [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 0 Evocation/5e - Acid Splash (Spell)|☄️Acid Splash]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 0 Evocation/5e - Firebolt (Spell)|☄️Firebolt]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 0 Evocation/5e - Frostbite (Spell)|☄️Frostbite]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 0 Evocation/5e - Lightning Lure (Spell)|☄️Lightning Lure]]
+When you use your **Flurry of Blows** Feature, you can cast one of the following cantrips instead of making an additional unarmed attack. Your spellcasting ability for those cantrips is <u>WIS</u>: [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Evocation/5e - Level 0 Evocation/5e - Acid Splash (Spell)|☄️Acid Splash]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Evocation/5e - Level 0 Evocation/5e - Firebolt (Spell)|☄️Firebolt]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - z_Legacy Spells/(Legacy) 5e - Frostbite (Spell)|☄️Frostbite]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Evocation/5e - Level 0 Evocation/5e - Lightning Lure (Spell)|☄️Lightning Lure]]
 
 ### Level 17: Elemental Epitome
 

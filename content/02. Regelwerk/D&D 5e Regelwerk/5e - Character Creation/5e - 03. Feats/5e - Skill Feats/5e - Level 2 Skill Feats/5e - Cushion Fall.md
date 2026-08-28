@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Cushion Fall
 created: 2026-08-20T09:08:50.484+02:00
-modified: 2026-08-21T10:00:35.272+02:00
-published: 2026-08-21T10:00:35.272+02:00
+modified: 2026-08-25T11:19:22.037+02:00
+published: 2026-08-25T11:19:22.037+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -14,7 +14,7 @@ status: ✅
 category: Skill
 level: 2
 source: Humblewood Campaign Setting
-prerequisite: ""
+prerequisite: DEX +1
 ability:
   - Acrobatics
   - Falling
@@ -30,7 +30,7 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Fea
 > |---|---|
 > |**Category**|Skill |
 > |**Level Requirement**|2 |
-> |**Prerequisite**| |
+> |**Prerequisite**|DEX +1 |
 > |**Repeatable**| |
 
 You gain the following benefits:

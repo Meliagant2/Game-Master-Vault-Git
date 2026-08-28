@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Aberrant Spellmark
 created: 2026-08-18T14:40:21.946+02:00
-modified: 2026-08-20T06:36:34.524+02:00
-published: 2026-08-20T06:36:34.524+02:00
+modified: 2026-08-26T16:02:10.519+02:00
+published: 2026-08-26T16:02:10.519+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -16,6 +16,8 @@ level: 0
 prerequisite: Special, No other Spellmark
 source: "Eberron: Forge of the Artificer"
 ---
+
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats|5e - Origin Feats]].
 
 # 🥇5e - Aberrant Spellmark🥇
 
@@ -36,7 +38,7 @@ You gain the following benefits:
 **<u>Aberrant Surge:</u>** When you cast the _level 1_ spell from this feat, you can expend one of your _Hit Point Dice_ and roll it. If you roll an _even_ number, you gain a number of [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Temporary Hit Points|💖Temporary Hit Points]] equal to the number rolled. If you roll an _odd_ number, one creature within <u>30 feet</u> of you (not including you) takes <u>Force</u> damage equal to the number rolled. If no other creatures are in range, you take the damage.
 
 > [!info] Feat "Upgrades"
-> Taking this Feat allows you, to take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/Resorting Skill Feats/5e - Greater Aberrant Mark|🥇Greater Aberrant Mark]] and/or the [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - General Feats/5e - Potent Spellmark|🥇Potent Spellmark]] Feats Later
+> Taking this Feat allows you, to take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Z_Feats überdenken/Resorting Skill Feats/5e - Greater Aberrant Mark|🥇Greater Aberrant Mark]] and/or the [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - General Feats/5e - Level 6 General Feats/5e - Potent Spellmark|🥇Potent Spellmark]] Feats Later
 
 ### Backgrounds that grant this Feat
 

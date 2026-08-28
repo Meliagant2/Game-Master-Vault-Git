@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Fighting Style - Defensive
 created: 2026-08-06T10:31:38.420+02:00
-modified: 2026-08-07T10:49:19.165+02:00
-published: 2026-08-07T10:49:19.165+02:00
+modified: 2026-08-27T08:59:08.541+02:00
+published: 2026-08-27T08:59:08.541+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -27,7 +27,7 @@ source: Player's Handbook 2024
 > |**Prerequisite**|Martial Class |
 > |**Repeatable**| |
 
-While you are wearing <u>Armor</u>, you gain a `+1` bonus to <u>AC</u>.
+While you are wearing _Light_, _Medium_, or _Heavy Armor_, you gain a `+1` bonus to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Armor Class|🛡️AC]].
 
 ## Quelle
 

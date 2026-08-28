@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Mark of Hospitality
 created: 2026-08-18T14:43:44.413+02:00
-modified: 2026-08-20T06:36:34.544+02:00
-published: 2026-08-20T06:36:34.544+02:00
+modified: 2026-08-27T09:18:25.501+02:00
+published: 2026-08-27T09:18:25.501+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -16,6 +16,8 @@ level: 0
 prerequisite: Special, No other Spellmark
 source: "Eberron: Forge of the Artificer"
 ---
+
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats|5e - Origin Feats]].
 
 # 🥇5e - Mark of Hospitality🥇
 
@@ -31,19 +33,19 @@ You gain the following benefits:
 
 **<u>Ever Hospitable:</u>** You gain an <u>expertise die</u> in <u>Persuasion</u>, <u>Brewer's Supplies</u> and <u>Cook's Utensils</u>.
 
-**<u>Innkeeper's Magic:</u>** You always have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 1 Transmutation/5e - Purify Food and Drink (Spell)|☄️Purify Food and Drink]] and [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Level 1 Conjuration/5e - Unseen Servant (Spell)|☄️Unseen Servant]] spells prepared. You can cast each spell <u>once</u> without a spell slot, and you regain the ability to cast it in that way when you finish a **Long Rest**. You can also cast these spells using any spell slots you have of the appropriate level. <u>INT</u>, <u>WIS</u>, or <u>CHA</u> is your spellcasting ability for this feat's spells (whichever is highest).
+**<u>Innkeeper's Magic:</u>** You always have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Transmutation/5e - Level 1 Transmutation/5e - Purify Food and Drink (Spell)|☄️Purify Food and Drink]] and [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Conjuration/5e - Level 1 Conjuration/5e - Unseen Servant (Spell)|☄️Unseen Servant]] spells prepared. You can cast each spell <u>once</u> without a spell slot, and you regain the ability to cast it in that way when you finish a **Long Rest**. You can also cast these spells using any spell slots you have of the appropriate level. <u>INT</u>, <u>WIS</u>, or <u>CHA</u> is your spellcasting ability for this feat's spells (whichever is highest).
 
-When you reach character _level 3_, you also always have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Level 2 Enchantment/5e - Calm Emotions (Spell)|☄️Calm Emotions]] spell prepared and can cast it the same way.
+When you reach character _level 3_, you also always have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Enchantment/5e - Level 2 Enchantment/5e - Calm Emotions (Spell)|☄️Calm Emotions]] spell prepared and can cast it the same way.
 
 **<u>Spells of the Mark:</u>** If you have a Spell List, the following spells are added to your Spell list:
-**Spell level 1:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Level 1 Conjuration/5e - Goodberry (Spell)|☄️Goodberry]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Illusion/5e - Level 1 Illusion/5e - Sleep (Spell)|☄️Sleep]]
-**Spell level 2:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 2 Abjuration/5e - Aid (Spell)|☄️Aid]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 2 Transmutation/5e - Enhance Ability (Spell)|Enhance Ability]]
-**Spell level 3:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Level 3 Conjuration/5e - Create Food and Water|☄️Create Food and Water]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Level 3 Evocation/5e - Tiny Hut (Spell)|☄️Tiny Hut]]
-**Spell level 4:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 4 Abjuration/5e - Aura of Purity (Spell)|☄️Aura of Purity]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 4 Abjuration/5e - Private Sanctum (Spell)|☄️Private Sanctum]]
-**Spell level 5:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 5 Abjuration/5e - Hallow (Spell)|☄️Hallow]]
+**Spell level 1:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Conjuration/5e - Level 1 Conjuration/5e - Goodberry (Spell)|☄️Goodberry]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Illusion/5e - Level 1 Illusion/5e - Sleep (Spell)|☄️Sleep]]
+**Spell level 2:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Abjuration/5e - Level 2 Abjuration/5e - Aid (Spell)|☄️Aid]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Transmutation/5e - Level 2 Transmutation/5e - Enhance Ability (Spell)|Enhance Ability]]
+**Spell level 3:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Conjuration/5e - Level 3 Conjuration/5e - Create Food and Water|☄️Create Food and Water]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Evocation/5e - Level 3 Evocation/5e - Tiny Hut (Spell)|☄️Tiny Hut]]
+**Spell level 4:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Abjuration/5e - Level 4 Abjuration/5e - Aura of Purity (Spell)|☄️Aura of Purity]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Abjuration/5e - Level 4 Abjuration/5e - Private Sanctum (Spell)|☄️Private Sanctum]]
+**Spell level 5:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Abjuration/5e - Level 5 Abjuration/5e - Hallow (Spell)|☄️Hallow]]
 
 > [!info] Feat "Upgrades"
-> Taking this Feat allows you, to take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/Resorting Skill Feats/5e - Greater Mark of Hospitality|🥇Greater Mark of Hospitality]] and/or the [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - General Feats/5e - Potent Spellmark|🥇Potent Spellmark]] Feats Later
+> Taking this Feat allows you, to take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Z_Feats überdenken/Resorting Skill Feats/5e - Greater Mark of Hospitality|🥇Greater Mark of Hospitality]] and/or the [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - General Feats/5e - Level 6 General Feats/5e - Potent Spellmark|🥇Potent Spellmark]] Feats Later
 
 ### Backgrounds that grant this Feat
 

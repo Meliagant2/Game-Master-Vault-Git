@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Blood Hunter
 created: 2026-07-20T12:11:02.526+02:00
-modified: 2026-08-18T08:36:30.421+02:00
-published: 2026-08-18T08:36:30.421+02:00
+modified: 2026-08-27T13:15:16.319+02:00
+published: 2026-08-27T13:15:16.319+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -48,6 +48,8 @@ status: ⏳
 
 > [!bildrechts]
 > ![[98. Diverses/Bilder/Misc/PlaceholderImage.png|PlaceholderImage.png]]
+
+## RENAME TO SLAYER!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 Whether driven by the wish to make a difference, the need to take vengeance, or the hope of finding a place to belong in an uncaring world, every blood hunter has their own reasons for undertaking the ritual of the Hunter’s Bane that starts them on this path. In joining an order of blood hunters, one also joins a family bound by service to each other and a common cause. For many, this might be the only family they have left—or have ever known—making the kinship felt between blood hunters an all-but-unbreakable bond.
 

@@ -1,9 +1,9 @@
 ---
 publish: true
-title: ☄️5e - Spellcasting☄️
+title: ☄️5e - Spellcasting
 created: 2026-07-20T12:11:02.674+02:00
-modified: 2026-08-04T08:47:50.012+02:00
-published: 2026-08-04T08:47:50.012+02:00
+modified: 2026-08-27T09:19:24.710+02:00
+published: 2026-08-27T09:19:24.710+02:00
 tags:
   - "#Combatrules"
   - "#5e"
@@ -92,14 +92,14 @@ Every spell belongs to one or more schools of magic.
 These schools include 8 classical schools of magic, as defined by mages long past and handed down in formal tradition. Each classical school represents a different type of magical energy being channeled, and a spell can only belong to one classical school.
 
 A magical effect’s school is usually detectable by effects such as detect magic
-[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Spellschool Abjuration|☄️Abjuration]] spells involve the forces of protection and warding.
-[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Spellschool Conjuration|☄️Conjuration]] spells cause objects to be teleported or summoned.
-[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Divination/5e - Spellschool Divination|☄️Divination]] spells provide information and uncover secrets.
-[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Enchantment/5e - Spellschool Enchantment|☄️Enchantment]] spells twist the mind.
-[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Evocation/5e - Spellschool Evocation|☄️Evocation]] spells call forth magical energy, often to create burst of magical energy.
-[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Illusion/5e - Spellschool Illusion|☄️Illusion]] spells create false sensory impressions.
-[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Necromancy/5e - Spellschool Necromancy|☄️Necromancy]] spells deal with the power of death.
-[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Spellschool Transmutation|☄️Transmutation]] spells transform or change their subjects, or grant a creature new abilities.
+[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Abjuration/5e - Spellschool Abjuration|☄️Abjuration]] spells involve the forces of protection and warding.
+[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Conjuration/5e - Spellschool Conjuration|☄️Conjuration]] spells cause objects to be teleported or summoned.
+[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Divination/5e - Spellschool Divination|☄️Divination]] spells provide information and uncover secrets.
+[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Enchantment/5e - Spellschool Enchantment|☄️Enchantment]] spells twist the mind.
+[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Evocation/5e - Spellschool Evocation|☄️Evocation]] spells call forth magical energy, often to create burst of magical energy.
+[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Illusion/5e - Spellschool Illusion|☄️Illusion]] spells create false sensory impressions.
+[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Necromancy/5e - Spellschool Necromancy|☄️Necromancy]] spells deal with the power of death.
+[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Transmutation/5e - Spellschool Transmutation|☄️Transmutation]] spells transform or change their subjects, or grant a creature new abilities.
 
 ### Casting Time
 

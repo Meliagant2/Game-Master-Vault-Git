@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Lurker
 created: 2026-08-21T11:01:05.089+02:00
-modified: 2026-08-21T11:03:00.474+02:00
-published: 2026-08-21T11:03:00.474+02:00
+modified: 2026-08-25T13:21:13.007+02:00
+published: 2026-08-25T13:21:13.007+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -19,6 +19,7 @@ ability:
   - Sleight of Hand
   - Stealth
   - Hide
+prerequisite: DEX +2
 ---
 
 Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Skill Feats|5e - Skill Feats]].
@@ -30,7 +31,7 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Fea
 > |---|---|
 > |**Category**|Skill |
 > |**Level Requirement**|4 |
-> |**Prerequisite**| |
+> |**Prerequisite**|DEX +2 |
 > |**Repeatable**| |
 
 You gain the following benefits:

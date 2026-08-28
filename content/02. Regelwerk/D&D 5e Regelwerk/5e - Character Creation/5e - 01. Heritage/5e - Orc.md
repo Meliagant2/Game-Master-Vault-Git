@@ -2,8 +2,8 @@
 publish: true
 title: 👥5e - Orc👥
 created: 2026-07-20T12:11:02.463+02:00
-modified: 2026-08-17T15:41:44.786+02:00
-published: 2026-08-17T15:41:44.786+02:00
+modified: 2026-08-27T09:18:04.336+02:00
+published: 2026-08-27T09:18:04.336+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -81,7 +81,7 @@ Your family hails from an area known for its extreme conditions, such as the arc
 Orcs with this gift are believed to have been blessed by their ancestors. Every family has their own beliefs for why this occurs; it could be to honor the good deeds of their parents, the success of their clan in battle or the arts, or even to take pity on a child in a desperate situation. Orcs with this heritage often seem to have a sort of divine aura that sets them apart. You have the following traits:
 
 **<u>Divine Protection:</u>** You have resistance to radiant damage.
-**<u>Touch of Divinity:</u>** You know the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 0 Abjuration/5e - Resistance (Spell)|☄️Resistance]] cantrip. In addition, you can cast the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Abjuration/5e - Level 1 Abjuration/5e - Shield (Spell)|☄️Shield]] spell once per long rest.
+**<u>Touch of Divinity:</u>** You know the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Abjuration/5e - Level 0 Abjuration/5e - Resistance (Spell)|☄️Resistance]] cantrip. In addition, you can cast the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Abjuration/5e - Level 1 Abjuration/5e - Shield (Spell)|☄️Shield]] spell once per long rest.
 
 ### Magic Adept
 

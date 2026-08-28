@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - Adept
 created: 2026-07-20T12:11:02.494+02:00
-modified: 2026-08-20T06:53:47.773+02:00
-published: 2026-08-20T06:53:47.773+02:00
+modified: 2026-08-27T09:18:24.962+02:00
+published: 2026-08-27T09:18:24.962+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -216,7 +216,7 @@ You have picked up a number of tricks in your path towards perfection. You gain 
 >
 > **Requirement:** <u>Gale Walk</u>
 >
-> Your step is so light you seem to float in the air. You can use a **Bonus Action** and spend <u>1 exertion </u>to cast [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 3 Transmutation/5e - Fly (Spell)|☄️Fly (Spell)]] on yourself. You also have **ADV** on <u>Stealth</u> checks related to noise. The effect lasts until the start of your next turn.
+> Your step is so light you seem to float in the air. You can use a **Bonus Action** and spend <u>1 exertion </u>to cast [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Transmutation/5e - Level 3 Transmutation/5e - Fly (Spell)|☄️Fly (Spell)]] on yourself. You also have **ADV** on <u>Stealth</u> checks related to noise. The effect lasts until the start of your next turn.
 >
 > #### Marathon Runner
 >
@@ -242,7 +242,7 @@ You have picked up a number of tricks in your path towards perfection. You gain 
 >
 > **Requirement:** <u>Adept Speed</u>, proficiency with <u>Acrobatics</u>
 >
-> You gain the ability to move along vertical surfaces on your turn without falling during the move. You can use a **Bonus Action** and spend <u>1 exertion</u> to cast [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 2 Transmutation/5e - Spider Climb (Spell)|☄️Spider Climb]] on yourself. The effect lasts until the start of your next turn.
+> You gain the ability to move along vertical surfaces on your turn without falling during the move. You can use a **Bonus Action** and spend <u>1 exertion</u> to cast [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Transmutation/5e - Level 2 Transmutation/5e - Spider Climb (Spell)|☄️Spider Climb]] on yourself. The effect lasts until the start of your next turn.
 >
 > #### Warrior’s Awareness
 >
@@ -254,7 +254,7 @@ You have picked up a number of tricks in your path towards perfection. You gain 
 >
 > **Requirement:** <u>Adept Speed</u>
 >
-> You gain the ability to move across liquids on your turn without falling during the move. You can use a **Bonus Action** and spend <u>1 exertion</u> to cast [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 3 Transmutation/5e - Water Walk (Spell)|☄️Water Walk]] on yourself. The effect lasts until the start of your next turn.
+> You gain the ability to move across liquids on your turn without falling during the move. You can use a **Bonus Action** and spend <u>1 exertion</u> to cast [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Transmutation/5e - Level 3 Transmutation/5e - Water Walk (Spell)|☄️Water Walk]] on yourself. The effect lasts until the start of your next turn.
 >
 > #### Wilderness Training
 >
@@ -264,7 +264,7 @@ You have picked up a number of tricks in your path towards perfection. You gain 
 >
 > **Requirement:** <u>Adept Speed</u>, <u>11th level</u>
 >
-> You can move so fast you seem to teleport. You can use an **Action** and spend <u>4 exertion</u> to cast [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Conjuration/5e - Level 4 Conjuration/5e - Dimension Door (Spell)|☄️Dimension Door]]. In addition to the Spell effects, you become invisible until the beginning of your next turn.
+> You can move so fast you seem to teleport. You can use an **Action** and spend <u>4 exertion</u> to cast [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Conjuration/5e - Level 4 Conjuration/5e - Dimension Door (Spell)|☄️Dimension Door]]. In addition to the Spell effects, you become invisible until the beginning of your next turn.
 >
 > #### Shadow Walk
 >
@@ -402,7 +402,7 @@ Focus features stem from the mastery of your internal energies. At <u>5th level<
 >
 > #### Mirage Dance
 >
-> As a **Bonus Action**, you can spend <u>2 exertion</u> to swiftly start a mirage dance. Until the end of your next turn, you are under the effect of the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Illusion/5e - Level 2 Illusion/5e - Mirror Image (Spell)|☄️Mirror Image]] spell.
+> As a **Bonus Action**, you can spend <u>2 exertion</u> to swiftly start a mirage dance. Until the end of your next turn, you are under the effect of the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Illusion/5e - Level 2 Illusion/5e - Mirror Image (Spell)|☄️Mirror Image]] spell.
 >
 > #### Powerful Blow
 >

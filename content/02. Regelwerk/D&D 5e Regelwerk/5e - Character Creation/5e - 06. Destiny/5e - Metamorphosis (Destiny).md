@@ -2,8 +2,8 @@
 publish: true
 title: 🔮5e - Metamorphosis🔮
 created: 2026-07-21T15:26:14.616+02:00
-modified: 2026-08-20T06:45:34.201+02:00
-published: 2026-08-20T06:45:34.201+02:00
+modified: 2026-08-27T09:18:37.189+02:00
+published: 2026-08-27T09:18:37.189+02:00
 tags:
   - "#Destiny"
   - "#5e"
@@ -22,7 +22,7 @@ The trappings of daily life stifle you and the shackles of this mortal coil cann
 
 - You communicate freely, even if you do not share a language or the creature would be normally unable to speak.
 - You gain an <u>expertise die</u> on checks made to influence it.
-- A Creature of a Challenge Rating equal to or lower than your Level must make a **WIS Save** (DC = your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Rules/5e - Maneuver Save DC|🤺Maneuver Save DC]], or your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Save DC|☄️Spell Save DC]], if you have one). _**Failure:**_ The Creature is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]] by you for the duration, or until you or one of your allies damages it.
+- A Creature of a Challenge Rating equal to or lower than your Level must make a **WIS Save** (DC = your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Rules/5e - Maneuver Save DC|🤺Maneuver Save DC]], or your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Save DC|☄️Spell Save DC]], if you have one). _**Failure:**_ The Creature is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]] by you for the duration, or until you or one of your allies damages it.
 
 The knowledge and awareness of a creature is limited by its intellect or perceptions, but most give you information about nearby locations, monsters in the area, and knowledge of whatever it perceived within the past day. This connection lasts for up to 1 hour or until you use an action to end it.
 

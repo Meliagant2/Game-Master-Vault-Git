@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Gale Walk
 created: 2026-08-10T15:45:16.067+02:00
-modified: 2026-08-21T08:40:44.505+02:00
-published: 2026-08-21T08:40:44.505+02:00
+modified: 2026-08-27T09:18:25.382+02:00
+published: 2026-08-27T09:18:25.382+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -28,7 +28,7 @@ prerequisite: Adept, Adept Speed
 
 You gain the following benefits:
 
-**<u>Far Step:</u>** On your turn, you can spend `1` <u>Exertion</u> to cast [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spellschool Transmutation/5e - Level 1 Transmutation/5e - Jump (Spell)|☄️Jump]] on yourself. The effect lasts <u>until the end of your next turn</u>.
+**<u>Far Step:</u>** On your turn, you can spend `1` <u>Exertion</u> to cast [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Transmutation/5e - Level 1 Transmutation/5e - Jump (Spell)|☄️Jump]] on yourself. The effect lasts <u>until the end of your next turn</u>.
 
 The casting of this feat's spell does **not** count as a magical effect. It is considered to be a _Maneuver_ effect instead.
 
