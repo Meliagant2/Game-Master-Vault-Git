@@ -2,8 +2,8 @@
 publish: true
 title: 🎩5e - Poppets
 created: 2026-08-27T14:31:26.012+02:00
-modified: 2026-08-31T10:41:46.990+02:00
-published: 2026-08-31T10:41:46.990+02:00
+modified: 2026-08-31T16:30:18.706+02:00
+published: 2026-08-31T16:30:18.706+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -28,7 +28,7 @@ views:
         - dateitags.containsAll("#5e", "#Spellfocus", "#Item")
         - '!dateitags.contains("#Legacy")'
         - '!file.name.contains("Template")'
-        - category == "Poppet"
+        - category.contains("Poppet")
     order:
       - file.name
       - damage

@@ -2,8 +2,8 @@
 publish: true
 title: 🎩5e - Crystals
 created: 2026-08-10T08:29:09.820+02:00
-modified: 2026-08-31T10:41:32.499+02:00
-published: 2026-08-31T10:41:32.499+02:00
+modified: 2026-08-31T16:29:26.244+02:00
+published: 2026-08-31T16:29:26.244+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -28,7 +28,7 @@ views:
         - dateitags.containsAll("#5e", "#Spellfocus", "#Item")
         - '!dateitags.contains("#Legacy")'
         - '!file.name.contains("Template")'
-        - category == "Crystal"
+        - category.contains("Crystal")
     order:
       - file.name
       - damage

@@ -2,8 +2,8 @@
 publish: true
 title: 🎩5e - Staffs
 created: 2026-08-27T13:59:47.171+02:00
-modified: 2026-08-31T10:41:56.027+02:00
-published: 2026-08-31T10:41:56.027+02:00
+modified: 2026-08-31T16:31:42.855+02:00
+published: 2026-08-31T16:31:42.855+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -28,7 +28,7 @@ views:
         - dateitags.containsAll("#5e", "#Spellfocus", "#Item")
         - '!dateitags.contains("#Legacy")'
         - '!file.name.contains("Template")'
-        - category == "Staff"
+        - category.contains("Staff")
     order:
       - file.name
       - damage

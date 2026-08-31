@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - Swords
 created: 2026-08-06T10:25:13.922+02:00
-modified: 2026-08-31T09:59:26.397+02:00
-published: 2026-08-31T09:59:26.397+02:00
+modified: 2026-08-31T16:29:03.345+02:00
+published: 2026-08-31T16:29:03.345+02:00
 tags:
   - "#Weapon"
   - "#5e"
@@ -28,7 +28,7 @@ views:
         - dateitags.containsAll("#5e", "#Weapon", "#Item")
         - '!dateitags.contains("#Legacy")'
         - '!file.name.contains("Template")'
-        - category == "Sword"
+        - category.contains("Sword")
     order:
       - file.name
       - type

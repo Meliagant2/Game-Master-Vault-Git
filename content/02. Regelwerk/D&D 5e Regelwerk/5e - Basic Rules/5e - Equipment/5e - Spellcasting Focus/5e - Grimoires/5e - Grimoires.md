@@ -2,8 +2,8 @@
 publish: true
 title: 🎩5e - Grimoires
 created: 2026-08-27T14:31:25.471+02:00
-modified: 2026-08-31T10:41:34.737+02:00
-published: 2026-08-31T10:41:34.737+02:00
+modified: 2026-08-31T16:29:33.002+02:00
+published: 2026-08-31T16:29:33.002+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -28,7 +28,7 @@ views:
         - dateitags.containsAll("#5e", "#Spellfocus", "#Item")
         - '!dateitags.contains("#Legacy")'
         - '!file.name.contains("Template")'
-        - category == "Grimoire"
+        - category.contains("Grimoire")
     order:
       - file.name
       - damage

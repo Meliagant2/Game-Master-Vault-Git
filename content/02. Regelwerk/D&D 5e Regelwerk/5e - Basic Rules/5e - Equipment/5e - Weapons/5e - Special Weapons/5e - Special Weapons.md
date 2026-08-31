@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - Special Weapons
 created: 2026-08-18T10:47:15.577+02:00
-modified: 2026-08-31T09:59:37.134+02:00
-published: 2026-08-31T09:59:37.134+02:00
+modified: 2026-08-31T16:28:56.246+02:00
+published: 2026-08-31T16:28:56.246+02:00
 tags:
   - "#Weapon"
   - "#5e"
@@ -28,7 +28,7 @@ views:
         - dateitags.containsAll("#5e", "#Weapon", "#Item")
         - '!dateitags.contains("#Legacy")'
         - '!file.name.contains("Template")'
-        - category == "Special"
+        - category.contains("Special")
     order:
       - file.name
       - type

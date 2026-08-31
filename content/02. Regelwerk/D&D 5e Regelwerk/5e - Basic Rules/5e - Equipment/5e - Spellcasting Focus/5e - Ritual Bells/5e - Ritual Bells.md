@@ -2,8 +2,8 @@
 publish: true
 title: 🎩5e - Ritual Bells
 created: 2026-08-27T14:31:26.585+02:00
-modified: 2026-08-31T10:41:49.263+02:00
-published: 2026-08-31T10:41:49.263+02:00
+modified: 2026-08-31T16:30:17.148+02:00
+published: 2026-08-31T16:30:17.148+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -28,7 +28,7 @@ views:
         - dateitags.containsAll("#5e", "#Spellfocus", "#Item")
         - '!dateitags.contains("#Legacy")'
         - '!file.name.contains("Template")'
-        - category == "Ritual Bell"
+        - category.contains("Ritual Bell")
     order:
       - file.name
       - damage

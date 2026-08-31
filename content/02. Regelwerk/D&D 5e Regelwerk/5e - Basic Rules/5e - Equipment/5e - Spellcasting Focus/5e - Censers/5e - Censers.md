@@ -2,8 +2,8 @@
 publish: true
 title: 🎩5e - Censers
 created: 2026-08-27T14:33:05.150+02:00
-modified: 2026-08-31T10:41:27.221+02:00
-published: 2026-08-31T10:41:27.221+02:00
+modified: 2026-08-31T16:29:21.975+02:00
+published: 2026-08-31T16:29:21.975+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -28,7 +28,7 @@ views:
         - dateitags.containsAll("#5e", "#Spellfocus", "#Item")
         - '!dateitags.contains("#Legacy")'
         - '!file.name.contains("Template")'
-        - category == "Censer"
+        - category.contains("Censer")
     order:
       - file.name
       - damage

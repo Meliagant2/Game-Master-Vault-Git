@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - Fists
 created: 2026-08-18T09:43:52.276+02:00
-modified: 2026-08-31T09:59:46.654+02:00
-published: 2026-08-31T09:59:46.654+02:00
+modified: 2026-08-31T16:28:39.022+02:00
+published: 2026-08-31T16:28:39.022+02:00
 tags:
   - "#Weapon"
   - "#5e"
@@ -28,7 +28,7 @@ views:
         - dateitags.containsAll("#5e", "#Weapon", "#Item")
         - '!dateitags.contains("#Legacy")'
         - '!file.name.contains("Template")'
-        - category == "Fist"
+        - category.contains("Fist")
     order:
       - file.name
       - type

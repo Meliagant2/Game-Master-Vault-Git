@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - Firearms
 created: 2026-08-18T09:45:01.848+02:00
-modified: 2026-08-31T09:59:49.193+02:00
-published: 2026-08-31T09:59:49.193+02:00
+modified: 2026-08-31T16:28:34.190+02:00
+published: 2026-08-31T16:28:34.190+02:00
 tags:
   - "#Weapon"
   - "#5e"
@@ -28,7 +28,7 @@ views:
         - dateitags.containsAll("#5e", "#Weapon", "#Item")
         - '!dateitags.contains("#Legacy")'
         - '!file.name.contains("Template")'
-        - category == "Firearm"
+        - category.contains("Firearm")
     order:
       - file.name
       - type

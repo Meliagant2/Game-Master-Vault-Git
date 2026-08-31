@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - Crossbows
 created: 2026-08-06T10:20:57.503+02:00
-modified: 2026-08-31T09:59:51.180+02:00
-published: 2026-08-31T09:59:51.180+02:00
+modified: 2026-08-31T16:28:27.761+02:00
+published: 2026-08-31T16:28:27.761+02:00
 tags:
   - "#Weapon"
   - "#5e"
@@ -28,7 +28,7 @@ views:
         - dateitags.containsAll("#5e", "#Weapon", "#Item")
         - '!dateitags.contains("#Legacy")'
         - '!file.name.contains("Template")'
-        - category == "Crossbow"
+        - category.contains("Crossbow")
     order:
       - file.name
       - type

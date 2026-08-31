@@ -2,8 +2,8 @@
 publish: true
 title: 🎩5e - Musical Instruments
 created: 2026-07-21T11:35:56.139+02:00
-modified: 2026-08-31T11:40:11.984+02:00
-published: 2026-08-31T11:40:11.984+02:00
+modified: 2026-08-31T16:30:21.613+02:00
+published: 2026-08-31T16:30:21.613+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -30,7 +30,7 @@ views:
         - dateitags.containsAll("#5e", "#Spellfocus", "#Item")
         - '!dateitags.contains("#Legacy")'
         - '!file.name.contains("Template")'
-        - category == "Instrument"
+        - category.contains("Instrument")
     order:
       - file.name
       - damage

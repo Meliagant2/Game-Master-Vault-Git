@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - Polearms
 created: 2026-08-18T10:45:47.132+02:00
-modified: 2026-08-31T09:59:39.468+02:00
-published: 2026-08-31T09:59:39.468+02:00
+modified: 2026-08-31T16:28:49.734+02:00
+published: 2026-08-31T16:28:49.734+02:00
 tags:
   - "#Weapon"
   - "#5e"
@@ -28,7 +28,7 @@ views:
         - dateitags.containsAll("#5e", "#Weapon", "#Item")
         - '!dateitags.contains("#Legacy")'
         - '!file.name.contains("Template")'
-        - category == "Polearm"
+        - category.contains("Polearm")
     order:
       - file.name
       - type
