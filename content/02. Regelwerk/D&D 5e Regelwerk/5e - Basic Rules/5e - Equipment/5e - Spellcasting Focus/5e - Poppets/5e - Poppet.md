@@ -2,8 +2,8 @@
 publish: true
 title: 🎩5e - Puppet
 created: 2026-08-31T11:59:51.707+02:00
-modified: 2026-08-31T12:02:44.829+02:00
-published: 2026-08-31T12:02:44.829+02:00
+modified: 2026-08-31T15:13:54.889+02:00
+published: 2026-08-31T15:13:54.889+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -32,7 +32,7 @@ costsorting: 2
 
 Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spellcasting Focus|5e - Spellcasting Focus]].
 
-# 🎩5e - Puppet🎩🗡️
+# 🎩5e - Puppet🎩
 
 > [!wikibox]
 > ![[98. Diverses/Bilder/Item Bilder/Spell Foci/Item Spellcasting Focus Puppet.png|Item Spellcasting Focus Puppet.png]]

@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 🎩🗡️5e - Basilisk Crystal
+title: 🎩5e - Basilisk Crystal
 created: 2026-08-31T10:55:07.607+02:00
-modified: 2026-08-31T11:29:39.578+02:00
-published: 2026-08-31T11:29:39.578+02:00
+modified: 2026-08-31T15:13:39.999+02:00
+published: 2026-08-31T15:13:39.999+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -31,7 +31,7 @@ costsorting: 2
 
 Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spellcasting Focus|5e - Spellcasting Focus]].
 
-# 🎩🗡️5e - Basilisk Crystal🎩
+# 🎩5e - Basilisk Crystal🎩
 
 > [!wikibox]
 > ![[98. Diverses/Bilder/Item Bilder/Spell Foci/Item Spellcasting Focus Crystal.png|Item Spellcasting Focus Crystal.png]]
