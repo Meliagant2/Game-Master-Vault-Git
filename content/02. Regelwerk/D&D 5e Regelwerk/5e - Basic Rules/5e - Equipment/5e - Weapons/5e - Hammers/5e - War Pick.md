@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - War Pick
 created: 2026-08-18T11:36:28.262+02:00
-modified: 2026-08-18T11:37:49.680+02:00
-published: 2026-08-18T11:37:49.680+02:00
+modified: 2026-08-31T09:58:06.969+02:00
+published: 2026-08-31T09:58:06.969+02:00
 tags:
   - "#Weapon"
   - "#Grundregeln"
@@ -17,18 +17,20 @@ image: "[[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon War Pick
 status: ✅
 a: " "
 type: Martial Melee
-category: Hammer
 damage: 1d8
-damagetype: Piercing
 properties:
   - Versatile [1d10]
 mastery: Sap
 weight: 1 kg
 cost: 5 SP
 costsorting: 2
+category:
+  - Hammer
+damagetype:
+  - Piercing
 ---
 
-Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|🗡️Weapons]].
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|5e - Weapons]].
 
 # 🗡️5e - War Pick🗡️
 
@@ -37,8 +39,8 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 >
 > | | |
 > |---|---|
-> |**Weapon Type** |Martial Melee |
-> |**Weapon Category** |Hammer |
+> |**Type** |Martial Melee |
+> |**Category** |Hammer |
 > |**Damage** |1d8 Piercing |
 > |**Properties** |Versatile \[1d10] |
 > |**Mastery** |Sap |

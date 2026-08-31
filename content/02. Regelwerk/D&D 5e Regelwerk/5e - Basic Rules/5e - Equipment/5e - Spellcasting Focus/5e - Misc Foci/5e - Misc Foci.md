@@ -2,8 +2,8 @@
 publish: true
 title: 🎩5e - Misc Foci
 created: 2026-08-27T14:27:18.087+02:00
-modified: 2026-08-27T15:58:12.910+02:00
-published: 2026-08-27T15:58:12.910+02:00
+modified: 2026-08-31T10:41:42.123+02:00
+published: 2026-08-31T10:41:42.123+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -34,6 +34,7 @@ views:
       - damage
       - damagetype
       - properties
+      - mastery
       - a
       - weight
       - cost

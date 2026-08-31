@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - Multi-Faceted Property
 created: 2026-08-27T10:00:02.184+02:00
-modified: 2026-08-27T10:01:37.362+02:00
-published: 2026-08-27T10:01:37.362+02:00
+modified: 2026-08-31T11:37:04.729+02:00
+published: 2026-08-31T11:37:04.729+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -18,3 +18,5 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 # 🗡️5e - Multi-Faceted Property🗡️
 
 A **Multi-Faceted** weapon can deal not only one damage type, but lists multiple damage types, the attacking creature can choose from.
+
+A **Multi-Faceted** [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spellcasting Focus|🎩Spellcasting Focus]] can deal not only one damage type, but lists multiple damage types, the attacking creature can choose from.

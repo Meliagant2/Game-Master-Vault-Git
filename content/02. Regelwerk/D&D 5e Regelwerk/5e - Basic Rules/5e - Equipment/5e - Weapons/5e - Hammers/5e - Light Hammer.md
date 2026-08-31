@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - Light Hammer
 created: 2026-08-18T10:17:58.516+02:00
-modified: 2026-08-18T10:35:58.629+02:00
-published: 2026-08-18T10:35:58.629+02:00
+modified: 2026-08-31T09:58:15.404+02:00
+published: 2026-08-31T09:58:15.404+02:00
 tags:
   - "#Weapon"
   - "#Grundregeln"
@@ -17,9 +17,7 @@ image: "[[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Light Ha
 status: ✅
 a: " "
 type: Simple Melee
-category: Hammer
 damage: 1d4
-damagetype: Bludgeoning
 properties:
   - Light
   - Thrown
@@ -28,9 +26,13 @@ mastery: Nick
 weight: 1 kg
 cost: 2 SP
 costsorting: 2
+category:
+  - Hammer
+damagetype:
+  - Bludgeoning
 ---
 
-Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|🗡️Weapons]].
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|5e - Weapons]].
 
 # 🗡️5e - Light Hammer🗡️
 
@@ -39,8 +41,8 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 >
 > | | |
 > |---|---|
-> |**Weapon Type** |Simple Melee |
-> |**Weapon Category** |Hammer |
+> |**Type** |Simple Melee |
+> |**Category** |Hammer |
 > |**Damage** |1d4 Bludgeoning |
 > |**Properties** |Light,Thrown,Range \[20/60] |
 > |**Mastery** |Nick |

@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - Greataxe
 created: 2026-08-18T11:12:05.355+02:00
-modified: 2026-08-18T11:14:27.930+02:00
-published: 2026-08-18T11:14:27.930+02:00
+modified: 2026-08-31T09:58:55.297+02:00
+published: 2026-08-31T09:58:55.297+02:00
 tags:
   - "#Weapon"
   - "#Grundregeln"
@@ -17,9 +17,7 @@ image: "[[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Greataxe
 status: ✅
 a: " "
 type: Martial Melee
-category: Axe
 damage: 1d12
-damagetype: Slashing
 properties:
   - Heavy
   - Two-Handed
@@ -27,9 +25,13 @@ mastery: Cleave
 weight: 3,5 kg
 cost: 30 SP
 costsorting: 2
+category:
+  - Axe
+damagetype:
+  - Slashing
 ---
 
-Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|🗡️Weapons]].
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|5e - Weapons]].
 
 # 🗡️5e - Greataxe🗡️
 
@@ -38,8 +40,8 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 >
 > | | |
 > |---|---|
-> |**Weapon Type** |Martial Melee |
-> |**Weapon Category** |Axe |
+> |**Type** |Martial Melee |
+> |**Category** |Axe |
 > |**Damage** |1d12 Slashing |
 > |**Properties** |Heavy,Two-Handed |
 > |**Mastery** |Cleave |

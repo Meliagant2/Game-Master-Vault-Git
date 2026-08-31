@@ -2,8 +2,8 @@
 publish: true
 title: 🎩5e - Staffs
 created: 2026-08-27T13:59:47.171+02:00
-modified: 2026-08-27T15:58:49.233+02:00
-published: 2026-08-27T15:58:49.233+02:00
+modified: 2026-08-31T10:41:56.027+02:00
+published: 2026-08-31T10:41:56.027+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -34,6 +34,7 @@ views:
       - damage
       - damagetype
       - properties
+      - mastery
       - a
       - weight
       - cost

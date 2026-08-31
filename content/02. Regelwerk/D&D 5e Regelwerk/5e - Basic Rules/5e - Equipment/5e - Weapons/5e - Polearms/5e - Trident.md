@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - Trident
 created: 2026-08-18T11:32:52.142+02:00
-modified: 2026-08-18T11:40:08.029+02:00
-published: 2026-08-18T11:40:08.029+02:00
+modified: 2026-08-31T09:57:41.623+02:00
+published: 2026-08-31T09:57:41.623+02:00
 tags:
   - "#Weapon"
   - "#Grundregeln"
@@ -17,9 +17,7 @@ image: "[[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Trident.
 status: ✅
 a: " "
 type: Martial Melee
-category: Polearm
 damage: 1d8
-damagetype: Piercing
 properties:
   - Thrown
   - Range [20/60]
@@ -28,9 +26,13 @@ mastery: Topple
 weight: 2 kg
 cost: 5 SP
 costsorting: 2
+category:
+  - Polearm
+damagetype:
+  - Piercing
 ---
 
-Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|🗡️Weapons]].
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|5e - Weapons]].
 
 # 🗡️5e - Trident🗡️
 
@@ -39,8 +41,8 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 >
 > | | |
 > |---|---|
-> |**Weapon Type** |Martial Melee |
-> |**Weapon Category** |Polearm |
+> |**Type** |Martial Melee |
+> |**Category** |Polearm |
 > |**Damage** |1d8 Piercing |
 > |**Properties** |Thrown,Range \[20/60],Versatile \[1d10] |
 > |**Mastery** |Topple |

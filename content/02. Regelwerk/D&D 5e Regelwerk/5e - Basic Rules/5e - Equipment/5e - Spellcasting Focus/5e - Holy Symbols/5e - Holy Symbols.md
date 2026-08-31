@@ -2,8 +2,8 @@
 publish: true
 title: 🎩5e - Holy Symbols
 created: 2026-08-27T14:09:43.587+02:00
-modified: 2026-08-27T15:57:22.033+02:00
-published: 2026-08-27T15:57:22.033+02:00
+modified: 2026-08-31T10:41:37.260+02:00
+published: 2026-08-31T10:41:37.260+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -34,6 +34,7 @@ views:
       - damage
       - damagetype
       - properties
+      - mastery
       - a
       - weight
       - cost

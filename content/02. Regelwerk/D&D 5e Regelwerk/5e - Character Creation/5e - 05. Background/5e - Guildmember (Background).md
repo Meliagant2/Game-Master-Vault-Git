@@ -2,8 +2,8 @@
 publish: true
 title: ⛏️5e - Guildmember⛏️
 created: 2026-07-21T13:44:14.806+02:00
-modified: 2026-07-29T08:11:24.201+02:00
-published: 2026-07-29T08:11:24.201+02:00
+modified: 2026-08-31T11:40:22.048+02:00
+published: 2026-08-31T11:40:22.048+02:00
 tags:
   - "#Background"
   - "#5e"
@@ -25,7 +25,7 @@ It never hurts to be part of a team, and when you’re part of a guild opportuni
 
 **Ability Score Increases:** +1 to Constitution and one other ability score (both to a maximum of +4).
 **Skill Proficiencies:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - Skills|💃Two of your Choice]]Two of your choice.
-**Tool Proficiencies:** Either one type of [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Artisan_s Tools/5e - Artisan_s Tools|🛠️Artisan's Tools]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Musical Instruments/5e - Musical Instruments|🛠️Musical Instrument]], or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Vehicles/5e - Vehicles|🛠️Vehicle]].
+**Tool Proficiencies:** Either one type of [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Artisan_s Tools/5e - Artisan_s Tools|🛠️Artisan's Tools]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Musical Instruments/5e - Musical Instruments|🛠️Musical Instrument]], or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Vehicles/5e - Vehicles|🛠️Vehicle]].
 **Equipment:** A set f artisan’s tools or musical instrument, traveler’s lothes, guild badge, 3 silver
 **Feature: Guild Business:** While in a city or own, you can maintain a moderate lifestyle by lying your trade. Furthermore, the guild occasionally informs you of jobs that need doing. ompleting such a job might require performing  downtime activity, or it might require a full adventure. The guild provides a modest reward if you’re successful.
 **Adventures and Advancement:** Once you ave completed several quests or endeavors dvancing guild business, you may be promoted o guild officer. You gain access to more lucrative ontracts. In addition, the guild supports you at a oderate lifestyle without you having to work.

@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Magic Initiate
 created: 2026-08-04T11:23:27.507+02:00
-modified: 2026-08-26T16:03:32.680+02:00
-published: 2026-08-26T16:03:32.680+02:00
+modified: 2026-08-31T12:52:16.252+02:00
+published: 2026-08-31T12:52:16.252+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -43,7 +43,7 @@ You gain the following benefits:
 **<u>Spell Change.</u>** Whenever you gain a new level, you can replace one of the spells you chose for this feat with a different spell of the same level from the chosen spell source.
 
 > [!info] Feat "Upgrades"
-> Taking this Feat allows you, to take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - General Feats/5e - Level 4 General Feats/5e - Magic Adept|🥇Magic Adept]] Feat Later
+> Taking this Feat allows you, to take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - General Feats/5e - Level 4 General Feats/5e level 4 gen feats prüfen/5e - Magic Adept|🥇Magic Adept]] Feat Later
 
 ### Backgrounds that grant this Feat
 

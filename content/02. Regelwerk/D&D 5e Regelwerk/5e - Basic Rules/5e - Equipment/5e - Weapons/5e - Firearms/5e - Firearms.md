@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - Firearms
 created: 2026-08-18T09:45:01.848+02:00
-modified: 2026-08-18T10:40:02.810+02:00
-published: 2026-08-18T10:40:02.810+02:00
+modified: 2026-08-31T09:59:49.193+02:00
+published: 2026-08-31T09:59:49.193+02:00
 tags:
   - "#Weapon"
   - "#5e"
@@ -13,7 +13,7 @@ dateitags:
 status: ✅
 ---
 
-Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|🗡️Weapons]].
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|5e - Weapons]].
 
 # 🗡️5e - Firearms🗡️
 

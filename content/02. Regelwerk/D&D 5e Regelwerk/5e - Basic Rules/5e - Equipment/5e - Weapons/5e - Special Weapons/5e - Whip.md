@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - Whip
 created: 2026-08-18T11:41:19.041+02:00
-modified: 2026-08-18T11:43:15.304+02:00
-published: 2026-08-18T11:43:15.304+02:00
+modified: 2026-08-31T09:57:30.752+02:00
+published: 2026-08-31T09:57:30.752+02:00
 tags:
   - "#Weapon"
   - "#Grundregeln"
@@ -17,9 +17,7 @@ image: "[[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Whip.png
 status: ✅
 a: " "
 type: Martial Melee
-category: Special
 damage: 1d6
-damagetype: Slashing
 properties:
   - Finesse
   - Reach [15 ft.]
@@ -27,9 +25,13 @@ mastery: Topple
 weight: 1,5 kg
 cost: 2 SP
 costsorting: 2
+category:
+  - Special
+damagetype:
+  - Slashing
 ---
 
-Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|🗡️Weapons]].
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|5e - Weapons]].
 
 # 🗡️5e - Whip🗡️
 
@@ -38,8 +40,8 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 >
 > | | |
 > |---|---|
-> |**Weapon Type** |Martial Melee |
-> |**Weapon Category** |Special |
+> |**Type** |Martial Melee |
+> |**Category** |Special |
 > |**Damage** |1d6 Slashing |
 > |**Properties** |Finesse,Reach \[15 ft.] |
 > |**Mastery** |Topple |

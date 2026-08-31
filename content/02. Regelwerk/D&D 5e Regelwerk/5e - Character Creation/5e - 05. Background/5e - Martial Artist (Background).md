@@ -2,8 +2,8 @@
 publish: true
 title: ⛏️5e - Martial Artist⛏️
 created: 2026-07-21T13:44:14.806+02:00
-modified: 2026-07-29T08:11:24.236+02:00
-published: 2026-07-29T08:11:24.236+02:00
+modified: 2026-08-31T11:40:22.052+02:00
+published: 2026-08-31T11:40:22.052+02:00
 tags:
   - "#Background"
   - "#5e"
@@ -27,7 +27,7 @@ This type of skill doesn’t come lightly. How did you receive such training? Wh
 
 **Ability Score Increases:**+1 to Strength or Dexterity and +1 to Wisdom (both to a maximum of +4).
 **Skill Proficiencies:** <u>Athletics</u> and <u>Acrobatics</u>.
-**Tool Proficiencies:** One type of [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Artisan_s Tools/5e - Artisan_s Tools|🛠️Artisan's Tools]] and one type of [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Musical Instruments/5e - Musical Instruments|🛠️Musical Instrument]].
+**Tool Proficiencies:** One type of [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Artisan_s Tools/5e - Artisan_s Tools|🛠️Artisan's Tools]] and one type of [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Musical Instruments/5e - Musical Instruments|🛠️Musical Instrument]].
 **Equipment:** Common clothes, calligrapher’s supplies, quarterstaff, 5 day’s rations, and a flute, 2 silver
 **Feature: Inner Strength.** Your training has allowed you to gain a heightened level of strength and calm, both inside and out. Choose one of the following options.
 **Healing Meditation.** Your years of training allow you to call on additional vitality. You can When you take a short rest, you can spend time in meditation to gain an additional Hit Die to expend. You can do this after you have rolled your current Hit Dice, though this feature does not allow you to exceed your maximum hit points. You can only use this feature once per long rest .

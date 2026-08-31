@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - Shortsword
 created: 2026-08-06T10:25:17.074+02:00
-modified: 2026-08-18T11:32:46.967+02:00
-published: 2026-08-18T11:32:46.967+02:00
+modified: 2026-08-31T09:57:10.777+02:00
+published: 2026-08-31T09:57:10.777+02:00
 tags:
   - "#Weapon"
   - "#Grundregeln"
@@ -17,9 +17,7 @@ image: "[[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Shortswo
 status: ✅
 a: " "
 type: Martial Melee
-category: Sword
 damage: 1d6
-damagetype: Piercing
 properties:
   - Finesse
   - Light
@@ -27,9 +25,13 @@ mastery: Vex
 weight: 1 kg
 cost: 10 SP
 costsorting: 2
+category:
+  - Sword
+damagetype:
+  - Piercing
 ---
 
-Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|🗡️Weapons]].
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|5e - Weapons]].
 
 # 🗡️5e - Shortsword🗡️
 
@@ -38,8 +40,8 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 >
 > | | |
 > |---|---|
-> |**Weapon Type** |Martial Melee |
-> |**Weapon Category** |Sword |
+> |**Type** |Martial Melee |
+> |**Category** |Sword |
 > |**Damage** |1d6 Piercing |
 > |**Properties** |Finesse,Light |
 > |**Mastery** |Vex |

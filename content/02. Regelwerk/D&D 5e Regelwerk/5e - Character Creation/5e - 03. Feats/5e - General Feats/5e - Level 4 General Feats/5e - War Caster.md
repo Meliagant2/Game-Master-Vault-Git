@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - War Caster
 created: 2026-08-06T15:29:44.563+02:00
-modified: 2026-08-25T15:54:48.433+02:00
-published: 2026-08-25T15:54:48.433+02:00
+modified: 2026-08-31T13:11:22.561+02:00
+published: 2026-08-31T13:11:22.561+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -17,6 +17,8 @@ source: Player's Handbook 2024
 prerequisite: INT +2, WIS +2, or CHA +2
 ability:
   - Concentration
+  - Save Bonus
+  - Advantage
 ---
 
 Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - General Feats/5e - General Feats|5e - General Feats]].

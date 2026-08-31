@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - Spear
 created: 2026-08-18T10:28:13.857+02:00
-modified: 2026-08-18T11:40:04.671+02:00
-published: 2026-08-18T11:40:04.671+02:00
+modified: 2026-08-31T09:57:43.635+02:00
+published: 2026-08-31T09:57:43.635+02:00
 tags:
   - "#Weapon"
   - "#Grundregeln"
@@ -17,9 +17,7 @@ image: "[[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Spear.pn
 status: ✅
 a: " "
 type: Simple Melee
-category: Polearm
 damage: 1d6
-damagetype: Piercing
 properties:
   - Reach [10 ft.]
   - Versatile [1d8]
@@ -27,9 +25,13 @@ mastery: Sap
 weight: 1,5 kg
 cost: 1 SP
 costsorting: 2
+category:
+  - Polearm
+damagetype:
+  - Piercing
 ---
 
-Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|🗡️Weapons]].
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|5e - Weapons]].
 
 # 🗡️5e - Spear🗡️
 
@@ -38,8 +40,8 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 >
 > | | |
 > |---|---|
-> |**Weapon Type** |Simple Melee |
-> |**Weapon Category** |Polearm |
+> |**Type** |Simple Melee |
+> |**Category** |Polearm |
 > |**Damage** |1d6 Piercing |
 > |**Properties** |Reach \[10 ft.],Versatile \[1d8] |
 > |**Mastery** |Sap |

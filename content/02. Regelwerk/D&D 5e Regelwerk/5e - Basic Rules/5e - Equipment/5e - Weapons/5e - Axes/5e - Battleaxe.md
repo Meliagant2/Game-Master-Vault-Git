@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - Battleaxe
 created: 2026-08-18T11:06:03.357+02:00
-modified: 2026-08-18T11:07:32.389+02:00
-published: 2026-08-18T11:07:32.389+02:00
+modified: 2026-08-31T09:59:01.687+02:00
+published: 2026-08-31T09:59:01.687+02:00
 tags:
   - "#Weapon"
   - "#Grundregeln"
@@ -17,18 +17,20 @@ image: "[[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Battleax
 status: ✅
 a: " "
 type: Martial Melee
-category: Axe
 damage: 1d8
-damagetype: Slashing
 properties:
   - Versatile [1d10]
 mastery: Topple
 weight: 2 kg
 cost: 10 SP
 costsorting: 2
+category:
+  - Axe
+damagetype:
+  - Slashing
 ---
 
-Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|🗡️Weapons]].
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|5e - Weapons]].
 
 # 🗡️5e - Battleaxe🗡️
 
@@ -37,8 +39,8 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 >
 > | | |
 > |---|---|
-> |**Weapon Type** |Martial Melee |
-> |**Weapon Category** |Axe |
+> |**Type** |Martial Melee |
+> |**Category** |Axe |
 > |**Damage** |1d8 Slashing |
 > |**Properties** |Versatile \[1d10] |
 > |**Mastery** |Topple |

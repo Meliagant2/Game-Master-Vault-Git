@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - Rapier
 created: 2026-08-18T11:28:02.381+02:00
-modified: 2026-08-18T11:29:19.140+02:00
-published: 2026-08-18T11:29:19.140+02:00
+modified: 2026-08-31T09:57:16.452+02:00
+published: 2026-08-31T09:57:16.452+02:00
 tags:
   - "#Weapon"
   - "#Grundregeln"
@@ -17,18 +17,20 @@ image: "[[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Rapier.p
 status: ✅
 a: " "
 type: Martial Melee
-category: Sword
 damage: 1d8
-damagetype: Piercing
 properties:
   - Finesse
 mastery: Vex
 weight: 1 kg
 cost: 25 SP
 costsorting: 2
+category:
+  - Sword
+damagetype:
+  - Piercing
 ---
 
-Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|🗡️Weapons]].
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|5e - Weapons]].
 
 # 🗡️5e - Rapier🗡️
 
@@ -37,8 +39,8 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 >
 > | | |
 > |---|---|
-> |**Weapon Type** |Martial Melee |
-> |**Weapon Category** |Sword |
+> |**Type** |Martial Melee |
+> |**Category** |Sword |
 > |**Damage** |1d8 Piercing |
 > |**Properties** |Finesse |
 > |**Mastery** |Vex |

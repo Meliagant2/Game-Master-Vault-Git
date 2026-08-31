@@ -2,8 +2,8 @@
 publish: true
 title: 🎩5e - Card Decks
 created: 2026-08-27T14:32:28.252+02:00
-modified: 2026-08-27T15:56:25.036+02:00
-published: 2026-08-27T15:56:25.036+02:00
+modified: 2026-08-31T10:41:17.573+02:00
+published: 2026-08-31T10:41:17.573+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -34,6 +34,7 @@ views:
       - damage
       - damagetype
       - properties
+      - mastery
       - a
       - weight
       - cost

@@ -2,8 +2,8 @@
 publish: true
 title: 🎩5e - Rods
 created: 2026-08-27T13:59:46.775+02:00
-modified: 2026-08-27T15:58:44.770+02:00
-published: 2026-08-27T15:58:44.770+02:00
+modified: 2026-08-31T10:41:52.814+02:00
+published: 2026-08-31T10:41:52.814+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -34,6 +34,7 @@ views:
       - damage
       - damagetype
       - properties
+      - mastery
       - a
       - weight
       - cost

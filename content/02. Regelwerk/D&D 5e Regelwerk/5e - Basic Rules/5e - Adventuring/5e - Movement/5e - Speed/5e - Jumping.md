@@ -2,13 +2,11 @@
 publish: true
 title: 🏃‍♀️5e - Jumping
 created: 2026-07-20T12:11:02.853+02:00
-modified: 2026-08-19T13:09:28.871+02:00
-published: 2026-08-19T13:09:28.871+02:00
+modified: 2026-08-31T09:09:30.176+02:00
+published: 2026-08-31T09:09:30.176+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
-socialImage: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
-image: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
 status: ✅
 ---
 

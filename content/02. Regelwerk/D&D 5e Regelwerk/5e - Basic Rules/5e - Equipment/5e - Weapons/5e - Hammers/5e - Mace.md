@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - Mace
 created: 2026-08-18T10:20:05.717+02:00
-modified: 2026-08-18T10:36:00.806+02:00
-published: 2026-08-18T10:36:00.806+02:00
+modified: 2026-08-31T09:58:13.300+02:00
+published: 2026-08-31T09:58:13.300+02:00
 tags:
   - "#Weapon"
   - "#Grundregeln"
@@ -17,18 +17,20 @@ image: "[[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Mace.png
 status: ✅
 a: " "
 type: Simple Melee
-category: Hammer
 damage: 1d6
-damagetype: Bludgeoning
 properties:
   - Light
 mastery: Sap
 weight: 2 kg
 cost: 5 SP
 costsorting: 2
+category:
+  - Hammer
+damagetype:
+  - Bludgeoning
 ---
 
-Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|🗡️Weapons]].
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|5e - Weapons]].
 
 # 🗡️5e - Mace🗡️
 
@@ -37,8 +39,8 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 >
 > | | |
 > |---|---|
-> |**Weapon Type** |Simple Melee |
-> |**Weapon Category** |Hammer |
+> |**Type** |Simple Melee |
+> |**Category** |Hammer |
 > |**Damage** |1d6 Bludgeoning |
 > |**Properties** |Light |
 > |**Mastery** |Sap |

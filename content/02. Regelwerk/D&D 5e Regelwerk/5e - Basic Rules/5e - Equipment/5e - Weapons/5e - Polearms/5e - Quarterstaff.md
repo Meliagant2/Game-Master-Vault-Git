@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - Quarterstaff
 created: 2026-08-18T10:23:10.196+02:00
-modified: 2026-08-18T11:40:38.701+02:00
-published: 2026-08-18T11:40:38.701+02:00
+modified: 2026-08-31T09:57:46.777+02:00
+published: 2026-08-31T09:57:46.777+02:00
 tags:
   - "#Weapon"
   - "#Grundregeln"
@@ -17,18 +17,20 @@ image: "[[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Quarters
 status: ✅
 a: " "
 type: Simple Melee
-category: Polearm
 damage: 1d6
-damagetype: Bludgeoning
 properties:
   - Versatile [1d8]
 mastery: Topple
 weight: 2 kg
 cost: 4 CP
 costsorting: 1
+category:
+  - Polearm
+damagetype:
+  - Bludgeoning
 ---
 
-Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|🗡️Weapons]].
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|5e - Weapons]].
 
 # 🗡️5e - Quarterstaff🗡️
 
@@ -37,8 +39,8 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 >
 > | | |
 > |---|---|
-> |**Weapon Type** |Simple Melee |
-> |**Weapon Category** |Polearm |
+> |**Type** |Simple Melee |
+> |**Category** |Polearm |
 > |**Damage** |1d6 Bludgeoning |
 > |**Properties** |Versatile \[1d8] |
 > |**Mastery** |Topple |

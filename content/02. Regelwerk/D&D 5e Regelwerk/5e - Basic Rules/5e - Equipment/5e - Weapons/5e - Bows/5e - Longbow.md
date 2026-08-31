@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - Longbow
 created: 2026-08-18T11:51:04.302+02:00
-modified: 2026-08-18T11:52:43.089+02:00
-published: 2026-08-18T11:52:43.089+02:00
+modified: 2026-08-31T09:58:46.239+02:00
+published: 2026-08-31T09:58:46.239+02:00
 tags:
   - "#Weapon"
   - "#Grundregeln"
@@ -17,9 +17,7 @@ image: "[[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Longbow.
 status: ✅
 a: " "
 type: Martial Ranged
-category: Bow
 damage: 1d8
-damagetype: Piercing
 properties:
   - Ammunition
   - Heavy
@@ -29,9 +27,13 @@ mastery: Slow
 weight: 1 kg
 cost: 50 SP
 costsorting: 2
+category:
+  - Bow
+damagetype:
+  - Piercing
 ---
 
-Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|🗡️Weapons]].
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|5e - Weapons]].
 
 # 🗡️5e - Longbow🗡️
 
@@ -40,8 +42,8 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 >
 > | | |
 > |---|---|
-> |**Weapon Type** |Martial Ranged |
-> |**Weapon Category** |Bow |
+> |**Type** |Martial Ranged |
+> |**Category** |Bow |
 > |**Damage** |1d8 Piercing |
 > |**Properties** |Ammunition,Heavy,Range \[150/600],Two-Handed |
 > |**Mastery** |Slow |

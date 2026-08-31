@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - Greatsword
 created: 2026-08-18T11:15:06.532+02:00
-modified: 2026-08-18T11:16:19.108+02:00
-published: 2026-08-18T11:16:19.108+02:00
+modified: 2026-08-31T09:55:47.441+02:00
+published: 2026-08-31T09:55:47.441+02:00
 tags:
   - "#Weapon"
   - "#Grundregeln"
@@ -17,9 +17,7 @@ image: "[[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Greatswo
 status: ✅
 a: " "
 type: Martial Melee
-category: Sword
 damage: 2d6
-damagetype: Slashing
 properties:
   - Heavy
   - Two-Handed
@@ -27,9 +25,13 @@ mastery: Graze
 weight: 3 kg
 cost: 50 SP
 costsorting: 2
+category:
+  - Sword
+damagetype:
+  - Slashing
 ---
 
-Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|🗡️Weapons]].
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|5e - Weapons]].
 
 # 🗡️5e - Greatsword🗡️
 
@@ -38,8 +40,8 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 >
 > | | |
 > |---|---|
-> |**Weapon Type** |Martial Melee |
-> |**Weapon Category** |Sword |
+> |**Type** |Martial Melee |
+> |**Category** |Sword |
 > |**Damage** |2d6 Slashing |
 > |**Properties** |Heavy,Two-Handed |
 > |**Mastery** |Graze |

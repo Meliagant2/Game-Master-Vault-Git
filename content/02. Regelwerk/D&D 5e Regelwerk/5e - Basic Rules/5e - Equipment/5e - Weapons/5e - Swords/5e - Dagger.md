@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - Dagger
 created: 2026-08-06T10:25:17.074+02:00
-modified: 2026-08-18T10:36:08.011+02:00
-published: 2026-08-18T10:36:08.011+02:00
+modified: 2026-08-31T09:57:25.195+02:00
+published: 2026-08-31T09:57:25.195+02:00
 tags:
   - "#Weapon"
   - "#Grundregeln"
@@ -17,9 +17,7 @@ image: "[[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Dagger.p
 status: ✅
 a: " "
 type: Simple Melee
-category: Sword
 damage: 1d4
-damagetype: Piercing
 properties:
   - Finesse
   - Light
@@ -29,9 +27,13 @@ mastery: Nick
 weight: 0,4 kg
 cost: 2 SP
 costsorting: 2
+category:
+  - Sword
+damagetype:
+  - Piercing
 ---
 
-Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|🗡️Weapons]].
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|5e - Weapons]].
 
 # 🗡️5e - Dagger🗡️
 
@@ -40,8 +42,8 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 >
 > | | |
 > |---|---|
-> |**Weapon Type** |Simple Melee |
-> |**Weapon Category** |Sword |
+> |**Type** |Simple Melee |
+> |**Category** |Sword |
 > |**Damage** |1d4 Piercing |
 > |**Properties** |Finesse,Light,Thrown,Range \[20/60] |
 > |**Mastery** |Nick |

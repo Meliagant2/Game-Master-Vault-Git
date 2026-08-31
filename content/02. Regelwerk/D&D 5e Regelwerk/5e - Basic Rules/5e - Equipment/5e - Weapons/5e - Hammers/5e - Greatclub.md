@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - Greatclub
 created: 2026-08-18T10:11:07.104+02:00
-modified: 2026-08-18T10:35:56.492+02:00
-published: 2026-08-18T10:35:56.492+02:00
+modified: 2026-08-31T09:58:19.857+02:00
+published: 2026-08-31T09:58:19.857+02:00
 tags:
   - "#Weapon"
   - "#Grundregeln"
@@ -17,18 +17,20 @@ image: "[[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Greatclu
 status: ✅
 a: " "
 type: Simple Melee
-category: Hammer
 damage: 1d8
-damagetype: Bludgeoning
 properties:
   - Two-Handed
 mastery: Push
 weight: 5 kg
 cost: 4 CP
 costsorting: 1
+category:
+  - Hammer
+damagetype:
+  - Bludgeoning
 ---
 
-Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|🗡️Weapons]].
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|5e - Weapons]].
 
 # 🗡️5e - Greatclub🗡️
 
@@ -37,8 +39,8 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 >
 > | | |
 > |---|---|
-> |**Weapon Type** |Simple Melee |
-> |**Weapon Category** |Hammer |
+> |**Type** |Simple Melee |
+> |**Category** |Hammer |
 > |**Damage** |1d8 Bludgeoning |
 > |**Properties** |Two-Handed |
 > |**Mastery** |Push |

@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - Handaxe
 created: 2026-08-18T10:13:05.438+02:00
-modified: 2026-08-18T10:35:50.400+02:00
-published: 2026-08-18T10:35:50.400+02:00
+modified: 2026-08-31T09:58:52.548+02:00
+published: 2026-08-31T09:58:52.548+02:00
 tags:
   - "#Weapon"
   - "#Grundregeln"
@@ -17,9 +17,7 @@ image: "[[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Handaxe.
 status: ✅
 a: " "
 type: Simple Melee
-category: Axe
 damage: 1d6
-damagetype: Slashing
 properties:
   - Light
   - Thrown
@@ -28,9 +26,13 @@ mastery: Vex
 weight: 1 kg
 cost: 5 SP
 costsorting: 2
+category:
+  - Axe
+damagetype:
+  - Slashing
 ---
 
-Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|🗡️Weapons]].
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|5e - Weapons]].
 
 # 🗡️5e - Handaxe🗡️
 
@@ -39,8 +41,8 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 >
 > | | |
 > |---|---|
-> |**Weapon Type** |Simple Melee |
-> |**Weapon Category** |Axe |
+> |**Type** |Simple Melee |
+> |**Category** |Axe |
 > |**Damage** |1d6 Slashing |
 > |**Properties** |Light,Thrown,Range \[20/60] |
 > |**Mastery** |Vex |

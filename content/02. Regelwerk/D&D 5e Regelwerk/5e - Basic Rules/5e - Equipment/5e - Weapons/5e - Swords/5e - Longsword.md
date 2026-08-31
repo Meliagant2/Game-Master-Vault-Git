@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - Longsword
 created: 2026-08-18T11:21:09.025+02:00
-modified: 2026-08-18T11:22:36.689+02:00
-published: 2026-08-18T11:22:36.689+02:00
+modified: 2026-08-31T09:57:19.340+02:00
+published: 2026-08-31T09:57:19.340+02:00
 tags:
   - "#Weapon"
   - "#Grundregeln"
@@ -17,9 +17,7 @@ image: "[[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Longswor
 status: ✅
 a: " "
 type: Martial Melee
-category: Sword
 damage: 1d8
-damagetype: Slashing
 properties:
   - Finesse
   - Versatile [1d10]
@@ -27,9 +25,13 @@ mastery: Sap
 weight: 1,5 kg
 cost: 15 SP
 costsorting: 2
+category:
+  - Sword
+damagetype:
+  - Slashing
 ---
 
-Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|🗡️Weapons]].
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|5e - Weapons]].
 
 # 🗡️5e - Longsword🗡️
 
@@ -38,8 +40,8 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 >
 > | | |
 > |---|---|
-> |**Weapon Type** |Martial Melee |
-> |**Weapon Category** |Sword |
+> |**Type** |Martial Melee |
+> |**Category** |Sword |
 > |**Damage** |1d8 Slashing |
 > |**Properties** |Finesse,Versatile \[1d10] |
 > |**Mastery** |Sap |

@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Dancer
 description: Dancers practice a way of being in harmony with the ever-whirling cosmos, emphasizing agility, speed, and grace.
 created: 2026-08-07T13:42:55.828+02:00
-modified: 2026-08-27T09:18:24.937+02:00
-published: 2026-08-27T09:18:24.937+02:00
+modified: 2026-08-31T09:03:31.920+02:00
+published: 2026-08-31T09:03:31.920+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -37,7 +37,7 @@ While you aren’t wearing armor or wielding a Shield, you gain the following be
 
 ### Level 3: Inspiring Movement
 
-When an enemy _you can see_ ends its turn within <u>5 feet</u> of you or an ally of yours within <u>30 feet</u> of you, you can use your **Reaction** and expend one use of your **Bardic Inspiration** to move up to half your Speed. Then one ally of your choice within <u>30 feet</u> can also move up to half their speed.
+When an enemy you can _see_ ends its turn within <u>5 feet</u> of you or an ally of yours within <u>30 feet</u> of you, you can use your **Reaction** and expend one use of your **Bardic Inspiration** to move up to half your Speed. Then one ally of your choice within <u>30 feet</u>, who can _see_ or _hear_ you, can also move up to half their speed.
 
 None of this feature’s movement provokes [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Reactions/5e - Opportunity Attack|⚔️Opportunity Attacks]].
 

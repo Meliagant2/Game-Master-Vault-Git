@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - Halberd
 created: 2026-08-18T11:16:32.855+02:00
-modified: 2026-08-18T11:40:16.968+02:00
-published: 2026-08-18T11:40:16.968+02:00
+modified: 2026-08-31T09:57:56.395+02:00
+published: 2026-08-31T09:57:56.395+02:00
 tags:
   - "#Weapon"
   - "#Grundregeln"
@@ -17,9 +17,7 @@ image: "[[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Halberd.
 status: ✅
 a: " "
 type: Martial Melee
-category: Polearm
 damage: 1d10
-damagetype: Slashing
 properties:
   - Heavy
   - Reach [10 ft.]
@@ -28,9 +26,13 @@ mastery: Cleave
 weight: 3 kg
 cost: 20 SP
 costsorting: 2
+category:
+  - Polearm
+damagetype:
+  - Slashing
 ---
 
-Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|🗡️Weapons]].
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|5e - Weapons]].
 
 # 🗡️5e - Halberd🗡️
 
@@ -39,8 +41,8 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 >
 > | | |
 > |---|---|
-> |**Weapon Type** |Martial Melee |
-> |**Weapon Category** |Polearm |
+> |**Type** |Martial Melee |
+> |**Category** |Polearm |
 > |**Damage** |1d10 Slashing |
 > |**Properties** |Heavy,Reach \[10 ft.],Two-Handed |
 > |**Mastery** |Cleave |

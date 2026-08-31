@@ -2,8 +2,8 @@
 publish: true
 title: 🎩5e - Wands
 created: 2026-08-27T09:45:43.952+02:00
-modified: 2026-08-27T15:59:02.884+02:00
-published: 2026-08-27T15:59:02.884+02:00
+modified: 2026-08-31T10:42:00.808+02:00
+published: 2026-08-31T10:42:00.808+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -34,6 +34,7 @@ views:
       - damage
       - damagetype
       - properties
+      - mastery
       - a
       - weight
       - cost

@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - Javelin
 created: 2026-08-18T10:16:08.226+02:00
-modified: 2026-08-18T11:39:56.973+02:00
-published: 2026-08-18T11:39:56.973+02:00
+modified: 2026-08-31T09:57:53.811+02:00
+published: 2026-08-31T09:57:53.811+02:00
 tags:
   - "#Weapon"
   - "#Grundregeln"
@@ -17,9 +17,7 @@ image: "[[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Javelin.
 status: ✅
 a: " "
 type: Simple Melee
-category: Polearm
 damage: 1d6
-damagetype: Piercing
 properties:
   - Thrown
   - Range [30/120]
@@ -27,9 +25,13 @@ mastery: Slow
 weight: 1 kg
 cost: 6 CP
 costsorting: 1
+category:
+  - Polearm
+damagetype:
+  - Piercing
 ---
 
-Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|🗡️Weapons]].
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|5e - Weapons]].
 
 # 🗡️5e - Javelin🗡️
 
@@ -38,8 +40,8 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 >
 > | | |
 > |---|---|
-> |**Weapon Type** |Simple Melee |
-> |**Weapon Category** |Polearm |
+> |**Type** |Simple Melee |
+> |**Category** |Polearm |
 > |**Damage** |1d6 Piercing |
 > |**Properties** |Thrown,Range \[30/120] |
 > |**Mastery** |Slow |

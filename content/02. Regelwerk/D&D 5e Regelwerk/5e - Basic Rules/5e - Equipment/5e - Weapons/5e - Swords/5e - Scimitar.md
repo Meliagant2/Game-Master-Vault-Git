@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - Scimitar
 created: 2026-08-18T11:29:31.052+02:00
-modified: 2026-08-18T11:31:24.309+02:00
-published: 2026-08-18T11:31:24.309+02:00
+modified: 2026-08-31T09:57:13.525+02:00
+published: 2026-08-31T09:57:13.525+02:00
 tags:
   - "#Weapon"
   - "#Grundregeln"
@@ -17,9 +17,7 @@ image: "[[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Scimitar
 status: ✅
 a: " "
 type: Martial Melee
-category: Sword
 damage: 1d6
-damagetype: Slashing
 properties:
   - Finesse
   - Light
@@ -27,9 +25,13 @@ mastery: Sap
 weight: 1,5 kg
 cost: 25 SP
 costsorting: 2
+category:
+  - Sword
+damagetype:
+  - Slashing
 ---
 
-Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|🗡️Weapons]].
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|5e - Weapons]].
 
 # 🗡️5e - Scimitar🗡️
 
@@ -38,8 +40,8 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 >
 > | | |
 > |---|---|
-> |**Weapon Type** |Martial Melee |
-> |**Weapon Category** |Sword |
+> |**Type** |Martial Melee |
+> |**Category** |Sword |
 > |**Damage** |1d6 Slashing |
 > |**Properties** |Finesse,Light |
 > |**Mastery** |Sap |

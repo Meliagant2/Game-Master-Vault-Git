@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - Light Crossbow
 created: 2026-08-18T10:54:32.652+02:00
-modified: 2026-08-27T12:17:44.664+02:00
-published: 2026-08-27T12:17:44.664+02:00
+modified: 2026-08-31T09:58:35.555+02:00
+published: 2026-08-31T09:58:35.555+02:00
 tags:
   - "#Weapon"
   - "#Grundregeln"
@@ -17,9 +17,7 @@ image: "[[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Light Cr
 status: ✅
 a: " "
 type: Simple Ranged
-category: Crossbow
 damage: 1d8
-damagetype: Piercing
 properties:
   - Ammunition
   - Misfire [1]
@@ -29,9 +27,13 @@ mastery: Slow
 weight: 2,5 kg
 cost: 25 SP
 costsorting: 2
+category:
+  - Crossbow
+damagetype:
+  - Piercing
 ---
 
-Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|🗡️Weapons]].
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|5e - Weapons]].
 
 # 🗡️5e - Light Crossbow🗡️
 
@@ -40,8 +42,8 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 >
 > | | |
 > |---|---|
-> |**Weapon Type** |Simple Ranged |
-> |**Weapon Category** |Crossbow |
+> |**Type** |Simple Ranged |
+> |**Category** |Crossbow |
 > |**Damage** |1d8 Piercing |
 > |**Properties** |Ammunition,Misfire \[1],Range \[80/320],Two-Handed |
 > |**Mastery** |Slow |

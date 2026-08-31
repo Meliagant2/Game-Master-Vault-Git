@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - Hand Crossbow
 created: 2026-08-18T11:46:04.973+02:00
-modified: 2026-08-27T12:17:38.449+02:00
-published: 2026-08-27T12:17:38.449+02:00
+modified: 2026-08-31T09:58:41.208+02:00
+published: 2026-08-31T09:58:41.208+02:00
 tags:
   - "#Weapon"
   - "#Grundregeln"
@@ -17,9 +17,7 @@ image: "[[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Handcros
 status: ✅
 a: " "
 type: Martial Ranged
-category: Crossbow
 damage: 1d6
-damagetype: Piercing
 properties:
   - Ammunition
   - Light
@@ -29,9 +27,13 @@ mastery: Vex
 weight: 1,5 kg
 cost: 75 SP
 costsorting: 2
+category:
+  - Crossbow
+damagetype:
+  - Piercing
 ---
 
-Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|🗡️Weapons]].
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|5e - Weapons]].
 
 # 🗡️5e - Hand Crossbow🗡️
 
@@ -40,8 +42,8 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 >
 > | | |
 > |---|---|
-> |**Weapon Type** |Martial Ranged |
-> |**Weapon Category** |Crossbow |
+> |**Type** |Martial Ranged |
+> |**Category** |Crossbow |
 > |**Damage** |1d6 Piercing |
 > |**Properties** |Ammunition,Light,Misfire \[2],Range \[30/120] |
 > |**Mastery** |Vex |

@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - Shortbow
 created: 2026-08-18T11:00:34.394+02:00
-modified: 2026-08-18T11:02:37.450+02:00
-published: 2026-08-18T11:02:37.450+02:00
+modified: 2026-08-31T09:58:44.005+02:00
+published: 2026-08-31T09:58:44.005+02:00
 tags:
   - "#Weapon"
   - "#Grundregeln"
@@ -17,9 +17,7 @@ image: "[[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Shortbow
 status: ✅
 a: " "
 type: Simple Ranged
-category: Bow
 damage: 1d6
-damagetype: Piercing
 properties:
   - Ammunition
   - Range [80/320]
@@ -28,9 +26,13 @@ mastery: Vex
 weight: 1 kg
 cost: 25 SP
 costsorting: 2
+category:
+  - Bow
+damagetype:
+  - Piercing
 ---
 
-Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|🗡️Weapons]].
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|5e - Weapons]].
 
 # 🗡️5e - Shortbow🗡️
 
@@ -39,8 +41,8 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 >
 > | | |
 > |---|---|
-> |**Weapon Type** |Simple Ranged |
-> |**Weapon Category** |Bow |
+> |**Type** |Simple Ranged |
+> |**Category** |Bow |
 > |**Damage** |1d6 Piercing |
 > |**Properties** |Ammunition,Range \[80/320],Two-Handed |
 > |**Mastery** |Vex |

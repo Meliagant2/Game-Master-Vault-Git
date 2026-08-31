@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - Sling
 created: 2026-08-18T11:02:44.526+02:00
-modified: 2026-08-18T11:41:18.246+02:00
-published: 2026-08-18T11:41:18.246+02:00
+modified: 2026-08-31T09:57:32.932+02:00
+published: 2026-08-31T09:57:32.932+02:00
 tags:
   - "#Weapon"
   - "#Grundregeln"
@@ -17,9 +17,7 @@ image: "[[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Sling.pn
 status: ✅
 a: " "
 type: Simple Ranged
-category: Special
 damage: 1d4
-damagetype: Bludgeoning
 properties:
   - Ammunition
   - Light
@@ -28,9 +26,13 @@ mastery: Slow
 weight: "-"
 cost: 2 CP
 costsorting: 1
+category:
+  - Special
+damagetype:
+  - Bludgeoning
 ---
 
-Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|🗡️Weapons]].
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|5e - Weapons]].
 
 # 🗡️5e - Sling🗡️
 
@@ -39,8 +41,8 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 >
 > | | |
 > |---|---|
-> |**Weapon Type** |Simple Ranged |
-> |**Weapon Category** |Special |
+> |**Type** |Simple Ranged |
+> |**Category** |Special |
 > |**Damage** |1d4 Bludgeoning |
 > |**Properties** |Ammunition,Light,Range \[30/120] |
 > |**Mastery** |Slow |

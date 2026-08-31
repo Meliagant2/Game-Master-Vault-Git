@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Medium Armor Master
 created: 2026-08-06T14:36:13.560+02:00
-modified: 2026-08-26T11:06:54.204+02:00
-published: 2026-08-26T11:06:54.204+02:00
+modified: 2026-08-31T13:00:53.929+02:00
+published: 2026-08-31T13:00:53.929+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -35,9 +35,9 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Fea
 
 You gain the following benefits:
 
-**<u>Silent Steps:</u>** Wearing medium armor doesn't impose **DISADV** on your [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - DEX Skills/5e - Stealth|🏃‍♀️Stealth]] checks.
+**<u>Silent Steps:</u>** Wearing _Medium Armor_ doesn't impose **DISADV** on your [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - DEX Skills/5e - Stealth|🏃‍♀️Stealth]] [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Ability Check/5e - Ability Check|🎲Checks]].
 
-**<u>Dexterous Wearer:</u>** When you wear medium armor, you can add `3`, rather than `2`, to your <u>AC</u> if you have a <u>DEX</u> of <u>+3</u> or higher.
+**<u>Dexterous Wearer:</u>** When you wear _Medium Armor_, you can add `3`, rather than `2`, to your [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Armor Class|🛡️AC]] if you have a <u>DEX</u> of <u>+3</u> or higher.
 
 ## Quelle
 

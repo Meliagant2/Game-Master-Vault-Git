@@ -2,8 +2,8 @@
 publish: true
 title: ⛏️5e - Entertainer⛏️
 created: 2026-07-21T13:40:44.481+02:00
-modified: 2026-08-26T13:23:19.864+02:00
-published: 2026-08-26T13:23:19.864+02:00
+modified: 2026-08-31T11:40:22.032+02:00
+published: 2026-08-31T11:40:22.032+02:00
 tags:
   - "#Background"
   - "#5e"
@@ -28,7 +28,7 @@ In any settlement in which you haven’t made yourself unpopular, your performan
 
 **Ability Score Increases:** +1 to Charisma and one other ability score (both to a maximum of +4).
 **Skill Proficiencies:** <u>Performance</u>, and either <u>Acrobatics</u>, <u>Culture</u>, or <u>Persuasion</u>.
-**Tool Proficiencies:** <u>Gaming set</u>, one [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Musical Instruments/5e - Musical Instruments|🛠️Musical Instrument]].
+**Tool Proficiencies:** <u>Gaming set</u>, one [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Musical Instruments/5e - Musical Instruments|🛠️Musical Instrument]].
 **Equipment:** Lute or other musical instrument, costume, 3 silver
 **<u>Feat:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats garantiert/5e - Musician|🥇Musician]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Z_Feats überdenken/5e - Travelling Performer|🥇Travelling Performer]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Z_Feats überdenken/5e - Well-Versed|🥇Well-Versed]] or a **Special** Origin Feat.
 

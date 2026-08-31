@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Bard
 description: A charismatic performer who uses their music as a conduit to wield powerful magic.
 created: 2026-07-31T10:15:39.250+02:00
-modified: 2026-08-27T09:18:37.084+02:00
-published: 2026-08-27T09:18:37.084+02:00
+modified: 2026-08-31T13:58:45.909+02:00
+published: 2026-08-31T13:58:45.909+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -73,7 +73,7 @@ The greatest strength of bards is their sheer versatility. Many bards prefer to 
 **<u>Spellcasting Ability:</u>** Charisma
 **<u>Spell Attack:</u>** `CHA + Proficiency Bonus`
 **<u>Spell Save DC:</u>** `8 + CHA + Proficiency Bonus`
-**<u>Spellcasting Focus:</u>** Musical Instruments
+**<u>Spellcasting Focus:</u>** You gain Spellcasting Focus Proficiency with every musical Instrument you are proficient in.
 **<u>Spell List:</u>** Bard Spell list, which includes the Occult Spell list.
 **<u>Spell Slots:</u>** The Spellcaster Table shows how many Spell Slots you have to cast Spells. To cast one of these Spells, you must expend a Slot of the Spell’s level or higher. You regain all expended spell slots when you finish a Long Rest.
 **<u>Cantrips:</u>** Whenever you gain a Level in this Class, you can replace one of your cantrips with another cantrip of your choice from your Spell List.

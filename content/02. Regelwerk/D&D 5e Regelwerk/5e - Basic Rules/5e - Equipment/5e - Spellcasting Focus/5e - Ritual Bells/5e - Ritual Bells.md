@@ -2,8 +2,8 @@
 publish: true
 title: 🎩5e - Ritual Bells
 created: 2026-08-27T14:31:26.585+02:00
-modified: 2026-08-27T15:58:33.634+02:00
-published: 2026-08-27T15:58:33.634+02:00
+modified: 2026-08-31T10:41:49.263+02:00
+published: 2026-08-31T10:41:49.263+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -34,6 +34,7 @@ views:
       - damage
       - damagetype
       - properties
+      - mastery
       - a
       - weight
       - cost

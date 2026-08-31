@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - Sickle
 created: 2026-08-18T10:25:37.014+02:00
-modified: 2026-08-18T10:35:53.019+02:00
-published: 2026-08-18T10:35:53.019+02:00
+modified: 2026-08-31T09:58:49.803+02:00
+published: 2026-08-31T09:58:49.803+02:00
 tags:
   - "#Weapon"
   - "#Grundregeln"
@@ -17,18 +17,20 @@ image: "[[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Sickle.p
 status: ✅
 a: " "
 type: Simple Melee
-category: Axe
 damage: 1d4
-damagetype: Slashing
 properties:
   - Light
 mastery: Nick
 weight: 1 kg
 cost: 1 SP
 costsorting: 2
+category:
+  - Axe
+damagetype:
+  - Slashing
 ---
 
-Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|🗡️Weapons]].
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|5e - Weapons]].
 
 # 🗡️5e - Sickle🗡️
 
@@ -37,8 +39,8 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 >
 > | | |
 > |---|---|
-> |**Weapon Type** |Simple Melee |
-> |**Weapon Category** |Axe |
+> |**Type** |Simple Melee |
+> |**Category** |Axe |
 > |**Damage** |1d4 Slashing |
 > |**Properties** |Light |
 > |**Mastery** |Nick |

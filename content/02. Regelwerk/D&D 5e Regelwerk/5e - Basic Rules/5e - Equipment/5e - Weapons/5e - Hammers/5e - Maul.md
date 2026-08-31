@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - Maul
 created: 2026-08-18T11:22:48.677+02:00
-modified: 2026-08-18T11:24:05.656+02:00
-published: 2026-08-18T11:24:05.656+02:00
+modified: 2026-08-31T09:58:11.151+02:00
+published: 2026-08-31T09:58:11.151+02:00
 tags:
   - "#Weapon"
   - "#Grundregeln"
@@ -17,9 +17,7 @@ image: "[[98. Diverses/Bilder/Item Bilder/Generische Waffen/Item Weapon Maul.png
 status: ✅
 a: " "
 type: Martial Melee
-category: Hammer
 damage: 2d6
-damagetype: Bludgeoning
 properties:
   - Heavy
   - Two-Handed
@@ -27,9 +25,13 @@ mastery: Topple
 weight: 5 kg
 cost: 10 SP
 costsorting: 2
+category:
+  - Hammer
+damagetype:
+  - Bludgeoning
 ---
 
-Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|🗡️Weapons]].
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|5e - Weapons]].
 
 # 🗡️5e - Maul🗡️
 
@@ -38,8 +40,8 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 >
 > | | |
 > |---|---|
-> |**Weapon Type** |Martial Melee |
-> |**Weapon Category** |Hammer |
+> |**Type** |Martial Melee |
+> |**Category** |Hammer |
 > |**Damage** |2d6 Bludgeoning |
 > |**Properties** |Heavy,Two-Handed |
 > |**Mastery** |Topple |
