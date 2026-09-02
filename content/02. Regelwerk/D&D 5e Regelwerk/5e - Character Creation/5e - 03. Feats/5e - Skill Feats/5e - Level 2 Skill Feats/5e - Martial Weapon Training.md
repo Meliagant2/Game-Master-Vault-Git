@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Martial Weapon Training
 created: 2026-08-06T14:35:04.051+02:00
-modified: 2026-08-21T11:56:40.811+02:00
-published: 2026-08-21T11:56:40.811+02:00
+modified: 2026-09-01T09:16:04.290+02:00
+published: 2026-09-01T09:16:04.290+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -30,7 +30,7 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Fea
 > |**Prerequisite**| |
 > |**Repeatable**| |
 
-You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Proficiency|🎲Proficiency]] with <u>Martial Weapons</u> and you are able to use their [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Mastery Properties/5e - Weapon Mastery Properties|🗡️Mastery Properties]].
+You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Proficiency|🎲Proficiency]] with <u>Martial</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|🗡️Weapons]].
 
 ## Quelle
 

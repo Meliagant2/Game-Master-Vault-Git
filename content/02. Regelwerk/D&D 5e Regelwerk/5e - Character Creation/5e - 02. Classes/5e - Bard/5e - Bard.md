@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Bard
 description: A charismatic performer who uses their music as a conduit to wield powerful magic.
 created: 2026-07-31T10:15:39.250+02:00
-modified: 2026-08-31T13:58:45.909+02:00
-published: 2026-08-31T13:58:45.909+02:00
+modified: 2026-09-01T09:18:44.061+02:00
+published: 2026-09-01T09:18:44.061+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -61,8 +61,9 @@ The greatest strength of bards is their sheer versatility. Many bards prefer to 
 > | ------------------------------ | ------------------------------------------------------------------------------------------------------------ |
 > | **Armor Training**             | Light Armor                                                                                                  |
 > | **Weapon Proficiencies**       | Simple                                |
+> | **Spellcasting Focus Proficiencies**| Musical Instruments and <u>one</u> Spellcasting Focus Category <u>of your choice</u>                |
 > | **Saving Throw Proficiencies** | <u>Choose one proficiency of each A and B:</u> **(A)** Dexterity OR Wisdom; **(B)** Intelligence OR Charisma |
-> | **Skill Proficiencies**        | Choose any 3 skills                                                                                          |
+> | **Skill Proficiencies**        | Choose any 3 Skills                                                                                          |
 > | **Tool Proficiencies**         | Choose any 3 Musical Instruments                                                                             |
 > | **Starting Equipment**         | <u>Choose A or B</u>: **(A)** 1 Light Armor, 2 Weapons, a Musical Instrument, 30 SP; **(B)** 150 SP          |
 
@@ -73,11 +74,11 @@ The greatest strength of bards is their sheer versatility. Many bards prefer to 
 **<u>Spellcasting Ability:</u>** Charisma
 **<u>Spell Attack:</u>** `CHA + Proficiency Bonus`
 **<u>Spell Save DC:</u>** `8 + CHA + Proficiency Bonus`
-**<u>Spellcasting Focus:</u>** You gain Spellcasting Focus Proficiency with every musical Instrument you are proficient in.
 **<u>Spell List:</u>** Bard Spell list, which includes the Occult Spell list.
 **<u>Spell Slots:</u>** The Spellcaster Table shows how many Spell Slots you have to cast Spells. To cast one of these Spells, you must expend a Slot of the Spell’s level or higher. You regain all expended spell slots when you finish a Long Rest.
 **<u>Cantrips:</u>** Whenever you gain a Level in this Class, you can replace one of your cantrips with another cantrip of your choice from your Spell List.
 **<u>Spells:</u>** You know a number of spells from your Spell List as shown in the Spellcaster Table. Whenever you gain a Level in this Class, you can replace one of your known spells with another spell of your choice from your Spell List for which you have Spell Slots.
+**<u>Spellcasting Focus Masteries:</u>** You can use the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spell Focus Mastery Properties/5e - Spell Focus Mastery Properties|🎩Spell Focus Mastery Properties]] of all [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spellcasting Focus|🎩Spellcasting Foci]] you are proficient in.
 
 #### Spellcaster Table
 

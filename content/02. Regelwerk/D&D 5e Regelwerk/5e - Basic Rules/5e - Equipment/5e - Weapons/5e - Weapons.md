@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - Weapons
 created: 2026-08-06T08:53:20.580+02:00
-modified: 2026-08-18T12:06:36.128+02:00
-published: 2026-08-18T12:06:36.128+02:00
+modified: 2026-09-02T07:55:36.442+02:00
+published: 2026-09-02T07:55:36.442+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -31,9 +31,11 @@ Your class grants proficiency with certain weapons, representing the weapons you
 
 The Weapons table in this section shows the game's main weapons. The table lists the cost and weight of each weapon, as well as the following details:
 
-**<u>Category:</u>** Every weapon falls into a category: <u>Simple</u> or <u>Martial</u>. Weapon proficiencies are usually tied to one of these categories. For example, you might have proficiency with Simple weapons.
+**<u>Type:</u>** Every weapon has a type: <u>Simple</u> or <u>Martial</u>. Weapon proficiencies are usually tied to one of these types. For example, you might have proficiency with Simple weapons.
 
 **<u>Melee or Ranged:</u>** A weapon is classified as either <u>Melee</u> or <u>Ranged</u>. A Melee weapon is used to attack a target within <u>5 feet</u>, whereas a Ranged weapon is used to attack at a greater distance.
+
+**<u>Category:</u>** Every weapon falls into a category, like "Polearm", or "Sword". Some features interact with a specific weapon category and some weapons might fall into more than one category.
 
 **<u>Damage:</u>** The table lists the amount of damage a weapon deals when an attacker hits with it as well as the type of that damage.
 

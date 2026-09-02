@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Mark of Healing
 created: 2026-08-18T14:43:44.413+02:00
-modified: 2026-08-27T09:18:22.073+02:00
-published: 2026-08-27T09:18:22.073+02:00
+modified: 2026-09-01T09:40:32.491+02:00
+published: 2026-09-01T09:40:32.491+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -45,7 +45,7 @@ When you reach character _level 3_, you also always have the [[02. Regelwerk/D&
 **Spell level 5:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Abjuration/5e - Level 5 Abjuration/5e - Greater Restoration (Spell)|☄️Greater Restoration]]
 
 > [!info] Feat "Upgrades"
-> Taking this Feat allows you, to take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Z_Feats überdenken/Resorting Skill Feats/5e - Greater Mark of Healing|🥇Greater Mark of Healing]] and/or the [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - General Feats/5e - Level 6 General Feats/5e - Potent Spellmark|🥇Potent Spellmark]] Feats Later
+> Taking this Feat allows you, to take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Z_Feats überdenken/Resorting Skill Feats/5e - Greater Mark of Healing|🥇Greater Mark of Healing]] and/or the [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - General Feats/5e - Level 6 General Feats/5e - level 6 general feats kontrolle/5e - Potent Spellmark|🥇Potent Spellmark]] Feats Later
 
 ### Backgrounds that grant this Feat
 

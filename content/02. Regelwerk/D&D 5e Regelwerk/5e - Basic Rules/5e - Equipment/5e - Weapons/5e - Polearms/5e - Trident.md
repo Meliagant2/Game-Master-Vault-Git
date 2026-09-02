@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - Trident
 created: 2026-08-18T11:32:52.142+02:00
-modified: 2026-08-31T09:57:41.623+02:00
-published: 2026-08-31T09:57:41.623+02:00
+modified: 2026-09-02T08:10:41.148+02:00
+published: 2026-09-02T08:10:41.148+02:00
 tags:
   - "#Weapon"
   - "#Grundregeln"
@@ -51,6 +51,8 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 > |**Cost** |5 SP |
 
 **<u>Thrown:</u>** If a weapon has the Thrown property, you can throw the weapon to make a ranged attack, and you can draw that weapon as part of the attack. If the weapon is a <u>Melee weapon</u>, use the same ability modifier for the attack and damage rolls that you use for a melee attack with that weapon.
+
+**<u>Range:</u>** A **Range** weapon has a range in parentheses after the property. The range lists two numbers. The first is the weapon's **normal range** in feet, and the second is the weapon's **long range**. When attacking a target beyond normal range, you have **DISADV** on the attack roll. You can't attack a target beyond the long range.
 
 **<u>Versatile:</u>** A Versatile weapon can be used with one or two hands. A damage value in parentheses appears with the property. The weapon deals that damage when used with two hands to make a <u>melee attack</u>.
 

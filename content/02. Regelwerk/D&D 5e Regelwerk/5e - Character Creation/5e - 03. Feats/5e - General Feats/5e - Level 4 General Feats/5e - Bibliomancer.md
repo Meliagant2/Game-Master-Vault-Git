@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Bibliomancer
 created: 2026-08-31T13:21:12.909+02:00
-modified: 2026-08-31T13:50:22.442+02:00
-published: 2026-08-31T13:50:22.442+02:00
+modified: 2026-09-02T11:08:47.694+02:00
+published: 2026-09-02T11:08:47.694+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -13,12 +13,13 @@ dateitags:
 status: ✅
 category: General
 level: 4
-prerequisite: INT +2, WIS +2, or CHA +2
-source: Self
+prerequisite: Spellcasting Focus Proficiency with Grimoires
+source: The Crooked Moon (2024)
 ability:
+  - Grimoires
   - Spellcasting
   - 1st-level Spell
-  - Grimoires
+  - Casting Time
 ---
 
 Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - General Feats/5e - General Feats|5e - General Feats]].
@@ -30,18 +31,20 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Fea
 > |---|---|
 > |**Category**|General |
 > |**Level Requirement**|4 |
-> |**Prerequisite**|INT +2, WIS +2, or CHA +2 |
+> |**Prerequisite**|Spellcasting Focus Proficiency with Grimoires |
 > |**Repeatable**| |
 
 You gain the following benefits:
 
-**<u>Spellcasting Focus:</u>** You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spellcasting Focus|🎩Spellcasting Focus]] [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Proficiency|🎲Proficiency]] with [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Grimoires/5e - Grimoires|🎩Grimoires]].
+**<u>Book Learning:</u>** You always have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Divination/5e - Level 1 Divination/5e - Identify (Spell)|☄️Identify]] spell prepared. You can cast it <u>once</u> without a spell slot, and you must finish a **Long Rest** before you can cast it in this way again. You can also cast it using spell slots you have of the appropriate level. The spell's spellcasting ability is <u>INT</u>, <u>WIS</u>, or <u>CHA</u> (whichever is highest).
 
-**<u>Ritual Spell:</u>** You learn <u>one</u> _1st-level_ [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Ritual Casting|☄️Ritual Spell]] of your choice and you can cast it ritually.
+Whenever you cast [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Divination/5e - Level 1 Divination/5e - Identify (Spell)|☄️Identify]], even if cast as a _Ritual_, you treat the _spell_ as if you cast it as _2 levels higher_ than you actually did.
 
-**<u>Change Damage Type:</u>** When you cast a _spell_ that deals [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Damage/5e - Damage|💔Damage]], you can replace that _spell's_ damage type with another damage type of a _spell_ you have prepared. The _spell_ of which you replace the damage type, must be of a _spell level_ equal to or lower than the _spell_, of which you replace the damage type with.
+**<u>Swift Invocation:</u>** While using a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Grimoires/5e - Grimoires|🎩Grimoire]] as your [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spellcasting Focus|🎩Spellcasting Focus]], you can shorten the _casting time_ of a _spell_. As an **Action**, you can cast a _spell_ that has a _casting time_ of <u>1 minute</u>, you can take <u>1 minute</u> to cast a _spell_ that has a _casting time_ of <u>10 minute</u>, or <u>10 minutes</u> to cast a _spell_ that has a _casting time_ of <u>1 hour</u>.
+
+_**<u>Number of Uses:</u>**_ <u>Once</u> you've used this benefit, you can't use it again until you finish a **Long Rest**.
 
 ## Quelle
 
 > [!inspiration] Quelle/Inspiration
-> Self
+> The Crooked Moon (2024)

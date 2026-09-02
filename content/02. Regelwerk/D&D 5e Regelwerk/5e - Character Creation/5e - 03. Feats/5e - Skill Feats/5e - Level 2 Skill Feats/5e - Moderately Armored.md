@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Moderately Armored
 created: 2026-08-06T12:03:22.019+02:00
-modified: 2026-08-21T11:52:47.559+02:00
-published: 2026-08-21T11:52:47.559+02:00
+modified: 2026-09-01T15:04:15.837+02:00
+published: 2026-09-01T15:04:15.837+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -31,7 +31,9 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Fea
 > |**Prerequisite**|Light Armor Training |
 > |**Repeatable**| |
 
-You gain training with <u>Medium Armor</u> and <u>Medium Shields</u>.
+You gain the following benefits:
+
+**<u>Armor Training:</u>** You gain training with [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Armor/5e - Medium Armor/5e - Medium Armor|⛑️Medium Armor]] and [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Shields/5e - Medium Shields/5e - Medium Shields|🛡️Medium Shields]].
 
 ## Quelle
 

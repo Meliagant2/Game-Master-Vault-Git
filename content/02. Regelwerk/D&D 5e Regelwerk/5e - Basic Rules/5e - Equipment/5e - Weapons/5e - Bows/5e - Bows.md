@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - Bows
 created: 2026-08-18T09:43:24.522+02:00
-modified: 2026-08-31T16:28:22.699+02:00
-published: 2026-08-31T16:28:22.699+02:00
+modified: 2026-09-02T11:54:28.163+02:00
+published: 2026-09-02T11:54:28.163+02:00
 tags:
   - "#Weapon"
   - "#5e"
@@ -45,6 +45,6 @@ views:
       - property: file.name
         direction: ASC
     columnSize:
-      note.properties: 236
+      note.properties: 224
 
 ```

@@ -3,8 +3,8 @@ publish: true
 title: 🥇5e - General Feats
 description: Grant new abilities to a character of any class.
 created: 2026-08-04T09:29:16.329+02:00
-modified: 2026-08-26T15:00:10.904+02:00
-published: 2026-08-26T15:00:10.904+02:00
+modified: 2026-09-02T15:21:01.792+02:00
+published: 2026-09-02T15:21:01.792+02:00
 tags:
   - "#Charaktererstellung"
   - "#5e"
@@ -52,18 +52,124 @@ views:
       note.prerequisite: 144
       note.repeatable: 34
   - type: table
-    name: 5e - General and Skill Feats
+    name: 5e - General Feats Level 0 and 2
     filters:
       and:
         - dateitags.containsAll("#5e", "#Feat")
         - '!file.name.contains("Template")'
-        - category.containsAny("General", "Skill")
+        - category.contains("General")
+        - level <= 2
     order:
       - file.name
       - category
       - level
       - prerequisite
       - repeatable
+      - ability
+      - source
+    sort:
+      - property: level
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 243
+      note.level: 30
+      note.prerequisite: 144
+      note.repeatable: 34
+  - type: table
+    name: 5e - General Feats Level 4
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Feat")
+        - '!file.name.contains("Template")'
+        - category.contains("General")
+        - level == 4
+    order:
+      - file.name
+      - category
+      - level
+      - prerequisite
+      - repeatable
+      - ability
+      - source
+    sort:
+      - property: level
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 243
+      note.level: 30
+      note.prerequisite: 144
+      note.repeatable: 34
+  - type: table
+    name: 5e - General Feats Level 6
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Feat")
+        - '!file.name.contains("Template")'
+        - category.contains("General")
+        - level == 6
+    order:
+      - file.name
+      - category
+      - level
+      - prerequisite
+      - repeatable
+      - ability
+      - source
+    sort:
+      - property: level
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 243
+      note.level: 30
+      note.prerequisite: 144
+      note.repeatable: 34
+  - type: table
+    name: 5e - General Feats Level 8
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Feat")
+        - '!file.name.contains("Template")'
+        - category.contains("General")
+        - level == 8
+    order:
+      - file.name
+      - category
+      - level
+      - prerequisite
+      - repeatable
+      - ability
+      - source
+    sort:
+      - property: level
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 243
+      note.level: 30
+      note.prerequisite: 144
+      note.repeatable: 34
+  - type: table
+    name: 5e - General Feats Level 10
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Feat")
+        - '!file.name.contains("Template")'
+        - category.contains("General")
+        - level == 10
+    order:
+      - file.name
+      - category
+      - level
+      - prerequisite
+      - repeatable
+      - ability
       - source
     sort:
       - property: level

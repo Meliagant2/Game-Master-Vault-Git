@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Martial Path
 created: 2026-08-06T13:05:44.637+02:00
-modified: 2026-08-27T10:53:53.600+02:00
-published: 2026-08-27T10:53:53.600+02:00
+modified: 2026-09-01T09:11:40.928+02:00
+published: 2026-09-01T09:11:40.928+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -41,6 +41,7 @@ You gain the following benefits. This allows you to pick [[02. Regelwerk/D&D 5e 
 **<u>Combat Traditions:</u>** You gain proficiency in two of the following Combat Traditions: [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Traditions/5e - Tradition of Attentiveness/5e - Tradition of Attentiveness|🤺Attentiveness]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Traditions/5e - Tradition of Comradery/5e - Tradition of Comradery|🤺Comradery]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Traditions/5e - Tradition of Cunning/5e - Tradition of Cunning|🤺Cunning]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Traditions/5e - Tradition of Might/5e - Tradition of Might|🤺Might]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Traditions/5e - Tradition of Prowess/5e - Tradition of Prowess|🤺Prowess]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Traditions/5e - Tradition of Swiftness/5e - Tradition of Swiftness|🤺Swiftness]].
 **<u>Exertion:</u>** The Martial Table shows how much Exertion you have to use Manuevers. To use one of these Maneuvers, you must expend an amount of Exertion as defined by the Maneuver. You regain any spent Exertion at the end of a **Short** or **Long Rest**.
 **<u>Maneuvers:</u>** You know a number of Maneuvers from Combat Traditions you are proficient in as shown in the Martial Table. The <u>Maneuvers Known column</u> shows when you learn more maneuvers from a tradition you are proficient with, while the <u>Maneuver Degree column</u> shows the highest degree you can select maneuvers from at a given level. Whenever you gain a Level you can replace one of your Maneuvers with another Maneuver of your choice.
+**<u>Weapon Masteries:</u>** You can use the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Mastery Properties/5e - Weapon Mastery Properties|🗡️Mastery]] Properties of all [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|🗡️Weapons]] you are proficient in.
 **<u>Extra Attack:</u>** Starting at <u>7th Level</u>, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
 #### Martial Table

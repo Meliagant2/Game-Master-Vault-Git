@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - Firearms
 created: 2026-08-18T09:45:01.848+02:00
-modified: 2026-08-31T16:28:34.190+02:00
-published: 2026-08-31T16:28:34.190+02:00
+modified: 2026-09-02T08:06:21.388+02:00
+published: 2026-09-02T08:06:21.388+02:00
 tags:
   - "#Weapon"
   - "#5e"
@@ -45,6 +45,6 @@ views:
       - property: file.name
         direction: ASC
     columnSize:
-      note.properties: 236
+      note.properties: 204
 
 ```

@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Sharpshooter
 created: 2026-08-06T14:57:56.012+02:00
-modified: 2026-08-27T11:16:36.064+02:00
-published: 2026-08-27T11:16:36.064+02:00
+modified: 2026-09-01T08:36:53.237+02:00
+published: 2026-09-01T08:36:53.237+02:00
 tags:
   - "#Feat"
   - "#5e"

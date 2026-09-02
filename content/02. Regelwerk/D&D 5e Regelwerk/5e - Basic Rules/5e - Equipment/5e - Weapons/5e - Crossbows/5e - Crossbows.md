@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - Crossbows
 created: 2026-08-06T10:20:57.503+02:00
-modified: 2026-08-31T16:28:27.761+02:00
-published: 2026-08-31T16:28:27.761+02:00
+modified: 2026-09-02T08:03:20.889+02:00
+published: 2026-09-02T08:03:20.889+02:00
 tags:
   - "#Weapon"
   - "#5e"
@@ -45,6 +45,6 @@ views:
       - property: file.name
         direction: ASC
     columnSize:
-      note.properties: 236
+      note.properties: 163
 
 ```

@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - Longbow
 created: 2026-08-18T11:51:04.302+02:00
-modified: 2026-08-31T09:58:46.239+02:00
-published: 2026-08-31T09:58:46.239+02:00
+modified: 2026-09-02T08:10:22.073+02:00
+published: 2026-09-02T08:10:22.073+02:00
 tags:
   - "#Weapon"
   - "#Grundregeln"
@@ -54,6 +54,8 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 **<u>Ammunition:</u>** You can use a weapon that has the Ammunition property to make a ranged attack only if you have ammunition to fire from it. The type of ammunition required is specified with the weapon's range. Each attack expends one piece of ammunition. Drawing the ammunition is part of the attack (you need a free hand to load a one-handed weapon). After a fight, you can spend <u>1 minute</u> to recover half the ammunition (round down) you used in the fight; the rest is lost.
 
 **<u>Heavy:</u>** You have **DISADV** on attack rolls with a Heavy weapon if it's a Melee weapon and your <u>STR modifier</u> isn't at least `+1` or if it's a Ranged weapon and your <u>DEX modifier</u> isn't at least `+1`.
+
+**<u>Range:</u>** A **Range** weapon has a range in parentheses after the property. The range lists two numbers. The first is the weapon's **normal range** in feet, and the second is the weapon's **long range**. When attacking a target beyond normal range, you have **DISADV** on the attack roll. You can't attack a target beyond the long range.
 
 **<u>Two-Handed:</u>** A Two-Handed weapon requires two hands when you attack with it.
 

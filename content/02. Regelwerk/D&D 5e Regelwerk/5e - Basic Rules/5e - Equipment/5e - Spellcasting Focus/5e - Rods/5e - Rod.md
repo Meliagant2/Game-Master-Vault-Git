@@ -2,8 +2,8 @@
 publish: true
 title: 🎩5e - Rod
 created: 2026-08-31T12:08:36.752+02:00
-modified: 2026-08-31T12:11:43.623+02:00
-published: 2026-08-31T12:11:43.623+02:00
+modified: 2026-09-02T11:23:23.046+02:00
+published: 2026-09-02T11:23:23.046+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -47,6 +47,8 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 > |**Attunement** |  |
 > |**Weight** |1 kg |
 > |**Cost** |5 SP |
+
+This [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spellcasting Focus|🎩Spellcasting Focus]] can be used as a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Hammers/5e - Club|🗡️Club]].
 
 **<u>Light:</u>** When you take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Attack Action|⚔️Attack]] action on your turn and attack with a <u>Light weapon</u>, you can make one <u>extra attack</u> as a **Bonus Action** later on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack's damage unless that modifier is negative.
 

@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Dual Wielder
 created: 2026-08-06T14:12:33.666+02:00
-modified: 2026-08-27T10:45:20.180+02:00
-published: 2026-08-27T10:45:20.180+02:00
+modified: 2026-09-01T08:37:03.492+02:00
+published: 2026-09-01T08:37:03.492+02:00
 tags:
   - "#Feat"
   - "#5e"

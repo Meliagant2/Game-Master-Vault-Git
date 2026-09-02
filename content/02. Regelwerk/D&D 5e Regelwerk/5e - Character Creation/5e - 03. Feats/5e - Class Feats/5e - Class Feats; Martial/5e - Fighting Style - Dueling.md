@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Fighting Style - Dueling
 created: 2026-08-06T10:31:38.420+02:00
-modified: 2026-08-27T10:23:44.471+02:00
-published: 2026-08-27T10:23:44.471+02:00
+modified: 2026-09-01T11:02:30.290+02:00
+published: 2026-09-01T11:02:30.290+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -15,6 +15,8 @@ category: Class
 level: 1
 prerequisite: Martial Class
 source: Self
+ability:
+  - Attack Increase
 ---
 
 # 🥇5e - Fighting Style - Dueling🥇

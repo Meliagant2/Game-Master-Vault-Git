@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Durable
 created: 2026-08-06T10:53:18.007+02:00
-modified: 2026-08-26T11:24:12.792+02:00
-published: 2026-08-26T11:24:12.792+02:00
+modified: 2026-09-01T08:37:02.798+02:00
+published: 2026-09-01T08:37:02.798+02:00
 tags:
   - "#Feat"
   - "#5e"

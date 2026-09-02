@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Bomber
 created: 2026-08-06T15:56:15.933+02:00
-modified: 2026-08-27T10:43:26.470+02:00
-published: 2026-08-27T10:43:26.470+02:00
+modified: 2026-09-01T08:37:06.048+02:00
+published: 2026-09-01T08:37:06.048+02:00
 tags:
   - "#Feat"
   - "#5e"

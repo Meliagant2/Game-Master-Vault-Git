@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-08-31T12:18:54.427+02:00
-published: 2026-08-31T12:18:54.427+02:00
+modified: 2026-08-31T16:36:22.521+02:00
+published: 2026-08-31T16:36:22.521+02:00
 tags:
   - "#Home"
 ---
@@ -39,27 +39,3 @@ views:
     imageFit: contain
 
 ```
-
-![[98. Diverses/Bilder/Item Bilder/Spell Foci/Item Spellcasting Focus Tool Censer.png]]
-
-![[98. Diverses/Bilder/Item Bilder/Spell Foci/Item Spellcasting Focus Crystal.png]]
-
-![[98. Diverses/Bilder/Item Bilder/Spell Foci/Item Spellcasting Focus Grimoire.png]]
-
-![[98. Diverses/Bilder/Item Bilder/Spell Foci/Item Spellcasting Focus Amulet of Health.png]]
-
-![[98. Diverses/Bilder/Item Bilder/Spell Foci/Item Spellcasting Focus Tool Lute.png]]
-
-![[98. Diverses/Bilder/Item Bilder/Aufbewahrungsitems/Item General Spellcasting Focus Bag.png]]
-
-![[98. Diverses/Bilder/Item Bilder/Spell Foci/Item Spellcasting Focus Crystal Ball.png]]
-
-![[98. Diverses/Bilder/Item Bilder/Spell Foci/Item Spellcasting Focus Puppet.png]]
-
-![[98. Diverses/Bilder/Item Bilder/Spell Foci/Item Spellcasting Focus Ritual Bell.png]]
-
-![[98. Diverses/Bilder/Item Bilder/Spell Foci/Item Spellcasting Focus Rod.png]]
-
-![[98. Diverses/Bilder/Item Bilder/Spell Foci/Item Spellcasting Focus Totem.png]]
-
-![[98. Diverses/Bilder/Item Bilder/Spell Foci/Item Spellcasting Focus Wand.png]]

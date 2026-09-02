@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Grappler
 created: 2026-08-06T11:45:30.631+02:00
-modified: 2026-08-27T10:50:25.700+02:00
-published: 2026-08-27T10:50:25.700+02:00
+modified: 2026-09-01T08:37:01.931+02:00
+published: 2026-09-01T08:37:01.931+02:00
 tags:
   - "#Feat"
   - "#5e"

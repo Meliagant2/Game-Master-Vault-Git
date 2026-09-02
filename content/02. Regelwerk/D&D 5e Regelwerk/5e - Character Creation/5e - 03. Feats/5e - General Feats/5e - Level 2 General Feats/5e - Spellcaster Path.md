@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Spellcaster Path
 created: 2026-08-06T13:45:50.624+02:00
-modified: 2026-08-27T10:54:08.247+02:00
-published: 2026-08-27T10:54:08.247+02:00
+modified: 2026-09-02T08:43:33.965+02:00
+published: 2026-09-02T08:43:33.965+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -38,11 +38,11 @@ You gain the following benefits. This allows you to pick [[02. Regelwerk/D&D 5e 
 **<u>Spellcasting Ability:</u>** Wisdom, Intelligence, or Charisma (Whichever is highest)
 **<u>Spell Attack:</u>** `Spellcasting Ability + Proficiency Bonus`
 **<u>Spell Save DC:</u>** `8 + Spellcasting Ability + Proficiency Bonus`
-**<u>Spellcasting Focus:</u>** -
-**<u>Spell Source:</u>** Choose one: [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Sources/5e - Spell Source Arcane/5e - Spell Source Arcane|☄️Arcane]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Sources/5e - Spell Source Divine/5e - Spell Source Divine|☄️Divine]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Sources/5e - Spell Source Occult/5e - Spell Source Occult|☄️Occult]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Sources/5e - Spell Source Primal/5e - Spell Source Primal|☄️Primal]]
+**<u>Spell List:</u>** <u>Choose one Spell Source:</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Sources/5e - Spell Source Arcane/5e - Spell Source Arcane|☄️Arcane]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Sources/5e - Spell Source Divine/5e - Spell Source Divine|☄️Divine]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Sources/5e - Spell Source Occult/5e - Spell Source Occult|☄️Occult]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Sources/5e - Spell Source Primal/5e - Spell Source Primal|☄️Primal]]
 **<u>Spell Slots:</u>** The Spellcaster Table shows how many Spell Slots you have to cast Spells. To cast one of these Spells, you must expend a Slot of the Spell’s level or higher. You regain all expended spell slots when you finish a Long Rest.
 **<u>Cantrips:</u>** Whenever you gain a Level, you can replace one of your cantrips with another cantrip of your choice from your Spell List.
 **<u>Spells:</u>** You know a number of spells from your Spell List as shown in the Spellcaster Table. Whenever you gain a Level in this Class, you can replace one of your known spells with another spell of your choice from your Spell List for which you have Spell Slots.
+**<u>Spellcasting Focus Masteries:</u>** You can use the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spell Focus Mastery Properties/5e - Spell Focus Mastery Properties|🎩Spell Focus Mastery Properties]] of all [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spellcasting Focus|🎩Spellcasting Foci]] you are proficient in.
 
 #### Spellcaster Table: Third Caster
 

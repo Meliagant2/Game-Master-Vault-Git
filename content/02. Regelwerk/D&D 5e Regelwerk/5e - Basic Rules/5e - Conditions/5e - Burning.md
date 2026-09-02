@@ -2,8 +2,8 @@
 publish: true
 title: ☠️5e - Burning
 created: 2026-07-28T09:57:16.144+02:00
-modified: 2026-08-14T08:32:12.106+02:00
-published: 2026-08-14T08:32:12.106+02:00
+modified: 2026-09-02T14:01:06.408+02:00
+published: 2026-09-02T14:01:06.408+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -15,7 +15,7 @@ status: ✅
 
 # ☠️5e - Burning☠️
 
-You take `2d6` <u>Fire</u> damage at the start of each of your turns.
+You take `1d8` <u>Fire</u> damage at the start of each of your turns.
 
 ###### Ending Burning
 

@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Brawler
 created: 2026-08-04T11:27:16.685+02:00
-modified: 2026-08-27T10:51:48.593+02:00
-published: 2026-08-27T10:51:48.593+02:00
+modified: 2026-09-01T15:26:21.818+02:00
+published: 2026-09-01T15:26:21.818+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -34,11 +34,11 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Fea
 
 You gain the following benefits:
 
-**<u>Enhanced Unarmed Strikes:</u>** Your <u>Unarmed Strikes</u> deal Bludgeoning damage equal to `1d4 + STR` instead of [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Damage/5e - Basic Melee Damage|💔Basic Melee Damage]].
+**<u>Enhanced Unarmed Strikes:</u>** Your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Unarmed Strike|⚔️Unarmed Strikes]] deal <u>Bludgeoning</u> damage equal to `1d4 + STR` instead of [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Damage/5e - Basic Melee Damage|💔Basic Melee Damage]].
 
-**<u>Damage rerolls:</u>** When making <u>Unarmed Strikes</u>, you roll your <u>damage dice</u> twice and use the highest result.
+**<u>Improvised Weaponry:</u>** You have proficiency with [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Improvised Weapons/5e - Improvised Weapons|🗡️Improvised Weapons]].
 
-**<u>Improvised Weaponry:</u>** You have proficiency with [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Improvised Weapons/5e - Improvised Weapons|🛠️Improvised Weapons]].
+**<u>Damage rerolls:</u>** When making an [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack]] using an [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Improvised Weapons/5e - Improvised Weapons|🗡️Improvised Weapon]] or [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Unarmed Strike|⚔️Unarmed Strikes]], you roll your <u>damage dice</u> twice and use the highest result.
 
 **<u>Push:</u>** Your <u>Unarmed Strikes</u> gain the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Mastery Properties/5e - Push Mastery Property|🗡️Push Mastery Property]].
 

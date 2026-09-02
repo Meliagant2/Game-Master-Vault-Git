@@ -43,9 +43,9 @@ You either have inspiration or you don’t; if you already have inspiration and 
 > | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Underdog (Destiny).md|🔮5e - Underdog🔮]]                                                       |
 > | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Wealth (Destiny).md|🔮5e - Wealth🔮]]                                                           |
 > | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats; Fighter/5e - Battle Scarred.md|🥇5e - Battle Scarred]]              |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - General Feats/5e - Level 6 General Feats/5e - Battlefield Comrade.md|🥇5e - Battlefield Comrade]] |
 > | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Level 6 Skill Feats/5e - Destinys Call.md|🥇5e - Destinys Call]]                 |
 > | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats; Bard/5e - Inspiring Inspiration.md|🥇5e - Inspiring Inspiration]]   |
-> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - General Feats/5e - Level 6 General Feats/5e - Legatus.md|🥇5e - Legatus]]                         |
 > | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats garantiert/5e - Musician.md|🥇5e - Musician]]                      |
 > | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats; Marshal/5e - Squire.md|🥇5e - Squire]]                              |
 > | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Level 2 Skill Feats/5e - Tireless Reveler.md|🥇5e - Tireless Reveler]]           |

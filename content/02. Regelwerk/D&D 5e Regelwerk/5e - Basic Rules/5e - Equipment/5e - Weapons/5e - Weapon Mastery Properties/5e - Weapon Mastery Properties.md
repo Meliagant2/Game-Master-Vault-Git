@@ -22,6 +22,7 @@ Each weapon has a **Mastery Property**, which is usable only by a character who 
 - [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Mastery Properties/5e - Graze Mastery Property.md|5e - Graze Mastery Property]]
 - [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Mastery Properties/5e - Nick Mastery Property.md|5e - Nick Mastery Property]]
 - [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Mastery Properties/5e - Push Mastery Property.md|5e - Push Mastery Property]]
+- [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Mastery Properties/5e - Returning Mastery Property.md|5e - Returning Mastery Property]]
 - [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Mastery Properties/5e - Sap Mastery Property.md|5e - Sap Mastery Property]]
 - [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Mastery Properties/5e - Slow Mastery Property.md|5e - Slow Mastery Property]]
 - [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Mastery Properties/5e - Topple Mastery Property.md|5e - Topple Mastery Property]]
