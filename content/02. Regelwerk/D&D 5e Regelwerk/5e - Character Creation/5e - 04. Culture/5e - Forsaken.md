@@ -1,22 +1,25 @@
 ---
 publish: true
-title: 🎎5e - Forsaken🎎
+title: 🎎5e - Forsaken
 created: 2026-07-20T18:00:21.058+02:00
-modified: 2026-08-04T07:17:13.006+02:00
-published: 2026-08-04T07:17:13.006+02:00
+modified: 2026-09-03T15:57:18.150+02:00
+published: 2026-09-03T15:57:18.150+02:00
 tags:
   - "#Culture"
   - "#5e"
-socialImage: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
 dateitags:
   - "#Culture"
   - "#5e"
-image: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
 status: ✅
-sprachen:
-  - Gemeinsprache
-  - Spielerwahl
+proficiencies:
+  - Endurance
+  - Herbalism Kit
+languages:
+  - Common
+  - Two Additional
 ---
+
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 04. Culture/5e - 04. Culture|5e - 04. Culture]].
 
 # 🎎5e - Forsaken🎎
 
@@ -28,8 +31,12 @@ Forsaken characters are forced to grow up quickly. They often get married after 
 
 Characters raised in the forsaken culture share a variety of traits in common with one another.
 
-**Languages:** You can speak, read, write, and sign <u>Common</u>, and <u>two additional</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Languages]].
-**Eat Like a Bird:** You grew used to eating very little. You can go a number of days equal to half your CON modifier without suffering any [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Fatigue|☠️Fatigue]] from lack of Supply.
-**Fleet of Foot:** Your Speed increases by <u>5 feet</u>.
-**Improvised Tools:** During a long rest, when you have access to raw materials you can jury-rig an improvised tool kit. If you roll a 1 while making a check using the improvised tools or the next time you take a long rest, they break.
-**Roll With the Punches:** After you fail an ability check, you have ADV on your next ability check. You can’t use this trait again until you finish a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Short Rest|😴Short]] or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Long Rest|😴Long Rest]].
+**<u>Skill Proficiency:</u>** You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Proficiency|🎲Proficiency]] in [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - CON Skills/5e - Endurance|💃Endurance]], or one level of [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Expertise|🎲Expertise]] if you are already _proficient_.
+
+**<u>Tool Proficiencies:</u>** You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Proficiency|🎲Proficiency]] with the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Misc Tools/5e - Herbalism Kit|🛠️Herbalism Kit]], or one level of [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Expertise|🎲Expertise]] if you are already _proficient_.
+
+**<u>Languages:</u>** You have <u>three</u> **mastery levels** in [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Common|🗣️Common]] and you either gain <u>one</u> **mastery level** in <u>two</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Languages]] of your choice, or <u>two</u> **mastery levels** in <u>one</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Language]] of your choice.
+
+**<u>Eat Like a Bird:</u>** You can go a number of days equal to `1/2 x your CON` without suffering any [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Fatigue|☠️Fatigue]] from lack of Supply.
+
+**<u>Fleet of Foot:</u>** Your [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Speed/5e - Speed|🏃‍♀️Speed]] increases by <u>5 feet</u>.

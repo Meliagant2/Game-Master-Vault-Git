@@ -1,9 +1,9 @@
 ---
 publish: true
-title: ⛏️5e - Entertainer⛏️
+title: ⛏️5e - Entertainer
 created: 2026-07-21T13:40:44.481+02:00
-modified: 2026-08-31T11:40:22.032+02:00
-published: 2026-08-31T11:40:22.032+02:00
+modified: 2026-09-03T12:38:37.366+02:00
+published: 2026-09-03T12:38:37.366+02:00
 tags:
   - "#Background"
   - "#5e"
@@ -11,28 +11,32 @@ dateitags:
   - "#Background"
   - "#5e"
 status: ✅
-primeability:
+ability:
   - CHA
 proficiencies:
+  - Acrobatics
   - Performance
-  - Skill - Spielerwahl
   - Gaming Set
-  - Tool - Spielerwahl
+  - Musical Instrument
 ---
+
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 05. Background/5e - 05. Background|5e - 05. Background]].
 
 # ⛏️5e - Entertainer⛏️
 
-You’re a performer who knows how to dazzle a crowd, an artist but also a professional — you never forget to pass the hat after a show.
+You spent much of your youth following roving fairs and carnivals, performing odd jobs for musicians and acrobats in exchange for lessons. You may have learned how to walk a tightrope, how to play a lute in a distinct style, or how to recite poetry with impeccable diction. To this day, you thrive on applause and long for the stage.
 
-In any settlement in which you haven’t made yourself unpopular, your performances can earn enough money to support yourself and your companions: the bigger the settlement, the higher your standard of living, up to a moderate lifestyle in a city.
+**<u>Ability Score Increases:</u>** `+1` to <u>Charisma</u> and one other ability score (both to a maximum of `+4`).
 
-**Ability Score Increases:** +1 to Charisma and one other ability score (both to a maximum of +4).
-**Skill Proficiencies:** <u>Performance</u>, and either <u>Acrobatics</u>, <u>Culture</u>, or <u>Persuasion</u>.
-**Tool Proficiencies:** <u>Gaming set</u>, one [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Musical Instruments/5e - Musical Instruments|🛠️Musical Instrument]].
-**Equipment:** Lute or other musical instrument, costume, 3 silver
-**<u>Feat:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats garantiert/5e - Musician|🥇Musician]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Z_Feats überdenken/5e - Travelling Performer|🥇Travelling Performer]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Z_Feats überdenken/5e - Well-Versed|🥇Well-Versed]] or a **Special** Origin Feat.
+**<u>Feat:</u>** <u>Choose one:</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats Generic/5e - Lucky|🥇Lucky]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats Generic/5e - Magic Initiate|🥇Magic Initiate]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats Generic/5e - Musician|🥇Musician]], or a **special** [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats|🥇Origin Feat]].
 
-**Connection and Memento:** Roll <u>1d10</u>, choose, or make up your own.
+**<u>Skill Proficiency:</u>** You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Proficiency|🎲Proficiency]] in [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - DEX Skills/5e - Acrobatics|💃Acrobatics]] and [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - CHA Skills/5e - Performance|💃Performance]], or one level of [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Expertise|🎲Expertise]] if you are already _proficient_.
+
+**<u>Tool Proficiencies</u>:** You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Proficiency|🎲Proficiency]] with one [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Musical Instruments/5e - Musical Instruments|🛠️Musical Instrument]] and one [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Gaming Sets/5e - Gaming Sets|🛠️Gaming Set]] of your choice, or one level of [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Expertise|🎲Expertise]], if you are already _proficient_.
+
+**<u>Equipment:</u>** A [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Musical Instruments/5e - Musical Instruments|🛠️Musical Instrument]] (the one you chose as your proficiency above), 2 [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Clothing/5e - Costume|👔Costumes]], a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Adventuring Gear/5e - Mirror|🪓Mirror]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Adventuring Gear/5e - Perfume|🪓Perfume]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Clothing/5e - Travelling Clothes|👔Travelling Clothes]], `3d4` Silver Pieces.
+
+**<u>Connection and Memento:</u>** Roll <u>1d10</u>, choose, or make up your own.
 
 ##### Entertainer Connections
 

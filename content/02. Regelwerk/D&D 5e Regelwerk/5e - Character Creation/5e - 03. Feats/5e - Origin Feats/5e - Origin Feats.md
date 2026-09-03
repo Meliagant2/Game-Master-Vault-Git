@@ -3,8 +3,8 @@ publish: true
 title: 🥇5e - Origin Feats
 description: Available to Characters through their Background.
 created: 2026-08-04T10:02:13.169+02:00
-modified: 2026-08-26T09:28:24.865+02:00
-published: 2026-08-26T09:28:24.865+02:00
+modified: 2026-09-03T11:17:44.052+02:00
+published: 2026-09-03T11:17:44.052+02:00
 tags:
   - "#Charaktererstellung"
   - "#5e"
@@ -26,7 +26,7 @@ Origin Feats also belong to either the "General" or the "Skill" category of Feat
 
 **Marks:** Spellmarks are mysterious and magical symbols that appear on the skin of some people across the world. Most spellmarks are small—no more than the size of the bearer's palm—and grant limited magical power. And even these minor marks are rather rare. But rarer and more powerful marks appear on some individuals. Greater spellmarks manifest only on people who already possess an ordinary mark. When a greater spellmark manifests, it grows from an ordinary mark and expands outward to two or three times the original mark's size.
 
-**Touched:** Some feats are called "touched" (e.g. [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Fey Touched|🥇Fey Touched]]). Characters who start out with a feat like that have to think about, how they came into contact with the given source. Did they live in the realm of the Fey? Were they bitten by a Vampire, but not completely turned? Is there some sort of connection to the cosmic power of fate?
+**Touched:** Some feats are called "touched" (e.g. [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats Touched/5e - Fey Touched|🥇Fey Touched]]). Characters who start out with a feat like that have to think about, how they came into contact with the given source. Did they live in the realm of the Fey? Were they bitten by a Vampire, but not completely turned? Is there some sort of connection to the cosmic power of fate?
 
 You gain one Origin Feat during character creation. You can later forgo to take a [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - General Feats/5e - General Feats|🥇General Feat]] to take another Origin Feat of your choice.
 

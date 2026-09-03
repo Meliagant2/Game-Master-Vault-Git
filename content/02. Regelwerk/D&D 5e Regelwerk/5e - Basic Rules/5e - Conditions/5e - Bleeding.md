@@ -2,8 +2,8 @@
 publish: true
 title: ☠️5e - Bleeding
 created: 2026-07-27T14:01:51.898+02:00
-modified: 2026-09-02T14:00:56.640+02:00
-published: 2026-09-02T14:00:56.640+02:00
+modified: 2026-09-03T09:17:05.264+02:00
+published: 2026-09-03T09:17:05.264+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -17,7 +17,7 @@ status: ✅
 
 You take `1d6` <u>True</u> damage at the start of each of your turns.
 
-Bleeding can be stacked. A creature can be under the effect of up to `3` stacks of bleeding.
+**Bleeding** can be stacked. A creature can be under the effect of up to `3` stacks of bleeding.
 
 ###### Ending Bleeding
 

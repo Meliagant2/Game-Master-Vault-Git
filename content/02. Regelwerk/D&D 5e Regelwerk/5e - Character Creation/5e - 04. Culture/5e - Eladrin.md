@@ -1,39 +1,26 @@
 ---
 publish: true
-title: 🎎5e - Eladrin🎎
+title: 🎎5e - Eladrin
 created: 2026-07-20T18:00:21.058+02:00
-modified: 2026-08-27T09:18:25.579+02:00
-published: 2026-08-27T09:18:25.579+02:00
+modified: 2026-09-03T16:25:42.257+02:00
+published: 2026-09-03T16:25:42.257+02:00
 tags:
   - "#Culture"
   - "#5e"
-socialImage: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
 dateitags:
   - "#Culture"
   - "#5e"
-image: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
 status: ✅
-sprachen:
-  - Gemeinsprache
-  - Waldelfisch
-  - Sylvan
 proficiencies:
-  - Skill - Spielerwahl
-weaponproficiencies:
-  - Longswords
-  - Rapiers
-combatknown:
-  - "[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Abjuration/5e - Level 0 Abjuration/5e - Resistance (Spell)]]"
-  - "[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Illusion/5e - Level 0 Illusion/5e - Minor Illusion (Spell)]]"
-  - "[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Transmutation/5e - Level 0 Transmutation/5e - Mending (Spell)]]"
-  - "[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Necromancy/5e - Level 0 Necromancy/5e - Chill Touch (Spell)]]"
-  - "[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Transmutation/5e - Level 0 Transmutation/5e - Druidcraft (Spell)]]"
-  - "[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Evocation/5e - Level 0 Evocation/5e - Dancing Lights (Spell)]]"
-  - "[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Evocation/5e - Level 0 Evocation/5e - Shocking Grasp (Spell)]]"
-  - "[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Conjuration/5e - Level 0 Conjuration/5e - Produce Flame (Spell)]]"
-  - "[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Conjuration/5e - Level 0 Conjuration/5e - Pestilence (Spell)]]"
-  - "[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Evocation/5e - Level 0 Evocation/5e - Ray of Frost (Spell)]]"
+  - Deception
+  - Swords
+languages:
+  - Common
+  - Elvish (Wood)
+  - Sylvan
 ---
+
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 04. Culture/5e - 04. Culture|5e - 04. Culture]].
 
 # 🎎5e - Eladrin🎎
 
@@ -47,22 +34,38 @@ Eladrin have a reputation for being arrogant and capricious. Part of that is tru
 
 Characters raised in the eladrin culture share a variety of traits in common with one another:
 
-**Languages:** You can speak, read, write, and sign in <u>Common</u>, <u>Wood-Elvish</u>, and <u>Sylvan</u>.
-**Skill Proficiencies:** You are proficient in one of the following skills: <u>Arcana</u>, <u>Culture</u>, <u>Deception</u>, <u>History</u>, <u>Insight</u>, <u>Persuasion</u>, <u>Survival</u>.
-**Eladrin Weapon Training:** You have proficiency with <u>longswords</u> and <u>rapiers</u>.
-**Fey Sublimation:** Your time in the Faerie Realm has suffused your being with its very energy. In addition to being humanoid, you also have the <u>fey creature type</u>.
-**Invocation of the Eladrin Lords:** Hierarchies among the fey often deploy pact magic and a ripple of that power is available to all eladrin subjects. You know one **cantrip** from **Table: Eladrin Invocations**, based on the aspect of nature you wish to manifest or that of your liege. Your spellcasting ability for this cantrip is INT, WIS, or CHA (whichever is highest). Your selected aspect also imparts minor changes of your choice to your appearance, such as to your eye and hair color, skin tone, or even the color of your clothing. At the end of a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Long Rest|😴Long Rest]], you can change your selected aspect.
-**Twilight Step:** You have learned how to skip out of the Material Plane, fly through the Plane of Faerie, and land back in your native realm. You can forego your movement on your turn to teleport <u>30 feet</u> to an unoccupied space you can see. Once you have used this trait, you cannot do so again until you finish a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Short Rest|😴Short]] or **long rest**.
+**<u>Skill Proficiencies:</u>** You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Proficiency|🎲Proficiency]] in [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - CHA Skills/5e - Deception|💃Deception]], or one level of [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Expertise|🎲Expertise]] if you are already _proficient_.
+
+**<u>Eladrin Weapon Training:</u>** You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Proficiency|🎲Proficiency]] with [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Swords/5e - Swords|🗡️Swords]].
+
+**<u>Languages:</u>** You have <u>three</u> **mastery levels** in [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Common|🗣️Common]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Elvish (Wood)|🗣️Elvish (Wood)]] and [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Sylvan|🗣️Sylvan]]
+
+**<u>Fey Sublimation:</u>** In addition to being _Humanoid_, you also have the _Fey_ creature type.
+
+**<u>Twilight Step:</u>** You can forego your movement on your turn to teleport <u>30 feet</u> to an unoccupied space you can see.
+
+_**<u>Number of Uses:</u>**_ <u>Once</u> you've used this benefit, you can't use it again until you finish a **Short** or **Long Rest**.
+
+**<u>Invocation of the Eladrin Lords:</u>** Hierarchies among the fey often deploy pact magic and a ripple of that power is available to all eladrin subjects. You know one **cantrip** from **Table: Eladrin Invocations**, based on the aspect of nature you wish to manifest or that of your liege. Your spellcasting ability for this cantrip is <u>INT</u>, <u>WIS</u>, or <u>CHA</u> (whichever is highest). Your selected aspect also imparts minor changes of your choice to your appearance, such as to your eye and hair color, skin tone, or even the color of your clothing. At the end of a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Long Rest|😴Long Rest]], you can change your selected aspect.
 
 ##### Eladrin Invocations
 
 **Autumn:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Abjuration/5e - Level 0 Abjuration/5e - Resistance (Spell)|☄️Resistance]]
+
 **Hiding:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Illusion/5e - Level 0 Illusion/5e - Minor Illusion (Spell)|☄️Minor Illusion]]
+
 **Respite:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Transmutation/5e - Level 0 Transmutation/5e - Mending (Spell)|☄️Mending]]
+
 **Rot:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Necromancy/5e - Level 0 Necromancy/5e - Chill Touch (Spell)|☄️Chill Touch]]
+
 **Spring:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Transmutation/5e - Level 0 Transmutation/5e - Druidcraft (Spell)|☄️Druidcraft]]
+
 **Stars:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Evocation/5e - Level 0 Evocation/5e - Dancing Lights (Spell)|☄️Dancing Lights]]
+
 **Storm:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Evocation/5e - Level 0 Evocation/5e - Shocking Grasp (Spell)|☄️Shocking Grasp]]
+
 **Summer:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Conjuration/5e - Level 0 Conjuration/5e - Produce Flame (Spell)|☄️Produce Flame]]
+
 **Toxicity:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Conjuration/5e - Level 0 Conjuration/5e - Pestilence (Spell)|☄️Pestilence]]
+
 **Winter:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Evocation/5e - Level 0 Evocation/5e - Ray of Frost (Spell)|☄️Ray of Frost]]

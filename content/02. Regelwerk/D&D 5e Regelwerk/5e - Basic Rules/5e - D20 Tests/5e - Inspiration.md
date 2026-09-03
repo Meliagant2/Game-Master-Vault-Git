@@ -46,7 +46,8 @@ You either have inspiration or you don’t; if you already have inspiration and 
 > | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - General Feats/5e - Level 6 General Feats/5e - Battlefield Comrade.md|🥇5e - Battlefield Comrade]] |
 > | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Level 6 Skill Feats/5e - Destinys Call.md|🥇5e - Destinys Call]]                 |
 > | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats; Bard/5e - Inspiring Inspiration.md|🥇5e - Inspiring Inspiration]]   |
-> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats garantiert/5e - Musician.md|🥇5e - Musician]]                      |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats Generic/5e - Musician.md|🥇5e - Musician]]                         |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - General Feats/5e - Level 8 General Feats/5e - Pack Fighting.md|🥇5e - Pack Fighting]]             |
 > | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats; Marshal/5e - Squire.md|🥇5e - Squire]]                              |
 > | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Level 2 Skill Feats/5e - Tireless Reveler.md|🥇5e - Tireless Reveler]]           |
 > | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/Legacy 5e Classes/(Legacy) 5e - Fighter/(Legacy) 5e - Cavalier.md|🦸‍♀️(Legacy) 5e - Cavalier🦸‍♀️]] |

@@ -1,26 +1,25 @@
 ---
 publish: true
-title: 🎎5e - Villager🎎
+title: 🎎5e - Villager
 created: 2026-07-20T18:00:21.058+02:00
-modified: 2026-07-29T08:11:24.010+02:00
-published: 2026-07-29T08:11:24.010+02:00
+modified: 2026-09-03T16:13:33.491+02:00
+published: 2026-09-03T16:13:33.491+02:00
 tags:
   - "#Culture"
   - "#5e"
-socialImage: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
 dateitags:
   - "#Culture"
   - "#5e"
-image: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
 status: ✅
-sprachen:
-  - Gemeinsprache
-  - Spielerwahl
 proficiencies:
-  - Animal Handling
-weaponproficiencies:
-  - Improvised Weapons
+  - Nature
+  - Land Vehicles
+languages:
+  - Common
+  - One Additional
 ---
+
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 04. Culture/5e - 04. Culture|5e - 04. Culture]].
 
 # 🎎5e - Villager🎎
 
@@ -30,8 +29,12 @@ More so than larger towns and cities, a village is a community. With rarely more
 
 Characters raised in the village culture share a variety of traits in common with one another:
 
-**Languages:** You can speak, read, write, and sign <u>Common</u> and <u>one other</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Language]].
-**Skill Proficiencies:** You gain proficiency in <u>Animal Handling</u>.
-**Sharpened Tools:** When danger approaches the village and there are no adventurers around, it’s often left to the villagers to defend themselves with whatever they have on hand. You are proficient with <u>improvised weapons</u>.
-**Tall Tales:** Life along the crossroads rarely offers an opportunity for proper schooling, but the roads carry with them legends and stories from far and wide. You may always choose to use Wisdom when making <u>History</u>, <u>Nature</u>, or <u>Religion</u> checks. However, the Game Master may decide that the results of a check made in this way are distorted or exaggerated forms of the truth.
-**Village Watch:** You gain an <u>expertise die</u> on <u>Perception</u> checks made while keeping watch during a rest.
+**<u>Skill Proficiency:</u>** You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Proficiency|🎲Proficiency]] in [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - Knowledge Skills/5e - Nature|💃Nature]], or one level of [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Expertise|🎲Expertise]] if you are already _proficient_.
+
+**<u>Tool Proficiencies:</u>** You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Proficiency|🎲Proficiency]] with [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Vehicles/5e - Land Vehicles/5e - Land Vehicles|🚘Land Vehicles]], or one level of [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Expertise|🎲Expertise]], if you are already _proficient_.
+
+**<u>Languages:</u>** You have <u>three</u> **mastery levels** in [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Common|🗣️Common]] and you gain a **mastery level** in <u>one</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Language]] of your choice.
+
+**<u>Roughing it:</u>** <u>Once per Long Rest</u>, you can ignore one of the interruptions, that would interrupt your [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Long Rest|😴Long Rest]].
+
+**<u>Sharpened Tools:</u>** You are proficient with [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Improvised Weapons/5e - Improvised Weapons|🗡️Improvised Weapons]].

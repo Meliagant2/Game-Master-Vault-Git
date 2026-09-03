@@ -1,25 +1,24 @@
 ---
 publish: true
-title: 🎎5e - Lone Wanderer🎎
+title: 🎎5e - Lone Wanderer
 created: 2026-07-20T18:00:21.058+02:00
-modified: 2026-08-11T12:20:47.091+02:00
-published: 2026-08-11T12:20:47.091+02:00
+modified: 2026-09-03T16:08:10.637+02:00
+published: 2026-09-03T16:08:10.637+02:00
 tags:
   - "#Culture"
   - "#5e"
-socialImage: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
 dateitags:
   - "#Culture"
   - "#5e"
-image: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
 status: ✅
-sprachen:
-  - Gemeinsprache
-  - Spielerwahl
 proficiencies:
-  - Skill - Spielerwahl
-  - Tool - Spielerwahl
+  - Four of Choice
+languages:
+  - Common
+  - Two Additional
 ---
+
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 04. Culture/5e - 04. Culture|5e - 04. Culture]].
 
 # 🎎5e - Lone Wanderer🎎
 
@@ -31,6 +30,8 @@ Choosing this culture does not mean you forego having any personal connections, 
 
 Characters raised as lone wanderers share a variety of traits in common with one another:
 
-**<u>Languages:</u>** You can speak, read, write, and sign in <u>Common</u> and <u>two additional</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Languages]].
 **<u>Culture of My Own:</u>** You have rejected other cultures in favor of building your own. You gain <u>four</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - Skills|💃Skill]] or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Tools|🛠️Tool]] proficiencies of your choice.
-**<u>Heirloom:</u>** You carry a family or cultural heirloom. Choose one weapon. You begin play with a masterwork version of that weapon.
+
+**<u>Languages:</u>** You have <u>three</u> **mastery levels** in [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Common|🗣️Common]] and you either gain <u>one</u> **mastery level** in <u>two</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Languages]] of your choice, or <u>two</u> **mastery levels** in <u>one</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Language]] of your choice.
+
+**<u>Heirloom:</u>** You carry a family or cultural heirloom. Choose one [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|🗡️Weapon]]. You begin play with a masterwork version of that weapon.

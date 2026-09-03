@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Necrotizer
 created: 2026-08-26T13:55:51.237+02:00
-modified: 2026-09-02T15:14:24.086+02:00
-published: 2026-09-02T15:14:24.086+02:00
+modified: 2026-09-03T08:52:19.523+02:00
+published: 2026-09-03T08:52:19.523+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -17,7 +17,7 @@ source: Self
 prerequisite: INT +1, WIS +1, or CHA +1
 ability:
   - Necrotic
-  - Healing
+  - Temp HP
   - Terrified
 ---
 
@@ -35,7 +35,7 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Fea
 
 You gain the following benefits:
 
-**<u>Grim Harvest:</u>** <u>Once per turn</u> when you deal <u>Necrotic</u> damage to a creature, you can regain [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|💖Hit Points]] equal to `2 x your PB`.
+**<u>Grim Harvest:</u>** <u>Once per turn</u> when you deal <u>Necrotic</u> damage to a creature, you can gain a number of [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Temporary Hit Points|💖Temporary Hit Points]] equal to `your PB`.
 
 **<u>Enhanced Critical:</u>** When you score a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Checks & Saves Outcomes/5e - Critical Success|🎲Critical Hit]] that deals <u>Necrotic</u> damage to a creature, it is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Terrified|☠️Terrified]] until <u>the start of your next turn</u>.
 

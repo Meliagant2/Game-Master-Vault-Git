@@ -1,9 +1,9 @@
 ---
 publish: true
-title: ⛏️5e - Soldier⛏️
+title: ⛏️5e - Soldier
 created: 2026-07-21T13:46:29.234+02:00
-modified: 2026-08-26T09:42:06.785+02:00
-published: 2026-08-26T09:42:06.785+02:00
+modified: 2026-09-03T14:45:10.206+02:00
+published: 2026-09-03T14:45:10.206+02:00
 tags:
   - "#Background"
   - "#5e"
@@ -11,30 +11,34 @@ dateitags:
   - "#Background"
   - "#5e"
 status: ✅
-primeability:
+ability:
   - STR
-sprachen:
-  - Spielerwahl
 proficiencies:
   - Athletics
-  - Skill - Spielerwahl
+  - Intimidation
   - Gaming Set
+  - Language
 ---
+
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 05. Background/5e - 05. Background|5e - 05. Background]].
 
 # ⛏️5e - Soldier⛏️
 
-You’re a hard-bitten veteran accustomed to long marches, short supplies, and the sight of blood. A career as an adventurer seems like the logical next step.
+You began training for war as soon as you reached adulthood and carry precious few memories of life before you took up arms. Battle is in your blood. Sometimes you catch yourself reflexively performing the basic fighting exercises you learned first. Eventually, you put that training to use on the battlefield, protecting the realm by waging war.
 
-Soldiers recognize their own. Off duty soldiers are usually willing to trade tales and gossip with you. On duty soldiers, while not obeying your orders, are likely to answer your questions and treat you respectfully on the off chance that you’re an unfamiliar officer who can get them in trouble.
+**<u>Ability Score Increases:</u>** `+1` to <u>Strength</u> and one other ability score (both to a maximum of `+4`).
 
-**Ability Score Increases:** +1 to Strength and one other ability score (both to a maximum of +4).
-**Skill Proficiencies:** <u>Athletics</u>, and either <u>Animal Handling</u> or <u>Intimidation</u>.
-**Tool Proficiencies:** <u>Gaming Set</u>.
-**Languages:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️One of your Choice]].
-**Equipment:** Uniform, common clothes, 7 days rations, 3 silver
-**Feat:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats garantiert/5e - Alert|🥇Alert]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats garantiert/5e - Savage Attacker|🥇Savage Attacker]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats garantiert/5e - Tough|🥇Tough]] or a **Special** Origin Feat.
+**<u>Feat:</u>** <u>Choose one:</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats Generic/5e - Brawler|🥇Brawler]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats Generic/5e - Savage Attacker|🥇Savage Attacker]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats Generic/5e - Tough|🥇Tough]], or a **special** [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats|🥇Origin Feat]].
 
-**Connection and Memento:** Roll <u>1d10</u>, choose, or make up your own.
+**<u>Skill Proficiencies:</u>** You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Proficiency|🎲Proficiency]] in [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - STR Skills/5e - Athletics|💃Athletics]] and [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - STR Skills/5e - Intimidation|💃Intimidation]], or one level of [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Expertise|🎲Expertise]] if you are already _proficient_.
+
+**<u>Tool Proficiencies</u>:** You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Proficiency|🎲Proficiency]] with one [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Gaming Sets/5e - Gaming Sets|🛠️Gaming Set]] of your choice, or one level of [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Expertise|🎲Expertise]], if you are already _proficient_.
+
+**<u>Languages:</u>** You gain a **mastery level** in <u>one</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Language]] of your choice.
+
+**<u>Equipment:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Polearms/5e - Spear|5e - Spear]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Bows/5e - Shortbow|5e - Shortbow]], a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Gaming Sets/5e - Gaming Sets|🛠️Gaming Set]] (the one you chose as your proficiency above), [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Adventuring Gear/5e - Healers Kit|🪓Healers Kit]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Adventuring Gear/5e - Quiver|🪓Quiver]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Clothing/5e - Travelling Clothes|👔Travelling Clothes]], `3d4` Silver Pieces.
+
+**<u>Connection and Memento:</u>** Roll <u>1d10</u>, choose, or make up your own.
 
 ##### Soldier Connections
 

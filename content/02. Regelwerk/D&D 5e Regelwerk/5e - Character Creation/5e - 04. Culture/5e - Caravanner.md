@@ -1,26 +1,25 @@
 ---
 publish: true
-title: 🎎5e - Caravanner🎎
+title: 🎎5e - Caravanner
 created: 2026-07-20T17:36:20.031+02:00
-modified: 2026-08-12T07:44:29.026+02:00
-published: 2026-08-12T07:44:29.026+02:00
+modified: 2026-09-03T16:12:40.143+02:00
+published: 2026-09-03T16:12:40.143+02:00
 tags:
   - "#Culture"
   - "#5e"
-socialImage: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
 dateitags:
   - "#Culture"
   - "#5e"
-image: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
 status: ✅
-sprachen:
-  - Gemeinsprache
-  - Spielerwahl
+languages:
+  - Common
+  - One Additional
 proficiencies:
-  - Animal Handling
   - Survival
   - Land Vehicles
 ---
+
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 04. Culture/5e - 04. Culture|5e - 04. Culture]].
 
 # 🎎5e - Caravanner🎎
 
@@ -30,8 +29,12 @@ With no land to call their own the caravans make the roads their home. Wagons an
 
 Characters raised in the caravanner culture share a variety of traits in common with one another:
 
-**Languages:** You can speak, read, write, and sign <u>Common</u> and <u>one other</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Language]].
-**Skill and Tool Proficiencies:** You are proficient in <u>Animal Handling</u>, <u>Survival</u> and with <u>Land Vehicles</u>.
-**Long Hauler:** Sometimes riding in a caravan means enduring long hours and harsh weather. You have **ADV** on checks made to avoid [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Fatigue|☠️Fatigue]] from a forced march.
-**Mobile Living:** You can create a ramshackle version of a cart or wagon with 30 minutes of work if you have access to raw or reclaimed materials. Ramshackle vehicles created in this way function identically to their normal counterparts, except their value is always 0, they have half as many hit points as their normal counterparts, and they break and become useless if they are hit by any attack roll with a result of Natural 20.
-**Trampling Charge:** Caravanners have learned to bowl down obstacles in their way. When you or a mount you’re riding uses the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Dash|⚔️Dash]]-Action or a vehicle you’re driving uses the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Ahead Full|⚔️Ahead Full]]-Action, you can move through spaces occupied by Creatures with a size category smaller than you, or your mount, or the vehicle. Creatures moved through in this way make a **DEX Save** (DC= Your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Rules/5e - Maneuver Save DC|🤺Maneuver Save DC]]). _**Failure:**_ The Creatures are knocked [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]] and take an amount of bludgeoning damage equal to your level. Creatures cannot be damaged twice from the same trampling charge. Once you use this trait, you cannot do so again until you finish a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Short Rest|😴Short]] or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Long Rest|😴Long Rest]].
+**<u>Skill Proficiency:</u>** You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Proficiency|🎲Proficiency]] in [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - WIS Skills/5e - Survival|💃Survival]], or one level of [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Expertise|🎲Expertise]] if you are already _proficient_.
+
+**<u>Tool Proficiencies:</u>** You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Proficiency|🎲Proficiency]] with [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Vehicles/5e - Land Vehicles/5e - Land Vehicles|🚘Land Vehicles]], or one level of [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Expertise|🎲Expertise]], if you are already _proficient_.
+
+**<u>Languages:</u>** You have <u>three</u> **mastery levels** in [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Common|🗣️Common]] and you gain a **mastery level** in <u>one</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Language]] of your choice.
+
+**<u>Long Hauler:</u>** Sometimes riding in a caravan means enduring long hours and harsh weather. You have **ADV** on [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - D20 Tests|🎲D20 Tests]] made to avoid [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Fatigue|☠️Fatigue]].
+
+**<u>Mobile Living:</u>** You can create a ramshackle version of a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Vehicles/5e - Land Vehicles/5e - Cart|🚘Cart]] or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Vehicles/5e - Land Vehicles/5e - Wagon|🚘Wagon]] with <u>30 minutes</u> of work if you have access to raw or reclaimed materials. Ramshackle vehicles created in this way function identically to their normal counterparts, except their value is always 0, they have half as many [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|💖Hit Points]] as their normal counterparts, and they break and become useless if they are hit by any attack roll with a result of `Natural 20`.

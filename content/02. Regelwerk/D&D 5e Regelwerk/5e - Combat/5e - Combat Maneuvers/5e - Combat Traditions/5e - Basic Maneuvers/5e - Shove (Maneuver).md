@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Shove
 created: 2026-07-21T12:26:44.049+02:00
-modified: 2026-08-13T09:53:17.528+02:00
-published: 2026-08-13T09:53:17.528+02:00
+modified: 2026-09-03T11:30:21.347+02:00
+published: 2026-09-03T11:30:21.347+02:00
 tags:
   - "#Maneuver"
   - "#5e"
