@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Spellbreaker
 created: 2026-08-06T14:32:21.089+02:00
-modified: 2026-08-31T13:11:11.267+02:00
-published: 2026-08-31T13:11:11.267+02:00
+modified: 2026-09-04T10:34:26.456+02:00
+published: 2026-09-04T10:34:26.456+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -34,7 +34,7 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Fea
 
 You gain the following benefits:
 
-**<u>Concentration Breaker:</u>** When you damage a creature that is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Concentration|🎲Concentrating]], it has **DISADV** on the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Save]] it makes to maintain[[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Concentration|🎲Concentration]].
+**<u>Concentration Breaker:</u>** When you damage a creature that is [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Concentration/5e - Concentration|🎲Concentrating]], it has **DISADV** on the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Save]] it makes to maintain[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Concentration/5e - Concentration|🎲Concentration]].
 
 **<u>Guarded:</u>** Whenever you make a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Save]] against a _spell_, you add `1d4` to the roll.
 

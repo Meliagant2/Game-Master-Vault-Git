@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Magic Initiate
 created: 2026-08-04T11:23:27.507+02:00
-modified: 2026-09-03T11:23:57.109+02:00
-published: 2026-09-03T11:23:57.109+02:00
+modified: 2026-09-04T11:00:59.505+02:00
+published: 2026-09-04T11:00:59.505+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -36,7 +36,7 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Fea
 
 You gain the following benefits:
 
-**<u>Spell List:</u>** Choose a Spell source: [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Sources/5e - Spell Source Arcane/5e - Spell Source Arcane|☄️Arcane]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Sources/5e - Spell Source Divine/5e - Spell Source Divine|☄️Divine]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Sources/5e - Spell Source Occult/5e - Spell Source Occult|☄️Occult]], or [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Sources/5e - Spell Source Primal/5e - Spell Source Primal|☄️Primal]]. <u>INT</u>, <u>WIS</u>, or <u>CHA</u> is your spellcasting ability for this feat's spells (whichever is highest).
+**<u>Spell List:</u>** Choose a Spell source: [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Sources/5e - Arcane Spell Source/5e - Arcane Spell Source|☄️Arcane]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Sources/5e - Divine Spell Source/5e - Divine Spell Source|☄️Divine]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Sources/5e - Occult Spell Source/5e - Occult Spell Source|☄️Occult]], or [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Sources/5e - Primal Spell Source/5e - Primal Spell Source|☄️Primal]]. <u>INT</u>, <u>WIS</u>, or <u>CHA</u> is your spellcasting ability for this feat's spells (whichever is highest).
 \- **<u>Cantrips.</u>** You learn <u>two</u> cantrips of your choice from the chosen Spell source.
 \- **<u>Level 1 Spell.</u>** Choose a <u>level 1 spell</u> from the chosen Spell source. You always have that spell prepared. You can cast it <u>once</u> without a spell slot, and you regain the ability to cast it in that way when you finish a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Long Rest|😴Long Rest]]. You can also cast the spell using any spell slots you have.
 

@@ -3,8 +3,8 @@ publish: true
 title: 🥇5e - Origin Feats
 description: Available to Characters through their Background.
 created: 2026-08-04T10:02:13.169+02:00
-modified: 2026-09-03T11:17:44.052+02:00
-published: 2026-09-03T11:17:44.052+02:00
+modified: 2026-09-04T09:06:49.363+02:00
+published: 2026-09-04T09:06:49.363+02:00
 tags:
   - "#Charaktererstellung"
   - "#5e"
@@ -35,7 +35,7 @@ You gain one Origin Feat during character creation. You can later forgo to take 
 ```base
 views:
   - type: table
-    name: 5e - Origin Feats
+    name: 5e - Origin Feats; All
     filters:
       and:
         - dateitags.containsAll("#5e", "#Feat")
@@ -47,6 +47,55 @@ views:
       - level
       - prerequisite
       - repeatable
+      - ability
+      - source
+    sort:
+      - property: level
+        direction: ASC
+    columnSize:
+      file.name: 243
+      note.level: 30
+      note.prerequisite: 144
+      note.repeatable: 34
+  - type: table
+    name: 5e - Origin Feats; Regular
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Feat")
+        - '!file.name.contains("Template")'
+        - category.contains("Origin")
+        - '!ability.containsAny("Dark Gift", "Spellmark", "Touched")'
+    order:
+      - file.name
+      - category
+      - level
+      - prerequisite
+      - repeatable
+      - ability
+      - source
+    sort:
+      - property: level
+        direction: ASC
+    columnSize:
+      file.name: 243
+      note.level: 30
+      note.prerequisite: 144
+      note.repeatable: 34
+  - type: table
+    name: 5e - Special Origin Feats; Dark Gifts
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Feat")
+        - '!file.name.contains("Template")'
+        - category.contains("Origin")
+        - ability.contains("Dark Gift")
+    order:
+      - file.name
+      - category
+      - level
+      - prerequisite
+      - repeatable
+      - ability
       - source
     sort:
       - property: level
@@ -59,24 +108,51 @@ views:
       note.prerequisite: 144
       note.repeatable: 34
   - type: table
-    name: 5e - Special Origin Feats
+    name: 5e - Special Origin Feats; Spellmarks
     filters:
       and:
         - dateitags.containsAll("#5e", "#Feat")
         - '!file.name.contains("Template")'
         - category.contains("Origin")
-        - prerequisite.contains("Special")
+        - ability.contains("Spellmark")
     order:
       - file.name
       - category
       - level
       - prerequisite
       - repeatable
+      - ability
       - source
     sort:
-      - property: source
+      - property: level
         direction: ASC
       - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 243
+      note.level: 30
+      note.prerequisite: 144
+      note.repeatable: 34
+  - type: table
+    name: 5e - Special Origin Feats; Touched
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Feat")
+        - '!file.name.contains("Template")'
+        - category.contains("Origin")
+        - ability.contains("Touched")
+    order:
+      - file.name
+      - category
+      - level
+      - prerequisite
+      - repeatable
+      - ability
+      - source
+    sort:
+      - property: file.name
+        direction: DESC
+      - property: level
         direction: ASC
     columnSize:
       file.name: 243

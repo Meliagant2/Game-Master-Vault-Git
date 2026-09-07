@@ -2,8 +2,8 @@
 publish: true
 title: 🎩5e - Spell Focus Mastery Properties
 created: 2026-08-27T14:13:30.584+02:00
-modified: 2026-08-31T15:12:01.466+02:00
-published: 2026-08-31T15:12:01.466+02:00
+modified: 2026-09-04T10:42:52.777+02:00
+published: 2026-09-04T10:42:52.777+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -16,7 +16,7 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 
 Each [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spellcasting Focus|🎩Spellcasting Focus]] has a **Mastery Property**, which is usable only by a character who is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Proficiency|🎲Proficient]] with that [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spellcasting Focus|🎩Spellcasting Focus]].
 
-**Spell Focus Mastery Properties** are inherently _magical effects_ and are thus repressed by effects like an [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Abjuration/5e - Level 8 Abjuration/5e - Antimagic Field (Spell)|☄️Antimagic Field]].
+**Spell Focus Mastery Properties** are inherently _magical effects_ and are thus repressed by effects like an [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - Level 8 Abjuration/5e - Antimagic Field (Spell)|☄️Antimagic Field]].
 
 ##### All Spellcasting Focus Mastery Properties
 

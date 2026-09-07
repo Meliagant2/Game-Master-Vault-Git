@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Material Components
 created: 2026-08-27T09:19:05.006+02:00
-modified: 2026-08-27T14:28:32.629+02:00
-published: 2026-08-27T14:28:32.629+02:00
+modified: 2026-09-04T10:31:39.844+02:00
+published: 2026-09-04T10:31:39.844+02:00
 tags:
   - "#Combatrules"
   - "#5e"

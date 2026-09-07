@@ -1,0 +1,63 @@
+---
+publish: true
+title: ☄️5e - Elementalism
+created: 2026-07-20T12:11:02.835+02:00
+modified: 2026-09-07T11:14:14.988+02:00
+published: 2026-09-07T11:14:14.988+02:00
+tags:
+  - "#Spell"
+  - "#5e"
+dateitags:
+  - "#Spell"
+  - "#5e"
+status: ✅
+reactionbedingung: " "
+school: Transmutation
+level: 0
+time: A
+range-Area: 30 ft.
+komponenten: V, S
+dauer: Instantaneous
+c: " "
+effect:
+  - Control
+zauberliste:
+  - Arcane
+  - Primal
+  - Sorcerer
+source: Player's Handbook 2024
+---
+
+Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Transmutation/5e - School of Transmutation|5e - School of Transmutation]].
+
+# ☄️5e - Elementalism☄️
+
+> [!wikibox]
+> |||
+> |:-|:-|
+> |**School:**|Transmutation |
+> |**Level:**|0 |
+> |**Casting Time:**|A  |
+> |**Range/Area:**|30 ft. |
+> |**Components:**|V, S |
+> |**Duration:**|Instantaneous |
+> |**Concentration:**|  |
+> |**Attack/Save:**||
+> |**Spell List:**|Arcane,Primal,Sorcerer |
+
+You exert control over the elements, creating one of the following effects within range.
+
+**<u>Beckon Air.</u>** You create a breeze strong enough to ripple cloth, stir dust, rustle leaves, and close open doors and shutters, all in a <u>5-foot Cube</u>. Doors and shutters being held open by someone or something aren't affected.
+
+**<u>Beckon Earth.</u>** You create a thin shroud of dust or sand that covers surfaces in a <u>5-foot-square</u> area, or you cause a single word to appear in your handwriting in a patch of dirt or sand.
+
+**<u>Beckon Fire.</u>** You create a thin cloud of harmless embers and colored, scented smoke in a <u>5-foot Cube</u>. You choose the color and scent, and the embers can light candles, torches, or lamps in that area. The smoke's scent lingers for <u>1 minute</u>.
+
+**<u>Beckon Water.</u>** You create a spray of cool mist that lightly dampens creatures and objects in a <u>5-foot Cube</u>, or you freeze water in that area for <u>1 minute</u>, provided that there are no creatures in it. Alternatively, you create 1 cup of clean water either in an open container or on a surface, and the water evaporates in <u>1 minute</u>.
+
+**<u>Sculpt Element.</u>** You cause dirt, sand, fire, smoke, mist, or water that can fit in a <u>1-foot Cube</u> to assume a crude shape (such as that of a creature) for <u>1 hour</u>.
+
+## Quelle
+
+> [!inspiration] Quelle/Inspiration
+> Player's Handbook 2024

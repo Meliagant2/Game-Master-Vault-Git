@@ -2,8 +2,8 @@
 publish: true
 title: 🎎5e - Eladrin
 created: 2026-07-20T18:00:21.058+02:00
-modified: 2026-09-03T16:25:42.257+02:00
-published: 2026-09-03T16:25:42.257+02:00
+modified: 2026-09-04T16:12:43.935+02:00
+published: 2026-09-04T16:12:43.935+02:00
 tags:
   - "#Culture"
   - "#5e"
@@ -50,22 +50,22 @@ _**<u>Number of Uses:</u>**_ <u>Once</u> you've used this benefit, you can't use
 
 ##### Eladrin Invocations
 
-**Autumn:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Abjuration/5e - Level 0 Abjuration/5e - Resistance (Spell)|☄️Resistance]]
+**Autumn:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - Level 0 Abjuration/5e - Resistance (Spell)|☄️Resistance]]
 
-**Hiding:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Illusion/5e - Level 0 Illusion/5e - Minor Illusion (Spell)|☄️Minor Illusion]]
+**Hiding:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Illusion/5e - Level 0 Illusion/5e - Minor Illusion (Spell)|☄️Minor Illusion]]
 
-**Respite:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Transmutation/5e - Level 0 Transmutation/5e - Mending (Spell)|☄️Mending]]
+**Respite:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Transmutation/5e - Level 0 Transmutation/5e - Mending (Spell)|☄️Mending]]
 
-**Rot:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Necromancy/5e - Level 0 Necromancy/5e - Chill Touch (Spell)|☄️Chill Touch]]
+**Rot:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Necromancy/5e - Level 0 Necromancy/5e - Chill Touch (Spell)|☄️Chill Touch]]
 
-**Spring:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Transmutation/5e - Level 0 Transmutation/5e - Druidcraft (Spell)|☄️Druidcraft]]
+**Spring:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Transmutation/5e - Level 0 Transmutation/5e - Druidcraft (Spell)|☄️Druidcraft]]
 
-**Stars:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Evocation/5e - Level 0 Evocation/5e - Dancing Lights (Spell)|☄️Dancing Lights]]
+**Stars:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Evocation/5e - Level 0 Evocation/5e - Dancing Lights (Spell)|☄️Dancing Lights]]
 
-**Storm:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Evocation/5e - Level 0 Evocation/5e - Shocking Grasp (Spell)|☄️Shocking Grasp]]
+**Storm:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Evocation/5e - Level 0 Evocation/5e - Shocking Grasp (Spell)|☄️Shocking Grasp]]
 
-**Summer:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Conjuration/5e - Level 0 Conjuration/5e - Produce Flame (Spell)|☄️Produce Flame]]
+**Summer:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Conjuration/5e - Level 0 Conjuration/5e - Produce Flame (Spell)|☄️Produce Flame]]
 
-**Toxicity:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Conjuration/5e - Level 0 Conjuration/5e - Pestilence (Spell)|☄️Pestilence]]
+**Toxicity:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Conjuration/5e - Level 0 Conjuration/5e - Pestilence (Spell)|☄️Pestilence]]
 
-**Winter:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Evocation/5e - Level 0 Evocation/5e - Ray of Frost (Spell)|☄️Ray of Frost]]
+**Winter:** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Evocation/5e - Level 0 Evocation/5e - Ray of Frost (Spell)|☄️Ray of Frost]]

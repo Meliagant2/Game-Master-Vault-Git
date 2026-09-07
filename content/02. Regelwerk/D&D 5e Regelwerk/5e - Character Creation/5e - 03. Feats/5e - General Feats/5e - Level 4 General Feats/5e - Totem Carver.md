@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Totem Carver
 created: 2026-09-02T10:27:04.603+02:00
-modified: 2026-09-02T10:40:18.514+02:00
-published: 2026-09-02T10:40:18.514+02:00
+modified: 2026-09-04T14:31:41.391+02:00
+published: 2026-09-04T14:31:41.391+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -39,7 +39,7 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Fea
 
 You gain the following benefits:
 
-**<u>Nature's Cantrip:</u>** You learn the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Transmutation/5e - Level 0 Transmutation/5e - Druidcraft (Spell)|☄️Druidcraft]] cantrip.
+**<u>Nature's Cantrip:</u>** You learn the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Transmutation/5e - Level 0 Transmutation/5e - Druidcraft (Spell)|☄️Druidcraft]] cantrip.
 
 **<u>Totem Magic:</u>** While using a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Totems/5e - Totem|🎩Totem]] as your [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spellcasting Focus|🎩Spellcasting Focus]], you can take a **Bonus Action** to create one of the following effects for <u>1 minute</u>. The effect radiates an aura in a <u>30-foot Emanation</u>, centered on your [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Totems/5e - Totem|🎩Totem]]:
 

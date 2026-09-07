@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Bard
 description: A charismatic performer who uses their music as a conduit to wield powerful magic.
 created: 2026-07-31T10:15:39.250+02:00
-modified: 2026-09-01T09:18:44.061+02:00
-published: 2026-09-01T09:18:44.061+02:00
+modified: 2026-09-04T11:35:42.275+02:00
+published: 2026-09-04T11:35:42.275+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -77,7 +77,7 @@ The greatest strength of bards is their sheer versatility. Many bards prefer to 
 **<u>Spell List:</u>** Bard Spell list, which includes the Occult Spell list.
 **<u>Spell Slots:</u>** The Spellcaster Table shows how many Spell Slots you have to cast Spells. To cast one of these Spells, you must expend a Slot of the Spell’s level or higher. You regain all expended spell slots when you finish a Long Rest.
 **<u>Cantrips:</u>** Whenever you gain a Level in this Class, you can replace one of your cantrips with another cantrip of your choice from your Spell List.
-**<u>Spells:</u>** You know a number of spells from your Spell List as shown in the Spellcaster Table. Whenever you gain a Level in this Class, you can replace one of your known spells with another spell of your choice from your Spell List for which you have Spell Slots.
+**<u>Spells:</u>** You prepare a number of spells from your Spell List as shown in your Class's the **Spellcaster Table**. Whenever you gain a Level in your Class, you can replace one of your prepared spells with another spell of your choice from your _Spell List_ for which you have _Spell Slots_.
 **<u>Spellcasting Focus Masteries:</u>** You can use the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spell Focus Mastery Properties/5e - Spell Focus Mastery Properties|🎩Spell Focus Mastery Properties]] of all [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spellcasting Focus|🎩Spellcasting Foci]] you are proficient in.
 
 #### Spellcaster Table
@@ -525,7 +525,7 @@ You gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. F
 
 ### Level 9: Magical Secrets
 
-You've learned secrets from various magical traditions. Whenever you reach a Bard level (including this level) and the Prepared Spells number in the Spellcaster table increases, you can choose any of your new prepared spells from the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Class Spell Lists/5e - Spell List Bard/5e - Spell List Bard|☄️Bard]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Sources/5e - Spell Source Arcane/5e - Spell Source Arcane|☄️Arcane]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Sources/5e - Spell Source Divine/5e - Spell Source Divine|☄️Divine]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Sources/5e - Spell Source Occult/5e - Spell Source Occult|☄️Occult]], and [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Sources/5e - Spell Source Primal/5e - Spell Source Primal|☄️Primal]] spell lists. In addition, whenever you replace a spell prepared for this class, you can replace it with a spell from those lists.
+You've learned secrets from various magical traditions. Whenever you reach a Bard level (including this level) and the Prepared Spells number in the Spellcaster table increases, you can choose any of your new prepared spells from the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Lists/5e - Spell List Bard/5e - Spell List Bard|☄️Bard]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Sources/5e - Arcane Spell Source/5e - Arcane Spell Source|☄️Arcane]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Sources/5e - Divine Spell Source/5e - Divine Spell Source|☄️Divine]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Sources/5e - Occult Spell Source/5e - Occult Spell Source|☄️Occult]], and [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Sources/5e - Primal Spell Source/5e - Primal Spell Source|☄️Primal]] spell lists. In addition, whenever you replace a spell prepared for this class, you can replace it with a spell from those lists.
 
 ### Level 10: Feats
 
@@ -559,11 +559,11 @@ You gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. F
 
 ### Level 17: Virtuoso
 
-Your capacity for drawing a crowd reaches dizzying new heights. As an **Action**, you can expend a use of **Bardic Inspiration** to start an epic performance that lasts for <u>1d4</u> rounds. During that time, you can choose up to <u>50 creatures</u> that are within <u>120 feet</u> of you. Each creature able to hear or see your Epic Performance makes a **CHA Save** against your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Save DC|☄️Spell Save DC]]. _**Failure:**_ The Creature is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]] by you for the duration plus <u>6 days</u>, or until you or your companions do anything harmful to it. A charmed creature regards you as a friendly acquaintance.
+Your capacity for drawing a crowd reaches dizzying new heights. As an **Action**, you can expend a use of **Bardic Inspiration** to start an epic performance that lasts for <u>1d4</u> rounds. During that time, you can choose up to <u>50 creatures</u> that are within <u>120 feet</u> of you. Each creature able to hear or see your Epic Performance makes a **CHA Save** against your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Effects/5e - Spell Save|☄️Spell Save DC]]. _**Failure:**_ The Creature is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]] by you for the duration plus <u>6 days</u>, or until you or your companions do anything harmful to it. A charmed creature regards you as a friendly acquaintance.
 
 The performance ends early if you are incapacitated or silenced, or if you voluntarily end it (**no action** required). At the end of the duration, you can expend an additional use of **Bardic Inspiration** to extend the duration by <u>1d4</u> rounds.
 
-When your Epic Performance lasts at least <u>1 minute</u>, at the end of the duration you can target each **charmed** creature as if using the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Enchantment/5e - Level 6 Enchantment/5e - Mass Suggestion|☄️Mass Suggestion]] spell cast at <u>9th-level</u>. Creatures do not make saving throws to resist this effect. The commands you give a charmed creature are not obvious, and other creatures must make a <u>Wisdom (Insight) check</u> opposed by your <u>Charisma (Performance) check</u> to understand that you are doing anything more than giving a performance.
+When your Epic Performance lasts at least <u>1 minute</u>, at the end of the duration you can target each **charmed** creature as if using the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Enchantment/5e - Level 6 Enchantment/5e - Mass Suggestion|☄️Mass Suggestion]] spell cast at <u>9th-level</u>. Creatures do not make saving throws to resist this effect. The commands you give a charmed creature are not obvious, and other creatures must make a <u>Wisdom (Insight) check</u> opposed by your <u>Charisma (Performance) check</u> to understand that you are doing anything more than giving a performance.
 
 You can give each creature its own set of commands, but can only give out 6 different sets of commands.
 
@@ -579,7 +579,7 @@ You gain the 19th-level Archetype Feature of the Archetype you chose at 3rd leve
 
 ### Level 20: Words of Creation
 
-You have mastered two of the Words of Creation: the words of life and death. You therefore always have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Enchantment/5e - Level 9 Enchantment/5e - Power Word Heal (Spell)|☄️Power Word Heal]] and [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Enchantment/5e - Level 9 Enchantment/5e - Power Word Kill (Spell)|☄️Power Word Kill]] spells prepared. When you cast either spell, you can target a second creature with it if that creature is within <u>10 feet</u> of the first target.
+You have mastered two of the Words of Creation: the words of life and death. You therefore always have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Enchantment/5e - Level 9 Enchantment/5e - Power Word Heal (Spell)|☄️Power Word Heal]] and [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Enchantment/5e - Level 9 Enchantment/5e - Power Word Kill (Spell)|☄️Power Word Kill]] spells prepared. When you cast either spell, you can target a second creature with it if that creature is within <u>10 feet</u> of the first target.
 
 ### Level 20: Feats
 

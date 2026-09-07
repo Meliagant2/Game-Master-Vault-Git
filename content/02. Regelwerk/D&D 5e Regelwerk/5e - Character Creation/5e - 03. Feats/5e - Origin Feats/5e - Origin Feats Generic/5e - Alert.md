@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Alert
 created: 2026-08-04T10:38:22.542+02:00
-modified: 2026-09-03T11:19:44.921+02:00
-published: 2026-09-03T11:19:44.921+02:00
+modified: 2026-09-04T08:42:13.221+02:00
+published: 2026-09-04T08:42:13.221+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -32,7 +32,7 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Fea
 
 You gain the following benefits:
 
-**<u>Initiative Proficiency:</u>** You add your <u>Proficiency Bonus</u> to your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Initiative|🎲Initiative]] rolls
+**<u>Initiative Proficiency:</u>** You add your <u>Proficiency Bonus</u> to your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Initiative|🎲Initiative]] rolls.
 
 **<u>Initiative Swap:</u>** Immediately after you roll [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Initiative|🎲Initiative]], you can swap your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Initiative|🎲Initiative]] with the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Initiative|🎲Initiative]] of one willing ally in the same combat. You can’t make this swap if you or the ally is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]].
 

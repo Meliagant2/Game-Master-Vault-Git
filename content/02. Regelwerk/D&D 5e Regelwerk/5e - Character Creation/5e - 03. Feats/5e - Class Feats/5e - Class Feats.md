@@ -3,8 +3,8 @@ publish: true
 title: 🥇5e - Class Feats
 description: Enhance the power of a single class in specific ways.
 created: 2026-08-04T09:29:15.355+02:00
-modified: 2026-08-07T11:16:20.270+02:00
-published: 2026-08-07T11:16:20.270+02:00
+modified: 2026-09-04T08:38:01.418+02:00
+published: 2026-09-04T08:38:01.418+02:00
 tags:
   - "#Charaktererstellung"
   - "#5e"
@@ -39,6 +39,7 @@ views:
       - level
       - prerequisite
       - repeatable
+      - ability
       - source
     sort:
       - property: level
@@ -64,6 +65,7 @@ views:
       - level
       - prerequisite
       - repeatable
+      - ability
       - source
     sort:
       - property: level
@@ -89,6 +91,7 @@ views:
       - level
       - prerequisite
       - repeatable
+      - ability
       - source
     sort:
       - property: level
@@ -114,6 +117,7 @@ views:
       - level
       - prerequisite
       - repeatable
+      - ability
       - source
     sort:
       - property: level
@@ -139,6 +143,7 @@ views:
       - level
       - prerequisite
       - repeatable
+      - ability
       - source
     sort:
       - property: level
@@ -164,6 +169,7 @@ views:
       - level
       - prerequisite
       - repeatable
+      - ability
       - source
     sort:
       - property: level
@@ -189,6 +195,7 @@ views:
       - level
       - prerequisite
       - repeatable
+      - ability
       - source
     sort:
       - property: level
@@ -214,6 +221,7 @@ views:
       - level
       - prerequisite
       - repeatable
+      - ability
       - source
     sort:
       - property: level
@@ -239,6 +247,7 @@ views:
       - level
       - prerequisite
       - repeatable
+      - ability
       - source
     sort:
       - property: level
@@ -264,6 +273,7 @@ views:
       - level
       - prerequisite
       - repeatable
+      - ability
       - source
     sort:
       - property: level
@@ -289,6 +299,7 @@ views:
       - level
       - prerequisite
       - repeatable
+      - ability
       - source
     sort:
       - property: level
@@ -314,6 +325,7 @@ views:
       - level
       - prerequisite
       - repeatable
+      - ability
       - source
     sort:
       - property: level
@@ -339,6 +351,7 @@ views:
       - level
       - prerequisite
       - repeatable
+      - ability
       - source
     sort:
       - property: level
@@ -364,6 +377,7 @@ views:
       - level
       - prerequisite
       - repeatable
+      - ability
       - source
     sort:
       - property: level
@@ -389,6 +403,7 @@ views:
       - level
       - prerequisite
       - repeatable
+      - ability
       - source
     sort:
       - property: level
@@ -414,6 +429,7 @@ views:
       - level
       - prerequisite
       - repeatable
+      - ability
       - source
     sort:
       - property: level
@@ -439,6 +455,7 @@ views:
       - level
       - prerequisite
       - repeatable
+      - ability
       - source
     sort:
       - property: level
@@ -464,6 +481,7 @@ views:
       - level
       - prerequisite
       - repeatable
+      - ability
       - source
     sort:
       - property: level

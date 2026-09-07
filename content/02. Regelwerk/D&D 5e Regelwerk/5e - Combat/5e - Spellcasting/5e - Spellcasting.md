@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Spellcasting
 created: 2026-07-20T12:11:02.674+02:00
-modified: 2026-08-27T09:19:24.710+02:00
-published: 2026-08-27T09:19:24.710+02:00
+modified: 2026-09-07T15:23:16.783+02:00
+published: 2026-09-07T15:23:16.783+02:00
 tags:
   - "#Combatrules"
   - "#5e"
@@ -13,158 +13,186 @@ dateitags:
   - "#5e"
 image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Spellcasting.png]]"
 status: ✅
+source: Player's Handbook 2024
 ---
+
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat|5e - Combat]].
 
 # ☄️5e - Spellcasting☄️
 
-What are Spells? Magical energy flows unseen throughout the multiverse, unimpeded by dungeon walls or planar boundaries. Spells are formulae for manipulating this impalpable force to achieve observable effects: bursts of flame, deceptive illusions, or the restoration of life and limb.
+## Gaining Spells
 
-Most spellcasters learn traditional sequences of words or gestures which channel magical energy or the power of divine beings. A few spellcasters can intuitively modify or invent simple spells. No spellcaster fully understands the workings of magic; its fundamental laws, if ever known, were long ago forgotten.
+Before you can cast a spell, you must have the spell prepared in your mind or have access to the spell from a magic item, such as a _Spell Scroll_. Your features specify which spells you have access to, if any and whether you always have certain spells prepared.
 
-## Knowing and preparing Spells
+### Preparing Spells
 
-Before it may be cast, a spell must be known (learned and conceptually understood) and prepared (memorized in detail in a ready-to-cast form). Each spellcasting class has a different approach to learning and preparing spells.
+You prepare a number of spells from your Spell List as shown in your Class's the **Spellcaster Table**. Whenever you gain a Level in your Class, you can replace one of your prepared spells with another spell of your choice from your _Spell List_ for which you have _Spell Slots_.
 
-Some character classes, such as clerics, druids, and paladins, know most spells which are available to their class, and choose a subset of those spells to prepare at any given time.
+Most spellcasting monsters don't change their lists of prepared spells, but the GM is free to alter them.
 
-Other classes, such as bards, rangers, sorcerers and warlocks, choose a small set of spells which they know, each of which is always prepared. They can only know a fixed number of spells at any level.
+### Always-Prepared Spells
 
-Wizards maintain a large and ever-growing collection of known spells, of which they have a certain number prepared at any time. Wizards can learn any number of new spells without giving up old ones; the only limit is the scarcity of magical scrolls and spellbooks to copy.
+Certain features might give you a _spell_ that you always have prepared. A spell that you always have prepared doesn't count against the number of _spells_ you can have prepared.
 
-## Casting Spells
+### Casting in Armor
 
-As spellcasters advance in character level, they gain the ability to prepare and cast more powerful spells. A spell’s level determines the amount of mental energy the spellcaster must expend to cast the spell.
+You must have **training** with any _Armor_ you are wearing to cast spells while wearing it. You are otherwise too hampered by the armor for spellcasting.
 
-Spells are ranked in complexity and power from level 0 to 9. 0th-level spells, also called cantrips, can be cast effortlessly. Other spells require an investment of energy, and can only be cast a limited number of times between rests. The most complex and powerful spells, 9th-level spells, can only be employed by the mightiest spellcasters, and generally only once per long rest.
+## Casting a Spell
 
-### Spell Slots
+Each spell description has a series of entries that provide the details needed to cast the spell. The following sections explain each of those entries, which follow a spell's name.
 
-Most spellcasting classes’ reserves of magical energy are represented by a number of spell slots, each of which has a spell level. More and higher-level spell
+### [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Categorization|☄️Spell Categorization]]
 
-slots become available as a character gains experience in a spellcasting class. A spell slot is expended when a character casts a spell at that spell level. When all the slots of a given spell level have been used, the character can no longer cast spells at that spell level.
+Every Spell is organized by 3 distinct categories: its [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Sources/5e - Spell Sources|☄️Spell Sources]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - Schools of Magic|☄️Schools of Magic]], and [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Tags/5e - Spell Tags|☄️Spell Tags]]. Together, these categories explain where a Spell’s power originates, how it’s understood in the world, and how it functions within the rules.
 
-Taking a long rest restores all spell slots.
+#### [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Sources/5e - Spell Sources|☄️Sources of Magic]]
 
-### Casting Spells With a Higher Slot
+**Sources of Magic** represent the **origin** of magic. All Spells draw power from at least one of the four fundamental Sources: **Arcane**, **Divine**, **Occult**, or **Primal**. These Sources determine how a Spellcaster accesses and channels magic.
 
-A spell can be cast as a higher-level spell if there is a higher-level spell slot available to spend. For instance, the 1st-level cure wounds spell can be transformed into a 2nd-level spell by casting it using a 2nd-level spell slot.
+Some Spells list 2 or more types as their Source (such as both Arcane and Primal for many fire Spells).
 
-Some spells have more powerful effects when cast using a higher-level spell slot. For instance, cure wounds restore more hit points when cast as a 2nd-level spell. Such benefits apply to both the normal version of a spell and any rare variant.
+##### [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Sources/5e - Arcane Spell Source/5e - Arcane Spell Source|☄️Arcane Spell Source]]
 
-When casting a spell using a higher-level spell slot that the spell provides no benefits for, you gain the benefits for casting at the highest-level spell slot that qualifies. For example, casting detect thoughts with a 6th-level spell slot grants the additional benefits from using a 5th-level spell slot, increasing its range to 1 mile (instead of only the normal effects for a casting at 2nd- or 3rd-level).
+Arcane magic is the invisible energy that permeates through all of existence, surrounding and connecting every part of the universe. It is a pure, formless energy that can be shaped through study, focus, and discipline. Many mortals learn to harness this power by mastering incantations, runes, and rituals that channel raw magic into structured, purposeful spells.
 
-### Casting Spells without Slots
+##### [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Sources/5e - Divine Spell Source/5e - Divine Spell Source|☄️Divine Spell Source]]
 
-Some magic items allow characters to cast certain spells without expending spell slots. For instance, a magical necklace of prayer beads allows its owner to cast spells such as bless once per day.
+Divine magic draws power from divine beings (good, evil, and indifferent), such as deities (greater and lesser gods), their followers (angels, archons, etc.) or the manifestations of abstract universal concepts (order, love, peace, war, etc.). Divine magic is granted to mortals either through faith, duty, or desperation. Creatures that wield Divine magic are often servants of their deity, seeking to fulfill their agendas and grow their following.
 
-A magical spell scroll allows a character to cast a single spell, if the spell is on the character’s spell list. After the spell is cast, the scroll loses its magic.
+##### [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Sources/5e - Occult Spell Source/5e - Occult Spell Source|☄️Occult Spell Source]]
 
-A character who uses a magical scroll can cast it at a higher level, or even cast a spell of a higher level than the character can normally cast, by making an ability check, using their spellcasting ability against a DC of 10 + the level at which they cast the spell.
+Occult magic draws power from forces beyond the universe, or at least from a part that isn't fully understood, and is the most mysterious of the **Spell Sources**. Occult magic can be learned in some way, but often the feelings and the state of mind of the spellcaster decide if they are able to understand this magic. Curses, Blood magic and "black magic" often derive from the occult. The practitioners of occult traditions seek to understand the unexplainable, categorize the bizarre, and otherwise access the ephemeral in a systematic way.
 
-On a failure, the scroll loses its magic. A character may increase the spell’s casting time by 12 hours in a magical stronghold appropriate to their class, such as a wizard’s tower or a cleric’s temple. If they do so, they gain a bonus to their spellcasting ability check equal to the grade of the stronghold.
+##### [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Sources/5e - Primal Spell Source/5e - Primal Spell Source|☄️Primal Spell Source]]
 
-Character abilities granted by class or heritage may also grant the innate ability to cast spells without using spell slots. Some monsters also have the innate ability to cast spells in this way.
+Primal magic draws power from the physical forces of the universe (land, air, water, fire, plants, animals, and even the planes themselves). This magic comes from a deep rooted connection to the living essence of the world and its elemental energies. Those who wield Primal magic channel the wild rhythms of existence itself; storms, beasts, natural disasters, and the oceans.
 
-### Cantrips
+#### [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - Schools of Magic|☄️Schools of Magic]]
 
-0th-level spells (cantrips) don’t require spell slots to cast, and can be cast any number of times per day. Cantrips don’t need to be prepared. A spellcasting class’ description indicates how many cantrips a character knows at any given level.
+**Schools of Magic** define the lore and philosophy behind different magical effects. A **School of Magic** serves as a way to classify magical effects by answering two key questions: what kind of action is the spell performing (such as creating, summoning, or altering) and the subject it’s being performed on (such as the elements, a creature’s body, mind, or spirit). This structure helps mages, priests, and sages study, understand, and organize the many forms of magic that shape the world.
 
-### Rituals
+##### List of the Schools of Magic
 
-Certain spells can be cast as a ritual. Such spells have a special category, Ritual, listed on the same line as the spell’s casting time.
+```base
+views:
+  - type: table
+    name: 5e - Schools of Magic
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#SchoolofMagic")
+        - '!file.name.contains("Template")'
+    order:
+      - file.name
+      - description
+    sort:
+      - property: file.name
+        direction: ASC
+      
+```
 
-If a character has a Ritual Spellcasting feature, they can choose to cast such a spell either normally or as a ritual. If they choose to cast it as a ritual, they do so without expending a spell slot. Casting the spell in this way takes an extra 10 minutes to cast. A spell cast as a ritual can’t be cast as a higher-level spell.
+<br>
 
-Most characters must have a spell prepared in order to cast it as a ritual, though wizards can cast any known spell as a ritual.
+#### [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Tags/5e - Spell Tags|☄️Spell Tags]]
 
-### Casting Spells in Armor
+**Spell Tags** describe the characteristics of a spell. Some Tags represent clear in-world effects (such as manipulating fire), while others exist mainly to support game mechanics (such as a type of creature the Spell can target). Spell Tags define how a Spell interacts with the game system, such as the damage it deals, the Conditions it inflicts, or the creatures it affects. Certain Ancestry Traits, Class Features, and Talents reference specific Spell Tags, allowing characters to specialize in particular types of magic (such as Fire, Illusion, or Summoning). Spell Tags help players and GMs quickly understand a Spell’s function, theme, and how it interacts with other parts of the game.
 
-A spellcaster can’t cast spells while wearing armor in which they’re not proficient.
+In a spell's description, **Spell Tags** are called "Effect".
 
-## Spell Descriptions
+### [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Level/5e - Spell Level|☄️Spell Level]]
 
-The spells in Level Up each begin with a block of rules information specifying the spell’s name, spell school, tags, casting time, range, components, and duration. Some spells may also include an entry for target, area, and saving throw. A description of the spell follows the spell block.
+Every spell has a level from 0 to 9, which is indicated in a spell's description. A spell's level is an indicator of how powerful it is. _Cantrips_—simple spells that can be cast almost by rote—are level 0. The rules for each spellcasting class say when its members gain access to spells of certain levels.
 
-## Classical Spell Schools
+#### [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Level/5e - Spell Slot|☄️Spell Slots]]
 
-Every spell belongs to one or more schools of magic.
+Spellcasting is taxing, so a spellcaster can cast only a limited number of _level 1+ spells_ before resting. **Spell Slots** are the main way a spellcaster's magical potential is represented. Each spellcasting class gives its members a limited number of **Spell Slots** of certain _spell levels_. For example, a _level 3 Wizard_ has four _level 1 spell slots_ and two _level 2 slots_.
 
-These schools include 8 classical schools of magic, as defined by mages long past and handed down in formal tradition. Each classical school represents a different type of magical energy being channeled, and a spell can only belong to one classical school.
+When you cast a spell, you expend a slot of that spell's level or higher, effectively "filling" a slot with the spell. Imagine a spell slot is a groove of a certain size—small for a level 1 slot and larger for a higher-level spell. A level 1 spell fits into a slot of any size, but a level 2 spell fits only into a slot that's at least level 2. So when a level 3 Wizard casts Magic Missile, a level 1 spell, that Wizard spends one of four level 1 slots and has three remaining.
 
-A magical effect’s school is usually detectable by effects such as detect magic
-[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Abjuration/5e - Spellschool Abjuration|☄️Abjuration]] spells involve the forces of protection and warding.
-[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Conjuration/5e - Spellschool Conjuration|☄️Conjuration]] spells cause objects to be teleported or summoned.
-[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Divination/5e - Spellschool Divination|☄️Divination]] spells provide information and uncover secrets.
-[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Enchantment/5e - Spellschool Enchantment|☄️Enchantment]] spells twist the mind.
-[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Evocation/5e - Spellschool Evocation|☄️Evocation]] spells call forth magical energy, often to create burst of magical energy.
-[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Illusion/5e - Spellschool Illusion|☄️Illusion]] spells create false sensory impressions.
-[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Necromancy/5e - Spellschool Necromancy|☄️Necromancy]] spells deal with the power of death.
-[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Schools/5e - Spellschool Transmutation/5e - Spellschool Transmutation|☄️Transmutation]] spells transform or change their subjects, or grant a creature new abilities.
+Finishing a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Long Rest|😴Long Rest]] restores any expended spell slots.
 
-### Casting Time
+#### [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Level/5e - Casting without Slots|☄️Casting without Slots]]
 
-Most spells take one action to cast. Some spells are cast with a bonus action. Other spells use a reaction. This type of spell will describe the trigger that allows the spell to be cast. For instance, a wizard may cast shield when hit by an attack or targeted by a magic missile.
+There are several ways to cast a spell without expending a spell slot:
 
-A spellcaster can't cast two spells with a spell level above 0st during the same turn.
+**<u>Cantrips:</u>** A cantrip is cast without a spell slot.
 
-A few spells (and spells cast as rituals) have a longer casting time. A spellcaster must use their action every turn to maintain such a spell. Furthermore, they must concentrate on the spell (see below). Otherwise, the spell fails, and the spellcaster doesn’t expend a spell slot or any material components the spell requires.
+**<u>Rituals:</u>** Certain spells have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Ritual Casting|☄️Ritual]] tag in the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Casting Time/5e - Casting Time|☄️Casting Time]] entry. Such a spell can be cast following the normal rules for spellcasting, or it can be cast as a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Ritual Casting|☄️Ritual]]. The [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Ritual Casting|☄️Ritual]] version of a spell takes <u>10 minutes</u> longer to cast than normal, but it doesn't expend a spell slot. To cast a spell as a Ritual, a spellcaster must have it prepared.
 
-### Range
+**<u>Special Abilities:</u>** Some characters and monsters have special abilities that allow them to cast specific spells without a spell slot. This casting is usually limited in another way, such as being able to cast the spell a limited number of times per day.
 
-A spell’s range is the maximum distance to its target or targets at the moment that the spell is cast. For some spells, the target is a creature or object. For other spells, the target is a point in space.
+**<u>Magic Items:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spell Scrolls/5e - Spell Scrolls|📜Spell Scrolls]] and some other _magic items_ contain spells that can be cast without a spell slot. The description of such an item specifies how many times a spell can be cast from it.
 
-Some spells have a range of Self, meaning that they only affect the spellcaster, or (for a spell that affects an area) that the point of origin of the spell is the spellcaster. Other spells have a range of Touch, meaning that they affect either the spellcaster or a target that they touch.
+#### [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Level/5e - Using a Higher-Level Spell Slot|☄️Using a Higher-Level Spell Slot]]
 
-Still other spells can only affect targets within a certain number of feet. Common distances include short range (30 feet or less), medium range (60 feet or less), or long range (120 feet or less).
+When a spellcaster casts a spell using a slot that is of a higher level than the spell, the spell takes on the higher level for that casting. For instance, if a Wizard casts [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Evocation/5e - Level 1 Evocation/5e - Magic Missile (Spell)|☄️Magic Missile]] using a _level 2 slot_, that [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Evocation/5e - Level 1 Evocation/5e - Magic Missile (Spell)|☄️Magic Missile]] is _level 2_. Effectively, the spell expands to fill the slot it is put into.
 
-Some spells have much longer ranges, such as a mile or more, or are not limited by distance.
+Some spells, such as [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Evocation/5e - Level 1 Evocation/5e - Magic Missile (Spell)|☄️Magic Missile]] and [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - Level 1 Abjuration/5e - Cure Wounds (Spell)|☄️Cure Wounds]], have more powerful effects when cast at a higher level, as detailed in a spell's description.
 
-### Area
+### [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Casting Time/5e - Casting Time|☄️Casting Time]]
 
-Some, but not all, spells have an area listed in the stat block. Anything within this area can be affected by the spell. For instance, the area of a fireball spell is a “20-foot radius sphere,” and anyone inside may take fire damage.
+Most spells require the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Magic Action|⚔️Magic Action]] to cast, but some spells require a **Bonus Action**, a **Reaction**, or <u>1 minute</u> or more. A spell's **Casting Time** entry specifies which of those is required.
 
-Every area has a point of origin from which its effects radiate. The point of origin is determined by the spell’s range. If the spell’s range is Self, the point of origin is the spellcaster. If the point of origin is given as a distance, the point of origin can be anywhere within that distance. If there is no clear path between the spellcaster and the intended point of origin of the spell, the spell’s point of origin is on the near side of the obstruction blocking the path. For most spells, if there is no clear path between the point of origin and a location within the spell’s area, that location is not affected by the spell. Some spells specify that their effect travels around corners.
+#### [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Casting Time/5e - One Spell with a Spell Slot per Turn|☄️One Spell with a Spell Slot per Turn]]
 
-In that case, a location is affected if a non-straight line from the location connects to the point of origin without leaving the spell’s area.
+On a turn, you can expend only one [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Level/5e - Spell Slot|☄️Spell Slot]] to cast a spell. This rule means you can't, for example, cast a spell with a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Level/5e - Spell Slot|☄️Spell Slot]] using the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Magic Action|⚔️Magic Action]] and another one using a **Bonus Action** on the same turn.
 
-Spell areas usually take one of five shapes: a cone, cube, cylinder, line, or sphere.
+#### [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Casting Time/5e - Reaction and Bonus Action Triggers|☄️Reaction and Bonus Action Triggers]]
 
-A cone extends from its point of origin in a direction of the spellcaster’s choice, and need not include the origin. A cone’s maximum width is equal to its length.
+A spell that has a **Casting Time** of a **Reaction** is cast in response to a trigger that is defined in the spell's **Casting Time entry**. Some spells that have a casting time of a **Bonus Action** are also cast in response to a trigger defined in the spell.
 
-A cube’s point of origin can be anywhere on any face of the cube, and need not include the origin.
+#### [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Casting Time/5e - Longer Casting Times|☄️Longer Casting Times]]
 
-A cube’s length is also its width and height.
+Certain spells—including a spell cast as a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Ritual Casting|☄️Ritual]] —require more time to cast: minutes or even hours. While you cast a spell with a casting time of <u>1 minute</u> or more, you must take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Magic Action|⚔️Magic Action]] on <u>each of your turns</u>, and you must maintain [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Concentration/5e - Concentration|🎲Concentration]] while you do so. If your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Concentration/5e - Concentration|🎲Concentration]] is broken, the spell fails, but you don't expend a spell slot. To cast the spell again, you must start over.
 
-A cylinder’s point of origin is the center of the circle at the top or bottom of the cylinder. The bottom of the cylinder rests on the ground. A cylinder includes its point of origin.
+### [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Range/5e - Spell Range|☄️Range]]
 
-A line extends straight from its point of origin, and need not include its point of origin.
+A spell's range indicates how far from the spellcaster the spell's effect can originate, and the spell's description specifies which part of the effect is limited by the range.
 
-A sphere’s point of origin is its center, and is included in its area. The sphere’s radius is the distance from its point of origin to any edge.
+A range usually takes one of the following forms:
 
-### Created Effects
+**<u>Distance:</u>** The range is expressed in feet.
 
-Some spells have no target or area, but create or summon an object, creature, or effect within the spell’s range. Unless otherwise specified in the spell description, the spellcaster does not need to see the space where the object, creature, or effect will appear but there must be a clear path to the space; if there is no clear path, the spell will affect the space on the near side of the obstruction blocking the path.
+**<u>Touch:</u>** The spell's effect originates on something the spellcaster must touch, as defined in the spell.
 
-### Components
+**<u>Self:</u>** The spell is cast on the spellcaster or emanates from them, as specified in the spell.
 
-The process of casting a spell requires the use of specific actions or objects, called components. These components may allow observers to recognize that
-a spell is being cast. A spell may include any of the following types of components:
+If a spell has movable effects, they aren't restricted by its range unless the spell's description says otherwise.
 
-**<u>Verbal (V):</u>** A spell with a verbal component is apparent to creatures that can hear. Different spellcasters may cast the same spell in vastly different ways, whether speaking in magical syllables or singing an enchanted melody, harmonizing an instrument with the fabric of reality, or giving voice to the screams of the damned as they tap into the realm beyond to call forth magic. A character under the effect of a silence spell or otherwise unable to make noise can’t cast a spell with a verbal component.
+### [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Components/5e - Spell Components|☄️Components]]
 
-**<u>Somatic (S):</u>** Spellcasting gestures might include a forceful gesticulation or an intricate set of gestures. If a spell requires a somatic component, the caster must have free use of at least one hand to perform these gestures.
+A spell's components are physical requirements the spellcaster must meet to cast the spell. Each spell's description indicates whether it requires [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Components/5e - Verbal Components|☄️Verbal (V)]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Components/5e - Somatic Components|☄️Somatic (S)]], or [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Components/5e - Material Components|☄️Material (M)]] components. If the spellcaster can't provide one or more of a spell's components, the spellcaster can't cast the spell.
 
-**<u>Material (M):</u>** A spell with a material component lists a specific physical object which the spellcaster must provide. Sometimes a spellcaster can substitute spellcasting components with a component pouch or a spellcasting focus. Such is the case, if the level of the spell requiring material components is of a level equal to half the level of the highest spell level they can cast (rounded up). For example, a 5th level wizard has access to 3rd level spells. Therefore that wizard can cast 1st and 2nd level spells with material components, using an arcane focus instead of the material components. A spell cast with a material component requires that the caster hold the material component during the casting of the spell.
+### [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Components/5e - Verbal Components|☄️Verbal (V)]]
 
-Even if a creature witnesses a spell being cast, the effect or even the target of the spell may not be obvious. For instance, the target of a reasonable sounding suggestion spell might never realize that their behavior was magically influenced.
+A **Verbal** component is the chanting of esoteric words that sound like nonsense to the uninitiated. The words must be uttered in a normal speaking voice and articulated clearly. The words define a caster's intent in the process of casting, the particular combination of sounds, with specific pitch and resonance, sets the threads of magic in motion. Thus, a creature who is gagged or in an area of _magical silence_ can't cast a spell with a **Verbal** component.
 
-### Duration
+> [!info] Creating Verbal Components
+> If you'd like to say a spell's Verbal component, you may make up the words. However you make them, the goal is to create something that's easy to say at the table. Consider this method: take the name of the spell, keep only one instance of each of its letters, and rearrange the remaining letters into words. For example, remove the second l from Fireball and rearrange the remaining letters to create Ber Fila or Fel Bira.
 
-A spell’s duration is the length of time the spell persists. A duration can be expressed in rounds, minutes, hours, or even years. Some spells specify that their effects last until the spells are dispelled or destroyed.
+### [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Components/5e - Somatic Components|☄️Somatic (S)]]
 
-**<u>Instantaneous:</u>** Many spells are instantaneous. The spell harms, heals, creates, or alters a creature or an object in a way that can’t be dispelled, because its magic exists only for an instant.
+A **Somatic** component is a _forceful_ gesticulation or an intricate set of gestures. A spellcaster must use at least one of their hands to perform these movements.
 
-**<u>Concentration:</u>** Some spells require you to maintain concentration in order to keep their magic active. If you lose concentration, such a spell ends. Such spells are indicated by a **(C)** behind the duration.
+### [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Components/5e - Material Components|☄️Material (M)]]
+
+A **Material** component is a particular material used in a spell's casting, as specified in parentheses in the Components entry. These materials aren't consumed by the spell unless the spell's description states otherwise. The spellcaster must have a hand free to access them, but it can be the same hand used to perform [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Components/5e - Somatic Components|☄️Somatic]] components, if any.
+
+If a spell doesn't consume its materials and doesn't specify a cost for them, a spellcaster can use a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Focus Items/5e - Component Pouch/5e - Component Pouch|🎩Component Pouch]] instead of providing the materials specified in the spell, or the spellcaster can substitute a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spellcasting Focus|🎩Spellcasting Focus]] if the caster has a feature that allows that substitution. To use a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Focus Items/5e - Component Pouch/5e - Component Pouch|🎩Component Pouch]], you must have a hand free to reach into it, and to use a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spellcasting Focus|🎩Spellcasting Focus]], you must hold it unless its description says otherwise.
+
+### [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Duration/5e - Spell Duration|☄️Spell Duration]]
+
+A spell's duration is the length of time the spell persists after it is cast. A duration typically takes one of the following forms:
+
+**<u>Concentration:</u>** A duration that requires [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Concentration/5e - Concentration|☄️Concentration]] follows the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Concentration/5e - Concentration|☄️Concentration]] rules.
+
+**<u>Instantaneous:</u>** An instantaneous duration means the spell's magic appears only for a moment and then disappears.
+
+**<u>Time Span:</u>** A duration that provides a time span specifies how long the spell lasts in rounds, minutes, hours, or the like. For example, a Duration entry might say "1 minute," meaning the spell ends after <u>1 minute</u> has passed. While a time-span spell that you cast is ongoing, you can dismiss it (no action required) if you don't have the Incapacitated condition.
+
+### [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Concentration/5e - Concentration|🎲Concentration]]
+
+Some spells require you to maintain **Concentration** in order to keep their magic active. If you lose concentration, such a spell ends. Such spells are indicated by a **(C)** behind the duration.
 
 If a spell must be maintained with concentration, that fact appears in its Duration entry, and the spell specifies how long you can concentrate on it.
 
@@ -173,24 +201,62 @@ Normal activity, such as moving and attacking, doesn’t interfere with concentr
 - The spellcaster chooses to end concentration at any time.
 - The spellcaster is incapacitated or killed.
 - The spellcaster successfully casts another spell that requires concentration.
-- The Game Master may rule that a sudden interruption, such as a push, may force the spellcaster to make a DC 10 Constitution check. On a failure, the spell ends.
+- The Game Master may rule that a sudden interruption, such as a push, may force the spellcaster to make a **DC 10 CON Save**. On a failure, the spell ends.
 - If the spellcaster takes damage while concentrating on a spell, they must make a Constitution saving throw; on a failure, the spell ends. The DC is 10 or half the damage taken, whichever is higher.
 
-### Saving Throw
+You can end Concentration at any time (**no action** required).
 
-If a spell allows an affected creature to make a saving throw, the saving throw ability score will be specified in the spell block. A creature may voluntarily fail a saving throw. Unless noted otherwise, objects always fail saving throws.
+### [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Lists/5e - Spell Lists|☄️Class Spell Lists]]
 
-The DC to resist a spell is `8 + the spellcaster’s spellcasting ability modifier + the spellcaster’s proficiency bonus`.
+If a spell is on a **Class's Spell List**, the class's name appears behind or instead of a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Sources/5e - Spell Sources|☄️Spell Source]] Some features add a spell to a character's spell list even if the character isn't a member of a class listed in the spell.
 
-### Attack Roll
+### Effects
 
-Some spells require a successful attack roll to affect their target. This is specified in the spell’s description.
+The effects of a spell are detailed after its duration entry. Those details present exactly what the spell does, which ignores mundane physical laws; any outcomes beyond those effects are under the GM's purview. Whatever the effects, they typically deal with targets, saving throws, attack rolls, or all three, each of which is detailed below.
 
-Ranged and melee spell attacks follow all the rules for ranged and melee attacks.
+#### [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Effects/5e - Spell Target|☄️Spell Target]]
 
-The attack bonus for a spell attack is `the spellcaster’s spellcasting ability modifier + the spellcaster’s proficiency bonus`.
+A typical spell requires the caster to pick one or more targets to be affected by the spell's magic. A spell's description says whether the spell targets creatures, objects, or something else.
+
+**<u>A Clear Path to the Target:</u>** To target something with a spell, a caster must have a clear path to it, so it can't be behind [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Environment/5e - Cover/5e - Total Cover|🏔️Total Cover]].
+
+**<u>Targeting Yourself:</u>** If a spell targets a creature of your choice, you can choose yourself unless the creature must be Hostile or specifically a creature other than you.
+
+**<u>Areas of Effect:</u>** Some spells, such as [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Evocation/5e - Level 1 Evocation/5e - Thunderwave (Spell)|☄️Thunderwave]], cover an area called an [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Movement and Position/5e - Area of Effect/5e - Area of Effect|💥Area of Effect]]. The area determines what the spell targets. The description of a spell specifies whether it has an area of effect, which is typically one of these shapes: [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Movement and Position/5e - Area of Effect/5e - Cone|💥Cone]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Movement and Position/5e - Area of Effect/5e - Cube|💥Cube]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Movement and Position/5e - Area of Effect/5e - Cylinder|💥Cylinder]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Movement and Position/5e - Area of Effect/5e - Emanation|💥Emanation]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Movement and Position/5e - Area of Effect/5e - Line|💥Line]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Movement and Position/5e - Area of Effect/5e - Sphere|💥Sphere]].
+
+![[98. Diverses/Bilder/Regelwerk Bilder/Basic Rules/Regelwerk Areas of Effect.png]]
+
+**<u>Awareness of Being Targeted:</u>** Unless a spell has a perceptible effect, a creature doesn't know it was targeted by the spell. An effect like _lightning_ is obvious, but a more subtle effect, such as an attempt to read thoughts, goes unnoticed unless a spell's description says otherwise.
+
+**<u>Invalid Targets:</u>** If you cast a spell on someone or something that can't be affected by it, nothing happens to that target, but if you used a **spell slot** to cast the spell, the slot is still expended.
+
+If the spell normally has no effect on a target that _succeeds_ on a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Save]], the invalid target appears to have _succeeded_ on its _saving throw_, even though it didn't attempt one (giving no hint that the creature is an invalid target). Otherwise, you perceive that the spell did nothing to the target.
+
+#### [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Effects/5e - Spell Save|☄️Spell Save]]
+
+Many spells specify that a target makes a saving throw to avoid some or all of a spell's effects. The spell specifies the ability that the target uses for the save and what happens on a success or failure. Here's how to calculate the DC for your spells:
+
+**<u>Spell Save DC =</u>** `8 + spellcasting ability modifier + Proficiency Bonus`
+
+If you are a Martial Class and a Feature asks you to use your Spell Save DC, your Spellcasting ability for that DC is your highest out of <u>INT</u>, <u>WIS</u>, or <u>CHA</u>.
+
+#### [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Effects/5e - Spell Attack Roll|☄️Spell Attack Roll]]
+
+Some spells require the caster to make an [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack Roll]] to determine whether the spell hits a target. Here's how to calculate the attack modifier for your spells:
+
+**<u>Spell attack modifier =</u>** `spellcasting ability modifier + Proficiency Bonus`
+
+#### [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Effects/5e - Combining Spell Effects|☄️Combining Spell Effects]]
+
+The effects of different spells add together while their durations overlap. In contrast, the effects of the same spell cast multiple times don't combine. Instead, the most potent effect—such as the highest bonus—from those castings applies while their durations overlap. The most recent effect applies if the castings are equally potent and their durations overlap. For example, if two Clerics cast [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Enchantment/5e - Level 1 Enchantment/5e - Bless (Spell)|☄️Bless]] on the same target, that target gains the spell's benefit only <u>once</u>; the target doesn't receive two bonus dice. But if the durations of the spells overlap, the effect continues until the duration of the second Bless ends.
+
+#### [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Identifying an Ongoing Spell/5e - Identifying an Ongoing Spell|☄️Identifying an Ongoing Spell]]
+
+You can try to identify a non-instantaneous spell by its observable effects if its duration is ongoing. To identify it, you must take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Study|⚔️Study]] action and succeed on an [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - Knowledge Skills/5e - Arcana|💃Arcana]] [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Ability Check/5e - Ability Check|🎲Ability Check]]. The [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Difficulty Class/5e - Difficulty Class|🎲DC]] for that [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Ability Check/5e - Ability Check|🎲Ability Check]] is equal to `12 + the spell's level`.
 
 ## Quellen
 
 > [!inspiration] Quellen
-> **Art:** Created by Kiseki from Noun Project
+> Player's Handbook 2024
+> **Cover Art:** Created by Kiseki from Noun Project
+> **AOE Art:** Richard Whitters

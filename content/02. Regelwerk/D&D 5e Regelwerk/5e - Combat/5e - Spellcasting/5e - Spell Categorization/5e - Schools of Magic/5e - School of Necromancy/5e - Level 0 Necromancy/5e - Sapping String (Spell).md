@@ -1,0 +1,56 @@
+---
+publish: true
+title: ☄️5e - Sapping String
+created: 2026-07-29T09:33:36.954+02:00
+modified: 2026-09-07T11:01:10.131+02:00
+published: 2026-09-07T11:01:10.131+02:00
+tags:
+  - "#Spell"
+  - "#5e"
+dateitags:
+  - "#Spell"
+  - "#5e"
+save-Att: CON
+status: ✅
+reactionbedingung: " "
+school: Necromancy
+level: 0
+time: A
+range-Area: 30 ft.
+komponenten: V, S
+dauer: Instantaneous
+c: " "
+effect:
+  - Necrotic
+  - Prone
+  - Blood Magic
+zauberliste:
+  - Occult
+source: Explorer's Guide to Wildemount
+---
+
+Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Necromancy/5e - School of Necromancy|5e - School of Necromancy]].
+
+# ☄️5e - Sapping String☄️
+
+> [!wikibox]
+> |||
+> |:-|:-|
+> |**School:**|Necromancy |
+> |**Level:**|0 |
+> |**Casting Time:**|A  |
+> |**Range/Area:**|30 ft. |
+> |**Components:**|V, S |
+> |**Duration:**|Instantaneous |
+> |**Concentration:**|  |
+> |**Attack/Save:**|CON|
+> |**Spell List:**|Occult |
+
+You sap the vitality of one creature you can see in range. The target makes a **CON Save**. _**Failure:**_ The Target takes `1d6` <u>Necrotic</u> damage and is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]]
+
+**<u>Cantrip Upgrade:</u>** This spell’s damage increases by `1d6` when you reach levels <u>5</u> (`2d6`), <u>11</u> (`3d6`), and <u>17</u> (`4d6`).
+
+## Quelle
+
+> [!inspiration] Quelle/Inspiration
+> Explorer's Guide to Wildemount

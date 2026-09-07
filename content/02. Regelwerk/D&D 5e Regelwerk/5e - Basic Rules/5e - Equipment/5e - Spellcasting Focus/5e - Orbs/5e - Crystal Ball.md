@@ -2,8 +2,8 @@
 publish: true
 title: 🎩5e - Crystal Ball
 created: 2026-08-31T11:56:08.396+02:00
-modified: 2026-08-31T14:54:51.557+02:00
-published: 2026-08-31T14:54:51.557+02:00
+modified: 2026-09-04T10:34:26.418+02:00
+published: 2026-09-04T10:34:26.418+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -50,7 +50,7 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 
 **<u>Range:</u>** A **Range** [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spellcasting Focus|🎩Spellcasting Focus]] has a range in parentheses after the property.
 
-**<u>Mastery: Channel:</u>** While holding a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spellcasting Focus|🎩Spellcasting Focus]] with the **Channel** property, you gain a `+1` bonus to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Concentration|🎲Concentration Saves]] and to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Saves]] against _spells_ and _magical effects_.
+**<u>Mastery: Channel:</u>** While holding a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spellcasting Focus|🎩Spellcasting Focus]] with the **Channel** property, you gain a `+1` bonus to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Concentration/5e - Concentration|🎲Concentration Saves]] and to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Saves]] against _spells_ and _magical effects_.
 
 ## Inspiration/Quelle
 

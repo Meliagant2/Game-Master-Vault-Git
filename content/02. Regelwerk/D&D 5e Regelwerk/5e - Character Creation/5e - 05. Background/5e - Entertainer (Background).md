@@ -2,8 +2,8 @@
 publish: true
 title: ⛏️5e - Entertainer
 created: 2026-07-21T13:40:44.481+02:00
-modified: 2026-09-03T12:38:37.366+02:00
-published: 2026-09-03T12:38:37.366+02:00
+modified: 2026-09-04T09:08:47.813+02:00
+published: 2026-09-04T09:08:47.813+02:00
 tags:
   - "#Background"
   - "#5e"
@@ -28,7 +28,7 @@ You spent much of your youth following roving fairs and carnivals, performing od
 
 **<u>Ability Score Increases:</u>** `+1` to <u>Charisma</u> and one other ability score (both to a maximum of `+4`).
 
-**<u>Feat:</u>** <u>Choose one:</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats Generic/5e - Lucky|🥇Lucky]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats Generic/5e - Magic Initiate|🥇Magic Initiate]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats Generic/5e - Musician|🥇Musician]], or a **special** [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats|🥇Origin Feat]].
+**<u>Feat:</u>** <u>Choose one:</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats Generic/5e - Lucky|🥇Lucky]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats Generic/5e - Musician|🥇Musician]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats Generic/5e - Skilled|🥇Skilled]] or a **special** [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats|🥇Origin Feat]].
 
 **<u>Skill Proficiency:</u>** You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Proficiency|🎲Proficiency]] in [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - DEX Skills/5e - Acrobatics|💃Acrobatics]] and [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - CHA Skills/5e - Performance|💃Performance]], or one level of [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Expertise|🎲Expertise]] if you are already _proficient_.
 

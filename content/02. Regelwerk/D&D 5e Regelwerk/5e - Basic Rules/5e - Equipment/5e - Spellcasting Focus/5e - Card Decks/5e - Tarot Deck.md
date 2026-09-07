@@ -2,8 +2,8 @@
 publish: true
 title: 🎩5e - Tarot Deck
 created: 2026-08-10T08:26:49.660+02:00
-modified: 2026-08-31T11:34:09.322+02:00
-published: 2026-08-31T11:34:09.322+02:00
+modified: 2026-09-04T10:34:26.410+02:00
+published: 2026-09-04T10:34:26.410+02:00
 tags:
   - "#Weapon"
   - "#Grundregeln"
@@ -56,7 +56,7 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 
 **<u>Two-Handed:</u>** A **Two-Handed** [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spellcasting Focus|🎩Spellcasting Focus]] requires two hands when you cast a _spell_ with it.
 
-**<u>Mastery: Channel:</u>** While holding a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spellcasting Focus|🎩Spellcasting Focus]] with the **Channel** property, you gain a `+1` bonus to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Concentration|🎲Concentration Saves]] and to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Saves]] against _spells_ and _magical effects_.
+**<u>Mastery: Channel:</u>** While holding a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spellcasting Focus|🎩Spellcasting Focus]] with the **Channel** property, you gain a `+1` bonus to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Concentration/5e - Concentration|🎲Concentration Saves]] and to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Saves]] against _spells_ and _magical effects_.
 
 **<u>Mastery: Lengthen:</u>** While holding a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spellcasting Focus|🎩Spellcasting Focus]] with the **Lengthen** property, _spells_ you cast with a _range_ greater than <u>5 feet</u>, that require you to make a <u>spell</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack Roll]], have their range increase by <u>30 feet</u>, while _spells_ you cast with a _range_ of **Touch**, gain a _range_ of <u>10 feet</u>.
 

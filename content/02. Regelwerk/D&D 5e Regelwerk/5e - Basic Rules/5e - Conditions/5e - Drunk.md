@@ -2,8 +2,8 @@
 publish: true
 title: ☠️5e - Drunk
 created: 2026-08-20T09:20:41.358+02:00
-modified: 2026-08-20T10:10:53.571+02:00
-published: 2026-08-20T10:10:53.571+02:00
+modified: 2026-09-04T10:34:26.405+02:00
+published: 2026-09-04T10:34:26.405+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -21,7 +21,7 @@ Drinking alcohol is a common pastime and element of many social encounters. Howe
 
 A creature makes a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - CON Skills/5e - Revelry|💃Revelry]] [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Ability Check/5e - Ability Check|🎲Check]] whenever it has a number of alcoholic drinks within <u>1 hour</u> equal to `1/2 x its CON modifier` (a minimum of 1 drink per hour), and then again for every drink it drinks within <u>1 hour</u> after the last. The [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Difficulty Class/5e - Difficulty Class|🎲DC]] for this <u>Check</u> starts at `12` and increases by `1` for every drink the creature has after the initial <u>Check</u>. A creature's drunkenness level is reduced by `1` for each <u>2 hours</u> since it last drank.
 
-A creature suffers the effect of its current level of drunkenness as well as all lower levels. For example, a creature suffering _level 3_ drunkenness has a `+3` Bonus to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Saves]] against [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Frightened|☠️Frightened]] and to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - STR Skills/5e - Intimidation|💃Intimidation]] _Checks_, **DISADV** on <u>DEX</u>, <u>INT</u>, <u>WIS</u>, and <u>CHA</u> _Checks_ and _Saves_ (Except against _Frightened_), and **DISADV** on [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Concentration|🎲Concentration]] _Saves_.
+A creature suffers the effect of its current level of drunkenness as well as all lower levels. For example, a creature suffering _level 3_ drunkenness has a `+3` Bonus to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Saves]] against [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Frightened|☠️Frightened]] and to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - STR Skills/5e - Intimidation|💃Intimidation]] _Checks_, **DISADV** on <u>DEX</u>, <u>INT</u>, <u>WIS</u>, and <u>CHA</u> _Checks_ and _Saves_ (Except against _Frightened_), and **DISADV** on [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Concentration/5e - Concentration|🎲Concentration]] _Saves_.
 
 ### Alcohol tolerance, Poison resistance and Immunity
 

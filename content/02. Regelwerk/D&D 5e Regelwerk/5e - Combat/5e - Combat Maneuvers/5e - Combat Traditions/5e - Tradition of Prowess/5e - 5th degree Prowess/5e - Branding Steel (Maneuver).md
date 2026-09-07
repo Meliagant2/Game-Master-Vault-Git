@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Branding Steel
 created: 2026-08-14T13:04:40.269+02:00
-modified: 2026-08-20T06:53:47.849+02:00
-published: 2026-08-20T06:53:47.849+02:00
+modified: 2026-09-04T10:34:26.490+02:00
+published: 2026-09-04T10:34:26.490+02:00
 tags:
   - "#Maneuver"
   - "#5e"
@@ -38,4 +38,4 @@ status: ✅
 > |**Attack/Save:**||
 > |**Effect:**|DISADV,Taunted |
 
-On a _**hit**_ the target has **DISADV** on [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Concentration|🎲Concentration]] <u>Saves</u> and is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Taunted|☠️Taunted]] by you until <u>the end of its next turn</u>. In addition, when the target tries to move closer to you, it makes a **WIS Save** before moving. _**Failure:**_ The target cannot move closer to you and must choose another way to move.
+On a _**hit**_ the target has **DISADV** on [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Concentration/5e - Concentration|🎲Concentration]] <u>Saves</u> and is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Taunted|☠️Taunted]] by you until <u>the end of its next turn</u>. In addition, when the target tries to move closer to you, it makes a **WIS Save** before moving. _**Failure:**_ The target cannot move closer to you and must choose another way to move.

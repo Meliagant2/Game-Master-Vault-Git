@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Supportive Caster
 created: 2026-09-01T09:54:11.504+02:00
-modified: 2026-09-01T10:03:57.581+02:00
-published: 2026-09-01T10:03:57.581+02:00
+modified: 2026-09-04T10:34:26.466+02:00
+published: 2026-09-04T10:34:26.466+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -35,7 +35,7 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Fea
 
 You gain the following benefits:
 
-**<u>Eternal Support:</u>** While [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Concentration|🎲Concentrating]] on a _spell_, that affects one of your allies, you gain a `1d6` bonus to <u>CON Saves</u> that you make to maintain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Concentration|🎲Concentration]].
+**<u>Eternal Support:</u>** While [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Concentration/5e - Concentration|🎲Concentrating]] on a _spell_, that affects one of your allies, you gain a `1d6` bonus to <u>CON Saves</u> that you make to maintain [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Concentration/5e - Concentration|🎲Concentration]].
 
 **<u>Reactive Prevention:</u>** When an ally you can _see_ starts or ends their turn within <u>5 feet</u> of you , you can use your **Reaction** to cast a _spell_ on them. The _spell_ must have a _casting time_ of <u>1 Action</u> and target only that ally.
 
