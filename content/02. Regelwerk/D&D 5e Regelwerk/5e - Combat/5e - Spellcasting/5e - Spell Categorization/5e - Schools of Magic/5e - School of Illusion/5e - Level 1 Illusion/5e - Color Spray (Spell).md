@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Color Spray
 created: 2026-07-30T16:15:37.661+02:00
-modified: 2026-09-07T13:44:18.547+02:00
-published: 2026-09-07T13:44:18.547+02:00
+modified: 2026-09-08T14:30:55.125+02:00
+published: 2026-09-08T14:30:55.125+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -47,7 +47,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 
 You launch a dazzling array of flashing, colorful light. Each creature in a <u>15-foot Cone</u> originating from you makes a **CON Save**. _**Failure:**_ The creature has the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Blinded|☠️Blinded]] condition until <u>the end of your next turn</u>.
 
-**<u>Using a Higher-Level Spell Slot:</u>** The cone's size increases in size by <u>5 ft.</u> for each spell slot level above 1.
+**<u>Using a Higher-Level Spell Slot:</u>** The cone's size increases with a spell slot of level 3-4 (<u>30-foot Cone</u>), 5-6 (<u>60-foot Cone</u>), or 7+ (<u>120-foot Cone</u>).
 
 ## Quelle
 

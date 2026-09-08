@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Pestilence
 created: 2026-07-21T11:23:21.720+02:00
-modified: 2026-09-07T10:50:57.107+02:00
-published: 2026-09-07T10:50:57.107+02:00
+modified: 2026-09-08T16:01:54.061+02:00
+published: 2026-09-08T16:01:54.061+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -23,8 +23,8 @@ c: x
 effect:
   - Piercing
 zauberliste:
-  - Druid
   - Divine
+  - Primal
 source: Self
 ---
 
@@ -43,7 +43,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Duration:**|PT1M |
 > |**Concentration:**|x |
 > |**Attack/Save:**|CON|
-> |**Spell List:**|Druid,Divine |
+> |**Spell List:**|Divine,Primal |
 
 A swarm of insects fills the area. Creatures that begin their turn within the spell’s area or who enter the area for the first time on their turn make a **CON Save**. _**Failure:**_ The creature takes `1d8` <u>Piercing</u> damage. The pests also ravage any unattended organic material within their radius, such as plant, wood, or fabric.
 

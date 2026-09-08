@@ -1,9 +1,9 @@
 ---
 publish: true
-title: ☄️5e - Witch Bolt☄️
+title: ☄️5e - Witch Bolt
 created: 2026-07-30T16:41:55.771+02:00
-modified: 2026-09-07T15:28:24.002+02:00
-published: 2026-09-07T15:28:24.002+02:00
+modified: 2026-09-08T10:05:52.370+02:00
+published: 2026-09-08T10:05:52.370+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -30,7 +30,7 @@ source: Player's Handbook 2024
 
 Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Evocation/5e - School of Evocation|5e - School of Evocation]].
 
-# ☄️5e - Witch Bolt☄️☄️
+# ☄️5e - Witch Bolt☄️
 
 > [!wikibox]
 > |||

@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Bardcraft
 created: 2026-07-23T10:12:45.322+02:00
-modified: 2026-09-07T12:15:42.327+02:00
-published: 2026-09-07T12:15:42.327+02:00
+modified: 2026-09-08T15:57:15.936+02:00
+published: 2026-09-08T15:57:15.936+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -23,7 +23,7 @@ c: " "
 effect:
   - Control
 zauberliste:
-  - Bard
+  - Arcane
 source: "Grim Hollow: Player's Guide (2024)"
 ---
 
@@ -42,7 +42,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Duration:**|PT10M |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
-> |**Spell List:**|Bard |
+> |**Spell List:**|Arcane |
 
 You create an illusionary copy of a mundane [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Musical Instruments/5e - Musical Instruments|🛠️Musical Instrument]]. The copy of the instrument takes on the shape of your fondest memory of the instrument, such as the first flute you owned or the half harp gifted to you by a loved one. This illusion moves as its physical counterpart would, but it is weightless and is tangible only to you. This instrument can be used as a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spellcasting Focus|🎩Spellcasting Focus]]. This illusory instrument dissipates if you move <u>10 feet</u> away from it or choose to end the spell (**no action** required by you).
 

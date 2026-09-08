@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Wish☄️
 created: 2026-07-30T14:15:06.529+02:00
-modified: 2026-07-30T14:28:53.550+02:00
-published: 2026-07-30T14:28:53.550+02:00
+modified: 2026-09-08T16:05:54.282+02:00
+published: 2026-09-08T16:05:54.282+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -22,7 +22,7 @@ dauer: Instantaneous
 effect:
   - Creation
 zauberliste:
-  - Special
+  - Occult
 ---
 
 # ☄️5e - Wish☄️
@@ -38,6 +38,6 @@ zauberliste:
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
-> |**Spell List:**|Special |
+> |**Spell List:**|Occult |
 
 Wish is the mightiest spell a mortal can cast. By simply speaking aloud, you can alter reality itself. Talk to the GM about the kind of Wish you might ask for and what the outcome might be.

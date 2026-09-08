@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Infestation
 created: 2026-07-28T15:48:04.143+02:00
-modified: 2026-09-07T10:50:28.987+02:00
-published: 2026-09-07T10:50:28.987+02:00
+modified: 2026-09-08T10:42:24.911+02:00
+published: 2026-09-08T10:42:24.911+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -23,7 +23,6 @@ effect:
   - Poison
   - Move
 zauberliste:
-  - Occult
   - Primal
 source: Xanathar's Guide to Everything
 ---
@@ -43,7 +42,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|  |
 > |**Attack/Save:**|CON|
-> |**Spell List:**|Occult,Primal |
+> |**Spell List:**|Primal |
 
 You cause a cloud of mites, fleas, and other parasites to appear momentarily on one creature you can see within range. The target makes a **CON Save**. _**Failure:**_ It takes `1d10` <u>Poison</u> damage and moves <u>5 feet</u> in a random direction if it can move and its speed is at least <u>5 feet</u>.
 

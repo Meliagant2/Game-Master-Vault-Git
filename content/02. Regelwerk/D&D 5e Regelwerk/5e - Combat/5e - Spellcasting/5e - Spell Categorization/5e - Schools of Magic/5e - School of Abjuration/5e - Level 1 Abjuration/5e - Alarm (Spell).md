@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Alarm
 created: 2026-07-28T13:59:23.827+02:00
-modified: 2026-09-07T12:29:01.584+02:00
-published: 2026-09-07T12:29:01.584+02:00
+modified: 2026-09-08T08:24:22.949+02:00
+published: 2026-09-08T08:24:22.949+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -44,7 +44,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane |
 
-You set an alarm against intrusion. Choose a door, a window, or an area within range that is no larger than a <u>20-foot Cube</u>. Until the spell ends, an alarm alerts you whenever a creature touches or enters the warded area. When you cast the spell, you can designate creatures that won't set off the alarm. You also choose whether the alarm is audible or mental:
+You set an alarm against intrusion. Choose a door, a window, or an area within range that is no larger than a <u>10-foot radius Sphere</u>. Until the spell ends, an alarm alerts you whenever a creature touches or enters the warded area. When you cast the spell, you can designate creatures that won't set off the alarm. You also choose whether the alarm is audible or mental:
 
 **<u>Audible Alarm:</u>** The alarm produces the sound of a handbell for <u>10 seconds</u> within <u>60 feet</u> of the warded area.
 

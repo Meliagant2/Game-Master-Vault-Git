@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Faerie Fire
 created: 2026-07-20T12:11:02.767+02:00
-modified: 2026-09-07T15:08:46.419+02:00
-published: 2026-09-07T15:08:46.419+02:00
+modified: 2026-09-08T16:03:38.980+02:00
+published: 2026-09-08T16:03:38.980+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -25,8 +25,6 @@ effect:
   - Light
 zauberliste:
   - Primal
-  - Artificer
-  - Bard
 source: Player's Handbook 2024
 ---
 
@@ -45,9 +43,9 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Duration:**|1 Minute |
 > |**Concentration:**|x |
 > |**Attack/Save:**|DEX|
-> |**Spell List:**|Primal,Artificer,Bard |
+> |**Spell List:**|Primal |
 
-Objects in a <u>20-foot Cube</u> within range are outlined in blue, green, or violet light (your choice). Each creature in the Cube makes a **DEX Save**. _**Failure:**_ The creature is also outlined.
+Objects in a <u>10-foot radius Sphere</u> within range are outlined in blue, green, or violet light (your choice). Each creature in the Cube makes a **DEX Save**. _**Failure:**_ The creature is also outlined.
 
 For the duration, objects and affected creatures shed [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Illumination/5e - Dim Light|💡Dim Light]] in a <u>10-foot radius</u>, can't benefit from the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Invisible|☠️Invisible]] condition and have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Exposed|☠️Exposed]] condition.
 

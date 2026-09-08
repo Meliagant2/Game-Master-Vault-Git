@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Creating a Spell
 created: 2026-09-04T11:53:34.106+02:00
-modified: 2026-09-04T14:20:39.595+02:00
-published: 2026-09-04T14:20:39.595+02:00
+modified: 2026-09-08T10:29:23.056+02:00
+published: 2026-09-08T10:29:23.056+02:00
 tags:
   - "#Combatrules"
   - "#5e"
@@ -49,7 +49,7 @@ The table below offers average values for spell damage. This allows for the usag
 |      6      |     66     |              54              |        54        |                 42                 |
 |      7      |     77     |              63              |        63        |                 49                 |
 |      8      |     88     |              72              |        72        |                 56                 |
-|      9      |     99     |              81              |        81        |                 73                 |
+|      9      |     99     |              81              |        81        |                 63                 |
 
 ##### Average Dice Values
 

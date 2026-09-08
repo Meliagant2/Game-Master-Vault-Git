@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - Oath of Vengeance🦸‍♀️
 created: 2026-07-28T10:25:11.789+02:00
-modified: 2026-09-07T13:28:09.141+02:00
-published: 2026-09-07T13:28:09.141+02:00
+modified: 2026-09-08T15:31:18.592+02:00
+published: 2026-09-08T15:31:18.592+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -34,7 +34,7 @@ You gain oath spells at the paladin levels listed below. You always have these s
 
 **<u>3rd level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Enchantment/5e - Level 1 Enchantment/5e - Bane (Spell)|☄️Bane]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Enchantment/5e - Level 1 Enchantment/5e - Compelled Duel (Spell)|☄️Compelled Duel]]
 
-**<u>5th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Enchantment/5e - Level 2 Enchantment/5e - Hold Person (Spell)|☄️Hold Person]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Conjuration/5e - 000 Conjuration Control/5e - Misty Step (Spell)|☄️Misty Step]]
+**<u>5th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Enchantment/5e - Level 2 Enchantment/5e - Hold Person (Spell)|☄️Hold Person]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Conjuration/5e - Level 2 Conjuration/5e - Misty Step (Spell)|☄️Misty Step]]
 
 **<u>9th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Transmutation/5e - Level 3 Transmutation/5e - Haste (Spell)|☄️Haste]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - 000 Abjuration Control/abj 3/5e - Protection from Energy (Spell)|☄️Protection from Energy]]
 

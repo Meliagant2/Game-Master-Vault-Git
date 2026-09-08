@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - Oath of the Watchers🦸‍♀️
 created: 2026-07-28T10:25:11.789+02:00
-modified: 2026-09-07T13:20:47.923+02:00
-published: 2026-09-07T13:20:47.923+02:00
+modified: 2026-09-08T16:06:41.647+02:00
+published: 2026-09-08T16:06:41.647+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -35,7 +35,7 @@ You gain oath spells at the paladin levels listed below. You always have these s
 
 **<u>3rd level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - Level 1 Abjuration/5e - Alarm (Spell)|☄️Alarm]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Divination/5e - Level 1 Divination/5e - Detect Magic (Spell)|☄️Detect Magic]]
 
-**<u>5th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Evocation/5e - Level 2 Evocation/5e - Moonbeam (Spell)|☄️Moonbeam]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Divination/5e - 000 Divination Control/5e - See Invisibility (Spell)|☄️See Invisibility]]
+**<u>5th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Evocation/5e - 000 Evocation Control/5e - Moonbeam (Spell)|☄️Moonbeam]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Divination/5e - Level 2 Divination/5e - See Invisibility (Spell)|☄️See Invisibility]]
 
 **<u>9th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - 000 Abjuration Control/abj 3/5e - Counterspell (Spell)|☄️Counterspell]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - 000 Abjuration Control/abj 3/5e - Nondetection (Spell)|☄️Nondetection]]
 

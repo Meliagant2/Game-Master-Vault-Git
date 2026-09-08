@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Vicious Mockery
 created: 2026-07-29T11:52:43.158+02:00
-modified: 2026-09-07T10:53:28.370+02:00
-published: 2026-09-07T10:53:28.370+02:00
+modified: 2026-09-08T16:00:48.096+02:00
+published: 2026-09-08T16:00:48.096+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -24,7 +24,7 @@ effect:
   - Psychic
   - Taunted
 zauberliste:
-  - Bard
+  - Occult
 source: Player's Handbook 2024
 ---
 
@@ -43,7 +43,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|  |
 > |**Attack/Save:**|WIS|
-> |**Spell List:**|Bard |
+> |**Spell List:**|Occult |
 
 You unleash a string of provoking words at a creature that can hear and understand you within range. The creature makes a **WIS Save**. _**Failure:**_ The Target takes `2d4` <u>Psychic</u> damage and is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Taunted|☠️Taunted]] by you until <u>the start of your next turn</u>.
 

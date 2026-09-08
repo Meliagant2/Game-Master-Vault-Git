@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Cleanse
 created: 2026-07-30T07:23:30.415+02:00
-modified: 2026-09-07T10:49:05.328+02:00
-published: 2026-09-07T10:49:05.328+02:00
+modified: 2026-09-08T15:58:48.995+02:00
+published: 2026-09-08T15:58:48.995+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -24,7 +24,6 @@ effect:
 zauberliste:
   - Divine
   - Primal
-  - Artificer
 source: Self
 ---
 
@@ -43,7 +42,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
-> |**Spell List:**|Divine,Primal,Artificer |
+> |**Spell List:**|Divine,Primal |
 
 You touch a willing Creature that is subjected to one or more of the following Conditions: [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Dazed|☠️Dazed]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Deafened|☠️Deafened]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Exposed|☠️Exposed]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Hindered|☠️Hindered]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Impaired|☠️Impaired]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Intimidated|☠️Intimidated]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Rattled|☠️Rattled]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Slowed|☠️Slowed]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Surprised|☠️Surprised]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Taunted|☠️Taunted]], or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Weakened|☠️Weakened]]. Choose `1` of those Conditions. You make an [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Ability Check/5e - Ability Check|🎲Ability Check]], adding your `PB + your Spellcasting Ability modifier` to the roll, against the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Difficulty Class/5e - Difficulty Class|🎲DC]] of the Condition. If the Condition doesn't have a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Difficulty Class/5e - Difficulty Class|🎲DC]], it is equal to the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Difficulty Class/5e - Difficulty Class|🎲DC]] of the source of the Condition. If the source doesn't have a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Difficulty Class/5e - Difficulty Class|🎲DC]], the GM determines the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Difficulty Class/5e - Difficulty Class|🎲DC]] for this check. _**Success:**_ You end the chosen Condition on the Creature.
 

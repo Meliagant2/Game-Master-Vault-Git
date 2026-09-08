@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Hellish Rebuke
 created: 2026-07-20T12:11:02.781+02:00
-modified: 2026-09-07T15:13:10.121+02:00
-published: 2026-09-07T15:13:10.121+02:00
+modified: 2026-09-08T16:04:05.727+02:00
+published: 2026-09-08T16:04:05.727+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -23,7 +23,7 @@ save-Att: DEX
 effect:
   - Fire
 zauberliste:
-  - Warlock
+  - Occult
 source: Player's Handbook 2024
 ---
 
@@ -42,7 +42,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|  |
 > |**Attack/Save:**|DEX|
-> |**Spell List:**|Warlock |
+> |**Spell List:**|Occult |
 
 The creature that damaged you is momentarily surrounded by hellish flames. It makes a **DEX Save**. _**Failure:**_ It takes `2d10` <u>Fire</u> damage. _**Success:**_ The creature takes half the damage only.
 

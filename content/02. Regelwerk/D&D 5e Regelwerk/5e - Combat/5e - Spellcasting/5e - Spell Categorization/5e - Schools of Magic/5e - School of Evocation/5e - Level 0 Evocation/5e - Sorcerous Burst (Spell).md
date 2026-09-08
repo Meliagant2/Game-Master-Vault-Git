@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Sorcerous Burst
 created: 2026-07-29T13:11:10.092+02:00
-modified: 2026-09-07T10:57:19.242+02:00
-published: 2026-09-07T10:57:19.242+02:00
+modified: 2026-09-08T16:01:33.056+02:00
+published: 2026-09-08T16:01:33.056+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -29,7 +29,7 @@ effect:
   - Psychic
   - Thunder
 zauberliste:
-  - Sorcerer
+  - Arcane
 source: Player's Handbook 2024
 ---
 
@@ -48,7 +48,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|  |
 > |**Attack/Save:**|Ranged|
-> |**Spell List:**|Sorcerer |
+> |**Spell List:**|Arcane |
 
 You cast sorcerous energy at one creature or object within range. Make a <u>ranged</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Effects/5e - Spell Attack Roll|☄️Spell Attack]] against the target. On a _**hit**_, the target takes `1d8` damage of a type you choose: <u>Acid</u>, <u>Cold</u>, <u>Fire</u>, <u>Lightning</u>, <u>Poison</u>, <u>Psychic</u>, or <u>Thunder</u>.
 

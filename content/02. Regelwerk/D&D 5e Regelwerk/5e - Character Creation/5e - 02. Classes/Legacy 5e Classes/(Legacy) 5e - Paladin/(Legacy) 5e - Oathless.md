@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - Oathless🦸‍♀️
 created: 2026-07-28T10:25:11.789+02:00
-modified: 2026-09-07T13:54:37.610+02:00
-published: 2026-09-07T13:54:37.610+02:00
+modified: 2026-09-08T15:38:58.714+02:00
+published: 2026-09-08T15:38:58.714+02:00
 tags:
   - "#Subclass"
   - "#5e"

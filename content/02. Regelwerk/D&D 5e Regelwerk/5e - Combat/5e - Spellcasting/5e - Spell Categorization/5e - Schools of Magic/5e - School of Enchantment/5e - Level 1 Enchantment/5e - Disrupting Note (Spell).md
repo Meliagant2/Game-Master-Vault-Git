@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Disrupting Note
 created: 2026-07-30T15:55:24.616+02:00
-modified: 2026-09-07T13:37:36.744+02:00
-published: 2026-09-07T13:37:36.744+02:00
+modified: 2026-09-08T16:02:24.808+02:00
+published: 2026-09-08T16:02:24.808+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -24,7 +24,7 @@ effect:
   - Debuff
   - Psychic
 zauberliste:
-  - Bard
+  - Occult
 source: Self
 ---
 
@@ -43,7 +43,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|  |
 > |**Attack/Save:**|CON|
-> |**Spell List:**|Bard |
+> |**Spell List:**|Occult |
 
 You play a discordant note on your instrument aimed at a creature [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Concentration/5e - Concentration|🎲Concentrating]] on a spell or effect within range. The target makes a **CON Save**. _**Failure:**_ The creature looses [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Concentration/5e - Concentration|🎲Concentration]] on the spell or effect and takes `2d6` <u>Psychic</u> damage.
 

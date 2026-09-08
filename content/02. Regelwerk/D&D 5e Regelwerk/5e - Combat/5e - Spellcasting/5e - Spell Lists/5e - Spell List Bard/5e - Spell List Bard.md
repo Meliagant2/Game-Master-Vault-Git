@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Bard Spell List☄️
 created: 2026-07-30T08:37:02.056+02:00
-modified: 2026-09-04T11:23:47.530+02:00
-published: 2026-09-04T11:23:47.530+02:00
+modified: 2026-09-08T16:06:22.056+02:00
+published: 2026-09-08T16:06:22.056+02:00
 tags:
   - "#Combatrules"
   - "#5e"
@@ -23,6 +23,13 @@ status: ✅
 3. All Arcane Enchantment Spells
 4. All Arcane Divination Spells
 5. All "Conjure" Spells
+
+All Illusion, Enchantment, Divination Spells
+
+BARDCRAFT
+Thunder damage Spells
+
+CHECK ALL FUCKING SPELL SCHOOLS!
 
 ```base
 views:

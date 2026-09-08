@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Mending
 created: 2026-07-21T11:18:45.011+02:00
-modified: 2026-09-07T11:03:15.350+02:00
-published: 2026-09-07T11:03:15.350+02:00
+modified: 2026-09-08T16:01:59.491+02:00
+published: 2026-09-08T16:01:59.491+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -25,7 +25,6 @@ zauberliste:
   - Arcane
   - Divine
   - Primal
-  - Bard
 source: Player's Handbook 2024
 ---
 
@@ -44,7 +43,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
-> |**Spell List:**|Arcane,Divine,Primal,Bard |
+> |**Spell List:**|Arcane,Divine,Primal |
 
 This spell repairs a single break or tear in an object you touch, such as a broken chain link, two halves of a broken key, a torn cloak, or a leaking wineskin. As long as the break or tear is no larger than <u>30 cm</u> in any dimension, you mend it, leaving no trace of the former damage.
 

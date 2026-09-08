@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Compelled Duel
 created: 2026-07-28T11:58:45.741+02:00
-modified: 2026-09-07T13:30:13.491+02:00
-published: 2026-09-07T13:30:13.491+02:00
+modified: 2026-09-08T16:03:06.676+02:00
+published: 2026-09-08T16:03:06.676+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -24,7 +24,7 @@ effect:
   - Control
   - Taunted
 zauberliste:
-  - Paladin
+  - Divine
 source: Player's Handbook 2024
 ---
 
@@ -43,7 +43,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Duration:**|1 Minute |
 > |**Concentration:**|x |
 > |**Attack/Save:**|WIS|
-> |**Spell List:**|Paladin |
+> |**Spell List:**|Divine |
 
 You try to compel a creature into a duel. One creature that you can see within range makes a **WIS Save**. _**Failure:**_ The target is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Taunted|☠️Taunted]] by you and it can't willingly move to a space that is more than <u>30 feet</u> away from you.
 

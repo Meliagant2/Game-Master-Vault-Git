@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Resistance
 created: 2026-07-20T12:11:02.688+02:00
-modified: 2026-09-07T10:49:44.666+02:00
-published: 2026-09-07T10:49:44.666+02:00
+modified: 2026-09-08T16:01:40.147+02:00
+published: 2026-09-08T16:01:40.147+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -24,8 +24,6 @@ effect:
 zauberliste:
   - Divine
   - Primal
-  - Artificer
-  - Blood Hunter
 source: Player's Handbook 2024
 ---
 
@@ -44,7 +42,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
-> |**Spell List:**|Divine,Primal,Artificer,Blood Hunter |
+> |**Spell List:**|Divine,Primal |
 
 You channel magical protection to the creature who _failed_ the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Save]]. That creature can roll `1d4` and add the number rolled to the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Save]], potentially turning it into a _success_.
 

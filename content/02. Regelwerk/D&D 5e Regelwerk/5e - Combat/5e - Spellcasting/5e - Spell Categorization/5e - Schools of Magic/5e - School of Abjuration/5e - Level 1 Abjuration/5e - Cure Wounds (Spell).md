@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Cure Wounds
 created: 2026-07-30T14:31:21.694+02:00
-modified: 2026-09-07T14:43:03.397+02:00
-published: 2026-09-07T14:43:03.397+02:00
+modified: 2026-09-08T16:02:49.962+02:00
+published: 2026-09-08T16:02:49.962+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -24,8 +24,6 @@ effect:
 zauberliste:
   - Divine
   - Primal
-  - Artificer
-  - Bard
 source: Player's Handbook 2024
 ---
 
@@ -44,7 +42,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
-> |**Spell List:**|Divine,Primal,Artificer,Bard |
+> |**Spell List:**|Divine,Primal |
 
 A creature you touch regains a number of [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|💖Hit Points]] equal to `2d8 + your spellcasting ability modifier`.
 

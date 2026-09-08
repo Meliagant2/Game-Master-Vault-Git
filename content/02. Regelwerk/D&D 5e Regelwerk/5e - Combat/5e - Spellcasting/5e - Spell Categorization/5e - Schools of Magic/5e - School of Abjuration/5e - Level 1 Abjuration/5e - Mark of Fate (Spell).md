@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Mark of Fate
 created: 2026-07-30T15:21:47.201+02:00
-modified: 2026-09-07T12:30:23.284+02:00
-published: 2026-09-07T12:30:23.284+02:00
+modified: 2026-09-08T16:04:23.610+02:00
+published: 2026-09-08T16:04:23.610+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -23,7 +23,7 @@ effect:
   - ADV
   - Buff
 zauberliste:
-  - Cleric
+  - Divine
   - Occult
 source: Self
 ---
@@ -43,7 +43,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
-> |**Spell List:**|Cleric,Occult |
+> |**Spell List:**|Divine,Occult |
 
 Until <u>the start of your next turn</u>, the target of this spell has a <u>+3</u> bonus to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Saves]], including against the triggering effect.
 

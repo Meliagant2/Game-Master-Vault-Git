@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Floating Disk
 created: 2026-07-30T17:15:33.831+02:00
-modified: 2026-09-07T13:07:33.889+02:00
-published: 2026-09-07T13:07:33.889+02:00
+modified: 2026-09-08T16:03:50.795+02:00
+published: 2026-09-08T16:03:50.795+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -23,7 +23,7 @@ effect:
   - Movement
   - Ritual
 zauberliste:
-  - Wizard
+  - Arcane
 source: Player's Handbook 2024
 ---
 
@@ -42,7 +42,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Duration:**|1 Hour |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
-> |**Spell List:**|Wizard |
+> |**Spell List:**|Arcane |
 
 This spell creates a circular, horizontal plane of force, <u>1 meter</u> in diameter and <u>2,5 cm</u> thick, that floats <u>3 feet</u> above the ground in an unoccupied space of your choice that you can see within range. The disk remains for the duration and can hold up to <u>250 kg</u>. If more weight is placed on it, the spell ends, and everything on the disk falls to the ground.
 

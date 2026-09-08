@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Dark Gift - Watchers
 created: 2026-08-19T11:06:07.818+02:00
-modified: 2026-09-07T13:20:47.956+02:00
-published: 2026-09-07T13:20:47.956+02:00
+modified: 2026-09-08T14:39:10.574+02:00
+published: 2026-09-08T14:39:10.574+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -34,7 +34,7 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Fea
 
 Something unnatural is always watching you, taking the form of scurrying vermin and other eerie creatures. You gain the following features:
 
-**<u>Borrowed Eyes:</u>** You always have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Divination/5e - 000 Divination Control/5e - Beast Sense (Spell)|☄️Beast Sense]] and [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Divination/5e - Level 1 Divination/5e - Speak with Animals (Spell)|☄️Speak with Animals]] spells prepared. You can cast each spell without a spell slot <u>once</u>, and you must finish a **Long Rest** before you can cast it in this way again. You can also cast these spells using spell slots you have of the appropriate level. <u>INT</u>, <u>WIS</u>, or <u>CHA</u> is your spellcasting ability for this feat's spells (whichever is highest).
+**<u>Borrowed Eyes:</u>** You always have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Divination/5e - Level 2 Divination/5e - Beast Sense (Spell)|☄️Beast Sense]] and [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Divination/5e - Level 1 Divination/5e - Speak with Animals (Spell)|☄️Speak with Animals]] spells prepared. You can cast each spell without a spell slot <u>once</u>, and you must finish a **Long Rest** before you can cast it in this way again. You can also cast these spells using spell slots you have of the appropriate level. <u>INT</u>, <u>WIS</u>, or <u>CHA</u> is your spellcasting ability for this feat's spells (whichever is highest).
 
 **<u>Heightened Suspicion:</u>** Whenever you take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Search|⚔️Search]] action, you can roll `1d4` and add the number rolled to any ability check made as part of that action.
 

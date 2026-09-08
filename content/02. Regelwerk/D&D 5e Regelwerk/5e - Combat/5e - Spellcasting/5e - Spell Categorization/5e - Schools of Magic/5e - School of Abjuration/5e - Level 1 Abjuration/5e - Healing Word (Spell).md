@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Healing Word
 created: 2026-07-30T14:54:06.722+02:00
-modified: 2026-09-07T14:43:09.917+02:00
-published: 2026-09-07T14:43:09.917+02:00
+modified: 2026-09-08T16:04:00.765+02:00
+published: 2026-09-08T16:04:00.765+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -24,7 +24,6 @@ effect:
 zauberliste:
   - Divine
   - Primal
-  - Bard
 source: Player's Handbook 2024
 ---
 
@@ -43,7 +42,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
-> |**Spell List:**|Divine,Primal,Bard |
+> |**Spell List:**|Divine,Primal |
 
 A creature of your choice that you can see within range regains a number of [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|💖Hit Points]] equal to `2d4 + your spellcasting ability modifier`.
 

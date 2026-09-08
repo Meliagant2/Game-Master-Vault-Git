@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Magic Missile
 created: 2026-07-30T11:52:16.896+02:00
-modified: 2026-09-07T15:15:29.233+02:00
-published: 2026-09-07T15:15:29.233+02:00
+modified: 2026-09-08T10:33:36.690+02:00
+published: 2026-09-08T10:33:36.690+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -43,9 +43,9 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane |
 
-You create <u>three</u> glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals `1d4 + 1` <u>Force</u> damage to its target. You roll for damage <u>once</u> but every missile counts as a separate instance of damage. The darts all strike simultaneously, and you can direct them to hit one creature or several.
+You create <u>two</u> glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals `1d4 + 1` <u>Force</u> damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several.
 
-**<u>Using a Higher-Level Spell Slot:</u>** The spell creates one more dart for each spell slot level above 1.
+**<u>Using a Higher-Level Spell Slot:</u>** The spell creates <u>two</u> more dart for each spell slot level above 1.
 
 ## Quelle
 

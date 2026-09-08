@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Druidcraft
 created: 2026-07-21T11:00:33.598+02:00
-modified: 2026-09-07T11:02:26.862+02:00
-published: 2026-09-07T11:02:26.862+02:00
+modified: 2026-09-08T15:58:57.181+02:00
+published: 2026-09-08T15:58:57.181+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -22,7 +22,7 @@ c: " "
 effect:
   - Control
 zauberliste:
-  - Druid
+  - Primal
 source: Player's Handbook 2024
 ---
 
@@ -41,7 +41,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
-> |**Spell List:**|Druid |
+> |**Spell List:**|Primal |
 
 Whispering to the spirits of nature, you create one of the following effects within range.
 

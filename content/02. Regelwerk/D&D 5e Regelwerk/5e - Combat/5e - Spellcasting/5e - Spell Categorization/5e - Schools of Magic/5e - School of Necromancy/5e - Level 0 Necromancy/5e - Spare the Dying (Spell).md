@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Spare the Dying
 created: 2026-07-29T10:28:17.609+02:00
-modified: 2026-09-07T11:01:13.938+02:00
-published: 2026-09-07T11:01:13.938+02:00
+modified: 2026-09-08T16:01:27.264+02:00
+published: 2026-09-08T16:01:27.264+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -22,7 +22,6 @@ c: " "
 zauberliste:
   - Divine
   - Primal
-  - Artificer
 effect:
   - Healing
 source: Player's Handbook 2024
@@ -43,7 +42,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
-> |**Spell List:**|Divine,Primal,Artificer |
+> |**Spell List:**|Divine,Primal |
 
 Choose a creature within range that has `0` [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|💖Hit Points]] and isn't dead. The creature becomes [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Stable|☠️Stable]].
 

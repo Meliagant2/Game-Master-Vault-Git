@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Armor of Agathys
 created: 2026-07-28T10:30:04.690+02:00
-modified: 2026-09-07T12:42:52.349+02:00
-published: 2026-09-07T12:42:52.349+02:00
+modified: 2026-09-08T16:03:17.618+02:00
+published: 2026-09-08T16:03:17.618+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -27,7 +27,7 @@ effect:
   - Necrotic
   - Radiant
 zauberliste:
-  - Warlock
+  - Occult
 source: Player's Handbook 2024
 ---
 
@@ -46,7 +46,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Duration:**|8 Hours |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
-> |**Spell List:**|Warlock |
+> |**Spell List:**|Occult |
 
 A protective magical force surrounds you, manifesting as a spectral magical effect that covers you and your gear. When you cast this spell choose one of the following damage types: <u>cold</u>, <u>fire</u>, <u>lightning</u>, <u>necrotic</u>, or <u>radiant</u>. You gain `5` <u>temporary hit points</u> for the duration. If a creature hits you with a <u>melee attack</u> while you have these hit points, the creature takes <u>5</u> damage of the chosen damage type.
 

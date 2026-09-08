@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - Bladeseer🦸‍♀️
 created: 2026-07-27T12:09:46.510+02:00
-modified: 2026-09-07T13:20:47.900+02:00
-published: 2026-09-07T13:20:47.900+02:00
+modified: 2026-09-08T15:07:15.872+02:00
+published: 2026-09-08T15:07:15.872+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -37,7 +37,7 @@ Your <u>prophecy die</u> lasts for a number of rounds equal to your proficiency 
 
 ### Level 6: Weave Sight
 
-While you have a <u>prophecy die</u>, you can spend `2 exertion` as a **Reaction** to trace the strands of fate and see invisible creatures and objects as per the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Divination/5e - 000 Divination Control/5e - See Invisibility (Spell)|☄️See Invisibility]] spell. This effect lasts for the duration of your <u>prophecy die</u>.
+While you have a <u>prophecy die</u>, you can spend `2 exertion` as a **Reaction** to trace the strands of fate and see invisible creatures and objects as per the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Divination/5e - Level 2 Divination/5e - See Invisibility (Spell)|☄️See Invisibility]] spell. This effect lasts for the duration of your <u>prophecy die</u>.
 
 Additionally, your <u>prophecy die</u> now starts as a `d8` and the maximum size of your prophecy die increases to a `d10`.
 

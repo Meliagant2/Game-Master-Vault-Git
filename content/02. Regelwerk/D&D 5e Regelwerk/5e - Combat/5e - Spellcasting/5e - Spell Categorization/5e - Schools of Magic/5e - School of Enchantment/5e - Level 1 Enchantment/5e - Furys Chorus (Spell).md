@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Furys Chorus☄️
 created: 2026-07-30T17:40:59.693+02:00
-modified: 2026-09-07T13:33:20.020+02:00
-published: 2026-09-07T13:33:20.020+02:00
+modified: 2026-09-08T15:17:43.790+02:00
+published: 2026-09-08T15:17:43.790+02:00
 tags:
   - "#Spell"
   - "#5e"

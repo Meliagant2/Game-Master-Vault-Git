@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Freeze
 created: 2026-09-07T10:43:48.786+02:00
-modified: 2026-09-07T11:10:31.194+02:00
-published: 2026-09-07T11:10:31.194+02:00
+modified: 2026-09-08T10:41:42.378+02:00
+published: 2026-09-08T10:41:42.378+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -24,7 +24,6 @@ effect:
   - Cold
 zauberliste:
   - Arcane
-  - Occult
   - Primal
 source: Northlands Worldbook
 ---
@@ -44,7 +43,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|  |
 > |**Attack/Save:**|Ranged|
-> |**Spell List:**|Arcane,Occult,Primal |
+> |**Spell List:**|Arcane,Primal |
 > |**Effect:**|Cold |
 
 You blow a cloud of frigid air at a creature or object within range. Make a <u>ranged</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Effects/5e - Spell Attack Roll|☄️Spell Attack]] against the target. On a _**hit**_, the target takes `1d10` <u>Cold</u> damage, or `1d12` if the target is at least partially _submerged in water_.

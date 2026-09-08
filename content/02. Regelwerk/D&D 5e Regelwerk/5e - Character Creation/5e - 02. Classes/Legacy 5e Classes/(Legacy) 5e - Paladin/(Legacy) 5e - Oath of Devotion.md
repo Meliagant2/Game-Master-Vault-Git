@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - Oath of Devotion🦸‍♀️
 created: 2026-07-28T10:25:11.789+02:00
-modified: 2026-09-07T12:35:05.315+02:00
-published: 2026-09-07T12:35:05.315+02:00
+modified: 2026-09-08T15:51:37.426+02:00
+published: 2026-09-08T15:51:37.426+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -35,7 +35,7 @@ You gain oath spells at the paladin levels listed below. You always have these s
 
 **<u>3rd level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - Level 1 Abjuration/5e - Protection from Evil and Good (Spell)|☄️Protection from Evil and Good]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - Level 1 Abjuration/5e - Shield of Faith (Spell)|☄️Shield of Faith]]
 
-**<u>5th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - 000 Abjuration Control/abj 2/5e - Aid (Spell)|☄️Aid]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Enchantment/5e - Level 2 Enchantment/5e - Zone of Truth (Spell)|☄️Zone of Truth]]
+**<u>5th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - Level 2 Abjuration/5e - Aid (Spell)|☄️Aid]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Enchantment/5e - Level 2 Enchantment/5e - Zone of Truth (Spell)|☄️Zone of Truth]]
 
 **<u>9th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - 000 Abjuration Control/abj 3/5e - Beacon of Hope (Spell)|☄️Beacon of Hope]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - 000 Abjuration Control/abj 3/5e - Dispel Magic (Spell)|☄️Dispel Magic]]
 

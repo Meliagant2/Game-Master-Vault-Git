@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - Oath of Redemption🦸‍♀️
 created: 2026-07-28T10:25:11.789+02:00
-modified: 2026-09-07T13:51:53.517+02:00
-published: 2026-09-07T13:51:53.517+02:00
+modified: 2026-09-08T15:31:18.584+02:00
+published: 2026-09-08T15:31:18.584+02:00
 tags:
   - "#Subclass"
   - "#5e"

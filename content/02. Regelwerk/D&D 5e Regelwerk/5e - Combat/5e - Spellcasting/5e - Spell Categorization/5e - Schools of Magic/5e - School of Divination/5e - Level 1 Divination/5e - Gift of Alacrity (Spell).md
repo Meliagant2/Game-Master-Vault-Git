@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Gift of Alacrity
 created: 2026-07-30T16:57:47.415+02:00
-modified: 2026-09-07T13:21:57.031+02:00
-published: 2026-09-07T13:21:57.031+02:00
+modified: 2026-09-08T16:03:55.444+02:00
+published: 2026-09-08T16:03:55.444+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -23,7 +23,7 @@ effect:
   - Initiative
   - Buff
 zauberliste:
-  - Wizard
+  - Arcane
 source: Explorer's Guide to Wildemount
 ---
 
@@ -42,7 +42,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Duration:**|8 Hours |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
-> |**Spell List:**|Wizard |
+> |**Spell List:**|Arcane |
 
 You touch a willing creature. For the duration, the target can add `1d8` to its [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Initiative|🎲Initiative]] rolls.
 

@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Protection from Evil and Good
 created: 2026-07-28T10:52:33.632+02:00
-modified: 2026-09-07T12:31:23.495+02:00
-published: 2026-09-07T12:31:23.495+02:00
+modified: 2026-09-08T16:04:34.541+02:00
+published: 2026-09-08T16:04:34.541+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -23,8 +23,8 @@ effect:
   - Buff
 zauberliste:
   - Divine
+  - Occult
   - Primal
-  - Warlock
 source: Player's Handbook 2024
 ---
 
@@ -43,7 +43,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Duration:**|10 Minutes |
 > |**Concentration:**|x |
 > |**Attack/Save:**||
-> |**Spell List:**|Divine,Primal,Warlock |
+> |**Spell List:**|Divine,Occult,Primal |
 
 Until the spell ends, one willing creature you touch is protected against creatures that are <u>Aberrations</u>, <u>Celestials</u>, <u>Elementals</u>, <u>Fey</u>, <u>Fiends</u>, or <u>Undead</u>. The protection grants several benefits:
 

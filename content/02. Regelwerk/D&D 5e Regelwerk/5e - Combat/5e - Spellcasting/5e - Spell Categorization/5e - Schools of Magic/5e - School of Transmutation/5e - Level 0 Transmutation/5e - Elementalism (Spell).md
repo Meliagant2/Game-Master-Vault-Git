@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Elementalism
 created: 2026-07-20T12:11:02.835+02:00
-modified: 2026-09-07T11:14:14.988+02:00
-published: 2026-09-07T11:14:14.988+02:00
+modified: 2026-09-08T15:59:07.686+02:00
+published: 2026-09-08T15:59:07.686+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -24,7 +24,6 @@ effect:
 zauberliste:
   - Arcane
   - Primal
-  - Sorcerer
 source: Player's Handbook 2024
 ---
 
@@ -43,7 +42,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
-> |**Spell List:**|Arcane,Primal,Sorcerer |
+> |**Spell List:**|Arcane,Primal |
 
 You exert control over the elements, creating one of the following effects within range.
 

@@ -2,8 +2,8 @@
 publish: true
 title: ☄️(Legacy) 5e - Frostbite☄️
 created: 2026-07-22T14:00:06.625+02:00
-modified: 2026-08-26T10:09:55.686+02:00
-published: 2026-08-26T10:09:55.686+02:00
+modified: 2026-09-08T15:56:22.152+02:00
+published: 2026-09-08T15:56:22.152+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -25,7 +25,6 @@ effect:
 zauberliste:
   - Arcane
   - Primal
-  - Blood Hunter
 ---
 
 # ☄️(Legacy) 5e - Frostbite☄️
@@ -41,7 +40,7 @@ zauberliste:
 > |**Duration:**|Instantanous |
 > |**Concentration:**|  |
 > |**Attack/Save:**|CON|
-> |**Spell List:**|Arcane,Primal,Blood Hunter |
+> |**Spell List:**|Arcane,Primal |
 
 You cause numbing frost to form on one creature that you can see within range. The target makes a **CON Save**. _**Failure:**_ The target takes `1d8` <u>Cold</u> damage, and is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Hindered|☠️Hindered]] on the next weapon attack roll it makes before the end of its next turn.
 

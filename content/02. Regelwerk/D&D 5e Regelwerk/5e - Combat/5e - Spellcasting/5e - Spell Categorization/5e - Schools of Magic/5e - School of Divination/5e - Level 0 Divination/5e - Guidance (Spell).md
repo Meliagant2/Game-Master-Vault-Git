@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Guidance
 created: 2026-07-20T12:11:02.735+02:00
-modified: 2026-09-07T10:52:51.288+02:00
-published: 2026-09-07T10:52:51.288+02:00
+modified: 2026-09-08T16:00:28.969+02:00
+published: 2026-09-08T16:00:28.969+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -23,9 +23,7 @@ effect:
   - Buff
 zauberliste:
   - Divine
-  - Occult
   - Primal
-  - Artificer
 source: Player's Handbook 2024
 ---
 
@@ -44,7 +42,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
-> |**Spell List:**|Divine,Occult,Primal,Artificer |
+> |**Spell List:**|Divine,Primal |
 
 You channel magical insight to the creature who makes the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Ability Check/5e - Ability Check|🎲Ability Check]] within _range_. That creature can roll `1d4` and add the number rolled to the check.
 

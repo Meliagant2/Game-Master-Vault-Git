@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - Oath of the Open Sea🦸‍♀️
 created: 2026-07-28T10:25:11.789+02:00
-modified: 2026-09-07T14:29:05.161+02:00
-published: 2026-09-07T14:29:05.161+02:00
+modified: 2026-09-08T14:37:50.013+02:00
+published: 2026-09-08T14:37:50.013+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -36,7 +36,7 @@ You gain oath spells at the paladin levels listed below. You always have these s
 
 **<u>3rd level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Transmutation/5e - Level 1 Transmutation/5e - Create or Destroy Water (Spell)|☄️Create or Destroy Water]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Transmutation/5e - Level 1 Transmutation/5e - Expeditious Retreat (Spell)|☄️Expeditious Retreat]]
 
-**<u>5th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Divination/5e - 000 Divination Control/5e - Augury (Spell)|☄️Augury]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Conjuration/5e - 000 Conjuration Control/5e - Misty Step (Spell)|☄️Misty Step]]
+**<u>5th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Divination/5e - Level 2 Divination/5e - Augury (Spell)|☄️Augury]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Conjuration/5e - Level 2 Conjuration/5e - Misty Step (Spell)|☄️Misty Step]]
 
 **<u>9th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Conjuration/5e - Level 3 Conjuration/5e - Call Lightning (Spell)|☄️Call Lightning]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Conjuration/5e - Level 3 Conjuration/5e - Freedom of the Waves (Spell)|☄️Freedom of the Waves]]
 

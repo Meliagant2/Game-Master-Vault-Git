@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Brightlance
 created: 2026-07-29T12:07:35.166+02:00
-modified: 2026-09-07T10:55:13.938+02:00
-published: 2026-09-07T10:55:13.938+02:00
+modified: 2026-09-08T15:58:40.855+02:00
+published: 2026-09-08T15:58:40.855+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -24,7 +24,7 @@ effect:
   - Lightning
   - Radiant
 zauberliste:
-  - Cleric
+  - Divine
 source: Self
 ---
 
@@ -43,7 +43,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|  |
 > |**Attack/Save:**|Spell Attack|
-> |**Spell List:**|Cleric |
+> |**Spell List:**|Divine |
 
 You hurl, slash, or stab crackling radiant energy at a creature or object within range. This energy takes on the shape of a weapon of your choice. If the target is within <u>5 ft.</u> of you, make a <u>melee</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Effects/5e - Spell Attack Roll|☄️Spell Attack]] against it, otherwise make a <u>ranged</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Effects/5e - Spell Attack Roll|☄️Spell Attack]] against it. This attack roll is made with **DISADV** if the target is further than <u>60 ft.</u> from you. On a _**hit**_ the target takes `1d4` <u>Radiant</u> damage and `1d4` <u>Lightning</u> damage.
 

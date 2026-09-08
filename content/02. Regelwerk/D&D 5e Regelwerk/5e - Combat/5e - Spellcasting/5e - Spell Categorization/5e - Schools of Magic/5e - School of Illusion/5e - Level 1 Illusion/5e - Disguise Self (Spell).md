@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Disguise Self
 created: 2026-07-20T17:49:52.862+02:00
-modified: 2026-09-07T13:45:08.027+02:00
-published: 2026-09-07T13:45:08.027+02:00
+modified: 2026-09-08T16:02:43.227+02:00
+published: 2026-09-08T16:02:43.227+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -24,7 +24,7 @@ effect:
   - Social
 zauberliste:
   - Arcane
-  - Bard
+  - Occult
 source: Player's Handbook 2024
 ---
 
@@ -43,7 +43,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Duration:**|PT1H |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
-> |**Spell List:**|Arcane,Bard |
+> |**Spell List:**|Arcane,Occult |
 
 You make yourself—including your clothing, armor, weapons, and other belongings on your person—look different until the spell ends. You can seem 30 cm shorter or taller and can appear heavier or lighter. You must adopt a form that has the same basic arrangement of limbs as you have. Otherwise, the extent of the illusion is up to you.
 

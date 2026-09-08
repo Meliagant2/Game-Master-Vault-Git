@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Burning Hands
 created: 2026-07-30T10:22:13.588+02:00
-modified: 2026-09-07T14:46:30.589+02:00
-published: 2026-09-07T14:46:30.589+02:00
+modified: 2026-09-08T09:45:16.642+02:00
+published: 2026-09-08T09:45:16.642+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -49,7 +49,7 @@ As you hold your hands with thumbs touching and fingers spread, a thin sheet of 
 
 The fire ignites any flammable objects in the area that aren't being worn or carried.
 
-**<u>Using a Higher-Level Spell Slot:</u>** This spell’s damage increases by `2d6` for each spell slot level above 1.
+**<u>Using a Higher-Level Spell Slot:</u>** This spell’s damage increases by `2d6` for each spell slot level above 1. The cone's size increases with a spell slot of level 3-4 (<u>30-foot Cone</u>), 5-6 (<u>60-foot Cone</u>), or 7+ (<u>120-foot Cone</u>).
 
 ## Quelle
 
