@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Occult Spell Source
 created: 2026-08-17T14:29:28.487+02:00
-modified: 2026-09-04T11:47:59.447+02:00
-published: 2026-09-04T11:47:59.447+02:00
+modified: 2026-09-09T13:43:07.451+02:00
+published: 2026-09-09T13:43:07.451+02:00
 tags:
   - "#Combatrules"
   - "#5e"
@@ -144,7 +144,7 @@ views:
     columnSize:
       file.name: 200
       note.level: 49
-      note.time: 25
+      note.time: 36
       note.c: 24
   - type: table
     name: 5e - Occult; 3rd-level

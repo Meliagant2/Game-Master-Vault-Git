@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Word of Radiance
 created: 2026-07-29T10:45:30.552+02:00
-modified: 2026-09-07T10:58:35.203+02:00
-published: 2026-09-07T10:58:35.203+02:00
+modified: 2026-09-09T09:42:58.206+02:00
+published: 2026-09-09T09:42:58.206+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -16,7 +16,7 @@ reactionbedingung: " "
 school: Evocation
 level: 0
 time: A
-range-Area: 5 ft. Emanation
+range-Area: Self (5 ft. Emanation)
 komponenten: V, M (a holy symbol)
 dauer: Instantaneous
 c: " "
@@ -38,7 +38,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**School:**|Evocation |
 > |**Level:**|0 |
 > |**Casting Time:**|A  |
-> |**Range/Area:**|5 ft. Emanation |
+> |**Range/Area:**|Self (5 ft. Emanation) |
 > |**Components:**|V, M (a holy symbol) |
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|  |

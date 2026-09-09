@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Arms of Hadar
 created: 2026-07-30T16:23:08.742+02:00
-modified: 2026-09-08T16:03:12.139+02:00
-published: 2026-09-08T16:03:12.139+02:00
+modified: 2026-09-09T09:31:45.897+02:00
+published: 2026-09-09T09:31:45.897+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -16,7 +16,7 @@ c: " "
 school: Conjuration
 level: 1
 time: A
-range-Area: 10 ft. Emanation
+range-Area: Self (10 ft. Emanation)
 komponenten: V, S
 dauer: Instantaneous
 save-Att: STR
@@ -37,7 +37,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**School:**|Conjuration |
 > |**Level:**|1 |
 > |**Casting Time:**|A  |
-> |**Range/Area:**|10 ft. Emanation |
+> |**Range/Area:**|Self (10 ft. Emanation) |
 > |**Components:**|V, S |
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|  |

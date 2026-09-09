@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Cloud of Daggers
 created: 2026-09-08T13:44:36.288+02:00
-modified: 2026-09-08T13:46:34.171+02:00
-published: 2026-09-08T13:46:34.171+02:00
+modified: 2026-09-09T09:33:32.101+02:00
+published: 2026-09-09T09:33:32.101+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -17,7 +17,7 @@ source: Player's Handbook 2024
 school: Conjuration
 level: 2
 time: A
-range-Area: 60 ft.
+range-Area: 60 ft. (5 ft. Cube)
 komponenten: V, S, M (a sliver of glass)
 dauer: 1 minute
 effect:
@@ -37,7 +37,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**School:**|Conjuration |
 > |**Level:**|2 |
 > |**Casting Time:**|A  |
-> |**Range/Area:**|60 ft. |
+> |**Range/Area:**|60 ft. (5 ft. Cube) |
 > |**Components:**|V, S, M (a sliver of glass) |
 > |**Duration:**|PT1M |
 > |**Concentration:**|x |

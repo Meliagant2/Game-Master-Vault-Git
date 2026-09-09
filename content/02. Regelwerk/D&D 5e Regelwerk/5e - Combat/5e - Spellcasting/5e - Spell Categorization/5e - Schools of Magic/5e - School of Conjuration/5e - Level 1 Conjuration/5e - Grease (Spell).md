@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Grease
 created: 2026-07-27T11:50:45.144+02:00
-modified: 2026-09-07T13:00:43.284+02:00
-published: 2026-09-07T13:00:43.284+02:00
+modified: 2026-09-09T09:32:55.665+02:00
+published: 2026-09-09T09:32:55.665+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -16,7 +16,7 @@ c: " "
 school: Conjuration
 level: 1
 time: A
-range-Area: 60 ft./10 ft. Radius
+range-Area: 60 ft. (10 ft. Radius)
 komponenten: V, S, M (a bit of pork rind or butter)
 dauer: 1m
 save-Att: DEX
@@ -38,7 +38,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**School:**|Conjuration |
 > |**Level:**|1 |
 > |**Casting Time:**|A  |
-> |**Range/Area:**|60 ft./10 ft. Radius |
+> |**Range/Area:**|60 ft. (10 ft. Radius) |
 > |**Components:**|V, S, M (a bit of pork rind or butter) |
 > |**Duration:**|PT1M |
 > |**Concentration:**|  |

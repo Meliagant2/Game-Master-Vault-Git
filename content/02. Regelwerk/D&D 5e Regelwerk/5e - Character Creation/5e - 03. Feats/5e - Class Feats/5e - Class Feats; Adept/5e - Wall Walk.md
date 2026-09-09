@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Wall Walk
 created: 2026-08-10T15:56:44.190+02:00
-modified: 2026-09-04T10:42:53.196+02:00
-published: 2026-09-04T10:42:53.196+02:00
+modified: 2026-09-09T13:23:29.189+02:00
+published: 2026-09-09T13:23:29.189+02:00
 tags:
   - "#Feat"
   - "#5e"

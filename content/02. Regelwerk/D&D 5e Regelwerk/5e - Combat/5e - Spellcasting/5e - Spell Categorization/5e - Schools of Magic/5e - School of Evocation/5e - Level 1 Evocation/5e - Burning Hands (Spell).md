@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Burning Hands
 created: 2026-07-30T10:22:13.588+02:00
-modified: 2026-09-08T09:45:16.642+02:00
-published: 2026-09-08T09:45:16.642+02:00
+modified: 2026-09-09T09:44:02.125+02:00
+published: 2026-09-09T09:44:02.125+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -16,7 +16,7 @@ c: " "
 school: Evocation
 level: 1
 time: A
-range-Area: 15 ft. Cone
+range-Area: Self (15 ft. Cone)
 komponenten: V, S
 dauer: Instantaneous
 save-Att: DEX
@@ -38,7 +38,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**School:**|Evocation |
 > |**Level:**|1 |
 > |**Casting Time:**|A  |
-> |**Range/Area:**|15 ft. Cone |
+> |**Range/Area:**|Self (15 ft. Cone) |
 > |**Components:**|V, S |
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|  |
@@ -49,7 +49,7 @@ As you hold your hands with thumbs touching and fingers spread, a thin sheet of 
 
 The fire ignites any flammable objects in the area that aren't being worn or carried.
 
-**<u>Using a Higher-Level Spell Slot:</u>** This spell’s damage increases by `2d6` for each spell slot level above 1. The cone's size increases with a spell slot of level 3-4 (<u>30-foot Cone</u>), 5-6 (<u>60-foot Cone</u>), or 7+ (<u>120-foot Cone</u>).
+**<u>Using a Higher-Level Spell Slot:</u>** This spell’s damage increases by `2d6` for each spell slot level above 1. The cone's size increases with a spell slot of level 3-4 (<u>30-foot Cone</u>), or 5+ (<u>60-foot Cone</u>).
 
 ## Quelle
 

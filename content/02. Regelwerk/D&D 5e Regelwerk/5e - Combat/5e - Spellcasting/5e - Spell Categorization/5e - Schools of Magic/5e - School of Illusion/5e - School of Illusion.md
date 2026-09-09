@@ -3,8 +3,8 @@ publish: true
 title: ☄️5e - School of Illusion
 description: Illusion spells create false sensory impressions.
 created: 2026-07-23T11:55:35.338+02:00
-modified: 2026-09-04T10:42:53.937+02:00
-published: 2026-09-04T10:42:53.937+02:00
+modified: 2026-09-09T11:24:33.454+02:00
+published: 2026-09-09T11:24:33.454+02:00
 tags:
   - "#Combatrules"
   - "#5e"
@@ -51,7 +51,7 @@ views:
     columnSize:
       file.name: 200
       note.level: 49
-      note.time: 25
+      note.time: 79
       note.c: 24
   - type: table
     name: 5e - Illusion; Cantrips

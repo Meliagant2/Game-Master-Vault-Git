@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Clue
 created: 2026-09-07T13:12:19.649+02:00
-modified: 2026-09-07T13:14:26.042+02:00
-published: 2026-09-07T13:14:26.042+02:00
+modified: 2026-09-09T09:36:10.669+02:00
+published: 2026-09-09T09:36:10.669+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -17,7 +17,7 @@ source: "Valda's Spire of Secrets: Player Pack 1"
 school: Divination
 level: 1
 time: A [R]
-range-Area: Self
+range-Area: Self (30 ft. Emanation)
 komponenten: " V, S, M (a magnifying glass and pipe)"
 dauer: 10 miutes
 effect:
@@ -40,7 +40,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**School:**|Divination |
 > |**Level:**|1 |
 > |**Casting Time:**|A \[R]  |
-> |**Range/Area:**|Self |
+> |**Range/Area:**|Self (30 ft. Emanation) |
 > |**Components:**| V, S, M (a magnifying glass and pipe) |
 > |**Duration:**|10 miutes |
 > |**Concentration:**|  |

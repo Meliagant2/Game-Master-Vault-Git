@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Detect Magic
 created: 2026-07-21T10:35:52.409+02:00
-modified: 2026-09-07T13:21:50.621+02:00
-published: 2026-09-07T13:21:50.621+02:00
+modified: 2026-09-09T09:36:35.216+02:00
+published: 2026-09-09T09:36:35.216+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -16,7 +16,7 @@ c: x
 school: Divination
 level: 1
 time: A [R]
-range-Area: 30 ft. Emanation
+range-Area: Self (30 ft. Emanation)
 komponenten: V, S
 dauer: 10m
 effect:
@@ -40,7 +40,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**School:**|Divination |
 > |**Level:**|1 |
 > |**Casting Time:**|A \[R]  |
-> |**Range/Area:**|30 ft. Emanation |
+> |**Range/Area:**|Self (30 ft. Emanation) |
 > |**Components:**|V, S |
 > |**Duration:**|PT10M |
 > |**Concentration:**|x |

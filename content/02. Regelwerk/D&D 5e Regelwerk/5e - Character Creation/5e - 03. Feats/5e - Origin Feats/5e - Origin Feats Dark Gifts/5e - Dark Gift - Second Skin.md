@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Dark Gift - Second Skin
 created: 2026-08-19T11:06:07.818+02:00
-modified: 2026-09-04T10:42:53.450+02:00
-published: 2026-09-04T10:42:53.450+02:00
+modified: 2026-09-09T11:58:59.936+02:00
+published: 2026-09-09T11:58:59.936+02:00
 tags:
   - "#Feat"
   - "#5e"

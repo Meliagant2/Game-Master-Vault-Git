@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Web
 created: 2026-09-08T14:24:54.224+02:00
-modified: 2026-09-08T14:29:17.928+02:00
-published: 2026-09-08T14:29:17.928+02:00
+modified: 2026-09-09T09:34:44.894+02:00
+published: 2026-09-09T09:34:44.894+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -17,7 +17,7 @@ source: Player's Handbook 2024
 school: Conjuration
 level: 2
 time: A
-range-Area: 60 ft.
+range-Area: 60 ft. (20 ft. Sphere)
 komponenten: V, S, M (a bit of spiderweb)
 dauer: 1 hour
 save-Att: DEX
@@ -39,7 +39,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**School:**|Conjuration |
 > |**Level:**|2 |
 > |**Casting Time:**|A  |
-> |**Range/Area:**|60 ft. |
+> |**Range/Area:**|60 ft. (20 ft. Sphere) |
 > |**Components:**|V, S, M (a bit of spiderweb) |
 > |**Duration:**|PT1H |
 > |**Concentration:**|x |

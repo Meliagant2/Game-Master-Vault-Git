@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Create or Destroy Water
 created: 2026-07-28T12:46:23.456+02:00
-modified: 2026-09-08T08:25:32.869+02:00
-published: 2026-09-08T08:25:32.869+02:00
+modified: 2026-09-09T09:47:28.837+02:00
+published: 2026-09-09T09:47:28.837+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -16,7 +16,7 @@ c: " "
 school: Transmutation
 level: 1
 time: A
-range-Area: 30 ft.
+range-Area: 30 ft. (15 ft. Sphere)
 komponenten: V, S, M (a mix of water and sand)
 dauer: Instantaneous
 effect:
@@ -37,7 +37,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**School:**|Transmutation |
 > |**Level:**|1 |
 > |**Casting Time:**|A  |
-> |**Range/Area:**|30 ft. |
+> |**Range/Area:**|30 ft. (15 ft. Sphere) |
 > |**Components:**|V, S, M (a mix of water and sand) |
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|  |

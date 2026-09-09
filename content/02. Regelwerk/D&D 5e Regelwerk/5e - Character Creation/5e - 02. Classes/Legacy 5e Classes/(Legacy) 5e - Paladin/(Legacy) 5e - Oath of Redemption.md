@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - Oath of Redemption🦸‍♀️
 created: 2026-07-28T10:25:11.789+02:00
-modified: 2026-09-08T15:31:18.584+02:00
-published: 2026-09-08T15:31:18.584+02:00
+modified: 2026-09-09T11:15:00.605+02:00
+published: 2026-09-09T11:15:00.605+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -38,7 +38,7 @@ You gain oath spells at the paladin levels listed below. You always have these s
 
 **<u>5th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Enchantment/5e - Level 2 Enchantment/5e - Calm Emotions (Spell)|☄️Calm Emotions]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Enchantment/5e - Level 2 Enchantment/5e - Hold Person (Spell)|☄️Hold Person]]
 
-**<u>9th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - 000 Abjuration Control/abj 3/5e - Counterspell (Spell)|☄️Counterspell]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Illusion/5e - Level 3 Illusion/5e - Hypnotic Pattern (Spell)|☄️Hypnotic Pattern]]
+**<u>9th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - 000 Abjuration Control/abj 3/5e - Counterspell (Spell)|☄️Counterspell]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Illusion/5e - 000 Illusion Control/5e - Hypnotic Pattern (Spell)|☄️Hypnotic Pattern]]
 
 **<u>13th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Evocation/5e - Level 4 Evocation/5e - Resilient Sphere (Spell)|☄️Resilient Sphere]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - Level 4 Abjuration/5e - Stoneskin (Spell)|☄️Stoneskin]]
 

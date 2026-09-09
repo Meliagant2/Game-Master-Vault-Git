@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Shocking Grasp
 created: 2026-07-21T11:22:23.757+02:00
-modified: 2026-09-07T10:57:14.224+02:00
-published: 2026-09-07T10:57:14.224+02:00
+modified: 2026-09-09T15:31:43.521+02:00
+published: 2026-09-09T15:31:43.521+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -44,7 +44,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Attack/Save:**|Melee|
 > |**Spell List:**|Arcane |
 
-Lightning springs from you to a creature that you try to touch. Make a <u>melee</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Effects/5e - Spell Attack Roll|☄️Spell Attack]] against the target. On a _**hit**_, the target takes `1d10` <u>Lightning</u> damage, and it can't make [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Reactions/5e - Opportunity Attack|⚔️Opportunity Attacks]] until the start of its next turn.
+Lightning springs from you to a creature that you try to touch. Make a <u>melee</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Effects/5e - Spell Attack Roll|☄️Spell Attack]] against the target. On a _**hit**_, the target takes `1d10` <u>Lightning</u> damage, and it can't make [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Reactions/5e - Opportunity Attack|⚔️Opportunity Attacks]] until <u>the start of its next turn</u>.
 
 **<u>Cantrip Upgrade:</u>** This spell’s damage increases by `1d10` when you reach levels <u>5</u> (`2d10`), <u>11</u> (`3d10`), and <u>17</u> (`4d10`).
 

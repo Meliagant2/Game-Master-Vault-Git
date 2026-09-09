@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Primal Spell Source
 created: 2026-07-20T12:11:02.819+02:00
-modified: 2026-09-04T11:48:00.689+02:00
-published: 2026-09-04T11:48:00.689+02:00
+modified: 2026-09-09T14:25:27.894+02:00
+published: 2026-09-09T14:25:27.894+02:00
 tags:
   - "#Combatrules"
   - "#5e"
@@ -73,6 +73,8 @@ views:
       - save-Att
       - effect
     sort:
+      - property: school
+        direction: ASC
       - property: level
         direction: ASC
       - property: file.name
@@ -103,6 +105,8 @@ views:
       - save-Att
       - effect
     sort:
+      - property: school
+        direction: ASC
       - property: level
         direction: ASC
       - property: file.name
@@ -133,6 +137,8 @@ views:
       - save-Att
       - effect
     sort:
+      - property: school
+        direction: ASC
       - property: level
         direction: ASC
       - property: file.name

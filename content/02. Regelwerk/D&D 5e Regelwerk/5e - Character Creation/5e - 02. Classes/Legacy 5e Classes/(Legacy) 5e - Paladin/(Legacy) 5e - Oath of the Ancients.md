@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - Oath of the Ancients🦸‍♀️
 created: 2026-07-28T10:25:11.789+02:00
-modified: 2026-09-08T16:06:41.641+02:00
-published: 2026-09-08T16:06:41.641+02:00
+modified: 2026-09-09T10:21:13.678+02:00
+published: 2026-09-09T10:21:13.678+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -34,7 +34,7 @@ You gain oath spells at the paladin levels listed below. You always have these s
 
 **<u>3rd level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Evocation/5e - Level 1 Evocation/5e - Faerie Fire (Spell)|☄️Faerie Fire]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Divination/5e - Level 1 Divination/5e - Speak with Animals (Spell)|☄️Speak with Animals]]
 
-**<u>5th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Conjuration/5e - Level 2 Conjuration/5e - Misty Step (Spell)|☄️Misty Step]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Evocation/5e - 000 Evocation Control/5e - Moonbeam (Spell)|☄️Moonbeam]]
+**<u>5th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Conjuration/5e - Level 2 Conjuration/5e - Misty Step (Spell)|☄️Misty Step]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Evocation/5e - Level 2 Evocation/5e - Moonbeam (Spell)|☄️Moonbeam]]
 
 **<u>9th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Transmutation/5e - Level 3 Transmutation/5e - Plant Growth (Spell)|☄️Plant Growth]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - 000 Abjuration Control/abj 3/5e - Protection from Energy (Spell)|☄️Protection from Energy]]
 

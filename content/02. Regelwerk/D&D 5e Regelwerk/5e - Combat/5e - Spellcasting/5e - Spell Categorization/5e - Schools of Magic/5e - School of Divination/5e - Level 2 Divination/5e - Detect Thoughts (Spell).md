@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Detect Thoughts
 created: 2026-07-20T12:11:02.751+02:00
-modified: 2026-09-08T14:47:24.689+02:00
-published: 2026-09-08T14:47:24.689+02:00
+modified: 2026-09-09T09:37:43.726+02:00
+published: 2026-09-09T09:37:43.726+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -17,7 +17,7 @@ source: Player's Handbook 2024
 school: Divination
 level: 2
 time: A [R]
-range-Area: Self
+range-Area: Self (30 ft. Emanation)
 komponenten: V, S, M (1 Copper Piece)
 dauer: 1 minute
 save-Att: WIS
@@ -40,7 +40,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**School:**|Divination |
 > |**Level:**|2 |
 > |**Casting Time:**|A \[R]  |
-> |**Range/Area:**|Self |
+> |**Range/Area:**|Self (30 ft. Emanation) |
 > |**Components:**|V, S, M (1 Copper Piece) |
 > |**Duration:**|PT1M |
 > |**Concentration:**|x |

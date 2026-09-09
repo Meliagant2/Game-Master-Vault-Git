@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - College of Glamour🦸‍♀️
 created: 2026-07-23T10:41:20.409+02:00
-modified: 2026-09-08T14:49:18.353+02:00
-published: 2026-09-08T14:49:18.353+02:00
+modified: 2026-09-09T11:00:18.038+02:00
+published: 2026-09-09T11:00:18.038+02:00
 tags:
   - "#Subclass"
   - "#5e"

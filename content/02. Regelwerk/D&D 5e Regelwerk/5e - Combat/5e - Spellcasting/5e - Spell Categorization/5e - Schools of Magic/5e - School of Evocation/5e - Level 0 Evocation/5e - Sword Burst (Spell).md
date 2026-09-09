@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Sword Burst
 created: 2026-07-29T09:52:23.531+02:00
-modified: 2026-09-07T10:58:18.612+02:00
-published: 2026-09-07T10:58:18.612+02:00
+modified: 2026-09-09T09:42:50.131+02:00
+published: 2026-09-09T09:42:50.131+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -16,7 +16,7 @@ reactionbedingung: " "
 school: Evocation
 level: 0
 time: A
-range-Area: 5ft. Emanation
+range-Area: Self (5 ft. Emanation)
 komponenten: V
 dauer: Instantaneous
 c: " "
@@ -39,7 +39,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**School:**|Evocation |
 > |**Level:**|0 |
 > |**Casting Time:**|A  |
-> |**Range/Area:**|5ft. Emanation |
+> |**Range/Area:**|Self (5 ft. Emanation) |
 > |**Components:**|V |
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|  |

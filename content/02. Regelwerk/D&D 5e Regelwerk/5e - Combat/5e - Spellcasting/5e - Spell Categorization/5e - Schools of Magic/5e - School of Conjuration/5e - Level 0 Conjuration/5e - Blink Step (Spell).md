@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Blink Step
 created: 2026-09-07T11:50:06.634+02:00
-modified: 2026-09-07T11:51:32.377+02:00
-published: 2026-09-07T11:51:32.377+02:00
+modified: 2026-09-09T14:35:43.799+02:00
+published: 2026-09-09T14:35:43.799+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -15,6 +15,7 @@ reactionbedingung: " "
 c: " "
 source: "Frontier's of Eberron: Quickstone"
 school: Conjuration
+level: 0
 time: BA
 range-Area: Self
 komponenten: S
@@ -22,6 +23,7 @@ dauer: Instantaneous
 effect:
   - Teleportation
 zauberliste:
+  - Arcane
   - Occult
 ---
 
@@ -33,14 +35,14 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |||
 > |:-|:-|
 > |**School:**|Conjuration |
-> |**Level:**| |
+> |**Level:**|0 |
 > |**Casting Time:**|BA  |
 > |**Range/Area:**|Self |
 > |**Components:**|S |
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
-> |**Spell List:**|Occult |
+> |**Spell List:**|Arcane,Occult |
 > |**Effect:**|Teleportation |
 
 You teleport up to <u>5 feet</u> to an unoccupied space you can _see_.

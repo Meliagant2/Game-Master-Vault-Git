@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Thunderclap
 created: 2026-07-29T10:01:05.627+02:00
-modified: 2026-09-08T16:00:54.481+02:00
-published: 2026-09-08T16:00:54.481+02:00
+modified: 2026-09-09T13:34:30.089+02:00
+published: 2026-09-09T13:34:30.089+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -16,7 +16,7 @@ reactionbedingung: " "
 school: Evocation
 level: 0
 time: A
-range-Area: 5ft. Emanation
+range-Area: Self (5 ft. Emanation)
 komponenten: S
 dauer: Instantaneous
 c: " "
@@ -25,6 +25,7 @@ effect:
   - AOE
 zauberliste:
   - Arcane
+  - Occult
   - Primal
 source: Player's Handbook 2024
 ---
@@ -39,12 +40,12 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**School:**|Evocation |
 > |**Level:**|0 |
 > |**Casting Time:**|A  |
-> |**Range/Area:**|5ft. Emanation |
+> |**Range/Area:**|Self (5 ft. Emanation) |
 > |**Components:**|S |
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|  |
 > |**Attack/Save:**|CON|
-> |**Spell List:**|Arcane,Primal |
+> |**Spell List:**|Arcane,Occult,Primal |
 
 Each creature in a <u>5-foot Emanation</u> originating from you makes a **CON Save**. _**Failure:**_ The creature takes `2d4` <u>Thunder</u> damage. The spell's thunderous sound can be heard up to <u>100 feet</u> away.
 

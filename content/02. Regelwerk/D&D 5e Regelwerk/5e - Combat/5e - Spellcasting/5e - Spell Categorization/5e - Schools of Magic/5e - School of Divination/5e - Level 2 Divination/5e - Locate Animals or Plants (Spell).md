@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Locate Animals or Plants
 created: 2026-08-18T15:06:04.557+02:00
-modified: 2026-09-08T15:13:05.786+02:00
-published: 2026-09-08T15:13:05.786+02:00
+modified: 2026-09-09T09:38:45.938+02:00
+published: 2026-09-09T09:38:45.938+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -17,7 +17,7 @@ source: Player's Handbook 2024
 school: Divination
 level: 2
 time: A [R]
-range-Area: Self
+range-Area: Self (8 km Emanation)
 komponenten: V, S, M (fur from a bloodhound)
 dauer: Instantaneous
 effect:
@@ -37,7 +37,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**School:**|Divination |
 > |**Level:**|2 |
 > |**Casting Time:**|A \[R]  |
-> |**Range/Area:**|Self |
+> |**Range/Area:**|Self (8 km Emanation) |
 > |**Components:**|V, S, M (fur from a bloodhound) |
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|  |

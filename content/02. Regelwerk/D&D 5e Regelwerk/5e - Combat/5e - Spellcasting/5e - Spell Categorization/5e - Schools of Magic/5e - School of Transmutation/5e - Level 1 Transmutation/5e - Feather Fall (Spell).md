@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Feather Fall
 created: 2026-07-30T11:11:24.661+02:00
-modified: 2026-09-08T16:03:45.696+02:00
-published: 2026-09-08T16:03:45.696+02:00
+modified: 2026-09-09T14:55:24.783+02:00
+published: 2026-09-09T14:55:24.783+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -23,6 +23,7 @@ effect:
   - Exploration
 zauberliste:
   - Arcane
+  - Primal
 source: Player's Handbook 2024
 ---
 
@@ -41,9 +42,9 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Duration:**|PT1M |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
-> |**Spell List:**|Arcane |
+> |**Spell List:**|Arcane,Primal |
 
-Choose up to five falling creatures within range. A [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Environment/5e - Falling|🏃‍♀️Falling]] creature's rate of descent slows to <u>60 feet</u> per round until the spell ends. If a creature lands before the spell ends, the creature takes no damage from the fall, and the spell ends for that creature.
+Choose up to <u>five</u> falling creatures within range. A [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Environment/5e - Falling|🏃‍♀️Falling]] creature's rate of descent slows to <u>60 feet</u> per round until the spell ends. If a creature lands before the spell ends, the creature takes no damage from the fall, and the spell ends for that creature.
 
 ## Quelle
 

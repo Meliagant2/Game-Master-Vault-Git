@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Dueling Ground
 created: 2026-09-08T11:41:13.202+02:00
-modified: 2026-09-08T11:43:41.529+02:00
-published: 2026-09-08T11:43:41.529+02:00
+modified: 2026-09-09T13:42:45.954+02:00
+published: 2026-09-09T13:42:45.954+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -22,6 +22,7 @@ komponenten: V, S, M (a silk flag worth 100+ SP)
 dauer: 1 hour
 effect:
   - Social
+  - Ritual
 zauberliste:
   - Arcane
   - Divine
@@ -45,7 +46,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane,Divine,Occult,Primal |
-> |**Effect:**|Social |
+> |**Effect:**|Social,Ritual |
 
 You create a magical dueling ground bounded by a glowing, rune-scribed circle in a <u>15-foot-radius Sphere</u> centered on a point on the ground you touch.
 

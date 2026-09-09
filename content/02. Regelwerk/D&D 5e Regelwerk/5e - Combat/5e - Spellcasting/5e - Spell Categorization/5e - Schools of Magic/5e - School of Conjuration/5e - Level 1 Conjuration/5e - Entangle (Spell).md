@@ -1,9 +1,9 @@
 ---
 publish: true
-title: ☄️5e - Entangle☄️
+title: ☄️5e - Entangle
 created: 2026-07-23T12:08:41.542+02:00
-modified: 2026-09-07T12:51:59.938+02:00
-published: 2026-09-07T12:51:59.938+02:00
+modified: 2026-09-09T09:32:23.533+02:00
+published: 2026-09-09T09:32:23.533+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -16,7 +16,7 @@ c: x
 school: Conjuration
 level: 1
 time: A
-range-Area: 90 ft./ 20 ft. Square
+range-Area: 90 ft. (20 ft. Square)
 komponenten: V, S
 dauer: 1 Minute
 save-Att: STR
@@ -30,7 +30,7 @@ source: Player's Handbook 2024
 
 Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Conjuration/5e - School of Conjuration|5e - School of Conjuration]].
 
-# ☄️5e - Entangle☄️☄️
+# ☄️5e - Entangle☄️
 
 > [!wikibox]
 > |||
@@ -38,7 +38,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**School:**|Conjuration |
 > |**Level:**|1 |
 > |**Casting Time:**|A  |
-> |**Range/Area:**|90 ft./ 20 ft. Square |
+> |**Range/Area:**|90 ft. (20 ft. Square) |
 > |**Components:**|V, S |
 > |**Duration:**|1 Minute |
 > |**Concentration:**|x |

@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Minor Illusion
 created: 2026-07-21T11:16:46.924+02:00
-modified: 2026-09-07T10:59:02.054+02:00
-published: 2026-09-07T10:59:02.054+02:00
+modified: 2026-09-09T11:04:49.923+02:00
+published: 2026-09-09T11:04:49.923+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -43,6 +43,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane,Occult |
+> |**Effect:**|Control |
 
 You create a sound or an image of an object within range that lasts for the duration. See the descriptions below for the effects of each. The illusion ends if you cast this spell again.
 

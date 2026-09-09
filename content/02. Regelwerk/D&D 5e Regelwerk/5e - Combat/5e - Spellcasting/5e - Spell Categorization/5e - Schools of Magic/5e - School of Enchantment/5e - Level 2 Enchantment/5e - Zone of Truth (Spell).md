@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Zone of Truth
 created: 2026-07-28T10:53:38.082+02:00
-modified: 2026-09-08T15:51:31.314+02:00
-published: 2026-09-08T15:51:31.314+02:00
+modified: 2026-09-09T09:41:27.354+02:00
+published: 2026-09-09T09:41:27.354+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -17,7 +17,7 @@ source: Player's Handbook 2024
 school: Enchantment
 level: 2
 time: A [R]
-range-Area: 60 ft.
+range-Area: 60 ft. (15 ft. Sphere)
 komponenten: V, S
 dauer: 10 minutes
 save-Att: CHA
@@ -37,7 +37,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**School:**|Enchantment |
 > |**Level:**|2 |
 > |**Casting Time:**|A \[R]  |
-> |**Range/Area:**|60 ft. |
+> |**Range/Area:**|60 ft. (15 ft. Sphere) |
 > |**Components:**|V, S |
 > |**Duration:**|PT10M |
 > |**Concentration:**|  |

@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Silent Image
 created: 2026-07-30T12:05:52.704+02:00
-modified: 2026-09-07T13:50:40.115+02:00
-published: 2026-09-07T13:50:40.115+02:00
+modified: 2026-09-09T09:45:25.169+02:00
+published: 2026-09-09T09:45:25.169+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -16,7 +16,7 @@ c: x
 school: Illusion
 level: 1
 time: A
-range-Area: 60 ft./ 15 ft. Cube
+range-Area: 60 ft. (15 ft. Cube)
 komponenten: V, S, M (a bit of fleece)
 dauer: 10 Minutes
 effect:
@@ -37,7 +37,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**School:**|Illusion |
 > |**Level:**|1 |
 > |**Casting Time:**|A  |
-> |**Range/Area:**|60 ft./ 15 ft. Cube |
+> |**Range/Area:**|60 ft. (15 ft. Cube) |
 > |**Components:**|V, S, M (a bit of fleece) |
 > |**Duration:**|10 Minutes |
 > |**Concentration:**|x |

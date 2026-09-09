@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - Oath of Glory🦸‍♀️
 created: 2026-07-28T10:25:11.789+02:00
-modified: 2026-09-07T15:12:07.084+02:00
-published: 2026-09-07T15:12:07.084+02:00
+modified: 2026-09-09T13:17:10.590+02:00
+published: 2026-09-09T13:17:10.590+02:00
 tags:
   - "#Subclass"
   - "#5e"

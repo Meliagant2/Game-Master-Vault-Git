@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Sleep
 created: 2026-07-23T12:10:07.877+02:00
-modified: 2026-09-07T13:51:46.698+02:00
-published: 2026-09-07T13:51:46.698+02:00
+modified: 2026-09-09T09:45:30.671+02:00
+published: 2026-09-09T09:45:30.671+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -16,7 +16,7 @@ c: x
 school: Illusion
 level: 1
 time: A
-range-Area: 60 ft./ 5 ft. Sphere
+range-Area: 60 ft. (5 ft. Sphere)
 komponenten: V, S, M (a pinch of fine sand, rose petals, or a cricket)
 dauer: 1 Minute
 save-Att: WIS
@@ -38,7 +38,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**School:**|Illusion |
 > |**Level:**|1 |
 > |**Casting Time:**|A  |
-> |**Range/Area:**|60 ft./ 5 ft. Sphere |
+> |**Range/Area:**|60 ft. (5 ft. Sphere) |
 > |**Components:**|V, S, M (a pinch of fine sand, rose petals, or a cricket) |
 > |**Duration:**|1 Minute |
 > |**Concentration:**|x |

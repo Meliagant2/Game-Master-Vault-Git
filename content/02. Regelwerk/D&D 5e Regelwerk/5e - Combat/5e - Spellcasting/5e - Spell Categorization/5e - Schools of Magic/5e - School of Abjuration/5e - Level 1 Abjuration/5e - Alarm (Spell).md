@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Alarm
 created: 2026-07-28T13:59:23.827+02:00
-modified: 2026-09-08T08:24:22.949+02:00
-published: 2026-09-08T08:24:22.949+02:00
+modified: 2026-09-09T14:22:12.532+02:00
+published: 2026-09-09T14:22:12.532+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -16,7 +16,7 @@ c: " "
 school: Abjuration
 level: 1
 time: 1m [R]
-range-Area: 30 ft.
+range-Area: 30 ft. (10 ft. Sphere)
 komponenten: V, S, M (a bell and silver wire)
 dauer: 8h
 effect:
@@ -24,6 +24,7 @@ effect:
   - Ritual
 zauberliste:
   - Arcane
+  - Primal
 source: Player's Handbook 2024
 ---
 
@@ -37,12 +38,12 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**School:**|Abjuration |
 > |**Level:**|1 |
 > |**Casting Time:**|1m \[R]  |
-> |**Range/Area:**|30 ft. |
+> |**Range/Area:**|30 ft. (10 ft. Sphere) |
 > |**Components:**|V, S, M (a bell and silver wire) |
 > |**Duration:**|PT8H |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
-> |**Spell List:**|Arcane |
+> |**Spell List:**|Arcane,Primal |
 
 You set an alarm against intrusion. Choose a door, a window, or an area within range that is no larger than a <u>10-foot radius Sphere</u>. Until the spell ends, an alarm alerts you whenever a creature touches or enters the warded area. When you cast the spell, you can designate creatures that won't set off the alarm. You also choose whether the alarm is audible or mental:
 

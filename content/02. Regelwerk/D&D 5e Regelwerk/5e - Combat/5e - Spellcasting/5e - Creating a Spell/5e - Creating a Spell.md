@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Creating a Spell
 created: 2026-09-04T11:53:34.106+02:00
-modified: 2026-09-08T10:29:23.056+02:00
-published: 2026-09-08T10:29:23.056+02:00
+modified: 2026-09-09T10:12:35.611+02:00
+published: 2026-09-09T10:12:35.611+02:00
 tags:
   - "#Combatrules"
   - "#5e"
@@ -50,6 +50,13 @@ The table below offers average values for spell damage. This allows for the usag
 |      7      |     77     |              63              |        63        |                 49                 |
 |      8      |     88     |              72              |        72        |                 56                 |
 |      9      |     99     |              81              |        81        |                 63                 |
+
+**Concentration Spells:** If a damaging spell requires Concentration, the damage is modified in the following ways:
+
+- **One Target:** The spell uses the damage for _Multiple Targets (Half on Success)_ for its level.
+- **One Target (Half on Success):** The spell uses the damage for _Multiple Targets (Half on Success) -1 per level_ for its level.
+- **Multiple Targets:** The spell uses the damage for _Multiple Targets (Half on Success) -1 per level_ for its level.
+- **Multiple Targets (Half on Success):** The spell uses the damage for _Multiple Targets (Half on Success)_, but one level lower than the current spell level.
 
 ##### Average Dice Values
 

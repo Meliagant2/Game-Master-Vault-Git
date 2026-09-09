@@ -1,9 +1,9 @@
 ---
 publish: true
-title: ☄️5e - Furys Chorus☄️
+title: ☄️5e - Furys Chorus
 created: 2026-07-30T17:40:59.693+02:00
-modified: 2026-09-08T15:17:43.790+02:00
-published: 2026-09-08T15:17:43.790+02:00
+modified: 2026-09-09T09:40:37.881+02:00
+published: 2026-09-09T09:40:37.881+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -16,7 +16,7 @@ c: x
 school: Enchantment
 level: 1
 time: A
-range-Area: 60 ft./ 20 ft. Sphere
+range-Area: 60 ft. (20 ft. Sphere)
 dauer: 1 Minute
 save-Att: CHA
 effect:
@@ -29,7 +29,7 @@ source: Chronicles of Eberron
 
 Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Enchantment/5e - School of Enchantment|5e - School of Enchantment]].
 
-# ☄️5e - Furys Chorus☄️☄️
+# ☄️5e - Furys Chorus☄️
 
 > [!wikibox]
 > |||
@@ -37,7 +37,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**School:**|Enchantment |
 > |**Level:**|1 |
 > |**Casting Time:**|A  |
-> |**Range/Area:**|60 ft./ 20 ft. Sphere |
+> |**Range/Area:**|60 ft. (20 ft. Sphere) |
 > |**Components:**| |
 > |**Duration:**|1 Minute |
 > |**Concentration:**|x |

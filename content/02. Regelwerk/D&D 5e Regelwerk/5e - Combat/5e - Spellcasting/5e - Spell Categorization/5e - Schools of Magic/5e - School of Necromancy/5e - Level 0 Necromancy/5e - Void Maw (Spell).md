@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Void Maw
 created: 2026-07-29T10:13:08.712+02:00
-modified: 2026-09-07T11:01:31.362+02:00
-published: 2026-09-07T11:01:31.362+02:00
+modified: 2026-09-09T09:45:54.106+02:00
+published: 2026-09-09T09:45:54.106+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -31,8 +31,6 @@ source: Self
 Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Necromancy/5e - School of Necromancy|5e - School of Necromancy]].
 
 # ☄️5e - Void Maw☄️
-
-\`\`
 
 > [!wikibox]
 > |||

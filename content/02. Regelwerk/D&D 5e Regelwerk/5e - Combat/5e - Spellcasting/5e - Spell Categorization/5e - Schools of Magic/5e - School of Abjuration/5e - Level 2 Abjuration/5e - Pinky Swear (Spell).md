@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Pinky Swear
 created: 2026-09-08T12:03:46.961+02:00
-modified: 2026-09-08T12:05:21.445+02:00
-published: 2026-09-08T12:05:21.445+02:00
+modified: 2026-09-09T13:44:37.639+02:00
+published: 2026-09-09T13:44:37.639+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -24,7 +24,6 @@ effect:
   - Social
 zauberliste:
   - Divine
-  - Occult
 ---
 
 Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - School of Abjuration|5e - School of Abjuration]].
@@ -42,7 +41,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Duration:**|PT24H |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
-> |**Spell List:**|Divine,Occult |
+> |**Spell List:**|Divine |
 > |**Effect:**|Social |
 
 You touch a creature and speak a promise of no more than 25 words that you vow to keep.

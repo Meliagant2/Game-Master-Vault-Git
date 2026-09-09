@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Protect Threshold
 created: 2026-09-08T12:08:57.407+02:00
-modified: 2026-09-08T12:12:05.186+02:00
-published: 2026-09-08T12:12:05.186+02:00
+modified: 2026-09-09T13:43:02.467+02:00
+published: 2026-09-09T13:43:02.467+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -24,6 +24,7 @@ save-Att: WIS
 effect:
   - Psychic
   - Utility
+  - Ritual
 zauberliste:
   - Occult
 ---
@@ -44,7 +45,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Concentration:**|  |
 > |**Attack/Save:**|WIS|
 > |**Spell List:**|Occult |
-> |**Effect:**|Psychic,Utility |
+> |**Effect:**|Psychic,Utility,Ritual |
 
 Tracing occult sigils along its boundary, you can ward a doorway, window, or other portal from entry. For the duration, an Invisible eldritch creature stalks the warded portal. Any creature that attempts to pass through the portal makes a **WIS Save**. _**Failure:**_ The creature takes `4d6` <u>Psychic</u> damage and is unable to pass the threshold.
 

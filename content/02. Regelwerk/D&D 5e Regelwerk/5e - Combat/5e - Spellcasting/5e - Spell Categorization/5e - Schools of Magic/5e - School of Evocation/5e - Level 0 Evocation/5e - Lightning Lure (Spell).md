@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Lightning Lure
 created: 2026-07-22T14:01:34.951+02:00
-modified: 2026-09-07T10:56:48.253+02:00
-published: 2026-09-07T10:56:48.253+02:00
+modified: 2026-09-09T13:32:28.642+02:00
+published: 2026-09-09T13:32:28.642+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -24,6 +24,7 @@ effect:
   - Pulling
 zauberliste:
   - Arcane
+  - Occult
 source: Tasha's Cauldron of Everything
 ---
 
@@ -42,7 +43,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|  |
 > |**Attack/Save:**|STR|
-> |**Spell List:**|Arcane |
+> |**Spell List:**|Arcane,Occult |
 
 You create a lash of lightning energy that strikes at one creature of your choice that you can see within <u>15 feet</u> of you. The target makes a **STR Save**. _**Failure:**_ The Target is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Pulling|🏃‍♀️Pulled]] up to <u>10 feet</u> in a straight line toward you and then take `1d10` <u>Lightning</u> damage if it is within <u>5 feet</u> of you.
 

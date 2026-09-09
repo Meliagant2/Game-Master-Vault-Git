@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - Adept
 created: 2026-07-20T12:11:02.494+02:00
-modified: 2026-09-04T10:42:52.866+02:00
-published: 2026-09-04T10:42:52.866+02:00
+modified: 2026-09-09T13:23:29.173+02:00
+published: 2026-09-09T13:23:29.173+02:00
 tags:
   - "#Classes"
   - "#5e"

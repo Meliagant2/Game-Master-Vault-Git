@@ -2,8 +2,8 @@
 publish: true
 title: 👥5e - Elf👥
 created: 2026-07-20T12:11:02.463+02:00
-modified: 2026-09-08T16:06:41.617+02:00
-published: 2026-09-08T16:06:41.617+02:00
+modified: 2026-09-09T10:55:04.509+02:00
+published: 2026-09-09T10:55:04.509+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -57,7 +57,7 @@ Elves do not merely survive in the world — they are among its ancient masters.
 
 You know the following Spells, depending on your level. <u>INT</u>, <u>WIS</u>, or <u>CHA</u> is your Spellcasting ability for those spells (whichever is highest). You can cast each spell you know once per **Long Rest** without expending a Spell Slot or needing material components:
 **<u>1st Level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Evocation/5e - Level 1 Evocation/5e - Faerie Fire (Spell)|☄️Faerie Fire]]
-**<u>5th Level:</u>** <u>Choose one:</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Evocation/5e - 000 Evocation Control/5e - Darkness (Spell)|☄️Darkness]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Illusion/5e - Level 2 Illusion/5e - Invisibility (Spell)|☄️Invisibility]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - Level 2 Abjuration/5e - Pass without Trace (Spell)|☄️Pass without Trace]]
+**<u>5th Level:</u>** <u>Choose one:</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Evocation/5e - Level 2 Evocation/5e - Darkness (Spell)|☄️Darkness]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Illusion/5e - Level 2 Illusion/5e - Invisibility (Spell)|☄️Invisibility]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - Level 2 Abjuration/5e - Pass without Trace (Spell)|☄️Pass without Trace]]
 
 ### Elven Mind
 

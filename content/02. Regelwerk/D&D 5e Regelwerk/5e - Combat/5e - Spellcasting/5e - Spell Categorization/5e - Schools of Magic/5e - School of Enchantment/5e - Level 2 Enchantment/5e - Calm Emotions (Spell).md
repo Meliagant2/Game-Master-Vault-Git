@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Calm Emotions
 created: 2026-07-28T11:33:25.558+02:00
-modified: 2026-09-08T15:17:37.051+02:00
-published: 2026-09-08T15:17:37.051+02:00
+modified: 2026-09-09T09:40:53.684+02:00
+published: 2026-09-09T09:40:53.684+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -17,7 +17,7 @@ source: Player's Handbook 2024
 school: Enchantment
 level: 2
 time: A
-range-Area: 60 ft.
+range-Area: 60 ft. (20 ft. Sphere)
 komponenten: V, S
 dauer: 1 minute
 save-Att: CHA
@@ -38,7 +38,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**School:**|Enchantment |
 > |**Level:**|2 |
 > |**Casting Time:**|A  |
-> |**Range/Area:**|60 ft. |
+> |**Range/Area:**|60 ft. (20 ft. Sphere) |
 > |**Components:**|V, S |
 > |**Duration:**|PT1M |
 > |**Concentration:**|x |

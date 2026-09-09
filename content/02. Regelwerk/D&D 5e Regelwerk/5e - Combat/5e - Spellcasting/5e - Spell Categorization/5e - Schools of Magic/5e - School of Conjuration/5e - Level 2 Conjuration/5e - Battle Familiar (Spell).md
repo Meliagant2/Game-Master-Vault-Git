@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Battle Familiar
 created: 2026-09-08T13:32:03.154+02:00
-modified: 2026-09-08T13:42:52.217+02:00
-published: 2026-09-08T13:42:52.217+02:00
+modified: 2026-09-09T14:36:55.046+02:00
+published: 2026-09-09T14:36:55.046+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -24,6 +24,7 @@ effect:
   - Summoning
 zauberliste:
   - Arcane
+  - Divine
   - Occult
   - Primal
 ---
@@ -43,7 +44,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Duration:**|PT1H |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
-> |**Spell List:**|Arcane,Occult,Primal |
+> |**Spell List:**|Arcane,Divine,Occult,Primal |
 > |**Effect:**|Summoning |
 
 You conjure a familiar imbued with magical might. The familiar appears in an unoccupied space within range; resembles an animal of your choice but is a _Celestial_, _Fey_, or _Fiend_ (your choice); and uses the [[02. Regelwerk/D&D 5e Regelwerk/5e - Monster Rules/5e - Bestiary/5e - Creatures by Type/5e - Bestiary; Summons/5e - Battle Familiar|🐺Battle Familiar]] stat block. When you cast this spell, choose the _Brute_, _Flyer_, or _Stalker_ form. The choice determines certain details in the stat block.

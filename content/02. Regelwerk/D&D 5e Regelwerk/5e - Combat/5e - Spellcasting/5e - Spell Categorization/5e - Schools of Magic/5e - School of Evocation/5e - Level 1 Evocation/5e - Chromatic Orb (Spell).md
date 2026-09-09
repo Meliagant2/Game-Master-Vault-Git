@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Chromatic Orb
 created: 2026-07-30T16:11:50.599+02:00
-modified: 2026-09-07T15:01:36.024+02:00
-published: 2026-09-07T15:01:36.024+02:00
+modified: 2026-09-09T13:37:55.270+02:00
+published: 2026-09-09T13:37:55.270+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -29,7 +29,6 @@ effect:
   - Thunder
 zauberliste:
   - Arcane
-  - Occult
 source: Player's Handbook 2024
 ---
 
@@ -48,7 +47,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|  |
 > |**Attack/Save:**|Ranged|
-> |**Spell List:**|Arcane,Occult |
+> |**Spell List:**|Arcane |
 
 You hurl a 4-inch-diameter sphere of energy at a creature that you can see within range. You choose <u>Acid</u>, <u>Cold</u>, <u>Fire</u>, <u>Lightning</u>, <u>Poison</u>, or <u>Thunder</u> for the type of orb you create, and then make a <u>ranged</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Effects/5e - Spell Attack Roll|☄️Spell Attack]] against the target. On a _**hit**_, the creature takes `2d8` damage of the chosen type.
 

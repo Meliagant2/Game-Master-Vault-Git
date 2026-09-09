@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Thunderwave
 created: 2026-07-30T12:16:51.428+02:00
-modified: 2026-09-08T16:05:23.138+02:00
-published: 2026-09-08T16:05:23.138+02:00
+modified: 2026-09-09T09:44:26.972+02:00
+published: 2026-09-09T09:44:26.972+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -16,7 +16,7 @@ c: " "
 school: Evocation
 level: 1
 time: A
-range-Area: 15 ft. Cone
+range-Area: Self (15 ft. Cone)
 komponenten: V, S
 dauer: Instantaneous
 save-Att: CON
@@ -39,7 +39,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**School:**|Evocation |
 > |**Level:**|1 |
 > |**Casting Time:**|A  |
-> |**Range/Area:**|15 ft. Cone |
+> |**Range/Area:**|Self (15 ft. Cone) |
 > |**Components:**|V, S |
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|  |
@@ -50,7 +50,7 @@ A wave of thunderous force sweeps out from you. Each creature in a <u>15-foot Co
 
 In addition, unsecured objects that are completely within the area of effect are automatically pushed <u>10 feet</u> away from you by the spell's effect, and the spell emits a thunderous boom audible out to <u>300 feet</u>.
 
-**<u>Using a Higher-Level Spell Slot:</u>** This spell’s damage increases by `1d12` for each spell slot level above 1. The cone's size and the range you can [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Pushing|🏃‍♀️Push]] a target increase with a spell slot of level 3-4 (<u>30-foot Cone</u>, <u>15 feet</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Pushing|🏃‍♀️Push]]), 5-6 (<u>60-foot Cone</u>, <u>20 feet</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Pushing|🏃‍♀️Push]]), or 7+ (<u>120-foot Cone</u>, <u>30 feet</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Pushing|🏃‍♀️Push]]).
+**<u>Using a Higher-Level Spell Slot:</u>** This spell’s damage increases by `1d12` for each spell slot level above 1. The cone's size and the range you can [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Pushing|🏃‍♀️Push]] a target increase with a spell slot of level 3-4 (<u>30-foot Cone</u>, <u>15 feet</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Pushing|🏃‍♀️Push]]), or 5+ (<u>60-foot Cone</u>, <u>30 feet</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Pushing|🏃‍♀️Push]]).
 
 ## Quelle
 

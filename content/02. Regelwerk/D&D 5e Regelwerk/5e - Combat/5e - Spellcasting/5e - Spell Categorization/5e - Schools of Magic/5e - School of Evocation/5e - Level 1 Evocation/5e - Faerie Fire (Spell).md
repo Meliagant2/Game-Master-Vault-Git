@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Faerie Fire
 created: 2026-07-20T12:11:02.767+02:00
-modified: 2026-09-08T16:03:38.980+02:00
-published: 2026-09-08T16:03:38.980+02:00
+modified: 2026-09-09T09:44:42.824+02:00
+published: 2026-09-09T09:44:42.824+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -16,7 +16,7 @@ c: x
 school: Evocation
 level: 1
 time: A
-range-Area: 60 ft.
+range-Area: 60 ft. (10 ft. Sphere)
 komponenten: V
 dauer: 1 Minute
 save-Att: DEX
@@ -38,7 +38,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**School:**|Evocation |
 > |**Level:**|1 |
 > |**Casting Time:**|A  |
-> |**Range/Area:**|60 ft. |
+> |**Range/Area:**|60 ft. (10 ft. Sphere) |
 > |**Components:**|V |
 > |**Duration:**|1 Minute |
 > |**Concentration:**|x |

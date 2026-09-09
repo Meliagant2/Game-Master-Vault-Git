@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Spore Cloud
 created: 2026-09-04T16:02:55.642+02:00
-modified: 2026-09-07T10:57:50.641+02:00
-published: 2026-09-07T10:57:50.641+02:00
+modified: 2026-09-09T09:42:42.775+02:00
+published: 2026-09-09T09:42:42.775+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -16,7 +16,7 @@ c: " "
 school: Evocation
 level: 0
 time: A
-range-Area: 5 ft. Emanation
+range-Area: Self (5 ft. Emanation)
 komponenten: V, S, M (a mushroom)
 dauer: Instantaneous
 save-Att: CON
@@ -38,7 +38,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**School:**|Evocation |
 > |**Level:**|0 |
 > |**Casting Time:**|A  |
-> |**Range/Area:**|5 ft. Emanation |
+> |**Range/Area:**|Self (5 ft. Emanation) |
 > |**Components:**|V, S, M (a mushroom) |
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|  |

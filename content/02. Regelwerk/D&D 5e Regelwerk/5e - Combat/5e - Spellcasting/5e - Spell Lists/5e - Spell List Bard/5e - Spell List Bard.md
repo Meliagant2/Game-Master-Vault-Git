@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Bard Spell List☄️
 created: 2026-07-30T08:37:02.056+02:00
-modified: 2026-09-08T16:06:22.056+02:00
-published: 2026-09-08T16:06:22.056+02:00
+modified: 2026-09-09T15:14:30.401+02:00
+published: 2026-09-09T15:14:30.401+02:00
 tags:
   - "#Combatrules"
   - "#5e"
@@ -18,20 +18,18 @@ status: ✅
 
 ## List of all Bard Spells:
 
-1. All Bard Spells
-2. All Arcane Illusion Spells
-3. All Arcane Enchantment Spells
-4. All Arcane Divination Spells
-5. All "Conjure" Spells
-
-All Illusion, Enchantment, Divination Spells
-
-BARDCRAFT
-Thunder damage Spells
-
-CHECK ALL FUCKING SPELL SCHOOLS!
+1. All Divination Spells
+2. All Enchantment Spells
+3. All Illusion Spells
+4. All Divine Abjuration AND Necromancy Spells
+5. All Occult Conjuration Spells
+6. All Primal Evocation AND Transmutation Spells
 
 ```base
+filters:
+  and:
+    - dateitags.containsAll("#5e", "#Spell")
+    - '!file.name.containsAny("Template", "(Legacy)")'
 views:
   - type: table
     name: 5e - Bard; Choose Spell Level
@@ -45,8 +43,17 @@ views:
   - type: table
     name: 5e - Bard; All Spells
     filters:
-      and:
-        - zauberliste.containsAny("Bard", "Occult")
+      or:
+        - school.containsAny("Divination", "Enchantment", "Illusion")
+        - and:
+            - zauberliste.containsAny("Divine")
+            - school.containsAny("Abjuration", "Necromancy")
+        - and:
+            - zauberliste.containsAny("Occult")
+            - school.containsAny("Conjuration")
+        - and:
+            - zauberliste.containsAny("Primal")
+            - school.containsAny("Evocation", "Transmutation")
     order:
       - file.name
       - level
@@ -73,9 +80,22 @@ views:
   - type: table
     name: 5e - Bard; Cantrips
     filters:
-      and:
-        - zauberliste.containsAny("Bard", "Occult")
-        - level == 0
+      or:
+        - and:
+            - zauberliste.containsAny("Divine")
+            - school.containsAny("Abjuration", "Necromancy")
+            - level == 0
+        - and:
+            - zauberliste.containsAny("Occult")
+            - school.containsAny("Conjuration")
+            - level == 0
+        - and:
+            - zauberliste.containsAny("Primal")
+            - school.containsAny("Evocation", "Transmutation")
+            - level == 0
+        - and:
+            - school.containsAny("Divination", "Enchantment", "Illusion")
+            - level == 0
     order:
       - file.name
       - level
@@ -103,9 +123,22 @@ views:
   - type: table
     name: 5e - Bard; 1st-level
     filters:
-      and:
-        - zauberliste.containsAny("Bard", "Occult")
-        - level == 1
+      or:
+        - and:
+            - zauberliste.containsAny("Divine")
+            - school.containsAny("Abjuration", "Necromancy")
+            - level == 1
+        - and:
+            - zauberliste.containsAny("Occult")
+            - school.containsAny("Conjuration")
+            - level == 1
+        - and:
+            - zauberliste.containsAny("Primal")
+            - school.containsAny("Evocation", "Transmutation")
+            - level == 1
+        - and:
+            - school.containsAny("Divination", "Enchantment", "Illusion")
+            - level == 1
     order:
       - file.name
       - level
@@ -132,9 +165,22 @@ views:
   - type: table
     name: 5e - Bard; 2nd-level
     filters:
-      and:
-        - zauberliste.containsAny("Bard", "Occult")
-        - level == 2
+      or:
+        - and:
+            - zauberliste.containsAny("Divine")
+            - school.containsAny("Abjuration", "Necromancy")
+            - level == 2
+        - and:
+            - zauberliste.containsAny("Occult")
+            - school.containsAny("Conjuration")
+            - level == 2
+        - and:
+            - zauberliste.containsAny("Primal")
+            - school.containsAny("Evocation", "Transmutation")
+            - level == 2
+        - and:
+            - school.containsAny("Divination", "Enchantment", "Illusion")
+            - level == 2
     order:
       - file.name
       - level
@@ -161,9 +207,22 @@ views:
   - type: table
     name: 5e - Bard; 3rd-level
     filters:
-      and:
-        - zauberliste.containsAny("Bard", "Occult")
-        - level == 3
+      or:
+        - and:
+            - zauberliste.containsAny("Divine")
+            - school.containsAny("Abjuration", "Necromancy")
+            - level == 3
+        - and:
+            - zauberliste.containsAny("Occult")
+            - school.containsAny("Conjuration")
+            - level == 3
+        - and:
+            - zauberliste.containsAny("Primal")
+            - school.containsAny("Evocation", "Transmutation")
+            - level == 3
+        - and:
+            - school.containsAny("Divination", "Enchantment", "Illusion")
+            - level == 3
     order:
       - file.name
       - level
@@ -190,9 +249,22 @@ views:
   - type: table
     name: 5e - Bard; 4th-level
     filters:
-      and:
-        - zauberliste.containsAny("Bard", "Occult")
-        - level == 4
+      or:
+        - and:
+            - zauberliste.containsAny("Divine")
+            - school.containsAny("Abjuration", "Necromancy")
+            - level == 4
+        - and:
+            - zauberliste.containsAny("Occult")
+            - school.containsAny("Conjuration")
+            - level == 4
+        - and:
+            - zauberliste.containsAny("Primal")
+            - school.containsAny("Evocation", "Transmutation")
+            - level == 4
+        - and:
+            - school.containsAny("Divination", "Enchantment", "Illusion")
+            - level == 4
     order:
       - file.name
       - level
@@ -221,7 +293,7 @@ views:
     filters:
       or:
         - and:
-            - zauberliste.containsAny("Arcane", "Divine", "Primal", "Occult", "Bard")
+            - zauberliste.containsAny("Arcane", "Divine", "Primal", "Occult")
             - level == 5
     order:
       - file.name

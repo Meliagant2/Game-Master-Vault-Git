@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Longstrider
 created: 2026-07-30T11:44:51.756+02:00
-modified: 2026-09-07T14:32:38.906+02:00
-published: 2026-09-07T14:32:38.906+02:00
+modified: 2026-09-09T13:39:35.512+02:00
+published: 2026-09-09T13:39:35.512+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -23,7 +23,6 @@ effect:
   - Movement
 zauberliste:
   - Arcane
-  - Occult
   - Primal
 source: Player's Handbook 2024
 ---
@@ -43,7 +42,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Duration:**|1 Hour |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
-> |**Spell List:**|Arcane,Occult,Primal |
+> |**Spell List:**|Arcane,Primal |
 
 You touch a creature. The target’s [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Speed/5e - Speed|🏃‍♀️Speed]] increases by <u>10 feet</u> until the spell ends.
 
