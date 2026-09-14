@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Harrowing Ballad
 created: 2026-09-08T15:24:53.885+02:00
-modified: 2026-09-08T15:28:35.566+02:00
-published: 2026-09-08T15:28:35.566+02:00
+modified: 2026-09-14T09:31:51.077+02:00
+published: 2026-09-14T09:31:51.077+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -47,7 +47,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Spell List:**|Occult |
 > |**Effect:**|Charmed,Psychic,DISADV |
 
-You inflict a mind-eroding song on a creature that you can see within range. If the creature has an _Intelligence_ of `-3` or higher, it makes a **repeated INT Save**. _**Failure:**_ The creature is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]] for the duration.
+You inflict a mind-eroding song on a creature that you can _see_ within range. The target makes a **repeated INT Save**. _**Failure:**_ The target is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]] for the duration.
 
 While [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]] in this way, the target is struck with a rapidly repeating ballad that only it can hear; it takes `2d4` <u>Psychic</u> damage at <u>the start of each of its turns</u>, and it has **DISADV** on [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - WIS Skills/5e - Perception|💃Perception]] [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Ability Check/5e - Ability Check|🎲Checks]] and on **CON Saves** made to maintain its [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Concentration/5e - Concentration|🎲Concentration]].
 

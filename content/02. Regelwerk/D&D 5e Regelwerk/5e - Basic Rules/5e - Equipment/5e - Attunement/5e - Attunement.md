@@ -1,9 +1,9 @@
 ---
 publish: true
-title: ☄️5e - Attunement
+title: 🌟5e - Attunement
 created: 2026-07-30T11:35:25.448+02:00
-modified: 2026-08-18T08:06:53.195+02:00
-published: 2026-08-18T08:06:53.195+02:00
+modified: 2026-09-14T10:53:17.355+02:00
+published: 2026-09-14T10:53:17.355+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -28,7 +28,7 @@ image: "[[98. Diverses/Bilder/Regelwerk Bilder/Basic Rules/Basic Rules Equipment
 
 Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Equipment|🎒Equipment]].
 
-# ☄️5e - Attunement☄️
+# 🌟5e - Attunement🌟
 
 ## Quellen
 

@@ -2,8 +2,8 @@
 publish: true
 title: 🐺5e - Bestial Spirit
 created: 2026-09-08T14:17:08.944+02:00
-modified: 2026-09-08T14:22:17.594+02:00
-published: 2026-09-08T14:22:17.594+02:00
+modified: 2026-09-14T15:06:05.751+02:00
+published: 2026-09-14T15:06:05.751+02:00
 tags:
   - "#Monster"
   - "#5e"
@@ -14,9 +14,11 @@ status: ✅
 source: Arcana Unleashed
 ---
 
+Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Monster Rules/5e - Bestiary/5e - Creatures by Type/5e - Bestiary; Summons/5e - Bestiary; Summons|5e - Bestiary; Summons]].
+
 # 🐺5e - Bestial Spirit🐺
 
-This familiar can be summoned with the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Conjuration/5e - Level 2 Conjuration/5e - Summon Beast (Spell)|☄️Summon Beast]] spell.
+This creature can be summoned with the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Conjuration/5e - Level 2 Conjuration/5e - Summon Beast (Spell)|☄️Summon Beast]] spell.
 
 <div class="statblock">
 <h2>Bestial Spirit 5e</h2>

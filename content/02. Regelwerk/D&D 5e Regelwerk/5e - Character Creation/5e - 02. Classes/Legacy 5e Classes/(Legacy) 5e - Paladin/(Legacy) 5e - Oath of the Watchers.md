@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - Oath of the Watchers🦸‍♀️
 created: 2026-07-28T10:25:11.789+02:00
-modified: 2026-09-09T10:21:13.697+02:00
-published: 2026-09-09T10:21:13.697+02:00
+modified: 2026-09-14T10:55:37.163+02:00
+published: 2026-09-14T10:55:37.163+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -37,9 +37,9 @@ You gain oath spells at the paladin levels listed below. You always have these s
 
 **<u>5th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Evocation/5e - Level 2 Evocation/5e - Moonbeam (Spell)|☄️Moonbeam]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Divination/5e - Level 2 Divination/5e - See Invisibility (Spell)|☄️See Invisibility]]
 
-**<u>9th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - 000 Abjuration Control/abj 3/5e - Counterspell (Spell)|☄️Counterspell]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - 000 Abjuration Control/abj 3/5e - Nondetection (Spell)|☄️Nondetection]]
+**<u>9th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - Level 3 Abjuration/5e - Counterspell (Spell)|☄️Counterspell]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - Level 3 Abjuration/5e - Nondetection (Spell)|☄️Nondetection]]
 
-**<u>13th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - Level 4 Abjuration/5e - Aura of Purity (Spell)|☄️Aura of Purity]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - Level 4 Abjuration/5e - Banishment (Spell)|☄️Banishment]]
+**<u>13th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - 000 Abjuration Control/5e - Aura of Purity (Spell)|☄️Aura of Purity]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - 000 Abjuration Control/5e - Banishment (Spell)|☄️Banishment]]
 
 **<u>17th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Enchantment/5e - Level 5 Enchantment/5e - Hold Monster (Spell)|☄️Hold Monster]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Conjuration/5e - Level 5 Conjuration/5e - Scrying (Spell)|☄️Scrying]]
 

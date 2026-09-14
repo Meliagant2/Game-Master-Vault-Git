@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Find Familiar
 created: 2026-07-30T16:45:58.181+02:00
-modified: 2026-09-07T12:59:09.524+02:00
-published: 2026-09-07T12:59:09.524+02:00
+modified: 2026-09-14T10:40:50.119+02:00
+published: 2026-09-14T10:40:50.119+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -21,6 +21,7 @@ komponenten: V, S, M (burning incense worth 10+ SP, which the spell consumes)
 dauer: Instantaneous
 effect:
   - Summoning
+  - Ritual
 zauberliste:
   - Arcane
   - Divine

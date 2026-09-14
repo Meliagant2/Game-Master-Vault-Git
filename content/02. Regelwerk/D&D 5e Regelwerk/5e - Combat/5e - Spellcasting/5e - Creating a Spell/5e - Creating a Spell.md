@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Creating a Spell
 created: 2026-09-04T11:53:34.106+02:00
-modified: 2026-09-09T10:12:35.611+02:00
-published: 2026-09-09T10:12:35.611+02:00
+modified: 2026-09-14T08:34:29.168+02:00
+published: 2026-09-14T08:34:29.168+02:00
 tags:
   - "#Combatrules"
   - "#5e"
@@ -62,6 +62,8 @@ The table below offers average values for spell damage. This allows for the usag
 
 | Die | Average Value |
 | :-: | :-----------: |
+| d2  |      1,5      |
+| d3  |       2       |
 | d4  |      2,5      |
 | d6  |      3,5      |
 | d8  |      4,5      |

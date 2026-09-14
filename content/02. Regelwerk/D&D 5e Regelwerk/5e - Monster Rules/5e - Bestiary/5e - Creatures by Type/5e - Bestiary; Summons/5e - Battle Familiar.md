@@ -2,8 +2,8 @@
 publish: true
 title: 🐺5e - Battle Familiar
 created: 2026-09-08T13:35:53.579+02:00
-modified: 2026-09-08T13:48:46.211+02:00
-published: 2026-09-08T13:48:46.211+02:00
+modified: 2026-09-14T15:05:59.697+02:00
+published: 2026-09-14T15:05:59.697+02:00
 tags:
   - "#Monster"
   - "#5e"
@@ -13,6 +13,8 @@ dateitags:
 status: ✅
 source: Arcana Unleashed
 ---
+
+Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Monster Rules/5e - Bestiary/5e - Creatures by Type/5e - Bestiary; Summons/5e - Bestiary; Summons|5e - Bestiary; Summons]].
 
 # 🐺5e - Battle Familiar🐺
 

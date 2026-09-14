@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - College of Dance🦸‍♀️
 created: 2026-07-23T10:42:33.942+02:00
-modified: 2026-09-04T10:42:52.927+02:00
-published: 2026-09-04T10:42:52.927+02:00
+modified: 2026-09-14T16:25:28.314+02:00
+published: 2026-09-14T16:25:28.314+02:00
 tags:
   - "#Subclass"
   - "#5e"

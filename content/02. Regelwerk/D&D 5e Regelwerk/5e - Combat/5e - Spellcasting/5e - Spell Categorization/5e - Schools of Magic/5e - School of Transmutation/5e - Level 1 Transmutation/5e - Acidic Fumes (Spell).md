@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Acidic Fumes
 created: 2026-09-08T10:08:06.315+02:00
-modified: 2026-09-09T09:47:21.811+02:00
-published: 2026-09-09T09:47:21.811+02:00
+modified: 2026-09-14T13:52:36.949+02:00
+published: 2026-09-14T13:52:36.949+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -49,6 +49,8 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 You blow forward acidic fumes. The fumes spread around corners. Each creature in a <u>15-foot Cone</u> originating from you makes a **CON Save**. _**Failure:**_ The creature takes `2d6` <u>Acid</u> damage. _**Success:**_ The creature takes half the damage only.
 
 The fumes linger until <u>the end of your next turn</u> or until dispersed by a moderate or stronger wind. Any creature ending its turn in the area makes a **CON Save**. _**Failure:**_ The creature takes `2d6` <u>Acid</u> damage. _**Success:**_ The creature takes half the damage only.
+
+The acid destroys any objects made of organic materials in the spell's area. A creature killed by this spell has its flesh entirely dissolved, leaving behind only a corroded skeleton.
 
 **<u>Using a Higher-Level Spell Slot:</u>** This spell’s damage increases by `2d6` for each spell slot level above 1. The cone's size increases with a spell slot of level 3-4 (<u>30-foot Cone</u>), or 5+ (<u>60-foot Cone</u>)
 

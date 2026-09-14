@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Ritual Caster
 created: 2026-09-02T13:52:46.715+02:00
-modified: 2026-09-02T13:54:56.230+02:00
-published: 2026-09-02T13:54:56.230+02:00
+modified: 2026-09-14T10:49:09.712+02:00
+published: 2026-09-14T10:49:09.712+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -33,9 +33,9 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Fea
 
 You gain the following benefits:
 
-**<u>Ritual Spells:</u>** You learn <u>three</u> _1st-level_ [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Ritual Casting|☄️Ritual Spells]] of your choice. <u>INT</u>, <u>WIS</u>, or <u>CHA</u> is your spellcasting ability for this feat's spells (whichever is highest).
+**<u>Ritual Spells:</u>** You learn <u>three</u> _1st-level_ [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Tags/5e - Ritual Casting|☄️Ritual Spells]] of your choice. <u>INT</u>, <u>WIS</u>, or <u>CHA</u> is your spellcasting ability for this feat's spells (whichever is highest).
 
-**<u>Quick Ritual:</u>** With this benefit, you can cast a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Ritual Casting|☄️Ritual Spell]] that you have prepared using its regular casting time rather than the extended time for a Ritual. Doing so doesn't require a spell slot.
+**<u>Quick Ritual:</u>** With this benefit, you can cast a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Tags/5e - Ritual Casting|☄️Ritual Spell]] that you have prepared using its regular casting time rather than the extended time for a Ritual. Doing so doesn't require a spell slot.
 
 _**<u>Number of Uses:</u>**_ <u>Once</u> you've used this benefit, you can't use it again until you finish a **Long Rest**.
 

@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Burning Hands
 created: 2026-07-30T10:22:13.588+02:00
-modified: 2026-09-09T09:44:02.125+02:00
-published: 2026-09-09T09:44:02.125+02:00
+modified: 2026-09-14T14:00:43.902+02:00
+published: 2026-09-14T14:00:43.902+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -47,7 +47,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 
 As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips. Each creature in a <u>15-foot cone</u> makes a **DEX Save**. _**Failure:**_ The Creature takes `2d6` <u>Fire</u> damage. _**Success:**_ The creature takes half the damage only.
 
-The fire ignites any flammable objects in the area that aren't being worn or carried.
+Flammable objects in the area that aren't being worn or carried start [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Burning|☠️Burning]].
 
 **<u>Using a Higher-Level Spell Slot:</u>** This spell’s damage increases by `2d6` for each spell slot level above 1. The cone's size increases with a spell slot of level 3-4 (<u>30-foot Cone</u>), or 5+ (<u>60-foot Cone</u>).
 

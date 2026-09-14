@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - Oath of Glory🦸‍♀️
 created: 2026-07-28T10:25:11.789+02:00
-modified: 2026-09-09T13:17:10.590+02:00
-published: 2026-09-09T13:17:10.590+02:00
+modified: 2026-09-14T16:16:37.977+02:00
+published: 2026-09-14T16:16:37.977+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -36,9 +36,9 @@ You gain oath spells at the paladin levels listed below. You always have these s
 
 **<u>5th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Transmutation/5e - Level 2 Transmutation/5e - Enhance Ability (Spell)|☄️Enhance Ability]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Transmutation/5e - Level 2 Transmutation/5e - Magic Weapon (Spell)|☄️Magic Weapon]]
 
-**<u>9th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Transmutation/5e - Level 3 Transmutation/5e - Haste (Spell)|☄️Haste]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - 000 Abjuration Control/abj 3/5e - Protection from Energy (Spell)|☄️Protection from Energy]]
+**<u>9th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Transmutation/5e - Level 3 Transmutation/5e - Haste (Spell)|☄️Haste]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - Level 3 Abjuration/5e - Protection from Energy (Spell)|☄️Protection from Energy]]
 
-**<u>13th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Enchantment/5e - Level 4 Enchantment/5e - Compulsion (Spell)|☄️Compulsion]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - Level 4 Abjuration/5e - Freedom of Movement (Spell)|☄️Freedom of Movement]]
+**<u>13th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Enchantment/5e - 000 Enchantment Control/5e - Compulsion (Spell)|☄️Compulsion]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - 000 Abjuration Control/5e - Freedom of Movement (Spell)|☄️Freedom of Movement]]
 
 **<u>17th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Divination/5e - Level 5 Divination/5e - Legend Lore (Spell)|☄️Legend Lore]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Enchantment/5e - Level 5 Enchantment/5e - Regal Presence (Spell)|☄️Regal Presence]]
 

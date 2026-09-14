@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Boon of Misty Escape
 created: 2026-08-18T13:58:52.776+02:00
-modified: 2026-09-04T10:42:53.300+02:00
-published: 2026-09-04T10:42:53.300+02:00
+modified: 2026-09-14T16:13:08.429+02:00
+published: 2026-09-14T16:13:08.429+02:00
 tags:
   - "#Feat"
   - "#5e"

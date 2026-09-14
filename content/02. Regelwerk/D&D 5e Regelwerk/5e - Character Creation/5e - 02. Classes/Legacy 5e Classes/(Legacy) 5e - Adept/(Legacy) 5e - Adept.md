@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - Adept
 created: 2026-07-20T12:11:02.494+02:00
-modified: 2026-09-09T13:23:29.173+02:00
-published: 2026-09-09T13:23:29.173+02:00
+modified: 2026-09-14T16:29:09.818+02:00
+published: 2026-09-14T16:29:09.818+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -264,7 +264,7 @@ You have picked up a number of tricks in your path towards perfection. You gain 
 >
 > **Requirement:** <u>Adept Speed</u>, <u>11th level</u>
 >
-> You can move so fast you seem to teleport. You can use an **Action** and spend <u>4 exertion</u> to cast [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Conjuration/5e - Level 4 Conjuration/5e - Dimension Door (Spell)|☄️Dimension Door]]. In addition to the Spell effects, you become invisible until the beginning of your next turn.
+> You can move so fast you seem to teleport. You can use an **Action** and spend <u>4 exertion</u> to cast [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Conjuration/5e - 000 Conjuration Control/5e - Dimension Door (Spell)|☄️Dimension Door]]. In addition to the Spell effects, you become invisible until the beginning of your next turn.
 >
 > #### Shadow Walk
 >

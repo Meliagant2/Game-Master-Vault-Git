@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - Oath of the Open Sea🦸‍♀️
 created: 2026-07-28T10:25:11.789+02:00
-modified: 2026-09-08T14:37:50.013+02:00
-published: 2026-09-08T14:37:50.013+02:00
+modified: 2026-09-14T14:42:40.775+02:00
+published: 2026-09-14T14:42:40.775+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -40,7 +40,7 @@ You gain oath spells at the paladin levels listed below. You always have these s
 
 **<u>9th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Conjuration/5e - Level 3 Conjuration/5e - Call Lightning (Spell)|☄️Call Lightning]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Conjuration/5e - Level 3 Conjuration/5e - Freedom of the Waves (Spell)|☄️Freedom of the Waves]]
 
-**<u>13th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Transmutation/5e - Level 4 Transmutation/5e - Control Water (Spell)|☄️Control Water]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Evocation/5e - Level 4 Evocation/5e - Storm Sphere (Spell)|☄️Storm Sphere]]
+**<u>13th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Transmutation/5e - Level 4 Transmutation/5e - Control Water (Spell)|☄️Control Water]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Evocation/5e - 000 Evocation Control/5e - Storm Sphere (Spell)|☄️Storm Sphere]]
 
 **<u>17th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - Level 5 Abjuration/5e - Freedom of the Winds (Spell)|☄️Freedom of the Winds]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Evocation/5e - Level 5 Evocation/5e - Maelstrom (Spell)|☄️Maelstrom]]
 

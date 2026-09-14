@@ -2,8 +2,8 @@
 publish: true
 title: 🐺5e - Otherworldly Steed
 created: 2026-09-08T13:55:02.107+02:00
-modified: 2026-09-08T14:19:47.212+02:00
-published: 2026-09-08T14:19:47.212+02:00
+modified: 2026-09-14T15:06:09.974+02:00
+published: 2026-09-14T15:06:09.974+02:00
 tags:
   - "#Monster"
   - "#5e"
@@ -13,6 +13,8 @@ dateitags:
 status: ✅
 source: Player's Handbook 2024
 ---
+
+Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Monster Rules/5e - Bestiary/5e - Creatures by Type/5e - Bestiary; Summons/5e - Bestiary; Summons|5e - Bestiary; Summons]].
 
 # 🐺5e - Otherworldly Steed🐺
 

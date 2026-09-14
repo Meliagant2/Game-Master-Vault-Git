@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Dancer
 description: Dancers practice a way of being in harmony with the ever-whirling cosmos, emphasizing agility, speed, and grace.
 created: 2026-08-07T13:42:55.828+02:00
-modified: 2026-09-04T10:42:52.846+02:00
-published: 2026-09-04T10:42:52.846+02:00
+modified: 2026-09-14T16:25:28.305+02:00
+published: 2026-09-14T16:25:28.305+02:00
 tags:
   - "#Subclass"
   - "#5e"

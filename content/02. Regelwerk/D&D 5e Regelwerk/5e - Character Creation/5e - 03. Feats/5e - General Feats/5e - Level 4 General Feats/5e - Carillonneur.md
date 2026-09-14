@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Carillonneur
 created: 2026-09-02T10:52:01.091+02:00
-modified: 2026-09-02T11:20:35.558+02:00
-published: 2026-09-02T11:20:35.558+02:00
+modified: 2026-09-14T10:49:09.739+02:00
+published: 2026-09-14T10:49:09.739+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -37,7 +37,7 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Fea
 
 You gain the following benefits:
 
-**<u>Ritual Spell:</u>** You learn <u>one</u> _1st-level_ [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Ritual Casting|☄️Ritual Spell]] of your choice. <u>INT</u>, <u>WIS</u>, or <u>CHA</u> is your spellcasting ability for this feat's spells (whichever is highest).
+**<u>Ritual Spell:</u>** You learn <u>one</u> _1st-level_ [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Tags/5e - Ritual Casting|☄️Ritual Spell]] of your choice. <u>INT</u>, <u>WIS</u>, or <u>CHA</u> is your spellcasting ability for this feat's spells (whichever is highest).
 
 **<u>Guiding Chimes:</u>** While using a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Ritual Bells/5e - Ritual Bells|🎩Ritual Bell]] as your [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spellcasting Focus|🎩Spellcasting Focus]], when you or another creature within <u>30 feet</u> of you _fails_ a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - D20 Tests|🎲D20 Test]], you can use your **Reaction** to give that roll a `+5` bonus, potentially causing it to _succeed_.
 

@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Spellcasting
 created: 2026-07-20T12:11:02.674+02:00
-modified: 2026-09-07T15:23:16.783+02:00
-published: 2026-09-07T15:23:16.783+02:00
+modified: 2026-09-14T10:49:09.822+02:00
+published: 2026-09-14T10:49:09.822+02:00
 tags:
   - "#Combatrules"
   - "#5e"
@@ -117,7 +117,7 @@ There are several ways to cast a spell without expending a spell slot:
 
 **<u>Cantrips:</u>** A cantrip is cast without a spell slot.
 
-**<u>Rituals:</u>** Certain spells have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Ritual Casting|☄️Ritual]] tag in the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Casting Time/5e - Casting Time|☄️Casting Time]] entry. Such a spell can be cast following the normal rules for spellcasting, or it can be cast as a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Ritual Casting|☄️Ritual]]. The [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Ritual Casting|☄️Ritual]] version of a spell takes <u>10 minutes</u> longer to cast than normal, but it doesn't expend a spell slot. To cast a spell as a Ritual, a spellcaster must have it prepared.
+**<u>Rituals:</u>** Certain spells have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Tags/5e - Ritual Casting|☄️Ritual]] tag in the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Casting Time/5e - Casting Time|☄️Casting Time]] entry. Such a spell can be cast following the normal rules for spellcasting, or it can be cast as a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Tags/5e - Ritual Casting|☄️Ritual]]. The [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Tags/5e - Ritual Casting|☄️Ritual]] version of a spell takes <u>10 minutes</u> longer to cast than normal, but it doesn't expend a spell slot. To cast a spell as a Ritual, a spellcaster must have it prepared.
 
 **<u>Special Abilities:</u>** Some characters and monsters have special abilities that allow them to cast specific spells without a spell slot. This casting is usually limited in another way, such as being able to cast the spell a limited number of times per day.
 
@@ -143,7 +143,7 @@ A spell that has a **Casting Time** of a **Reaction** is cast in response to a t
 
 #### [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Casting Time/5e - Longer Casting Times|☄️Longer Casting Times]]
 
-Certain spells—including a spell cast as a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Ritual Casting|☄️Ritual]] —require more time to cast: minutes or even hours. While you cast a spell with a casting time of <u>1 minute</u> or more, you must take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Magic Action|⚔️Magic Action]] on <u>each of your turns</u>, and you must maintain [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Concentration/5e - Concentration|🎲Concentration]] while you do so. If your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Concentration/5e - Concentration|🎲Concentration]] is broken, the spell fails, but you don't expend a spell slot. To cast the spell again, you must start over.
+Certain spells—including a spell cast as a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Tags/5e - Ritual Casting|☄️Ritual]] —require more time to cast: minutes or even hours. While you cast a spell with a casting time of <u>1 minute</u> or more, you must take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Magic Action|⚔️Magic Action]] on <u>each of your turns</u>, and you must maintain [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Concentration/5e - Concentration|🎲Concentration]] while you do so. If your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Concentration/5e - Concentration|🎲Concentration]] is broken, the spell fails, but you don't expend a spell slot. To cast the spell again, you must start over.
 
 ### [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Range/5e - Spell Range|☄️Range]]
 

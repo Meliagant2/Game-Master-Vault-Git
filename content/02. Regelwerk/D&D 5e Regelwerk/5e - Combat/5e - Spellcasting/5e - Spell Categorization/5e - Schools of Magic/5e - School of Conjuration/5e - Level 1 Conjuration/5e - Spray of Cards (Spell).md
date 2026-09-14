@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Spray of Cards
 created: 2026-09-08T14:10:47.906+02:00
-modified: 2026-09-09T15:42:32.680+02:00
-published: 2026-09-09T15:42:32.680+02:00
+modified: 2026-09-14T08:53:22.252+02:00
+published: 2026-09-14T08:53:22.252+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -47,7 +47,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Spell List:**|Arcane,Occult |
 > |**Effect:**|Force,Hindered |
 
-You spray a <u>15-foot Cone</u> of spectral cards. Each creature in that area makes a **DEX Save**. _**Failure:**_ Te creature takes `2d4` <u>Force</u> damage and is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Hindered|☠️Hindered]] until <u>the end of its next turn</u>. _**Success:**_ The creature takes half the damage only.
+You spray a <u>15-foot Cone</u> of spectral cards. Each creature in that area makes a **DEX Save**. _**Failure:**_ The creature takes `2d4` <u>Force</u> damage and is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Hindered|☠️Hindered]] until <u>the end of its next turn</u>. _**Success:**_ The creature takes half the damage only.
 
 **<u>Using a Higher-Level Spell Slot:</u>** This spell’s damage increases by `2d4` for each spell slot level above 2. The cone's size increases with a spell slot of level 3-4 (<u>30-foot Cone</u>), or 5+ (<u>60-foot Cone</u>).
 

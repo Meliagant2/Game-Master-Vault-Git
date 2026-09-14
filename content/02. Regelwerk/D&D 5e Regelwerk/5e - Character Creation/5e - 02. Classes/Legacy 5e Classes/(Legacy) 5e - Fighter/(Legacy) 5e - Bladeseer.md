@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - Bladeseer🦸‍♀️
 created: 2026-07-27T12:09:46.510+02:00
-modified: 2026-09-08T15:07:15.872+02:00
-published: 2026-09-08T15:07:15.872+02:00
+modified: 2026-09-14T12:57:05.193+02:00
+published: 2026-09-14T12:57:05.193+02:00
 tags:
   - "#Subclass"
   - "#5e"

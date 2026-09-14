@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - Oathless🦸‍♀️
 created: 2026-07-28T10:25:11.789+02:00
-modified: 2026-09-09T10:55:04.537+02:00
-published: 2026-09-09T10:55:04.537+02:00
+modified: 2026-09-14T16:13:08.422+02:00
+published: 2026-09-14T16:13:08.422+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -34,7 +34,7 @@ You gain oath spells at the paladin levels listed below. You always have these s
 
 **<u>9th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Transmutation/5e - Level 3 Transmutation/5e - Gaseous Form (Spell)|☄️Gaseous Form]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Necromancy/5e - Level 3 Necromancy/5e - Vampiric Touch (Spell)|☄️Vampiric Touch]]
 
-**<u>13th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Enchantment/5e - Level 4 Enchantment/5e - Charm Monster (Spell)|☄️Charm Monster]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Illusion/5e - Level 4 Illusion/5e - Greater Invisibility (Spell)|☄️Greater Invisibility]]
+**<u>13th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Enchantment/5e - 000 Enchantment Control/5e - Charm Monster (Spell)|☄️Charm Monster]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Illusion/5e - 000 Illusion Control/5e - Greater Invisibility (Spell)|☄️Greater Invisibility]]
 
 **<u>17th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Enchantment/5e - Level 5 Enchantment/5e - Geas (Spell)|☄️Geas]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Transmutation/5e - Level 5 Transmutation/5e - Passwall (Spell)|☄️Passwall]]
 
