@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Summon Fey
 created: 2026-09-14T12:06:29.242+02:00
-modified: 2026-09-14T12:16:42.912+02:00
-published: 2026-09-14T12:16:42.912+02:00
+modified: 2026-09-15T10:01:27.997+02:00
+published: 2026-09-15T10:01:27.997+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -18,7 +18,7 @@ school: Conjuration
 level: 3
 time: A
 range-Area: 90 ft.
-komponenten: V, S, M (a gilded flower worth 300+ SP)
+komponenten: V, S
 dauer: 1 hour
 effect:
   - Summoning
@@ -39,7 +39,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Level:**|3 |
 > |**Casting Time:**|A  |
 > |**Range/Area:**|90 ft. |
-> |**Components:**|V, S, M (a gilded flower worth 300+ SP) |
+> |**Components:**|V, S |
 > |**Duration:**|PT1H |
 > |**Concentration:**|x |
 > |**Attack/Save:**||

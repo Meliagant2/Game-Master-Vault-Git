@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Summon Beast
 created: 2026-09-08T14:15:27.167+02:00
-modified: 2026-09-08T14:22:28.941+02:00
-published: 2026-09-08T14:22:28.941+02:00
+modified: 2026-09-15T10:01:37.481+02:00
+published: 2026-09-15T10:01:37.481+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -18,7 +18,7 @@ school: Conjuration
 level: 2
 time: A
 range-Area: 90 ft.
-komponenten: V, S, M (a feather, tuft of fur, and fish tail inside a gilded acorn worth 200+ SP)
+komponenten: V, S
 dauer: 1 hour
 effect:
   - Summoning
@@ -37,7 +37,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Level:**|2 |
 > |**Casting Time:**|A  |
 > |**Range/Area:**|90 ft. |
-> |**Components:**|V, S, M (a feather, tuft of fur, and fish tail inside a gilded acorn worth 200+ SP) |
+> |**Components:**|V, S |
 > |**Duration:**|PT1H |
 > |**Concentration:**|x |
 > |**Attack/Save:**||

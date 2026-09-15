@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Misty Step
 created: 2026-07-28T11:46:44.635+02:00
-modified: 2026-09-08T14:09:35.925+02:00
-published: 2026-09-08T14:09:35.925+02:00
+modified: 2026-09-15T09:33:39.715+02:00
+published: 2026-09-15T09:33:39.715+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -17,7 +17,7 @@ source: Player's Handbook 2024
 school: Conjuration
 level: 2
 time: BA
-range-Area: Self
+range-Area: Self (30 ft.)
 komponenten: V
 dauer: Instantaneous
 effect:
@@ -37,7 +37,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**School:**|Conjuration |
 > |**Level:**|2 |
 > |**Casting Time:**|BA  |
-> |**Range/Area:**|Self |
+> |**Range/Area:**|Self (30 ft.) |
 > |**Components:**|V |
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|  |

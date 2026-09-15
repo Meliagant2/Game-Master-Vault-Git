@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Hunger of Hadar
 created: 2026-09-14T11:38:03.294+02:00
-modified: 2026-09-14T11:42:54.147+02:00
-published: 2026-09-14T11:42:54.147+02:00
+modified: 2026-09-15T08:00:27.601+02:00
+published: 2026-09-15T08:00:27.601+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -45,7 +45,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Spell List:**| |
 > |**Effect:**|Acid,Blinded,Cold |
 
-You open a gateway to the Far Realm, a region infested with unspeakable horrors. A <u>20-foot-radius Sphere of Darkness</u> appears, centered on a point within range and lasting for the duration. The Sphere is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Environment/5e - Difficult Terrain|🏔️Difficult Terrain]], and it is filled with strange whispers and slurping noises, which can be heard up to <u>30 feet</u> away. No light, magical or otherwise, can illuminate the area, and creatures fully within it have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Blinded|☠️Blinded]] condition.
+You open a gateway to the Far Realm, a region infested with unspeakable horrors. A <u>20-foot-radius Sphere of</u> magical [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Illumination/5e - Darkness (Illumination)|💡Darkness]] appears, centered on a point within range and lasting for the duration. The Sphere is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Environment/5e - Difficult Terrain|🏔️Difficult Terrain]], and it is filled with strange whispers and slurping noises, which can be heard up to <u>30 feet</u> away. No light, magical or otherwise, can illuminate the area, and creatures fully within it have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Blinded|☠️Blinded]] condition.
 
 Any creature that starts its turn in the area takes `1d12` <u>Cold</u> damage. Any creature that ends its turn there makes a **DEX Save**. _**Failure:**_ The creature takes `1d12` <u>Acid</u> damage from otherworldly tentacles.
 

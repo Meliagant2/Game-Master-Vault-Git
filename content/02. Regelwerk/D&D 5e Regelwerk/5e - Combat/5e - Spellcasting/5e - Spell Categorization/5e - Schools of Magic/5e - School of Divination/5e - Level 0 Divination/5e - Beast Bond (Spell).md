@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Beast Bond
 created: 2026-07-30T15:30:52.568+02:00
-modified: 2026-09-14T13:02:51.569+02:00
-published: 2026-09-14T13:02:51.569+02:00
+modified: 2026-09-15T11:06:00.024+02:00
+published: 2026-09-15T11:06:00.024+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -26,7 +26,7 @@ zauberliste:
 source: Xanathar's Guide to Everything
 ---
 
-Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Divination/5e - 000 Divination Control/5e - Divination (Spell)|5e - Divination (Spell)]].
+Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Divination/5e - Level 4 Divination/5e - Divination (Spell)|5e - Divination (Spell)]].
 
 # ☄️5e - Beast Bond☄️
 

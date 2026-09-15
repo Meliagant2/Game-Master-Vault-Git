@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Tiny Hut
 created: 2026-08-18T15:25:00.215+02:00
-modified: 2026-09-14T14:13:16.995+02:00
-published: 2026-09-14T14:13:16.995+02:00
+modified: 2026-09-15T09:15:59.032+02:00
+published: 2026-09-15T09:15:59.032+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -51,7 +51,7 @@ Creatures and objects within the Emanation when you cast the spell can move thro
 
 The atmosphere inside the Emanation is comfortable and dry, regardless of the weather outside. Until the spell ends, you can command the interior to have [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Illumination/5e - Dim Light|💡Dim Light]] or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Illumination/5e - Darkness (Illumination)|💡Darkness]] (no action required). The Emanation is opaque from the outside and of any color you choose, but it's transparent from the inside.
 
-The spell ends early if you leave the Emanation or if you start casting it again.
+The dome is an object that has [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Armor Class|🛡️AC]] `25` and [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|💖Hit Points]] equal to `15 x the spell's level`. If it drops to `0` [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|💖Hit Points]], the spell ends. The spell also ends early if you leave the Emanation or if you start casting it again.
 
 ## Quelle
 

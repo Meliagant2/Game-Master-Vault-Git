@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Fighter
 description: A master of martial techniques with expertise in a wide variety of weapons and combat maneuvers.
 created: 2026-07-31T11:11:41.436+02:00
-modified: 2026-09-01T09:11:31.575+02:00
-published: 2026-09-01T09:11:31.575+02:00
+modified: 2026-09-15T15:21:17.426+02:00
+published: 2026-09-15T15:21:17.426+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -181,9 +181,7 @@ After observing a Creature for <u>1 Minute</u> or as a **Bonus Action**, you can
 
 You have a limited well of physical and mental stamina that you can draw on.
 
-**<u>Healing Surge:</u>** As a **Bonus Action**, you can expend a use of your **Second Wind** to regain Hit Points equal to `1d10 + your Fighter level`. Additionally you can move up to half your Speed without provoking [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Reactions/5e - Opportunity Attack|⚔️Opportunity Attacks]].
-
-**<u>Tactical Mind:</u>** When you fail an <u>Ability check</u>, you can expend a use of your **Second Wind** to push yourself toward success. Rather than regaining Hit Points, you roll `1d10` and add the number rolled to the <u>Ability check</u>, potentially turning it into a success. If the check still fails, this use of **Second Wind** isn't expended.
+**<u>Healing Surge:</u>** As a **Bonus Action**, you can expend a use of your **Second Wind** to regain Hit Points equal to `1d10 + your Fighter level`.
 
 **<u>Number of Uses:</u>** You can use this feature a number of times as stated in the Fighter Class Table. You regain <u>one</u> expended use when you finish a **Short Rest**, and you regain <u>all</u> expended uses when you finish a **Long Rest**.
 

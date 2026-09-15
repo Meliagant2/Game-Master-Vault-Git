@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Bard Spell List☄️
 created: 2026-07-30T08:37:02.056+02:00
-modified: 2026-09-09T15:14:30.401+02:00
-published: 2026-09-09T15:14:30.401+02:00
+modified: 2026-09-15T15:13:47.873+02:00
+published: 2026-09-15T15:13:47.873+02:00
 tags:
   - "#Combatrules"
   - "#5e"
@@ -14,16 +14,13 @@ dateitags:
 status: ✅
 ---
 
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Bard/5e - Bard|5e - Bard]].
+
 # ☄️5e - Bard Spell List☄️
 
-## List of all Bard Spells:
+The Bard [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Lists/5e - Spell List Bard/5e - Spell List Bard|☄️Spell List]] includes all [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Divination/5e - School of Divination|☄️Divination]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Enchantment/5e - School of Enchantment|☄️Enchantment]] and [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Illusion/5e - School of Illusion|☄️Illusion]] spells from every [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Sources/5e - Spell Sources|☄️Spell Source]]. It also includes all [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - School of Abjuration|☄️School of Abjuration]] and [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Necromancy/5e - School of Necromancy|☄️School of Necromancy]] spells from the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Sources/5e - Divine Spell Source/5e - Divine Spell Source|☄️Divine Spell Source]], all [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Conjuration/5e - School of Conjuration|☄️Conjuration]] spells from the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Sources/5e - Occult Spell Source/5e - Occult Spell Source|☄️Occult Spell Source]], all [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Evocation/5e - School of Evocation|☄️Evocation]] spells from the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Sources/5e - Primal Spell Source/5e - Primal Spell Source|☄️Primal Spell Source]], and all [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Transmutation/5e - School of Transmutation|☄️Transmutation]] spells from the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Sources/5e - Arcane Spell Source/5e - Arcane Spell Source|☄️Arcane Spell Source]].
 
-1. All Divination Spells
-2. All Enchantment Spells
-3. All Illusion Spells
-4. All Divine Abjuration AND Necromancy Spells
-5. All Occult Conjuration Spells
-6. All Primal Evocation AND Transmutation Spells
+## List of all Bard Spells:
 
 ```base
 filters:
@@ -53,7 +50,10 @@ views:
             - school.containsAny("Conjuration")
         - and:
             - zauberliste.containsAny("Primal")
-            - school.containsAny("Evocation", "Transmutation")
+            - school.containsAny("Evocation")
+        - and:
+            - zauberliste.containsAny("Arcane")
+            - school.containsAny("Transmutation")
     order:
       - file.name
       - level
@@ -82,6 +82,10 @@ views:
     filters:
       or:
         - and:
+            - zauberliste.containsAny("Arcane")
+            - school.containsAny("Transmutation")
+            - level == 0
+        - and:
             - zauberliste.containsAny("Divine")
             - school.containsAny("Abjuration", "Necromancy")
             - level == 0
@@ -91,7 +95,7 @@ views:
             - level == 0
         - and:
             - zauberliste.containsAny("Primal")
-            - school.containsAny("Evocation", "Transmutation")
+            - school.containsAny("Evocation")
             - level == 0
         - and:
             - school.containsAny("Divination", "Enchantment", "Illusion")
@@ -125,6 +129,10 @@ views:
     filters:
       or:
         - and:
+            - zauberliste.containsAny("Arcane")
+            - school.containsAny("Transmutation")
+            - level == 1
+        - and:
             - zauberliste.containsAny("Divine")
             - school.containsAny("Abjuration", "Necromancy")
             - level == 1
@@ -134,7 +142,7 @@ views:
             - level == 1
         - and:
             - zauberliste.containsAny("Primal")
-            - school.containsAny("Evocation", "Transmutation")
+            - school.containsAny("Evocation")
             - level == 1
         - and:
             - school.containsAny("Divination", "Enchantment", "Illusion")
@@ -167,6 +175,10 @@ views:
     filters:
       or:
         - and:
+            - zauberliste.containsAny("Arcane")
+            - school.containsAny("Transmutation")
+            - level == 2
+        - and:
             - zauberliste.containsAny("Divine")
             - school.containsAny("Abjuration", "Necromancy")
             - level == 2
@@ -176,7 +188,7 @@ views:
             - level == 2
         - and:
             - zauberliste.containsAny("Primal")
-            - school.containsAny("Evocation", "Transmutation")
+            - school.containsAny("Evocation")
             - level == 2
         - and:
             - school.containsAny("Divination", "Enchantment", "Illusion")
@@ -209,6 +221,10 @@ views:
     filters:
       or:
         - and:
+            - zauberliste.containsAny("Arcane")
+            - school.containsAny("Transmutation")
+            - level == 3
+        - and:
             - zauberliste.containsAny("Divine")
             - school.containsAny("Abjuration", "Necromancy")
             - level == 3
@@ -218,7 +234,7 @@ views:
             - level == 3
         - and:
             - zauberliste.containsAny("Primal")
-            - school.containsAny("Evocation", "Transmutation")
+            - school.containsAny("Evocation")
             - level == 3
         - and:
             - school.containsAny("Divination", "Enchantment", "Illusion")
@@ -251,6 +267,10 @@ views:
     filters:
       or:
         - and:
+            - zauberliste.containsAny("Arcane")
+            - school.containsAny("Transmutation")
+            - level == 4
+        - and:
             - zauberliste.containsAny("Divine")
             - school.containsAny("Abjuration", "Necromancy")
             - level == 4
@@ -260,7 +280,7 @@ views:
             - level == 4
         - and:
             - zauberliste.containsAny("Primal")
-            - school.containsAny("Evocation", "Transmutation")
+            - school.containsAny("Evocation")
             - level == 4
         - and:
             - school.containsAny("Divination", "Enchantment", "Illusion")

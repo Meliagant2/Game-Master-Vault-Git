@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Moonbeam
 created: 2026-07-28T11:47:02.399+02:00
-modified: 2026-09-09T10:21:10.911+02:00
-published: 2026-09-09T10:21:10.911+02:00
+modified: 2026-09-15T13:25:30.521+02:00
+published: 2026-09-15T13:25:30.521+02:00
 tags:
   - "#Spell"
   - "#5e"

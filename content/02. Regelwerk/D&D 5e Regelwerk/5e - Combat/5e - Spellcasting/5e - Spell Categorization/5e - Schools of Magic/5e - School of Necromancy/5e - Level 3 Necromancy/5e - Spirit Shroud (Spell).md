@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Spirit Shroud
 created: 2026-09-14T15:33:38.984+02:00
-modified: 2026-09-14T15:38:14.363+02:00
-published: 2026-09-14T15:38:14.363+02:00
+modified: 2026-09-15T09:32:38.683+02:00
+published: 2026-09-15T09:32:38.683+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -54,7 +54,7 @@ Until the spell ends, any [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e -
 
 In addition, any creature of your choice that you can see that starts its turn within <u>10 feet</u> of you has its [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Speed/5e - Speed|🏃‍♀️Speed]] reduced by <u>10 feet</u> until <u>the start of your next turn</u>.
 
-**<u>Using a Higher-Level Spell Slot:</u>** This spell’s damage increases by `1d8` for each `2` spell slot levels above 3.
+**<u>Using a Higher-Level Spell Slot:</u>** This spell’s damage increases by `1d8` for each spell slot level above 3.
 
 ## Quelle
 

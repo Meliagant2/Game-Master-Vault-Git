@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Detect Evil and Good
 created: 2026-07-30T14:35:34.236+02:00
-modified: 2026-09-09T09:36:32.171+02:00
-published: 2026-09-09T09:36:32.171+02:00
+modified: 2026-09-15T09:23:38.644+02:00
+published: 2026-09-15T09:23:38.644+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -45,7 +45,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Attack/Save:**||
 > |**Spell List:**|Divine |
 
-For the duration, you sense the location of any <u>Aberration</u>, <u>Celestial</u>, <u>Elemental</u>, <u>Fey</u>, <u>Fiend</u>, or <u>Undead</u> within <u>30 feet</u> of yourself. You also sense whether the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - Level 5 Abjuration/5e - Hallow (Spell)|☄️Hallow]] spell is active there and, if so, where.
+For the duration, you sense the location of any <u>Aberration</u>, <u>Celestial</u>, <u>Elemental</u>, <u>Fey</u>, <u>Fiend</u>, or <u>Undead</u> within <u>30 feet</u> of yourself. You also sense whether the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - 000 Abjuration Control/5e - Hallow (Spell)|☄️Hallow]] spell is active there and, if so, where.
 
 The spell is blocked by <u>30 cm</u> of stone, dirt, or wood; <u>2,5 cm</u> of metal; or a thin sheet of lead.
 

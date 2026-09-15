@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Bard
 description: A charismatic performer who uses their music as a conduit to wield powerful magic.
 created: 2026-07-31T10:15:39.250+02:00
-modified: 2026-09-04T11:35:42.275+02:00
-published: 2026-09-04T11:35:42.275+02:00
+modified: 2026-09-15T15:14:38.935+02:00
+published: 2026-09-15T15:14:38.935+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -74,7 +74,7 @@ The greatest strength of bards is their sheer versatility. Many bards prefer to 
 **<u>Spellcasting Ability:</u>** Charisma
 **<u>Spell Attack:</u>** `CHA + Proficiency Bonus`
 **<u>Spell Save DC:</u>** `8 + CHA + Proficiency Bonus`
-**<u>Spell List:</u>** Bard Spell list, which includes the Occult Spell list.
+**<u>Spell List:</u>** The Bard [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Lists/5e - Spell List Bard/5e - Spell List Bard|☄️Spell List]] includes all [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Divination/5e - School of Divination|☄️Divination]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Enchantment/5e - School of Enchantment|☄️Enchantment]] and [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Illusion/5e - School of Illusion|☄️Illusion]] spells from every [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Sources/5e - Spell Sources|☄️Spell Source]]. It also includes all [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - School of Abjuration|☄️School of Abjuration]] and [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Necromancy/5e - School of Necromancy|☄️School of Necromancy]] spells from the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Sources/5e - Divine Spell Source/5e - Divine Spell Source|☄️Divine Spell Source]], all [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Conjuration/5e - School of Conjuration|☄️Conjuration]] spells from the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Sources/5e - Occult Spell Source/5e - Occult Spell Source|☄️Occult Spell Source]], all [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Evocation/5e - School of Evocation|☄️Evocation]] spells from the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Sources/5e - Primal Spell Source/5e - Primal Spell Source|☄️Primal Spell Source]], and all [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Transmutation/5e - School of Transmutation|☄️Transmutation]] spells from the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Sources/5e - Arcane Spell Source/5e - Arcane Spell Source|☄️Arcane Spell Source]].
 **<u>Spell Slots:</u>** The Spellcaster Table shows how many Spell Slots you have to cast Spells. To cast one of these Spells, you must expend a Slot of the Spell’s level or higher. You regain all expended spell slots when you finish a Long Rest.
 **<u>Cantrips:</u>** Whenever you gain a Level in this Class, you can replace one of your cantrips with another cantrip of your choice from your Spell List.
 **<u>Spells:</u>** You prepare a number of spells from your Spell List as shown in your Class's the **Spellcaster Table**. Whenever you gain a Level in your Class, you can replace one of your prepared spells with another spell of your choice from your _Spell List_ for which you have _Spell Slots_.
@@ -109,6 +109,10 @@ The greatest strength of bards is their sheer versatility. Many bards prefer to 
 #### Spell List
 
 ```base
+filters:
+  and:
+    - dateitags.containsAll("#5e", "#Spell")
+    - '!file.name.containsAny("Template", "(Legacy)")'
 views:
   - type: table
     name: 5e - Bard; Choose Spell Level
@@ -122,8 +126,20 @@ views:
   - type: table
     name: 5e - Bard; All Spells
     filters:
-      and:
-        - zauberliste.containsAny("Bard", "Occult")
+      or:
+        - school.containsAny("Divination", "Enchantment", "Illusion")
+        - and:
+            - zauberliste.containsAny("Divine")
+            - school.containsAny("Abjuration", "Necromancy")
+        - and:
+            - zauberliste.containsAny("Occult")
+            - school.containsAny("Conjuration")
+        - and:
+            - zauberliste.containsAny("Primal")
+            - school.containsAny("Evocation")
+        - and:
+            - zauberliste.containsAny("Arcane")
+            - school.containsAny("Transmutation")
     order:
       - file.name
       - level
@@ -150,9 +166,26 @@ views:
   - type: table
     name: 5e - Bard; Cantrips
     filters:
-      and:
-        - zauberliste.containsAny("Bard", "Occult")
-        - level == 0
+      or:
+        - and:
+            - zauberliste.containsAny("Arcane")
+            - school.containsAny("Transmutation")
+            - level == 0
+        - and:
+            - zauberliste.containsAny("Divine")
+            - school.containsAny("Abjuration", "Necromancy")
+            - level == 0
+        - and:
+            - zauberliste.containsAny("Occult")
+            - school.containsAny("Conjuration")
+            - level == 0
+        - and:
+            - zauberliste.containsAny("Primal")
+            - school.containsAny("Evocation")
+            - level == 0
+        - and:
+            - school.containsAny("Divination", "Enchantment", "Illusion")
+            - level == 0
     order:
       - file.name
       - level
@@ -180,9 +213,26 @@ views:
   - type: table
     name: 5e - Bard; 1st-level
     filters:
-      and:
-        - zauberliste.containsAny("Bard", "Occult")
-        - level == 1
+      or:
+        - and:
+            - zauberliste.containsAny("Arcane")
+            - school.containsAny("Transmutation")
+            - level == 1
+        - and:
+            - zauberliste.containsAny("Divine")
+            - school.containsAny("Abjuration", "Necromancy")
+            - level == 1
+        - and:
+            - zauberliste.containsAny("Occult")
+            - school.containsAny("Conjuration")
+            - level == 1
+        - and:
+            - zauberliste.containsAny("Primal")
+            - school.containsAny("Evocation")
+            - level == 1
+        - and:
+            - school.containsAny("Divination", "Enchantment", "Illusion")
+            - level == 1
     order:
       - file.name
       - level
@@ -209,9 +259,26 @@ views:
   - type: table
     name: 5e - Bard; 2nd-level
     filters:
-      and:
-        - zauberliste.containsAny("Bard", "Occult")
-        - level == 2
+      or:
+        - and:
+            - zauberliste.containsAny("Arcane")
+            - school.containsAny("Transmutation")
+            - level == 2
+        - and:
+            - zauberliste.containsAny("Divine")
+            - school.containsAny("Abjuration", "Necromancy")
+            - level == 2
+        - and:
+            - zauberliste.containsAny("Occult")
+            - school.containsAny("Conjuration")
+            - level == 2
+        - and:
+            - zauberliste.containsAny("Primal")
+            - school.containsAny("Evocation")
+            - level == 2
+        - and:
+            - school.containsAny("Divination", "Enchantment", "Illusion")
+            - level == 2
     order:
       - file.name
       - level
@@ -238,9 +305,26 @@ views:
   - type: table
     name: 5e - Bard; 3rd-level
     filters:
-      and:
-        - zauberliste.containsAny("Bard", "Occult")
-        - level == 3
+      or:
+        - and:
+            - zauberliste.containsAny("Arcane")
+            - school.containsAny("Transmutation")
+            - level == 3
+        - and:
+            - zauberliste.containsAny("Divine")
+            - school.containsAny("Abjuration", "Necromancy")
+            - level == 3
+        - and:
+            - zauberliste.containsAny("Occult")
+            - school.containsAny("Conjuration")
+            - level == 3
+        - and:
+            - zauberliste.containsAny("Primal")
+            - school.containsAny("Evocation")
+            - level == 3
+        - and:
+            - school.containsAny("Divination", "Enchantment", "Illusion")
+            - level == 3
     order:
       - file.name
       - level
@@ -267,9 +351,26 @@ views:
   - type: table
     name: 5e - Bard; 4th-level
     filters:
-      and:
-        - zauberliste.containsAny("Bard", "Occult")
-        - level == 4
+      or:
+        - and:
+            - zauberliste.containsAny("Arcane")
+            - school.containsAny("Transmutation")
+            - level == 4
+        - and:
+            - zauberliste.containsAny("Divine")
+            - school.containsAny("Abjuration", "Necromancy")
+            - level == 4
+        - and:
+            - zauberliste.containsAny("Occult")
+            - school.containsAny("Conjuration")
+            - level == 4
+        - and:
+            - zauberliste.containsAny("Primal")
+            - school.containsAny("Evocation")
+            - level == 4
+        - and:
+            - school.containsAny("Divination", "Enchantment", "Illusion")
+            - level == 4
     order:
       - file.name
       - level
@@ -298,7 +399,7 @@ views:
     filters:
       or:
         - and:
-            - zauberliste.containsAny("Arcane", "Divine", "Primal", "Occult", "Bard")
+            - zauberliste.containsAny("Arcane", "Divine", "Primal", "Occult")
             - level == 5
     order:
       - file.name

@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Adept
 description: A living weapon that hones their control over body and mind, and channels their unwavering focus to achieve amazing feats
 created: 2026-07-31T11:14:22.631+02:00
-modified: 2026-08-18T08:36:30.395+02:00
-published: 2026-08-18T08:36:30.395+02:00
+modified: 2026-09-15T15:28:41.216+02:00
+published: 2026-09-15T15:28:41.216+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -60,10 +60,10 @@ Adepts generally view adventures as tests of their physical and mental developme
 > [!charakterklasse]+ Starting Proficiencies
 > |                                |                                                                                                              |
 > | ------------------------------ | ------------------------------------------------------------------------------------------------------------ |
-> | **Armor Training**             | Light                                                                                                            |
-> | **Weapon Proficiencies**       | All                                                                                                          |
+> | **Armor Training**             | Light Armor                                                                                                            |
+> | **Weapon Proficiencies**       | Simple, Martial                                                                                                        |
 > | **Saving Throw Proficiencies** | <u>Choose one proficiency of each A and B:</u> **(A)** Dexterity OR Wisdom; **(B)** Strength OR Intelligence |
-> | **Skill Proficiencies**        | <u>Choose 2:</u> Acrobatics, Athletics, History, Insight, Perception, Religion, and Stealth                  |
+> | **Skill Proficiencies**        | <u>Choose 2:</u> Acrobatics, Athletics, History, Insight, Perception, Occultism, Religion, and Stealth                  |
 > | **Tool Proficiencies**         | 1 set of Artisan's tools or Musical Instrument                                                               |
 > | **Starting Equipment**         | <u>Choose A or B</u>: **(A)** A Weapon, 10 darts, 10 SP; **(B)** 150 SP                                      |
 
@@ -170,7 +170,7 @@ views:
 
 ### Level 1: Uncanny Metabolism (Flavor)
 
-When you roll <u>Initiative</u>, you can regain all expended <u>exertion</u>. When you do so, roll your **Martial Arts die**, and regain a number of <u>Hit Points</u> equal to `your Adept level + the number rolled`.
+When you roll [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Initiative|🎲Initiative]], you can regain all expended <u>exertion</u>. When you do so, roll your **Martial Arts die**, and regain a number of <u>Hit Points</u> equal to `your Adept level + the number rolled`.
 
 **<u>Number of Uses:</u>** <u>Once</u> you use this feature, you can’t use it again until you finish a **Long Rest**.
 

@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - Oath of the Crown🦸‍♀️
 created: 2026-07-28T10:25:11.789+02:00
-modified: 2026-09-14T13:37:46.502+02:00
-published: 2026-09-14T13:37:46.502+02:00
+modified: 2026-09-15T11:28:25.777+02:00
+published: 2026-09-15T11:28:25.777+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -38,9 +38,9 @@ You gain oath spells at the paladin levels listed below. You always have these s
 
 **<u>9th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - Level 3 Abjuration/5e - Aura of Vitality (Spell)|☄️Aura of Vitality]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Conjuration/5e - Level 3 Conjuration/5e - Spirit Guardians (Spell)|☄️Spirit Guardians]]
 
-**<u>13th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - 000 Abjuration Control/5e - Banishment (Spell)|☄️Banishment]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Enchantment/5e - 000 Enchantment Control/5e - Guardian of Faith (Spell)|☄️Guardian of Faith]]
+**<u>13th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - Level 4 Abjuration/5e - Banishment (Spell)|☄️Banishment]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Conjuration/5e - Level 4 Conjuration/5e - Guardian of Faith (Spell)|☄️Guardian of Faith]]
 
-**<u>17th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - Level 5 Abjuration/5e - Circle of Power (Spell)|☄️Circle of Power]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Enchantment/5e - Level 5 Enchantment/5e - Geas (Spell)|☄️Geas]]
+**<u>17th level:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - 000 Abjuration Control/5e - Circle of Power (Spell)|☄️Circle of Power]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Enchantment/5e - 000 Enchantment Control/5e - Geas (Spell)|☄️Geas]]
 
 ### Level 3: Champion Challenge
 

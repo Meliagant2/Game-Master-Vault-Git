@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Dark Gift - Watchers
 created: 2026-08-19T11:06:07.818+02:00
-modified: 2026-09-08T14:39:10.574+02:00
-published: 2026-09-08T14:39:10.574+02:00
+modified: 2026-09-15T11:00:46.538+02:00
+published: 2026-09-15T11:00:46.538+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -38,7 +38,7 @@ Something unnatural is always watching you, taking the form of scurrying vermin 
 
 **<u>Heightened Suspicion:</u>** Whenever you take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Search|⚔️Search]] action, you can roll `1d4` and add the number rolled to any ability check made as part of that action.
 
-**<u>Incessant Watchers:</u>** You have **DISADV** on [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Save]] made against the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Conjuration/5e - Level 5 Conjuration/5e - Scrying (Spell)|☄️Scrying]] spell.
+**<u>Incessant Watchers:</u>** You have **DISADV** on [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Save]] made against the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Conjuration/5e - 000 Conjuration Control/5e - Scrying (Spell)|☄️Scrying]] spell.
 
 In addition, immediately after you make a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - D20 Tests|🎲D20 Test]] and roll a `1` on the `d20`, paranoia threatens to overwhelm you. Make a **repeated DC 13 + PB WIS Save**. _**Failure:**_ You have **DISADV** on [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - D20 Tests|🎲D20 Tests]] for <u>1 minute</u>.
 

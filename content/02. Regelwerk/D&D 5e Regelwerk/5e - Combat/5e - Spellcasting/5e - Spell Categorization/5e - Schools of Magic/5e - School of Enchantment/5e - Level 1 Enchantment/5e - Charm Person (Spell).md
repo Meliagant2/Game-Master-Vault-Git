@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Charm Person
 created: 2026-07-23T11:54:22.937+02:00
-modified: 2026-09-07T13:30:07.270+02:00
-published: 2026-09-07T13:30:07.270+02:00
+modified: 2026-09-15T11:12:04.591+02:00
+published: 2026-09-15T11:12:04.591+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -13,6 +13,7 @@ dateitags:
 status: ✅
 reactionbedingung: " "
 c: " "
+source: Player's Handbook 2024
 school: Enchantment
 level: 1
 time: A
@@ -52,3 +53,4 @@ You attempt to charm a humanoid you can see within range. It must make a **WIS S
 ## Quelle
 
 > [!inspiration] Quelle/Inspiration
+> Player's Handbook 2024

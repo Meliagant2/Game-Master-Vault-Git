@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️(Legacy) 5e - Warrior of Tranquility🦸‍♀️
 created: 2026-07-22T12:06:01.852+02:00
-modified: 2026-09-14T13:02:51.526+02:00
-published: 2026-09-14T13:02:51.526+02:00
+modified: 2026-09-15T11:05:59.972+02:00
+published: 2026-09-15T11:05:59.972+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -37,7 +37,7 @@ You perfect the ability to be underestimated. You gain an <u>expertise die</u> o
 
 After a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Long Rest|😴Long Rest]] during which you are able to consume and read the dregs of a warm drink, you roll a <u>d20</u> and use a **Bonus Action** to choose a creature you can see within <u>30 feet</u>, including yourself. The next attack roll, ability check , or saving throw that the creature makes, it uses the result instead of rolling a <u>d20</u>. Once you have used this feature after a long rest each additional use requires <u>3 exertion</u> (and an additional <u>d20</u> roll), and after using this feature a number of times equal to your <u>WIS modifier</u>, you cannot use it again until you finish a **long rest**.
 
-Additionally, you may take 10 minutes to prepare and consume a soothing drink, after which you can spend <u>3 exertion</u> to cast [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Divination/5e - 000 Divination Control/5e - Divination (Spell)|☄️Divination]] with no other material components.
+Additionally, you may take 10 minutes to prepare and consume a soothing drink, after which you can spend <u>3 exertion</u> to cast [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Divination/5e - Level 4 Divination/5e - Divination (Spell)|☄️Divination]] with no other material components.
 
 ### Level 13: Tranquility
 
