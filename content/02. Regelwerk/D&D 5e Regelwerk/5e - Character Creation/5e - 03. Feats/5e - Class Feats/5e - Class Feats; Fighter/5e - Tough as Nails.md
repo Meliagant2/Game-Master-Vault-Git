@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Tough as Nails
 created: 2026-08-17T12:50:51.221+02:00
-modified: 2026-08-17T12:52:05.293+02:00
-published: 2026-08-17T12:52:05.293+02:00
+modified: 2026-09-16T09:59:26.303+02:00
+published: 2026-09-16T09:59:26.303+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -15,6 +15,8 @@ category: Class
 level: 6
 prerequisite: Fighter
 ---
+
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats|5e - Class Feats]].
 
 # 🥇5e - Tough as Nails🥇
 
@@ -28,7 +30,7 @@ prerequisite: Fighter
 
 You gain the following benefits:
 
-Whenever you finish a **Short** or **Long Rest**, you gain a number of _Temporary Hit Points_ equal to `2 × your CON`.
+Whenever you finish a **Short** or **Long Rest**, you gain a number of [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Temporary Hit Points|💖Temporary Hit Points]] equal to `2 × your CON`.
 
 ## Quelle
 

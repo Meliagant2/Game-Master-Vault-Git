@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Tireless Fighter
 created: 2026-08-17T11:59:58.865+02:00
-modified: 2026-08-17T12:01:31.347+02:00
-published: 2026-08-17T12:01:31.347+02:00
+modified: 2026-09-16T09:59:11.070+02:00
+published: 2026-09-16T09:59:11.070+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -16,6 +16,8 @@ level: 2
 prerequisite: Fighter
 ---
 
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats|5e - Class Feats]].
+
 # 🥇5e - Tireless Fighter🥇
 
 > [!wikibox]
@@ -26,7 +28,7 @@ prerequisite: Fighter
 > |**Prerequisite**|Fighter |
 > |**Repeatable**| |
 
-Whenever you take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Regain Exertion|⚔️Regain Exertion]] Action, you recover `4` <u>Exertion</u> per <u>Hit Die</u> expended (instead of `1d4` as normal).
+Whenever you take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Regain Exertion|⚔️Regain Exertion]] action, you recover `4` [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Rules/5e - Exertion|🤺Exertion]] per [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Dice|💖Hit Die]] expended (instead of `1d4` as normal).
 
 ## Quelle
 

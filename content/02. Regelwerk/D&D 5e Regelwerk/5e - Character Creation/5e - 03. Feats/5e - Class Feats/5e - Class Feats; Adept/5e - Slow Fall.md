@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Slow Fall
 created: 2026-08-10T15:55:25.721+02:00
-modified: 2026-09-07T14:29:49.301+02:00
-published: 2026-09-07T14:29:49.301+02:00
+modified: 2026-09-16T08:23:49.148+02:00
+published: 2026-09-16T08:23:49.148+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -16,6 +16,8 @@ level: 4
 prerequisite: Adept
 ---
 
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats|5e - Class Feats]].
+
 # 🥇5e - Slow Fall🥇
 
 > [!wikibox]
@@ -26,7 +28,7 @@ prerequisite: Adept
 > |**Prerequisite**|Adept |
 > |**Repeatable**| |
 
-When you are [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Environment/5e - Falling|🏃‍♀️Falling]], you can use your **Reaction** to cast [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Transmutation/5e - Level 1 Transmutation/5e - Feather Fall (Spell)|☄️Feather Fall]] on yourself.
+When you are [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Environment/5e - Falling|🏃‍♀️Falling]], you can use your **Reaction** to cast [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Transmutation/5e - Level 1 Transmutation/5e - Feather Fall (Spell)|☄️Feather Fall]] without any [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Components/5e - Spell Components|☄️Spell Components]] on yourself.
 
 The casting of this feat's spell does **not** count as a magical effect. It is considered to be a _Maneuver_ effect instead.
 

@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Standard Barer
 created: 2026-08-17T11:58:16.800+02:00
-modified: 2026-08-17T11:58:57.017+02:00
-published: 2026-08-17T11:58:57.017+02:00
+modified: 2026-09-16T09:56:15.134+02:00
+published: 2026-09-16T09:56:15.134+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -16,6 +16,8 @@ level: 2
 prerequisite: Fighter
 ---
 
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats|5e - Class Feats]].
+
 # 🥇5e - Standard Barer🥇
 
 > [!wikibox]
@@ -26,7 +28,7 @@ prerequisite: Fighter
 > |**Prerequisite**|Fighter |
 > |**Repeatable**| |
 
-When a creature within <u>5 feet</u> of you makes an attack against a creature that you can see, you can grant them **ADV** on their <u>attack roll</u> as a **Reaction**. You must be carrying a <u>banner</u>, <u>flag</u>, or <u>standard</u> in your hand to use this reaction.
+When a creature within <u>5 feet</u> of you makes an [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack]] against a creature that you can see, you can grant them **ADV** on their [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack Roll]] as a **Reaction**.
 
 ## Quelle
 

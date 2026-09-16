@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Disarm
 created: 2026-07-21T12:26:44.049+02:00
-modified: 2026-08-13T10:05:35.535+02:00
-published: 2026-08-13T10:05:35.535+02:00
+modified: 2026-09-16T08:05:38.642+02:00
+published: 2026-09-16T08:05:38.642+02:00
 tags:
   - "#Maneuver"
   - "#5e"
@@ -18,11 +18,13 @@ degree: 0
 exertioncost: "0"
 time: Attack
 range-Area: Weapon
-save-Att: STR/DEX
+save-Att: Contested
 effect:
   - Disarm
 weapon: Any
 ---
+
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Traditions/5e - Basic Maneuvers/5e - Basic Maneuvers|5e - Basic Maneuvers]].
 
 # 🤺5e - Disarm🤺
 
@@ -35,9 +37,9 @@ weapon: Any
 > |**Use Time:**|Attack  |
 > |**Weapon Type:**|Any |
 > |**Range/Area:**|Weapon |
-> |**Attack/Save:**|STR/DEX|
+> |**Attack/Save:**|Contested|
 > |**Effect:**|Disarm |
 
-On a _**hit**_ the target makes a **STR** or **DEX Save** (its choice). _**Failure:**_ You deal [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Damage/5e - Basic Melee Damage|💔Basic Melee Damage]] and the target drops one item it is holding in its space.
+You make an [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - STR Skills/5e - Athletics|💃Athletics]] [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Ability Check/5e - Ability Check|🎲Check]] contested by the target's [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - DEX Skills/5e - Acrobatics|💃Acrobatics]] or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - STR Skills/5e - Athletics|💃Athletics]] [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Ability Check/5e - Ability Check|🎲Check]] (the target's choice). You _succeed_ automatically if the target is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]]. _**Success:**_ You deal [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Damage/5e - Basic Melee Damage|💔Basic Melee Damage]] and the target drops one item it is holding in its space.
 
-The target makes the <u>Save</u> with **ADV** if it is _larger_ than you or holding the item with two hands and with **DISADV** if it is _smaller_ than you.
+The target makes the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Ability Check/5e - Ability Check|🎲Check]] with **ADV** if it is _larger_ than you or holding the item with <u>two hands</u> and with **DISADV** if it is _smaller_ than you and holding the item with <u>one hand</u>.

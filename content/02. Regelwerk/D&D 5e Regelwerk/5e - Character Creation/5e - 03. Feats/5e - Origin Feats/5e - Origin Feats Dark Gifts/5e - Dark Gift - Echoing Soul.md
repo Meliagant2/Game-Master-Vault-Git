@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Dark Gift - Echoing Soul
 created: 2026-08-19T11:06:07.818+02:00
-modified: 2026-09-04T08:45:00.607+02:00
-published: 2026-09-04T08:45:00.607+02:00
+modified: 2026-09-16T10:32:03.810+02:00
+published: 2026-09-16T10:32:03.810+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -40,7 +40,7 @@ In addition, choose one [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - S
 
 **<u>Inherent Tongues:</u>** You gain a **mastery level** in <u>one</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Language]] of your choice.
 
-**<u>Intrusive Echoes:</u>** Immediately after you make a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - D20 Tests|🎲D20 Test]] and roll a `1` on the `d20`, memories and sensations from your soul's other life threaten to overtake you. Make a **DC 13 + PB CON Save**. _**Failure:**_ You have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]] condition until <u>the end of your next turn</u>.
+**<u>Intrusive Echoes:</u>** Immediately after you make a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - D20 Tests|🎲D20 Test]] and roll a `1` on the `d20`, memories and sensations from your soul's other life threaten to overtake you. Make a **DC 13 + PB CON Save**. _**Failure:**_ You have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]] condition until <u>the end of your next turn</u>. While you are [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]] in this way, you are [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Slowed|☠️Slowed]].
 
 ## Quelle
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-17T08:20:33.923+02:00
-modified: 2026-09-15T14:50:18.948+02:00
-published: 2026-09-15T14:50:18.948+02:00
+modified: 2026-09-16T07:54:49.130+02:00
+published: 2026-09-16T07:54:49.130+02:00
 tags:
   - "#Changelog"
   - "#5e"
@@ -29,6 +29,11 @@ datum: 2026-09-15
 **Stunning Assault:** Removed
 **Knockdown Assault:** Duration increased to "end of your next turn"
 **Basic Melee Damage:** Now equals `1d2 + STR` instead of `1 + STR`
+
+### Basic Maneuver Changes
+
+**All:** Every Basic Maneuver is now a contested Check: Athletics vs Acrobatics or Athletics.
+**Overrun:** Overrun is now always an Attack replacement.
 
 ## Spellcasting Changes
 

@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Artistical Wound Closure
 created: 2026-08-07T15:44:21.235+02:00
-modified: 2026-08-07T15:46:01.145+02:00
-published: 2026-08-07T15:46:01.145+02:00
+modified: 2026-09-16T07:25:02.676+02:00
+published: 2026-09-16T07:25:02.676+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -15,6 +15,8 @@ category: Class
 level: 4
 prerequisite: Bard
 ---
+
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats|5e - Class Feats]].
 
 # 🥇5e - Artistical Wound Closure🥇
 

@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Adept
 description: A living weapon that hones their control over body and mind, and channels their unwavering focus to achieve amazing feats
 created: 2026-07-31T11:14:22.631+02:00
-modified: 2026-09-15T15:28:41.216+02:00
-published: 2026-09-15T15:28:41.216+02:00
+modified: 2026-09-16T10:15:52.546+02:00
+published: 2026-09-16T10:15:52.546+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -69,7 +69,7 @@ Adepts generally view adventures as tests of their physical and mental developme
 
 ### Martial Class
 
-**<u>Maneuver Ability:</u>** Strength or Dexterity
+**<u>Maneuver Ability:</u>** Strength or Dexterity (Whichever is higher)
 **<u>Maneuver Attack:</u>** `STR/DEX + Proficiency Bonus`
 **<u>Maneuver Save DC:</u>** `8 + STR/DEX + Proficiency Bonus`
 **<u>Combat Traditions:</u>** You gain proficiency in two of the following Combat Traditions: [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Traditions/5e - Tradition of Attentiveness/5e - Tradition of Attentiveness|🤺Attentiveness]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Traditions/5e - Tradition of Cunning/5e - Tradition of Cunning|🤺Cunning]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Traditions/5e - Tradition of Might/5e - Tradition of Might|🤺Might]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Traditions/5e - Tradition of Swiftness/5e - Tradition of Swiftness|🤺Swiftness]]
@@ -170,36 +170,36 @@ views:
 
 ### Level 1: Uncanny Metabolism (Flavor)
 
-When you roll [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Initiative|🎲Initiative]], you can regain all expended <u>exertion</u>. When you do so, roll your **Martial Arts die**, and regain a number of <u>Hit Points</u> equal to `your Adept level + the number rolled`.
+When you roll [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Initiative|🎲Initiative]], you can regain all expended [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Rules/5e - Exertion|🤺Exertion]]. When you do so, roll your **Martial Arts die**, and regain a number of [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|💖Hit Points]] equal to `your Adept level + the number rolled`.
 
-**<u>Number of Uses:</u>** <u>Once</u> you use this feature, you can’t use it again until you finish a **Long Rest**.
+_**<u>Number of Uses:</u>**_ <u>Once</u> you've used this benefit, you can't use it again until you finish a **Long Rest**.
 
 ### Level 1: Adroit Defense
 
 You learn special defensive techniques. You gain the following Benefits:
 
-**<u>Agile Defense:</u>** While you are wearing _no armor_ and _not wielding a shield_, your AC equals `10 + DEX + WIS`.
+**<u>Agile Defense:</u>** While you are wearing no [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Armor/5e - Armor|⛑️Armor]] and are not wielding a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Shields/5e - Shields|🛡️Shield]], your [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Armor Class|🛡️AC]] equals `10 + DEX + WIS`.
 
-**<u>Brutal Defense:</u>** While you are wearing _light armor_, you replace your <u>DEX</u> modifier with your <u>STR</u> modifier for AC.
+**<u>Brutal Defense:</u>** While you are wearing [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Armor/5e - Light Armor/5e - Light Armor|⛑️Light Armor]], you can replace your <u>DEX</u> modifier with your <u>STR</u> modifier for [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Armor Class|🛡️AC]].
 
 ### Level 1: Martial Arts
 
 You honed your body into a weapon, mastering many styles of martial arts. You gain the following benefits:
 
-**<u>Martial Arts Attacks:</u>** For the purpose of your Adept abilities, **Martial Arts Attacks** are [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Unarmed Strike|⚔️Unarmed Strikes]], and any attacks with <u>melee weapons</u> that lack the <u>heavy</u> property. Your <u>Unarmed Strikes</u> gain the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Mastery Properties/5e - Push Mastery Property|🗡️Push Mastery Property]] and count as _Martial melee Weapons_ for the purpose of [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Maneuvers|🤺Combat Maneuvers]] and other features.
+**<u>Martial Arts Attacks:</u>** For the purpose of your Adept abilities, **Martial Arts Attacks** are [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Unarmed Strike|⚔️Unarmed Strikes]], and any attacks with <u>melee</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|🗡️Weapons]] that lack the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Properties/5e - Heavy (Property)|🗡️Heavy]] property. Your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Unarmed Strike|⚔️Unarmed Strikes]] gain the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Mastery Properties/5e - Push Mastery Property|🗡️Push Mastery Property]] and count as _Martial melee Weapons_ for the purpose of [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Maneuvers|🤺Combat Maneuvers]] and other features.
 
-So long as you are not wearing <u>heavy armor</u>, wielding a <u>shield</u>, or wielding a <u>heavy</u> weapon, your **Martial Arts Attacks** gain the following benefits:
+So long as you are not wearing [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Armor/5e - Heavy Armor/5e - Heavy Armor|⛑️Heavy Armor]] , wielding a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Shields/5e - Shields|🛡️Shield]], or wielding a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Properties/5e - Heavy (Property)|🗡️Heavy]] weapon, your **Martial Arts Attacks** gain the following benefits:
 
 - **<u>Bonus Martial Arts Attack:</u>** You can make a **Martial Arts Attack** as a **Bonus Action**.
 - **<u>Martial Arts Die:</u>** You can roll your **Martial Arts Die** in place of the normal damage of a Martial Arts attack. This die starts out as a `d6` and changes as you gain Adept levels, as indicated in the <u>Martial Arts column</u> of the Adept table.
-- **<u>Dexterous Attacks:</u>** You can use your <u>DEX</u>, in place of <u>STR</u>, for the attack and damage rolls or your **Martial Arts Attacks**.
-- **<u>Dexterous Grappler:</u>** You can make a <u>DEX (Athletics)</u> check to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Traditions/5e - Basic Maneuvers/5e - Grapple (Maneuver)|🤺Grapple]] or [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Traditions/5e - Basic Maneuvers/5e - Shove (Maneuver)|🤺Shove]] in place of the normal <u>STR (Athletics)</u> check.
+- **<u>Dexterous Attacks:</u>** You can use your <u>DEX</u>, in place of <u>STR</u>, for the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack]] and [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Damage/5e - Damage Roll|💔Damage Rolls]] of your **Martial Arts Attacks**.
+- **<u>Dexterous Grappler:</u>** When you make an [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - STR Skills/5e - Athletics|💃Athletics]] [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Ability Check/5e - Ability Check|🎲Check]] to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Traditions/5e - Basic Maneuvers/5e - Grapple (Maneuver)|🤺Grapple]] or [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Traditions/5e - Basic Maneuvers/5e - Shove (Maneuver)|🤺Shove]], you can use <u>DEX</u> in place <u>STR</u> for that [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Ability Check/5e - Ability Check|🎲Check]].
 
-**<u>Exertion Focus:</u>** You can spend [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Rules/5e - Exertion|🤺Exertion]] to fuel various techniques and **Focus Features**. If one of those features requires your target to make a saving throw to resist the feature’s effects, the Saving Throw DC equals your **Maneuver Save DC**. You gain the following benefits:
+**<u>Exertion Focus:</u>** You can spend [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Rules/5e - Exertion|🤺Exertion]] to fuel various techniques and **Focus Features**. If one of those features requires your target to make a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Save]] to resist the feature’s effects, the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Difficulty Class/5e - Difficulty Class|🎲Save DC]] equals your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Rules/5e - Maneuver Save DC|🤺Maneuver Save DC]]. You gain the following benefits:
 
-- **<u>Flurry of Blows:</u>** You can spend `1` <u>Exertion</u> to make <u>two</u> **Martial Arts Attacks** as a **Bonus Action**.
-- **<u>Long Step:</u>** You can take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Dash|⚔️Dash]] Action as a **Bonus Action**. Alternatively, you can spend `1` <u>Exertion</u> to take both the <u>Dash</u> and the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Disengage|⚔️Disengage]]-Actions as a **Bonus Action**, and your [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Speed/5e - Jumping|🏃‍♀️Jump]] distance is doubled for the turn.
-- **<u>Patient Defense:</u>** You can take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Disengage|⚔️Disengage]] Action as a **Bonus Action**. Alternatively, you can spend `1` <u>Exertion</u> to take both the <u>Disengage</u> and the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Dodge|⚔️Dodge]]-Actions as a **Bonus Action**.
+- **<u>Flurry of Blows:</u>** You can spend `1` [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Rules/5e - Exertion|🤺Exertion]] to make <u>two</u> **Martial Arts Attacks** as a **Bonus Action**.
+- **<u>Long Step:</u>** You can take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Dash|⚔️Dash]] action as a **Bonus Action**. Alternatively, you can spend `1` [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Rules/5e - Exertion|🤺Exertion]] to take both the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Dash|⚔️Dash]] and the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Disengage|⚔️Disengage]] actions as a **Bonus Action**, and your [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Speed/5e - Jumping|🏃‍♀️Jump]] distance is doubled for the turn.
+- **<u>Patient Defense:</u>** You can take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Disengage|⚔️Disengage]] action as a **Bonus Action**. Alternatively, you can spend `1` [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Rules/5e - Exertion|🤺Exertion]] to take both the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Disengage|⚔️Disengage]] and the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Dodge|⚔️Dodge]] actions as a **Bonus Action**.
 
 ### Level 2: Feats
 
@@ -228,13 +228,13 @@ You gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. F
 
 You gain the following benefits:
 
-**<u>Agile Defense:</u>** While you are wearing _no armor_ and _not wielding a shield_, your AC equals `12 + DEX + WIS`.
+**<u>Agile Defense:</u>** While you are wearing no [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Armor/5e - Armor|⛑️Armor]] and are not wielding a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Shields/5e - Shields|🛡️Shield]], your [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Armor Class|🛡️AC]] equals `12 + DEX + WIS`.
 
-**<u>Brutal Defense:</u>** While you are wearing _light armor_, you replace your <u>DEX</u> modifier with your <u>STR</u> modifier for AC. Additionally, you gain a `+2` Bonus to AC
+**<u>Brutal Defense:</u>** While you are wearing [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Armor/5e - Light Armor/5e - Light Armor|⛑️Light Armor]], you gain a `+2` Bonus to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Armor Class|🛡️AC]].
 
-**<u>Deflect Attacks:</u>** When an <u>attack roll</u> hits you and its damage includes <u>Bludgeoning</u>, <u>Piercing</u>, or <u>Slashing</u> damage, you can take a **Reaction** to reduce the attack's total damage against you. The reduction equals `1d10 + DEX + your Adept level`.
+**<u>Deflect Attacks:</u>** When an [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack Roll]] _hits_ you and its damage includes <u>Bludgeoning</u>, <u>Piercing</u>, or <u>Slashing</u> damage, you can take a **Reaction** to reduce the attack's total damage against you. The reduction equals `1d10 + DEX + your Adept level`.
 
-If you reduce the damage to 0, you can spend `1` <u>Exertion</u> to redirect some of the attack’s force. If you do so, choose a creature within <u>5 feet</u> of you if the attack was a <u>melee attack</u> or <u>60 feet</u> of yourself that isn’t behind Total Cover if the attack was a <u>ranged attack</u>. That creature must make a **DEX Save**. _**Failure:**_ The Creature takes damage equal to `2 x Martial Arts die + DEX`. The damage is the same type dealt by the attack.
+If you reduce the damage to `0`, you can spend `1` [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Rules/5e - Exertion|🤺Exertion]] to redirect some of the attack’s force. If you do so, choose a creature within <u>5 feet</u> of you if the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack]] was a <u>melee</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack]] or <u>60 feet</u> of yourself that isn’t behind [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Environment/5e - Cover/5e - Total Cover|🏔️Total Cover]] if the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack]] was a <u>ranged</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack]]. That creature makes a **DEX Save**. _**Failure:**_ The creature takes damage equal to `2 x Martial Arts die + DEX`. The damage is the same type dealt by the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack]].
 
 ### Level 5: Disciplined Offense
 
@@ -242,7 +242,7 @@ You gain the following benefits:
 
 **<u>Empowered Strikes:</u>** Whenever you deal damage with your **Martial Arts Attack**, it can deal your choice of <u>Force</u> damage or its normal damage type.
 
-**<u>Pressure Point Secrets:</u>** When you use one of your _Adpet_ features or a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Maneuvers|🤺Combat Maneuver]], that requires the target to make a <u>Save</u>, you can spend additional <u>Exertion</u> to impose **DISADV** on the first <u>Save</u> the creature makes against the feature or Maneuver. The additional <u>Exertion</u> spent equals `the amount of Exertion the feature or Maneuver needed to be used + 2`
+**<u>Pressure Point Secrets:</u>** When you use one of your _Adpet_ features or a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Maneuvers|🤺Combat Maneuver]], that requires the target to make a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Save]], you can spend additional [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Rules/5e - Exertion|🤺Exertion]] to impose **DISADV** on the first [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Save]] the creature makes against the feature or Maneuver. The additional [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Rules/5e - Exertion|🤺Exertion]] spent equals `the amount of Exertion the feature or Maneuver needed to be used + 2`
 
 **<u>Total Combat:</u>** When you deal [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Damage/5e - Basic Melee Damage|💔Basic Melee Damage]] from using a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Traditions/5e - Basic Maneuvers/5e - Basic Maneuvers|🤺Basic Maneuver]], you deal additional damage equal to `your Martial Arts die`.
 
@@ -260,7 +260,7 @@ You gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. F
 
 ### Level 9: Evasion
 
-When you are subjected to an effect that allows you to make a <u>DEX Save</u> to take only _half damage_, you take _no damage_ if you _**succeed**_ on the saving throw, and only _half damage_ if you _**fail**_.
+When you are subjected to an effect that allows you to make a <u>DEX Save</u> to take only _half damage_, you take _no damage_ if you _**succeed**_ on the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Save]], and only _half damage_ if you _**fail**_.
 
 ### Level 10: Feats
 
@@ -277,11 +277,11 @@ You gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. F
 ### Level 13: Heightened Discipline
 
 Your training has pushed your body and mind to new levels. You gain the following Benefits:
-**<u>Flurry of Blows:</u>** You can spend `1` <u>Exertion</u> to use **Flurry of Blows** and make <u>three</u> **Martial Arts Attacks** as a **Bonus Action**.
+**<u>Flurry of Blows:</u>** You can spend `1` [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Rules/5e - Exertion|🤺Exertion]] to use **Flurry of Blows** and make <u>three</u> **Martial Arts Attacks** as a **Bonus Action**.
 
-**<u>Long Step:</u>** When you spend exertion to use **Long Step**, you can choose a willing creature within <u>5 feet</u> of you that is _Large or smaller_. You move the creature with you until the end of your turn. The creature’s movement doesn’t provoke [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Reactions/5e - Opportunity Attack|⚔️Opportunity Attacks]].
+**<u>Long Step:</u>** When you spend [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Rules/5e - Exertion|🤺Exertion]] to use **Long Step**, you can choose a willing creature within <u>5 feet</u> of you that is _Large or smaller_. You move the creature with you until <u>the end of your turn</u>. The creature’s movement doesn’t provoke [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Reactions/5e - Opportunity Attack|⚔️Opportunity Attacks]].
 
-**<u>Patient Defense:</u>** When you spend exertion to use **Patient Defense**, you gain a number of <u>Temporary Hit Points</u> equal to `2x your Martial Arts Die`.
+**<u>Patient Defense:</u>** When you spend exertion to use **Patient Defense**, you gain a number of [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Temporary Hit Points|💖Temporary Hit Points]] equal to `2x your Martial Arts Die`.
 
 **<u>Deflect Energy:</u>** You can now use your **Deflect Attacks** feature against attacks that deal any damage type, not just <u>Bludgeoning</u>, <u>Piercing</u>, or <u>Slashing</u>.
 
@@ -301,11 +301,11 @@ You gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. F
 
 You gain the following benefits:
 
-**<u>Master of Saving Throws:</u>** You gain proficiency in _all_ <u>Saves</u>. Additionally, whenever you _**Fail**_ a <u>Save</u>, you can spend `2` <u>Exertion</u> to reroll it and take the second result.
+**<u>Master of Saving Throws:</u>** You gain proficiency in _all_ [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Saves]]. Additionally, whenever you _**Fail**_ a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Save]], you can spend `2` [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Rules/5e - Exertion|🤺Exertion]] to reroll it and take the second result.
 
-**<u>Perfect Focus:</u>** When you roll [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Initiative|🎲Initiative]] and don't use **Uncanny Metabolism**, you regain `10` <u>Exertion</u>.
+**<u>Perfect Focus:</u>** When you roll [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Initiative|🎲Initiative]] and don't use **Uncanny Metabolism**, you regain `10` [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Rules/5e - Exertion|🤺Exertion]].
 
-**<u>Bolster Defense:</u>** At the start of your turn, you can expend `3` <u>Exertion</u> to bolster yourself against harm for <u>1 minute</u> or until you have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]] condition. During that time, you have <u>Resistance</u> to all damage except Force damage.
+**<u>Bolster Defense:</u>** At <u>the start of your turn</u>, you can expend `3` [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Rules/5e - Exertion|🤺Exertion]] to bolster yourself against harm for <u>1 minute</u> or until you have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]] condition. During that time, you have <u>Resistance</u> to all damage except <u>Force</u> damage.
 
 ### Level 18: Feats
 
@@ -317,7 +317,7 @@ You gain the 19th-level Archetype Feature of the Archetype you chose at 3rd leve
 
 ### Level 20: Grandmaster
 
-You have honed your body and mind to new heights. Your <u>DEX</u> and <u>WIS</u> modifiers increase by `2`. Your maximum for those scores is now `+8`.
+You have honed your body and mind to new heights. Your <u>DEX</u> and <u>WIS</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 00. Ability Scores/5e - 00. Ability Scores|⚙️modifiers]] increase by `2`. Your maximum for those [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 00. Ability Scores/5e - 00. Ability Scores|⚙️modifiers]] is now `+8`.
 
 ### Level 20: Feats
 

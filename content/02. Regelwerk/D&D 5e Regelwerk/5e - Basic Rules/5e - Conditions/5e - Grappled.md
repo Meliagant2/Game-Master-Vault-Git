@@ -2,8 +2,8 @@
 publish: true
 title: ☠️5e - Grappled
 created: 2026-07-22T12:33:14.288+02:00
-modified: 2026-08-17T09:56:28.633+02:00
-published: 2026-08-17T09:56:28.633+02:00
+modified: 2026-09-16T08:01:40.272+02:00
+published: 2026-09-16T08:01:40.272+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -21,11 +21,11 @@ You are [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - I
 - You have **DISADV** on <u>DEX Saves</u>.
 - You have **DISADV** on <u>attack rolls</u> against any target other than the grappler.
 
-While you are grappling a creature, you are [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Slowed|☠️Slowed]].
+While _grappling_ a creature, you are [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Slowed|☠️Slowed]].
 
 ###### Ending Grappled
 
-**<u>Contested Check:</u>** You can spend an **Action** to make an <u>Acrobatics</u> or <u>Athletics Check</u> against the Grappler's Maneuver Save DC. _**Success:**_ The Grapple immediately ends.
+**<u>Contested Check:</u>** You can spend an **Action** to make an [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - DEX Skills/5e - Acrobatics|💃Acrobatics]] or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - STR Skills/5e - Athletics|💃Athletics]] [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Ability Check/5e - Ability Check|🎲Check]] contested by the Grappller's [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - STR Skills/5e - Athletics|💃Athletics]] [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Ability Check/5e - Ability Check|🎲Check]]. _**Success:**_ The **Grapple** immediately ends.
 
 **<u>Falling:</u>** The Grappler is unable to carry your weight when you begin falling, provided they aren’t also falling with you.
 

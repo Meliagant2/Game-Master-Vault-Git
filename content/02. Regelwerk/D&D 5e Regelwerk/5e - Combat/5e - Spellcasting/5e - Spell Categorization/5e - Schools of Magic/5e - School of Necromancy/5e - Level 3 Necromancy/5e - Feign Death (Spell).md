@@ -1,9 +1,9 @@
 ---
 publish: true
-title: ☄️5e - Feight Death
+title: ☄️5e - Feign Death
 created: 2026-09-14T15:21:00.764+02:00
-modified: 2026-09-14T15:23:36.504+02:00
-published: 2026-09-14T15:23:36.504+02:00
+modified: 2026-09-16T10:34:37.309+02:00
+published: 2026-09-16T10:34:37.309+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -31,7 +31,7 @@ zauberliste:
 
 Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Necromancy/5e - School of Necromancy|5e - School of Necromancy]].
 
-# ☄️5e - Feight Death☄️
+# ☄️5e - Feign Death☄️
 
 > [!wikibox]
 > |||

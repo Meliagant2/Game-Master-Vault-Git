@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Hypnotic Pattern
 created: 2026-07-28T11:34:06.291+02:00
-modified: 2026-09-14T14:48:42.973+02:00
-published: 2026-09-14T14:48:42.973+02:00
+modified: 2026-09-16T10:37:05.789+02:00
+published: 2026-09-16T10:37:05.789+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -47,7 +47,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Spell List:**|Arcane,Occult |
 > |**Effect:**|Charmed,Incapacitated |
 
-You create a twisting pattern of colors in a <u>15-foot radius Sphere</u> within range. The pattern appears for a moment and vanishes. Each creature in the area who can see the pattern makes a **WIS Save**. _**Failure:**_ The creature has the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]] and [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]] conditions for the duration.
+You create a twisting pattern of colors in a <u>15-foot radius Sphere</u> within range. The pattern appears for a moment and vanishes. Each creature in the area who can see the pattern makes a **WIS Save**. _**Failure:**_ The creature has the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]] condition for the duration. While [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]], the creature has the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]] condition and a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Speed/5e - Speed|🏃‍♀️Speed]] of `0`.
 
 The spell ends for an affected creature if it takes any damage or if someone else uses an **Action** to shake the creature out of its stupor.
 

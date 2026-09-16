@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Prone Defense
 created: 2026-08-17T13:30:06.087+02:00
-modified: 2026-08-17T13:31:57.448+02:00
-published: 2026-08-17T13:31:57.448+02:00
+modified: 2026-09-16T09:53:50.629+02:00
+published: 2026-09-16T09:53:50.629+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -12,10 +12,12 @@ dateitags:
   - "#5e"
 status: ✅
 category: Class
-level: 2
+level: 4
 prerequisite: Fighter
 source: "Grim Hollow: Player's Guide (2024)"
 ---
+
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats|5e - Class Feats]].
 
 # 🥇5e - Prone Defense🥇
 
@@ -23,13 +25,13 @@ source: "Grim Hollow: Player's Guide (2024)"
 > | | |
 > |---|---|
 > |**Category**|Class |
-> |**Level Requirement**|2 |
+> |**Level Requirement**|4 |
 > |**Prerequisite**|Fighter |
 > |**Repeatable**| |
 
 You gain the following benefits:
 
-**<u>Defensive:</u>** When you have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]] condition, you don't have **DISADV** on <u>attack rolls</u>. <u>Attack rolls</u> against you don't have **ADV** because of the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]] condition.
+**<u>Defensive:</u>** When you have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]] condition, you don't have **DISADV** on [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack Rolls]]. [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack Rolls]] against you don't have **ADV** because of the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]] condition.
 
 **<u>Hop Up:</u>** When you have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]] condition, you can stand up with only <u>5 feet</u> of movement.
 

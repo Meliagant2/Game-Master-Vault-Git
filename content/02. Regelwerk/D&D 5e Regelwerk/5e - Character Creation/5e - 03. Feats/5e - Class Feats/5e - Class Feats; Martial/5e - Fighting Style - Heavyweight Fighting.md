@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Fighting Style - Heavyweight Fighting
 created: 2026-08-27T10:38:48.097+02:00
-modified: 2026-08-27T10:42:25.146+02:00
-published: 2026-08-27T10:42:25.146+02:00
+modified: 2026-09-16T07:22:15.846+02:00
+published: 2026-09-16T07:22:15.846+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -16,6 +16,8 @@ level: 1
 prerequisite: Martial Class
 source: Self
 ---
+
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats|5e - Class Feats]].
 
 # 🥇5e - Fighting Style - Heavyweight Fighting🥇
 

@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Fighting Style - Mounted
 created: 2026-08-07T10:59:19.686+02:00
-modified: 2026-08-27T11:06:57.415+02:00
-published: 2026-08-27T11:06:57.415+02:00
+modified: 2026-09-16T07:22:37.542+02:00
+published: 2026-09-16T07:22:37.542+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -15,6 +15,8 @@ category: Class
 level: 1
 prerequisite: Martial Class
 ---
+
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats|5e - Class Feats]].
 
 # 🥇5e - Fighting Style - Mounted🥇
 

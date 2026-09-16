@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Fighter
 description: A master of martial techniques with expertise in a wide variety of weapons and combat maneuvers.
 created: 2026-07-31T11:11:41.436+02:00
-modified: 2026-09-15T15:21:17.426+02:00
-published: 2026-09-15T15:21:17.426+02:00
+modified: 2026-09-16T11:41:54.431+02:00
+published: 2026-09-16T11:41:54.431+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -59,7 +59,7 @@ Some fighters feel drawn to use their training as adventurers. The dungeon delvi
 > [!charakterklasse]+ Starting Proficiencies
 > |                                |                                                                                                                            |
 > | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
-> | **Armor Training**             | All Armor, All Shields                                                                                                     |
+> | **Armor Training**             | Light Armor, Medium Armor, Heavy Armor, Light Shields, Medium Shields, Heavy Shields|
 > | **Weapon Proficiencies**       | Simple, Martial                                                                                                            |
 > | **Saving Throw Proficiencies** | <u>Choose one proficiency of each A and B:</u> **(A)** Dexterity OR Constitution, **(B)** Strength OR Intelligence         |
 > | **Skill Proficiencies**        | <u>Choose 2:</u> Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, Stealth, and Survival |
@@ -68,7 +68,7 @@ Some fighters feel drawn to use their training as adventurers. The dungeon delvi
 
 ### Martial Class
 
-**<u>Maneuver Ability:</u>** Strength or Dexterity
+**<u>Maneuver Ability:</u>** Strength or Dexterity (Whichever is higher)
 **<u>Maneuver Attack:</u>** `STR/DEX + Proficiency Bonus`
 **<u>Maneuver Save DC:</u>** `8 + STR/DEX + Proficiency Bonus`
 **<u>Combat Traditions:</u>** You gain proficiency in two of the following Combat Traditions: [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Traditions/5e - Tradition of Attentiveness/5e - Tradition of Attentiveness|🤺Attentiveness]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Traditions/5e - Tradition of Comradery/5e - Tradition of Comradery|🤺Comradery]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Traditions/5e - Tradition of Cunning/5e - Tradition of Cunning|🤺Cunning]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Traditions/5e - Tradition of Might/5e - Tradition of Might|🤺Might]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Traditions/5e - Tradition of Prowess/5e - Tradition of Prowess|🤺Prowess]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Traditions/5e - Tradition of Swiftness/5e - Tradition of Swiftness|🤺Swiftness]]
@@ -169,21 +169,23 @@ views:
 
 ### Level 1: Know your Enemy (Flavor)
 
-After observing a Creature for <u>1 Minute</u> or as a **Bonus Action**, you can discern certain strengths and weaknesses of a creature you can see within <u>30 feet</u> of yourself. Make a **DC15 Insight Check**. _**Success:**_ You learn if one of the following stats of the Creature is higher, lower, or the same as yours: <u>STR</u>, <u>DEX</u>, <u>CON</u>, <u>INT</u>, <u>WIS</u>, <u>CHA</u>, <u>AC</u>, <u>HP</u>. Alternatively you can learn if the Creature has any <u>Immunities</u>, <u>Resistances</u>, or <u>Vulnerabilities</u>, and if the Creature has any, you know what they are.
+After observing a creature for <u>1 Minute</u> or as a **Bonus Action**, you can discern certain strengths and weaknesses of a creature you can see within <u>30 feet</u> of yourself. Make a **DC15** [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - WIS Skills/5e - Insight|💃Insight]] [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Ability Check/5e - Ability Check|🎲Check]]. _**Success:**_ You learn if one of the following stats of the creature is higher, lower, or the same as yours: <u>STR</u>, <u>DEX</u>, <u>CON</u>, <u>INT</u>, <u>WIS</u>, <u>CHA</u>, <u>AC</u>, <u>HP</u>. Alternatively you can learn if the creature has any <u>Immunities</u>, <u>Resistances</u>, or <u>Vulnerabilities</u>, and if the creature has any, you know what they are.
+
+_**<u>Number of Uses:</u>**_ <u>Once</u> you've used this benefit, you can't use it again until you finish a **Short** or **Long Rest**.
 
 ### Level 1: Precise Strike
 
-<u>Once per turn</u>, when you make a <u>weapon attack</u> roll against a creature, you can cause the attack roll to have **ADV**.
+<u>Once per turn</u>, when you make a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Weapon Attack|🎲Weapon Attack]] against a creature, you can cause the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack Roll]] to have **ADV**.
 
-**<u>Number of Uses:</u>** You can use this feature a number of times equal to <u>your proficiency bonus</u>, but a use is expended only if the attack _hits_. You regain all expended uses when you finish a **Long Rest**.
+_**<u>Number of Uses:</u>**_ You can use this feature a number of times equal to <u>your CON</u>, and you regain all expended uses when you finish a **Short** or **Long Rest**.
 
 ### Level 1: Second Wind
 
 You have a limited well of physical and mental stamina that you can draw on.
 
-**<u>Healing Surge:</u>** As a **Bonus Action**, you can expend a use of your **Second Wind** to regain Hit Points equal to `1d10 + your Fighter level`.
+**<u>Healing Surge:</u>** As a **Bonus Action**, you can expend a use of your **Second Wind** to regain [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|💖Hit Points]] equal to `1d10 + your Fighter level`.
 
-**<u>Number of Uses:</u>** You can use this feature a number of times as stated in the Fighter Class Table. You regain <u>one</u> expended use when you finish a **Short Rest**, and you regain <u>all</u> expended uses when you finish a **Long Rest**.
+_**<u>Number of Uses:</u>**_ You can use this feature a number of times as stated in the <u>Fighter Class Table</u>. You regain `1` expended use when you finish a **Short Rest**, and you regain `all` expended uses when you finish a **Long Rest**.
 
 ### Level 2: Feats
 
@@ -213,16 +215,16 @@ You gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. F
 As you experience combat and perfect your techniques they get easier for you to perform and more difficult for your foes to overcome. You master `2` of your known **Maneuvers**. You cannot master the same maneuver more than once in this way. Mastering a Maneuver grants you the following benefits:
 
 - The <u>Exertion Point cost</u> of mastered maneuvers is reduced by `1` (`minimum 1`).
-- Your **Maneuver Save DC** for mastered maneuvers increases by `1`.
-- Any attack you make as part of a mastered maneuver deals `2` additional damage.
+- Your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Rules/5e - Maneuver Save DC|🤺Maneuver Save DC]] for mastered maneuvers increases by `1`.
+- Any [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack]] you make as part of a mastered maneuver deals `2` additional damage on a _hit_.
 
 ### Level 5: Tactical Master
 
 You gain the following benefits:
 
-**<u>Combat Maneuver Tradition:</u>** You gain proficiency in one additional **Combat Tradition** of your choice, that is available to Fighters at 1st level.
+**<u>Combat Maneuver Tradition:</u>** You gain proficiency in one additional **Combat Tradition** of your choice, that is available to _Fighters_ at 1st level.
 
-**<u>Flexible Mastery:</u>** When you attack with a weapon, you can replace that weapon's [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Mastery Properties/5e - Weapon Mastery Properties|🗡️Mastery Property]] with the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Mastery Properties/5e - Push Mastery Property|🗡️Push]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Mastery Properties/5e - Sap Mastery Property|🗡️Sap]], or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Mastery Properties/5e - Slow Mastery Property|🗡️Slow]] mastery property for that attack.
+**<u>Flexible Mastery:</u>** When you [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack]] with a weapon, you can replace that weapon's [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Mastery Properties/5e - Weapon Mastery Properties|🗡️Mastery Property]] with the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Mastery Properties/5e - Push Mastery Property|🗡️Push]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Mastery Properties/5e - Sap Mastery Property|🗡️Sap]], or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Mastery Properties/5e - Slow Mastery Property|🗡️Slow]] mastery property for that [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack]].
 
 ### Level 6: Feats
 
@@ -242,9 +244,9 @@ You gain the following benefits:
 
 **<u>Maneuver Specialization:</u>** You master another maneuver (see **Level 5: Maneuver Specialization**).
 
-**<u>Indomitable:</u>**  If you fail a <u>Save</u>, you can reroll it with a bonus equal to `your Fighter level`, and you must use the new roll.
+**<u>Indomitable:</u>**  If you fail a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Save]], you can reroll it with a bonus equal to `your Fighter level`, and you must use the new roll.
 
-**<u>Number of Uses:</u>** You can use this feature a number of times equal to `your Fighter level / 6 (rounded down)` and you you regain <u>all</u> expended uses when you finish a **Long Rest**. When you have no uses left, you can spend `2` <u>Exertion</u> to use it again.
+_**<u>Number of Uses:</u>**_ <u>Once</u> you've used this benefit, you can't use it again until you finish a **Long Rest**. When you have no uses left, you can spend `2` [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Rules/5e - Exertion|🤺Exertion]] to use it again.
 
 ### Level 10: Feats
 
@@ -262,9 +264,11 @@ You gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. F
 
 You gain the following benefits:
 
+**<u>Indomitable (2):</u>** You can use your **Fighting Expert's** **Indomitable** trait <u>twice</u> between **Long Rests**.
+
 **<u>Maneuver Specialization:</u>** You master another maneuver (see **Level 5: Maneuver Specialization**).
 
-**<u>Studied Attacks:</u>** You masterfully study your opponents and learn from each attack you make. If you make an <u>Attack roll</u> against a creature and miss, you have **ADV** on your next attack roll against that creature before the <u>end of your next turn</u>.
+**<u>Studied Attacks:</u>** You masterfully study your opponents and learn from each attack you make. If you make an [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack Roll]] against a creature and _miss_, you have **ADV** on your next [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack Roll]] against that creature before <u>the end of your next turn</u>.
 
 ### Level 14: Feats
 
@@ -282,13 +286,15 @@ You gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. F
 
 You gain the following benefits:
 
-**<u>Immovable:</u>** When you roll [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Initiative|🎲Initiative]], you regain `2d6` <u>Exertion</u> and `2` uses of **Second Wind**.
+**<u>Immovable:</u>** When you roll [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Initiative|🎲Initiative]], you regain `2d6` [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Rules/5e - Exertion|🤺Exertion]] and `2` uses of **Second Wind**.
+
+**<u>Indomitable (3):</u>** You can use your **Fighting Expert's** **Indomitable** trait <u>thrice</u> between **Long Rests**.
 
 **<u>Maneuver Specialization:</u>** You master another maneuver (see **Level 5: Maneuver Specialization**).
 
-**<u>No Surrender:</u>** When you take damage that reduces you to _0 hit points_ but doesn’t kill you, you don’t fall [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Unconscious|☠️Unconscious]] and can continue acting normally. You still make [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Death Save|🎲Death Saves]] at the start of your turn, suffer <u>Death Saves</u> whenever you take damage, and die after three failed <u>Death Saves</u>. If you are stabilized during this time, you remain conscious, but fall [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Unconscious|☠️Unconscious]] after <u>1 minute</u> if you do not regain at least `1 hit point`.
+**<u>No Surrender:</u>** When you take damage that reduces you to `0` [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|💖Hit Points]] but doesn’t kill you, you don’t fall [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Unconscious|☠️Unconscious]] and can continue acting normally. You still make [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Death Save|🎲Death Saves]] at <u>the start of your turn</u>, suffer [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Death Save|🎲Death Save failures]] whenever you take damage, and die after three _failed_ [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Death Save|🎲Death Saves]]. If you are [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Stable|☠️Stabilized]] during this time, you remain conscious, but fall [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Unconscious|☠️Unconscious]] after <u>1 minute</u> if you do not regain at least `1` [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|💖Hit Point]].
 
-**<u>Saving Throw Proficiency:</u>** You gain <u>Saving Throw Proficiency</u> with in both <u>Ability Scores</u> that you didn't pick at 1st level. If you are already proficient in one of those <u>Saves</u>, you gain <u>Saving Throw Proficiency</u> with another <u>Ability Score</u> of your choice.
+**<u>Saving Throw Proficiency:</u>** You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Save]] [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Proficiency|🎲Proficiency]] in both [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 00. Ability Scores/5e - 00. Ability Scores|⚙️Abilities]] that you didn't pick at 1st level. If you are already [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Proficiency|🎲Proficient]] in one of those [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Saves]], you gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Save]] [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Proficiency|🎲Proficiency]] with another [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 00. Ability Scores/5e - 00. Ability Scores|⚙️Abilitiy]] of your choice.
 
 ### Level 18: Feats
 
@@ -302,11 +308,11 @@ You gain the 19th-level Archetype Feature of the Archetype you chose at 3rd leve
 
 You have become an undisputed master of battle. You gain the following benefits:
 
-**<u>Master of Combat:</u>** You **master** <u>every</u> **Maneuver** you know and any future maneuvers you learn as per **Maneuver Specialization**. Additionally, choose one maneuver of <u>3rd degree</u> or less that you know. You are able to use the chosen maneuver without expending any <u>Exertion Points</u>.
+**<u>Master of Combat:</u>** You **master** <u>every</u> **Maneuver** you know and any future maneuvers you learn as per **Maneuver Specialization**. Additionally, choose one maneuver of <u>3rd degree</u> or less that you know. You are able to use the chosen maneuver without expending any [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Rules/5e - Exertion|🤺Exertion]].
 
 **<u>Stronger Maneuvers:</u>** Your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Rules/5e - Maneuver Save DC|🤺Maneuver Save DC]] increases by `2` and every time you deal damage using a Maneuver, that damage is increased by `3`.
 
-**<u>Truly Indomitable:</u>** When you use your **Indomitable** feature, you can choose to succeed on the <u>Save</u>, instead of rolling it again.
+**<u>Truly Indomitable:</u>** When you use your **Indomitable** feature, you can choose to _succeed_ on the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Save]], instead of rolling it again.
 
 ### Level 20: Feats
 

@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Tactical Mind
 created: 2026-09-15T15:19:12.879+02:00
-modified: 2026-09-15T15:20:41.463+02:00
-published: 2026-09-15T15:20:41.463+02:00
+modified: 2026-09-16T09:58:44.545+02:00
+published: 2026-09-16T09:58:44.545+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -33,7 +33,7 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Fea
 
 You gain the following benefits:
 
-When you _**fail**_ an [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Ability Check/5e - Ability Check|🎲Ability Check]], you can expend a use of your **Second Wind** to push yourself toward success. Rather than regaining [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|💖Hit Points]], you roll `1d10` and add the number rolled to the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Ability Check/5e - Ability Check|🎲Ability Check]], potentially turning it into a success. If the check still fails, this use of **Second Wind** isn't expended.
+When you _**fail**_ an [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Ability Check/5e - Ability Check|🎲Ability Check]], you can expend a use of your **Second Wind** to push yourself toward success. Rather than regaining [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|💖Hit Points]], you roll `1d10` and add the number rolled to the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Ability Check/5e - Ability Check|🎲Ability Check]], potentially turning it into a _success_. If the **check** still _fails_, this use of **Second Wind** isn't expended.
 
 ## Quelle
 

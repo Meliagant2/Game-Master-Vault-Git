@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Ritual Casting
 created: 2026-08-11T12:15:07.759+02:00
-modified: 2026-09-14T10:49:51.435+02:00
-published: 2026-09-14T10:49:51.435+02:00
+modified: 2026-09-16T15:08:19.575+02:00
+published: 2026-09-16T15:08:19.575+02:00
 tags:
   - "#Combatrules"
   - "#5e"
@@ -51,7 +51,7 @@ views:
     columnSize:
       file.name: 200
       note.level: 49
-      note.time: 25
+      note.time: 75
       note.c: 24
   - type: table
     name: 5e - Rituals; 1st-level
@@ -136,7 +136,7 @@ views:
       file.name: 200
       note.level: 49
       note.time: 25
-      note.c: 24 
+      note.c: 24
   - type: table
     name: 5e - Rituals; 4th-level
     filters:
@@ -164,7 +164,7 @@ views:
       file.name: 200
       note.level: 49
       note.time: 25
-      note.c: 24  
+      note.c: 24
   - type: table
     name: 5e - Rituals; 5th-level
     filters:
@@ -192,7 +192,7 @@ views:
       file.name: 200
       note.level: 49
       note.time: 25
-      note.c: 24  
+      note.c: 24
   - type: table
     name: 5e - Rituals; 6th-level
     filters:
@@ -220,7 +220,7 @@ views:
       file.name: 200
       note.level: 49
       note.time: 25
-      note.c: 24 
+      note.c: 24
   - type: table
     name: 5e - Rituals; 7th-level
     filters:
@@ -248,7 +248,7 @@ views:
       file.name: 200
       note.level: 49
       note.time: 25
-      note.c: 24   
+      note.c: 24
   - type: table
     name: 5e - Rituals; 8th-level
     filters:
@@ -276,7 +276,7 @@ views:
       file.name: 200
       note.level: 49
       note.time: 25
-      note.c: 24  
+      note.c: 24
   - type: table
     name: 5e - Rituals; 9th-level
     filters:

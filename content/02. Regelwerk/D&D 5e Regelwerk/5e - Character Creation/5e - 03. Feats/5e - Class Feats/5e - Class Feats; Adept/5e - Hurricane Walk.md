@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Hurricane Walk
 created: 2026-08-10T15:47:09.434+02:00
-modified: 2026-09-14T16:10:00.818+02:00
-published: 2026-09-14T16:10:00.818+02:00
+modified: 2026-09-16T08:17:19.997+02:00
+published: 2026-09-16T08:17:19.997+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -15,6 +15,8 @@ category: Class
 level: 6
 prerequisite: Adept, Gale Walk
 ---
+
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats|5e - Class Feats]].
 
 # 🥇5e - Hurricane Walk🥇
 
@@ -28,11 +30,9 @@ prerequisite: Adept, Gale Walk
 
 You gain the following benefits:
 
-**<u>Floating Step:</u>** You can use a **Bonus Action** and spend `2` <u>Exertion</u> to cast [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Transmutation/5e - Level 3 Transmutation/5e - Fly (Spell)|☄️Fly]] on yourself, without needing to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Concentration/5e - Concentration|🎲concentrate]] on it. The effect lasts for <u>3 turns</u>.
+**<u>Floating Step:</u>** You can use a **Bonus Action** and spend `2` [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Rules/5e - Exertion|🤺Exertion]] to cast [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Transmutation/5e - Level 2 Transmutation/5e - Swift Flight (Spell)|☄️Swift Flight]] on yourself without any [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Components/5e - Spell Components|☄️Spell Components]]. The effect lasts for <u>3 turns</u>.
 
 The casting of this feat's spell does **not** count as a magical effect. It is considered to be a _Maneuver_ effect instead.
-
-**<u>Silent as the air:</u>** You have **ADV** on <u>Stealth</u> checks.
 
 ## Quelle
 

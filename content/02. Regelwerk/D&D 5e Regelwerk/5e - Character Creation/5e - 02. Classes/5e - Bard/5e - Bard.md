@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Bard
 description: A charismatic performer who uses their music as a conduit to wield powerful magic.
 created: 2026-07-31T10:15:39.250+02:00
-modified: 2026-09-15T15:14:38.935+02:00
-published: 2026-09-15T15:14:38.935+02:00
+modified: 2026-09-16T11:43:00.886+02:00
+published: 2026-09-16T11:43:00.886+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -551,33 +551,33 @@ views:
 
 ### Level 1: Jack of all Trades (Flavor)
 
-You can add `half` your <u>proficiency bonus</u> (**rounded down**) to any ability check you make that doesn’t already include your proficiency bonus.
+You can add `half` your `PB` (**rounded down**) to any [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Ability Check/5e - Ability Check|🎲Ability Check]] you make that doesn’t already include your PB.
 
 ### Level 1: Bardic Inspiration
 
 You can supernaturally inspire others through words, music, or dance. This inspiration is epresented by your **Bardic Inspiration die**, which is a <u>d6</u>.
 
-**<u>Using Bardic Inspiration:</u>** As a **Bonus Action**, you can inspire another creature within <u>60 feet</u> of yourself who can <u>see</u> or <u>hear</u> you. That creature gains one of your **Bardic Inspiration dice**. A creature can have only one **Bardic Inspiration die** at a time.
-Once within the <u>next hour</u> when the creature fails a <u>d20 Test</u>, the creature can roll that die and add the number rolled to the <u>d20</u>, potentially turning the failure into a success. A **Bardic Inspiration die** is expended when it’s rolled.
+**<u>Using Bardic Inspiration:</u>** As a **Bonus Action**, you can inspire another creature within <u>60 feet</u> of yourself who can _see_ or _hear_ you. That creature gains one of your **Bardic Inspiration dice**. A creature can have only one **Bardic Inspiration die** at a time.
+Once within the <u>next hour</u> when the creature _fails_ a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - D20 Tests|🎲D20 Test]], the creature can roll that die and add the number rolled to the <u>d20</u>, potentially turning the _failure_ into a _success_. A **Bardic Inspiration die** is expended when it’s rolled.
 
-**<u>Number of Uses:</u>** You can confer a Bardic Inspiration die a number of times equal to your <u>CHA modifier</u> (minimum of `1`), and you regain all expended uses when you finish a **Long Rest**.
+_**<u>Number of Uses:</u>**_ You can confer a **Bardic Inspiration die** a number of times equal to your `CHA modifier (minimum of 1)`, and you regain all expended uses when you finish a **Long Rest**.
 
-**<u>At Higher Levels:</u>** Your Bardic Inspiration die changes when you reach certain Bard levels, as shown in the <u>Bardic Die column</u> of the Bard table.
+**<u>At Higher Levels:</u>** Your **Bardic Inspiration die** changes when you reach certain _Bard levels_, as shown in the <u>Bardic Die column</u> of the Bard table.
 
 ### Level 1: Bardic Performance
 
-As a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Magic Action|⚔️Magic Action]] you can start a magical performance for <u>1 Minute</u>. The magical effects of that Performance extend in a <u>30 feet Emanation</u> from you. When you use this feature, choose one of the performances below. While creatures of your choice are within that Emanation, they benefit from the performance. A creature can only benefit from one instance of each performance at a time.
+As a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Magic Action|⚔️Magic]] action you can start a magical **Performance** for <u>1 Minute</u>. The magical effects of that **Performance** extend in a <u>30-foot Emanation</u> from you. When you use this feature, choose one of the performances below. While creatures of your choice are within that Emanation, they benefit from the performance. A creature can only benefit from one instance of each performance at a time.
 
-- **<u>Battle Ballad:</u>** The creatures add `1d4` to the first <u>Attack roll</u> they make each turn.
-- **<u>Clarity:</u>** The creatures gain `1d6` <u>Temporary Hit Points</u> at the start of their turns.
-- **<u>Emotional:</u>** Choose one of the following conditions: [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Frightened|☠️Frightened]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Intimidated|☠️Intimidated]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Rattled|☠️Rattled]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Taunted|☠️Taunted]], or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Terrified|☠️Terrified]]. The creatures have **ADV** on <u>Saves</u> against the chosen condition.
-- **<u>Fast Tempo:</u>** The creatures' Speed is increased by <u>10 feet</u>.
+- **<u>Battle Ballad:</u>** The creatures add `1d4` to the first [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack Roll]] they make <u>each turn</u>.
+- **<u>Clarity:</u>** The creatures gain `1d6` [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Temporary Hit Points|💖Temporary Hit Points]] at <u>the start of each of their turns</u>.
+- **<u>Emotional:</u>** Choose one of the following conditions: [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Frightened|☠️Frightened]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Rattled|☠️Rattled]], or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Taunted|☠️Taunted]]. The creatures have **ADV** on [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Saves]] against the chosen condition.
+- **<u>Fast Tempo:</u>** The creatures' [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Speed/5e - Speed|🏃‍♀️Speed]] is increased by <u>10 feet</u>.
 
-**<u>Changing Performances:</u>** You can spend an **Action** to change your performance to a different one.
+**<u>Changing Performances:</u>** You can use a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Magic Action|⚔️Magic]] action to change your performance to a different one.
 
-**<u>Ending Early</u>** The performance ends early if you become [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]], you die, or choose to end it (**no action** required).
+**<u>Ending Early</u>** The performance ends early if you become [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]], you die, or choose to end it (**no Action** required).
 
-**<u>Number of Uses:</u>** You can use this feature <u>once</u> and must finish a **Short** or **Long Rest** to use it again. Alternatively you can spend a Spell Slot of any level to use it again as a **Magic Action**.
+_**<u>Number of Uses:</u>**_ <u>Once</u> you've used this benefit, you can't use it again until you finish a **Short** or **Long Rest**. Alternatively you can spend a Spell Slot of any level to use it again as a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Magic Action|⚔️Magic]] action.
 
 ### Level 2: Feats
 
@@ -604,13 +604,13 @@ You gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. F
 
 ### Level 5: Countercharm
 
-You can use musical notes or words of power to disrupt mind-influencing effects. If you or a creature within <u>30 feet</u> of you fails a <u>Save</u> against an effect that applies the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Frightened|☠️Frightened]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Intimidated|☠️Intimidated]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Rattled|☠️Rattled]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Taunted|☠️Taunted]], or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Terrified|☠️Terrified]] condition, you can take a **Reaction** to cause the save to be rerolled, and the new roll has **ADV**.
+You can use musical notes or words of power to disrupt mind-influencing effects. If you or a creature within <u>30 feet</u> of you _fails_ a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Save]] against an effect that applies the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Frightened|☠️Frightened]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Intimidated|☠️Intimidated]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Rattled|☠️Rattled]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Taunted|☠️Taunted]], or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Terrified|☠️Terrified]] condition, you can take a **Reaction** to cause the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Save]] to be rerolled, and the new roll has **ADV**.
 
 ### Level 5: Font of Inspiration
 
 You now regain all your expended uses of **Bardic Inspiration** when you finish a **Short** or **Long Rest**.
 
-In addition, you can expend a spell slot (**no action** required) to regain a number expended uses of Bardic Inspiration equal to `the Spell Slot's level`.
+In addition, you can expend a spell slot (**no Action** required) to regain a number expended uses of **Bardic Inspiration** equal to `the Spell Slot's level`.
 
 ### Level 6: Feats
 
@@ -626,7 +626,7 @@ You gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. F
 
 ### Level 9: Magical Secrets
 
-You've learned secrets from various magical traditions. Whenever you reach a Bard level (including this level) and the Prepared Spells number in the Spellcaster table increases, you can choose any of your new prepared spells from the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Lists/5e - Spell List Bard/5e - Spell List Bard|☄️Bard]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Sources/5e - Arcane Spell Source/5e - Arcane Spell Source|☄️Arcane]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Sources/5e - Divine Spell Source/5e - Divine Spell Source|☄️Divine]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Sources/5e - Occult Spell Source/5e - Occult Spell Source|☄️Occult]], and [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Sources/5e - Primal Spell Source/5e - Primal Spell Source|☄️Primal]] spell lists. In addition, whenever you replace a spell prepared for this class, you can replace it with a spell from those lists.
+You've learned secrets from various magical traditions. Whenever you reach a _Bard level_ (including this level) and the <u>Prepared Spells</u> number in the <u>Spellcaster table</u> increases, you can choose any of your new prepared spells from any [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Sources/5e - Spell Sources|☄️Spell Source]]. In addition, whenever you replace a spell prepared for this class, you can replace it with a spell from those spell sources.
 
 ### Level 10: Feats
 
@@ -660,15 +660,15 @@ You gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. F
 
 ### Level 17: Virtuoso
 
-Your capacity for drawing a crowd reaches dizzying new heights. As an **Action**, you can expend a use of **Bardic Inspiration** to start an epic performance that lasts for <u>1d4</u> rounds. During that time, you can choose up to <u>50 creatures</u> that are within <u>120 feet</u> of you. Each creature able to hear or see your Epic Performance makes a **CHA Save** against your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Effects/5e - Spell Save|☄️Spell Save DC]]. _**Failure:**_ The Creature is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]] by you for the duration plus <u>6 days</u>, or until you or your companions do anything harmful to it. A charmed creature regards you as a friendly acquaintance.
+Your capacity for drawing a crowd reaches dizzying new heights. As a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Magic Action|⚔️Magic]] action, you can expend a use of **Bardic Inspiration** to start an epic performance that lasts for <u>1d4</u> rounds. During that time, you can choose up to <u>50 creatures</u> that are within <u>120 feet</u> of you. Each creature able to hear or see your _Epic Performance_ makes a **CHA Save** against your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Effects/5e - Spell Save|☄️Spell Save DC]]. _**Failure:**_ The creature is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]] by you for the duration plus <u>6 days</u>, or until you or your companions do anything harmful to it. A [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]] creature regards you as a friendly acquaintance.
 
-The performance ends early if you are incapacitated or silenced, or if you voluntarily end it (**no action** required). At the end of the duration, you can expend an additional use of **Bardic Inspiration** to extend the duration by <u>1d4</u> rounds.
+The performance ends early if you are [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]] or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Silenced|☠️Silenced]], or if you voluntarily end it (**no Action** required). At the end of the duration, you can expend an additional use of **Bardic Inspiration** to extend the duration by <u>1d4</u> rounds.
 
-When your Epic Performance lasts at least <u>1 minute</u>, at the end of the duration you can target each **charmed** creature as if using the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Enchantment/5e - Level 6 Enchantment/5e - Mass Suggestion|☄️Mass Suggestion]] spell cast at <u>9th-level</u>. Creatures do not make saving throws to resist this effect. The commands you give a charmed creature are not obvious, and other creatures must make a <u>Wisdom (Insight) check</u> opposed by your <u>Charisma (Performance) check</u> to understand that you are doing anything more than giving a performance.
+When your _Epic Performance_ lasts at least <u>1 minute</u>, at the end of the duration you can target each [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]] creature as if using the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Enchantment/5e - Level 6 Enchantment/5e - Mass Suggestion|☄️Mass Suggestion]] spell cast at <u>9th-level</u>. Creatures do not make [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Saves]] to resist this effect. The commands you give a charmed creature are not obvious, and other creatures must make an [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - WIS Skills/5e - Insight|💃Insight]] [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Ability Check/5e - Ability Check|🎲Check]] opposed by your [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - CHA Skills/5e - Performance|💃Performance]] [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Ability Check/5e - Ability Check|🎲Check]] to understand that you are doing anything more than giving a performance.
 
-You can give each creature its own set of commands, but can only give out 6 different sets of commands.
+You can give each creature its own set of commands, but can only give out `6` different sets of commands.
 
-**<u>Number of Uses:</u>** You can use this feature <u>once</u> and must finish a **Long Rest** to use it again.
+_**<u>Number of Uses:</u>**_ <u>Once</u> you've used this benefit, you can't use it again until you finish a **Long Rest**.
 
 ### Level 18: Feats
 

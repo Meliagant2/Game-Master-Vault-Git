@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Dual Stance
 created: 2026-08-11T10:15:26.727+02:00
-modified: 2026-08-12T07:44:30.232+02:00
-published: 2026-08-12T07:44:30.232+02:00
+modified: 2026-09-16T07:23:35.437+02:00
+published: 2026-09-16T07:23:35.437+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -15,6 +15,8 @@ category: Class
 level: 8
 prerequisite: Adept, 2+ Stance Combat Maneuvers
 ---
+
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats|5e - Class Feats]].
 
 # 🥇5e - Dual Stance🥇
 

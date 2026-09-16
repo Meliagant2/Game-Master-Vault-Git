@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Martial Path
 created: 2026-08-06T13:05:44.637+02:00
-modified: 2026-09-01T09:11:40.928+02:00
-published: 2026-09-01T09:11:40.928+02:00
+modified: 2026-09-16T10:00:36.718+02:00
+published: 2026-09-16T10:00:36.718+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -35,7 +35,7 @@ You gain the following benefits. This allows you to pick [[02. Regelwerk/D&D 5e 
 
 ### Martial Class
 
-**<u>Maneuver Ability:</u>** Strength or Dexterity
+**<u>Maneuver Ability:</u>** Strength or Dexterity (Whichever is higher)
 **<u>Maneuver Attack:</u>** `STR/DEX + Proficiency Bonus`
 **<u>Maneuver Save DC:</u>** `8 + STR/DEX + Proficiency Bonus`
 **<u>Combat Traditions:</u>** You gain proficiency in two of the following Combat Traditions: [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Traditions/5e - Tradition of Attentiveness/5e - Tradition of Attentiveness|🤺Attentiveness]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Traditions/5e - Tradition of Comradery/5e - Tradition of Comradery|🤺Comradery]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Traditions/5e - Tradition of Cunning/5e - Tradition of Cunning|🤺Cunning]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Traditions/5e - Tradition of Might/5e - Tradition of Might|🤺Might]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Traditions/5e - Tradition of Prowess/5e - Tradition of Prowess|🤺Prowess]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Traditions/5e - Tradition of Swiftness/5e - Tradition of Swiftness|🤺Swiftness]].

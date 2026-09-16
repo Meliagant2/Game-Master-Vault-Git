@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Adept Speed
 created: 2026-08-10T15:43:37.020+02:00
-modified: 2026-08-21T08:42:34.232+02:00
-published: 2026-08-21T08:42:34.232+02:00
+modified: 2026-09-16T07:30:06.594+02:00
+published: 2026-09-16T07:30:06.594+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -17,6 +17,8 @@ prerequisite: Adept
 repeatable: x
 ---
 
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats|5e - Class Feats]].
+
 # 🥇5e - Adept Speed🥇
 
 > [!wikibox]
@@ -27,7 +29,7 @@ repeatable: x
 > |**Prerequisite**|Adept |
 > |**Repeatable**|x |
 
-Your Speed increases by <u>10 feet</u> while you are not wearing _heavy armor_ or wielding a _shield_.
+Your [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Speed/5e - Speed|🏃‍♀️Speed]] increases by <u>10 feet</u> while you are not wearing [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Armor/5e - Heavy Armor/5e - Heavy Armor|⛑️Heavy Armor]] or wielding a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Shields/5e - Shields|🛡️Shield]].
 
 > [!info] Feat "Upgrades"
 > Taking this Feat allows you, to take one of the following Feats later: [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats; Adept/5e - Gale Walk|🥇Gale Walk]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats; Adept/5e - Wall Walk|🥇Wall Walk]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats; Adept/5e - Water Walk|🥇Water Walk]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats; Adept/5e - Instant Step|🥇Instant Step]].

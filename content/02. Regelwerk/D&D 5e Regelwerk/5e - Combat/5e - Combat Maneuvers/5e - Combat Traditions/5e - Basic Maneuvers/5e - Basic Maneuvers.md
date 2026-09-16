@@ -3,8 +3,8 @@ publish: true
 title: 🤺5e - Basic Maneuvers
 description: Basic Melee Maneuvers
 created: 2026-07-22T10:44:14.031+02:00
-modified: 2026-08-17T07:52:11.010+02:00
-published: 2026-08-17T07:52:11.010+02:00
+modified: 2026-09-16T07:43:58.634+02:00
+published: 2026-09-16T07:43:58.634+02:00
 tags:
   - "#Combatrules"
   - "#5e"
@@ -25,13 +25,15 @@ Melee combat is not always an exchange of weapon attacks — sometimes you are t
 
 All creatures can use basic maneuvers, even if they do not have access to combat maneuvers. No exertion points are required to use a basic maneuver. Unless otherwise noted, using a basic maneuver replaces an attack made on your turn.
 
-**<u>Basic Melee Damage:</u>** When you successfully use a <u>Basic Maneuver</u> you also deal <u>Basic Melee Damage</u>. This is equal to `1d2 + your STR`. Basic Melee Damage is <u>Bludgeoning</u> damage, but at the Game Master’s discretion may be <u>Piercing</u> or <u>Slashing</u> damage.
+**<u>Basic Melee Damage:</u>** When you successfully use a <u>Basic Maneuver</u> you also deal [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Damage/5e - Basic Melee Damage|💔Basic Melee Damage]]. This is equal to `1d2 + your STR`. [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Damage/5e - Basic Melee Damage|💔Basic Melee Damage]] is <u>Bludgeoning</u> damage, but at the Game Master’s discretion may be <u>Piercing</u> or <u>Slashing</u> damage.
 
 You cannot use a Basic Maneuver to activate any features that deal additional damage (such as **Sneak Attack** or **Paladin's Smite**) unless the feature specifically states otherwise.
 
-Basic Maneuvers can only be used against creatures of your size or smaller unless stated otherwise.
+**<u>Size Restriction:</u>** Basic Maneuvers can only be used against creatures of _your size or smaller_ unless stated otherwise.
 
 Basic Maneuvers are available to the following classes: _All_
+
+### List of all Basic Maneuvers
 
 ```base
 views:
