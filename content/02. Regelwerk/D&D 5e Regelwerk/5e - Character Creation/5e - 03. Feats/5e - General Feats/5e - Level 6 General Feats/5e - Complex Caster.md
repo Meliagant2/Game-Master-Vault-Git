@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Complex Caster
 created: 2026-08-10T11:54:08.908+02:00
-modified: 2026-09-04T09:35:39.257+02:00
-published: 2026-09-04T09:35:39.257+02:00
+modified: 2026-09-17T11:54:14.042+02:00
+published: 2026-09-17T11:54:14.042+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -35,9 +35,10 @@ You gain the following benefits:
 
 **<u>Cast Multiple Leveled Spells:</u>** You can cast multiple levelled spells per turn.
 
-**<u>Flash Recall:</u>** As a **Bonus Action**, you prepare a _spell_ of <u>1st level</u> or higher from your class _spell list_. This spell must be of a level for which you have spell slots, and it replaces another spell of an equal or higher level that you had previously prepared. You can also use this benefit during a **Long Rest**, even if you already used it as a **Bonus Action** the same day.
+**<u>Flash Recall:</u>** Depending on the kind of spellcaster class you are, you gain the following benefits:
 
-_**<u>Number of Uses:</u>**_ <u>Once</u> you've used this benefit, you can't use it again until you finish a **Long Rest**.
+- **<u>Prepared Caster (Change Spells during Long Rest):</u>** As a **Bonus Action**, you prepare a _spell_ of <u>1st level</u> or higher from your class _spell list_. This spell must be of a level for which you have spell slots, and it replaces another spell of an equal or higher level that you had previously prepared. <u>Once</u> you've used this benefit, you can't use it again until you finish a **Long Rest**.
+- **<u>Known Caster (Choose known spells, but only change them during level up):</u>** Whenever you finish a **Long Rest**, you can replace one spell on your list with another spell for which you have spell slots from your class _spell list_.
 
 ## Quelle
 

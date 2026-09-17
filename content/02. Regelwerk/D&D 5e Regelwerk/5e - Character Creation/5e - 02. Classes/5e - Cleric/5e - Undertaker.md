@@ -1,9 +1,10 @@
 ---
 publish: true
 title: 🦸‍♀️5e - Undertaker
+description: Death must be respected, for death comes to us all. Undertakers walk the veil between life and death on a daily basis, putting death at a hold, where life is needed and ending life, that should have ended long ago.
 created: 2026-08-26T09:16:45.466+02:00
-modified: 2026-09-16T16:04:50.660+02:00
-published: 2026-09-16T16:04:50.660+02:00
+modified: 2026-09-17T11:15:03.732+02:00
+published: 2026-09-17T11:15:03.732+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -13,12 +14,18 @@ dateitags:
 status: ✅
 class:
   - "[[5e - Cleric]]"
-source: "Ravenloft: The Horrors Within; Self"
+source: "Ravenloft: The Horrors Within; Grim Hollow: Player's Guide (2024); Self"
 ---
 
 Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Cleric/5e - Cleric|5e - Cleric]].
 
 # 🦸‍♀️5e - Undertaker🦸‍♀️
+
+Death must be respected, for death comes to us all. Undertakers walk the veil between life and death on a daily basis, putting death at a hold, where life is needed and ending life, that should have ended long ago.
+
+Death is a natural and inevitable part of the worlds. Undertakers, tho they sometimes utilize them themselves, seek to destroy undead and shepherd spirits to the afterlife.
+
+The magic Undertakers use allows these Clerics to stave off death for a time. But this is merely a delay of death, not a denial of it, for death will always claim its due.
 
 ### Level 3: Eyes of the Grave (Flavor)
 
@@ -26,13 +33,13 @@ You gain the ability to sense the presence of the _Undead_. You always know, if 
 
 As a **Bonus Action**, you can open your awareness to magically detect _Undead_. Until <u>the end of your next turn</u>, you know the location of any _Undead_ that fulfills the requirements above.
 
-_**<u>Number of Uses:</u>**_ <u>Once</u> you've used this benefit, you can't use it again until you finish a **Long Rest**.
+_**<u>Number of Uses:</u>**_ You can use this feature a number of times equal to <u>your WIS (minimum of once)</u>, and you regain all expended uses when you finish a **Long Rest**.
 
 ### Level 3: Circle of Mortality
 
 You gain the ability to manipulate the line between life and death, granting you the following benefits:
 
-**<u>Pull of Death:</u>** <u>Once per turn</u>, when you deal damage to a creature that's missing any [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|💖Hit Points]] by casting a spell or by hitting with an [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack Roll]], that creature takes an extra `1d6` <u>Necrotic</u> or <u>Radiant</u> damage.
+**<u>Pull of Death:</u>** <u>Once per turn</u>, when you deal damage to a creature that's missing any [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|💖Hit Points]] by casting a spell or by hitting with an [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack Roll]], that creature takes an extra `1d6` damage of one of your **Divine Damage types** (your choice).
 
 **<u>Return to Life:</u>** When you would normally roll one or more dice to restore [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|💖Hit Points]] to a creature at `0` [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|💖Hit Points]] with a spell or **Channel Divinity**, don't roll those dice for the healing; instead, use the highest number possible for each die. For example, instead of restoring `2d4` [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|💖Hit Points]] to a creature at `0` [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|💖Hit Points]] with a spell, you restore `8`.
 
@@ -40,19 +47,21 @@ You gain the ability to manipulate the line between life and death, granting you
 
 As a **Bonus Action**, you present your [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spellcasting Focus|🎩Spellcasting Focus]] and expend a use of your **Channel Divinity** to _curse_ one creature you can see within <u>30 feet</u> of yourself until <u>the start of your next turn</u>. While _cursed_, the creature has **DISADV** on [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack Rolls]] and [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Saves]].
 
-When you or an ally you can see _**hits**_ the cursed target with an [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack Roll]], you can end the curse early (**no Action** required) to make the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack]] deal extra <u>Necrotic</u> or <u>Radiant</u> damage (your choice) equal to `your Cleric level`.
+When you or an ally you can see _**hits**_ the cursed target with an [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack Roll]], you can end the curse early (**no Action** required) to make the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack]] deal extra damage of one of your **Divine Damage types** (your choice) equal to `your Cleric level`.
 
-### Level 7: Touch of Death
-
-If you cast a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Necromancy/5e - School of Necromancy|☄️Necromancy]] spell using a spell slot, you can change the spell’s casting time to a **Bonus Action** for this casting, provided the spell’s casting time is normally an **Action**.
-
-_**<u>Number of Uses:</u>**_ You can use this feature a number of times equal to <u>your WIS (minimum of once)</u>, and you regain all expended uses when you finish a **Long Rest**.
-
-### Level 11: Sentinel at Death's Door
+### Level 7: Sentinel at Death's Door
 
 When you or a creature you can see within <u>60 feet</u> of yourself is _hit_ with an [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack Roll]], you can take a **Reaction** to halve that attack's damage (round down). If the triggering [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack Roll]] was a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Checks & Saves Outcomes/5e - Critical Success|🎲Critical Hit]], any effects triggered by a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Checks & Saves Outcomes/5e - Critical Success|🎲Critical Hit]] are canceled.
 
 _**<u>Number of Uses:</u>**_ You can use this feature a number of times equal to <u>your WIS</u>, and you regain all expended uses when you finish a **Long Rest**.
+
+### Level 11: Walking the Veil
+
+Your exposure to death altered your physiology bit by bit. You gain the following benefits:
+
+**<u>Recuperation:</u>** When you spend [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Dice|💖Hit Dice]] during a **Short Rest** to recover [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|💖Hit Points]], you can roll each [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Dice|💖Hit Die]] <u>twice</u> and use the higher roll.
+
+**<u>Will to live:</u>** You add your <u>WIS</u> (minimum of 1) to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Death Save|🎲Death Saves]].
 
 ### Level 15: Keeper of Souls
 
@@ -69,4 +78,4 @@ When you cast a spell of level 5 or lower from the [[02. Regelwerk/D&D 5e Regelw
 ## Source
 
 > [!inspiration] Source/Inspiration
-> Ravenloft: The Horrors Within; Self
+> Ravenloft: The Horrors Within; Grim Hollow: Player's Guide (2024); Self

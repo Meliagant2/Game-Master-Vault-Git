@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Adept
 description: A living weapon that hones their control over body and mind, and channels their unwavering focus to achieve amazing feats
 created: 2026-07-31T11:14:22.631+02:00
-modified: 2026-09-16T10:15:52.546+02:00
-published: 2026-09-16T10:15:52.546+02:00
+modified: 2026-09-17T07:58:14.863+02:00
+published: 2026-09-17T07:58:14.863+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -220,6 +220,8 @@ Choose one Archetype, which represents you best. Your Archetpye grants you new a
 | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Pacifist.md\|5e - Pacifist]]                   | -                                       |
 | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Pugulist.md\|5e - Pugulist]]                   | Pugulists are masters of unarmed combat. |
 
+<br>
+
 ### Level 4: Feats
 
 You gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats|🥇Class Feat]], one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - General Feats/5e - General Feats|🥇General Feat]] and one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Skill Feats|🥇Skill Feat]] for which you qualify.
@@ -241,8 +243,6 @@ If you reduce the damage to `0`, you can spend `1` [[02. Regelwerk/D&D 5e Regelw
 You gain the following benefits:
 
 **<u>Empowered Strikes:</u>** Whenever you deal damage with your **Martial Arts Attack**, it can deal your choice of <u>Force</u> damage or its normal damage type.
-
-**<u>Pressure Point Secrets:</u>** When you use one of your _Adpet_ features or a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Maneuvers|🤺Combat Maneuver]], that requires the target to make a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Save]], you can spend additional [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Rules/5e - Exertion|🤺Exertion]] to impose **DISADV** on the first [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Save]] the creature makes against the feature or Maneuver. The additional [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Rules/5e - Exertion|🤺Exertion]] spent equals `the amount of Exertion the feature or Maneuver needed to be used + 2`
 
 **<u>Total Combat:</u>** When you deal [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Damage/5e - Basic Melee Damage|💔Basic Melee Damage]] from using a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Traditions/5e - Basic Maneuvers/5e - Basic Maneuvers|🤺Basic Maneuver]], you deal additional damage equal to `your Martial Arts die`.
 

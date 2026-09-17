@@ -1,10 +1,10 @@
 ---
 publish: true
 title: 🦸‍♀️5e - Priest
-description: Priests specialize in healing those in need and helping those weaker than themselves. Most priests are altruistic but some demand horrendous amounts of coin to cure someones ailment.
+description: Priests specialize in healing those in need and helping those weaker than themselves. Priests promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath.
 created: 2026-08-26T09:16:45.466+02:00
-modified: 2026-09-16T15:42:10.299+02:00
-published: 2026-09-16T15:42:10.299+02:00
+modified: 2026-09-17T09:10:52.753+02:00
+published: 2026-09-17T09:10:52.753+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -14,18 +14,24 @@ dateitags:
 status: ✅
 class:
   - "[[5e - Cleric]]"
-source: Player's Handbook 2024; Self
+source: Player's Handbook 2024; DC20; Self
 ---
 
 Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Cleric/5e - Cleric|5e - Cleric]].
 
 # 🦸‍♀️5e - Priest🦸‍♀️
 
-Priests specialize in healing those in need and helping those weaker than themselves. Most priests are altruistic but some demand horrendous amounts of coin to cure someones ailment.
+Priests specialize in healing those in need and helping those weaker than themselves. Priests promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath. Most priests are altruistic but some demand horrendous amounts of coin to cure someones ailment.
 
 ### Level 3: All that Ails (Flavor)
 
-You have an understanding and divine guidance when attempting to learn what is ailing a creature. You have **ADV** on [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Ability Check/5e - Ability Check|🎲Ability Checks]] made to identify or determine the effects of a _Disease_, _Poison_, or _Curse_ affecting a creature.
+You have an understanding and divine guidance when attempting to learn what is ailing a creature. You gain the following benefits:
+
+**<u>Skilled Medic:</u>** You have **ADV** on [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Ability Check/5e - Ability Check|🎲Ability Checks]] made to identify or determine the effects of a _Disease_, _Poison_, or _Curse_ affecting a creature.
+
+**<u>Skill Proficiency:</u>** You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - INT Skills/5e - Medicine|💃Medicine]] [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Proficiency|🎲Proficiency]], or one level of [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Expertise|🎲Expertise]], if you are already _proficient_. You also gain <u>two</u> additional levels of [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Expertise|🎲Expertise]] with [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - INT Skills/5e - Medicine|💃Medicine]].
+
+**<u>Tool Proficiency:</u>** You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Misc Tools/5e - Herbalism Kit|🛠️Herbalism Kit]] [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Proficiency|🎲Proficiency]], or one level of [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Expertise|🎲Expertise]], if you are already _proficient_. You also gain <u>two</u> additional levels of [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Expertise|🎲Expertise]] with the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Misc Tools/5e - Herbalism Kit|🛠️Herbalism Kit]].
 
 ### Level 3: Disciple of Life
 
@@ -35,19 +41,19 @@ When a spell you cast with a spell slot restores [[02. Regelwerk/D&D 5e Regelwer
 
 As a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Magic Action|⚔️Magic]] action, you present your [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spellcasting Focus|🎩Spellcasting Focus]] and expend a use of your **Channel Divinity** to evoke healing energy that can restore a number of [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|💖Hit Points]] equal to `5 x your Cleric level`. Choose creatures within <u>30 feet</u> of yourself (which can include you), and divide those [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|💖Hit Points]] among them.
 
-### Level 7: Swift Protector
+### Level 7: Blessed Healer
 
-If you cast an [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - School of Abjuration|☄️Abjuration]] spell using a spell slot, you can change the spell’s casting time to a **Bonus Action** for this casting, provided the spell’s casting time is normally an **Action**.
+The healing spells you cast on others heal you as well. Immediately after you cast a spell with a spell slot that restores [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|💖Hit Points]] to one or more creatures other than yourself, you regain [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|💖Hit Points]] equal to `2 + the spell slot's level`.
 
-_**<u>Number of Uses:</u>**_ You can use this feature a number of times equal to <u>your WIS (minimum of once)</u>, and you regain all expended uses when you finish a **Long Rest**.
+### Level 11: Sanctification
 
-### Level 11: Blessed Healer
-
-The healing spells you cast on others heal you as well. Immediately after you cast a spell with a spell slot that restores [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|💖Hit Points]] to one or more creatures other than yourself, you regain [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|💖Hit Points]] equal to `5 + the spell slot's level`.
+When you restore [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|💖Hit Points]] to a creature beyond their [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|💖Hit Point Maximum]], they gain an amount of [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Temporary Hit Points|💖Temporary Hit Points]] equal to `the excess healing`.
 
 ### Level 15: Procession of Healing
 
-As a **Bonus Action**, you can move up to your [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Speed/5e - Speed|🏃‍♀️Speed]], without provoking [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Reactions/5e - Opportunity Attack|⚔️Opportunity Attacks]], and when you move within <u>5 feet</u> of any other creature during this movement, you can restore a number of [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|💖Hit Points]] to that creature equal to `4d6 + your WIS`. A creature can receive this healing only <u>once per turn</u>.
+As a **Bonus Action**, you can move up to your [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Speed/5e - Speed|🏃‍♀️Speed]], without provoking [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Reactions/5e - Opportunity Attack|⚔️Opportunity Attacks]], and when you move within <u>5 feet</u> of any other creature during this movement, you can restore a number of [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|💖Hit Points]] to that creature equal to `2d6 + your WIS`. A creature can receive this healing only <u>once per turn</u>.
+
+_**<u>Number of Uses:</u>**_ You can use this feature a number of times equal to <u>your WIS</u>, and you regain all expended uses when you finish a **Long Rest**.
 
 ### Level 19: Supreme Healing
 
@@ -56,4 +62,4 @@ When you would normally roll one or more dice to restore [[02. Regelwerk/D&D 5e 
 ## Source
 
 > [!inspiration] Source/Inspiration
-> Player's Handbook 2024; Self
+> Player's Handbook 2024; DC20; Self

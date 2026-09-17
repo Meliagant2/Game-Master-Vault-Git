@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Fighter
 description: A master of martial techniques with expertise in a wide variety of weapons and combat maneuvers.
 created: 2026-07-31T11:11:41.436+02:00
-modified: 2026-09-16T11:41:54.431+02:00
-published: 2026-09-16T11:41:54.431+02:00
+modified: 2026-09-17T07:58:04.372+02:00
+published: 2026-09-17T07:58:04.372+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -205,6 +205,8 @@ Choose one Archetype, which represents you best. Your Archetpye grants you new a
 | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Fighter/5e - Rune Knight.md\|5e - Rune Knight]] | -                                                                                                                                                                                 |
 | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Fighter/5e - Sentinel.md\|5e - Sentinel]]       | -                                                                                                                                                                                 |
 | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Fighter/5e - Soldier.md\|5e - Soldier]]         | Soldiers are battlefield hardened Fighters, who earn their living by fighting in wars. They could be mercenaries, men-at-arms, or unlucky peasants, who were drafted into an army. |
+
+<br>
 
 ### Level 4: Feats
 

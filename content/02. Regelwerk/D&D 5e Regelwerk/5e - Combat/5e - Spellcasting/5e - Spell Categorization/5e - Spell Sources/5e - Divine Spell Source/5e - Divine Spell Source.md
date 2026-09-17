@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Divine Spell Source
 created: 2026-07-20T12:11:02.751+02:00
-modified: 2026-09-09T14:14:52.451+02:00
-published: 2026-09-09T14:14:52.451+02:00
+modified: 2026-09-17T09:40:38.359+02:00
+published: 2026-09-17T09:40:38.359+02:00
 tags:
   - "#Combatrules"
   - "#5e"
@@ -54,7 +54,7 @@ views:
     columnSize:
       file.name: 200
       note.level: 49
-      note.time: 25
+      note.time: 24
       note.c: 24
   - type: table
     name: 5e - Divine; Cantrips

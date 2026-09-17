@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Additional Spells
 created: 2026-08-26T11:41:27.723+02:00
-modified: 2026-08-26T11:43:00.912+02:00
-published: 2026-08-26T11:43:00.912+02:00
+modified: 2026-09-17T14:10:08.867+02:00
+published: 2026-09-17T14:10:08.867+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -32,7 +32,7 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Fea
 > |**Prerequisite**|Spellcaster Class |
 > |**Repeatable**|x |
 
-You learn <u>one</u> _Cantrip_ and <u>one</u> spell of a level you can cast from your classes Spell List.
+You learn <u>one</u> _Cantrip_ and <u>one</u> spell of a level you can cast from your class _Spell List_.
 
 ## Quelle
 

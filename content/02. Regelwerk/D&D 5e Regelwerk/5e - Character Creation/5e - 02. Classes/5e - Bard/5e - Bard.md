@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Bard
 description: A charismatic performer who uses their music as a conduit to wield powerful magic.
 created: 2026-07-31T10:15:39.250+02:00
-modified: 2026-09-16T11:43:00.886+02:00
-published: 2026-09-16T11:43:00.886+02:00
+modified: 2026-09-17T07:58:35.355+02:00
+published: 2026-09-17T07:58:35.355+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -597,6 +597,8 @@ Choose one Archetype, which represents you best. Your Archetpye grants you new a
 | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Bard/5e - Storyteller.md\|5e - Storyteller]]       | -                                                                                                                         |
 | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Bard/5e - Sword Juggler.md\|5e - Sword Juggler]]   | -                                                                                                                         |
 | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Bard/5e - Tempter.md\|5e - Tempter]]               | -                                                                                                                         |
+
+<br>
 
 ### Level 4: Feats
 

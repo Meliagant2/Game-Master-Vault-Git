@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Cleric
 description: A holy guardian that channels divine energies to both heal and harm in service to their higher power.
 created: 2026-07-20T12:11:02.541+02:00
-modified: 2026-09-16T13:08:19.234+02:00
-published: 2026-09-16T13:08:19.234+02:00
+modified: 2026-09-17T11:51:19.702+02:00
+published: 2026-09-17T11:51:19.702+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -59,28 +59,28 @@ Not every member of a temple or shrine is a Cleric. Some priests are called to a
 
 ## Class Table
 
-| Level | PB  |    HP    | Hit Die | Ability Increase | Channel Divinity | Features                                                             |
-| :---: | :-: | :------: | :-----: | :--------------: | :--------------- | :------------------------------------------------------------------- |
-|  1st  | +2  | 6 + CON  |  +1d6   |                  | 1                | Divine Omen, Channel Divinity, Cleric Order                          |
-|  2nd  | +2  | +4 + CON |  +1d6   |                  | 2                | Class Feat, General Feat, Skill Feat                                 |
-|  3rd  | +2  | +4 + CON |  +1d6   |                  | 2                | Archetype                                                            |
-|  4th  | +2  | +4 + CON |  +1d6   |   +1 (max +4)    | 2                | Class Feat, General Feat, Skill Feat                                 |
-|  5th  | +3  | +4 + CON |  +1d6   |                  | 3                | Blessed Strikes, Sear Undead                                         |
-|  6th  | +3  | +4 + CON |  +1d6   |                  | 3                | Class Feat, General Feat, Skill Feat                                 |
-|  7th  | +3  | +4 + CON |  +1d6   |                  | 3                | Archetype Feature                                                    |
-|  8th  | +3  | +4 + CON |  +1d6   |   +1 (max +5)    | 3                | Class Feat, General Feat, Skill Feat                                 |
-|  9th  | +4  | +4 + CON |  +1d6   |                  | 4                |                                                                      |
-| 10th  | +4  | +4 + CON |  +1d6   |                  | 4                | Class Feat, General Feat, Skill Feat                                 |
-| 11th  | +4  | +4 + CON |  +1d6   |                  | 4                | Archetype Feature                                                    |
-| 12th  | +4  | +4 + CON |  +1d6   |   +1 (max +5)    | 4                | Class Feat, General Feat, Skill Feat                                 |
-| 13th  | +5  | +4 + CON |  +1d6   |                  | 4                |                                                                      |
-| 14th  | +5  | +4 + CON |  +1d6   |                  | 4                | Class Feat, General Feat, Skill Feat                                 |
-| 15th  | +5  | +4 + CON |  +1d6   |                  | 4                | Archetype Feature                                                    |
-| 16th  | +5  | +4 + CON |  +1d6   |   +1 (max +5)    | 4                | Class Feat, General Feat, Skill Feat                                 |
-| 17th  | +6  | +4 + CON |  +1d6   |                  | 5                |                                                                      |
-| 18th  | +6  | +4 + CON |  +1d6   |                  | 5                | Class Feat, General Feat, Skill Feat                                 |
-| 19th  | +6  | +4 + CON |  +1d6   |                  | 5                | Archetype Feature                                                    |
-| 20th  | +6  | +4 + CON |  +1d6   |   +1 (max +6)    | 5                | Divine Intervention, Epic Boon, Class Feat, General Feat, Skill Feat |
+| Level | PB  |    HP    | Hit Die | Ability Increase | Channel Divinity | Features                                                                     |
+| :---: | :-: | :------: | :-----: | :--------------: | :--------------- | :--------------------------------------------------------------------------- |
+|  1st  | +2  | 6 + CON  |  +1d6   |                  | 1                | Divine Omen, Channel Divinity, Cleric Order                                  |
+|  2nd  | +2  | +4 + CON |  +1d6   |                  | 2                | Class Feat, General Feat, Skill Feat                                         |
+|  3rd  | +2  | +4 + CON |  +1d6   |                  | 2                | Archetype                                                                    |
+|  4th  | +2  | +4 + CON |  +1d6   |   +1 (max +4)    | 2                | Class Feat, General Feat, Skill Feat                                         |
+|  5th  | +3  | +4 + CON |  +1d6   |                  | 3                | Blessed Strikes, Sear Undead                                                 |
+|  6th  | +3  | +4 + CON |  +1d6   |                  | 3                | Class Feat, General Feat, Skill Feat                                         |
+|  7th  | +3  | +4 + CON |  +1d6   |                  | 3                | Archetype Feature                                                            |
+|  8th  | +3  | +4 + CON |  +1d6   |   +1 (max +5)    | 3                | Class Feat, General Feat, Skill Feat                                         |
+|  9th  | +4  | +4 + CON |  +1d6   |                  | 4                | Divine Intervention                                                          |
+| 10th  | +4  | +4 + CON |  +1d6   |                  | 4                | Class Feat, General Feat, Skill Feat                                         |
+| 11th  | +4  | +4 + CON |  +1d6   |                  | 4                | Archetype Feature                                                            |
+| 12th  | +4  | +4 + CON |  +1d6   |   +1 (max +5)    | 4                | Class Feat, General Feat, Skill Feat                                         |
+| 13th  | +5  | +4 + CON |  +1d6   |                  | 4                | Improved Blessed Strikes                                                     |
+| 14th  | +5  | +4 + CON |  +1d6   |                  | 4                | Class Feat, General Feat, Skill Feat                                         |
+| 15th  | +5  | +4 + CON |  +1d6   |                  | 4                | Archetype Feature                                                            |
+| 16th  | +5  | +4 + CON |  +1d6   |   +1 (max +5)    | 4                | Class Feat, General Feat, Skill Feat                                         |
+| 17th  | +6  | +4 + CON |  +1d6   |                  | 5                | Divine Defense                                                               |
+| 18th  | +6  | +4 + CON |  +1d6   |                  | 5                | Class Feat, General Feat, Skill Feat                                         |
+| 19th  | +6  | +4 + CON |  +1d6   |                  | 5                | Archetype Feature                                                            |
+| 20th  | +6  | +4 + CON |  +1d6   |   +1 (max +6)    | 5                | Greater Divine Intervention, Epic Boon, Class Feat, General Feat, Skill Feat |
 
 ## Core Class Traits
 
@@ -105,7 +105,7 @@ Not every member of a temple or shrine is a Cleric. Some priests are called to a
 **<u>Spell List:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Sources/5e - Divine Spell Source/5e - Divine Spell Source|☄️Divine Spell Source]]
 **<u>Spell Slots:</u>** The Spellcaster Table shows how many Spell Slots you have to cast Spells. To cast one of these Spells, you must expend a Slot of the Spell’s level or higher. You regain all expended spell slots when you finish a Long Rest.
 **<u>Cantrips:</u>** Whenever you gain a Level in this Class, you can replace one of your cantrips with another cantrip of your choice from your Spell List.
-**<u>Spells:</u>** You prepare a number of spells from your Spell List as shown in your Class's the **Spellcaster Table**. Whenever you gain a Level in your Class, you can replace one of your prepared spells with another spell of your choice from your _Spell List_ for which you have _Spell Slots_.
+**<u>Spells:</u>** You prepare a number of spells from your Spell List as shown in your Class's the **Spellcaster Table**. Whenever you finish a **Long Rest**, you can change your list of prepared spells, replacing any of the spells there with other Divine spells for which you have spell slots.
 **<u>Spellcasting Focus Masteries:</u>** You can use the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spell Focus Mastery Properties/5e - Spell Focus Mastery Properties|🎩Spell Focus Mastery Properties]] of all [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spellcasting Focus|🎩Spellcasting Foci]] you are proficient in.
 
 #### Spellcaster Table
@@ -146,7 +146,7 @@ views:
     filters:
       and:
         - dateitags.contains("#5e")
-        - dateitags.containsAny("#SpelllistCleric")
+        - dateitags.containsAny("#Spelllistdivine")
     sort:
       - property: file.name
         direction: ASC
@@ -488,6 +488,8 @@ views:
 
 ```
 
+<br>
+
 ## Class Features
 
 ### Level 1: Divine Omen (Flavor)
@@ -504,7 +506,7 @@ You can channel divine energy to fuel magical effects. You start with two such e
 
 If a Channel Divinity effect requires a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Save]], the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Difficulty Class/5e - Difficulty Class|🎲DC]] equals the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Effects/5e - Spell Save|☄️Spell Save DC]] from this class's Spellcasting feature.
 
-**<u>Divine Spark:</u>** As a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Magic Action|⚔️Magic]] action, you present your [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spellcasting Focus|🎩Spellcasting Focus]] and point at another creature you can see within <u>30 feet</u> of yourself and focus divine energy at it. Roll `1d8 + your WIS`. You either restore [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|💖Hit Points]] to the creature equal to that total or force the creature to make a **CON Save**. _**Failure:**_ The creature takes <u>Necrotic</u> or <u>Radiant</u> damage (your choice) equal to that total. _**Success:**_ The creature takes half the damage only.
+**<u>Divine Spark:</u>** As a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Magic Action|⚔️Magic]] action, you present your [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spellcasting Focus|🎩Spellcasting Focus]] and point at another creature you can see within <u>30 feet</u> of yourself and focus divine energy at it. Roll `1d8 + your WIS`. You either restore [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|💖Hit Points]] to the creature equal to that total or force the creature to make a **CON Save**. _**Failure:**_ The creature takes damage of one of your **Divine Damage types** (your choice; see **Cleric Order** feature) equal to that total. _**Success:**_ The creature takes half the damage only.
 
 You roll an additional `d8` when you reach Cleric levels 5 (`2d8`), 9 (`3d8`), 13 (`4d8`), and 17 (`5d8`).
 
@@ -514,13 +516,36 @@ _**<u>Number of Uses:</u>**_ You can use this feature a number of times as state
 
 ### Level 1: Cleric Order
 
+Your connection to your deity grants you the following benefits:
+
+#### Divine Damage
+
+Choose <u>two</u> of the following damage types: <u>Acid</u>, <u>Cold</u>, <u>Fire</u>, <u>Lightning</u>, <u>Necrotic</u>, <u>Poison</u>, <u>Psychic</u>, <u>Radiant</u>, <u>Thunder</u>. Those damage types are your **Divine Damage type** which is used for some _Cleric_ features.
+
 #### Divine Domains
 
-- Mutter Nacht: Dark/Secrecy
-- Der Sonnenvater: Light
-- Der Herr der Lügen: Trickery
-- Der himmlische Krieger: War
-- Die silberne Herrin: ?
+Choose one of the following **Divine Domains**, you see yourself, your deity, or your pantheon most represented in (Alternatively, each domain lists one god of my world as a guideline. I might list more than one title, but they all reference one god. The titles are in english, just like this text, because german looks weird between all the english). Each Domain ensures you always have certain spells prepared. When you reach a _Cleric level_ specified in the <u>Domain Spells table</u>, you thereafter always have the listed spells prepared.
+
+##### Domain of Lies
+
+_**<u>God:</u>**_ _The lord of Lies, Lord of the Hells, Supreme master of the Hells, Fulfiller of Wishes_
+
+**<u>1st level Cleric:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Enchantment/5e - Level 1 Enchantment/5e - Charm Person (Spell)|☄️Charm Person]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Illusion/5e - Level 1 Illusion/5e - Disguise Self (Spell)|☄️Disguise Self]]
+
+**<u>3rd level Cleric:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Illusion/5e - Level 2 Illusion/5e - Invisibility (Spell)|☄️Invisibility]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - Level 2 Abjuration/5e - Pass without Trace (Spell)|☄️Pass without Trace]]
+
+**<u>5th level Cleric:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Illusion/5e - Level 3 Illusion/5e - Hypnotic Pattern (Spell)|☄️Hypnotic Pattern]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - Level 3 Abjuration/5e - Nondetection (Spell)|☄️Nondetection]]
+
+**<u>7th level Cleric:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Enchantment/5e - Level 4 Enchantment/5e - Confusion (Spell)|☄️Confusion]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Conjuration/5e - Level 4 Conjuration/5e - Dimension Door (Spell)|☄️Dimension Door]]
+
+**<u>9th level Cleric:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Enchantment/5e - 000 Enchantment Control/5e - Dominate Person (Spell)|☄️Dominate Person]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Enchantment/5e - 000 Enchantment Control/5e - Modify Memory (Spell)|☄️Modify Memory]]
+
+> [!warnung]- WIP
+> Currently I only created the Domain of Lies, since that is the one we are playing with right now. There are more Domains to come in the future.
+>
+> ##### Domain of
+>
+> _**<u>God:</u>**_ _XXX_
 
 ### Level 2: Feats
 
@@ -530,13 +555,16 @@ You gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. F
 
 Choose one Archetype, which represents you best. Your Archetpye grants you new abilities at 3rd, 7th, 11th, 15th, and 19th level.
 
-| Archetype                                                                                                                   | Description                                                                                                                                                                                           |
-| --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Cleric/5e - Abbot.md\|5e - Abbot]]           | An abbot is a cleric, who tries to understand the signs of their belief. They tend to old texts, symbols and knowledge, while they themselves might want to hide this knowledge from the uninitiated. |
-| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Cleric/5e - Apostle.md\|5e - Apostle]]       | Apostles are devout Clerics who believe themselves to follow a divine purpose in the world. They follow their doctrine with zealous fervour.                                                          |
-| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Cleric/5e - Priest.md\|5e - Priest]]         | Priests specialize in healing those in need and helping those weaker than themselves. Most priests are altruistic but some demand horrendous amounts of coin to cure someones ailment.                |
-| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Cleric/5e - Undertaker.md\|5e - Undertaker]] | -                                                                                                                                                                                                    |
-| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Cleric/5e - Vicar.md\|5e - Vicar]]           | A Vicar's life is a life of strictness and devotion. They excel at reason and persuasion.                                                                                                             |
+| Archetype                                                                                                                   | Description                                                                                                                                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Cleric/5e - Apostle.md\|5e - Apostle]]       | Apostles are devout Clerics who believe themselves to follow a divine purpose in the world. They follow their doctrine with zealous fervour.                                                                                                |
+| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Cleric/5e - Dissembler.md\|5e - Dissembler]] | Dissemblers hide their true religious feelings or identity under a false appearance. This might be because they fear persecution, feel unsure about their belief, or are scared to be judged by allies and friends for their faith.         |
+| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Cleric/5e - Priest.md\|5e - Priest]]         | Priests specialize in healing those in need and helping those weaker than themselves. Priests promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath. |
+| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Cleric/5e - Prophet.md\|5e - Prophet]]       | Prophets sometimes receive visions directly from their deity and receive fleeting omens of the future. They share impossible knowledge with their allies and prophesize their enemies' doom.                                                |
+| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Cleric/5e - Undertaker.md\|5e - Undertaker]] | Death must be respected, for death comes to us all. Undertakers walk the veil between life and death on a daily basis, putting death at a hold, where life is needed and ending life, that should have ended long ago.                      |
+| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Cleric/5e - Vicar.md\|5e - Vicar]]           | A Vicar's life is a life of strictness and devotion. They excel at reason and persuasion.                                                                                                                                                   |
+
+<br>
 
 ### Level 4: Feats
 
@@ -546,7 +574,7 @@ You gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. F
 
 Divine power infuses you in battle. You gain one of the following options of your choice:
 
-**<u>Divine Strike:</u>** <u>Once per turn</u>, when you _**hit**_ a creature with a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Weapon Attack|🎲Weapon Attack]], you can cause the target to take an extra `1d8` <u>Necrotic</u> or <u>Radiant</u> damage (your choice).
+**<u>Divine Strike:</u>** <u>Once per turn</u>, when you _**hit**_ a creature with a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Weapon Attack|🎲Weapon Attack]], you can cause the target to take an extra `1d8` damage of one of your **Divine Damage types** (your choice).
 
 **<u>Potent Spellcasting:</u>** Add `your WIS` to the damage you deal with any [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Sources/5e - Divine Spell Source/5e - Divine Spell Source|☄️Divine]] cantrip.
 
@@ -566,7 +594,11 @@ You gain the 7th-level Archetype Feature of the Archetype you chose at 3rd level
 
 You gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats|🥇Class Feat]], one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - General Feats/5e - General Feats|🥇General Feat]] and one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Skill Feats|🥇Skill Feat]] for which you qualify.
 
-### Level 9: XXX
+### Level 9: Divine Intervention
+
+You can call on your deity or pantheon to intervene on your behalf. As a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Magic Action|⚔️Magic]] action, choose any [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Sources/5e - Divine Spell Source/5e - Divine Spell Source|☄️Divine]] spell of level 5 or lower that doesn't require a **Reaction** to cast. As part of the same **Action**, you cast that spell without expending a spell slot or needing [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Components/5e - Material Components|☄️Material]] components.
+
+_**<u>Number of Uses:</u>**_ <u>Once</u> you've used this benefit, you can't use it again until you finish a **Long Rest**.
 
 ### Level 10: Feats
 
@@ -580,7 +612,13 @@ You gain the 11th-level Archetype Feature of the Archetype you chose at 3rd leve
 
 You gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats|🥇Class Feat]], one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - General Feats/5e - General Feats|🥇General Feat]] and one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Skill Feats|🥇Skill Feat]] for which you qualify.
 
-### Level 13: XXX
+### Level 13: Improved Blessed Strikes
+
+The option you chose for **Blessed Strikes** grows more powerful.
+
+**<u>Divine Strike:</u>** The extra damage of your **Divine Strike** increases to `2d8`.
+
+**<u>Potent Spellcasting:</u>** When you cast a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Sources/5e - Divine Spell Source/5e - Divine Spell Source|☄️Divine]] cantrip and deal damage to a creature with it, you can give vitality to yourself or another creature within <u>60 feet</u> of yourself, granting a number of [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Temporary Hit Points|💖Temporary Hit Points]] equal to `2 x your WIS`.
 
 ### Level 14: Feats
 
@@ -594,7 +632,15 @@ You gain the 15th-level Archetype Feature of the Archetype you chose at 3rd leve
 
 You gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats|🥇Class Feat]], one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - General Feats/5e - General Feats|🥇General Feat]] and one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Skill Feats|🥇Skill Feat]] for which you qualify.
 
-### Level 17: XXX
+### Level 17: Divine Defense
+
+You gain the following benefits:
+
+**<u>Reject the Dead:</u>** _Undead_ creatures have **DISADV** on [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack Rolls]] against you. You also can't be <u>possessed</u> by or gain the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]] or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Frightened|☠️Frightened]] conditions from _Undead_.
+
+**<u>Resist Divine Damage:</u>** You gain <u>Resistance</u> against the damage types chosen for your **Divine Damage**.
+
+**<u>Ward against Corrption:</u>** You have **ADV** on [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Saves]] to avoid or end _diseases_ and against any effect that would change your form, such as the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Transmutation/5e - Level 4 Transmutation/5e - Polymorph (Spell)|☄️Polymorph]] spell.
 
 ### Level 18: Feats
 
@@ -604,11 +650,9 @@ You gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. F
 
 You gain the 19th-level Archetype Feature of the Archetype you chose at 3rd level in this class.
 
-### Level 20: Divine Intervention
+### Level 20: Greater Divine Intervention
 
-You can call on your deity or pantheon to intervene on your behalf. As a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Magic Action|⚔️Magic]] action, choose any [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Sources/5e - Divine Spell Source/5e - Divine Spell Source|☄️Divine]] spell of level 8 or lower that doesn't require a **Reaction** to cast. As part of the same **Action**, you cast that spell without expending a spell slot or needing [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Components/5e - Material Components|☄️Material]] components.
-
-_**<u>Number of Uses:</u>**_ <u>Once</u> you've used this benefit, you can't use it again until you finish a **Long Rest**.
+You can call on even more powerful divine intervention. When you use your **Divine Intervention** feature, you can choose any [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Sources/5e - Divine Spell Source/5e - Divine Spell Source|☄️Divine]] spell of level 8 or lower when you select a spell.
 
 ### Level 20: Feats
 
@@ -618,3 +662,4 @@ You gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. F
 
 > [!inspiration] Inspiration/Quelle
 > **Class Artwork:** Michael Broussard; Player's Handbook 2024 Cleric Class artwork
+> **Class Features:** Player's Handbook 2024; DC 20; Self

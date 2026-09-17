@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Share Focus
 created: 2026-08-11T10:17:58.934+02:00
-modified: 2026-09-16T08:20:56.844+02:00
-published: 2026-09-16T08:20:56.844+02:00
+modified: 2026-09-17T07:51:06.753+02:00
+published: 2026-09-17T07:51:06.753+02:00
 tags:
   - "#Feat"
   - "#5e"

@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Unlikely Wield
 created: 2026-08-11T10:28:20.126+02:00
-modified: 2026-09-16T08:25:57.626+02:00
-published: 2026-09-16T08:25:57.626+02:00
+modified: 2026-09-17T07:51:11.392+02:00
+published: 2026-09-17T07:51:11.392+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -12,7 +12,7 @@ dateitags:
   - "#5e"
 status: ✅
 category: Class
-level: 6
+level: 4
 prerequisite: Adept
 ---
 
@@ -24,7 +24,7 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Fea
 > | | |
 > |---|---|
 > |**Category**|Class |
-> |**Level Requirement**|6 |
+> |**Level Requirement**|4 |
 > |**Prerequisite**|Adept |
 > |**Repeatable**| |
 

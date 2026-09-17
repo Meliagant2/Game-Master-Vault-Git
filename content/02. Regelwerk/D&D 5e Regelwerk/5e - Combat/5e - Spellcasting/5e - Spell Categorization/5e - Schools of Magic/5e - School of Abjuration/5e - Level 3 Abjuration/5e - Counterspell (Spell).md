@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Counterspell
 created: 2026-07-28T11:33:47.470+02:00
-modified: 2026-09-14T10:02:38.307+02:00
-published: 2026-09-14T10:02:38.307+02:00
+modified: 2026-09-17T09:29:34.882+02:00
+published: 2026-09-17T09:29:34.882+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -45,7 +45,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Spell List:**|Arcane,Occult |
 > |**Effect:**|Negation |
 
-You attempt to interrupt a creature in the process of casting a spell. You make a spellcasting [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Ability Check/5e - Ability Check|🎲Ability Check]] (`your spellcasting ability modifier + your PB`), contested by the creature's spellcasting [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Ability Check/5e - Ability Check|🎲Ability Check]]. You gain a bonus to the roll equal to `the level you cast this spell at` and the creature gains a bonus to the roll equal to `the level of the spell it is casting`. _**Success:**_ The spell dissipates with no effect, and the **Action**, **Bonus Action**, or **Reaction** used to cast it is wasted. If that spell was cast with a _spell slot_, the slot isn't expended.
+You attempt to interrupt a creature in the process of casting a spell. You make an [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Ability Check/5e - Ability Check|🎲Ability Check]] using your spellcasting ability, contested by the creature's spellcasting [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Ability Check/5e - Ability Check|🎲Ability Check]] (using its spellcasting ability). You gain a bonus to the roll equal to `the level you cast this spell at` and the creature gains a bonus to the roll equal to `the level of the spell it is casting`. _**Success:**_ The spell dissipates with no effect, and the **Action**, **Bonus Action**, or **Reaction** used to cast it is wasted. If that spell was cast with a _spell slot_, the slot isn't expended.
 
 ## Quelle
 

@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Telepathic
 created: 2026-08-06T15:26:06.738+02:00
-modified: 2026-09-08T14:49:18.363+02:00
-published: 2026-09-08T14:49:18.363+02:00
+modified: 2026-09-17T09:38:24.491+02:00
+published: 2026-09-17T09:38:24.491+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -35,7 +35,7 @@ You gain the following benefits:
 
 **<u>Skill Proficiency:</u>** You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Proficiency|🎲Proficiency]] in <u>one</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - Skills|💃Skill]] of your choice, or one level of [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Expertise|🎲Expertise]], if you are already _proficient_.
 
-**<u>Telepathic Utterance:</u>** You can speak telepathically to any creature you can see within <u>60 feet</u> of yourself. Your telepathic utterances are in a language you know, and the creature understands you only if it knows that language. Your communication doesn't give the creature the ability to respond to you telepathically.
+**<u>Telepathic Utterance:</u>** You can speak [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Telepathy|🗣️Telepathically]] to any creature you can see within <u>60 feet</u> of yourself.
 
 **<u>Detect Thoughts:</u>** You always have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Divination/5e - Level 2 Divination/5e - Detect Thoughts (Spell)|☄️Detect Thoughts]] spell prepared. You can cast it without a spell slot or spell components, and you must finish a **Long Rest** before you can cast it in this way again. You can also cast it using spell slots you have of the appropriate level. The spell's spellcasting ability is <u>INT</u>, <u>WIS</u>, or <u>CHA</u> (whichever is highest).
 

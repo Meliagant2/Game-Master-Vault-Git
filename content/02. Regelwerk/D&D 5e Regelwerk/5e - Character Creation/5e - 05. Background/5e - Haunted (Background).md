@@ -2,8 +2,8 @@
 publish: true
 title: ⛏️5e - Haunted
 created: 2026-07-21T13:44:14.806+02:00
-modified: 2026-09-03T14:45:18.447+02:00
-published: 2026-09-03T14:45:18.447+02:00
+modified: 2026-09-17T12:12:39.104+02:00
+published: 2026-09-17T12:12:39.104+02:00
 tags:
   - "#Background"
   - "#5e"
@@ -30,7 +30,7 @@ Spirits exist. It’s a simple fact of reality that most people forget until the
 
 **<u>Ability Score Increase:</u>** `+1` <u>Wisdom</u> and one other ability score of your choice (both to a maximum of `+4`).
 
-**<u>Feat:</u>** <u>Choose one:</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats Generic/5e - Alert|🥇Alert]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats Generic/5e - Magic Initiate|🥇Magic Initiate]] (Occult), [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats Generic/5e - Survivor|🥇Survivor]], or a **special** [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats|🥇Origin Feat]] (**Dark Gift** feats recommended).
+**<u>Feat:</u>** <u>Choose one:</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats Generic/5e - Alert|🥇Alert]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats Generic/5e - Magic Initiate|🥇Magic Initiate]] (Occult), [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats Generic/5e - Survivor|🥇Survivor]], or a **special** [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats|🥇Origin Feat]] (**Dark Gift** feats recommended in this case).
 
 **<u>Skill Proficiencies:</u>** You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Proficiency|🎲Proficiency]] in [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - Knowledge Skills/5e - Occultism|💃Occultism]] and [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - Knowledge Skills/5e - Religion|💃Religion]], or one level of [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Expertise|🎲Expertise]] if you are already _proficient_.
 
