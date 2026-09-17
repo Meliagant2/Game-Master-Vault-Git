@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-17T10:35:26.769+02:00
-modified: 2026-09-17T20:23:39.192+02:00
-published: 2026-09-17T20:23:39.192+02:00
+modified: 2026-09-17T20:25:41.379+02:00
+published: 2026-09-17T20:25:41.379+02:00
 tags:
   - "#Changelog"
 status: ⏳
@@ -112,7 +112,7 @@ status: ⏳
 
 ### [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 05. Background/5e - Soldier (Background)|Soldier]] Background Changes
 
-**Background Feature:** Replaced the Background Feature "Military Bearing" with an <u>Origin Feat</u>. Military Bearing moved up to the Flavor section of the Background. The choice of origin feats is: [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats Generic/5e - Alert|🥇Alert]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats Generic/5e - Savage Attacker|🥇Savage Attacker]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats Generic/5e - Tough|🥇Tough]] or a **Special** Origin Feat.
+**Background Feature:** Replaced the Background Feature "Military Bearing" with an <u>Origin Feat</u>. Military Bearing moved up to the Flavor section of the Background. The choice of origin feats is: [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats Generic/5e - Brawler|🥇Brawler]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats Generic/5e - Savage Attacker|🥇Savage Attacker]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats Generic/5e - Tough|🥇Tough]] or a **Special** Origin Feat.
 
 ### [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 04. Culture/5e - Caravanner|Caravanner]] Culture Changes
 
