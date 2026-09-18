@@ -24,7 +24,7 @@
 	--highlight-charakter: #500073;
 	--highlight-hell: #0a3b00;
 	--highlight-kuehl: #00E6DB;
-	--highlight-link: #000000;
+	--highlight-link: #0000ee;
 	--highlight-neutral: #292929;
 	--highlight-p: #000000; 
 	--highlight-primary: #AD4118;
@@ -36,7 +36,7 @@
 	--custom-background-charakter: #F4D6FF;
 	--custom-background-doc: #FBEFD5;
 	--custom-background-doc2: #FFEABA;
-	--custom-background-hell: #D6E9CA;
+	--custom-background-hell: #D6E9CA; /* Charakterklasse o.ä. (hellgrün) */
 	--custom-background-kuehl: #77e4ff48;
 	--custom-background-neutral: #EDEDED;
 	--custom-background-neutral2: #FAFAFA;
@@ -66,8 +66,8 @@
 	--custom-background-charakter: #F4D6FF;
 	--custom-background-doc: #363636;
 	--custom-background-doc2: #FFEABA;
-	--custom-background-hell: #D6E9CA;
-	--custom-background-kuehl: #77e4ff48;
+	--custom-background-hell: #173d00; /* Charakterklasse o.ä. (dunkelgrün) */
+	--custom-background-kuehl: #003e4e48; /* Test ob das hier Inspiration ist */
 	--custom-background-neutral: #EDEDED;
 	--custom-background-neutral2: #FAFAFA;
 	--custom-background-primary: #a4a1ff2a;
