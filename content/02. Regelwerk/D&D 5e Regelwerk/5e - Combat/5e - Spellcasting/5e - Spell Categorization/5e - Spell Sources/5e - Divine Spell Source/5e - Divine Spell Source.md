@@ -1,14 +1,16 @@
 ---
 publish: true
 title: ☄️5e - Divine Spell Source
+description: Divine magic draws power from divine beings, such as deities, their followers or the manifestations of abstract universal concepts.
 created: 2026-07-20T12:11:02.751+02:00
-modified: 2026-09-17T09:40:38.359+02:00
-published: 2026-09-17T09:40:38.359+02:00
+modified: 2026-09-18T08:31:53.841+02:00
+published: 2026-09-18T08:31:53.841+02:00
 tags:
   - "#Combatrules"
   - "#5e"
 dateitags:
-  - "#Spelllistdivine"
+  - "#SpelllistDivine"
+  - "#Spell"
   - "#5e"
 status: ✅
 source: DC20
@@ -18,7 +20,7 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 
 # ☄️5e - Divine Spell Source☄️
 
-Divine magic draws power from divine beings (good, evil, and indifferent), such as deities (greater and lesser gods), their followers (angels, archons, etc.) or the manifestations of abstract universal concepts (order, love, peace, war, etc.). Divine magic is granted to mortals either through faith, duty, or desperation. Creatures that wield Divine magic are often servants of their deity, seeking to fulfill their agendas and grow their following.
+Divine magic draws power from divine beings (good, evil, and indifferent), such as deities (greater and lesser gods), their followers (angels, archons, devils etc.) or the manifestations of abstract universal concepts (order, love, peace, war, etc.). Divine magic is granted to mortals either through faith, duty, or desperation. Creatures that wield Divine magic are often servants of their deity, seeking to fulfill their agendas and grow their following.
 
 ### List of all Divine Spells:
 
@@ -26,7 +28,24 @@ Divine magic draws power from divine beings (good, evil, and indifferent), such 
 filters:
   and:
     - '!file.name.contains("(Legacy)")'
+formulas:
+  Spell: link(file, title)
+  titleasname: link(file, title)
+properties:
+  formula.titleasname:
+    displayName: Name
 views:
+  - type: table
+    name: 5e - Divine List; Choose Spell Level
+    filters:
+      and:
+        - dateitags.contains("#5e")
+        - dateitags.containsAny("#SpelllistDivine")
+    order:
+      - formula.titleasname
+      - description
+    columnSize:
+      formula.titleasname: 206
   - type: table
     name: 5e - Divine; All Spells
     filters:
@@ -34,7 +53,7 @@ views:
         - dateitags.containsAll("#Spell", "#5e")
         - zauberliste.contains("Divine")
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -47,15 +66,10 @@ views:
         direction: ASC
       - property: file.name
         direction: ASC
-    image: note.image
-    cardSize: 150
-    imageAspectRatio: 1
-    imageFit: contain
     columnSize:
-      file.name: 200
-      note.level: 49
-      note.time: 24
-      note.c: 24
+      note.level: 25
+      note.time: 25
+      note.c: 25
   - type: table
     name: 5e - Divine; Cantrips
     filters:
@@ -64,7 +78,7 @@ views:
         - zauberliste.contains("Divine")
         - level == 0
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -73,21 +87,14 @@ views:
       - save-Att
       - effect
     sort:
-      - property: school
-        direction: ASC
       - property: level
         direction: ASC
       - property: file.name
         direction: ASC
-    image: note.image
-    cardSize: 150
-    imageAspectRatio: 1
-    imageFit: contain
     columnSize:
-      file.name: 200
-      note.level: 49
+      note.level: 25
       note.time: 25
-      note.c: 24
+      note.c: 25
   - type: table
     name: 5e - Divine; 1st-level
     filters:
@@ -96,7 +103,7 @@ views:
         - zauberliste.contains("Divine")
         - level == 1
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -105,21 +112,14 @@ views:
       - save-Att
       - effect
     sort:
-      - property: school
-        direction: ASC
       - property: level
         direction: ASC
       - property: file.name
         direction: ASC
-    image: note.image
-    cardSize: 150
-    imageAspectRatio: 1
-    imageFit: contain
     columnSize:
-      file.name: 200
-      note.level: 49
-      note.time: 54
-      note.c: 24
+      note.level: 25
+      note.time: 25
+      note.c: 25
   - type: table
     name: 5e - Divine; 2nd-level
     filters:
@@ -128,7 +128,7 @@ views:
         - zauberliste.contains("Divine")
         - level == 2
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -137,21 +137,14 @@ views:
       - save-Att
       - effect
     sort:
-      - property: school
-        direction: ASC
       - property: level
         direction: ASC
       - property: file.name
         direction: ASC
-    image: note.image
-    cardSize: 150
-    imageAspectRatio: 1
-    imageFit: contain
     columnSize:
-      file.name: 200
-      note.level: 49
+      note.level: 25
       note.time: 25
-      note.c: 24
+      note.c: 25
   - type: table
     name: 5e - Divine; 3rd-level
     filters:
@@ -160,7 +153,7 @@ views:
         - zauberliste.contains("Divine")
         - level == 3
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -173,15 +166,10 @@ views:
         direction: ASC
       - property: file.name
         direction: ASC
-    image: note.image
-    cardSize: 150
-    imageAspectRatio: 1
-    imageFit: contain
     columnSize:
-      file.name: 200
-      note.level: 49
+      note.level: 25
       note.time: 25
-      note.c: 24
+      note.c: 25
   - type: table
     name: 5e - Divine; 4th-level
     filters:
@@ -190,7 +178,7 @@ views:
         - zauberliste.contains("Divine")
         - level == 4
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -203,15 +191,10 @@ views:
         direction: ASC
       - property: file.name
         direction: ASC
-    image: note.image
-    cardSize: 150
-    imageAspectRatio: 1
-    imageFit: contain
     columnSize:
-      file.name: 200
-      note.level: 49
+      note.level: 25
       note.time: 25
-      note.c: 24
+      note.c: 25
   - type: table
     name: 5e - Divine; 5th-level
     filters:
@@ -220,7 +203,7 @@ views:
         - zauberliste.contains("Divine")
         - level == 5
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -233,15 +216,10 @@ views:
         direction: ASC
       - property: file.name
         direction: ASC
-    image: note.image
-    cardSize: 150
-    imageAspectRatio: 1
-    imageFit: contain
     columnSize:
-      file.name: 200
-      note.level: 49
+      note.level: 25
       note.time: 25
-      note.c: 24
+      note.c: 25
   - type: table
     name: 5e - Divine; 6th-level
     filters:
@@ -250,7 +228,7 @@ views:
         - zauberliste.contains("Divine")
         - level == 6
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -263,15 +241,10 @@ views:
         direction: ASC
       - property: file.name
         direction: ASC
-    image: note.image
-    cardSize: 150
-    imageAspectRatio: 1
-    imageFit: contain
     columnSize:
-      file.name: 200
-      note.level: 49
+      note.level: 25
       note.time: 25
-      note.c: 24
+      note.c: 25
   - type: table
     name: 5e - Divine; 7th-level
     filters:
@@ -280,7 +253,7 @@ views:
         - zauberliste.contains("Divine")
         - level == 7
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -293,15 +266,10 @@ views:
         direction: ASC
       - property: file.name
         direction: ASC
-    image: note.image
-    cardSize: 150
-    imageAspectRatio: 1
-    imageFit: contain
     columnSize:
-      file.name: 200
-      note.level: 49
+      note.level: 25
       note.time: 25
-      note.c: 24
+      note.c: 25
   - type: table
     name: 5e - Divine; 8th-level
     filters:
@@ -310,7 +278,7 @@ views:
         - zauberliste.contains("Divine")
         - level == 8
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -323,15 +291,10 @@ views:
         direction: ASC
       - property: file.name
         direction: ASC
-    image: note.image
-    cardSize: 150
-    imageAspectRatio: 1
-    imageFit: contain
     columnSize:
-      file.name: 200
-      note.level: 49
+      note.level: 25
       note.time: 25
-      note.c: 24
+      note.c: 25
   - type: table
     name: 5e - Divine; 9th-level
     filters:
@@ -340,7 +303,7 @@ views:
         - zauberliste.contains("Divine")
         - level == 9
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -353,15 +316,10 @@ views:
         direction: ASC
       - property: file.name
         direction: ASC
-    image: note.image
-    cardSize: 150
-    imageAspectRatio: 1
-    imageFit: contain
     columnSize:
-      file.name: 200
-      note.level: 49
+      note.level: 25
       note.time: 25
-      note.c: 24
+      note.c: 25
 
 ```
 

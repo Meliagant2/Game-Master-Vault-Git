@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Bard
 description: A charismatic performer who uses their music as a conduit to wield powerful magic.
 created: 2026-07-31T10:15:39.250+02:00
-modified: 2026-09-17T07:58:35.355+02:00
-published: 2026-09-17T07:58:35.355+02:00
+modified: 2026-09-18T08:30:14.623+02:00
+published: 2026-09-18T08:30:14.623+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -113,16 +113,23 @@ filters:
   and:
     - dateitags.containsAll("#5e", "#Spell")
     - '!file.name.containsAny("Template", "(Legacy)")'
+formulas:
+  Spell: link(file, title)
+  titleasname: link(file, title)
+properties:
+  formula.titleasname:
+    displayName: Name
 views:
   - type: table
     name: 5e - Bard; Choose Spell Level
     filters:
       and:
-        - dateitags.contains("#5e")
-        - dateitags.containsAny("#SpelllistBard")
-    sort:
-      - property: file.name
-        direction: ASC
+        - dateitags.containsAny("#SpelllistArcane", "#SpelllistDivine", "#SpelllistOccult", "#SpelllistPrimal")
+    order:
+      - formula.titleasname
+      - description
+    columnSize:
+      formula.titleasname: 206
   - type: table
     name: 5e - Bard; All Spells
     filters:
@@ -141,7 +148,7 @@ views:
             - zauberliste.containsAny("Arcane")
             - school.containsAny("Transmutation")
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -154,15 +161,10 @@ views:
         direction: ASC
       - property: file.name
         direction: ASC
-    image: note.image
-    cardSize: 150
-    imageAspectRatio: 1
-    imageFit: contain
     columnSize:
-      file.name: 200
-      note.level: 49
-      note.time: 51
-      note.c: 24
+      note.level: 25
+      note.time: 25
+      note.c: 25
   - type: table
     name: 5e - Bard; Cantrips
     filters:
@@ -187,7 +189,7 @@ views:
             - school.containsAny("Divination", "Enchantment", "Illusion")
             - level == 0
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -200,16 +202,10 @@ views:
         direction: ASC
       - property: file.name
         direction: ASC
-    image: note.image
-    cardSize: 150
-    imageAspectRatio: 1
-    imageFit: contain
     columnSize:
-      file.name: 200
-      note.level: 49
-      note.school: 107
+      note.level: 25
       note.time: 25
-      note.c: 24
+      note.c: 25
   - type: table
     name: 5e - Bard; 1st-level
     filters:
@@ -234,7 +230,7 @@ views:
             - school.containsAny("Divination", "Enchantment", "Illusion")
             - level == 1
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -247,15 +243,10 @@ views:
         direction: ASC
       - property: file.name
         direction: ASC
-    image: note.image
-    cardSize: 150
-    imageAspectRatio: 1
-    imageFit: contain
     columnSize:
-      file.name: 200
-      note.level: 49
+      note.level: 25
       note.time: 25
-      note.c: 24
+      note.c: 25
   - type: table
     name: 5e - Bard; 2nd-level
     filters:
@@ -280,7 +271,7 @@ views:
             - school.containsAny("Divination", "Enchantment", "Illusion")
             - level == 2
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -293,15 +284,10 @@ views:
         direction: ASC
       - property: file.name
         direction: ASC
-    image: note.image
-    cardSize: 150
-    imageAspectRatio: 1
-    imageFit: contain
     columnSize:
-      file.name: 200
-      note.level: 49
+      note.level: 25
       note.time: 25
-      note.c: 24
+      note.c: 25
   - type: table
     name: 5e - Bard; 3rd-level
     filters:
@@ -326,7 +312,7 @@ views:
             - school.containsAny("Divination", "Enchantment", "Illusion")
             - level == 3
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -339,15 +325,10 @@ views:
         direction: ASC
       - property: file.name
         direction: ASC
-    image: note.image
-    cardSize: 150
-    imageAspectRatio: 1
-    imageFit: contain
     columnSize:
-      file.name: 200
-      note.level: 49
+      note.level: 25
       note.time: 25
-      note.c: 24
+      note.c: 25
   - type: table
     name: 5e - Bard; 4th-level
     filters:
@@ -372,7 +353,7 @@ views:
             - school.containsAny("Divination", "Enchantment", "Illusion")
             - level == 4
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -385,15 +366,10 @@ views:
         direction: ASC
       - property: file.name
         direction: ASC
-    image: note.image
-    cardSize: 150
-    imageAspectRatio: 1
-    imageFit: contain
     columnSize:
-      file.name: 200
-      note.level: 49
+      note.level: 25
       note.time: 25
-      note.c: 24
+      note.c: 25
   - type: table
     name: 5e - Bard; 5th-level
     filters:
@@ -402,7 +378,7 @@ views:
             - zauberliste.containsAny("Arcane", "Divine", "Primal", "Occult")
             - level == 5
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -415,15 +391,10 @@ views:
         direction: ASC
       - property: file.name
         direction: ASC
-    image: note.image
-    cardSize: 150
-    imageAspectRatio: 1
-    imageFit: contain
     columnSize:
-      file.name: 200
-      note.level: 49
+      note.level: 25
       note.time: 25
-      note.c: 24
+      note.c: 25
   - type: table
     name: 5e - Bard; 6th-level
     filters:
@@ -432,7 +403,7 @@ views:
             - zauberliste.containsAny("Arcane", "Divine", "Primal", "Occult", "Bard")
             - level == 6
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -445,15 +416,10 @@ views:
         direction: ASC
       - property: file.name
         direction: ASC
-    image: note.image
-    cardSize: 150
-    imageAspectRatio: 1
-    imageFit: contain
     columnSize:
-      file.name: 200
-      note.level: 49
+      note.level: 25
       note.time: 25
-      note.c: 24
+      note.c: 25
   - type: table
     name: 5e - Bard; 7th-level
     filters:
@@ -462,7 +428,7 @@ views:
             - zauberliste.containsAny("Arcane", "Divine", "Primal", "Occult", "Bard")
             - level == 7
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -475,15 +441,10 @@ views:
         direction: ASC
       - property: file.name
         direction: ASC
-    image: note.image
-    cardSize: 150
-    imageAspectRatio: 1
-    imageFit: contain
     columnSize:
-      file.name: 200
-      note.level: 49
+      note.level: 25
       note.time: 25
-      note.c: 24
+      note.c: 25
   - type: table
     name: 5e - Bard; 8th-level
     filters:
@@ -492,7 +453,7 @@ views:
             - zauberliste.containsAny("Arcane", "Divine", "Primal", "Occult", "Bard")
             - level == 8
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -505,15 +466,10 @@ views:
         direction: ASC
       - property: file.name
         direction: ASC
-    image: note.image
-    cardSize: 150
-    imageAspectRatio: 1
-    imageFit: contain
     columnSize:
-      file.name: 200
-      note.level: 49
+      note.level: 25
       note.time: 25
-      note.c: 24
+      note.c: 25
   - type: table
     name: 5e - Bard; 9th-level
     filters:
@@ -522,7 +478,7 @@ views:
             - zauberliste.containsAny("Arcane", "Divine", "Primal", "Occult", "Bard")
             - level == 9
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -535,15 +491,10 @@ views:
         direction: ASC
       - property: file.name
         direction: ASC
-    image: note.image
-    cardSize: 150
-    imageAspectRatio: 1
-    imageFit: contain
     columnSize:
-      file.name: 200
-      note.level: 49
+      note.level: 25
       note.time: 25
-      note.c: 24
+      note.c: 25
 
 ```
 

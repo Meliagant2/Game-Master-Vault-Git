@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Cleric
 description: A holy guardian that channels divine energies to both heal and harm in service to their higher power.
 created: 2026-07-20T12:11:02.541+02:00
-modified: 2026-09-17T11:51:19.702+02:00
-published: 2026-09-17T11:51:19.702+02:00
+modified: 2026-09-18T08:23:07.074+02:00
+published: 2026-09-18T08:23:07.074+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -140,16 +140,24 @@ Not every member of a temple or shrine is a Cleric. Some priests are called to a
 filters:
   and:
     - '!file.name.contains("(Legacy)")'
+formulas:
+  Spell: link(file, title)
+  titleasname: link(file, title)
+properties:
+  formula.titleasname:
+    displayName: Name
 views:
   - type: table
-    name: 5e - Cleric; Choose Spell Level
+    name: 5e - Divine List; Choose Spell Level
     filters:
       and:
         - dateitags.contains("#5e")
-        - dateitags.containsAny("#Spelllistdivine")
-    sort:
-      - property: file.name
-        direction: ASC
+        - dateitags.containsAny("#SpelllistDivine")
+    order:
+      - formula.titleasname
+      - description
+    columnSize:
+      formula.titleasname: 206
   - type: table
     name: 5e - Divine; All Spells
     filters:
@@ -157,7 +165,7 @@ views:
         - dateitags.containsAll("#Spell", "#5e")
         - zauberliste.contains("Divine")
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -177,7 +185,7 @@ views:
     columnSize:
       file.name: 200
       note.level: 49
-      note.time: 25
+      note.time: 24
       note.c: 24
   - type: table
     name: 5e - Divine; Cantrips
@@ -187,7 +195,7 @@ views:
         - zauberliste.contains("Divine")
         - level == 0
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -219,7 +227,7 @@ views:
         - zauberliste.contains("Divine")
         - level == 1
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -251,7 +259,7 @@ views:
         - zauberliste.contains("Divine")
         - level == 2
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -283,7 +291,7 @@ views:
         - zauberliste.contains("Divine")
         - level == 3
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -313,7 +321,7 @@ views:
         - zauberliste.contains("Divine")
         - level == 4
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -343,7 +351,7 @@ views:
         - zauberliste.contains("Divine")
         - level == 5
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -373,7 +381,7 @@ views:
         - zauberliste.contains("Divine")
         - level == 6
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -403,7 +411,7 @@ views:
         - zauberliste.contains("Divine")
         - level == 7
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -433,7 +441,7 @@ views:
         - zauberliste.contains("Divine")
         - level == 8
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -463,7 +471,7 @@ views:
         - zauberliste.contains("Divine")
         - level == 9
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
