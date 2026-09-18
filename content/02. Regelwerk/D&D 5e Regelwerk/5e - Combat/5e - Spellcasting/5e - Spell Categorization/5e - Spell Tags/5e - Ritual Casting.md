@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Ritual Casting
 created: 2026-08-11T12:15:07.759+02:00
-modified: 2026-09-16T15:08:19.575+02:00
-published: 2026-09-16T15:08:19.575+02:00
+modified: 2026-09-18T14:27:16.141+02:00
+published: 2026-09-18T14:27:16.141+02:00
 tags:
   - "#Combatrules"
   - "#5e"
@@ -135,7 +135,7 @@ views:
     columnSize:
       file.name: 200
       note.level: 49
-      note.time: 25
+      note.time: 27
       note.c: 24
   - type: table
     name: 5e - Rituals; 4th-level

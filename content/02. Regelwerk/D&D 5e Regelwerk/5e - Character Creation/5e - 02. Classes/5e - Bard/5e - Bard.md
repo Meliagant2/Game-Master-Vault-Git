@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Bard
 description: A charismatic performer who uses their music as a conduit to wield powerful magic.
 created: 2026-07-31T10:15:39.250+02:00
-modified: 2026-09-18T08:30:14.623+02:00
-published: 2026-09-18T08:30:14.623+02:00
+modified: 2026-09-18T15:43:25.825+02:00
+published: 2026-09-18T15:43:25.825+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -65,7 +65,7 @@ The greatest strength of bards is their sheer versatility. Many bards prefer to 
 > | **Saving Throw Proficiencies** | <u>Choose one proficiency of each A and B:</u> **(A)** Dexterity OR Wisdom; **(B)** Intelligence OR Charisma |
 > | **Skill Proficiencies**        | Choose any 3 Skills                                                                                          |
 > | **Tool Proficiencies**         | Choose any 3 Musical Instruments                                                                             |
-> | **Starting Equipment**         | <u>Choose A or B</u>: **(A)** 1 Light Armor, 2 Weapons, a Musical Instrument, 30 SP; **(B)** 150 SP          |
+> | **Starting Equipment**         | <u>Choose A or B</u>: **(A)** 1 Light Armor, 2 Simple Weapons, a Musical Instrument, Entertainer's Pack, 30 SP; **(B)** 150 SP          |
 
 ### Spellcaster Class
 
@@ -75,7 +75,7 @@ The greatest strength of bards is their sheer versatility. Many bards prefer to 
 **<u>Spell Attack:</u>** `CHA + Proficiency Bonus`
 **<u>Spell Save DC:</u>** `8 + CHA + Proficiency Bonus`
 **<u>Spell List:</u>** The Bard [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Lists/5e - Spell List Bard/5e - Spell List Bard|☄️Spell List]] includes all [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Divination/5e - School of Divination|☄️Divination]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Enchantment/5e - School of Enchantment|☄️Enchantment]] and [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Illusion/5e - School of Illusion|☄️Illusion]] spells from every [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Sources/5e - Spell Sources|☄️Spell Source]]. It also includes all [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - School of Abjuration|☄️School of Abjuration]] and [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Necromancy/5e - School of Necromancy|☄️School of Necromancy]] spells from the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Sources/5e - Divine Spell Source/5e - Divine Spell Source|☄️Divine Spell Source]], all [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Conjuration/5e - School of Conjuration|☄️Conjuration]] spells from the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Sources/5e - Occult Spell Source/5e - Occult Spell Source|☄️Occult Spell Source]], all [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Evocation/5e - School of Evocation|☄️Evocation]] spells from the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Sources/5e - Primal Spell Source/5e - Primal Spell Source|☄️Primal Spell Source]], and all [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Transmutation/5e - School of Transmutation|☄️Transmutation]] spells from the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Sources/5e - Arcane Spell Source/5e - Arcane Spell Source|☄️Arcane Spell Source]].
-**<u>Spell Slots:</u>** The Spellcaster Table shows how many Spell Slots you have to cast Spells. To cast one of these Spells, you must expend a Slot of the Spell’s level or higher. You regain all expended spell slots when you finish a Long Rest.
+**<u>Spell Slots:</u>** The Spellcaster Table shows how many Spell Slots you have to cast Spells. To cast one of these Spells, you must expend a Slot of the Spell’s level or higher. You regain all expended spell slots when you finish a **Long Rest**.
 **<u>Cantrips:</u>** Whenever you gain a Level in this Class, you can replace one of your cantrips with another cantrip of your choice from your Spell List.
 **<u>Spells:</u>** You prepare a number of spells from your Spell List as shown in your Class's the **Spellcaster Table**. Whenever you gain a Level in your Class, you can replace one of your prepared spells with another spell of your choice from your _Spell List_ for which you have _Spell Slots_.
 **<u>Spellcasting Focus Masteries:</u>** You can use the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spell Focus Mastery Properties/5e - Spell Focus Mastery Properties|🎩Spell Focus Mastery Properties]] of all [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spellcasting Focus|🎩Spellcasting Foci]] you are proficient in.
@@ -538,16 +538,16 @@ You gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. F
 
 Choose one Archetype, which represents you best. Your Archetpye grants you new abilities at 3rd, 7th, 11th, 15th, and 19th level.
 
-| Archetype                                                                                                                         | Description                                                                                                                |
-| --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Bard/5e - Dancer.md\|5e - Dancer]]                 | Dancers practice a way of being in harmony with the ever-whirling cosmos, emphasizing agility, speed, and grace.           |
-| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Bard/5e - Fortune Teller.md\|5e - Fortune Teller]] | Fortune Tellers use magic techniques like crystal balls, palm reading, or tarot cards to get a glimpse in someones future. |
-| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Bard/5e - Jester.md\|5e - Jester]]                 | -                                                                                                                         |
-| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Bard/5e - Playwright.md\|5e - Playwright]]         | -                                                                                                                         |
-| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Bard/5e - Skald.md\|5e - Skald]]                   | -                                                                                                                         |
-| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Bard/5e - Storyteller.md\|5e - Storyteller]]       | -                                                                                                                         |
-| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Bard/5e - Sword Juggler.md\|5e - Sword Juggler]]   | -                                                                                                                         |
-| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Bard/5e - Tempter.md\|5e - Tempter]]               | -                                                                                                                         |
+| Archetype                                              | Description                                                                                                                |
+| ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
+| [[🦸‍♀️5e - Dancer\|🦸‍♀️5e - Dancer]]                 | Dancers practice a way of being in harmony with the ever-whirling cosmos, emphasizing agility, speed, and grace.           |
+| [[🦸‍♀️5e - Fortune Teller\|🦸‍♀️5e - Fortune Teller]] | Fortune Tellers use magic techniques like crystal balls, palm reading, or tarot cards to get a glimpse in someones future. |
+| [[🦸‍♀️5e - XXX\|🦸‍♀️5e - XXX]]                       | -                                                                                                                         |
+| [[🦸‍♀️5e - XXX\|🦸‍♀️5e - XXX]]                       | -                                                                                                                         |
+| [[🦸‍♀️5e - XXX\|🦸‍♀️5e - XXX]]                       | -                                                                                                                         |
+| [[🦸‍♀️5e - XXX\|🦸‍♀️5e - XXX]]                       | -                                                                                                                         |
+| [[🦸‍♀️5e - XXX\|🦸‍♀️5e - XXX]]                       | -                                                                                                                         |
+| [[🦸‍♀️5e - XXX\|🦸‍♀️5e - XXX]]                       | -                                                                                                                         |
 
 <br>
 

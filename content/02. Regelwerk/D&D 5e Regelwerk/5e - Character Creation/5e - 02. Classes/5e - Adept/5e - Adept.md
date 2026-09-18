@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Adept
 description: A living weapon that hones their control over body and mind, and channels their unwavering focus to achieve amazing feats
 created: 2026-07-31T11:14:22.631+02:00
-modified: 2026-09-17T07:58:14.863+02:00
-published: 2026-09-17T07:58:14.863+02:00
+modified: 2026-09-18T15:43:16.571+02:00
+published: 2026-09-18T15:43:16.571+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -63,9 +63,9 @@ Adepts generally view adventures as tests of their physical and mental developme
 > | **Armor Training**             | Light Armor                                                                                                            |
 > | **Weapon Proficiencies**       | Simple, Martial                                                                                                        |
 > | **Saving Throw Proficiencies** | <u>Choose one proficiency of each A and B:</u> **(A)** Dexterity OR Wisdom; **(B)** Strength OR Intelligence |
-> | **Skill Proficiencies**        | <u>Choose 2:</u> Acrobatics, Athletics, History, Insight, Perception, Occultism, Religion, and Stealth                  |
+> | **Skill Proficiencies**        | <u>Choose 2:</u> Acrobatics, Athletics, Breaking, Culture, Endurance, History, Insight, Perception, Occultism, Religion, Stealth                  |
 > | **Tool Proficiencies**         | 1 set of Artisan's tools or Musical Instrument                                                               |
-> | **Starting Equipment**         | <u>Choose A or B</u>: **(A)** A Weapon, 10 darts, 10 SP; **(B)** 150 SP                                      |
+> | **Starting Equipment**         | <u>Choose A or B</u>: **(A)** Light Armor, A Weapon, 10 darts, Explorer's Pack, 10 SP; **(B)** 150 SP                                      |
 
 ### Martial Class
 
@@ -209,16 +209,16 @@ You gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. F
 
 Choose one Archetype, which represents you best. Your Archetpye grants you new abilities at 3rd, 7th, 11th, 15th, and 19th level.
 
-| Archetype                                                                                                                                | Description                              |
-| ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Battle Medic.md\|5e - Battle Medic]]           | -                                       |
-| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Drunken Master.md\|5e - Drunken Master]]       | -                                       |
-| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Elemental Bender.md\|5e - Elemental Bender]]   | -                                       |
-| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Gunner (Subclass).md\|5e - Gunner (Subclass)]] | -                                       |
-| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Kensei.md\|5e - Kensei]]                       | -                                       |
-| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Monk.md\|5e - Monk]]                           | -                                       |
-| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Pacifist.md\|5e - Pacifist]]                   | -                                       |
-| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Pugulist.md\|5e - Pugulist]]                   | Pugulists are masters of unarmed combat. |
+| Archetype                                  | Description                              |
+| ------------------------------------------ | ---------------------------------------- |
+| [[🦸‍♀️5e - XXX\|🦸‍♀️5e - XXX]]           | -                                       |
+| [[🦸‍♀️5e - XXX\|🦸‍♀️5e - XXX]]           | -                                       |
+| [[🦸‍♀️5e - XXX\|🦸‍♀️5e - XXX]]           | -                                       |
+| [[🦸‍♀️5e - XXX\|🦸‍♀️5e - XXX]]           | -                                       |
+| [[🦸‍♀️5e - XXX\|🦸‍♀️5e - XXX]]           | -                                       |
+| [[🦸‍♀️5e - XXX\|🦸‍♀️5e - XXX]]           | -                                       |
+| [[🦸‍♀️5e - XXX\|🦸‍♀️5e - XXX]]           | -                                       |
+| [[🦸‍♀️5e - Pugulist\|🦸‍♀️5e - Pugulist]] | Pugulists are masters of unarmed combat. |
 
 <br>
 

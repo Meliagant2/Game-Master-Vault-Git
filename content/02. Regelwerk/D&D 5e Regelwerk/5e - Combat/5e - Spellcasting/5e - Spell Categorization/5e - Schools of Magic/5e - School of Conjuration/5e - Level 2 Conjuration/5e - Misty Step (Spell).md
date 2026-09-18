@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Misty Step
 created: 2026-07-28T11:46:44.635+02:00
-modified: 2026-09-15T09:33:39.715+02:00
-published: 2026-09-15T09:33:39.715+02:00
+modified: 2026-09-18T11:38:59.689+02:00
+published: 2026-09-18T11:38:59.689+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -25,6 +25,7 @@ effect:
 zauberliste:
   - Arcane
   - Occult
+  - Primal
 ---
 
 Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Conjuration/5e - School of Conjuration|5e - School of Conjuration]].
@@ -42,7 +43,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
-> |**Spell List:**|Arcane,Occult |
+> |**Spell List:**|Arcane,Occult,Primal |
 > |**Effect:**|Teleportation |
 
 Briefly surrounded by silvery mist, you teleport up to <u>30 feet</u> to an unoccupied space you can _see_.

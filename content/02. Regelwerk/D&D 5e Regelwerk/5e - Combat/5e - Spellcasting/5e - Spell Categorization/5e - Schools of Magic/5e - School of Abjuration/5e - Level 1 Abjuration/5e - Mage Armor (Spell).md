@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Mage Armor
 created: 2026-07-30T11:49:01.586+02:00
-modified: 2026-09-07T12:29:16.282+02:00
-published: 2026-09-07T12:29:16.282+02:00
+modified: 2026-09-18T11:29:33.209+02:00
+published: 2026-09-18T11:29:33.209+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -43,7 +43,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane |
 
-You touch a willing Creature who isn’t wearing armor, and a protective magical force surrounds it until the Spell ends. The Target’s base [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Armor Class|🛡️AC]] becomes `13 + its DEX` modifier. The Spell ends if the Target dons armor or if you dismiss the Spell as an **Action**.
+You touch a willing Creature who isn’t wearing armor, and a protective magical force surrounds it until the Spell ends. The Target’s base [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Armor Class|🛡️AC]] becomes `13 + its DEX`. The Spell ends if the Target dons armor or if you dismiss the Spell as an **Action**.
 
 ## Quelle
 

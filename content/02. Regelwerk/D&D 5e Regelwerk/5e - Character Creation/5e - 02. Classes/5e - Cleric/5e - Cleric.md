@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Cleric
 description: A holy guardian that channels divine energies to both heal and harm in service to their higher power.
 created: 2026-07-20T12:11:02.541+02:00
-modified: 2026-09-18T08:23:07.074+02:00
-published: 2026-09-18T08:23:07.074+02:00
+modified: 2026-09-18T15:49:38.091+02:00
+published: 2026-09-18T15:49:38.091+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -60,7 +60,7 @@ Not every member of a temple or shrine is a Cleric. Some priests are called to a
 ## Class Table
 
 | Level | PB  |    HP    | Hit Die | Ability Increase | Channel Divinity | Features                                                                     |
-| :---: | :-: | :------: | :-----: | :--------------: | :--------------- | :--------------------------------------------------------------------------- |
+| :---: | :-: | :------: | :-----: | :--------------: | :--------------: | :--------------------------------------------------------------------------- |
 |  1st  | +2  | 6 + CON  |  +1d6   |                  | 1                | Divine Omen, Channel Divinity, Cleric Order                                  |
 |  2nd  | +2  | +4 + CON |  +1d6   |                  | 2                | Class Feat, General Feat, Skill Feat                                         |
 |  3rd  | +2  | +4 + CON |  +1d6   |                  | 2                | Archetype                                                                    |
@@ -91,9 +91,9 @@ Not every member of a temple or shrine is a Cleric. Some priests are called to a
 > | **Weapon Proficiencies**       |Simple                       |
 > | **Spellcasting Focus Proficiencies**|Holy Symbols and <u>one</u> Spellcasting Focus Category <u>of your choice</u>                   |
 > | **Saving Throw Proficiencies** |<u>Choose one proficiency of each A and B:</u> **(A)** Constitution OR Wisdom; **(B)** Intelligence OR Charisma                     |
-> | **Skill Proficiencies**        |<u>Choose 2:</u> History, Insight, Medicine, Persuasion, Occultism, Religion                       |
+> | **Skill Proficiencies**        |<u>Choose 2:</u> Culture, Endurance, History, Insight, Medicine, Persuasion, Occultism, Religion                       |
 > | **Tool Proficiencies**         |<u>Choose 1:</u> Herbalism Kit, an Artisan's Tool, a Musical Instrument                       |
-> | **Starting Equipment**         | <u>Choose A or B</u>: **(A)** ; **(B)** 150 SP                      |
+> | **Starting Equipment**         | <u>Choose A or B</u>: **(A)** 1 Light Armor, 1 Light Shield, 1 Simple Weapon, Holy Symbol, Priest's Pack, 7 SP; **(B)** 150 SP                      |
 
 ### Spellcaster Class
 
@@ -103,7 +103,7 @@ Not every member of a temple or shrine is a Cleric. Some priests are called to a
 **<u>Spell Attack:</u>** `WIS + Proficiency Bonus`
 **<u>Spell Save DC:</u>** `8 + WIS + Proficiency Bonus`
 **<u>Spell List:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Sources/5e - Divine Spell Source/5e - Divine Spell Source|☄️Divine Spell Source]]
-**<u>Spell Slots:</u>** The Spellcaster Table shows how many Spell Slots you have to cast Spells. To cast one of these Spells, you must expend a Slot of the Spell’s level or higher. You regain all expended spell slots when you finish a Long Rest.
+**<u>Spell Slots:</u>** The Spellcaster Table shows how many Spell Slots you have to cast Spells. To cast one of these Spells, you must expend a Slot of the Spell’s level or higher. You regain all expended spell slots when you finish a **Long Rest**.
 **<u>Cantrips:</u>** Whenever you gain a Level in this Class, you can replace one of your cantrips with another cantrip of your choice from your Spell List.
 **<u>Spells:</u>** You prepare a number of spells from your Spell List as shown in your Class's the **Spellcaster Table**. Whenever you finish a **Long Rest**, you can change your list of prepared spells, replacing any of the spells there with other Divine spells for which you have spell slots.
 **<u>Spellcasting Focus Masteries:</u>** You can use the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spell Focus Mastery Properties/5e - Spell Focus Mastery Properties|🎩Spell Focus Mastery Properties]] of all [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spellcasting Focus|🎩Spellcasting Foci]] you are proficient in.
@@ -159,7 +159,7 @@ views:
     columnSize:
       formula.titleasname: 206
   - type: table
-    name: 5e - Divine; All Spells
+    name: 5e - Cleric; All Spells
     filters:
       and:
         - dateitags.containsAll("#Spell", "#5e")
@@ -188,7 +188,7 @@ views:
       note.time: 24
       note.c: 24
   - type: table
-    name: 5e - Divine; Cantrips
+    name: 5e - Cleric; Cantrips
     filters:
       and:
         - dateitags.containsAll("#Spell", "#5e")
@@ -220,7 +220,7 @@ views:
       note.time: 25
       note.c: 24
   - type: table
-    name: 5e - Divine; 1st-level
+    name: 5e - Cleric; 1st-level
     filters:
       and:
         - dateitags.containsAll("#Spell", "#5e")
@@ -252,7 +252,7 @@ views:
       note.time: 54
       note.c: 24
   - type: table
-    name: 5e - Divine; 2nd-level
+    name: 5e - Cleric; 2nd-level
     filters:
       and:
         - dateitags.containsAll("#Spell", "#5e")
@@ -284,7 +284,7 @@ views:
       note.time: 25
       note.c: 24
   - type: table
-    name: 5e - Divine; 3rd-level
+    name: 5e - Cleric; 3rd-level
     filters:
       and:
         - dateitags.containsAll("#Spell", "#5e")
@@ -314,7 +314,7 @@ views:
       note.time: 25
       note.c: 24
   - type: table
-    name: 5e - Divine; 4th-level
+    name: 5e - Cleric; 4th-level
     filters:
       and:
         - dateitags.containsAll("#Spell", "#5e")
@@ -344,7 +344,7 @@ views:
       note.time: 25
       note.c: 24
   - type: table
-    name: 5e - Divine; 5th-level
+    name: 5e - Cleric; 5th-level
     filters:
       and:
         - dateitags.containsAll("#Spell", "#5e")
@@ -374,7 +374,7 @@ views:
       note.time: 25
       note.c: 24
   - type: table
-    name: 5e - Divine; 6th-level
+    name: 5e - Cleric; 6th-level
     filters:
       and:
         - dateitags.containsAll("#Spell", "#5e")
@@ -404,7 +404,7 @@ views:
       note.time: 25
       note.c: 24
   - type: table
-    name: 5e - Divine; 7th-level
+    name: 5e - Cleric; 7th-level
     filters:
       and:
         - dateitags.containsAll("#Spell", "#5e")
@@ -434,7 +434,7 @@ views:
       note.time: 25
       note.c: 24
   - type: table
-    name: 5e - Divine; 8th-level
+    name: 5e - Cleric; 8th-level
     filters:
       and:
         - dateitags.containsAll("#Spell", "#5e")
@@ -464,7 +464,7 @@ views:
       note.time: 25
       note.c: 24
   - type: table
-    name: 5e - Divine; 9th-level
+    name: 5e - Cleric; 9th-level
     filters:
       and:
         - dateitags.containsAll("#Spell", "#5e")
@@ -563,14 +563,14 @@ You gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. F
 
 Choose one Archetype, which represents you best. Your Archetpye grants you new abilities at 3rd, 7th, 11th, 15th, and 19th level.
 
-| Archetype                                                                                                                   | Description                                                                                                                                                                                                                                 |
-| --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Cleric/5e - Apostle.md\|5e - Apostle]]       | Apostles are devout Clerics who believe themselves to follow a divine purpose in the world. They follow their doctrine with zealous fervour.                                                                                                |
-| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Cleric/5e - Dissembler.md\|5e - Dissembler]] | Dissemblers hide their true religious feelings or identity under a false appearance. This might be because they fear persecution, feel unsure about their belief, or are scared to be judged by allies and friends for their faith.         |
-| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Cleric/5e - Priest.md\|5e - Priest]]         | Priests specialize in healing those in need and helping those weaker than themselves. Priests promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath. |
-| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Cleric/5e - Prophet.md\|5e - Prophet]]       | Prophets sometimes receive visions directly from their deity and receive fleeting omens of the future. They share impossible knowledge with their allies and prophesize their enemies' doom.                                                |
-| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Cleric/5e - Undertaker.md\|5e - Undertaker]] | Death must be respected, for death comes to us all. Undertakers walk the veil between life and death on a daily basis, putting death at a hold, where life is needed and ending life, that should have ended long ago.                      |
-| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Cleric/5e - Vicar.md\|5e - Vicar]]           | A Vicar's life is a life of strictness and devotion. They excel at reason and persuasion.                                                                                                                                                   |
+| Archetype                                      | Description                                                                                                                                                                                                                                 |
+| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[🦸‍♀️5e - Apostle\|🦸‍♀️5e - Apostle]]       | Apostles are devout Clerics who believe themselves to follow a divine purpose in the world. They follow their doctrine with zealous fervour.                                                                                                |
+| [[🦸‍♀️5e - Dissembler\|🦸‍♀️5e - Dissembler]] | Dissemblers hide their true religious feelings or identity under a false appearance. This might be because they fear persecution, feel unsure about their belief, or are scared to be judged by allies and friends for their faith.         |
+| [[🦸‍♀️5e - Priest\|🦸‍♀️5e - Priest]]         | Priests specialize in healing those in need and helping those weaker than themselves. Priests promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath. |
+| [[🦸‍♀️5e - Prophet\|🦸‍♀️5e - Prophet]]       | Prophets sometimes receive visions directly from their deity and receive fleeting omens of the future. They share impossible knowledge with their allies and prophesize their enemies' doom.                                                |
+| [[🦸‍♀️5e - Undertaker\|🦸‍♀️5e - Undertaker]] | Death must be respected, for death comes to us all. Undertakers walk the veil between life and death on a daily basis, putting death at a hold, where life is needed and ending life, that should have ended long ago.                      |
+| [[🦸‍♀️5e - Vicar\|🦸‍♀️5e - Vicar]]           | A Vicar's life is a life of strictness and devotion. They excel at reason and persuasion.                                                                                                                                                   |
 
 <br>
 

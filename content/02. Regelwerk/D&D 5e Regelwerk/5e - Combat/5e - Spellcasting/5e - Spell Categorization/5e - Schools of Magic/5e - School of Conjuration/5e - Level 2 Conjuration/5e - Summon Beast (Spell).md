@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Summon Beast
 created: 2026-09-08T14:15:27.167+02:00
-modified: 2026-09-15T10:01:37.481+02:00
-published: 2026-09-15T10:01:37.481+02:00
+modified: 2026-09-18T10:23:35.670+02:00
+published: 2026-09-18T10:23:35.670+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -44,7 +44,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Spell List:**|Primal |
 > |**Effect:**|Summoning |
 
-You call forth a bestial spirit. It manifests in an unoccupied space that you can see within range and uses the [[02. Regelwerk/D&D 5e Regelwerk/5e - Monster Rules/5e - Bestiary/5e - Creatures by Type/5e - Bestiary; Summons/5e - Bestial Spirit|🐺Bestial Spirit]] stat block. When you cast the spell, choose an environment: Air, Land, or Water. The creature resembles an animal of your choice that is native to the chosen environment, which determines certain details in its stat block. The creature disappears when it drops to `0` [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|💖Hit Points]] or when the spell ends.
+You call forth a bestial spirit. It manifests in an unoccupied space that you can see within range and uses the [[02. Regelwerk/D&D 5e Regelwerk/5e - Monster Rules/5e - Bestiary/5e - Creatures by Type/5e - Bestiary; Summons/5e - Bestial Spirit|🐺Bestial Spirit]] stat block. When you cast the spell, choose an environment: _Air_, _Land_, or _Water_. The creature resembles an animal of your choice that is native to the chosen environment, which determines certain details in its stat block. The creature disappears when it drops to `0` [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|💖Hit Points]] or when the spell ends.
 
 The creature is an ally to you and your allies. In combat, the creature shares your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Initiative|🎲Initiative]] count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Dodge|⚔️Dodge]] action and uses its movement to avoid danger.
 

@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Fighter
 description: A master of martial techniques with expertise in a wide variety of weapons and combat maneuvers.
 created: 2026-07-31T11:11:41.436+02:00
-modified: 2026-09-17T07:58:04.372+02:00
-published: 2026-09-17T07:58:04.372+02:00
+modified: 2026-09-18T15:43:41.747+02:00
+published: 2026-09-18T15:43:41.747+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -62,9 +62,9 @@ Some fighters feel drawn to use their training as adventurers. The dungeon delvi
 > | **Armor Training**             | Light Armor, Medium Armor, Heavy Armor, Light Shields, Medium Shields, Heavy Shields|
 > | **Weapon Proficiencies**       | Simple, Martial                                                                                                            |
 > | **Saving Throw Proficiencies** | <u>Choose one proficiency of each A and B:</u> **(A)** Dexterity OR Constitution, **(B)** Strength OR Intelligence         |
-> | **Skill Proficiencies**        | <u>Choose 2:</u> Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, Stealth, and Survival |
+> | **Skill Proficiencies**        | <u>Choose 2:</u> Acrobatics, Animal Handling, Athletics, Breaking, Endurance, History, Hold Breath, Insight, Intimidation, Perception, Revelry, Stealth, Survival |
 > | **Tool Proficiencies**         | 1 set of Artisan's tools                                                                                                   |
-> | **Starting Equipment**         | <u>Choose A or B</u>: **(A)** 1 Armor worth less than 150 SP, a Shield, 2 Weapons, 10 SP;   **(B)** 150 SP                 |
+> | **Starting Equipment**         | <u>Choose A or B</u>: **(A)** 1 Armor worth less than 150 SP, a Shield, 2 Weapons, Dungoneer's Pack, 10 SP;   **(B)** 150 SP                 |
 
 ### Martial Class
 
@@ -195,16 +195,16 @@ You gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. F
 
 Choose one Archetype, which represents you best. Your Archetpye grants you new abilities at 3rd, 7th, 11th, 15th, and 19th level.
 
-| Archetype                                                                                                                      | Description                                                                                                                                                                        |
-| ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Fighter/5e - Corsair.md\|5e - Corsair]]         | -                                                                                                                                                                                 |
-| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Fighter/5e - Defender.md\|5e - Defender]]       | -                                                                                                                                                                                 |
-| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Fighter/5e - Hero.md\|5e - Hero]]               | -                                                                                                                                                                                 |
-| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Fighter/5e - Knight.md\|5e - Knight]]           | -                                                                                                                                                                                 |
-| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Fighter/5e - Marksman.md\|5e - Marksman]]       | -                                                                                                                                                                                 |
-| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Fighter/5e - Rune Knight.md\|5e - Rune Knight]] | -                                                                                                                                                                                 |
-| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Fighter/5e - Sentinel.md\|5e - Sentinel]]       | -                                                                                                                                                                                 |
-| [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Fighter/5e - Soldier.md\|5e - Soldier]]         | Soldiers are battlefield hardened Fighters, who earn their living by fighting in wars. They could be mercenaries, men-at-arms, or unlucky peasants, who were drafted into an army. |
+| Archetype                                | Description                                                                                                                                                                        |
+| ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[🦸‍♀️5e - XXX\|🦸‍♀️5e - XXX]]         | -                                                                                                                                                                                 |
+| [[🦸‍♀️5e - XXX\|🦸‍♀️5e - XXX]]         | -                                                                                                                                                                                 |
+| [[🦸‍♀️5e - XXX\|🦸‍♀️5e - XXX]]         | -                                                                                                                                                                                 |
+| [[🦸‍♀️5e - XXX\|🦸‍♀️5e - XXX]]         | -                                                                                                                                                                                 |
+| [[🦸‍♀️5e - XXX\|🦸‍♀️5e - XXX]]         | -                                                                                                                                                                                 |
+| [[🦸‍♀️5e - XXX\|🦸‍♀️5e - XXX]]         | -                                                                                                                                                                                 |
+| [[🦸‍♀️5e - XXX\|🦸‍♀️5e - XXX]]         | -                                                                                                                                                                                 |
+| [[🦸‍♀️5e - Soldier\|🦸‍♀️5e - Soldier]] | Soldiers are battlefield hardened Fighters, who earn their living by fighting in wars. They could be mercenaries, men-at-arms, or unlucky peasants, who were drafted into an army. |
 
 <br>
 
@@ -323,4 +323,5 @@ You gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. F
 ## Inspiration/Quelle
 
 > [!inspiration] Inspiration/Quelle
-> **Class Artwork:** Nèstor Ossandón Leal; Class Artwork Monk D\&D5e 2024 Player's Handbook
+> **Class Artwork:** Nèstor Ossandón Leal; Class Artwork Fighter D\&D5e 2024 Player's Handbook
+> **Class Features:** Player's Handbook 2024; A5e; DC 20; Self

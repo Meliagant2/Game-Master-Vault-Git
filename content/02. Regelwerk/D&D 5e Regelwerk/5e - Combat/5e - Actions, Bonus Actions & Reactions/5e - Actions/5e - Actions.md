@@ -1,9 +1,9 @@
 ---
 publish: true
-title: ☠️5e - Actions
+title: ⚔️5e - Actions
 created: 2026-07-21T10:52:09.207+02:00
-modified: 2026-08-20T08:55:53.199+02:00
-published: 2026-08-20T08:55:53.199+02:00
+modified: 2026-09-18T10:33:57.597+02:00
+published: 2026-09-18T10:33:57.597+02:00
 tags:
   - "#Action"
   - "#5e"
@@ -13,7 +13,7 @@ dateitags:
 status: ✅
 ---
 
-# ☠️5e - Actions☠️
+# ⚔️5e - Actions⚔️
 
 This glossary contains all Actions:
 

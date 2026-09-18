@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Sleep
 created: 2026-07-23T12:10:07.877+02:00
-modified: 2026-09-09T09:45:30.671+02:00
-published: 2026-09-09T09:45:30.671+02:00
+modified: 2026-09-18T15:00:18.730+02:00
+published: 2026-09-18T15:00:18.730+02:00
 tags:
   - "#Spell"
   - "#5e"

@@ -2,8 +2,8 @@
 publish: true
 title: 🎩5e - Censer
 created: 2026-08-31T10:45:57.451+02:00
-modified: 2026-09-04T10:34:26.412+02:00
-published: 2026-09-04T10:34:26.412+02:00
+modified: 2026-09-18T10:12:57.354+02:00
+published: 2026-09-18T10:12:57.354+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -24,7 +24,9 @@ damagetype:
 properties:
   - Reach [10 ft.]
   - Two-Handed
-mastery: Channel
+mastery:
+  - Channel
+  - Muffle
 weight: 2 kg
 cost: 10 SP
 costsorting: 2
@@ -43,7 +45,7 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 > |**Category** |Censer |
 > |**Damage** |1d4 Poison |
 > |**Properties** |Reach \[10 ft.],Two-Handed |
-> |**Mastery** |Channel |
+> |**Mastery** |Channel,Muffle |
 > |**Attunement** |  |
 > |**Weight** |2 kg |
 > |**Cost** |10 SP |

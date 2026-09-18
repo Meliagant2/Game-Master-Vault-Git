@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Invisibility
 created: 2026-07-20T12:11:02.794+02:00
-modified: 2026-09-09T10:55:00.479+02:00
-published: 2026-09-09T10:55:00.479+02:00
+modified: 2026-09-18T15:02:18.326+02:00
+published: 2026-09-18T15:02:18.326+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -45,7 +45,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Spell List:**|Arcane,Occult |
 > |**Effect:**|Invisible |
 
-A creature you touch has the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Invisible|☠️Invisible]] condition until the spell ends. The spell ends early immediately after the target makes an [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack Roll]], deals [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Damage/5e - Damage|💔Damage]], or takes the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Magic Action|⚔️Magic]] action.
+A creature you touch has the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Invisible|☠️Invisible]] condition until the spell ends. The spell ends early immediately after the target makes an [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack Roll]], deals [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Damage/5e - Damage|💔Damage]], casts a spell, or takes the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Magic Action|⚔️Magic]] action.
 
 **<u>Using a Higher-Level Spell Slot:</u>** You can target one additional creature for each spell slot level above 2.
 
