@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Speak with Dead
 created: 2026-09-14T15:31:12.905+02:00
-modified: 2026-09-14T15:33:17.725+02:00
-published: 2026-09-14T15:33:17.725+02:00
+modified: 2026-09-21T08:56:57.195+02:00
+published: 2026-09-21T08:56:57.195+02:00
 tags:
   - "#Spell"
   - "#5e"

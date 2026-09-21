@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 👁️5e - Magical Darkvision👁️
+title: 👁️5e - Magical Darkvision
 created: 2026-07-28T14:28:37.482+02:00
-modified: 2026-07-29T08:11:21.655+02:00
-published: 2026-07-29T08:11:21.655+02:00
+modified: 2026-09-21T10:15:50.855+02:00
+published: 2026-09-21T10:15:50.855+02:00
 tags:
   - "#Charaktererstellung"
   - "#Grundregeln"

@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Warlock
 description: A spellslinger who obtained arcane powers through an eldritch bargain with an otherworldly entity.
 created: 2026-07-20T12:11:02.600+02:00
-modified: 2026-09-18T15:42:58.676+02:00
-published: 2026-09-18T15:42:58.676+02:00
+modified: 2026-09-21T10:54:41.934+02:00
+published: 2026-09-21T10:54:41.934+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -65,19 +65,19 @@ Once a pact is made, a Warlock's thirst for knowledge and power can't be slaked 
 |  2nd  | +2  | +5 + CON |  +1d8   |                  | Class Feat, General Feat, Skill Feat                             |
 |  3rd  | +2  | +5 + CON |  +1d8   |                  | Archetype                                                        |
 |  4th  | +2  | +5 + CON |  +1d8   |   +1 (max +4)    | Class Feat, General Feat, Skill Feat                             |
-|  5th  | +3  | +5 + CON |  +1d8   |                  | Pact Keeper, Secrets of Arcana                                   |
+|  5th  | +3  | +5 + CON |  +1d8   |                  | Pact Keeper, Warlock Class Feat                                  |
 |  6th  | +3  | +5 + CON |  +1d8   |                  | Class Feat, General Feat, Skill Feat                             |
 |  7th  | +3  | +5 + CON |  +1d8   |                  | Archetype Feature                                                |
 |  8th  | +3  | +5 + CON |  +1d8   |   +1 (max +5)    | Class Feat, General Feat, Skill Feat                             |
-|  9th  | +4  | +5 + CON |  +1d8   |                  | Great Pact Boon                                                  |
+|  9th  | +4  | +5 + CON |  +1d8   |                  | Great Pact Boon, Warlock Class Feat                              |
 | 10th  | +4  | +5 + CON |  +1d8   |                  | Class Feat, General Feat, Skill Feat                             |
 | 11th  | +4  | +5 + CON |  +1d8   |                  | Archetype Feature, Mystic Arcanum (6th)                          |
 | 12th  | +4  | +5 + CON |  +1d8   |   +1 (max +5)    | Class Feat, General Feat, Skill Feat                             |
-| 13th  | +5  | +5 + CON |  +1d8   |                  | Mystic Arcanum (7th)                                             |
+| 13th  | +5  | +5 + CON |  +1d8   |                  | Mystic Arcanum (7th), Warlock Class Feat                         |
 | 14th  | +5  | +5 + CON |  +1d8   |                  | Class Feat, General Feat, Skill Feat                             |
 | 15th  | +5  | +5 + CON |  +1d8   |                  | Archetype Feature, Mystic Arcanum (8th)                          |
 | 16th  | +5  | +5 + CON |  +1d8   |   +1 (max +5)    | Class Feat, General Feat, Skill Feat                             |
-| 17th  | +6  | +5 + CON |  +1d8   |                  | Mystic Arcanum (9th)                                             |
+| 17th  | +6  | +5 + CON |  +1d8   |                  | Mystic Arcanum (9th), Warlock Class Feat                         |
 | 18th  | +6  | +5 + CON |  +1d8   |                  | Class Feat, General Feat, Skill Feat                             |
 | 19th  | +6  | +5 + CON |  +1d8   |                  | Archetype Feature                                                |
 | 20th  | +6  | +5 + CON |  +1d8   |   +1 (max +6)    | Eldritch Master, Epic Boon, Class Feat, General Feat, Skill Feat |
@@ -489,9 +489,10 @@ You gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. F
 
 Choose one Archetype, which represents you best. Your Archetpye grants you new abilities at 3rd, 7th, 11th, 15th, and 19th level.
 
-| Archetype                                              | Description                                                                                                                 |
-| ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
-| [[🦸‍♀️5e - Archfey Patron\|🦸‍♀️5e - Archfey Patron]] | Your pact draws on the power of the realm of the Fey. When you choose this subclass, you might make a deal with an archfey. |
+| Archetype                                              | Description                                                                                                                           |
+| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
+| [[🦸‍♀️5e - Archfey Patron\|🦸‍♀️5e - Archfey Patron]] | Your pact draws on the power of the realm of the Fey. When you choose this subclass, you might make a deal with an archfey.           |
+| [[🦸‍♀️5e - Undead Patron\|🦸‍♀️5e - Undead Patron]]   | You've made a pact with a creature that defies the cycle of life and death: a powerful lich, a vampire, or another entity of undeath. |
 
 <br>
 
@@ -503,13 +504,13 @@ You gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. F
 
 You gain the following benefits, depending on your **Pact Boon**:
 
-#### Blasphemous Prayer
+#### Far Scribe
 
-Your **Book of Shadows** gains the following benefits:
+A new page appears in your **Book of Shadows**. With your permission, a creature can take an **Action** to write its name on that page, which can contain a number of names equal to `your Spellcasting Ability (minimum of 1)`.
 
-**<u>Rituals:</u>** Choose <u>three</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Tags/5e - Ritual Casting|☄️Ritual]] spells of level 3 or lower. The spells can be from any [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Sources/5e - Spell Sources|☄️Spell Source]], and they must be spells you don't already have prepared. While the book is on your person, you have the chosen spells prepared, and they function as _Warlock spells_ for you.
+You can cast the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Divination/5e - Level 3 Divination/5e - Sending (Spell)|☄️Sending]] spell, targeting a creature whose name is on the page, without using a spell slot and without using [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Components/5e - Material Components|☄️Material]] components. To do so, you must write the message on the page. The target hears the message in their mind, and if the target replies, their message appears on the page, rather than in your mind. The writing disappears after <u>1 minute</u>.
 
-**<u>Spells:</u>** Choose <u>two</u> spells of level 3 or lower. The spells can be from any [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Sources/5e - Spell Sources|☄️Spell Source]], and they must be spells you don't already have prepared. While the book is on your person, you have the chosen spells prepared, and they function as _Warlock spells_ for you.
+As a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Magic Action|⚔️Magic]] action, you can erase a name on the page by touching it.
 
 #### Investment of the Chain Master
 
@@ -533,37 +534,9 @@ When you cast [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e 
 
 When you take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Attack Action|⚔️Attack]] action on your turn, using your **Pact Weapon**, you can [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack]] twice with the weapon.
 
-### Level 5: Secrets of Arcana
+### Level 5: Warlock Class Feat
 
-You gain <u>one</u> **Secret of Arcana** of your choice:
-
-#### Armor of Shadows
-
-You are under the constant effects of the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - Level 1 Abjuration/5e - Mage Armor (Spell)|☄️Mage Armor]] spell. This effect does not emit a magical aura.
-
-#### Beast Speech
-
-You are under the constant effects of the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Divination/5e - Level 1 Divination/5e - Speak with Animals (Spell)|☄️Speak with Animals]] spell. This effect does not emit a magical aura.
-
-#### Devil's Sight
-
-You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Senses/5e - Magical Darkvision|☄️Magical Darkvision]] within <u>120 feet</u>.
-
-#### Eyes of the Rune Keeper
-
-The irises of your eyes are ringed with glowing elder runes. You can read and understand any written words, symbols, or scripts as if they were written in your native tongue.
-
-#### Inscrutability
-
-You are under the constant effects of the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - Level 3 Abjuration/5e - Nondetection (Spell)|☄️Nondetection]] spell. This effect does not emit a magical aura.
-
-#### Otherworldly Leap
-
-You are under the constant effects of the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Transmutation/5e - Level 1 Transmutation/5e - Jump (Spell)|☄️Jump]] spell. This effect does not emit a magical aura.
-
-#### Whispers of the Grave
-
-You always have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Divination/5e - Level 3 Divination/5e - Speak with Dead (Spell)|☄️Speak with Dead]] spell prepared.
+You gain one _Warlock_ [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats|🥇Class Feat]], for which you qualify. For the purpose of this feature, you also qualify for _Warlock_ [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats|🥇Class Feats]] that require you to be level 6.
 
 ### Level 6: Feats
 
@@ -587,7 +560,7 @@ At the end of a **Long Rest**, choose one level 1 or higher _Warlock spell_ you 
 
 #### Gift of the Protectors
 
-A new page appears in your **Book of Shadows** when you conjure it. With your permission, a creature can take an **Action** to write its name on that page, which can contain a number of names equal to `your Spellcasting Ability (minimum of 1)`.
+A new page appears in your **Book of Shadows**. With your permission, a creature can take an **Action** to write its name on that page, which can contain a number of names equal to `your Spellcasting Ability (minimum of 1)`.
 
 When any creature whose name is on the page is reduced to `0` [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|💖Hit Points]] but not killed outright, the creature magically drops to `1` [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|💖Hit Point]] instead. <u>Once</u> this magic is triggered, no creature can benefit from it until you finish a **Long Rest**.
 
@@ -597,9 +570,9 @@ As a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & 
 
 <u>Once per turn</u> when you _**hit**_ a creature with your **Pact Weapon**, you can deal an extra `1d6` <u>Necrotic</u>, <u>Psychic</u>, or <u>Radiant</u> damage (your choice) to the creature, and you can expend one of your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Dice|💖Hit Dice]] to roll it and regain a number of [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|💖Hit Points]] equal to `the roll + your CON (minimum of 1 Hit Point)`.
 
-#### Secrets of Arcana
+### Level 9: Warlock Class Feat
 
-You gain another **Secret of Arcana**, available at level 5.
+You gain one _Warlock_ [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats|🥇Class Feat]], for which you qualify.
 
 ### Level 10: Feats
 
@@ -627,9 +600,9 @@ You gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. F
 
 You gain a level 7 [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Sources/5e - Occult Spell Source/5e - Occult Spell Source|☄️Occult]] of your choice as your **Arcanum**.
 
-#### Secrets of Arcana
+### Level 13: Warlock Class Feat
 
-You gain another **Secret of Arcana**, available at level 5.
+You gain one _Warlock_ [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats|🥇Class Feat]], for which you qualify.
 
 ### Level 14: Feats
 
@@ -651,9 +624,9 @@ You gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. F
 
 You gain a level 9 [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Sources/5e - Occult Spell Source/5e - Occult Spell Source|☄️Occult]] of your choice as your **Arcanum**.
 
-#### Secrets of Arcana
+### Level 17: Warlock Class Feat
 
-You gain another **Secret of Arcana**, available at level 5.
+You gain one _Warlock_ [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats|🥇Class Feat]], for which you qualify.
 
 ### Level 18: Feats
 
@@ -671,7 +644,7 @@ You master your eldritch magic. You gain the following benefits:
 
 **<u>Mystic Arcanum:</u>** You can cast both your level 6 and 7 **Arcanum** spells <u>twice</u> without expending a spell slot, and you must finish a **Long Rest** before you can cast them again.
 
-**<u>Secrets of Arcana:</u>** You gain another **Secret of Arcana**, available at level 5.
+**<u>Warlock Class Feat:</u>** You gain one _Warlock_ [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats|🥇Class Feat]], for which you qualify.
 
 ### Level 20: Feats
 

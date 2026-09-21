@@ -3,8 +3,8 @@ publish: true
 title: 🥇5e - Epic Boon Feats
 description: The most powerful of Feats, only available at 20th level.
 created: 2026-08-04T09:29:15.695+02:00
-modified: 2026-09-04T08:38:07.469+02:00
-published: 2026-09-04T08:38:07.469+02:00
+modified: 2026-09-21T08:13:06.661+02:00
+published: 2026-09-21T08:13:06.661+02:00
 tags:
   - "#Charaktererstellung"
   - "#5e"
@@ -21,16 +21,22 @@ An epic boon is a special power available only to <u>20th level</u> characters, 
 ### All Epic Boon Feats
 
 ```base
+filters:
+  and:
+    - '!file.name.containsAny("(Legacy)", "Template")'
+    - dateitags.containsAll("#5e", "#Feat")
+    - category.containsAny("Epic Boon")
+formulas:
+  Feat: link(file, title)
+  titleasname: link(file, title)
+properties:
+  formula.titleasname:
+    displayName: Name
 views:
   - type: table
     name: 5e - Epic Boon Feats
-    filters:
-      and:
-        - dateitags.containsAll("#5e", "#Feat")
-        - '!file.name.contains("Template")'
-        - category.contains("Epic Boon")
     order:
-      - file.name
+      - formula.Feat
       - category
       - level
       - prerequisite
@@ -44,7 +50,7 @@ views:
         direction: ASC
     columnSize:
       file.name: 243
-      note.level: 11
+      note.level: 30
       note.prerequisite: 144
       note.repeatable: 34
 

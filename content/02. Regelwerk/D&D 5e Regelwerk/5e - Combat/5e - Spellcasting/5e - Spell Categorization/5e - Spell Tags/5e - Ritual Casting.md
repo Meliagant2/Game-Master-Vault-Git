@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Ritual Casting
 created: 2026-08-11T12:15:07.759+02:00
-modified: 2026-09-18T14:27:16.141+02:00
-published: 2026-09-18T14:27:16.141+02:00
+modified: 2026-09-21T08:01:16.644+02:00
+published: 2026-09-21T08:01:16.644+02:00
 tags:
   - "#Combatrules"
   - "#5e"
@@ -27,11 +27,18 @@ filters:
   and:
     - effect.containsAny("Ritual")
     - dateitags.containsAll("#Spell", "#5e")
+    - '!file.name.contains("(Legacy)")'
+formulas:
+  Spell: link(file, title)
+  titleasname: link(file, title)
+properties:
+  formula.titleasname:
+    displayName: Name
 views:
   - type: table
     name: 5e - Rituals; All Spells
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -44,22 +51,17 @@ views:
         direction: ASC
       - property: file.name
         direction: ASC
-    image: note.image
-    cardSize: 150
-    imageAspectRatio: 1
-    imageFit: contain
     columnSize:
-      file.name: 200
-      note.level: 49
-      note.time: 75
-      note.c: 24
+      note.level: 25
+      note.time: 25
+      note.c: 25
   - type: table
     name: 5e - Rituals; 1st-level
     filters:
       and:
         - level == 1
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -72,22 +74,17 @@ views:
         direction: ASC
       - property: file.name
         direction: ASC
-    image: note.image
-    cardSize: 150
-    imageAspectRatio: 1
-    imageFit: contain
     columnSize:
-      file.name: 200
-      note.level: 49
+      note.level: 25
       note.time: 25
-      note.c: 24
+      note.c: 25
   - type: table
     name: 5e - Rituals; 2nd-level
     filters:
       and:
         - level == 2
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -100,22 +97,17 @@ views:
         direction: ASC
       - property: file.name
         direction: ASC
-    image: note.image
-    cardSize: 150
-    imageAspectRatio: 1
-    imageFit: contain
     columnSize:
-      file.name: 200
-      note.level: 49
+      note.level: 25
       note.time: 25
-      note.c: 24
+      note.c: 25
   - type: table
     name: 5e - Rituals; 3rd-level
     filters:
       and:
         - level == 3
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -128,22 +120,17 @@ views:
         direction: ASC
       - property: file.name
         direction: ASC
-    image: note.image
-    cardSize: 150
-    imageAspectRatio: 1
-    imageFit: contain
     columnSize:
-      file.name: 200
-      note.level: 49
-      note.time: 27
-      note.c: 24
+      note.level: 25
+      note.time: 25
+      note.c: 25
   - type: table
     name: 5e - Rituals; 4th-level
     filters:
       and:
         - level == 4
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -156,22 +143,17 @@ views:
         direction: ASC
       - property: file.name
         direction: ASC
-    image: note.image
-    cardSize: 150
-    imageAspectRatio: 1
-    imageFit: contain
     columnSize:
-      file.name: 200
-      note.level: 49
+      note.level: 25
       note.time: 25
-      note.c: 24
+      note.c: 25
   - type: table
     name: 5e - Rituals; 5th-level
     filters:
       and:
         - level == 5
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -184,22 +166,17 @@ views:
         direction: ASC
       - property: file.name
         direction: ASC
-    image: note.image
-    cardSize: 150
-    imageAspectRatio: 1
-    imageFit: contain
     columnSize:
-      file.name: 200
-      note.level: 49
+      note.level: 25
       note.time: 25
-      note.c: 24
+      note.c: 25
   - type: table
     name: 5e - Rituals; 6th-level
     filters:
       and:
         - level == 6
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -212,22 +189,17 @@ views:
         direction: ASC
       - property: file.name
         direction: ASC
-    image: note.image
-    cardSize: 150
-    imageAspectRatio: 1
-    imageFit: contain
     columnSize:
-      file.name: 200
-      note.level: 49
+      note.level: 25
       note.time: 25
-      note.c: 24
+      note.c: 25
   - type: table
     name: 5e - Rituals; 7th-level
     filters:
       and:
         - level == 7
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -240,22 +212,17 @@ views:
         direction: ASC
       - property: file.name
         direction: ASC
-    image: note.image
-    cardSize: 150
-    imageAspectRatio: 1
-    imageFit: contain
     columnSize:
-      file.name: 200
-      note.level: 49
+      note.level: 25
       note.time: 25
-      note.c: 24
+      note.c: 25
   - type: table
     name: 5e - Rituals; 8th-level
     filters:
       and:
         - level == 8
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -268,22 +235,17 @@ views:
         direction: ASC
       - property: file.name
         direction: ASC
-    image: note.image
-    cardSize: 150
-    imageAspectRatio: 1
-    imageFit: contain
     columnSize:
-      file.name: 200
-      note.level: 49
+      note.level: 25
       note.time: 25
-      note.c: 24
+      note.c: 25
   - type: table
     name: 5e - Rituals; 9th-level
     filters:
       and:
         - level == 9
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -296,15 +258,10 @@ views:
         direction: ASC
       - property: file.name
         direction: ASC
-    image: note.image
-    cardSize: 150
-    imageAspectRatio: 1
-    imageFit: contain
     columnSize:
-      file.name: 200
-      note.level: 49
+      note.level: 25
       note.time: 25
-      note.c: 24
+      note.c: 25
 
 ```
 

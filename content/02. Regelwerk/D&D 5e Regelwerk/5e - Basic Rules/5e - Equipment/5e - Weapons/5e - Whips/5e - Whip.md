@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - Whip
 created: 2026-08-18T11:41:19.041+02:00
-modified: 2026-09-01T09:25:29.498+02:00
-published: 2026-09-01T09:25:29.498+02:00
+modified: 2026-09-21T11:38:50.134+02:00
+published: 2026-09-21T11:38:50.134+02:00
 tags:
   - "#Weapon"
   - "#Grundregeln"
@@ -21,7 +21,7 @@ damage: 1d6
 properties:
   - Finesse
   - Reach [15 ft.]
-mastery: Topple
+mastery: Pull
 weight: 1,5 kg
 cost: 2 SP
 costsorting: 2
@@ -44,7 +44,7 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 > |**Category** |Whip |
 > |**Damage** |1d6 Slashing |
 > |**Properties** |Finesse,Reach \[15 ft.] |
-> |**Mastery** |Topple |
+> |**Mastery** |Pull |
 > |**Attunement** |  |
 > |**Weight** |1,5 kg |
 > |**Cost** |2 SP |

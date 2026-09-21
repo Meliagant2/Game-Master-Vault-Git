@@ -2,8 +2,8 @@
 publish: true
 title: 💃5e - Acrobatics💃
 created: 2026-07-20T12:11:02.903+02:00
-modified: 2026-07-21T10:49:58.932+02:00
-published: 2026-07-21T10:49:58.932+02:00
+modified: 2026-09-21T14:48:30.612+02:00
+published: 2026-09-21T14:48:30.612+02:00
 tags:
   - "#Skill"
   - "#5e"

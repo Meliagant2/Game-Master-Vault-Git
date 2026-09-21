@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Fighter
 description: A master of martial techniques with expertise in a wide variety of weapons and combat maneuvers.
 created: 2026-07-31T11:11:41.436+02:00
-modified: 2026-09-18T15:43:41.747+02:00
-published: 2026-09-18T15:43:41.747+02:00
+modified: 2026-09-21T12:52:35.786+02:00
+published: 2026-09-21T12:52:35.786+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -32,27 +32,27 @@ Some fighters feel drawn to use their training as adventurers. The dungeon delvi
 ## Class Table
 
 | Level | PB  |    HP    | Hit Die | Ability Increase | Second Wind | Features                                                   |
-| :---: | :-: | :------: | :-----: | :---------------: | :---------: | :--------------------------------------------------------- |
+| :---: | :-: | :------: | :-----: | :--------------: | :---------: | :--------------------------------------------------------- |
 |  1st  | +2  | 10 + CON |  +1d10  |                  |      2      | Know your Enemy, Precise Strike, Second Wind               |
 |  2nd  | +2  | +6 + CON |  +1d10  |                  |      2      | Class Feat, General Feat, Skill Feat                       |
 |  3rd  | +2  | +6 + CON |  +1d10  |                  |      2      | Archetype (Subclass)                                       |
-|  4th  | +2  | +6 + CON |  +1d10  | +1 (max +4)      |      2      | Class Feat, General Feat, Skill Feat                       |
+|  4th  | +2  | +6 + CON |  +1d10  |   +1 (max +4)    |      2      | Class Feat, General Feat, Skill Feat                       |
 |  5th  | +3  | +6 + CON |  +1d10  |                  |      3      | Maneuver Specialization, Tactical Master                   |
 |  6th  | +3  | +6 + CON |  +1d10  |                  |      3      | Class Feat, General Feat, Skill Feat                       |
 |  7th  | +3  | +6 + CON |  +1d10  |                  |      3      | Archetype Feature                                          |
-|  8th  | +3  | +6 + CON |  +1d10  | +1 (max +5)      |      3      | Class Feat, General Feat, Skill Feat                       |
-|  9th  | +4  | +6 + CON |  +1d10  |                  |      4      | Fighting Expert                                                |
+|  8th  | +3  | +6 + CON |  +1d10  |   +1 (max +5)    |      3      | Class Feat, General Feat, Skill Feat                       |
+|  9th  | +4  | +6 + CON |  +1d10  |                  |      4      | Fighting Expert                                            |
 | 10th  | +4  | +6 + CON |  +1d10  |                  |      4      | Class Feat, General Feat, Skill Feat                       |
 | 11th  | +4  | +6 + CON |  +1d10  |                  |      4      | Archetype Feature                                          |
-| 12th  | +4  | +6 + CON |  +1d10  | +1 (max +5)      |      4      | Class Feat, General Feat, Skill Feat                       |
-| 13th  | +5  | +6 + CON |  +1d10  |                  |      4      | Master of Combat                                            |
+| 12th  | +4  | +6 + CON |  +1d10  |   +1 (max +5)    |      4      | Class Feat, General Feat, Skill Feat                       |
+| 13th  | +5  | +6 + CON |  +1d10  |                  |      4      | Master of Combat                                           |
 | 14th  | +5  | +6 + CON |  +1d10  |                  |      4      | Class Feat, General Feat, Skill Feat                       |
 | 15th  | +5  | +6 + CON |  +1d10  |                  |      4      | Archetype Feature                                          |
-| 16th  | +5  | +6 + CON |  +1d10  | +1 (max +5)      |      4      | Class Feat, General Feat, Skill Feat                       |
+| 16th  | +5  | +6 + CON |  +1d10  |   +1 (max +5)    |      4      | Class Feat, General Feat, Skill Feat                       |
 | 17th  | +6  | +6 + CON |  +1d10  |                  |      5      | Unrelenting                                                |
 | 18th  | +6  | +6 + CON |  +1d10  |                  |      5      | Class Feat, General Feat, Skill Feat                       |
 | 19th  | +6  | +6 + CON |  +1d10  |                  |      5      | Archetype Feature                                          |
-| 20th  | +6  | +6 + CON |  +1d10  | +1 (max +6)      |      5      | Warmaster, Epic Boon, Class Feat, General Feat, Skill Feat |
+| 20th  | +6  | +6 + CON |  +1d10  |   +1 (max +6)    |      5      | Warmaster, Epic Boon, Class Feat, General Feat, Skill Feat |
 
 ## Core Class Traits
 

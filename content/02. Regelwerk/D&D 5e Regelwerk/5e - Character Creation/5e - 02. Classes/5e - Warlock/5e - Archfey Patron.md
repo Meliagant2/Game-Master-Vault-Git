@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Archfey Patron
 description: Your pact draws on the power of the realm of the Fey. When you choose this subclass, you might make a deal with an archfey.
 created: 2026-09-18T13:44:04.407+02:00
-modified: 2026-09-18T15:40:19.870+02:00
-published: 2026-09-18T15:40:19.870+02:00
+modified: 2026-09-21T09:03:05.750+02:00
+published: 2026-09-21T09:03:05.750+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -28,6 +28,8 @@ While sleeping, you are lucid and can manipulate what appears in your dreams. Ad
 ### Level 3: Archfey Spells
 
 The magic of your patron ensures you always have certain spells ready; when you reach a _Warlock level_ specified in the <u>Archfey Spells table</u>, you thereafter always have the listed spells prepared.
+
+##### Archfey Spells Table
 
 **<u>3rd level Warlock:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Enchantment/5e - Level 2 Enchantment/5e - Calm Emotions (Spell)|☄️Calm Emotions]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Evocation/5e - Level 1 Evocation/5e - Faerie Fire (Spell)|☄️Faerie Fire]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Illusion/5e - Level 2 Illusion/5e - Phantasmal Force (Spell)|☄️Phantasmal Force]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Illusion/5e - Level 1 Illusion/5e - Sleep (Spell)|☄️Sleep]]
 
@@ -57,13 +59,15 @@ You gain the following benefits:
 - **<u>Disappearing Step:</u>** You have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Invisible|☠️Invisible]] condition until <u>the start of your next turn</u> or until immediately after you make an [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack Roll]], deal [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Damage/5e - Damage|💔Damage]], cast a spell, or take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Magic Action|⚔️Magic]] action.
 - **<u>Dreadful Step:</u>** Creatures within <u>5 feet</u> of the space you left or the space you appear in (your choice) **WIS Save** against your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Effects/5e - Spell Save|☄️Spell Save DC]]. _**Failure:**_ The creature takes `2d10` <u>Psychic</u> damage.
 
-### Level 11: Rested Guile
+### Level 11: Beguiling Defense
 
 You gain the following benefits:
 
 **<u>Charmed Immunity:</u>** You have <u>Immunity</u> against the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]] condition.
 
-**<u>Trance:</u>** You don't need to sleep, and magic can't put you to sleep. You can finish a **Long Rest** in <u>4 hours</u> if you spend those hours in a trancelike meditation, during which you retain consciousness, but still dream.
+**<u>Reactive Charm:</u>** Immediately after a creature you can _see_ _hits_ you with an [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack Roll]], you can take a **Reaction** to reduce the damage you take by half (round down), and you can force the attacker to make a **WIS Save** against your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Effects/5e - Spell Save|☄️Spell Save DC]]. _**Failure:**_ The attacker takes <u>Psychic</u> damage equal to `the damage you take`.
+
+_**<u>Number of Uses:</u>**_ <u>Once</u> you've used this benefit, you can't use it again until you finish a **Long Rest**. You can also restore your use of this feature by expending a level 5+ spell slot (**no Action** required).
 
 ### Level 15: Bewitching Magic
 

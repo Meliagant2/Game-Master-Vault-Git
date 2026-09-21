@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Sending
 created: 2026-08-18T15:46:43.302+02:00
-modified: 2026-09-14T12:59:14.056+02:00
-published: 2026-09-14T12:59:14.056+02:00
+modified: 2026-09-21T10:45:07.684+02:00
+published: 2026-09-21T10:45:07.684+02:00
 tags:
   - "#Spell"
   - "#5e"

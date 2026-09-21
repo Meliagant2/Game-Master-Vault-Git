@@ -3,8 +3,8 @@ publish: true
 title: 🥇5e - Origin Feats
 description: Available to Characters through their Background.
 created: 2026-08-04T10:02:13.169+02:00
-modified: 2026-09-04T09:06:49.363+02:00
-published: 2026-09-04T09:06:49.363+02:00
+modified: 2026-09-21T08:16:33.013+02:00
+published: 2026-09-21T08:16:33.013+02:00
 tags:
   - "#Charaktererstellung"
   - "#5e"
@@ -33,6 +33,17 @@ You gain one Origin Feat during character creation. You can later forgo to take 
 ### All Origin Feats
 
 ```base
+filters:
+  and:
+    - '!file.name.containsAny("(Legacy)", "Template")'
+    - dateitags.containsAll("#5e", "#Feat")
+    - category.containsAny("Origin")
+formulas:
+  Feat: link(file, title)
+  titleasname: link(file, title)
+properties:
+  formula.titleasname:
+    displayName: Name
 views:
   - type: table
     name: 5e - Origin Feats; All
@@ -42,7 +53,7 @@ views:
         - '!file.name.contains("Template")'
         - category.contains("Origin")
     order:
-      - file.name
+      - formula.Feat
       - category
       - level
       - prerequisite
@@ -51,6 +62,8 @@ views:
       - source
     sort:
       - property: level
+        direction: ASC
+      - property: file.name
         direction: ASC
     columnSize:
       file.name: 243
@@ -61,12 +74,9 @@ views:
     name: 5e - Origin Feats; Regular
     filters:
       and:
-        - dateitags.containsAll("#5e", "#Feat")
-        - '!file.name.contains("Template")'
-        - category.contains("Origin")
         - '!ability.containsAny("Dark Gift", "Spellmark", "Touched")'
     order:
-      - file.name
+      - formula.Feat
       - category
       - level
       - prerequisite
@@ -75,6 +85,8 @@ views:
       - source
     sort:
       - property: level
+        direction: ASC
+      - property: file.name
         direction: ASC
     columnSize:
       file.name: 243
@@ -85,12 +97,9 @@ views:
     name: 5e - Special Origin Feats; Dark Gifts
     filters:
       and:
-        - dateitags.containsAll("#5e", "#Feat")
-        - '!file.name.contains("Template")'
-        - category.contains("Origin")
         - ability.contains("Dark Gift")
     order:
-      - file.name
+      - formula.Feat
       - category
       - level
       - prerequisite
@@ -111,12 +120,9 @@ views:
     name: 5e - Special Origin Feats; Spellmarks
     filters:
       and:
-        - dateitags.containsAll("#5e", "#Feat")
-        - '!file.name.contains("Template")'
-        - category.contains("Origin")
         - ability.contains("Spellmark")
     order:
-      - file.name
+      - formula.Feat
       - category
       - level
       - prerequisite
@@ -137,12 +143,9 @@ views:
     name: 5e - Special Origin Feats; Touched
     filters:
       and:
-        - dateitags.containsAll("#5e", "#Feat")
-        - '!file.name.contains("Template")'
-        - category.contains("Origin")
         - ability.contains("Touched")
     order:
-      - file.name
+      - formula.Feat
       - category
       - level
       - prerequisite
@@ -150,9 +153,9 @@ views:
       - ability
       - source
     sort:
-      - property: file.name
-        direction: DESC
       - property: level
+        direction: ASC
+      - property: file.name
         direction: ASC
     columnSize:
       file.name: 243

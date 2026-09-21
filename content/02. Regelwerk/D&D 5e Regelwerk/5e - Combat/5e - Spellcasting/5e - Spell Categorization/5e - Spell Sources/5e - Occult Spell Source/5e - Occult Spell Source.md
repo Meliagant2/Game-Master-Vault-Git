@@ -3,8 +3,8 @@ publish: true
 title: ☄️5e - Occult Spell Source
 description: Occult magic draws power from forces beyond the universe, or at least from a part that isn't fully understood, and is the most mysterious of the Spell Sources.
 created: 2026-08-17T14:29:28.487+02:00
-modified: 2026-09-18T08:31:40.467+02:00
-published: 2026-09-18T08:31:40.467+02:00
+modified: 2026-09-21T09:22:36.312+02:00
+published: 2026-09-21T09:22:36.312+02:00
 tags:
   - "#Combatrules"
   - "#5e"
@@ -20,7 +20,7 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 
 # ☄️5e - Occult Spell Source☄️
 
-Occult magic draws power from forces beyond the universe, or at least from a part that isn't fully understood, and is the most mysterious of the **Spell Sources**. Occult magic can be learned in some way, but often the feelings and the state of mind of the spellcaster decide if they are able to understand this magic. Curses, Blood magic and "black magic" often derive from the occult. The practitioners of occult traditions seek to understand the unexplainable, categorize the bizarre, and otherwise access the ephemeral in a systematic way.
+Occult magic draws power from forces beyond the universe, or at least from a part that isn't fully understood, and is the most mysterious of the **Spell Sources**. Occult magic can be learned in some way, but often the feelings and the state of mind of the spellcaster decide if they are able to understand this magic. Curses, Blood magic and "Dark Magic" often derive from the occult. The practitioners of occult traditions seek to understand the unexplainable, categorize the bizarre, and otherwise access the ephemeral in a systematic way.
 
 ### List of all Occult Spells:
 
