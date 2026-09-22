@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Cleric
 description: A holy guardian that channels divine energies to both heal and harm in service to their higher power.
 created: 2026-07-20T12:11:02.541+02:00
-modified: 2026-09-18T15:49:38.091+02:00
-published: 2026-09-18T15:49:38.091+02:00
+modified: 2026-09-22T10:27:39.065+02:00
+published: 2026-09-22T10:27:39.065+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -45,6 +45,8 @@ classtype: Full Caster
 > > |**Display Title** | `INPUT[textArea:title]`|
 > > |**Kurzbeschreibung** | `INPUT[textArea:description]`|
 > > |**Class Type**|`INPUT[inlineSelect(option(Full Caster), option(Half Caster), option(Martial)):classtype]`|
+
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - 02. Classes|5e - 02. Classes]].
 
 # 🦸‍♀️5e - Cleric🦸‍♀️
 
@@ -512,7 +514,7 @@ _**<u>Number of Uses:</u>**_ <u>Once</u> you've used this benefit, you can't use
 
 You can channel divine energy to fuel magical effects. You start with two such effects: **Divine Spark** and **Turn Undead**, each of which is described below. Each time you use this class's **Channel Divinity**, choose which **Channel Divinity** effect from this class to create.
 
-If a Channel Divinity effect requires a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Save]], the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Difficulty Class/5e - Difficulty Class|🎲DC]] equals the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Effects/5e - Spell Save|☄️Spell Save DC]] from this class's Spellcasting feature.
+If a **Channel Divinity** effect requires a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Save]], the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Difficulty Class/5e - Difficulty Class|🎲DC]] equals the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Effects/5e - Spell Save|☄️Spell Save DC]] from this class's Spellcasting feature.
 
 **<u>Divine Spark:</u>** As a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Magic Action|⚔️Magic]] action, you present your [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spellcasting Focus|🎩Spellcasting Focus]] and point at another creature you can see within <u>30 feet</u> of yourself and focus divine energy at it. Roll `1d8 + your WIS`. You either restore [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|💖Hit Points]] to the creature equal to that total or force the creature to make a **CON Save**. _**Failure:**_ The creature takes damage of one of your **Divine Damage types** (your choice; see **Cleric Order** feature) equal to that total. _**Success:**_ The creature takes half the damage only.
 
@@ -563,14 +565,29 @@ You gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. F
 
 Choose one Archetype, which represents you best. Your Archetpye grants you new abilities at 3rd, 7th, 11th, 15th, and 19th level.
 
-| Archetype                                      | Description                                                                                                                                                                                                                                 |
-| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[🦸‍♀️5e - Apostle\|🦸‍♀️5e - Apostle]]       | Apostles are devout Clerics who believe themselves to follow a divine purpose in the world. They follow their doctrine with zealous fervour.                                                                                                |
-| [[🦸‍♀️5e - Dissembler\|🦸‍♀️5e - Dissembler]] | Dissemblers hide their true religious feelings or identity under a false appearance. This might be because they fear persecution, feel unsure about their belief, or are scared to be judged by allies and friends for their faith.         |
-| [[🦸‍♀️5e - Priest\|🦸‍♀️5e - Priest]]         | Priests specialize in healing those in need and helping those weaker than themselves. Priests promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath. |
-| [[🦸‍♀️5e - Prophet\|🦸‍♀️5e - Prophet]]       | Prophets sometimes receive visions directly from their deity and receive fleeting omens of the future. They share impossible knowledge with their allies and prophesize their enemies' doom.                                                |
-| [[🦸‍♀️5e - Undertaker\|🦸‍♀️5e - Undertaker]] | Death must be respected, for death comes to us all. Undertakers walk the veil between life and death on a daily basis, putting death at a hold, where life is needed and ending life, that should have ended long ago.                      |
-| [[🦸‍♀️5e - Vicar\|🦸‍♀️5e - Vicar]]           | A Vicar's life is a life of strictness and devotion. They excel at reason and persuasion.                                                                                                                                                   |
+```base
+formulas:
+  Archetype: link(file, title)
+  titleasname: link(file, title)
+properties:
+  formula.titleasname:
+    displayName: Name
+views:
+  - type: table
+    name: 5e - Cleric Archetypes
+    filters:
+      and:
+        - class.containsAll(link("5e - Cleric"))
+    order:
+      - formula.Archetype
+      - description
+    columnSize:
+      file.name: 243
+      note.level: 30
+      note.prerequisite: 144
+      note.repeatable: 34
+
+```
 
 <br>
 

@@ -3,8 +3,8 @@ publish: true
 title: 🤺5e - Might
 description: Power, Hardiness, Tough, Brutal
 created: 2026-08-12T07:59:14.813+02:00
-modified: 2026-08-14T13:34:52.402+02:00
-published: 2026-08-14T13:34:52.402+02:00
+modified: 2026-09-22T11:50:41.170+02:00
+published: 2026-09-22T11:50:41.170+02:00
 tags:
   - "#Combatrules"
   - "#5e"
@@ -20,6 +20,8 @@ classes:
 status: ✅
 ---
 
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Maneuvers|5e - Combat Maneuvers]].
+
 # 🤺5e - Might🤺
 
 _Power, Hardiness, Tough, Brutal_
@@ -27,15 +29,21 @@ _Power, Hardiness, Tough, Brutal_
 Might Maneuvers are available to the following classes: _Adept,Barbarian,Fighter,Paladin_
 
 ```base
+filters:
+  and:
+    - dateitags.containsAll("#5e", "#Maneuver")
+    - tradition.contains("Might")
+formulas:
+  Maneuver: link(file, title)
+  titleasname: link(file, title)
+properties:
+  formula.titleasname:
+    displayName: Name
 views:
   - type: table
     name: 5e - Might; All Maneuvers
-    filters:
-      and:
-        - dateitags.containsAll("#5e", "#Maneuver")
-        - tradition.contains("Might")
     order:
-      - file.name
+      - formula.Maneuver
       - degree
       - exertioncost
       - time
@@ -49,18 +57,18 @@ views:
       - property: file.name
         direction: ASC
     columnSize:
-      note.degree: 30
-      note.time: 42
-      note.range-Area: 54
+      formula.Maneuver: 225
+      note.degree: 26
+      note.exertioncost: 81
+      note.time: 108
+      note.range-Area: 119
   - type: table
     name: 5e - Might; 1st-Degree
     filters:
       and:
-        - dateitags.containsAll("#5e", "#Maneuver")
-        - tradition.contains("Might")
         - degree == 1
     order:
-      - file.name
+      - formula.Maneuver
       - degree
       - exertioncost
       - time
@@ -74,18 +82,18 @@ views:
       - property: file.name
         direction: ASC
     columnSize:
-      note.degree: 30
-      note.time: 42
-      note.range-Area: 54
+      formula.Maneuver: 225
+      note.degree: 26
+      note.exertioncost: 81
+      note.time: 108
+      note.range-Area: 119
   - type: table
     name: 5e - Might; 2nd-Degree
     filters:
       and:
-        - dateitags.containsAll("#5e", "#Maneuver")
-        - tradition.contains("Might")
         - degree == 2
     order:
-      - file.name
+      - formula.Maneuver
       - degree
       - exertioncost
       - time
@@ -99,18 +107,18 @@ views:
       - property: file.name
         direction: ASC
     columnSize:
-      note.degree: 30
-      note.time: 42
-      note.range-Area: 54
+      formula.Maneuver: 225
+      note.degree: 26
+      note.exertioncost: 81
+      note.time: 108
+      note.range-Area: 119
   - type: table
     name: 5e - Might; 3rd-Degree
     filters:
       and:
-        - dateitags.containsAll("#5e", "#Maneuver")
-        - tradition.contains("Might")
         - degree == 3
     order:
-      - file.name
+      - formula.Maneuver
       - degree
       - exertioncost
       - time
@@ -124,18 +132,18 @@ views:
       - property: file.name
         direction: ASC
     columnSize:
-      note.degree: 30
-      note.time: 42
-      note.range-Area: 54
+      formula.Maneuver: 225
+      note.degree: 26
+      note.exertioncost: 81
+      note.time: 108
+      note.range-Area: 119
   - type: table
     name: 5e - Might; 4th-Degree
     filters:
       and:
-        - dateitags.containsAll("#5e", "#Maneuver")
-        - tradition.contains("Might")
         - degree == 4
     order:
-      - file.name
+      - formula.Maneuver
       - degree
       - exertioncost
       - time
@@ -149,18 +157,18 @@ views:
       - property: file.name
         direction: ASC
     columnSize:
-      note.degree: 30
-      note.time: 42
-      note.range-Area: 54
+      formula.Maneuver: 225
+      note.degree: 26
+      note.exertioncost: 81
+      note.time: 108
+      note.range-Area: 119
   - type: table
     name: 5e - Might; 5th-Degree
     filters:
       and:
-        - dateitags.containsAll("#5e", "#Maneuver")
-        - tradition.contains("Might")
         - degree == 5
     order:
-      - file.name
+      - formula.Maneuver
       - degree
       - exertioncost
       - time
@@ -174,8 +182,10 @@ views:
       - property: file.name
         direction: ASC
     columnSize:
-      note.degree: 30
-      note.time: 42
-      note.range-Area: 54
+      formula.Maneuver: 225
+      note.degree: 26
+      note.exertioncost: 81
+      note.time: 108
+      note.range-Area: 119
 
 ```

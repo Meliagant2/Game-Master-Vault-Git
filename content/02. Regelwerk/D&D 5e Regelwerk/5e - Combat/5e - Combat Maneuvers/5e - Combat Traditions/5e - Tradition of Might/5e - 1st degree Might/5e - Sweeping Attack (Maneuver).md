@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Sweeping Attack
 created: 2026-08-11T16:06:59.042+02:00
-modified: 2026-08-17T08:02:08.999+02:00
-published: 2026-08-17T08:02:08.999+02:00
+modified: 2026-09-22T13:20:33.464+02:00
+published: 2026-09-22T13:20:33.464+02:00
 tags:
   - "#Maneuver"
   - "#5e"
@@ -38,4 +38,4 @@ status: ✅
 > |**Attack/Save:**||
 > |**Effect:**|AOE |
 
-When you _**hit**_ a creature, choose another creature within your reach. If the original attack roll would hit the second creature, it takes [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Damage/5e - Basic Melee Damage|💔Basic Melee Damage]].
+When you _**hit**_ a creature, choose another creature within your reach. If the original [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack Roll]] would _hit_ the second creature, it takes damage equal to `your weapon's damage dice`, but you don't add your [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 00. Ability Scores/5e - 00. Ability Scores|⚙️Ability modifier]] to the damage.

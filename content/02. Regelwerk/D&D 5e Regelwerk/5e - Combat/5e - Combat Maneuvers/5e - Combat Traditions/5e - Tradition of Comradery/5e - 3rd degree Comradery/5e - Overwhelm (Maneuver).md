@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Overwhelm
 created: 2026-08-13T14:42:27.835+02:00
-modified: 2026-08-17T07:58:22.630+02:00
-published: 2026-08-17T07:58:22.630+02:00
+modified: 2026-09-22T13:09:03.985+02:00
+published: 2026-09-22T13:09:03.985+02:00
 tags:
   - "#Maneuver"
   - "#5e"
@@ -36,4 +36,4 @@ status: ✅
 > |**Attack/Save:**|Melee/ Ranged|
 > |**Effect:**| |
 
-On a _**hit**_ the target makes a **repeated WIS Save**. It does so with a penalty of `-2` on its save for every one of its enemies within <u>5 feet</u> of it. _**Failure:**_ The target is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Intimidated|☠️Intimidated]] for <u>1 minute</u>. _**Failure (by 5):**_ The target is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Rattled|☠️Rattled]] for the duration instead. _**Failure (by 15):**_ The target is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Confused|☠️Confused]] for the duration instead. _**Success:**_ The target is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Hindered|☠️Hindered]] on its next <u>attack</u> it makes before <u>the start of your next turn</u>.
+On a _**hit**_ the target makes a **repeated WIS Save**. It does so with a penalty of `-1` on its [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Save]] for every one of its enemies within <u>5 feet</u> of it. _**Failure:**_ The target is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Intimidated|☠️Intimidated]] for <u>1 minute</u>. _**Failure (by 5):**_ The target is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Rattled|☠️Rattled]] for the duration instead. _**Failure (by 15):**_ The target is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Confused|☠️Confused]] for the duration instead. _**Success:**_ The target is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Hindered|☠️Hindered]] on its next [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack]] it makes before <u>the start of your next turn</u>.

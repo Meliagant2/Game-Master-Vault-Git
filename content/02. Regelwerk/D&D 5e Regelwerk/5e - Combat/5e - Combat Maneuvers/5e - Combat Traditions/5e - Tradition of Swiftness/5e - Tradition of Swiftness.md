@@ -3,8 +3,8 @@ publish: true
 title: 🤺5e - Swiftness
 description: Mobility, Speed, Fast Strikes, Ranged
 created: 2026-08-12T07:59:31.100+02:00
-modified: 2026-08-14T13:34:34.711+02:00
-published: 2026-08-14T13:34:34.711+02:00
+modified: 2026-09-22T11:50:45.067+02:00
+published: 2026-09-22T11:50:45.067+02:00
 tags:
   - "#Combatrules"
   - "#5e"
@@ -22,6 +22,8 @@ classes:
 status: ✅
 ---
 
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Maneuvers|5e - Combat Maneuvers]].
+
 # 🤺5e - Swiftness🤺
 
 _Mobility, Speed, Fast Strikes, Ranged_
@@ -29,15 +31,21 @@ _Mobility, Speed, Fast Strikes, Ranged_
 Swiftness Maneuvers are available to the following classes: _Adept,Barbarian,Blood Hunter,Fighter,Hunter,Rogue_
 
 ```base
+filters:
+  and:
+    - dateitags.containsAll("#5e", "#Maneuver")
+    - tradition.contains("Swiftness")
+formulas:
+  Maneuver: link(file, title)
+  titleasname: link(file, title)
+properties:
+  formula.titleasname:
+    displayName: Name
 views:
   - type: table
     name: 5e - Swiftness; All Maneuvers
-    filters:
-      and:
-        - dateitags.containsAll("#5e", "#Maneuver")
-        - tradition.contains("Swiftness")
     order:
-      - file.name
+      - formula.Maneuver
       - degree
       - exertioncost
       - time
@@ -48,19 +56,21 @@ views:
     sort:
       - property: degree
         direction: ASC
+      - property: file.name
+        direction: ASC
     columnSize:
-      note.degree: 30
-      note.time: 42
-      note.range-Area: 54
+      formula.Maneuver: 225
+      note.degree: 26
+      note.exertioncost: 81
+      note.time: 108
+      note.range-Area: 119
   - type: table
     name: 5e - Swiftness; 1st-Degree
     filters:
       and:
-        - dateitags.containsAll("#5e", "#Maneuver")
-        - tradition.contains("Swiftness")
         - degree == 1
     order:
-      - file.name
+      - formula.Maneuver
       - degree
       - exertioncost
       - time
@@ -74,18 +84,18 @@ views:
       - property: file.name
         direction: ASC
     columnSize:
-      note.degree: 30
-      note.time: 42
-      note.range-Area: 54
+      formula.Maneuver: 225
+      note.degree: 26
+      note.exertioncost: 81
+      note.time: 108
+      note.range-Area: 119
   - type: table
     name: 5e - Swiftness; 2nd-Degree
     filters:
       and:
-        - dateitags.containsAll("#5e", "#Maneuver")
-        - tradition.contains("Swiftness")
         - degree == 2
     order:
-      - file.name
+      - formula.Maneuver
       - degree
       - exertioncost
       - time
@@ -99,18 +109,18 @@ views:
       - property: file.name
         direction: ASC
     columnSize:
-      note.degree: 30
-      note.time: 42
-      note.range-Area: 54
+      formula.Maneuver: 225
+      note.degree: 26
+      note.exertioncost: 81
+      note.time: 108
+      note.range-Area: 119
   - type: table
     name: 5e - Swiftness; 3rd-Degree
     filters:
       and:
-        - dateitags.containsAll("#5e", "#Maneuver")
-        - tradition.contains("Swiftness")
         - degree == 3
     order:
-      - file.name
+      - formula.Maneuver
       - degree
       - exertioncost
       - time
@@ -124,18 +134,18 @@ views:
       - property: file.name
         direction: ASC
     columnSize:
-      note.degree: 30
-      note.time: 42
-      note.range-Area: 54
+      formula.Maneuver: 225
+      note.degree: 26
+      note.exertioncost: 81
+      note.time: 108
+      note.range-Area: 119
   - type: table
     name: 5e - Swiftness; 4th-Degree
     filters:
       and:
-        - dateitags.containsAll("#5e", "#Maneuver")
-        - tradition.contains("Swiftness")
         - degree == 4
     order:
-      - file.name
+      - formula.Maneuver
       - degree
       - exertioncost
       - time
@@ -149,18 +159,18 @@ views:
       - property: file.name
         direction: ASC
     columnSize:
-      note.degree: 30
-      note.time: 42
-      note.range-Area: 54
+      formula.Maneuver: 225
+      note.degree: 26
+      note.exertioncost: 81
+      note.time: 108
+      note.range-Area: 119
   - type: table
     name: 5e - Swiftness; 5th-Degree
     filters:
       and:
-        - dateitags.containsAll("#5e", "#Maneuver")
-        - tradition.contains("Swiftness")
         - degree == 5
     order:
-      - file.name
+      - formula.Maneuver
       - degree
       - exertioncost
       - time
@@ -174,8 +184,10 @@ views:
       - property: file.name
         direction: ASC
     columnSize:
-      note.degree: 30
-      note.time: 42
-      note.range-Area: 54
+      formula.Maneuver: 225
+      note.degree: 26
+      note.exertioncost: 81
+      note.time: 108
+      note.range-Area: 119
 
 ```

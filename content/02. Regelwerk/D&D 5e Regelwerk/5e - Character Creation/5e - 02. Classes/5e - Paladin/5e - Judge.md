@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Judge
 description: Judges are sworn to the ideals of civilization, be it the spirit of a nation, fealty to a sovereign, or service to a deity of law and rulership.
 created: 2026-09-03T09:50:35.266+02:00
-modified: 2026-09-21T15:50:01.818+02:00
-published: 2026-09-21T15:50:01.818+02:00
+modified: 2026-09-22T10:15:45.424+02:00
+published: 2026-09-22T10:15:45.424+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -16,6 +16,8 @@ class:
   - "[[5e - Paladin]]"
 source: "Forgotten Realms: Heroes of Faerun"
 ---
+
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Paladin/5e - Paladin|5e - Paladin]].
 
 # 🦸‍♀️5e - Judge🦸‍♀️
 
@@ -31,7 +33,7 @@ You can channel divine energy to fuel magical effects. Other Paladin features mi
 
 If a **Channel Oath** effect requires a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Save]], the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Difficulty Class/5e - Difficulty Class|🎲DC]] equals the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Effects/5e - Spell Save|☄️Spell Save DC]] from this class's Spellcasting feature.
 
-**<u>Castigate:</u>** As a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Magic Action|⚔️Magic]] action, you can expend one use of your **Channel Oath** to clap those you would bring to justice in shackles. Choose a number of creatures up to `your CHA (minimum of 1 creature)` you can see within <u>30 feet</u> of yourself. Each of those creatures makes a **STR Save**. _**Failure:**_ The creature is wrapped in shackles and has the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Grappled|☠️Grappled]] condition. While [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Grappled|☠️Grappled]], the target has the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Restrained|☠️Restrained]] condition.
+**<u>Guided Strike:</u>** When you make an [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack Roll]] and _miss_, you can expend one use of your **Channel Oath** to gain a `+10` bonus to the roll, potentially turning it into a _hit_.
 
 _**<u>Number of Uses:</u>**_ You can use this feature a number of times as stated in the <u>Paladin Class Table</u>. You regain `1` expended use when you finish a **Short Rest**, and you regain `all` expended uses when you finish a **Long Rest**.
 
@@ -67,7 +69,7 @@ _**<u>Number of Uses:</u>**_ You can use this feature a number of times equal to
 
 ### Level 19: Noble Judge
 
-As a **Bonus Action**, you gain the benefits below for <u>10 minutes</u> or until you end them (**no Action** required).
+As a **Bonus Action**, you gain the benefits below for <u>10 minutes</u> or until you end them (**no Action** required):
 
 **<u>Flight:</u>** You have a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Speed/5e - Fly Speed|🏃‍♀️Fly Speed]] of <u>60 feet</u>, and can hover.
 

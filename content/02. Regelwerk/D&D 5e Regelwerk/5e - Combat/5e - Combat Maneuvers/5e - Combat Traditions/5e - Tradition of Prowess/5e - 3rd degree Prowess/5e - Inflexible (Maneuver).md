@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Inflexible
 created: 2026-08-12T10:53:57.030+02:00
-modified: 2026-08-17T08:04:45.844+02:00
-published: 2026-08-17T08:04:45.844+02:00
+modified: 2026-09-22T13:31:50.707+02:00
+published: 2026-09-22T13:31:50.707+02:00
 tags:
   - "#Maneuver"
   - "#5e"
@@ -37,4 +37,4 @@ status: ✅
 > |**Attack/Save:**||
 > |**Effect:**|Buff |
 
-You repeat the <u>Save</u> against one effect or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Conditions|☠️Condition]] currently affecting you. This reaction has no effect if the effect or condition didn’t originally require you to fail a <u>Save</u>.
+You repeat the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Save]] against one effect or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Conditions|☠️Condition]] currently affecting you. This **Reaction** has no effect if the effect or condition didn’t originally require you to fail a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Save]].

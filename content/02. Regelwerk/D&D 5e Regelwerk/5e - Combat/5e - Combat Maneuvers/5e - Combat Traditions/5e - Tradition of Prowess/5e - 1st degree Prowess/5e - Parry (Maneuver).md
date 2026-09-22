@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Parry
 created: 2026-08-11T15:18:06.632+02:00
-modified: 2026-08-17T08:03:51.376+02:00
-published: 2026-08-17T08:03:51.376+02:00
+modified: 2026-09-22T13:27:50.272+02:00
+published: 2026-09-22T13:27:50.272+02:00
 tags:
   - "#Maneuver"
   - "#5e"
@@ -37,4 +37,4 @@ status: ✅
 > |**Attack/Save:**||
 > |**Effect:**|AC |
 
-You increase your _AC_ against the _triggering Attack_ by an amount equal to `2 × X`.
+You increase your [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Armor Class|🛡️AC]] against the _triggering_ [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack]] by an amount equal to `2 × X`.

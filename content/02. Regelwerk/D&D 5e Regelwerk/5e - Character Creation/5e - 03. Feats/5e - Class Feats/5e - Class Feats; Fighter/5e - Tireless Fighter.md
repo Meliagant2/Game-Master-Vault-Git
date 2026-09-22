@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Tireless Fighter
 created: 2026-08-17T11:59:58.865+02:00
-modified: 2026-09-16T09:59:11.070+02:00
-published: 2026-09-16T09:59:11.070+02:00
+modified: 2026-09-22T11:42:09.173+02:00
+published: 2026-09-22T11:42:09.173+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -12,7 +12,7 @@ dateitags:
   - "#5e"
 status: ✅
 category: Class
-level: 2
+level: 4
 prerequisite: Fighter
 ---
 
@@ -24,7 +24,7 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Fea
 > | | |
 > |---|---|
 > |**Category**|Class |
-> |**Level Requirement**|2 |
+> |**Level Requirement**|4 |
 > |**Prerequisite**|Fighter |
 > |**Repeatable**| |
 

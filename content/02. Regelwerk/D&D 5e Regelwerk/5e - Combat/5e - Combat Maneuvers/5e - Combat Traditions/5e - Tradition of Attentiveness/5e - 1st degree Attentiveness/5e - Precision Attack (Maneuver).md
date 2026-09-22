@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Precision Attack
 created: 2026-08-11T15:56:21.107+02:00
-modified: 2026-08-17T07:55:40.643+02:00
-published: 2026-08-17T07:55:40.643+02:00
+modified: 2026-09-22T11:55:45.202+02:00
+published: 2026-09-22T11:55:45.202+02:00
 tags:
   - "#Maneuver"
   - "#5e"
@@ -37,4 +37,4 @@ status: ✅
 > |**Attack/Save:**||
 > |**Effect:**|Buff |
 
-When you _**miss**_ with an <u>Attack roll</u>, you can expend `X` <u>Exertion</u> and add an amount to the Attack roll equal to `2 × X`, potentially causing the Attack to hit.
+When you _miss_ with an [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack Roll]], you can expend `X` [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Rules/5e - Exertion|🤺Exertion]] and add an amount to the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack Roll]] equal to `2 × X`, potentially causing it to _hit_.

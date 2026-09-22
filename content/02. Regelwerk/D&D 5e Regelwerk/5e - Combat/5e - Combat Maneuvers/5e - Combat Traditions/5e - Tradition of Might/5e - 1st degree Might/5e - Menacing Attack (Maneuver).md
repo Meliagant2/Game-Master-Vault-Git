@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Menacing Attack
 created: 2026-08-11T15:54:05.723+02:00
-modified: 2026-08-17T08:01:57.855+02:00
-published: 2026-08-17T08:01:57.855+02:00
+modified: 2026-09-22T13:18:26.292+02:00
+published: 2026-09-22T13:18:26.292+02:00
 tags:
   - "#Maneuver"
   - "#5e"
@@ -40,4 +40,4 @@ status: ✅
 > |**Attack/Save:**|WIS|
 > |**Effect:**|Frightened,Intimidated,Terrified |
 
-On a _**hit**_ the Target makes a **repeated WIS Save**. _**Failure:**_ The Target is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Intimidated|☠️Intimidated]] for <u>1 Minute</u>. _**Failure (by 5):**_ The Target is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Frightened|☠️Frightened]] instead. _**Failure (by 15):**_ The Target is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Terrified|☠️Terrified]] instead.
+On a _**hit**_ the target makes a **repeated WIS Save**. _**Failure:**_ The target is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Intimidated|☠️Intimidated]] for <u>1 Minute</u>. _**Failure (by 5):**_ The target is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Frightened|☠️Frightened]] instead. _**Failure (by 15):**_ The target is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Terrified|☠️Terrified]] instead.

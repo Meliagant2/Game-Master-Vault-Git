@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Swift Stance
 created: 2026-08-12T11:26:05.005+02:00
-modified: 2026-08-17T08:18:54.405+02:00
-published: 2026-08-17T08:18:54.405+02:00
+modified: 2026-09-22T13:35:35.434+02:00
+published: 2026-09-22T13:35:35.434+02:00
 tags:
   - "#Maneuver"
   - "#5e"
@@ -37,4 +37,4 @@ status: ✅
 > |**Attack/Save:**||
 > |**Effect:**|Movement |
 
-Your Speed increases by <u>10 feet</u>.
+Your [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Speed/5e - Speed|🏃‍♀️Speed]] increases by <u>10 feet</u>.

@@ -1,9 +1,9 @@
 ---
 publish: true
-title: ☄️5e - Eartjem Grasü
+title: ☄️5e - Earthen Grasp
 created: 2026-09-15T08:14:38.296+02:00
-modified: 2026-09-15T09:50:33.281+02:00
-published: 2026-09-15T09:50:33.281+02:00
+modified: 2026-09-22T09:36:26.522+02:00
+published: 2026-09-22T09:36:26.522+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -31,7 +31,7 @@ zauberliste:
 
 Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Transmutation/5e - School of Transmutation|5e - School of Transmutation]].
 
-# ☄️5e - Eartjem Grasü☄️
+# ☄️5e - Earthen Grasp☄️
 
 > [!wikibox]
 > |||

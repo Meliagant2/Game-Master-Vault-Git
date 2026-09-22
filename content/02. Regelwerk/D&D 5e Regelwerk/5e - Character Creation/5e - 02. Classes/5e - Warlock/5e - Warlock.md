@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Warlock
 description: A spellslinger who obtained arcane powers through an eldritch bargain with an otherworldly entity.
 created: 2026-07-20T12:11:02.600+02:00
-modified: 2026-09-21T10:54:41.934+02:00
-published: 2026-09-21T10:54:41.934+02:00
+modified: 2026-09-22T10:07:15.694+02:00
+published: 2026-09-22T10:07:15.694+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -45,6 +45,8 @@ classtype: Full Caster
 > > |**Display Title** | `INPUT[textArea:title]`|
 > > |**Kurzbeschreibung** | `INPUT[textArea:description]`|
 > > |**Class Type**|`INPUT[inlineSelect(option(Full Caster), option(Half Caster), option(Martial)):classtype]`|
+
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - 02. Classes|5e - 02. Classes]].
 
 # 🦸‍♀️5e - Warlock🦸‍♀️
 
@@ -489,10 +491,29 @@ You gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. F
 
 Choose one Archetype, which represents you best. Your Archetpye grants you new abilities at 3rd, 7th, 11th, 15th, and 19th level.
 
-| Archetype                                              | Description                                                                                                                           |
-| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
-| [[🦸‍♀️5e - Archfey Patron\|🦸‍♀️5e - Archfey Patron]] | Your pact draws on the power of the realm of the Fey. When you choose this subclass, you might make a deal with an archfey.           |
-| [[🦸‍♀️5e - Undead Patron\|🦸‍♀️5e - Undead Patron]]   | You've made a pact with a creature that defies the cycle of life and death: a powerful lich, a vampire, or another entity of undeath. |
+```base
+formulas:
+  Archetype: link(file, title)
+  titleasname: link(file, title)
+properties:
+  formula.titleasname:
+    displayName: Name
+views:
+  - type: table
+    name: 5e - Warlock Archetypes
+    filters:
+      and:
+        - class.containsAll(link("5e - Warlock"))
+    order:
+      - formula.Archetype
+      - description
+    columnSize:
+      file.name: 243
+      note.level: 30
+      note.prerequisite: 144
+      note.repeatable: 34
+
+```
 
 <br>
 

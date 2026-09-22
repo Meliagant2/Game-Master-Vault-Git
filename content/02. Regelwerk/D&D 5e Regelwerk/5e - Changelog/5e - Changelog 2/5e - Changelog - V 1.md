@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-17T10:35:26.769+02:00
-modified: 2026-09-17T20:25:41.379+02:00
-published: 2026-09-17T20:25:41.379+02:00
+modified: 2026-09-22T14:12:02.545+02:00
+published: 2026-09-22T14:12:02.545+02:00
 tags:
   - "#Changelog"
 status: ⏳
@@ -30,6 +30,19 @@ status: ⏳
 > > |**Änderungen:**|`INPUT[list:aenderungen]`|
 
 # 5e - Changelog - V 1
+
+## Vincent Trifels Level Progression
+
+### Level 0: Character Creation
+
+#### Heritage: [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 01. Heritage/5e - Human|Human]]
+
+**<u>Intrepid:</u>** Renamed to **Resourceful**.
+**<u>Versatile:</u>** Removed (If you benefited from this at character creation, we will just ignore that).
+**<u>Spirited Traveler:</u>** A few changes:
+\- **<u>Desperate Dash:</u>** Removed the bonus to Acrobatics Checks and DEX Saves.
+\- **<u>Marathon Runner:</u>** Simplified description.
+\- **<u>Sojourner's Fortitude:</u>** Removed to make all Human Heritage Gifts equal in feature size.
 
 ### [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Fighter/5e - Fighter|Fighter]]
 

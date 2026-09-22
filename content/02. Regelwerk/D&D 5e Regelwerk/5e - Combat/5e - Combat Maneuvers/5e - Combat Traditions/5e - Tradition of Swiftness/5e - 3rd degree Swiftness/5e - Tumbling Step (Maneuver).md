@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Tumbling Step
 created: 2026-08-14T12:39:24.144+02:00
-modified: 2026-08-17T08:06:43.121+02:00
-published: 2026-08-17T08:06:43.121+02:00
+modified: 2026-09-22T13:39:01.484+02:00
+published: 2026-09-22T13:39:01.484+02:00
 tags:
   - "#Maneuver"
   - "#5e"
@@ -37,4 +37,4 @@ status: ✅
 > |**Attack/Save:**||
 > |**Effect:**|AC |
 
-Your _AC_ increases by `3d6` until <u>the end of your turn</u>. If you move your full Speed on your turn, this _AC increase_ lasts until <u>the start of your next turn</u>.
+Your [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Armor Class|🛡️AC]] increases by `3d6` until <u>the end of your turn</u>. If you move your full [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Speed/5e - Speed|🏃‍♀️Speed]] on your turn, this [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Armor Class|🛡️AC]] increase lasts until <u>the start of your next turn</u>.

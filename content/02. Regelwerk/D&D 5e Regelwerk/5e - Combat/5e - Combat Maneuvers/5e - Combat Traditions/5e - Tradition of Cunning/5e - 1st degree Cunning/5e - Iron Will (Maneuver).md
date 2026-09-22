@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Iron Will
 created: 2026-08-12T12:49:28.697+02:00
-modified: 2026-08-17T08:00:01.218+02:00
-published: 2026-08-17T08:00:01.218+02:00
+modified: 2026-09-22T13:10:30.835+02:00
+published: 2026-09-22T13:10:30.835+02:00
 tags:
   - "#Maneuver"
   - "#5e"
@@ -37,4 +37,4 @@ status: ✅
 > |**Attack/Save:**||
 > |**Effect:**|ADV |
 
-You gain **ADV** on the <u>Save</u>.
+You gain **ADV** on the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Save]].

@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Stunning Strike
 created: 2026-08-11T16:04:02.731+02:00
-modified: 2026-08-17T07:56:23.446+02:00
-published: 2026-08-17T07:56:23.446+02:00
+modified: 2026-09-22T12:02:01.079+02:00
+published: 2026-09-22T12:02:01.079+02:00
 tags:
   - "#Maneuver"
   - "#5e"
@@ -40,4 +40,4 @@ status: ✅
 > |**Attack/Save:**|CON|
 > |**Effect:**|Stunned,Slowed,Exposed |
 
-On a _**hit**_ the Target makes a **CON Save**. _**Failure:**_ The Target is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Stunned|☠️Stunned]] until <u>the start of your next turn</u>. _**Success:**_ The Target is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Slowed|☠️Slowed]] until <u>the start of your next turn</u> and is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Exposed|☠️Exposed]] against the next <u>Attack roll</u> made against it.
+On a _**hit**_ the target makes a **CON Save**. _**Failure:**_ The Target is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Stunned|☠️Stunned]] until <u>the start of your next turn</u>. _**Success:**_ The target is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Slowed|☠️Slowed]] until <u>the start of your next turn</u> and is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Exposed|☠️Exposed]] against the next [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack Roll]] made against it.

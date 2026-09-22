@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Rally
 created: 2026-08-12T09:00:20.233+02:00
-modified: 2026-08-17T07:57:41.163+02:00
-published: 2026-08-17T07:57:41.163+02:00
+modified: 2026-09-22T12:05:10.178+02:00
+published: 2026-09-22T12:05:10.178+02:00
 tags:
   - "#Maneuver"
   - "#5e"
@@ -37,4 +37,4 @@ status: ✅
 > |**Attack/Save:**||
 > |**Effect:**|Temp. HP |
 
-Choose an ally of yours within range who can _see or hear_ you. That ally gains _Temporary Hit Points_ equal to `5 × X`.
+Choose an ally of yours within range who can _see or hear_ you. That ally gains [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Temporary Hit Points|💖Temporary Hit Points]] equal to `5 × X`.

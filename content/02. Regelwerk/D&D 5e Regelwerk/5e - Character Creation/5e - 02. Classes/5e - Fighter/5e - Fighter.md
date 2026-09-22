@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Fighter
 description: A master of martial techniques with expertise in a wide variety of weapons and combat maneuvers.
 created: 2026-07-31T11:11:41.436+02:00
-modified: 2026-09-21T12:52:35.786+02:00
-published: 2026-09-21T12:52:35.786+02:00
+modified: 2026-09-22T14:51:06.888+02:00
+published: 2026-09-22T14:51:06.888+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -17,6 +17,8 @@ status: ✅
 kurzbeschreibung: A master of martial techniques with expertise in a wide variety of weapons and combat maneuvers.
 classtype: Martial
 ---
+
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - 02. Classes|5e - 02. Classes]].
 
 # 🦸‍♀️5e - Fighter🦸‍♀️
 
@@ -185,7 +187,7 @@ You have a limited well of physical and mental stamina that you can draw on.
 
 **<u>Healing Surge:</u>** As a **Bonus Action**, you can expend a use of your **Second Wind** to regain [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|💖Hit Points]] equal to `1d10 + your Fighter level`.
 
-_**<u>Number of Uses:</u>**_ You can use this feature a number of times as stated in the <u>Fighter Class Table</u>. You regain `1` expended use when you finish a **Short Rest**, and you regain `all` expended uses when you finish a **Long Rest**.
+_**<u>Number of Uses:</u>**_ You can use this feature a number of times as shown in the <u>Fighter Class Table</u>. You regain `1` expended use when you finish a **Short Rest**, and you regain `all` expended uses when you finish a **Long Rest**.
 
 ### Level 2: Feats
 
@@ -195,16 +197,29 @@ You gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. F
 
 Choose one Archetype, which represents you best. Your Archetpye grants you new abilities at 3rd, 7th, 11th, 15th, and 19th level.
 
-| Archetype                                | Description                                                                                                                                                                        |
-| ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[🦸‍♀️5e - XXX\|🦸‍♀️5e - XXX]]         | -                                                                                                                                                                                 |
-| [[🦸‍♀️5e - XXX\|🦸‍♀️5e - XXX]]         | -                                                                                                                                                                                 |
-| [[🦸‍♀️5e - XXX\|🦸‍♀️5e - XXX]]         | -                                                                                                                                                                                 |
-| [[🦸‍♀️5e - XXX\|🦸‍♀️5e - XXX]]         | -                                                                                                                                                                                 |
-| [[🦸‍♀️5e - XXX\|🦸‍♀️5e - XXX]]         | -                                                                                                                                                                                 |
-| [[🦸‍♀️5e - XXX\|🦸‍♀️5e - XXX]]         | -                                                                                                                                                                                 |
-| [[🦸‍♀️5e - XXX\|🦸‍♀️5e - XXX]]         | -                                                                                                                                                                                 |
-| [[🦸‍♀️5e - Soldier\|🦸‍♀️5e - Soldier]] | Soldiers are battlefield hardened Fighters, who earn their living by fighting in wars. They could be mercenaries, men-at-arms, or unlucky peasants, who were drafted into an army. |
+```base
+formulas:
+  Archetype: link(file, title)
+  titleasname: link(file, title)
+properties:
+  formula.titleasname:
+    displayName: Name
+views:
+  - type: table
+    name: 5e - Fighter Archetypes
+    filters:
+      and:
+        - class.containsAll(link("5e - Fighter"))
+    order:
+      - formula.Archetype
+      - description
+    columnSize:
+      file.name: 243
+      note.level: 30
+      note.prerequisite: 144
+      note.repeatable: 34
+
+```
 
 <br>
 

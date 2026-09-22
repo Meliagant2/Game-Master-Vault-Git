@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Physical Resist
 created: 2026-08-12T12:50:32.926+02:00
-modified: 2026-08-17T08:02:01.837+02:00
-published: 2026-08-17T08:02:01.837+02:00
+modified: 2026-09-22T13:18:35.598+02:00
+published: 2026-09-22T13:18:35.598+02:00
 tags:
   - "#Maneuver"
   - "#5e"
@@ -37,4 +37,4 @@ status: ✅
 > |**Attack/Save:**||
 > |**Effect:**|ADV |
 
-You gain **ADV** on the <u>Save</u>.
+You gain **ADV** on the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Save]].

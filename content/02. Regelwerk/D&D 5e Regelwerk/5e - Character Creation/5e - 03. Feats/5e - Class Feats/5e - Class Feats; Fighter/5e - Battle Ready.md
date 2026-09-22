@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Battle Ready
 created: 2026-08-17T12:40:20.413+02:00
-modified: 2026-09-16T09:32:33.133+02:00
-published: 2026-09-16T09:32:33.133+02:00
+modified: 2026-09-22T11:34:51.971+02:00
+published: 2026-09-22T11:34:51.971+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -12,7 +12,7 @@ dateitags:
   - "#5e"
 status: ✅
 category: Class
-level: 6
+level: 10
 prerequisite: Fighter
 ---
 
@@ -24,7 +24,7 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Fea
 > | | |
 > |---|---|
 > |**Category**|Class |
-> |**Level Requirement**|6 |
+> |**Level Requirement**|10 |
 > |**Prerequisite**|Fighter |
 > |**Repeatable**| |
 

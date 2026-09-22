@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Goading Attack
 created: 2026-08-11T15:46:53.337+02:00
-modified: 2026-08-17T07:57:29.544+02:00
-published: 2026-08-17T07:57:29.544+02:00
+modified: 2026-09-22T12:04:13.396+02:00
+published: 2026-09-22T12:04:13.396+02:00
 tags:
   - "#Maneuver"
   - "#5e"
@@ -38,4 +38,4 @@ status: ✅
 > |**Attack/Save:**|WIS|
 > |**Effect:**|Taunted |
 
-On a _**hit**_ the Target makes a **repeated WIS Save**. _**Failure:**_ The Target is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Taunted|☠️Taunted]] by you for <u>1 minute</u>. _**Success:**_ The Target is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Taunted|☠️Taunted]] by you until <u>the end of its next turn</u>.
+On a _**hit**_ the target makes a **repeated WIS Save**. _**Failure:**_ The target is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Taunted|☠️Taunted]] by you for <u>1 minute</u>. _**Success:**_ The target is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Taunted|☠️Taunted]] by you until <u>the end of its next turn</u>.

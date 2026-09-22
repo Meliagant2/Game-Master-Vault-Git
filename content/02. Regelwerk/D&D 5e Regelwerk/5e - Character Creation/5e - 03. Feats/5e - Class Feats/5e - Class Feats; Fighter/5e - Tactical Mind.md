@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Tactical Mind
 created: 2026-09-15T15:19:12.879+02:00
-modified: 2026-09-16T09:58:44.545+02:00
-published: 2026-09-16T09:58:44.545+02:00
+modified: 2026-09-22T11:41:46.572+02:00
+published: 2026-09-22T11:41:46.572+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -12,7 +12,7 @@ dateitags:
   - "#5e"
 status: ✅
 category: Class
-level: 2
+level: 4
 prerequisite: Fighter
 source: Player's Handbook 2024
 ability:
@@ -27,7 +27,7 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Fea
 > | | |
 > |---|---|
 > |**Category**|Class |
-> |**Level Requirement**|2 |
+> |**Level Requirement**|4 |
 > |**Prerequisite**|Fighter |
 > |**Repeatable**| |
 

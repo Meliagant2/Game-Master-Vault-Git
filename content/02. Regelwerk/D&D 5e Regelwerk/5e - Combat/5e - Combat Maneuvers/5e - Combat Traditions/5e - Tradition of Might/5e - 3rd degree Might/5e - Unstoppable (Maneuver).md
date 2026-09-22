@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Unstoppable
 created: 2026-08-12T14:26:26.117+02:00
-modified: 2026-08-17T08:02:47.463+02:00
-published: 2026-08-17T08:02:47.463+02:00
+modified: 2026-09-22T13:25:47.351+02:00
+published: 2026-09-22T13:25:47.351+02:00
 tags:
   - "#Maneuver"
   - "#5e"
@@ -37,4 +37,4 @@ status: ✅
 > |**Attack/Save:**||
 > |**Effect:**|Buff |
 
-You reroll that <u>Save</u> and you do so with **ADV**.
+You reroll that [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Save]] and you do so with **ADV**.

@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Perceptive Stance
 created: 2026-08-12T12:52:17.381+02:00
-modified: 2026-09-17T19:07:50.555+02:00
-published: 2026-09-17T19:07:50.555+02:00
+modified: 2026-09-22T11:54:50.635+02:00
+published: 2026-09-22T11:54:50.635+02:00
 tags:
   - "#Maneuver"
   - "#5e"
@@ -38,4 +38,4 @@ status: ✅
 > |**Attack/Save:**||
 > |**Effect:**|Utility,Search |
 
-When you take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Search|⚔️Search]] Action, you gain a `1d4` bonus for that check.
+When you take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Search|⚔️Search]] action, you gain a `1d4` bonus for that [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Ability Check/5e - Ability Check|🎲Check]].

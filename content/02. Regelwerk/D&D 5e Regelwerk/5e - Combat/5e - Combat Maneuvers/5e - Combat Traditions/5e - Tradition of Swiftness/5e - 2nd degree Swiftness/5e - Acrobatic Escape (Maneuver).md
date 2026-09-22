@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Acrobatic Escape
 created: 2026-08-12T13:33:34.879+02:00
-modified: 2026-08-17T08:06:10.056+02:00
-published: 2026-08-17T08:06:10.056+02:00
+modified: 2026-09-22T13:35:59.808+02:00
+published: 2026-09-22T13:35:59.808+02:00
 tags:
   - "#Maneuver"
   - "#5e"
@@ -37,4 +37,4 @@ status: ✅
 > |**Attack/Save:**||
 > |**Effect:**|Movement |
 
-Immediately after the _triggering Attack_ resolves, you move up to <u>half your Speed</u> away from the attacker without provoking [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Reactions/5e - Opportunity Attack|⚔️Opportunity Attacks]].
+Immediately after the _triggering_ [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack]] resolves, you move up to <u>half your Speed</u> away from the attacker without provoking [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Reactions/5e - Opportunity Attack|⚔️Opportunity Attacks]].

@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Expert Sidestep
 created: 2026-08-13T12:28:27.074+02:00
-modified: 2026-08-17T08:06:31.776+02:00
-published: 2026-08-17T08:06:31.776+02:00
+modified: 2026-09-22T13:38:06.086+02:00
+published: 2026-09-22T13:38:06.086+02:00
 tags:
   - "#Maneuver"
   - "#5e"
@@ -38,4 +38,4 @@ status: ✅
 > |**Attack/Save:**||
 > |**Effect:**|AC,Movement |
 
-You increase your _AC_ against the _triggering Attack_ by an amount equal to `your PB`, or you increase your <u>DEX Save</u> by the same amount. You then move <u>5 feet</u> without provoking [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Reactions/5e - Opportunity Attack|⚔️Opportunity Attacks]].
+You increase your [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Armor Class|🛡️AC]] against the _triggering_ [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack]] by an amount equal to `your PB`, or you increase your <u>DEX</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Save]] by the same amount. You then move <u>5 feet</u> without provoking [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Reactions/5e - Opportunity Attack|⚔️Opportunity Attacks]].

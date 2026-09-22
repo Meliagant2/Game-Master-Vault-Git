@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Inquisitor
 description: Inquisitors root evil out to burn it away utterly, giving light to all that is innocent and good.
 created: 2026-08-26T09:09:32.253+02:00
-modified: 2026-09-21T14:32:40.588+02:00
-published: 2026-09-21T14:32:40.588+02:00
+modified: 2026-09-22T10:13:37.830+02:00
+published: 2026-09-22T10:13:37.830+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -33,9 +33,7 @@ You can channel divine energy to fuel magical effects. Other Paladin features mi
 
 If a **Channel Oath** effect requires a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Save]], the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Difficulty Class/5e - Difficulty Class|🎲DC]] equals the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Effects/5e - Spell Save|☄️Spell Save DC]] from this class's Spellcasting feature.
 
-**<u>Incite:</u>** As a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Magic Action|⚔️Magic]] action, you can expend one use of your **Channel Oath** to better seek out wickedness and corruption. For the next <u>10 minutes</u>, you have **ADV** on [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - WIS Skills/5e - Insight|💃Insight]] and [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - INT Skills/5e - Investigation|💃Investigation]] [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Ability Check/5e - Ability Check|🎲Checks]].
-
-During that time, you can take a **Bonus Action** to choose a creature you can see within <u>10 feet</u> of you. The target makes a **CHA Save**. _**Failure:**_ The target has the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Frightened|☠️Frightened]] condition for <u>1 minute</u>. While the target is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Frightened|☠️Frightened]] in this way, it can't speak a deliberate lie. The condition ends early if the target takes damage or if you use this **Bonus Action** again.
+**<u>Castigate:</u>** As a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Magic Action|⚔️Magic]] action, you can expend one use of your **Channel Oath** to clap those you would bring to justice in fiery shackles. Choose a number of creatures up to `your CHA (minimum of 1 creature)` you can see within <u>30 feet</u> of yourself. Each of those creatures makes a **repeated STR Save**. _**Failure:**_ The creature is wrapped in shackles and has the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Immobilized|☠️Immobilized]] condition for <u>1 minute</u>. As a **Bonus Action**, you can cause the shackles to flare. Each creature bound by the shackles takes `2d6` <u>Fire</u> damage. While the target is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Immobilized|☠️Immobilized]] in this way, it can't speak a deliberate lie
 
 _**<u>Number of Uses:</u>**_ You can use this feature a number of times as stated in the <u>Paladin Class Table</u>. You regain `1` expended use when you finish a **Short Rest**, and you regain `all` expended uses when you finish a **Long Rest**.
 
@@ -57,9 +55,8 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 While in your **Sacred Aura**, your aura gains the following benefits:
 
-**<u>Kindling Aura:</u>** You and every ally within your aura gain a bonus to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - WIS Skills/5e - Insight|💃Insight]] and [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - INT Skills/5e - Investigation|💃Investigation]] [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Ability Check/5e - Ability Check|🎲Checks]] equal to `your CHA (minimum of +1)`.
-
-**<u>Terrifying Aura:</u>** A creature that is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Frightened|☠️Frightened]] by you has a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Speed/5e - Speed|🏃‍♀️Speed]] of `0`, while within your aura and it takes <u>Psychic</u> damage equal to `1/2 x your Paladin level`, if it starts its turn there.
+**<u>Kindling:</u>** You and your allies ignore creature's <u>Resistance</u> to <u>Fire</u>, <u>Necrotic</u> and <u>Radiant</u> damage, and when you or one of your allies _hits_ a creature with a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Weapon Attack|🎲Weapon Attack]], they can choose to deal <u>Fire</u> damage or the weapon's normal damage type.
+**<u>Search the Wicked:</u>** You and every ally within your aura gain a bonus to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - WIS Skills/5e - Insight|💃Insight]] and [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - INT Skills/5e - Investigation|💃Investigation]] [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Ability Check/5e - Ability Check|🎲Checks]] equal to `your CHA (minimum of +1)`.
 
 ### Level 11: Scornful Rebuke
 

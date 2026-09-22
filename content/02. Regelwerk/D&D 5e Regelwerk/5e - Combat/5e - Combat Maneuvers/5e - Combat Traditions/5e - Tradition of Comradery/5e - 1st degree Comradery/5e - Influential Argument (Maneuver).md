@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Influential Argument
 created: 2026-08-12T08:59:28.244+02:00
-modified: 2026-08-17T07:57:31.658+02:00
-published: 2026-08-17T07:57:31.658+02:00
+modified: 2026-09-22T12:04:18.957+02:00
+published: 2026-09-22T12:04:18.957+02:00
 tags:
   - "#Maneuver"
   - "#5e"
@@ -37,4 +37,4 @@ status: ✅
 > |**Attack/Save:**||
 > |**Effect:**|Social |
 
-When you take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Influence|⚔️Influence]] Action, you add `2 x X` to the roll.
+When you take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Influence|⚔️Influence]] action, you add `2 x X` to the roll.

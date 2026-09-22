@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Dancer
 description: Dancers practice a way of being in harmony with the ever-whirling cosmos, emphasizing agility, speed, and grace.
 created: 2026-08-07T13:42:55.828+02:00
-modified: 2026-09-16T10:56:35.698+02:00
-published: 2026-09-16T10:56:35.698+02:00
+modified: 2026-09-22T11:29:29.479+02:00
+published: 2026-09-22T11:29:29.479+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -27,9 +27,9 @@ You have **ADV** on [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skill
 
 ### Level 3: Dazzling Footwork
 
-While you aren’t wearing [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Armor/5e - Armor|⛑️Armor]] or wielding a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Shields/5e - Shields|🛡️Shield]], you gain the following benefits:
+While you aren’t wearing [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Armor/5e - Armor|⛑️Armor]], you gain the following benefits:
 
-**<u>Unarmored Defense:</u>** Your base [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Armor Class|🛡️AC]] equals `10 + DEX + CHA`.
+**<u>Unarmored Defense:</u>** Your base [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Armor Class|🛡️AC]] equals `10 + DEX + CHA`. You can use a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Shields/5e - Shields|🛡️Shield]] and still gain this benefit.
 
 **<u>Agile Strikes:</u>** When you expend a use of your **Bardic Inspiration** as part of an **Action**, a **Bonus Action**, or a **Reaction**, you can make one [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Unarmed Strike|⚔️Unarmed Strike]] as part of that **Action**, **Bonus Action**, or **Reaction**.
 

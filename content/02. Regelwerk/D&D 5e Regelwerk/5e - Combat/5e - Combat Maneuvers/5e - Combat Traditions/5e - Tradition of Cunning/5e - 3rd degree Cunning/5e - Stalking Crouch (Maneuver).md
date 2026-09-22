@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Stalking Crouch
 created: 2026-08-13T16:32:08.620+02:00
-modified: 2026-08-17T08:00:54.296+02:00
-published: 2026-08-17T08:00:54.296+02:00
+modified: 2026-09-22T13:14:53.070+02:00
+published: 2026-09-22T13:14:53.070+02:00
 tags:
   - "#Maneuver"
   - "#5e"
@@ -37,4 +37,4 @@ status: ✅
 > |**Attack/Save:**||
 > |**Effect:**|Hide |
 
-You take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Hide|⚔️Hide]] action with **ADV** and a `+5` bonus. As long as you remain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Hidden|☠️Hidden]] and do not move more than _half_ your Speed in a round, any creature trying to actively detect you make their <u>Perception Check</u> with **DISADV**.
+You take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Hide|⚔️Hide]] action with **ADV** and a `+5` bonus. As long as you remain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Hidden|☠️Hidden]] and do not move more than _half_ your [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Speed/5e - Speed|🏃‍♀️Speed]] in a round, any creature trying to actively detect you makes its [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - WIS Skills/5e - Perception|💃Perception]] [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Ability Check/5e - Ability Check|🎲Check]] with **DISADV**.

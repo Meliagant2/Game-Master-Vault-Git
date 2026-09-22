@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Pursuit
 created: 2026-08-12T11:44:30.931+02:00
-modified: 2026-08-17T08:02:25.510+02:00
-published: 2026-08-17T08:02:25.510+02:00
+modified: 2026-09-22T13:23:17.408+02:00
+published: 2026-09-22T13:23:17.408+02:00
 tags:
   - "#Maneuver"
   - "#5e"
@@ -39,6 +39,6 @@ status: ✅
 > |**Attack/Save:**|Melee|
 > |**Effect:**|Movement,Attack |
 
-You move up to <u>half your Speed</u> in the same direction as the _triggering creature_ and make a single <u>melee weapon attack</u> or an [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Unarmed Strike|⚔️Unarmed Strike]] against it, if it is within your reach. This movement does not provoke [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Reactions/5e - Opportunity Attack|⚔️Opportunity Attacks]].
+You move up to <u>half your Speed</u> in the same direction as the _triggering creature_ and make a single <u>melee</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Weapon Attack|🎲Weapon Attack]] or an [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Unarmed Strike|⚔️Unarmed Strike]] against it, if it is within your reach. This movement does not provoke [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Reactions/5e - Opportunity Attack|⚔️Opportunity Attacks]].
 
 This Maneuver is not an [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Reactions/5e - Opportunity Attack|⚔️Opportunity Attack]] and therefore ignores features that prevent them.

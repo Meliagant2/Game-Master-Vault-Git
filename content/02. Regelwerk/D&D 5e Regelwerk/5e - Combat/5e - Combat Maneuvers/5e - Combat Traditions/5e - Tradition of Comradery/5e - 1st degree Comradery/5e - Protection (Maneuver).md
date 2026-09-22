@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Protection
 created: 2026-08-11T15:20:53.227+02:00
-modified: 2026-08-17T07:57:37.456+02:00
-published: 2026-08-17T07:57:37.456+02:00
+modified: 2026-09-22T12:04:54.696+02:00
+published: 2026-09-22T12:04:54.696+02:00
 tags:
   - "#Maneuver"
   - "#5e"
@@ -37,4 +37,4 @@ status: ✅
 > |**Attack/Save:**||
 > |**Effect:**|DISADV |
 
-You impose **DISADV** on the _triggering Attack Roll_ and all other <u>Attack Rolls</u> against the Target until <u>the start of your next turn</u> as long as you remain within <u>5 feet</u> of the Target.
+You impose **DISADV** on the _triggering_ [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack Roll]] and all other [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack Rolls]] against the target until <u>the start of your next turn</u> as long as you remain within <u>5 feet</u> of the target.

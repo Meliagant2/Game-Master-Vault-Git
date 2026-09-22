@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Eye Slash
 created: 2026-08-12T11:29:04.178+02:00
-modified: 2026-08-17T07:59:58.818+02:00
-published: 2026-08-17T07:59:58.818+02:00
+modified: 2026-09-22T13:10:03.496+02:00
+published: 2026-09-22T13:10:03.496+02:00
 tags:
   - "#Maneuver"
   - "#5e"
@@ -38,4 +38,4 @@ status: ✅
 > |**Attack/Save:**|CON|
 > |**Effect:**|Blinded |
 
-On a _**hit**_ the Target makes a **CON Save**. _**Failure:**_ The target is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Blinded|☠️Blinded]] until <u>the end of its next turn</u>.
+On a _**hit**_ the target makes a **CON Save**. _**Failure:**_ The target is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Blinded|☠️Blinded]] until <u>the end of its next turn</u>.

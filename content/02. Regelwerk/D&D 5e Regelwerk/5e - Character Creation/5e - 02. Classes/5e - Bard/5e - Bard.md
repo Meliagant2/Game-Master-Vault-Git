@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Bard
 description: A charismatic performer who uses their music as a conduit to wield powerful magic.
 created: 2026-07-31T10:15:39.250+02:00
-modified: 2026-09-18T15:43:25.825+02:00
-published: 2026-09-18T15:43:25.825+02:00
+modified: 2026-09-22T10:06:41.251+02:00
+published: 2026-09-22T10:06:41.251+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -15,6 +15,8 @@ dateitags:
 image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Bard 5e.png]]"
 status: ✅
 ---
+
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - 02. Classes|5e - 02. Classes]].
 
 # 🦸‍♀️5e - Bard🦸‍♀️
 
@@ -538,16 +540,29 @@ You gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. F
 
 Choose one Archetype, which represents you best. Your Archetpye grants you new abilities at 3rd, 7th, 11th, 15th, and 19th level.
 
-| Archetype                                              | Description                                                                                                                |
-| ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
-| [[🦸‍♀️5e - Dancer\|🦸‍♀️5e - Dancer]]                 | Dancers practice a way of being in harmony with the ever-whirling cosmos, emphasizing agility, speed, and grace.           |
-| [[🦸‍♀️5e - Fortune Teller\|🦸‍♀️5e - Fortune Teller]] | Fortune Tellers use magic techniques like crystal balls, palm reading, or tarot cards to get a glimpse in someones future. |
-| [[🦸‍♀️5e - XXX\|🦸‍♀️5e - XXX]]                       | -                                                                                                                         |
-| [[🦸‍♀️5e - XXX\|🦸‍♀️5e - XXX]]                       | -                                                                                                                         |
-| [[🦸‍♀️5e - XXX\|🦸‍♀️5e - XXX]]                       | -                                                                                                                         |
-| [[🦸‍♀️5e - XXX\|🦸‍♀️5e - XXX]]                       | -                                                                                                                         |
-| [[🦸‍♀️5e - XXX\|🦸‍♀️5e - XXX]]                       | -                                                                                                                         |
-| [[🦸‍♀️5e - XXX\|🦸‍♀️5e - XXX]]                       | -                                                                                                                         |
+```base
+formulas:
+  Archetype: link(file, title)
+  titleasname: link(file, title)
+properties:
+  formula.titleasname:
+    displayName: Name
+views:
+  - type: table
+    name: 5e - Bard Archetypes
+    filters:
+      and:
+        - class.containsAll(link("5e - Bard"))
+    order:
+      - formula.Archetype
+      - description
+    columnSize:
+      file.name: 243
+      note.level: 30
+      note.prerequisite: 144
+      note.repeatable: 34
+
+```
 
 <br>
 

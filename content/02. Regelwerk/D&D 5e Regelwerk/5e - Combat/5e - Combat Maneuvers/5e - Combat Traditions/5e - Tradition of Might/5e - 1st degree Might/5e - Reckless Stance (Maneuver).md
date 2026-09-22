@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Reckless Stance
 created: 2026-08-13T11:00:17.473+02:00
-modified: 2026-08-17T08:02:06.034+02:00
-published: 2026-08-17T08:02:06.034+02:00
+modified: 2026-09-22T13:19:27.433+02:00
+published: 2026-09-22T13:19:27.433+02:00
 tags:
   - "#Maneuver"
   - "#5e"
@@ -37,4 +37,4 @@ status: ✅
 > |**Attack/Save:**||
 > |**Effect:**|Buff |
 
-Your <u>melee weapon attacks</u> gain an <u>expertise die</u>, but <u>attack rolls</u> against you also gain an <u>expertise die</u>.
+When you make a <u>melee</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Weapon Attack|🎲Weapon Attack]], you gain a `1d4` bonus to that roll, but [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack Rolls]] made against you, also gain a `1d4` bonus.

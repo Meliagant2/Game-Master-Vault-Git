@@ -2,8 +2,8 @@
 publish: true
 title: 🎎5e - Eladrin
 created: 2026-07-20T18:00:21.058+02:00
-modified: 2026-09-09T13:35:05.355+02:00
-published: 2026-09-09T13:35:05.355+02:00
+modified: 2026-09-22T13:49:07.777+02:00
+published: 2026-09-22T13:49:07.777+02:00
 tags:
   - "#Culture"
   - "#5e"
@@ -38,7 +38,7 @@ Characters raised in the eladrin culture share a variety of traits in common wit
 
 **<u>Eladrin Weapon Training:</u>** You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Proficiency|🎲Proficiency]] with [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Swords/5e - Swords|🗡️Swords]].
 
-**<u>Languages:</u>** You have <u>three</u> **mastery levels** in [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Common|🗣️Common]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Elvish (Wood)|🗣️Elvish (Wood)]] and [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Sylvan|🗣️Sylvan]]
+**<u>Languages:</u>** You have <u>three</u> **mastery levels** in [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Common|🗣️Common]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Elvish (Wood)|🗣️Elvish (Wood)]] and [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Sylvan|🗣️Sylvan]] each.
 
 **<u>Fey Sublimation:</u>** In addition to being _Humanoid_, you also have the _Fey_ creature type.
 

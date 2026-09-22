@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Tactical Assessment
 created: 2026-08-12T09:10:44.515+02:00
-modified: 2026-08-17T07:59:29.758+02:00
-published: 2026-08-17T07:59:29.758+02:00
+modified: 2026-09-22T13:10:57.378+02:00
+published: 2026-09-22T13:10:57.378+02:00
 tags:
   - "#Maneuver"
   - "#5e"
@@ -38,4 +38,4 @@ status: ✅
 > |**Attack/Save:**||
 > |**Effect:**|Social,Study |
 
-When you take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Study|⚔️Study]] Action, you add `2 x X` to the roll.
+When you take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Study|⚔️Study]] action, you add `2 x X` to the roll.

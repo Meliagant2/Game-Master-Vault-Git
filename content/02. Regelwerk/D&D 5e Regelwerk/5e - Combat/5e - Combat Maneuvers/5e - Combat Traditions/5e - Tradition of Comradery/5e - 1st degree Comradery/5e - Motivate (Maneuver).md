@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Motivate
 created: 2026-08-14T11:01:28.070+02:00
-modified: 2026-08-17T07:57:34.275+02:00
-published: 2026-08-17T07:57:34.275+02:00
+modified: 2026-09-22T12:04:26.335+02:00
+published: 2026-09-22T12:04:26.335+02:00
 tags:
   - "#Maneuver"
   - "#5e"
@@ -14,7 +14,7 @@ saveart: ""
 reactionbedingung: " "
 tradition: Comradery
 degree: 1
-exertioncost: "1"
+exertioncost: "2"
 time: BA
 weapon: Any
 effect:
@@ -29,7 +29,7 @@ status: ✅
 > |---|---|
 > |**Tradition**|Comradery |
 > |**Degree**|1 |
-> |**Exertion Cost**|1 |
+> |**Exertion Cost**|2 |
 > |**Use Time:**|BA  |
 > |**Weapon Type:**|Any |
 > |**Range/Area:**| |

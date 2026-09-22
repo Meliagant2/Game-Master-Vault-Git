@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Dazing Strike
 created: 2026-08-12T09:33:13.478+02:00
-modified: 2026-08-17T08:02:35.474+02:00
-published: 2026-08-17T08:02:35.474+02:00
+modified: 2026-09-22T13:24:26.349+02:00
+published: 2026-09-22T13:24:26.349+02:00
 tags:
   - "#Maneuver"
   - "#5e"
@@ -39,4 +39,4 @@ status: ✅
 > |**Attack/Save:**|CON|
 > |**Effect:**|Dazed,Hindered |
 
-On a _**hit**_ the Target makes a **CON Save**. _**Failure:**_ The Target is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Dazed|☠️Dazed]] until <u>the end of its next turn</u>. _**Success:**_ The Target is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Hindered|☠️Hindered]] for its next <u>attack roll</u> it makes before <u>the start of your next turn</u>.
+On a _**hit**_ the target makes a **CON Save**. _**Failure:**_ The target is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Dazed|☠️Dazed]] until <u>the end of its next turn</u>. _**Success:**_ The target is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Hindered|☠️Hindered]] on its next [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack Roll]] it makes before <u>the start of your next turn</u>.

@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Guardian
 description: Guardians are sworn to protect the common folk and guards against rampaging monsters.
 created: 2026-08-26T09:09:32.253+02:00
-modified: 2026-09-21T15:34:09.408+02:00
-published: 2026-09-21T15:34:09.408+02:00
+modified: 2026-09-22T09:33:18.537+02:00
+published: 2026-09-22T09:33:18.537+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -53,7 +53,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 ### Level 7: Aura of the Guardian
 
-You can shield others from harm at the cost of your own health. When a creature within your **Sacred Aura** taked damage, you can magically take that damage, instead of that creature taking it (**no Action** required). This feature doesn't transfer any other effects that might accompany the damage, and this damage can't be reduced in any way.
+You can shield others from harm at the cost of your own health. When a creature within your **Sacred Aura** takes damage, you can magically take that damage, instead of that creature taking it (**no Action** required). This feature doesn't transfer any other effects that might accompany the damage, and this damage can't be reduced in any way.
 
 ### Level 11: Protective Spirit
 

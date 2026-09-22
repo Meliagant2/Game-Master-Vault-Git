@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Splintering Shot
 created: 2026-08-12T10:34:24.628+02:00
-modified: 2026-08-17T08:06:27.256+02:00
-published: 2026-08-17T08:06:27.256+02:00
+modified: 2026-09-22T13:37:31.206+02:00
+published: 2026-09-22T13:37:31.206+02:00
 tags:
   - "#Maneuver"
   - "#5e"
@@ -39,4 +39,4 @@ status: ✅
 > |**Attack/Save:**|DEX|
 > |**Effect:**|Piercing,AOE |
 
-The Target and each creature within <u>5 feet</u> of it make a **DEX Save**. _**Failure:**_ A creature takes `2d6` <u>Piercing</u> damage. _**Success:**_ A creature takes _half_ the damage only.
+The target and each creature within <u>5 feet</u> of it make a **DEX Save**. _**Failure:**_ A creature takes `2d6` <u>Piercing</u> damage. _**Success:**_ A creature takes _half_ the damage only.

@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Rapid Drink
 created: 2026-08-12T11:36:20.536+02:00
-modified: 2026-08-17T08:06:52.642+02:00
-published: 2026-08-17T08:06:52.642+02:00
+modified: 2026-09-22T13:38:40.277+02:00
+published: 2026-09-22T13:38:40.277+02:00
 tags:
   - "#Maneuver"
   - "#5e"
@@ -42,4 +42,4 @@ You drink a potion or administer a potion to a creature within <u>5 feet</u>.
 
 Alternatively, you splash a held container of liquid, such as a contact poison, holy water, or alchemical substance, at a target within <u>20 feet</u>. The target makes a **DEX Save**. _**Failure:**_ It is hit by the liquid.
 
-This maneuver can also be used to extinguish a small nonmagical fire in a 5-foot-square area.
+This maneuver can also be used to extinguish a small nonmagical fire in a <u>5-foot-square</u> area.

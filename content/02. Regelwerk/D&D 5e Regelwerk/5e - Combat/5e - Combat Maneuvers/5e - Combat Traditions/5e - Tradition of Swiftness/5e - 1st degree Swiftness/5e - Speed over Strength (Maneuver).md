@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Speed over Strength
 created: 2026-08-12T11:39:57.908+02:00
-modified: 2026-08-17T08:06:01.096+02:00
-published: 2026-08-17T08:06:01.096+02:00
+modified: 2026-09-22T13:35:13.888+02:00
+published: 2026-09-22T13:35:13.888+02:00
 tags:
   - "#Maneuver"
   - "#5e"
@@ -38,4 +38,4 @@ status: ✅
 > |**Attack/Save:**|Melee|
 > |**Effect:**|Attack |
 
-When a creature attacks you with a <u>melee weapon</u> that has the <u>heavy</u> property, or a _Large-sized_ or _larger_ creature attacks you with a natural weapon, you can use your **Reaction** to make a <u>melee weapon attack</u> or an [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Unarmed Strike|⚔️Unarmed Strike]] against it, using a weapon that doesn't have the <u>heavy</u> property, before the creature hits you.
+When a creature makes a <u>melee</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Weapon Attack|🎲Weapon Attack]] against you, using a weapon with the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Properties/5e - Heavy (Property)|🗡️Heavy]] property, or a _Large-sized_ or _larger_ creature [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attacks]] you with a natural weapon, you can use your **Reaction** to make a <u>melee</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Weapon Attack|🎲Weapon Attack]] or an [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Unarmed Strike|⚔️Unarmed Strike]] against it, using a weapon that doesn't have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Properties/5e - Heavy (Property)|🗡️Heavy]] property, before the creature hits you.

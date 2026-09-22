@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Tactical Shift
 created: 2026-09-15T15:20:51.532+02:00
-modified: 2026-09-15T15:21:58.272+02:00
-published: 2026-09-15T15:21:58.272+02:00
+modified: 2026-09-22T11:41:56.131+02:00
+published: 2026-09-22T11:41:56.131+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -12,7 +12,7 @@ dateitags:
   - "#5e"
 status: ✅
 category: Class
-level: 4
+level: 6
 prerequisite: Fighter
 source: Player's Handbook 2024
 ability:
@@ -27,7 +27,7 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Fea
 > | | |
 > |---|---|
 > |**Category**|Class |
-> |**Level Requirement**|4 |
+> |**Level Requirement**|6 |
 > |**Prerequisite**|Fighter |
 > |**Repeatable**| |
 

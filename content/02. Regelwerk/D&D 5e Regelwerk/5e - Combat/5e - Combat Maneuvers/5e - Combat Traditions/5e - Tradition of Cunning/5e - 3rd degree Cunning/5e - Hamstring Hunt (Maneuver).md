@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Hamstring Hunt
 created: 2026-08-13T16:36:46.830+02:00
-modified: 2026-08-17T08:00:49.270+02:00
-published: 2026-08-17T08:00:49.270+02:00
+modified: 2026-09-22T13:13:30.387+02:00
+published: 2026-09-22T13:13:30.387+02:00
 tags:
   - "#Maneuver"
   - "#5e"
@@ -40,4 +40,4 @@ status: ✅
 > |**Attack/Save:**|Melee/ Ranged|
 > |**Effect:**|Movement,Pushing,Pulling |
 
-On a _**hit**_ the target's speed is reduced by <u>10 feet</u> until <u>the end of its next turn</u>. In addition you can drive it into an adjacent unoccupied space of your choice. This movement does not provoke [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Reactions/5e - Opportunity Attack|⚔️Opportunity Attacks]]. If this movement would drive a creature off a cliff or into a similar hazard, it makes a **DEX Save** with **ADV**. _**Success:**_ It isn’t forced to move.
+On a _**hit**_ the target's [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Speed/5e - Speed|🏃‍♀️Speed]] is reduced by <u>10 feet</u> until <u>the end of its next turn</u>. In addition you can drive it into an adjacent unoccupied space of your choice. This movement does not provoke [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Reactions/5e - Opportunity Attack|⚔️Opportunity Attacks]]. If this movement would drive a creature off a cliff or into a similar hazard, it makes a **DEX Save** with **ADV**. _**Success:**_ It isn’t forced to move.

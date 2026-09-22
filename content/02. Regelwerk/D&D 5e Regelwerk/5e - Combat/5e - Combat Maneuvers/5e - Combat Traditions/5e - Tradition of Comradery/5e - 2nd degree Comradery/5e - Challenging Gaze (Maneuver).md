@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Challenging Gaze
 created: 2026-08-13T11:15:17.935+02:00
-modified: 2026-08-17T07:57:58.002+02:00
-published: 2026-08-17T07:57:58.002+02:00
+modified: 2026-09-22T12:42:12.248+02:00
+published: 2026-09-22T12:42:12.248+02:00
 tags:
   - "#Maneuver"
   - "#5e"
@@ -38,4 +38,4 @@ status: ✅
 > |**Attack/Save:**|WIS|
 > |**Effect:**|Taunted |
 
-A creature of your choice within <u>30 feet</u> makes a **WIS Save**. _**Failure:**_ it is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Taunted|☠️Taunted]] by you and on its turn moves towards you to make as many attacks against you as it can. The condition ends when you attack a different creature or the creature is unable to attack. _**Success:**_ The Target is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Taunted|☠️Taunted]] by you until <u>the end of its next turn</u>.
+A creature of your choice within <u>30 feet</u> makes a **WIS Save**. _**Failure:**_ The target is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Taunted|☠️Taunted]] by you and on its turn moves towards you to make as many [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attacks]] against you as it can. The condition ends when you [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack]] a different creature or the creature is unable to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack]]. _**Success:**_ The target is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Taunted|☠️Taunted]] by you until <u>the end of its next turn</u>.

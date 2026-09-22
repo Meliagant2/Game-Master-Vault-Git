@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Counterattack
 created: 2026-08-14T11:57:38.419+02:00
-modified: 2026-08-17T08:04:10.382+02:00
-published: 2026-08-17T08:04:10.382+02:00
+modified: 2026-09-22T13:29:08.821+02:00
+published: 2026-09-22T13:29:08.821+02:00
 tags:
   - "#Maneuver"
   - "#5e"
@@ -38,4 +38,4 @@ status: ✅
 > |**Attack/Save:**|Melee|
 > |**Effect:**|Attack |
 
-You make a <u>melee weapon Attack</u> or an [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Unarmed Strike|⚔️Unarmed Strike]] against the attacker.
+You make a <u>melee</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Weapon Attack|🎲Weapon Attack]] or an [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Unarmed Strike|⚔️Unarmed Strike]] against the attacker.

@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Ambush
 created: 2026-08-11T15:23:11.360+02:00
-modified: 2026-08-17T07:59:03.023+02:00
-published: 2026-08-17T07:59:03.023+02:00
+modified: 2026-09-22T13:09:42.948+02:00
+published: 2026-09-22T13:09:42.948+02:00
 tags:
   - "#Maneuver"
   - "#5e"
@@ -37,4 +37,4 @@ status: ✅
 > |**Attack/Save:**||
 > |**Effect:**|ADV |
 
-You have **ADV** on the triggering roll. You can't use this Maneuver if you have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]] condition.
+You have **ADV** on the _triggering_ roll.

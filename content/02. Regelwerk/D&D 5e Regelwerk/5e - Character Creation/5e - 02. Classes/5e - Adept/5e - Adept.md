@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Adept
 description: A living weapon that hones their control over body and mind, and channels their unwavering focus to achieve amazing feats
 created: 2026-07-31T11:14:22.631+02:00
-modified: 2026-09-18T15:43:16.571+02:00
-published: 2026-09-18T15:43:16.571+02:00
+modified: 2026-09-22T10:06:33.905+02:00
+published: 2026-09-22T10:06:33.905+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -16,6 +16,8 @@ image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Monk 5e.png]]"
 status: ✅
 classtype: Martial
 ---
+
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - 02. Classes|5e - 02. Classes]].
 
 # 🦸‍♀️5e - Adept🦸‍♀️
 
@@ -209,16 +211,26 @@ You gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. F
 
 Choose one Archetype, which represents you best. Your Archetpye grants you new abilities at 3rd, 7th, 11th, 15th, and 19th level.
 
-| Archetype                                  | Description                              |
-| ------------------------------------------ | ---------------------------------------- |
-| [[🦸‍♀️5e - XXX\|🦸‍♀️5e - XXX]]           | -                                       |
-| [[🦸‍♀️5e - XXX\|🦸‍♀️5e - XXX]]           | -                                       |
-| [[🦸‍♀️5e - XXX\|🦸‍♀️5e - XXX]]           | -                                       |
-| [[🦸‍♀️5e - XXX\|🦸‍♀️5e - XXX]]           | -                                       |
-| [[🦸‍♀️5e - XXX\|🦸‍♀️5e - XXX]]           | -                                       |
-| [[🦸‍♀️5e - XXX\|🦸‍♀️5e - XXX]]           | -                                       |
-| [[🦸‍♀️5e - XXX\|🦸‍♀️5e - XXX]]           | -                                       |
-| [[🦸‍♀️5e - Pugulist\|🦸‍♀️5e - Pugulist]] | Pugulists are masters of unarmed combat. |
+```base
+formulas:
+  Archetype: link(file, title)
+  titleasname: link(file, title)
+properties:
+  formula.titleasname:
+    displayName: Name
+views:
+  - type: table
+    name: 5e - Adept Archetypes
+    filters:
+      and:
+        - class.containsAll(link("5e - Adept"))
+    order:
+      - formula.Archetype
+      - description
+    columnSize:
+      formula.Archetype: 121
+
+```
 
 <br>
 

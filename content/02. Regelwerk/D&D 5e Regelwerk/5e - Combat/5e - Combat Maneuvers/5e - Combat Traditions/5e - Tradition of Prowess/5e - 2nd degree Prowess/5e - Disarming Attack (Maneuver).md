@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Disarming Attack
 created: 2026-08-12T09:50:17.916+02:00
-modified: 2026-08-17T08:04:12.917+02:00
-published: 2026-08-17T08:04:12.917+02:00
+modified: 2026-09-22T13:29:26.298+02:00
+published: 2026-09-22T13:29:26.298+02:00
 tags:
   - "#Maneuver"
   - "#5e"
@@ -40,4 +40,4 @@ status: ✅
 
 On a _**hit**_ the target makes a **STR Save**. _**Failure:**_ The target drops one item of your choice it is holding in its space.
 
-The target makes the <u>Save</u> with **ADV** if it is _larger_ than you or holding the item with _two hands_, and with **DISADV** if it is _smaller_ than you.
+The target makes the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Save]] with **ADV** if it is _larger_ than you or holding the item with _two hands_, and with **DISADV** if it is _smaller_ than you.

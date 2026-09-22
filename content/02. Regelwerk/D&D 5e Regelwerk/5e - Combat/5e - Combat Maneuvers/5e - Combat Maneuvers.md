@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Combat Maneuvers
 created: 2026-07-20T12:11:02.666+02:00
-modified: 2026-08-17T08:17:21.743+02:00
-published: 2026-08-17T08:17:21.743+02:00
+modified: 2026-09-22T11:45:08.745+02:00
+published: 2026-09-22T11:45:08.745+02:00
 tags:
   - "#Combatrules"
   - "#5e"
@@ -30,6 +30,12 @@ Combat traditions are the basic disciplines of fighting that a warrior relies up
 Two warriors utilizing the same combat traditions might fight in entirely different ways with different weaponry. What they share in common are similar psychological states, approaching battle from the same mindset and concentrating on the same general objectives with their techniques.
 
 ```base
+formulas:
+  Tradition: link(file, title)
+  titleasname: link(file, title)
+properties:
+  formula.titleasname:
+    displayName: Name
 views:
   - type: table
     name: 5e - Combat Traditions
@@ -38,16 +44,14 @@ views:
         - dateitags.containsAll("#5e", "#Combattradition")
         - '!dateitags.contains("#Legacy")'
     order:
-      - file.name
+      - formula.Tradition
       - description
       - classes
     sort:
       - property: file.name
         direction: ASC
     columnSize:
-      note.degree: 84
-      note.time: 42
-      note.range-Area: 54
+      formula.Tradition: 178
 
 ```
 
@@ -98,6 +102,12 @@ Alternatively, you can meditate, refocus, and stretch to refill your exertion po
 These are the old A5e combat traditions.
 
 ```base
+formulas:
+  Tradition: link(file, title)
+  titleasname: link(file, title)
+properties:
+  formula.titleasname:
+    displayName: Name
 views:
   - type: table
     name: 5e - Legacy Combat Traditions
@@ -105,7 +115,7 @@ views:
       and:
         - dateitags.containsAll("#5e", "#Combattradition", "#Legacy")
     order:
-      - file.name
+      - formula.Tradition
       - description
       - classes
     sort:

@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Blazewing Butterfly Stance
 created: 2026-08-17T11:35:50.225+02:00
-modified: 2026-08-17T11:42:07.558+02:00
-published: 2026-08-17T11:42:07.558+02:00
+modified: 2026-09-22T13:41:00.425+02:00
+published: 2026-09-22T13:41:00.425+02:00
 tags:
   - "#Maneuver"
   - "#5e"
@@ -40,4 +40,4 @@ effect:
 > |**Attack/Save:**|WIS|
 > |**Effect:**|Fire,Taunted,Movement |
 
-Enemies, that start their turn within a <u>15 feet Emanation</u> of you make a **WIS Save**. _**Failure:**_ The creature takes <u>Fire</u> damage equal to `your PB` and is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Taunted|☠️Taunted]] by you until <u>the start of its next turn</u>. While it is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Taunted|☠️Taunted]] in this way, the creature can't willingly move away from you. _**Success:**_ The creature takes _half_ damage only and its Speed is reduced by <u>10 feet</u> until <u>the end of its current turn</u>.
+Enemies, that start their turn within a <u>15 feet Emanation</u> of you make a **WIS Save**. _**Failure:**_ The creature takes <u>Fire</u> damage equal to `your PB` and is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Taunted|☠️Taunted]] by you until <u>the start of its next turn</u>. While it is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Taunted|☠️Taunted]] in this way, the creature can't willingly move away from you. _**Success:**_ The creature takes _half_ damage only and its [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Speed/5e - Speed|🏃‍♀️Speed]] is reduced by <u>10 feet</u> until <u>the end of its current turn</u>.

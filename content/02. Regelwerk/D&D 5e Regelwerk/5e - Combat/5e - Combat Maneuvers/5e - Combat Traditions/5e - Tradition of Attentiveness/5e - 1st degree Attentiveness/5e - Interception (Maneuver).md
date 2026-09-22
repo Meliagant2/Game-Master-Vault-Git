@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Interception
 created: 2026-08-11T15:14:02.634+02:00
-modified: 2026-08-17T07:55:24.834+02:00
-published: 2026-08-17T07:55:24.834+02:00
+modified: 2026-09-22T11:53:10.815+02:00
+published: 2026-09-22T11:53:10.815+02:00
 tags:
   - "#Maneuver"
   - "#5e"
@@ -37,4 +37,4 @@ status: ✅
 > |**Attack/Save:**||
 > |**Effect:**|Damage Mitigation |
 
-You reduce the damage dealt to the Target by a number of `d6s` equal to `2 × PB`.  If this maneuver reduces the damage to `0`, the attack becomes a _miss_.
+You reduce the damage dealt to the target by a number of `d6s` equal to `2 × PB`.  If this maneuver reduces the damage to `0`, the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack]] becomes a _miss_.

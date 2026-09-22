@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Enhance Attack
 created: 2026-08-13T13:26:36.415+02:00
-modified: 2026-08-17T08:03:34.106+02:00
-published: 2026-08-17T08:03:34.106+02:00
+modified: 2026-09-22T13:26:41.738+02:00
+published: 2026-09-22T13:26:41.738+02:00
 tags:
   - "#Maneuver"
   - "#5e"
@@ -38,4 +38,4 @@ status: ✅
 > |**Attack/Save:**|Melee/ Ranged|
 > |**Effect:**|Attack |
 
-On a _**hit**_, your <u>weapon attack</u> or [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Unarmed Strike|⚔️Unarmed Strike]] deals an additional `2d6` damage.
+On a _**hit**_, your [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Weapon Attack|🎲Weapon Attack]] or [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Unarmed Strike|⚔️Unarmed Strike]] deals an additional `2d6` damage.

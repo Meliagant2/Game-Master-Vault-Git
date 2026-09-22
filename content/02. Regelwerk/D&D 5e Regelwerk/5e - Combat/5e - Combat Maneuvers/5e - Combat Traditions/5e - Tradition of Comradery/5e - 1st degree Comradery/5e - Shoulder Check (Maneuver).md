@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Shoulder Check
 created: 2026-08-13T09:25:42.935+02:00
-modified: 2026-08-17T07:57:47.815+02:00
-published: 2026-08-17T07:57:47.815+02:00
+modified: 2026-09-22T12:06:39.448+02:00
+published: 2026-09-22T12:06:39.448+02:00
 tags:
   - "#Maneuver"
   - "#5e"
@@ -38,6 +38,6 @@ status: ✅
 > |**Attack/Save:**||
 > |**Effect:**|Pushing,Movement |
 
-You make an **Athletics Check** against the creature's [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Rules/5e - Maneuver Save DC|🤺Maneuver Save DC]]. _**Success:**_ You _push_ the creature <u>10 feet</u> away from you and you then move <u>10 feet</u> in that direction.
+You make an [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - STR Skills/5e - Athletics|💃Athletics]] [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Ability Check/5e - Ability Check|🎲Check]] against the creature's [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Maneuver Rules/5e - Maneuver Save DC|🤺Maneuver Save DC]]. _**Success:**_ You [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Pushing|🏃‍♀️Push]] the creature <u>10 feet</u> away from you and you then move <u>10 feet</u> in that direction.
 
 This movement does not provoke [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Reactions/5e - Opportunity Attack|⚔️Opportunity Attacks]].

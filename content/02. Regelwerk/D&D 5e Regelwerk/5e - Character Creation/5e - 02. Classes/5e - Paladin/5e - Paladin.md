@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Paladin
 description: An oathbound warrior driven by an inner strength to champion their cause through might and holy magic.
 created: 2026-08-17T15:22:19.006+02:00
-modified: 2026-09-21T15:28:29.004+02:00
-published: 2026-09-21T15:28:29.004+02:00
+modified: 2026-09-22T10:27:36.843+02:00
+published: 2026-09-22T10:27:36.843+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -13,38 +13,11 @@ dateitags:
   - "#Classes"
   - "#5e"
 image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Paladin 5e.png]]"
-status: ⏳
+status: ✅
 classtype: Half Caster
 ---
 
-> [!metadata]- Metadata
->
-> > [!metadataoption]- Status
-> >
-> > #### Status
-> >
-> > | | |
-> > |---|---|
-> > |**Status** | `INPUT[Status][:status]` |
-> > |**Publish**|`INPUT[inlineSelect(option(true), option(false)):publish]`|
->
-> > [!metadataoption]- Bild
-> >
-> > #### Bild
-> >
-> > | | |
-> > |---|---|
-> > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
->
-> > [!metadataoption]- Info
-> >
-> > #### Info
-> >
-> > | | |
-> > |---|---|
-> > |**Display Title** | `INPUT[textArea:title]`|
-> > |**Kurzbeschreibung** | `INPUT[textArea:description]`|
-> > |**Class Type**|`INPUT[inlineSelect(option(Full Caster), option(Half Caster), option(Martial)):classtype]`|
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - 02. Classes|5e - 02. Classes]].
 
 # 🦸‍♀️5e - Paladin🦸‍♀️
 
@@ -77,7 +50,7 @@ Almost by definition, the life of a Paladin is an adventuring life, for every Pa
 | 14th  | +5  | +6 + CON |  +1d10  |                  | 3            | Class Feat, General Feat, Skill Feat                            |
 | 15th  | +5  | +6 + CON |  +1d10  |                  | 3            | Archetype Feature                                               |
 | 16th  | +5  | +6 + CON |  +1d10  |   +1 (max +5)    | 3            | Class Feat, General Feat, Skill Feat                            |
-| 17th  | +6  | +6 + CON |  +1d10  |                  | 3            | Sacred Warrior                                                  |
+| 17th  | +6  | +6 + CON |  +1d10  |                  | 3            | Undying Sentinel                                                |
 | 18th  | +6  | +6 + CON |  +1d10  |                  | 3            | Class Feat, General Feat, Skill Feat                            |
 | 19th  | +6  | +6 + CON |  +1d10  |                  | 3            | Archetype Feature                                               |
 | 20th  | +6  | +6 + CON |  +1d10  |   +1 (max +6)    | 3            | Aura Expansion, Epic Boon, Class Feat, General Feat, Skill Feat |
@@ -516,7 +489,7 @@ You can also expend `5` [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Po
 
 <u>Once per turn</u>, when you _**hit**_ a creature with a <u>melee</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Weapon Attack|🎲Weapon Attack]] or an [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Unarmed Strike|⚔️Unarmed Strike]], you can expend a spell slot to deal extra <u>Necrotic</u> or <u>Radiant</u> damage (your Choice) to the target, equal to `1d8 + 1d8 per level of the spell slot`. The damage increases by `1d8` if the target is a _Celestial_, _Fiend_ or an _Undead_.
 
-You cannot cast any spells using a spell slot the turn you used this feature.
+You cannot cast any spells using a spell slot the turn you used this feature. If a **Paladin's Smite** effect requires a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Save]], the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Difficulty Class/5e - Difficulty Class|🎲DC]] equals the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Spell Effects/5e - Spell Save|☄️Spell Save DC]] from this class's Spellcasting feature.
 
 ### Level 2: Feats
 
@@ -526,14 +499,29 @@ You gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. F
 
 Choose one Archetype, which represents you best. Your Archetpye grants you new abilities at 3rd, 7th, 11th, 15th, and 19th level.
 
-| Archetype                                        | Description                                                                                                                                      |
-| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [[🦸‍♀️5e - Crusader\|🦸‍♀️5e - Crusader]]       | Crusaders travel the world in search for their true purpose and to protect the realm from forces beyond.                                         |
-| [[🦸‍♀️5e - Guardian\|🦸‍♀️5e - Guardian]]       | Guardians are sworn to protect the common folk and guards against rampaging monsters.                                                            |
-| [[🦸‍♀️5e - Herald\|🦸‍♀️5e - Herald]]           | Heralds follow their ideals of justice and order. These Paladins meet the archetype of the knight in shining armor.                              |
-| [[🦸‍♀️5e - Inquisitor\|🦸‍♀️5e - Inquisitor]]   | Inquisitors root evil out to burn it away utterly, giving light to all that is innocent and good.                                                |
-| [[🦸‍♀️5e - Judge\|🦸‍♀️5e - Judge]]             | Judges are sworn to the ideals of civilization, be it the spirit of a nation, fealty to a sovereign, or service to a deity of law and rulership. |
-| [[🦸‍♀️5e - Sword Saint\|🦸‍♀️5e - Sword Saint]] | Sword Saints steel their combat prowess on a daily basis. They are often swown to punishing those who have committed grievously evil acts.       |
+```base
+formulas:
+  Archetype: link(file, title)
+  titleasname: link(file, title)
+properties:
+  formula.titleasname:
+    displayName: Name
+views:
+  - type: table
+    name: 5e - Paladin Archetypes
+    filters:
+      and:
+        - class.containsAll(link("5e - Paladin"))
+    order:
+      - formula.Archetype
+      - description
+    columnSize:
+      file.name: 243
+      note.level: 30
+      note.prerequisite: 144
+      note.repeatable: 34
+
+```
 
 <br>
 
@@ -609,11 +597,15 @@ You gain the 15th-level Archetype Feature of the Archetype you chose at 3rd leve
 
 You gain one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats|🥇Class Feat]], one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - General Feats/5e - General Feats|🥇General Feat]] and one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Skill Feats|🥇Skill Feat]] for which you qualify.
 
-### Level 17: Sacred Warrior
+### Level 17: Undying Sentinel
 
 You gain the following benefits:
 
-**<u>Charismatic:</u>** You are blessed with an otherworldly presence and have **ADV** on all <u>CHA</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Ability Check/5e - Ability Check|🎲Ability Checks]].
+**<u>Ever Young:</u>** You can't be aged magically, and you cease visibly aging.
+
+**<u>Restore Life:</u>** When you are reduced to `0` [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|💖Hit Points]] and not killed outright, you can drop to `1` [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|💖Hit Point]] instead, and you regain a number of [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|💖Hit Points]] equal to `3 x your Paladin level`.
+
+_**<u>Number of Uses:</u>**_ <u>Once</u> you've used this benefit, you can't use it again until you finish a **Long Rest**.
 
 ### Level 18: Feats
 

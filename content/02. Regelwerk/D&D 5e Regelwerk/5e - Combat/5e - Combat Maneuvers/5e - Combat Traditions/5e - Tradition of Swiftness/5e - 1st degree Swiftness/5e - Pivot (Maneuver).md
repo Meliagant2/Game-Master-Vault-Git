@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Pivot
 created: 2026-08-13T14:39:25.117+02:00
-modified: 2026-08-17T08:05:40.116+02:00
-published: 2026-08-17T08:05:40.116+02:00
+modified: 2026-09-22T13:34:06.429+02:00
+published: 2026-09-22T13:34:06.429+02:00
 tags:
   - "#Maneuver"
   - "#5e"
@@ -37,4 +37,4 @@ status: ✅
 > |**Attack/Save:**||
 > |**Effect:**|Movement |
 
-You move up to _half_ your speed. This movement does not provoke [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Reactions/5e - Opportunity Attack|⚔️Opportunity Attacks]].
+You move up to _half_ your [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Speed/5e - Speed|🏃‍♀️Speed]]. This movement does not provoke [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Reactions/5e - Opportunity Attack|⚔️Opportunity Attacks]].

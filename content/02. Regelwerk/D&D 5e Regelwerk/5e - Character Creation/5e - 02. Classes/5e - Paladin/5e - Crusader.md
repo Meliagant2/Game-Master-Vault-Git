@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Crusader
 description: Crusaders travel the world in search for their true purpose and to protect the realm from forces beyond.
 created: 2026-08-26T09:09:32.253+02:00
-modified: 2026-09-21T15:28:47.701+02:00
-published: 2026-09-21T15:28:47.701+02:00
+modified: 2026-09-22T08:41:20.744+02:00
+published: 2026-09-22T08:41:20.744+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -16,6 +16,8 @@ class:
   - "[[5e - Paladin]]"
 source: Tasha's Cauldron of Everything
 ---
+
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Paladin/5e - Paladin|5e - Paladin]].
 
 # 🦸‍♀️5e - Crusader🦸‍♀️
 

@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Evasive Footwork
 created: 2026-08-11T15:42:50.131+02:00
-modified: 2026-08-17T07:55:56.129+02:00
-published: 2026-08-17T07:55:56.129+02:00
+modified: 2026-09-22T11:57:36.488+02:00
+published: 2026-09-22T11:57:36.488+02:00
 tags:
   - "#Maneuver"
   - "#5e"
@@ -38,4 +38,4 @@ status: ✅
 > |**Attack/Save:**||
 > |**Effect:**|AC,Disengage |
 
-You take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Disengage|⚔️Disengage]] Action and increase your _AC_ by an amount equal to `X` until <u>the start of your next turn</u>.
+You take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Disengage|⚔️Disengage]] action and increase your [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Armor Class|🛡️AC]] by an amount equal to `X` until <u>the start of your next turn</u>.

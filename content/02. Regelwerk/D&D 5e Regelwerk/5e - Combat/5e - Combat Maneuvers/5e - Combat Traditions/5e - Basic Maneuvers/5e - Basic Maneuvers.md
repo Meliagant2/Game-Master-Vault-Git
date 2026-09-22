@@ -3,8 +3,8 @@ publish: true
 title: 🤺5e - Basic Maneuvers
 description: Basic Melee Maneuvers
 created: 2026-07-22T10:44:14.031+02:00
-modified: 2026-09-16T07:43:58.634+02:00
-published: 2026-09-16T07:43:58.634+02:00
+modified: 2026-09-22T11:50:28.759+02:00
+published: 2026-09-22T11:50:28.759+02:00
 tags:
   - "#Combatrules"
   - "#5e"
@@ -16,6 +16,8 @@ status: ✅
 classes:
   - All
 ---
+
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Maneuvers|5e - Combat Maneuvers]].
 
 # 🤺5e - Basic Maneuvers🤺
 
@@ -36,6 +38,12 @@ Basic Maneuvers are available to the following classes: _All_
 ### List of all Basic Maneuvers
 
 ```base
+formulas:
+  Maneuver: link(file, title)
+  titleasname: link(file, title)
+properties:
+  formula.titleasname:
+    displayName: Name
 views:
   - type: table
     name: 5e - Basic Maneuver; All Maneuvers
@@ -44,7 +52,7 @@ views:
         - dateitags.containsAll("#5e", "#Maneuver")
         - tradition.contains("Basic")
     order:
-      - file.name
+      - formula.Maneuver
       - degree
       - tradition
       - time
@@ -55,7 +63,9 @@ views:
       - property: file.name
         direction: ASC
     columnSize:
-      note.degree: 84
-      note.time: 42
-      note.range-Area: 54
+      note.degree: 32
+      note.time: 83
+      note.range-Area: 110
+      note.save-Att: 96
+
 ```

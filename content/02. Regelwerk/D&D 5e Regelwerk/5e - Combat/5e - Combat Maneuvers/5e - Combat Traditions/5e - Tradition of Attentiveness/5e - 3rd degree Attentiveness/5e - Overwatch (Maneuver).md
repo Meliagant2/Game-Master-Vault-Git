@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Overwatch
 created: 2026-08-13T16:22:35.749+02:00
-modified: 2026-08-17T07:56:10.552+02:00
-published: 2026-08-17T07:56:10.552+02:00
+modified: 2026-09-22T11:59:59.766+02:00
+published: 2026-09-22T11:59:59.766+02:00
 tags:
   - "#Maneuver"
   - "#5e"
@@ -38,4 +38,4 @@ status: ✅
 > |**Attack/Save:**|Melee/ Ranged|
 > |**Effect:**|Utility |
 
-You are no longer [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Surprised|☠️Surprised]], roll your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Initiative|🎲Initiative]] roll normally, and you can make one <u>weapon attack</u> or an [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Unarmed Strike|⚔️Unarmed Strike]] against an enemy within range.
+You are no longer [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Surprised|☠️Surprised]], roll your [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Initiative|🎲Initiative]] normally, and you can make one [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Weapon Attack|🎲Weapon Attack]] or an [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Unarmed Strike|⚔️Unarmed Strike]] against an enemy within your range.

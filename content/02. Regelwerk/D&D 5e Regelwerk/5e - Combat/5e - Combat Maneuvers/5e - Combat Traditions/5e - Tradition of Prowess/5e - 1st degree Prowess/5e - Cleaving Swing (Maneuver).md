@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Cleaving Swing
 created: 2026-08-12T14:03:36.859+02:00
-modified: 2026-08-17T08:03:31.808+02:00
-published: 2026-08-17T08:03:31.808+02:00
+modified: 2026-09-22T13:26:35.009+02:00
+published: 2026-09-22T13:26:35.009+02:00
 tags:
   - "#Maneuver"
   - "#5e"
@@ -38,4 +38,4 @@ status: ✅
 > |**Attack/Save:**|Melee|
 > |**Effect:**|Attack |
 
-You make an additional <u>melee weapon attack</u> or an [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Unarmed Strike|⚔️Unarmed Strike]] against a second creature that is also within your reach.
+You make an additional <u>melee</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Weapon Attack|🎲Weapon Attack]] or an [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Unarmed Strike|⚔️Unarmed Strike]] against a second creature that is also within your reach.

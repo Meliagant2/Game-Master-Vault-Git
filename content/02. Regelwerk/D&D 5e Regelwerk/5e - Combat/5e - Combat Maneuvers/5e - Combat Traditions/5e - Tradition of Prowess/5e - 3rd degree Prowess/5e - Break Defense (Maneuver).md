@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Break Defense
 created: 2026-08-13T15:08:41.824+02:00
-modified: 2026-08-17T08:04:37.587+02:00
-published: 2026-08-17T08:04:37.587+02:00
+modified: 2026-09-22T13:30:36.254+02:00
+published: 2026-09-22T13:30:36.254+02:00
 tags:
   - "#Maneuver"
   - "#5e"
@@ -38,6 +38,6 @@ status: ✅
 > |**Attack/Save:**|CON|
 > |**Effect:**|AC |
 
-On a _**hit**_ the target makes a **CON Save**. _**Failure:**_ The target's _AC_ is reduced by `3` until <u>the start of your next turn</u>. _**Success:**_ The target's _AC_ is reduced only by `1` for the duration.
+On a _**hit**_ the target makes a **CON Save**. _**Failure:**_ The target's [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Armor Class|🛡️AC]] is reduced by `3` until <u>the start of your next turn</u>. _**Success:**_ The target's [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Armor Class|🛡️AC]] is reduced only by `1` for the duration.
 
 A creature can be affected by this maneuver only <u>once</u> each round.
