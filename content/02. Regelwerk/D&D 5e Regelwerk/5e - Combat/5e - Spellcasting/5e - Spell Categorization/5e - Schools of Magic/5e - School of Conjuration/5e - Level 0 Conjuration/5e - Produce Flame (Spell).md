@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Produce Flame
 created: 2026-07-20T12:11:02.720+02:00
-modified: 2026-09-08T09:20:16.472+02:00
-published: 2026-09-08T09:20:16.472+02:00
+modified: 2026-09-23T13:55:04.664+02:00
+published: 2026-09-23T13:55:04.664+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -24,6 +24,7 @@ effect:
   - Fire
   - Light
 zauberliste:
+  - Divine
   - Primal
 source: Player's Handbook 2024
 ---
@@ -43,7 +44,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Duration:**|PT10M |
 > |**Concentration:**|  |
 > |**Attack/Save:**|DEX|
-> |**Spell List:**|Primal |
+> |**Spell List:**|Divine,Primal |
 
 A flickering flame appears in your hand and remains there for the duration. While there, the flame emits no heat and ignites nothing, and it sheds [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Illumination/5e - Bright Light|💡Bright Light]] in a <u>20-foot radius</u> and [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Illumination/5e - Dim Light|💡Dim Light]] for an additional <u>20 feet</u>. The spell ends if you dismiss it as a **Bonus Action** or if you cast it again.
 

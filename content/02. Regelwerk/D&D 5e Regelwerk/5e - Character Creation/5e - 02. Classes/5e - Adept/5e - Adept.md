@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Adept
 description: A living weapon that hones their control over body and mind, and channels their unwavering focus to achieve amazing feats
 created: 2026-07-31T11:14:22.631+02:00
-modified: 2026-09-22T10:06:33.905+02:00
-published: 2026-09-22T10:06:33.905+02:00
+modified: 2026-09-23T10:15:22.157+02:00
+published: 2026-09-23T10:15:22.157+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -110,6 +110,12 @@ Adepts generally view adventures as tests of their physical and mental developme
 #### Class Maneuvers
 
 ```base
+formulas:
+  Tradition: link(file, title)
+  titleasname: link(file, title)
+properties:
+  formula.titleasname:
+    displayName: Name
 views:
   - type: table
     name: 5e - Template; Choose Combat Tradition
@@ -119,16 +125,14 @@ views:
         - classes.contains("Adept")
         - '!dateitags.contains("#Legacy")'
     order:
-      - file.name
+      - formula.Tradition
       - description
       - classes
     sort:
       - property: file.name
         direction: ASC
     columnSize:
-      note.degree: 84
-      note.time: 42
-      note.range-Area: 54
+      formula.Tradition: 178
 
 ```
 
@@ -137,6 +141,12 @@ views:
 #### Fighting Style Feats
 
 ```base
+formulas:
+  Feat: link(file, title)
+  titleasname: link(file, title)
+properties:
+  formula.titleasname:
+    displayName: Name
 views:
   - type: table
     name: 5e - Class Feats; Fighting Styles
@@ -147,11 +157,12 @@ views:
         - category.contains("Class")
         - file.name.contains("Fighting Style")
     order:
-      - file.name
+      - formula.Feat
       - category
       - level
       - prerequisite
       - repeatable
+      - ability
       - source
     sort:
       - property: level

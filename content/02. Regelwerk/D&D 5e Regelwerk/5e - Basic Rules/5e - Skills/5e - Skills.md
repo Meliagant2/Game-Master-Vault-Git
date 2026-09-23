@@ -2,8 +2,8 @@
 publish: true
 title: 💃5e - Skills💃
 created: 2026-07-20T12:11:02.903+02:00
-modified: 2026-09-03T15:48:36.208+02:00
-published: 2026-09-03T15:48:36.208+02:00
+modified: 2026-09-23T09:21:28.230+02:00
+published: 2026-09-23T09:21:28.230+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -26,25 +26,6 @@ When a character attempts an ability check, the Game Master may decide that a sp
 Any skill can be used with any ability check, although some pairings are more common than others. For instance, the Deception skill is commonly used with Charisma ability checks, although a character who is attempting to encode a written message might instead make an Intelligence check using the Deception skill.
 
 Sometimes the Game Master will ask for an ability check using a certain skill: for instance, “Make a Charisma (Deception) check.” Other times, a Game Master may ask for an ability check, and a player might ask whether one of their skills applies to the check. The Game Master is the sole arbiter of which skill, if any, applies to an ability check. The rules sometimes refer to a check with a skill but no ability specified —for example, “Your character has advantage on Deception checks.” This refers to all ability checks using the Deception skill regardless of which ability score is used.
-
-### Skill Specialties
-
-In addition to having proficiency in a skill, a character may be an expert at a narrow area of specialization within that skill. For instance, a character proficient in the Deception skill may be particularly adept in communicating through written code.
-
-A character gains two skill specialties at 1st level (plus bonus knowledge), and gains an additional specialty whenever their proficiency bonus increases (at levels 5th, 9th, 13th, and 17th level). A character may choose any specialty in a skill in which they are proficient. A character may not gain the same skill specialty twice.
-
-When a character makes an ability check to which their skill specialty applies, they gain an expertise die for that ability check. The Game Master determines whether the skill specialty applies.
-
-While the list of skills below is fairly comprehensive, the Game Master may expand the list of skill specialties to meet the needs of the campaign world. Each of its cultures, historical eras, important organizations, and other unique details might furnish a specialty.
-
-<div class="description">
-<h2>Skill Specialties and Tool Kits</h2>
-<p>Tool kits do not offer specialties. However, a character proficient in a tool may occasionally substitute a skill proficiency and gain the benefit of a specialty. For instance, a character with proficiency in a playing card set might use Deception at a key part of a card game, using their poker face specialty. Similarly, a character proficient in land vehicles might use their Animal Handling skill to control a chariot on a tight bend, gaining the benefit of their specialty with driving animals.</p>
-</div>
-
-<br>
-
-See [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Tools|🛠️Tools]] for more information.
 
 ### Expertise or Modifiers?
 

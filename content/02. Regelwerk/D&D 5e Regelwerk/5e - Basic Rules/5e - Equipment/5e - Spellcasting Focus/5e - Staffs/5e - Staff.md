@@ -2,8 +2,8 @@
 publish: true
 title: 🎩5e - Staff
 created: 2026-08-31T12:11:56.367+02:00
-modified: 2026-08-31T12:13:39.540+02:00
-published: 2026-08-31T12:13:39.540+02:00
+modified: 2026-09-23T09:32:04.590+02:00
+published: 2026-09-23T09:32:04.590+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -41,7 +41,6 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 > |---|---|
 > |**Type** |Spellcasting Focus |
 > |**Category** |Staff |
-> |**Damage** |1d6 Bludgeoning |
 > |**Properties** |Two-Handed |
 > |**Mastery** |Bolster |
 > |**Attunement** |  |

@@ -2,8 +2,8 @@
 publish: true
 title: 🎎5e - Caravanner
 created: 2026-07-20T17:36:20.031+02:00
-modified: 2026-09-03T16:12:40.143+02:00
-published: 2026-09-03T16:12:40.143+02:00
+modified: 2026-09-23T11:08:46.182+02:00
+published: 2026-09-23T11:08:46.182+02:00
 tags:
   - "#Culture"
   - "#5e"
@@ -37,4 +37,4 @@ Characters raised in the caravanner culture share a variety of traits in common 
 
 **<u>Long Hauler:</u>** Sometimes riding in a caravan means enduring long hours and harsh weather. You have **ADV** on [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - D20 Tests|🎲D20 Tests]] made to avoid [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Fatigue|☠️Fatigue]].
 
-**<u>Mobile Living:</u>** You can create a ramshackle version of a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Vehicles/5e - Land Vehicles/5e - Cart|🚘Cart]] or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Vehicles/5e - Land Vehicles/5e - Wagon|🚘Wagon]] with <u>30 minutes</u> of work if you have access to raw or reclaimed materials. Ramshackle vehicles created in this way function identically to their normal counterparts, except their value is always 0, they have half as many [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|💖Hit Points]] as their normal counterparts, and they break and become useless if they are hit by any attack roll with a result of `Natural 20`.
+**<u>Mobile Living:</u>** You can create a ramshackle version of a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Vehicles/5e - Land Vehicles/5e - Cart|🚘Cart]] or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Vehicles/5e - Land Vehicles/5e - Wagon|🚘Wagon]] with <u>30 minutes</u> of work if you have access to raw or reclaimed materials. Ramshackle vehicles created in this way function identically to their normal counterparts, except their value is always `0`, they have half as many [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|💖Hit Points]] as their normal counterparts, and they break and become useless if they are hit by any [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack Roll]] with a result of `Natural 20`.

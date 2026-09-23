@@ -2,8 +2,8 @@
 publish: true
 title: 🦸‍♀️5e - Barbarian
 created: 2026-07-20T12:11:02.510+02:00
-modified: 2026-09-22T10:06:38.792+02:00
-published: 2026-09-22T10:06:38.792+02:00
+modified: 2026-09-23T11:41:10.181+02:00
+published: 2026-09-23T11:41:10.181+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -133,29 +133,41 @@ BESCHREIBUNG
 #### Class Maneuvers
 
 ```base
+formulas:
+  Tradition: link(file, title)
+  titleasname: link(file, title)
+properties:
+  formula.titleasname:
+    displayName: Name
 views:
   - type: table
     name: 5e - Template; Choose Combat Tradition
     filters:
       and:
         - dateitags.containsAll("#5e", "#Combattradition")
-        - classes.contains("ThisClass")
+        - classes.contains("Barbarian")
+        - '!dateitags.contains("#Legacy")'
     order:
-      - file.name
+      - formula.Tradition
       - description
       - classes
     sort:
       - property: file.name
         direction: ASC
     columnSize:
-      note.degree: 84
-      note.time: 42
-      note.range-Area: 54
+      formula.Tradition: 178
+      
 ```
 
 #### Fighting Style Feats
 
 ```base
+formulas:
+  Feat: link(file, title)
+  titleasname: link(file, title)
+properties:
+  formula.titleasname:
+    displayName: Name
 views:
   - type: table
     name: 5e - Class Feats; Fighting Styles
@@ -166,11 +178,12 @@ views:
         - category.contains("Class")
         - file.name.contains("Fighting Style")
     order:
-      - file.name
+      - formula.Feat
       - category
       - level
       - prerequisite
       - repeatable
+      - ability
       - source
     sort:
       - property: level
@@ -185,202 +198,35 @@ views:
 
 ```
 
-### Spellcaster Class
-
-**<u>Spellcasting Ability:</u>** XXX
-**<u>Spell Attack:</u>** `XXX + Proficiency Bonus`
-**<u>Spell Save DC:</u>** `8 + XXX + Proficiency Bonus`
-**<u>Spellcasting Focus:</u>** Musical Instruments
-**<u>Spell List:</u>**
-**<u>Spell Slots:</u>** The Spellcaster Table shows how many Spell Slots you have to cast Spells. To cast one of these Spells, you must expend a Slot of the Spell’s level or higher. You regain all expended spell slots when you finish a Long Rest.
-**<u>Cantrips:</u>** Whenever you gain a Level in this Class, you can replace one of your cantrips with another cantrip of your choice from your Spell List.
-**<u>Spells:</u>** You know a number of spells from your Spell List as shown in the Spellcaster Table. Whenever you gain a Level in this Class, you can replace one of your known spells with another spell of your choice from your Spell List for which you have Spell Slots.
-
-#### Spellcaster Table
-
-> [!charakterklasse]+ Spellcaster Table: Full Caster
-> | Level | Cantrips | Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-> | :---: | :------: | :----: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-> |  1st  |    2     |   4    |  2  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |
-> |  2nd  |    2     |   5    |  3  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |
-> |  3rd  |    3     |   6    |  4  |  2  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |
-> |  4th  |    3     |   7    |  4  |  3  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |
-> |  5th  |    4     |   9    |  4  |  3  |  2  |  —  |  —  |  —  |  —  |  —  |  —  |
-> |  6th  |    4     |   10   |  4  |  3  |  3  |  —  |  —  |  —  |  —  |  —  |  —  |
-> |  7th  |    5     |   11   |  4  |  3  |  3  |  1  |  —  |  —  |  —  |  —  |  —  |
-> |  8th  |    5     |   12   |  4  |  3  |  3  |  2  |  —  |  —  |  —  |  —  |  —  |
-> |  9th  |    6     |   14   |  4  |  3  |  3  |  3  |  1  |  —  |  —  |  —  |  —  |
-> | 10th  |    6     |   15   |  4  |  3  |  3  |  3  |  2  |  —  |  —  |  —  |  —  |
-> | 11th  |    6     |   16   |  4  |  3  |  3  |  3  |  2  |  1  |  —  |  —  |  —  |
-> | 12th  |    6     |   17   |  4  |  3  |  3  |  3  |  2  |  1  |  —  |  —  |  —  |
-> | 13th  |    7     |   18   |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  —  |  —  |
-> | 14th  |    7     |   19   |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  —  |  —  |
-> | 15th  |    7     |   20   |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |  —  |
-> | 16th  |    7     |   21   |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |  —  |
-> | 17th  |    8     |   22   |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |  1  |
-> | 18th  |    8     |   23   |  4  |  3  |  3  |  3  |  3  |  1  |  1  |  1  |  1  |
-> | 19th  |    8     |   24   |  4  |  3  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |
-> | 20th  |    8     |   25   |  4  |  3  |  3  |  3  |  3  |  2  |  2  |  1  |  1  |
-
-#### Spell List
-
-```base
-properties:
-  note.saveart:
-    displayName: Attack/Save
-  note.magieschule:
-    displayName: School
-  note.magielevel:
-    displayName: Level
-  note.wirkzeit:
-    displayName: Time
-  note.reichweite:
-    displayName: Range/Area
-  note.concentration:
-    displayName: Conc.
-  note.effekt:
-    displayName: Damage/Effect
-views:
-  - type: table
-    name: 5e XXX Spell List
-    filters:
-      and:
-        - dateitags.contains("#Spell")
-        - dateitags.contains("#5e")
-        - zauberliste.contains("XXX")
-    order:
-      - file.name
-      - magielevel
-      - magieschule
-      - wirkzeit
-      - concentration
-      - reichweite
-      - saveart
-      - effekt
-    sort:
-      - property: magielevel
-        direction: ASC
-      - property: file.name
-        direction: ASC
-    image: note.image
-    cardSize: 150
-    imageAspectRatio: 1
-    imageFit: contain
-    columnSize:
-      file.name: 200
-      note.magielevel: 56
-      note.magieschule: 76
-      note.wirkzeit: 55
-      note.concentration: 30
-      note.reichweite: 132
-      note.saveart: 50
-  - type: table
-    name: 5e XXX Arcane Spell List
-    filters:
-      and:
-        - dateitags.contains("#Spell")
-        - dateitags.contains("#5e")
-        - zauberliste.containsAny("XXX", "Arcane")
-    order:
-      - file.name
-      - magielevel
-      - magieschule
-      - wirkzeit
-      - concentration
-      - reichweite
-      - saveart
-      - effekt
-    sort:
-      - property: magielevel
-        direction: ASC
-      - property: file.name
-        direction: ASC
-    image: note.image
-    cardSize: 150
-    imageAspectRatio: 1
-    imageFit: contain
-    columnSize:
-      file.name: 200
-      note.magielevel: 56
-      note.magieschule: 76
-      note.wirkzeit: 55
-      note.concentration: 30
-      note.reichweite: 132
-      note.saveart: 50
-  - type: table
-    name: 5e XXX Divine Spell List
-    filters:
-      and:
-        - dateitags.contains("#Spell")
-        - dateitags.contains("#5e")
-        - zauberliste.containsAny("XXX", "Divine")
-    order:
-      - file.name
-      - magielevel
-      - magieschule
-      - wirkzeit
-      - concentration
-      - reichweite
-      - saveart
-      - effekt
-    sort:
-      - property: magielevel
-        direction: ASC
-      - property: file.name
-        direction: ASC
-    image: note.image
-    cardSize: 150
-    imageAspectRatio: 1
-    imageFit: contain
-    columnSize:
-      file.name: 200
-      note.magielevel: 56
-      note.magieschule: 76
-      note.wirkzeit: 55
-      note.concentration: 30
-      note.reichweite: 132
-      note.saveart: 50
-  - type: table
-    name: 5e XXX Primal Spell List
-    filters:
-      and:
-        - dateitags.contains("#Spell")
-        - dateitags.contains("#5e")
-        - zauberliste.containsAny("XXX", "Primal")
-    order:
-      - file.name
-      - magielevel
-      - magieschule
-      - wirkzeit
-      - concentration
-      - reichweite
-      - saveart
-      - effekt
-    sort:
-      - property: magielevel
-        direction: ASC
-      - property: file.name
-        direction: ASC
-    image: note.image
-    cardSize: 150
-    imageAspectRatio: 1
-    imageFit: contain
-    columnSize:
-      file.name: 200
-      note.magielevel: 56
-      note.magieschule: 76
-      note.wirkzeit: 55
-      note.concentration: 30
-      note.reichweite: 132
-      note.saveart: 50
-
-```
+<br>
 
 ## Class Features
 
 ### Level 1: XXX (Flavor)
 
-### Level 1: XXX
+### Level 1: Rage
+
+You can imbue yourself with a primal power called **Rage**, a force that grants you extraordinary might and resilience. You can enter it as a **Bonus Action** if you aren't wearing [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Armor/5e - Heavy Armor/5e - Heavy Armor|⛑️Heavy Armor]].
+
+While active, your **Rage** follows the rules below:
+
+**<u>Damage Resistance:</u>** You have <u>Resistance</u> to <u>Bludgeoning</u>, <u>Piercing</u>, and <u>Slashing</u> damage.
+
+**<u>Rage Damage:</u>** When you make an [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack]] using <u>STR</u>—with either a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Weapon Attack|🎲Weapon Attack]] or an [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Unarmed Strike|⚔️Unarmed Strike]]—and deal damage to the target, you gain a bonus to the damage that increases as you gain levels as a _Barbarian_, as shown in the <u>Rage Damage column</u> of the <u>Barbarian Features table</u>.
+
+**<u>Strength Advantage:</u>** You have **ADV** on <u>STR</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Ability Check/5e - Ability Check|🎲Checks]] and <u>STR</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Saves]].
+
+**<u>No Concentration or Spells:</u>** You can't maintain [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Rules/5e - Concentration/5e - Concentration|🎲Concentration]], and you can't cast spells.
+
+**<u>Duration:</u>** The **Rage** lasts until <u>the end of your next turn</u>, and it ends early if you don [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Armor/5e - Heavy Armor/5e - Heavy Armor|⛑️Heavy Armor]] or have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Incapacitated|☠️Incapacitated]] condition. If your **Rage** is still active on your next turn, you can _extend_ the **Rage** for another round by doing one of the following:
+
+- Make an [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack Roll]] against an enemy.
+- Force an enemy to make a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Save]].
+- Take a **Bonus Action** to _extend_ your **Rage**.
+
+Each time the **Rage** is _extended_, it lasts until <u>the end of your next turn</u>. You can maintain a **Rage** for up to <u>10 minutes</u>.
+
+_**<u>Number of Uses:</u>**_ You can enter your **Rage** the number of times shown for your _Barbarian level_ in the <u>Rages column</u> of the <u>Barbarian Features table</u>. You regain `1` expended use when you finish a **Short Rest**, and you regain `all` expended uses when you finish a **Long Rest**.
 
 ### Level 1: XXX
 

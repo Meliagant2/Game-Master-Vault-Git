@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Paladin
 description: An oathbound warrior driven by an inner strength to champion their cause through might and holy magic.
 created: 2026-08-17T15:22:19.006+02:00
-modified: 2026-09-22T10:27:36.843+02:00
-published: 2026-09-22T10:27:36.843+02:00
+modified: 2026-09-23T15:39:51.176+02:00
+published: 2026-09-23T15:39:51.176+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -64,7 +64,7 @@ Almost by definition, the life of a Paladin is an adventuring life, for every Pa
 > | **Weapon Proficiencies**             | Simple, Martial                                                                                                                     |
 > | **Spellcasting Focus Proficiencies** | Holy Symbols                                                                                                                        |
 > | **Saving Throw Proficiencies**       | <u>Choose one proficiency of each A and B:</u> **(A)** Constitution OR Wisdom; **(B)** Strength OR Charisma                         |
-> | **Skill Proficiencies**              | <u>Choose 2:</u> Athletics, Acrobatics, History, Insight, Intimidation, Medicine, Persuasion, Occultism, and Religion               |
+> | **Skill Proficiencies**              | <u>Choose 2:</u> Athletics, Acrobatics, Endurance, History, Insight, Intimidation, Medicine, Persuasion, Occultism, and Religion               |
 > | **Tool Proficiencies**               | -                                                                                                                                   |
 > | **Starting Equipment**               | <u>Choose A or B</u>: **(A)** 1 Armor worth less than 150 SP, a Shield, 1 Weapon, Holy Symbol, Priest's Pack, 10 SP; **(B)** 150 SP |
 

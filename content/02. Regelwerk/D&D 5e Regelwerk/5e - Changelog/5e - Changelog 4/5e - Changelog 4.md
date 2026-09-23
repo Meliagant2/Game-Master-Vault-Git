@@ -1,14 +1,19 @@
 ---
 publish: true
+title: Changelog 4
 created: 2026-09-03T11:01:51.082+02:00
-modified: 2026-09-22T13:44:21.661+02:00
-published: 2026-09-22T13:44:21.661+02:00
+modified: 2026-09-23T09:00:27.398+02:00
+published: 2026-09-23T09:00:27.398+02:00
 tags:
   - "#Changelog"
+  - "#5e"
+dateitags:
+  - "#Changelog"
+  - "#5e"
 status: ✅
 aenderungen:
   - "Class Changes: Complete System Overhaul"
-datum: 2026-09-22
+datum: 2026-09-20
 ---
 
 # 5e - Changelog 4
@@ -30,14 +35,14 @@ datum: 2026-09-22
 
 You can find the specific changes to Adept, Bard, Cleric, Fighter, Paladin and Warlock here:
 
-Adept: [[02. Regelwerk/D&D 5e Regelwerk/5e - Changelog/5e - Changelog 2/5e - Changelog - Orlac 1|5e - Changelog - Orlac 1]]
+Adept: [[02. Regelwerk/D&D 5e Regelwerk/5e - Changelog/5e - Changelog 4/5e - Changelog - Orlac 1|5e - Changelog - Orlac 1]]
 
-Bard: [[02. Regelwerk/D&D 5e Regelwerk/5e - Changelog/5e - Changelog 2/5e - Changelog - Calla 1|5e - Changelog - Calla 1]]
+Bard: [[02. Regelwerk/D&D 5e Regelwerk/5e - Changelog/5e - Changelog 4/5e - Changelog - Calla 1|5e - Changelog - Calla 1]]
 
-Cleric: [[02. Regelwerk/D&D 5e Regelwerk/5e - Changelog/5e - Changelog 2/5e - Changelog - Styx 1|5e - Changelog - Styx 1]]
+Cleric: [[02. Regelwerk/D&D 5e Regelwerk/5e - Changelog/5e - Changelog 4/5e - Changelog - Styx 1|5e - Changelog - Styx 1]]
 
-Fighter: [[02. Regelwerk/D&D 5e Regelwerk/5e - Changelog/5e - Changelog 2/5e - Changelog - V 1|5e - Changelog - V 1]]
+Fighter: [[02. Regelwerk/D&D 5e Regelwerk/5e - Changelog/5e - Changelog 4/5e - Changelog - V 1|5e - Changelog - V 1]]
 
-Paladin: [[02. Regelwerk/D&D 5e Regelwerk/5e - Changelog/5e - Changelog 2/5e - Changelog - Tungdil 1|5e - Changelog - Tungdil 1]]
+Paladin: [[02. Regelwerk/D&D 5e Regelwerk/5e - Changelog/5e - Changelog 4/5e - Changelog - Tungdil 1|5e - Changelog - Tungdil 1]]
 
-Warlock: [[02. Regelwerk/D&D 5e Regelwerk/5e - Changelog/5e - Changelog 2/5e - Changelog - Ailas 1|5e - Changelog - Ailas 1]]
+Warlock: [[02. Regelwerk/D&D 5e Regelwerk/5e - Changelog/5e - Changelog 4/5e - Changelog - Ailas 1|5e - Changelog - Ailas 1]]

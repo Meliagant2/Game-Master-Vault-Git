@@ -2,8 +2,8 @@
 publish: true
 title: 🎩5e - Lute
 created: 2026-08-31T11:40:30.565+02:00
-modified: 2026-08-31T11:44:54.113+02:00
-published: 2026-08-31T11:44:54.113+02:00
+modified: 2026-09-23T09:31:22.626+02:00
+published: 2026-09-23T09:31:22.626+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -18,11 +18,7 @@ a: " "
 type: Spellcasting Focus
 category:
   - Instrument
-damage: 1d4
-damagetype:
-  - Thunder
 properties:
-  - Range [30]
   - Two-Handed
 mastery:
   - Bolster
@@ -42,14 +38,12 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 > |---|---|
 > |**Type** |Spellcasting Focus |
 > |**Category** |Instrument |
-> |**Damage** |1d4 Thunder |
-> |**Properties** |Range \[30],Two-Handed |
+> |**Damage** |  |
+> |**Properties** |Two-Handed |
 > |**Mastery** |Bolster |
 > |**Attunement** |  |
 > |**Weight** |1 kg |
 > |**Cost** |35 SP |
-
-**<u>Range:</u>** A **Range** [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spellcasting Focus|🎩Spellcasting Focus]] has a range in parentheses after the property.
 
 **<u>Two-Handed:</u>** A **Two-Handed** [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spellcasting Focus|🎩Spellcasting Focus]] requires two hands when you cast a _spell_ with it.
 

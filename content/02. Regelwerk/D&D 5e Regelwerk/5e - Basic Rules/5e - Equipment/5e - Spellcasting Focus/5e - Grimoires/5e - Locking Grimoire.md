@@ -2,8 +2,8 @@
 publish: true
 title: 🎩5e - Locking Grimoire
 created: 2026-08-31T11:02:29.780+02:00
-modified: 2026-09-04T10:34:26.415+02:00
-published: 2026-09-04T10:34:26.415+02:00
+modified: 2026-09-23T09:31:12.574+02:00
+published: 2026-09-23T09:31:12.574+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -18,11 +18,7 @@ a: " "
 type: Spellcasting Focus
 category:
   - Grimoire
-damage: 1d4
-damagetype:
-  - Force
 properties:
-  - Range [30]
   - Two-Handed
 mastery:
   - Channel
@@ -43,8 +39,8 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 > |---|---|
 > |**Type** |Spellcasting Focus |
 > |**Category** |Grimoire |
-> |**Damage** |1d4 Force |
-> |**Properties** |Range \[30],Two-Handed |
+> |**Damage** |  |
+> |**Properties** |Two-Handed |
 > |**Mastery** |Channel,Expand |
 > |**Attunement** |  |
 > |**Weight** |1,5 k |
@@ -53,8 +49,6 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 _The wise wizard keeps a copy of all their spells safely tucked away in case of disaster. We supplement our spellbook with a trusty lock secure enough to dissuade curious goblins._
 
 This 100-page leather-bound tome can be used as a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spellcasting Focus|🎩Spellcasting Focus]]. It is closed with a lock that comes with a key. As a [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Utilize|⚔️Utilize]] action, a creature can try to pick the lock using [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Misc Tools/5e - Thieves Tools|5e - Thieves Tools]], doing so with a successful **DC 15 Check**.
-
-**<u>Range:</u>** A **Range** [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spellcasting Focus|🎩Spellcasting Focus]] has a range in parentheses after the property.
 
 **<u>Two-Handed:</u>** A **Two-Handed** [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spellcasting Focus|🎩Spellcasting Focus]] requires two hands when you cast a _spell_ with it.
 

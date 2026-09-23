@@ -2,8 +2,8 @@
 publish: true
 title: 🎩5e - Rod
 created: 2026-08-31T12:08:36.752+02:00
-modified: 2026-09-02T11:23:23.046+02:00
-published: 2026-09-02T11:23:23.046+02:00
+modified: 2026-09-23T09:31:59.935+02:00
+published: 2026-09-23T09:31:59.935+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -18,9 +18,6 @@ a: " "
 type: Spellcasting Focus
 category:
   - Rod
-damage: 1d4
-damagetype:
-  - Bludgeoning
 properties:
   - Light
 mastery:
@@ -41,7 +38,6 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 > |---|---|
 > |**Type** |Spellcasting Focus |
 > |**Category** |Rod |
-> |**Damage** |1d4 Bludgeoning |
 > |**Properties** |Light |
 > |**Mastery** |Lengthen |
 > |**Attunement** |  |

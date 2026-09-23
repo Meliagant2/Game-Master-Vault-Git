@@ -2,8 +2,8 @@
 publish: true
 title: 🎩5e - Ritual Bell
 created: 2026-08-31T12:05:29.284+02:00
-modified: 2026-09-04T10:34:26.426+02:00
-published: 2026-09-04T10:34:26.426+02:00
+modified: 2026-09-23T09:31:37.543+02:00
+published: 2026-09-23T09:31:37.543+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -18,11 +18,6 @@ a: " "
 type: Spellcasting Focus
 category:
   - Ritual Bell
-damage: 1d4
-damagetype:
-  - Thunder
-properties:
-  - Range [30]
 mastery:
   - Channel
 weight: 1,5 kg
@@ -41,8 +36,7 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 > |---|---|
 > |**Type** |Spellcasting Focus |
 > |**Category** |Ritual Bell |
-> |**Damage** |1d4 Thunder |
-> |**Properties** |Range \[30] |
+> |**Properties** | |
 > |**Mastery** |Channel |
 > |**Attunement** |  |
 > |**Weight** |1,5 kg |

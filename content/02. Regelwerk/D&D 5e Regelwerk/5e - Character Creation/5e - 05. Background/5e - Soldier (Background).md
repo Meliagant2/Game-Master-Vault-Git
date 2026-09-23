@@ -2,8 +2,8 @@
 publish: true
 title: ⛏️5e - Soldier
 created: 2026-07-21T13:46:29.234+02:00
-modified: 2026-09-03T14:45:10.206+02:00
-published: 2026-09-03T14:45:10.206+02:00
+modified: 2026-09-23T11:12:25.805+02:00
+published: 2026-09-23T11:12:25.805+02:00
 tags:
   - "#Background"
   - "#5e"
@@ -36,7 +36,7 @@ You began training for war as soon as you reached adulthood and carry precious f
 
 **<u>Languages:</u>** You gain a **mastery level** in <u>one</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Language]] of your choice.
 
-**<u>Equipment:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Polearms/5e - Spear|5e - Spear]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Bows/5e - Shortbow|5e - Shortbow]], a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Gaming Sets/5e - Gaming Sets|🛠️Gaming Set]] (the one you chose as your proficiency above), [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Adventuring Gear/5e - Healers Kit|🪓Healers Kit]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Adventuring Gear/5e - Quiver|🪓Quiver]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Clothing/5e - Travelling Clothes|👔Travelling Clothes]], `3d4` Silver Pieces.
+**<u>Equipment:</u>** [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Polearms/5e - Spear|🗡️Spear]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Bows/5e - Shortbow|🗡️Shortbow]], a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Gaming Sets/5e - Gaming Sets|🛠️Gaming Set]] (the one you chose as your proficiency above), [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Adventuring Gear/5e - Healers Kit|🪓Healers Kit]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Adventuring Gear/5e - Quiver|🪓Quiver]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Clothing/5e - Travelling Clothes|👔Travelling Clothes]], `3d4` Silver Pieces.
 
 **<u>Connection and Memento:</u>** Roll <u>1d10</u>, choose, or make up your own.
 

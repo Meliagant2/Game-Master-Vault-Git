@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 👥5e - Human👥
+title: 👥5e - Human
 created: 2026-07-20T12:11:02.463+02:00
-modified: 2026-09-22T14:16:54.370+02:00
-published: 2026-09-22T14:16:54.370+02:00
+modified: 2026-09-23T15:21:33.255+02:00
+published: 2026-09-23T15:21:33.255+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -25,9 +25,6 @@ speed: 30 ft.
 # 👥5e - Human👥
 
 > [!wikibox]
->
-> ## <center>👥5e - Human👥</center>
->
 > | | |
 > |---|---|
 > |**Aliase** |  |
@@ -47,17 +44,20 @@ Human build (and body hair) is somewhere between that of elves and dwarves, yet 
 
 ## Human Traits
 
-### Basic Traits
+### Basic Heritage Traits
 
-**<u>Age:</u>** Humans reach basic maturity around age 16, although many continue to grow in body and mind through their twenties. Only the most exceptional human elders live past 100 years
-**<u>Size:</u>** _Medium_ (4-7 feet / 120cm - 210cm) or _Small_ (2-4 feet / 60cm - 120cm)
-**<u>Speed:</u>** <u>30 feet</u>
+**<u>Age:</u>** Humans reach basic maturity around age 16, although many continue to grow in body and mind through their twenties. Only the most exceptional human elders live past 100 years.
+**<u>Size:</u>** _Medium_ (4-7 feet / 120cm - 210cm) or _Small_ (2-4 feet / 60cm - 120cm).
+**<u>Speed:</u>** <u>30 feet</u>.
+
+### Basic Human Traits
+
 **<u>Resourceful:</u>** When you make a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - D20 Tests|🎲D20 Test]], you can choose to gain **ADV** on the roll. <u>Once</u> you use this trait, you cannot use it again until you finish a **Short** or **Long Rest**.
 **<u>Skillful:</u>** You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Proficiency|🎲Proficiency]] in any <u>two</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - Skills|💃Skills]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Tools|🛠️Tools]], or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapons|🗡️Weapons]] of your choice, or one level of [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Expertise|🎲Expertise]], if you are already _proficient_ (doesn't apply to weapons).
 
-### Expanded Traits
+### Expanded Human Traits
 
-Humanity’s most overlooked trait is their physical and spiritual endurance. How a human exhibits this hereditary resilience varies on their personal disposition. In addition to the traits found in your **Basic Traits**, select <u>one</u> of the following gifts:
+In addition to the traits found in your **Basic Traits**, select <u>one</u> of the following gifts:
 
 #### Diehard Survivor
 
@@ -80,19 +80,22 @@ Foes of humanity may see them as ants, but humans are equally difficult to elimi
 
 ### Human Paragon
 
-When you reach 10th level, you are an exemplar of humankind, and you gain one paragon gift from the following list.
+When you reach level 10, you are an exemplar of humankind, and you gain one paragon gift from the following list.
 
 #### Determined
 
-When you are [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Bloodied|☠️Bloodied]] and make an **attack roll** or **saving throw**, you can use this feature to treat the result of the <u>D20</u> roll as a natural 20. Once you use this feature, you cannot use it again until you finish a short or long rest.
+When you make an [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack Roll]] and _miss_ or make a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Save]] and _fail_, you can choose to _succeed_ instead.
+
+_**<u>Number of Uses:</u>**_ <u>Once</u> you've used this benefit, you can't use it again until you finish a **Long Rest**.
 
 #### Wind at Your Back
 
-Your Speed increases by 10 feet. You ignore difficult terrain when you Dash. When you make a melee weapon attack against a creature, until the end of your turn you do not provoke opportunity attacks from it.
+**<u>Speed Increase:</u>** Your [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Speed/5e - Speed|🏃‍♀️Speed]] increases by <u>10 feet</u>.
+**<u>Ignore Difficult Terrain:</u>** You ignore [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Environment/5e - Difficult Terrain|🏔️Difficult Terrain]] when you take the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Actions, Bonus Actions & Reactions/5e - Actions/5e - Dash|⚔️Dash]] action.
 
 #### Voracious Learner
 
-You gain an <u>expertise die</u> in each of three different **skill** or **tool** proficiencies.
+**<u>Proficiencies:</u>** You gain proficiency in any combination of <u>three</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - Skills|💃Skills]] or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Tools|🛠️Tools]] of your choice, or one level of [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Expertise|🎲Expertise]], if you are already _proficient_. Your [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Expertise|🎲Expertise Cap]] for the chosen [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - Skills|💃Skills]] or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Tools|🛠️Tools]] increases by `1` for you.
 
 ## Quellen
 

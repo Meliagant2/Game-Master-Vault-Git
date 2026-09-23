@@ -1,9 +1,13 @@
 ---
 publish: true
+title: Changelog 3
 created: 2026-08-17T08:20:33.923+02:00
-modified: 2026-09-16T07:54:49.130+02:00
-published: 2026-09-16T07:54:49.130+02:00
+modified: 2026-09-23T09:00:03.773+02:00
+published: 2026-09-23T09:00:03.773+02:00
 tags:
+  - "#Changelog"
+  - "#5e"
+dateitags:
   - "#Changelog"
   - "#5e"
 status: ✅

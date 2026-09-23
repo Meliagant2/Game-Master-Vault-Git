@@ -2,8 +2,8 @@
 publish: true
 title: 🎩5e - Component Pouch
 created: 2026-08-27T14:27:08.494+02:00
-modified: 2026-08-31T11:48:32.462+02:00
-published: 2026-08-31T11:48:32.462+02:00
+modified: 2026-09-23T09:30:39.463+02:00
+published: 2026-09-23T09:30:39.463+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -34,7 +34,6 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 > |---|---|
 > |**Type** |Spellcasting Focus |
 > |**Category** |Misc Focus |
-> |**Damage** |  |
 > |**Properties** | |
 > |**Mastery** | |
 > |**Attunement** |  |

@@ -2,8 +2,8 @@
 publish: true
 title: 🎩5e - Censer
 created: 2026-08-31T10:45:57.451+02:00
-modified: 2026-09-18T10:12:57.354+02:00
-published: 2026-09-18T10:12:57.354+02:00
+modified: 2026-09-23T09:30:31.957+02:00
+published: 2026-09-23T09:30:31.957+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -18,11 +18,7 @@ a: " "
 type: Spellcasting Focus
 category:
   - Censer
-damage: 1d4
-damagetype:
-  - Poison
 properties:
-  - Reach [10 ft.]
   - Two-Handed
 mastery:
   - Channel
@@ -43,14 +39,11 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 > |---|---|
 > |**Type** |Spellcasting Focus |
 > |**Category** |Censer |
-> |**Damage** |1d4 Poison |
-> |**Properties** |Reach \[10 ft.],Two-Handed |
+> |**Properties** |Two-Handed |
 > |**Mastery** |Channel,Muffle |
 > |**Attunement** |  |
 > |**Weight** |2 kg |
 > |**Cost** |10 SP |
-
-**<u>Reach:</u>** A **Reach** [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spellcasting Focus|🎩Spellcasting Focus]] can [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack]] enemies further than <u>5 feet</u> from you. If a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spellcasting Focus|🎩Spellcasting Focus]] has a longer **reach**, it is stated in parentheses after this property.
 
 **<u>Two-Handed:</u>** A **Two-Handed** [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spellcasting Focus|🎩Spellcasting Focus]] requires two hands when you cast a _spell_ with it.
 

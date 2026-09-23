@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Fighter
 description: A master of martial techniques with expertise in a wide variety of weapons and combat maneuvers.
 created: 2026-07-31T11:11:41.436+02:00
-modified: 2026-09-22T14:51:06.888+02:00
-published: 2026-09-22T14:51:06.888+02:00
+modified: 2026-09-23T11:21:39.926+02:00
+published: 2026-09-23T11:21:39.926+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -64,7 +64,7 @@ Some fighters feel drawn to use their training as adventurers. The dungeon delvi
 > | **Armor Training**             | Light Armor, Medium Armor, Heavy Armor, Light Shields, Medium Shields, Heavy Shields|
 > | **Weapon Proficiencies**       | Simple, Martial                                                                                                            |
 > | **Saving Throw Proficiencies** | <u>Choose one proficiency of each A and B:</u> **(A)** Dexterity OR Constitution, **(B)** Strength OR Intelligence         |
-> | **Skill Proficiencies**        | <u>Choose 2:</u> Acrobatics, Animal Handling, Athletics, Breaking, Endurance, History, Hold Breath, Insight, Intimidation, Perception, Revelry, Stealth, Survival |
+> | **Skill Proficiencies**        | <u>Choose 2:</u> Acrobatics, Athletics, Breaking, Endurance, History, Hold Breath, Insight, Intimidation, Perception, Revelry, Stealth, Survival |
 > | **Tool Proficiencies**         | 1 set of Artisan's tools                                                                                                   |
 > | **Starting Equipment**         | <u>Choose A or B</u>: **(A)** 1 Armor worth less than 150 SP, a Shield, 2 Weapons, Dungoneer's Pack, 10 SP;   **(B)** 150 SP                 |
 
@@ -109,6 +109,12 @@ Some fighters feel drawn to use their training as adventurers. The dungeon delvi
 #### Class Maneuvers
 
 ```base
+formulas:
+  Tradition: link(file, title)
+  titleasname: link(file, title)
+properties:
+  formula.titleasname:
+    displayName: Name
 views:
   - type: table
     name: 5e - Fighter; Choose Combat Tradition
@@ -118,16 +124,14 @@ views:
         - classes.contains("Fighter")
         - '!dateitags.contains("#Legacy")'
     order:
-      - file.name
+      - formula.Tradition
       - description
       - classes
     sort:
       - property: file.name
         direction: ASC
     columnSize:
-      note.degree: 84
-      note.time: 42
-      note.range-Area: 54
+      formula.Tradition: 178
 
 ```
 
@@ -136,6 +140,12 @@ views:
 #### Fighting Style Feats
 
 ```base
+formulas:
+  Feat: link(file, title)
+  titleasname: link(file, title)
+properties:
+  formula.titleasname:
+    displayName: Name
 views:
   - type: table
     name: 5e - Class Feats; Fighting Styles
@@ -146,11 +156,12 @@ views:
         - category.contains("Class")
         - file.name.contains("Fighting Style")
     order:
-      - file.name
+      - formula.Feat
       - category
       - level
       - prerequisite
       - repeatable
+      - ability
       - source
     sort:
       - property: level
