@@ -2,8 +2,8 @@
 publish: true
 title: 🎩5e - Spellcasting Focus
 created: 2026-08-10T08:28:38.340+02:00
-modified: 2026-09-23T09:27:53.278+02:00
-published: 2026-09-23T09:27:53.278+02:00
+modified: 2026-09-24T15:18:43.170+02:00
+published: 2026-09-24T15:18:43.170+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -26,6 +26,12 @@ You must be holding a **Spellcasting Focus** in a hand to benefit from its [[02.
 ##### List of all Spellcasting Foci
 
 ```base
+formulas:
+  Spell Focus: link(file, title)
+  titleasname: link(file, title)
+properties:
+  formula.titleasname:
+    displayName: Name
 views:
   - type: table
     name: 5e Spellcasting Foci - All
@@ -35,7 +41,7 @@ views:
         - '!dateitags.contains("#Legacy")'
         - '!file.name.contains("Template")'
     order:
-      - file.name
+      - formula.Spell Focus
       - category
       - damage
       - damagetype
@@ -45,6 +51,8 @@ views:
       - weight
       - cost
     sort:
+      - property: category
+        direction: ASC
       - property: type
         direction: DESC
       - property: file.name

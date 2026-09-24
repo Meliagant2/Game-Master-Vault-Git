@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Warlock
 description: A spellslinger who obtained arcane powers through an eldritch bargain with an otherworldly entity.
 created: 2026-07-20T12:11:02.600+02:00
-modified: 2026-09-22T10:07:15.694+02:00
-published: 2026-09-22T10:07:15.694+02:00
+modified: 2026-09-24T08:01:55.223+02:00
+published: 2026-09-24T08:01:55.223+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -117,8 +117,8 @@ Once a pact is made, a Warlock's thirst for knowledge and power can't be slaked 
 > | :---: | :------: | :----: | :---------: | :---------: |
 > |  1st  |    2     |   2    |      1      |      1      |
 > |  2nd  |    2     |   3    |      1      |      1      |
-> |  3rd  |    3     |   4    |      2      |      2      |
-> |  4th  |    3     |   5    |      2      |      2      |
+> |  3rd  |    3     |   4    |      1      |      2      |
+> |  4th  |    3     |   5    |      1      |      2      |
 > |  5th  |    4     |   6    |      2      |      3      |
 > |  6th  |    4     |   7    |      2      |      3      |
 > |  7th  |    5     |   8    |      2      |      4      |
@@ -131,10 +131,10 @@ Once a pact is made, a Warlock's thirst for knowledge and power can't be slaked 
 > | 14th  |    7     |   12   |      4      |      5      |
 > | 15th  |    7     |   13   |      4      |      5      |
 > | 16th  |    7     |   13   |      4      |      5      |
-> | 17th  |    8     |   14   |      5      |      5      |
-> | 18th  |    8     |   14   |      5      |      5      |
-> | 19th  |    8     |   15   |      5      |      5      |
-> | 20th  |    8     |   15   |      5      |      5      |
+> | 17th  |    8     |   14   |      4      |      5      |
+> | 18th  |    8     |   14   |      4      |      5      |
+> | 19th  |    8     |   15   |      4      |      5      |
+> | 20th  |    8     |   15   |      4      |      5      |
 
 #### Spell List
 

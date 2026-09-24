@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 🔮5e - Excellence🔮
+title: 🔮5e - Excellence
 created: 2026-07-21T15:26:14.616+02:00
-modified: 2026-08-20T06:45:34.171+02:00
-published: 2026-08-20T06:45:34.171+02:00
+modified: 2026-09-24T08:29:43.532+02:00
+published: 2026-09-24T08:29:43.532+02:00
 tags:
   - "#Destiny"
   - "#5e"
@@ -12,6 +12,8 @@ dateitags:
   - "#5e"
 status: ✅
 ---
+
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - 06. Destiny|5e - 06. Destiny]].
 
 # 🔮5e - Excellence🔮
 

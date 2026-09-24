@@ -24,24 +24,24 @@ You either have inspiration or you don’t; if you already have inspiration and 
 > | Name                                                                                                                                                                            |
 > | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 > | [[00. A_Spielleiter/00Z. Notizen und Ideen/Notizen.md|Notizen]]                                                                                                                |
-> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Coming of Age (Destiny).md|🔮5e - Coming of Age🔮]]                                             |
-> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Darkness (Destiny).md|🔮5e - Darkness🔮]]                                                       |
-> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Death (Destiny).md|🔮5e - Death🔮]]                                                             |
-> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Devotion (Destiny).md|🔮5e - Devotion🔮]]                                                       |
-> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Dominion (Destiny).md|🔮5e - Dominion🔮]]                                                       |
-> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Excellence (Destiny).md|🔮5e - Excellence🔮]]                                                   |
-> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Fire (Destiny).md|🔮5e - Fire🔮]]                                                               |
-> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Foundation (Destiny).md|🔮5e - Foundation🔮]]                                                   |
-> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Ice (Destiny).md|🔮5e - Ice🔮]]                                                                 |
-> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Knowledge (Destiny).md|🔮5e - Knowledge🔮]]                                                     |
-> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Metamorphosis (Destiny).md|🔮5e - Metamorphosis🔮]]                                             |
-> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Preservation (Destiny).md|🔮5e - Preservation🔮]]                                               |
-> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Prophecy (Destiny).md|🔮5e - Prophecy🔮]]                                                       |
-> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Return to Glory (Destiny).md|🔮5e - Return to Glory🔮]]                                         |
-> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Revenge (Destiny).md|🔮5e - Revenge🔮]]                                                         |
-> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Slayer (Destiny).md|🔮5e - Slayer🔮]]                                                           |
-> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Underdog (Destiny).md|🔮5e - Underdog🔮]]                                                       |
-> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Wealth (Destiny).md|🔮5e - Wealth🔮]]                                                           |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Destinies WIP/5e - Coming of Age (Destiny).md|🔮5e - Coming of Age]]                            |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Destinies WIP/5e - Darkness (Destiny).md|🔮5e - Darkness]]                                      |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Destinies WIP/5e - Death (Destiny).md|🔮5e - Death]]                                            |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Devotion (Destiny).md|🔮5e - Devotion]]                                                         |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Destinies WIP/5e - Dominion (Destiny).md|🔮5e - Dominion]]                                      |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Excellence (Destiny).md|🔮5e - Excellence]]                                                     |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Fire (Destiny).md|🔮5e - Fire]]                                                                 |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Destinies WIP/5e - Foundation (Destiny).md|🔮5e - Foundation]]                                  |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Destinies WIP/5e - Ice (Destiny).md|🔮5e - Ice]]                                                |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Destinies WIP/5e - Knowledge (Destiny).md|🔮5e - Knowledge]]                                    |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Metamorphosis (Destiny).md|🔮5e - Metamorphosis]]                                               |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Destinies WIP/5e - Preservation (Destiny).md|🔮5e - Preservation]]                              |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Prophecy (Destiny).md|🔮5e - Prophecy]]                                                         |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Destinies WIP/5e - Return to Glory (Destiny).md|🔮5e - Return to Glory]]                        |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Destinies WIP/5e - Revenge (Destiny).md|🔮5e - Revenge]]                                        |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Destinies WIP/5e - Slayer (Destiny).md|🔮5e - Slayer]]                                          |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Destinies WIP/5e - Underdog (Destiny).md|🔮5e - Underdog]]                                      |
+> | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - Destinies WIP/5e - Wealth (Destiny).md|🔮5e - Wealth]]                                          |
 > | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats; Fighter/5e - Battle Scarred.md|🥇5e - Battle Scarred]]              |
 > | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - General Feats/5e - Level 6 General Feats/5e - Battlefield Comrade.md|🥇5e - Battlefield Comrade]] |
 > | [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Level 6 Skill Feats/5e - Destinys Call.md|🥇5e - Destinys Call]]                 |

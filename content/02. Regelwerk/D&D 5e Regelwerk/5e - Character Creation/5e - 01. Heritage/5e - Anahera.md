@@ -2,8 +2,8 @@
 publish: true
 title: 👥5e - Anahera
 created: 2026-07-20T12:11:02.479+02:00
-modified: 2026-09-23T15:21:28.902+02:00
-published: 2026-09-23T15:21:28.902+02:00
+modified: 2026-09-24T08:11:55.429+02:00
+published: 2026-09-24T08:11:55.429+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -16,7 +16,6 @@ status: ✅
 aliase: Aasimar, Angelborn
 kreaturentyp:
   - Celestial
-  - Humanoid
 lifespan: 160 Years
 kreaturgroesse:
   - Medium
@@ -35,7 +34,7 @@ speed: 30 ft.
 >
 > | | |
 > |---|---|
-> |**Creature Type(s)** |Celestial,Humanoid |
+> |**Creature Type(s)** |Celestial |
 > |**Life Span** | 160 Years |
 > |**Size** |Medium,Small |
 > |**Base Speed** | 30 ft.|
@@ -48,8 +47,9 @@ Anahera can arise among any population of mortals. They resemble their parents, 
 
 ### Basic Heritage Traits
 
-**<u>Age:</u>** Planetouched typically mature at the same rate as humans but have longer live spans. Most Planetouched born to non-Planetouched parents tend to mirror their parents life span, but all Planetouched can age to a maximum of 160 years.\
-**<u>Size:</u>** _Medium_ (4-7 feet / 120cm - 210cm) or _Small_ (2-4 feet / 60cm - 120cm).
+**<u>Creature Type:</u>** Celestial. All spells and effects that affect Humanoids also affect you.
+**<u>Life Span:</u>** Anahera typically mature at the same rate as humans but have longer live spans. Most Anahera born to non-Anahera parents tend to mirror their parents life span, but all Anahera can age to a maximum of 160 years.
+**<u>Size:</u>** _Medium_ (4-7 feet / 120cm - 210cm), or _Small_ (2-4 feet / 60cm - 120cm).
 **<u>Speed:</u>** <u>30 feet</u>.
 
 ### Basic Anahera Traits
@@ -57,12 +57,12 @@ Anahera can arise among any population of mortals. They resemble their parents, 
 **<u>Celestial Resistance:</u>** You have <u>Resistance</u> to <u>Radiant</u> damage.
 **<u>Darkvision:</u>** You have [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Vision and Light/5e - Senses/5e - Darkvision|👁️Darkvision]] with a range of <u>60 feet</u>.
 **<u>Healing Hands:</u>** As a **Bonus Action**, you touch a creature and restore a number of [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|💖Hit Points]] to it, equal to `your level`. <u>Once</u> you've used this benefit, you can't use it again until you finish a **Long Rest**.
-**<u>Heavenly Magic:</u>** Choose one of the following options. Each option presented gives you these benefits: a damage <u>Resistance</u> in addition to your **Celestial Resistance**, a cantrip known, and the ability to cast specific spells at levels 3 and 5. You can cast _each_ of the spells granted by this feature <u>once</u> without spending a spell slot or using any material spell components, and you regain the ability to cast it in that way when you finish a **Long Rest**. You can also cast these spells using any spell slots you have of the appropriate level. <u>INT</u>, <u>WIS</u>, or <u>CHA</u> is your spellcasting ability for this feature's spells (whichever is highest):
+**<u>Heavenly Magic:</u>** Choose one of the following options. Each option presented gives you access to one cantrip and <u>Resistance</u> to a damage type. <u>INT</u>, <u>WIS</u>, or <u>CHA</u> is your spellcasting ability for this feature's spells (whichever is highest):
 
-- **<u>Guardian:</u>** You gain <u>Resistance</u> to <u>Fire</u> damage. You know the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Divination/5e - Level 0 Divination/5e - Guidance (Spell)|☄️Guidance]] cantrip. When you reach character level 3, you also always have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Conjuration/5e - Level 2 Conjuration/5e - Chain of Conviction (Spell)|☄️Chain of Conviction]] spell prepared, and when you reach character level 5, you also always have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Necromancy/5e - Level 3 Necromancy/5e - Martyr (Spell)|☄️Martyr]] spell prepared.
-- **<u>Herald of Death:</u>** You gain <u>Resistance</u> to <u>Necrotic</u> damage. You know the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Necromancy/5e - Level 0 Necromancy/5e - Toll the Dead (Spell)|5e - Toll the Dead (Spell)]] cantrip. When you reach character level 3, you also always have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Transmutation/5e - Level 2 Transmutation/5e - Blindness-Deafness (Spell)|☄️Blindness-Deafness]] spell prepared, and when you reach character level 5, you also always have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Divination/5e - Level 3 Divination/5e - Speak with Dead (Spell)|☄️Speak with Dead]] spell prepared.
-- **<u>Light Bearer:</u>** You gain <u>Resistance</u> to <u>Necrotic</u> damage. You know the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Evocation/5e - Level 0 Evocation/5e - Light (Spell)|☄️Light]] cantrip. When you reach character level 3, you also always have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - Level 2 Abjuration/5e - Lesser Restoration (Spell)|☄️Lesser Restoration]] spell prepared, and when you reach character level 5, you also always have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Evocation/5e - Level 3 Evocation/5e - Daylight (Spell)|☄️Daylight]] spell prepared.
-- **<u>Storm Child:</u>** You gain <u>Resistance</u> to <u>Lightning</u> damage. You know the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Evocation/5e - Level 0 Evocation/5e - Brightlance (Spell)|☄️Brightlance]] cantrip. When you reach character level 3, you also always have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Evocation/5e - Level 2 Evocation/5e - Spiritual Weapon (Spell)|☄️Spiritual Weapon]] spell prepared, and when you reach character level 5, you also always have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Abjuration/5e - Level 3 Abjuration/5e - Protection from Energy (Spell)|☄️Protection from Energy]] spell prepared.
+- **<u>Guardian:</u>** You gain <u>Resistance</u> to <u>Fire</u> damage. You know the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Divination/5e - Level 0 Divination/5e - Guidance (Spell)|☄️Guidance]] cantrip.
+- **<u>Herald of Death:</u>** You gain <u>Resistance</u> to <u>Necrotic</u> damage. You know the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Necromancy/5e - Level 0 Necromancy/5e - Toll the Dead (Spell)|☄️Toll the Dead]] cantrip.
+- **<u>Light Bearer:</u>** You gain <u>Resistance</u> to <u>Necrotic</u> damage. You know the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Evocation/5e - Level 0 Evocation/5e - Light (Spell)|☄️Light]] cantrip.
+- **<u>Storm Child:</u>** You gain <u>Resistance</u> to <u>Lightning</u> damage. You know the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Evocation/5e - Level 0 Evocation/5e - Brightlance (Spell)|☄️Brightlance]] cantrip.
 
 ### Expanded Anahera Traits
 

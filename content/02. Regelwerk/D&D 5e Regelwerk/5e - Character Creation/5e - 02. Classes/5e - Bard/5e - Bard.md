@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Bard
 description: A charismatic performer who uses their music as a conduit to wield powerful magic.
 created: 2026-07-31T10:15:39.250+02:00
-modified: 2026-09-22T10:06:41.251+02:00
-published: 2026-09-22T10:06:41.251+02:00
+modified: 2026-09-24T07:59:43.946+02:00
+published: 2026-09-24T07:59:43.946+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -14,6 +14,7 @@ dateitags:
   - "#5e"
 image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Klasse Bard 5e.png]]"
 status: ✅
+classtype: Full Caster
 ---
 
 Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - 02. Classes|5e - 02. Classes]].

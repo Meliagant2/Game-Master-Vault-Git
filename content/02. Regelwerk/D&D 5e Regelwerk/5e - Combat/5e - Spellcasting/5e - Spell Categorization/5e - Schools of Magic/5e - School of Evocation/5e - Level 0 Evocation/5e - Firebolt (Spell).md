@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Firebolt
 created: 2026-07-22T14:00:35.219+02:00
-modified: 2026-09-07T10:55:32.861+02:00
-published: 2026-09-07T10:55:32.861+02:00
+modified: 2026-09-24T09:27:55.640+02:00
+published: 2026-09-24T09:27:55.640+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -18,6 +18,7 @@ time: A
 range-Area: 120 ft.
 komponenten: V, S
 dauer: Instantaneous
+reactionbedingung: " "
 c: " "
 effect:
   - Fire
@@ -35,7 +36,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |:-|:-|
 > |**School:**|Evocation |
 > |**Level:**|0 |
-> |**Casting Time:**|A |
+> |**Casting Time:**|A  |
 > |**Range/Area:**|120 ft. |
 > |**Components:**|V, S |
 > |**Duration:**|Instantaneous |

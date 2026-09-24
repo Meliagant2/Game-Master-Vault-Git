@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 🔮5e - Fire🔮
+title: 🔮5e - Fire
 created: 2026-07-21T15:26:14.616+02:00
-modified: 2026-09-23T11:18:27.487+02:00
-published: 2026-09-23T11:18:27.487+02:00
+modified: 2026-09-24T08:29:46.054+02:00
+published: 2026-09-24T08:29:46.054+02:00
 tags:
   - "#Destiny"
   - "#5e"
@@ -12,6 +12,8 @@ dateitags:
   - "#5e"
 status: ✅
 ---
+
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 06. Destiny/5e - 06. Destiny|5e - 06. Destiny]].
 
 # 🔮5e - Fire🔮
 

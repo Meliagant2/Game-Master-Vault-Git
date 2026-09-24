@@ -2,8 +2,8 @@
 publish: true
 title: Changelog Styx 1
 created: 2026-08-21T09:34:59.617+02:00
-modified: 2026-09-23T15:34:32.482+02:00
-published: 2026-09-23T15:34:32.482+02:00
+modified: 2026-09-24T15:56:26.089+02:00
+published: 2026-09-24T15:56:26.089+02:00
 tags:
   - "#Changelog"
   - "#5e"
@@ -81,7 +81,7 @@ There is a new designed Character sheet to hold all the new information. You can
 **<u>Language:</u>** Removed _Celestial_ as known language.
 **<u>Celestial Resistance:</u>** Replaces **Divine Protection**. You gain Resistance to <u>Radiance</u> damage.
 **<u>Healing Hands:</u>** Replaces part of **Celestial Legacy**. Now a **Bonus Action** instead of an **Action**.
-**<u>Heavenly Magic:</u>** Replaces part of **Celestial Legacy** and **Divine Protection**. Gives you a choice between different cantrips, spells and damage resistances.
+**<u>Heavenly Magic:</u>** Replaces part of **Celestial Legacy** and **Divine Protection**. Gives you a choice between different cantrips and damage resistances.
 
 #### Culture: [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 04. Culture/5e - Forsaken|Forsaken]]
 
@@ -174,6 +174,7 @@ There is a new designed Character sheet to hold all the new information. You can
 [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - General Feats/5e - General Feats|🥇General Feat]]: You chose [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - General Feats/5e - Level 6 General Feats/5e - Complex Caster|Flash Recall]]: Changes:
 \- **<u>Name:</u>** Renamed/merged to/with "Complex Caster".
 \- **<u>Level/Category:</u>** Now a 6th level General Feat.
+\- **<u>Number of Uses:</u>** Now you regain your 1 use only on a **Long Rest**, instead of a **Short Rest**.
 \- **<u>Effect/Text:</u>** In addition to the former benefits, this Feat allows you to cast multiple levelled spells a turn.
 
 [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Skill Feats|🥇Skill Feat]]: **<u>You have to choose one level 6 or lower Skill feat!</u>**
@@ -218,3 +219,15 @@ Currently you know `6` cantrips, but you should only have `5`. Depending on your
 
 [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Enchantment/5e - Level 4 Enchantment/5e - Confusion (Spell)|Confusion]]: Clarified ruling with the **Confused** condition.
 [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Conjuration/5e - Level 4 Conjuration/5e - Dimension Door (Spell)|Dimension Door]]: Added an upcast option to teleport more creatures.
+
+## tl;dr To Do List
+
+- A total of `4` [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Language]] masteries. (Culture, Background)
+- One [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats|🥇Origin Feat]] (choices listed in your [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 05. Background/5e - Haunted (Background)|background]])
+- One [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Gaming Sets/5e - Gaming Sets|🛠️Gaming Set]] tool proficiency: _Chess, Dice, Playing Cards_. (Background)
+- One [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spellcasting Focus|🎩Spellcasting Focus]] property: _Card Decks, Censers, Crystals, Grimoires, Instruments, Orbs, Poppets, Ritual Bells, Rods, Staffs, Totems, Wands_. (Class; You already have proficiency with _Holy Symbols_).
+- Choose your Save Proficiencies: <u>Choose one proficiency of each A and B:</u> **(A)** Constitution OR Wisdom; **(B)** Intelligence OR Charisma. (Class).
+- <u>Choose 2 Skill Proficiencies:</u> Culture, Endurance, History, Insight, Medicine, Persuasion, Occultism, Religion. (Class).
+- Choose Cleric [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats|🥇Class Feats]] of levels _2, 4, and 6_. (Class)
+- Choose [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - General Feats/5e - General Feats|🥇General Feats]] of levels _2, and 4_. (Class)
+- Choose a [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Skill Feats|🥇Skill Feat]] of level _6_.
