@@ -2,8 +2,8 @@
 publish: true
 title: 👥5e - Anahera
 created: 2026-07-20T12:11:02.479+02:00
-modified: 2026-09-24T08:11:55.429+02:00
-published: 2026-09-24T08:11:55.429+02:00
+modified: 2026-09-25T08:59:10.389+02:00
+published: 2026-09-25T08:59:10.389+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -26,15 +26,12 @@ speed: 30 ft.
 # 👥5e - Anahera👥
 
 > [!wikibox]
-> | | |
-> |---|---|
-> |**Aliase** | Aasimar, Angelborn |
->
 > ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Heritage Anahera.png|Regelwerk Heritage Anahera.png]]
 >
 > | | |
 > |---|---|
-> |**Creature Type(s)** |Celestial |
+> |**Aliase** | Aasimar, Angelborn |
+> |**Creature Type** |Celestial |
 > |**Life Span** | 160 Years |
 > |**Size** |Medium,Small |
 > |**Base Speed** | 30 ft.|

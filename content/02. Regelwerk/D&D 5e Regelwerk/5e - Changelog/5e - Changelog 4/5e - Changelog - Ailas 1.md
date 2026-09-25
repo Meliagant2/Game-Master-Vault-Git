@@ -2,8 +2,8 @@
 publish: true
 title: Changelog Ailas 1
 created: 2026-09-22T13:41:42.061+02:00
-modified: 2026-09-23T14:42:48.455+02:00
-published: 2026-09-23T14:42:48.455+02:00
+modified: 2026-09-25T08:13:08.525+02:00
+published: 2026-09-25T08:13:08.525+02:00
 tags:
   - "#Changelog"
   - "#5e"
@@ -132,7 +132,7 @@ No Changes/ We have to talk about this in private.
 
 #### Subclass: [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Warlock/5e - Archfey Patron|Archfey Patron]]
 
-**<u>Dream Walker:</u>** New 3rd level Archfey subclass Feature.
+**<u>Traits of the Fair Folk:</u>** New 3rd level Archfey subclass Feature.
 **<u>Steps of the Fey:</u>**
 \- **<u>Taunting Step:</u>** Clarified the feature to mention the **Taunted** condition.
 

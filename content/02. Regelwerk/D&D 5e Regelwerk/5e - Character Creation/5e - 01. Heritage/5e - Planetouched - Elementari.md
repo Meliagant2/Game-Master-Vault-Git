@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 👥5e - Elementari👥
+title: 👥5e - Elementari
 created: 2026-07-20T12:11:02.479+02:00
-modified: 2026-08-14T13:33:58.122+02:00
-published: 2026-08-14T13:33:58.122+02:00
+modified: 2026-09-25T09:00:26.003+02:00
+published: 2026-09-25T09:00:26.003+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -12,7 +12,6 @@ dateitags:
   - "#Heritage"
   - "#5e"
 image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Heritage Elementari.png]]"
-status: ✅
 aliase: Elementalborn
 kreaturentyp:
   - Elemental
@@ -27,18 +26,12 @@ speed: 30 ft.
 # 👥5e - Elementari👥
 
 > [!wikibox]
->
-> ## <center>👥5e - Elementari👥</center>
->
-> | | |
-> |---|---|
-> |**Aliase** | Elementalborn |
->
 > ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Heritage Elementari.png|Regelwerk Heritage Elementari.png]]
 >
 > | | |
 > |---|---|
-> |**Creature Type(s)** |Elemental,Humanoid |
+> |**Aliase** | Elementalborn |
+> |**Creature Type** |Elemental,Humanoid |
 > |**Life Span** | 160 Years |
 > |**Size** |Medium,Small |
 > |**Base Speed** | 30 ft.|

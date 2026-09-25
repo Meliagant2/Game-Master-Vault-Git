@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Find Familiar
 created: 2026-07-30T16:45:58.181+02:00
-modified: 2026-09-18T10:56:36.020+02:00
-published: 2026-09-18T10:56:36.020+02:00
+modified: 2026-09-25T10:18:57.799+02:00
+published: 2026-09-25T10:18:57.799+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -49,7 +49,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 
 You gain the service of a familiar, a spirit that takes the form of a _tiny_ creature of your choice, with a creature type of your choice (except Giant and Humanoid). It manifests in an unoccupied space that you can see within range and uses the [[02. Regelwerk/D&D 5e Regelwerk/5e - Monster Rules/5e - Bestiary/5e - Creatures by Type/5e - Bestiary; Summons/5e - Familiar|🐺Familiar]] stat block. When you cast the spell, choose an ability: _Climbing_, _Flying_, or _Swimming_, which determines certain details in the familiar's stat block. Your familiar acts independently of you, but it obeys your commands.
 
-**<u>Telepathic Connection:</u>** While your familiar is within <u>100 feet</u> of you, you can communicate with it [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Telepathy|🗣️Telepathically]]. Additionally, as a **Bonus Action**, you can see through the familiar's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses it has.
+**<u>Telepathic Connection:</u>** While your familiar is within <u>100 feet</u> of you, you can communicate with it [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Rare Languages/5e - Telepathy|🗣️Telepathically]]. Additionally, as a **Bonus Action**, you can see through the familiar's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses it has.
 
 Finally, when you cast a spell with a range of <u>touch</u>, your familiar can deliver the touch. Your familiar must be within <u>100 feet</u> of you, and it must take a **Reaction** to deliver the touch when you cast the spell.
 

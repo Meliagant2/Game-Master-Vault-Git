@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 👥5e - Hobbit👥
+title: 👥5e - Hobbit
 created: 2026-07-20T12:11:02.463+02:00
-modified: 2026-07-29T08:11:22.778+02:00
-published: 2026-07-29T08:11:22.778+02:00
+modified: 2026-09-25T08:59:52.828+02:00
+published: 2026-09-25T08:59:52.828+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -12,7 +12,6 @@ dateitags:
   - "#Heritage"
   - "#5e"
 image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Heritage Hobbit.png]]"
-status: ✅
 aliase: Halfling
 kreaturentyp:
   - Humanoid
@@ -25,18 +24,12 @@ speed: 30 ft.
 # 👥5e - Hobbit👥
 
 > [!wikibox]
->
-> ## <center>👥5e - Hobbit👥</center>
->
-> | | |
-> |---|---|
-> |**Aliase** | Halfling |
->
 > ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Heritage Hobbit.png|Regelwerk Heritage Hobbit.png]]
 >
 > | | |
 > |---|---|
-> |**Creature Type(s)** |Humanoid |
+> |**Aliase** | Halfling |
+> |**Creature Type** |Humanoid |
 > |**Life Span** | 120 Years |
 > |**Size** |Small |
 > |**Base Speed** | 30 ft.|

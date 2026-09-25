@@ -2,8 +2,8 @@
 publish: true
 title: 🎎5e - Villager
 created: 2026-07-20T18:00:21.058+02:00
-modified: 2026-09-03T16:13:33.491+02:00
-published: 2026-09-03T16:13:33.491+02:00
+modified: 2026-09-25T09:44:11.283+02:00
+published: 2026-09-25T09:44:11.283+02:00
 tags:
   - "#Culture"
   - "#5e"
@@ -33,7 +33,7 @@ Characters raised in the village culture share a variety of traits in common wit
 
 **<u>Tool Proficiencies:</u>** You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Proficiency|🎲Proficiency]] with [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Vehicles/5e - Land Vehicles/5e - Land Vehicles|🚘Land Vehicles]], or one level of [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Expertise|🎲Expertise]], if you are already _proficient_.
 
-**<u>Languages:</u>** You have <u>three</u> **mastery levels** in [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Common|🗣️Common]] and you gain a **mastery level** in <u>one</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Language]] of your choice.
+**<u>Languages:</u>** You have <u>three</u> **mastery levels** in [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Mortal Languages/5e - Common|🗣️Common]] and you gain a **mastery level** in <u>one</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Language]] of your choice.
 
 **<u>Roughing it:</u>** <u>Once per Long Rest</u>, you can ignore one of the interruptions, that would interrupt your [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Long Rest|😴Long Rest]].
 

@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 👥5e - Valrath👥
+title: 👥5e - Valrath
 created: 2026-07-20T12:11:02.479+02:00
-modified: 2026-09-09T08:59:52.551+02:00
-published: 2026-09-09T08:59:52.551+02:00
+modified: 2026-09-25T09:00:33.621+02:00
+published: 2026-09-25T09:00:33.621+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -12,7 +12,6 @@ dateitags:
   - "#Heritage"
   - "#5e"
 image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Heritage Valrath.png]]"
-status: ✅
 aliase: Tiefling, Demonborn
 kreaturentyp:
   - Fiend
@@ -27,18 +26,12 @@ speed: 30 ft.
 # 👥5e - Valrath👥
 
 > [!wikibox]
->
-> ## <center>👥5e - Valrath👥</center>
->
-> | | |
-> |---|---|
-> |**Aliase** | Tiefling, Demonborn |
->
 > ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Heritage Valrath.png|Regelwerk Heritage Valrath.png]]
 >
 > | | |
 > |---|---|
-> |**Creature Type(s)** |Fiend,Humanoid |
+> |**Aliase** | Tiefling, Demonborn |
+> |**Creature Type** |Fiend,Humanoid |
 > |**Life Span** | 160 Years |
 > |**Size** |Medium,Small |
 > |**Base Speed** | 30 ft.|

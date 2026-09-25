@@ -2,8 +2,8 @@
 publish: true
 title: Changelog Styx 1
 created: 2026-08-21T09:34:59.617+02:00
-modified: 2026-09-24T15:56:26.089+02:00
-published: 2026-09-24T15:56:26.089+02:00
+modified: 2026-09-24T20:00:30.473+02:00
+published: 2026-09-24T20:00:30.473+02:00
 tags:
   - "#Changelog"
   - "#5e"
@@ -220,14 +220,16 @@ Currently you know `6` cantrips, but you should only have `5`. Depending on your
 [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Enchantment/5e - Level 4 Enchantment/5e - Confusion (Spell)|Confusion]]: Clarified ruling with the **Confused** condition.
 [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Conjuration/5e - Level 4 Conjuration/5e - Dimension Door (Spell)|Dimension Door]]: Added an upcast option to teleport more creatures.
 
-## tl;dr To Do List
+## tl;dr To Do List Styx
 
-- A total of `4` [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Language]] masteries. (Culture, Background)
-- One [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats|🥇Origin Feat]] (choices listed in your [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 05. Background/5e - Haunted (Background)|background]])
-- One [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Gaming Sets/5e - Gaming Sets|🛠️Gaming Set]] tool proficiency: _Chess, Dice, Playing Cards_. (Background)
-- One [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spellcasting Focus|🎩Spellcasting Focus]] property: _Card Decks, Censers, Crystals, Grimoires, Instruments, Orbs, Poppets, Ritual Bells, Rods, Staffs, Totems, Wands_. (Class; You already have proficiency with _Holy Symbols_).
-- Choose your Save Proficiencies: <u>Choose one proficiency of each A and B:</u> **(A)** Constitution OR Wisdom; **(B)** Intelligence OR Charisma. (Class).
-- <u>Choose 2 Skill Proficiencies:</u> Culture, Endurance, History, Insight, Medicine, Persuasion, Occultism, Religion. (Class).
-- Choose Cleric [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats|🥇Class Feats]] of levels _2, 4, and 6_. (Class)
-- Choose [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - General Feats/5e - General Feats|🥇General Feats]] of levels _2, and 4_. (Class)
-- Choose a [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Skill Feats|🥇Skill Feat]] of level _6_.
+1. A total of `4` [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Language]] masteries. (Culture, Background)
+2. One [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats|🥇Origin Feat]] of choice: [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats Generic/5e - Alert|🥇Alert]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats Generic/5e - Magic Initiate|🥇Magic Initiate]] (Occult), [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats Generic/5e - Survivor|🥇Survivor]], or a **special** [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats|🥇Origin Feat]] (**Dark Gift** feats recommended in this case for you). (Background)
+3. One [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Gaming Sets/5e - Gaming Sets|🛠️Gaming Set]] tool proficiency: _Chess, Dice, Playing Cards_. (Background)
+4. One [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spellcasting Focus|🎩Spellcasting Focus]] property: _Card Decks, Censers, Crystals, Grimoires, Instruments, Orbs, Poppets, Ritual Bells, Rods, Staffs, Totems, Wands_. (Class; You already have proficiency with _Holy Symbols_).
+5. Choose your Save Proficiencies: <u>Choose one proficiency of each A and B:</u> **(A)** Constitution OR Wisdom; **(B)** Intelligence OR Charisma. (Class).
+6. <u>Choose 2 Skill Proficiencies:</u> _Culture, Endurance, History, Insight, Medicine, Persuasion, Occultism, Religion._ (Class).
+7. <u>Choose 1 Skill Proficiency:</u> _Insight, Medicine, Perception, Survival._ (Observant)
+8. Choose <u>two</u> **Divine Damage types**. (see [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Cleric/5e - Cleric#Level 1 Cleric Order|Cleric->Level1 Cleric Order]]). This determines the damage types you can do with some Cleric features like **Channel Divinity: Divine Spark**.
+9. Choose Cleric [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats|🥇Class Feats]] of levels _2, 4, and 6_. (Class)
+10. Choose [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - General Feats/5e - General Feats|🥇General Feats]] of levels _2, and 4_. (Class)
+11. Choose a [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Skill Feats|🥇Skill Feat]] of level _6_.

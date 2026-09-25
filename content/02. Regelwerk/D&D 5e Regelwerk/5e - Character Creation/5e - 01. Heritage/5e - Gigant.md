@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 👥5e - Gigant👥
+title: 👥5e - Gigant
 created: 2026-07-20T12:11:02.463+02:00
-modified: 2026-08-12T07:44:28.918+02:00
-published: 2026-08-12T07:44:28.918+02:00
+modified: 2026-09-25T08:59:55.012+02:00
+published: 2026-09-25T08:59:55.012+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -12,7 +12,6 @@ dateitags:
   - "#Heritage"
   - "#5e"
 image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Heritage Gigant.png]]"
-status: ✅
 aliase: Goliath
 kreaturentyp:
   - Giant
@@ -26,18 +25,12 @@ speed: 35 ft.
 # 👥5e - Gigant👥
 
 > [!wikibox]
->
-> ## <center>👥5e - Gigant👥</center>
->
-> | | |
-> |---|---|
-> |**Aliase** | Goliath |
->
 > ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Heritage Gigant.png|Regelwerk Heritage Gigant.png]]
 >
 > | | |
 > |---|---|
-> |**Creature Type(s)** |Giant,Humanoid |
+> |**Aliase** | Goliath |
+> |**Creature Type** |Giant,Humanoid |
 > |**Life Span** | 80 Years |
 > |**Size** |Medium |
 > |**Base Speed** | 35 ft.|

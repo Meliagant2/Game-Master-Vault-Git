@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 👥5e - Elf👥
+title: 👥5e - Elf
 created: 2026-07-20T12:11:02.463+02:00
-modified: 2026-09-09T10:55:04.509+02:00
-published: 2026-09-09T10:55:04.509+02:00
+modified: 2026-09-25T08:59:33.368+02:00
+published: 2026-09-25T08:59:33.368+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -12,7 +12,6 @@ dateitags:
   - "#Heritage"
   - "#5e"
 image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Heritage Elf.png]]"
-status: ✅
 kreaturentyp:
   - Humanoid
 lifespan: 300 Years (Sometimes immortal)
@@ -25,18 +24,12 @@ kreaturgroesse:
 # 👥5e - Elf👥
 
 > [!wikibox]
->
-> ## <center>👥5e - Elf👥</center>
->
-> | | |
-> |---|---|
-> |**Aliase** |  |
->
 > ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Heritage Elf.png|Regelwerk Heritage Elf.png]]
 >
 > | | |
 > |---|---|
-> |**Creature Type(s)** |Humanoid |
+> |**Aliase** |  |
+> |**Creature Type** |Humanoid |
 > |**Life Span** | 300 Years (Sometimes immortal) |
 > |**Size** |Medium,Small |
 > |**Base Speed** | 30 ft.|

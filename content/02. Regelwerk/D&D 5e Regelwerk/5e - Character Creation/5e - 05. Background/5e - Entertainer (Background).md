@@ -2,8 +2,8 @@
 publish: true
 title: ⛏️5e - Entertainer
 created: 2026-07-21T13:40:44.481+02:00
-modified: 2026-09-04T09:08:47.813+02:00
-published: 2026-09-04T09:08:47.813+02:00
+modified: 2026-09-25T09:22:45.540+02:00
+published: 2026-09-25T09:22:45.540+02:00
 tags:
   - "#Background"
   - "#5e"
@@ -34,7 +34,7 @@ You spent much of your youth following roving fairs and carnivals, performing od
 
 **<u>Tool Proficiencies</u>:** You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Proficiency|🎲Proficiency]] with one [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Musical Instruments/5e - Musical Instruments|🛠️Musical Instrument]] and one [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Gaming Sets/5e - Gaming Sets|🛠️Gaming Set]] of your choice, or one level of [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Expertise|🎲Expertise]], if you are already _proficient_.
 
-**<u>Equipment:</u>** A [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Musical Instruments/5e - Musical Instruments|🛠️Musical Instrument]] (the one you chose as your proficiency above), 2 [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Clothing/5e - Costume|👔Costumes]], a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Adventuring Gear/5e - Mirror|🪓Mirror]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Adventuring Gear/5e - Perfume|🪓Perfume]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Clothing/5e - Travelling Clothes|👔Travelling Clothes]], `3d4` Silver Pieces.
+**<u>Equipment:</u>** A [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Musical Instruments/5e - Musical Instruments|🛠️Musical Instrument]] (the one you chose as your proficiency above), 2 [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Clothing/5e - Costume|👔Costumes]], a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Adventuring Gear/5e - Mirror|🪓Mirror]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Oils/5e - Perfume|🪓Perfume]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Clothing/5e - Travelling Clothes|👔Travelling Clothes]], `3d4` Silver Pieces.
 
 **<u>Connection and Memento:</u>** Roll <u>1d10</u>, choose, or make up your own.
 

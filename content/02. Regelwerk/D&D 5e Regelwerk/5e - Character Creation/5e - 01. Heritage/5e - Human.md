@@ -2,8 +2,8 @@
 publish: true
 title: 👥5e - Human
 created: 2026-07-20T12:11:02.463+02:00
-modified: 2026-09-23T15:21:33.255+02:00
-published: 2026-09-23T15:21:33.255+02:00
+modified: 2026-09-25T09:00:06.956+02:00
+published: 2026-09-25T09:00:06.956+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -12,7 +12,6 @@ dateitags:
   - "#Heritage"
   - "#5e"
 image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Heritage Human.png]]"
-status: ✅
 kreaturentyp:
   - Humanoid
 lifespan: 100 Years
@@ -25,15 +24,12 @@ speed: 30 ft.
 # 👥5e - Human👥
 
 > [!wikibox]
-> | | |
-> |---|---|
-> |**Aliase** |  |
->
 > ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Heritage Human.png|Regelwerk Heritage Human.png]]
 >
 > | | |
 > |---|---|
-> |**Creature Type(s)** |Humanoid |
+> |**Aliase** |  |
+> |**Creature Type** |Humanoid |
 > |**Life Span** | 100 Years |
 > |**Size** |Medium,Small |
 > |**Base Speed** | 30 ft.|

@@ -2,8 +2,8 @@
 publish: true
 title: 👥5e - Orc👥
 created: 2026-07-20T12:11:02.463+02:00
-modified: 2026-09-07T12:34:22.342+02:00
-published: 2026-09-07T12:34:22.342+02:00
+modified: 2026-09-25T09:00:16.101+02:00
+published: 2026-09-25T09:00:16.101+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -12,7 +12,6 @@ dateitags:
   - "#Heritage"
   - "#5e"
 image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Heritage Orc.png]]"
-status: ✅
 kreaturentyp:
   - Humanoid
 lifespan: 80 Years
@@ -24,18 +23,12 @@ speed: 30 ft.
 # 👥5e - Orc👥
 
 > [!wikibox]
->
-> ## <center>👥5e - Orc👥</center>
->
-> | | |
-> |---|---|
-> |**Aliase** |  |
->
 > ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Heritage Orc.png|Regelwerk Heritage Orc.png]]
 >
 > | | |
 > |---|---|
-> |**Creature Type(s)** |Humanoid |
+> |**Aliase** |  |
+> |**Creature Type** |Humanoid |
 > |**Life Span** | 80 Years |
 > |**Size** |Medium |
 > |**Base Speed** | 30 ft.|

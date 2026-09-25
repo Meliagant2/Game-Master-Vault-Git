@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Crafter
 created: 2026-08-04T10:55:04.218+02:00
-modified: 2026-08-26T09:44:50.421+02:00
-published: 2026-08-26T09:44:50.421+02:00
+modified: 2026-09-25T08:47:03.998+02:00
+published: 2026-09-25T08:47:03.998+02:00
 tags:
   - "#Feat"
   - "#5e"
@@ -34,7 +34,7 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Fea
 
 You gain the following benefits:
 
-**<u>Tool Proficiency:</u>** You gain Tool Proficiency with three different [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Artisan_s Tools/5e - Artisan_s Tools|🛠️Artisans Tools]] of your choice, or one level of [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Expertise|🎲Expertise]], if you are already _proficient_.
+**<u>Tool Proficiency:</u>** You gain Tool Proficiency with three different [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Artisans Tools/5e - Artisans Tools|🛠️Artisans Tools]] of your choice, or one level of [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Expertise|🎲Expertise]], if you are already _proficient_.
 
 **<u>Faster Crafting:</u>** When you finish a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Resting/5e - Long Rest|😴Long Rest]], you can craft one piece of gear from the Fast Crafting table, provided you have the <u>Artisan's Tools</u> associated with that item and have proficiency with those tools. The item lasts until you finish another **Long Rest**, at which point the item falls apart.
 

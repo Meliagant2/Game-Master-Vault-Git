@@ -2,8 +2,8 @@
 publish: true
 title: 🎎5e - Nomad
 created: 2026-07-20T18:00:21.058+02:00
-modified: 2026-09-03T16:19:09.544+02:00
-published: 2026-09-03T16:19:09.544+02:00
+modified: 2026-09-25T09:44:11.266+02:00
+published: 2026-09-25T09:44:11.266+02:00
 tags:
   - "#Culture"
   - "#5e"
@@ -33,9 +33,9 @@ Characters raised as nomads share a variety of traits in common with one another
 
 **<u>Skill Proficiency:</u>** You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Proficiency|🎲Proficiency]] in [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - WIS Skills/5e - Survival|💃Survival]], or one level of [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Expertise|🎲Expertise]] if you are already _proficient_.
 
-**<u>Languages:</u>** You have <u>three</u> **mastery levels** in [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Common|🗣️Common]] and you either gain <u>one</u> **mastery level** in <u>two</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Languages]] of your choice, or <u>two</u> **mastery levels** in <u>one</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Language]] of your choice.
+**<u>Languages:</u>** You have <u>three</u> **mastery levels** in [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Mortal Languages/5e - Common|🗣️Common]] and you either gain <u>one</u> **mastery level** in <u>two</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Languages]] of your choice, or <u>two</u> **mastery levels** in <u>one</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Language]] of your choice.
 
-**<u>Tool Proficiencies:</u>** You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Proficiency|🎲Proficiency]] with [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Vehicles/5e - Land Vehicles/5e - Land Vehicles|🚘Land Vehicles]] and [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Artisan_s Tools/5e - Tinkers Tools|🛠️Tinkers Tools]], or one level of [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Expertise|🎲Expertise]], if you are already _proficient_.
+**<u>Tool Proficiencies:</u>** You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Proficiency|🎲Proficiency]] with [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Vehicles/5e - Land Vehicles/5e - Land Vehicles|🚘Land Vehicles]] and [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Artisans Tools/5e - Tinkers Tools|🛠️Tinkers Tools]], or one level of [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Expertise|🎲Expertise]], if you are already _proficient_.
 
 **<u>Internal Clock:</u>** By observing the environment when on your home plane, you can estimate the time of year down to within a week of the actual date. When you are outdoors, you know the time of day.
 

@@ -2,8 +2,8 @@
 publish: true
 title: 🎎5e - Caravanner
 created: 2026-07-20T17:36:20.031+02:00
-modified: 2026-09-23T11:08:46.182+02:00
-published: 2026-09-23T11:08:46.182+02:00
+modified: 2026-09-25T09:44:11.202+02:00
+published: 2026-09-25T09:44:11.202+02:00
 tags:
   - "#Culture"
   - "#5e"
@@ -33,7 +33,7 @@ Characters raised in the caravanner culture share a variety of traits in common 
 
 **<u>Tool Proficiencies:</u>** You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Proficiency|🎲Proficiency]] with [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Vehicles/5e - Land Vehicles/5e - Land Vehicles|🚘Land Vehicles]], or one level of [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Expertise|🎲Expertise]], if you are already _proficient_.
 
-**<u>Languages:</u>** You have <u>three</u> **mastery levels** in [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Common|🗣️Common]] and you gain a **mastery level** in <u>one</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Language]] of your choice.
+**<u>Languages:</u>** You have <u>three</u> **mastery levels** in [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Mortal Languages/5e - Common|🗣️Common]] and you gain a **mastery level** in <u>one</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Language]] of your choice.
 
 **<u>Long Hauler:</u>** Sometimes riding in a caravan means enduring long hours and harsh weather. You have **ADV** on [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - D20 Tests|🎲D20 Tests]] made to avoid [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Fatigue|☠️Fatigue]].
 

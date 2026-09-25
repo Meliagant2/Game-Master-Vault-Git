@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 👥5e - Drakari👥
+title: 👥5e - Drakari
 created: 2026-07-20T12:11:02.447+02:00
-modified: 2026-09-14T16:08:28.363+02:00
-published: 2026-09-14T16:08:28.363+02:00
+modified: 2026-09-25T08:59:36.884+02:00
+published: 2026-09-25T08:59:36.884+02:00
 tags:
   - "#Heritage"
   - "#5e"
@@ -12,7 +12,6 @@ dateitags:
   - "#Heritage"
   - "#5e"
 image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Heritage Drakari.png]]"
-status: ✅
 aliase: Dragonborn
 kreaturentyp:
   - Dragon
@@ -26,18 +25,12 @@ speed: 30 ft.
 # 👥5e - Drakari👥
 
 > [!wikibox]
->
-> ## <center>👥5e - Drakari👥</center>
->
-> | | |
-> |---|---|
-> |**Aliase** | Dragonborn |
->
 > ![[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Heritage Drakari.png|Regelwerk Heritage Drakari.png]]
 >
 > | | |
 > |---|---|
-> |**Creature Type(s)** |Dragon,Humanoid |
+> |**Aliase** | Dragonborn |
+> |**Creature Type** |Dragon,Humanoid |
 > |**Life Span** | 80 Years |
 > |**Size** |Medium |
 > |**Base Speed** | 30 ft.|

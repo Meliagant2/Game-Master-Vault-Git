@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Prophet
 description: Prophets sometimes receive visions directly from their deity and receive fleeting omens of the future. They share impossible knowledge with their allies and prophesize their enemies' doom.
 created: 2026-08-26T08:43:51.276+02:00
-modified: 2026-09-17T10:17:57.581+02:00
-published: 2026-09-17T10:17:57.581+02:00
+modified: 2026-09-25T10:18:57.767+02:00
+published: 2026-09-25T10:18:57.767+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -43,7 +43,7 @@ As a **Bonus Action**, you present your [[02. Regelwerk/D&D 5e Regelwerk/5e - Ba
 
 You gain the following benefits:
 
-**<u>Telepathy:</u>** You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Telepathy|🗣️Telepathy]] out to <u>60 feet</u>. When you use this telepathy, you can simultaneously contact a number of creatures equal to `your WIS (minimum of one)`.
+**<u>Telepathy:</u>** You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Rare Languages/5e - Telepathy|🗣️Telepathy]] out to <u>60 feet</u>. When you use this telepathy, you can simultaneously contact a number of creatures equal to `your WIS (minimum of one)`.
 
 **<u>Shielded Mind:</u>** You gain proficiency in <u>INT</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Saves]]. If you already have this proficiency, you instead gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Save]] proficiency with one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 00. Ability Scores/5e - 00. Ability Scores|⚙️Ability]] in which you lack it.
 
