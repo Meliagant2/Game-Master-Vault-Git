@@ -3,8 +3,8 @@ publish: true
 title: ☄️5e - School of Evocation
 description: Evocation spells call forth magical energy, often to create burst of magical energy.
 created: 2026-07-23T12:21:26.082+02:00
-modified: 2026-09-04T10:42:53.931+02:00
-published: 2026-09-04T10:42:53.931+02:00
+modified: 2026-09-28T13:14:20.496+02:00
+published: 2026-09-28T13:14:20.496+02:00
 tags:
   - "#Combatrules"
   - "#5e"
@@ -23,6 +23,15 @@ Evocation spells call forth magical energy, often to create burst of magical ene
 ## List of all Evocation Spells:
 
 ```base
+filters:
+  and:
+    - '!file.name.contains("(Legacy)")'
+formulas:
+  Spell: link(file, title)
+  titleasname: link(file, title)
+properties:
+  formula.titleasname:
+    displayName: Name
 views:
   - type: table
     name: 5e - Evocation; All Spells
@@ -31,7 +40,7 @@ views:
         - dateitags.containsAll("#Spell", "#5e")
         - school.contains("Evocation")
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -41,6 +50,8 @@ views:
       - effect
     sort:
       - property: level
+        direction: ASC
+      - property: file.name
         direction: ASC
     image: note.image
     cardSize: 150
@@ -59,7 +70,7 @@ views:
         - school.contains("Evocation")
         - level == 0
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -89,7 +100,7 @@ views:
         - school.contains("Evocation")
         - level == 1
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -119,7 +130,7 @@ views:
         - school.contains("Evocation")
         - level == 2
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -149,7 +160,7 @@ views:
         - school.contains("Evocation")
         - level == 3
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -179,7 +190,7 @@ views:
         - school.contains("Evocation")
         - level == 4
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -209,7 +220,7 @@ views:
         - school.contains("Evocation")
         - level == 5
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -239,7 +250,7 @@ views:
         - school.contains("Evocation")
         - level == 6
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -269,7 +280,7 @@ views:
         - school.contains("Evocation")
         - level == 7
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -299,7 +310,7 @@ views:
         - school.contains("Evocation")
         - level == 8
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -329,7 +340,7 @@ views:
         - school.contains("Evocation")
         - level == 9
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time

@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Pinky Swear
 created: 2026-09-08T12:03:46.961+02:00
-modified: 2026-09-09T13:44:37.639+02:00
-published: 2026-09-09T13:44:37.639+02:00
+modified: 2026-09-28T13:02:05.434+02:00
+published: 2026-09-28T13:02:05.434+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 2
 time: A
 range-Area: Touch
 komponenten: V, S
-dauer: 24 hours
+dauer: 24 Hours
 effect:
   - Social
 zauberliste:
@@ -38,7 +38,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|Touch |
 > |**Components:**|V, S |
-> |**Duration:**|PT24H |
+> |**Duration:**|24 Hours |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Divine |

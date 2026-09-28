@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Mockerys Snare
 created: 2026-09-08T11:54:10.668+02:00
-modified: 2026-09-08T16:05:40.322+02:00
-published: 2026-09-08T16:05:40.322+02:00
+modified: 2026-09-28T13:01:59.776+02:00
+published: 2026-09-28T13:01:59.776+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 2
 time: BA
 range-Area: Touch
 komponenten: S, M (a piano wire)
-dauer: 1 minute
+dauer: 1 Minute
 save-Att: WIS
 effect:
   - Necrotic
@@ -42,7 +42,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|BA  |
 > |**Range/Area:**|Touch |
 > |**Components:**|S, M (a piano wire) |
-> |**Duration:**|PT1M |
+> |**Duration:**|1 Minute |
 > |**Concentration:**|x |
 > |**Attack/Save:**|WIS|
 > |**Spell List:**|Divine,Occult,Primal |

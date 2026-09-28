@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Protection from Poison
 created: 2026-09-08T12:12:48.251+02:00
-modified: 2026-09-08T16:05:44.551+02:00
-published: 2026-09-08T16:05:44.551+02:00
+modified: 2026-09-28T13:02:12.082+02:00
+published: 2026-09-28T13:02:12.082+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 2
 time: A
 range-Area: Touch
 komponenten: V, S
-dauer: 1 hour
+dauer: 1 Hour
 effect:
   - Resistance
   - Poison
@@ -41,7 +41,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|Touch |
 > |**Components:**|V, S |
-> |**Duration:**|PT1H |
+> |**Duration:**|1 Hour |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Divine,Primal |

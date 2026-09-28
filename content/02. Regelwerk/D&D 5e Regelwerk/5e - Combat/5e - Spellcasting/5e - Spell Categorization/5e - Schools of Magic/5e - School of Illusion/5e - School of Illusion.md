@@ -3,8 +3,8 @@ publish: true
 title: ☄️5e - School of Illusion
 description: Illusion spells create false sensory impressions.
 created: 2026-07-23T11:55:35.338+02:00
-modified: 2026-09-09T11:24:33.454+02:00
-published: 2026-09-09T11:24:33.454+02:00
+modified: 2026-09-28T13:14:29.105+02:00
+published: 2026-09-28T13:14:29.105+02:00
 tags:
   - "#Combatrules"
   - "#5e"
@@ -23,6 +23,15 @@ Illusion spells create false sensory impressions.
 ## List of all Illusion Spells:
 
 ```base
+filters:
+  and:
+    - '!file.name.contains("(Legacy)")'
+formulas:
+  Spell: link(file, title)
+  titleasname: link(file, title)
+properties:
+  formula.titleasname:
+    displayName: Name
 views:
   - type: table
     name: 5e - Illusion; All Spells
@@ -31,7 +40,7 @@ views:
         - dateitags.containsAll("#Spell", "#5e")
         - school.contains("Illusion")
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -51,7 +60,7 @@ views:
     columnSize:
       file.name: 200
       note.level: 49
-      note.time: 79
+      note.time: 25
       note.c: 24
   - type: table
     name: 5e - Illusion; Cantrips
@@ -61,7 +70,7 @@ views:
         - school.contains("Illusion")
         - level == 0
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -91,7 +100,7 @@ views:
         - school.contains("Illusion")
         - level == 1
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -121,7 +130,7 @@ views:
         - school.contains("Illusion")
         - level == 2
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -151,7 +160,7 @@ views:
         - school.contains("Illusion")
         - level == 3
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -181,7 +190,7 @@ views:
         - school.contains("Illusion")
         - level == 4
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -211,7 +220,7 @@ views:
         - school.contains("Illusion")
         - level == 5
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -241,7 +250,7 @@ views:
         - school.contains("Illusion")
         - level == 6
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -271,7 +280,7 @@ views:
         - school.contains("Illusion")
         - level == 7
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -301,7 +310,7 @@ views:
         - school.contains("Illusion")
         - level == 8
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -331,7 +340,7 @@ views:
         - school.contains("Illusion")
         - level == 9
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time

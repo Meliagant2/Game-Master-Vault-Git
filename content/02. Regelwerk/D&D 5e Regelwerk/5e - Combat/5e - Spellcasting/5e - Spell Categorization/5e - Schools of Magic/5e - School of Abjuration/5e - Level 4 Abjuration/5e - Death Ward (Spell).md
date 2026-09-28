@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Death Ward
 created: 2026-08-18T15:52:16.818+02:00
-modified: 2026-09-15T08:43:47.652+02:00
-published: 2026-09-15T08:43:47.652+02:00
+modified: 2026-09-28T13:03:30.095+02:00
+published: 2026-09-28T13:03:30.095+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 4
 time: A
 range-Area: Touch
 komponenten: V, S
-dauer: 12 hours
+dauer: 12 Hours
 effect:
   - Buff
 zauberliste:
@@ -38,7 +38,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|Touch |
 > |**Components:**|V, S |
-> |**Duration:**|PT12H |
+> |**Duration:**|12 Hours |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Divine |

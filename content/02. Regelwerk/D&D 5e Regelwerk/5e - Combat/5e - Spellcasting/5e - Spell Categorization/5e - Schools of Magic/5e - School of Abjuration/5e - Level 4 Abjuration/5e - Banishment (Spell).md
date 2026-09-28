@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Banishment
 created: 2026-07-28T12:00:10.539+02:00
-modified: 2026-09-15T08:41:39.929+02:00
-published: 2026-09-15T08:41:39.929+02:00
+modified: 2026-09-28T13:03:27.347+02:00
+published: 2026-09-28T13:03:27.347+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 4
 time: A
 range-Area: 30 ft.
 komponenten: V, S, M (a pentacle)
-dauer: 1 minute
+dauer: 1 Minute
 save-Att: CHA
 effect:
   - Banishment
@@ -41,7 +41,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|30 ft. |
 > |**Components:**|V, S, M (a pentacle) |
-> |**Duration:**|PT1M |
+> |**Duration:**|1 Minute |
 > |**Concentration:**|x |
 > |**Attack/Save:**|CHA|
 > |**Spell List:**|Arcane,Divine,Occult |

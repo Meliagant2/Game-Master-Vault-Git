@@ -3,8 +3,8 @@ publish: true
 title: ☄️5e - School of Abjuration
 description: Abjuration spells involve the forces of protection and warding.
 created: 2026-07-23T12:21:19.955+02:00
-modified: 2026-09-04T10:42:53.873+02:00
-published: 2026-09-04T10:42:53.873+02:00
+modified: 2026-09-28T13:13:33.803+02:00
+published: 2026-09-28T13:13:33.803+02:00
 tags:
   - "#Combatrules"
   - "#5e"
@@ -23,6 +23,15 @@ Abjuration spells involve the forces of protection and warding.
 ## List of all Abjuration Spells:
 
 ```base
+filters:
+  and:
+    - '!file.name.contains("(Legacy)")'
+formulas:
+  Spell: link(file, title)
+  titleasname: link(file, title)
+properties:
+  formula.titleasname:
+    displayName: Name
 views:
   - type: table
     name: 5e - Abjuration; All Spells
@@ -31,7 +40,7 @@ views:
         - dateitags.containsAll("#Spell", "#5e")
         - school.contains("Abjuration")
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -61,7 +70,7 @@ views:
         - school.contains("Abjuration")
         - level == 0
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -91,7 +100,7 @@ views:
         - school.contains("Abjuration")
         - level == 1
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -121,7 +130,7 @@ views:
         - school.contains("Abjuration")
         - level == 2
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -151,7 +160,7 @@ views:
         - school.contains("Abjuration")
         - level == 3
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -181,7 +190,7 @@ views:
         - school.contains("Abjuration")
         - level == 4
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -211,7 +220,7 @@ views:
         - school.contains("Abjuration")
         - level == 5
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -241,7 +250,7 @@ views:
         - school.contains("Abjuration")
         - level == 6
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -271,7 +280,7 @@ views:
         - school.contains("Abjuration")
         - level == 7
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -301,7 +310,7 @@ views:
         - school.contains("Abjuration")
         - level == 8
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time
@@ -331,7 +340,7 @@ views:
         - school.contains("Abjuration")
         - level == 9
     order:
-      - file.name
+      - formula.Spell
       - level
       - school
       - time

@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Pass without Trace
 created: 2026-07-20T12:11:02.704+02:00
-modified: 2026-09-08T12:03:13.139+02:00
-published: 2026-09-08T12:03:13.139+02:00
+modified: 2026-09-28T13:02:02.734+02:00
+published: 2026-09-28T13:02:02.734+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 2
 time: A
 range-Area: 30 ft. Emanation
 komponenten: V, S, M (ashes from burned mistletoe)
-dauer: 1 hour
+dauer: 1 Hour
 effect:
   - Buff
 zauberliste:
@@ -38,7 +38,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|30 ft. Emanation |
 > |**Components:**|V, S, M (ashes from burned mistletoe) |
-> |**Duration:**|PT1H |
+> |**Duration:**|1 Hour |
 > |**Concentration:**|x |
 > |**Attack/Save:**||
 > |**Spell List:**|Primal |

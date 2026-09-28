@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Alarm
 created: 2026-07-28T13:59:23.827+02:00
-modified: 2026-09-09T14:22:12.532+02:00
-published: 2026-09-09T14:22:12.532+02:00
+modified: 2026-09-28T13:01:16.679+02:00
+published: 2026-09-28T13:01:16.679+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -18,7 +18,7 @@ level: 1
 time: 1m [R]
 range-Area: 30 ft. (10 ft. Sphere)
 komponenten: V, S, M (a bell and silver wire)
-dauer: 8h
+dauer: 8 Hours
 effect:
   - Detection
   - Ritual
@@ -40,7 +40,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|1m \[R]  |
 > |**Range/Area:**|30 ft. (10 ft. Sphere) |
 > |**Components:**|V, S, M (a bell and silver wire) |
-> |**Duration:**|PT8H |
+> |**Duration:**|8 Hours |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane,Primal |

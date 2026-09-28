@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Aura of Purity
 created: 2026-07-28T13:59:50.999+02:00
-modified: 2026-09-15T08:34:32.326+02:00
-published: 2026-09-15T08:34:32.326+02:00
+modified: 2026-09-28T13:03:19.617+02:00
+published: 2026-09-28T13:03:19.617+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 4
 time: A
 range-Area: Self (30 ft. Emanation)
 komponenten: V
-dauer: 10 minutes
+dauer: 10 Minutes
 effect:
   - Buff
 zauberliste:
@@ -38,7 +38,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|Self (30 ft. Emanation) |
 > |**Components:**|V |
-> |**Duration:**|PT10M |
+> |**Duration:**|10 Minutes |
 > |**Concentration:**|x |
 > |**Attack/Save:**||
 > |**Spell List:**|Divine |

@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Aura of Vitality
 created: 2026-07-28T11:59:21.539+02:00
-modified: 2026-09-14T09:51:32.042+02:00
-published: 2026-09-14T09:51:32.042+02:00
+modified: 2026-09-28T13:02:19.793+02:00
+published: 2026-09-28T13:02:19.793+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 3
 time: A
 range-Area: Self (30 ft. Emanation)
 komponenten: V
-dauer: 1 minute
+dauer: 1 Minute
 effect:
   - Healing
 zauberliste:
@@ -39,7 +39,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|Self (30 ft. Emanation) |
 > |**Components:**|V |
-> |**Duration:**|PT1M |
+> |**Duration:**|1 Minute |
 > |**Concentration:**|x |
 > |**Attack/Save:**||
 > |**Spell List:**|Divine,Primal |

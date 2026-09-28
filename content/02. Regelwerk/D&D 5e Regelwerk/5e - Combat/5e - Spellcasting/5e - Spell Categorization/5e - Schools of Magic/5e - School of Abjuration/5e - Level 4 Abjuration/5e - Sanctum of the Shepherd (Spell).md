@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Sanctum of the Shepherd
 created: 2026-09-15T09:19:59.979+02:00
-modified: 2026-09-15T09:37:01.510+02:00
-published: 2026-09-15T09:37:01.510+02:00
+modified: 2026-09-28T13:03:43.645+02:00
+published: 2026-09-28T13:03:43.645+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 4
 time: 1m [R]
 range-Area: 5 ft. (20 ft. Sphere)
 komponenten: V, S, M (adamantine or diamond powder worth 200+ SP, which the spell consumes)
-dauer: 24 hours
+dauer: 24 Hours
 effect:
   - AC
   - Ritual
@@ -40,7 +40,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|1m \[R]  |
 > |**Range/Area:**|5 ft. (20 ft. Sphere) |
 > |**Components:**|V, S, M (adamantine or diamond powder worth 200+ SP, which the spell consumes) |
-> |**Duration:**|PT24H |
+> |**Duration:**|24 Hours |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Divine,Primal |

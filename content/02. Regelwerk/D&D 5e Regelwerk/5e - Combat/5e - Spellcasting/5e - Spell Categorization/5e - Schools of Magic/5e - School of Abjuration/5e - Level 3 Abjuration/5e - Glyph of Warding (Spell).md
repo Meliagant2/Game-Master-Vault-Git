@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Glyph of Warding
 created: 2026-08-18T16:07:52.386+02:00
-modified: 2026-09-14T10:17:04.391+02:00
-published: 2026-09-14T10:17:04.391+02:00
+modified: 2026-09-28T13:02:54.860+02:00
+published: 2026-09-28T13:02:54.860+02:00
 tags:
   - "#Spell"
   - "#5e"

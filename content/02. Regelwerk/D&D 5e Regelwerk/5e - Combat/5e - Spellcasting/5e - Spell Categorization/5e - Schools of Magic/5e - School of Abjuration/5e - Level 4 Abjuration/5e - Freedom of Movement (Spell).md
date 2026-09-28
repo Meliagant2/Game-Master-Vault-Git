@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Freedom of Movement
 created: 2026-07-28T10:55:45.039+02:00
-modified: 2026-09-15T08:47:28.474+02:00
-published: 2026-09-15T08:47:28.474+02:00
+modified: 2026-09-28T13:03:32.523+02:00
+published: 2026-09-28T13:03:32.523+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 4
 time: A
 range-Area: Touch
 komponenten: V, S, M (a leather strap)
-dauer: 1 hour
+dauer: 1 Hour
 effect:
   - Buff
 zauberliste:
@@ -39,7 +39,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|Touch |
 > |**Components:**|V, S, M (a leather strap) |
-> |**Duration:**|PT1H |
+> |**Duration:**|1 Hour |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Divine,Primal |

@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Intellect Fortress
 created: 2026-09-14T10:18:04.481+02:00
-modified: 2026-09-14T10:20:35.499+02:00
-published: 2026-09-14T10:20:35.499+02:00
+modified: 2026-09-28T13:02:58.895+02:00
+published: 2026-09-28T13:02:58.895+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 3
 time: A
 range-Area: 30 ft.
 komponenten: V
-dauer: 1 hour
+dauer: 1 Hour
 effect:
   - Buff
   - Resistance
@@ -40,7 +40,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|30 ft. |
 > |**Components:**|V |
-> |**Duration:**|PT1H |
+> |**Duration:**|1 Hour |
 > |**Concentration:**|x |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane,Occult |

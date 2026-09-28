@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Private Sanctum
 created: 2026-08-18T15:25:45.104+02:00
-modified: 2026-09-15T09:12:05.045+02:00
-published: 2026-09-15T09:12:05.045+02:00
+modified: 2026-09-28T13:03:38.723+02:00
+published: 2026-09-28T13:03:38.723+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 4
 time: 10m
 range-Area: 120 ft. (5-100 ft. Cube)
 komponenten: V, S, M (a thin sheet of lead)
-dauer: 24 hours
+dauer: 24 Hours
 effect:
   - Control
 zauberliste:
@@ -38,7 +38,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|PT10M  |
 > |**Range/Area:**|120 ft. (5-100 ft. Cube) |
 > |**Components:**|V, S, M (a thin sheet of lead) |
-> |**Duration:**|PT24H |
+> |**Duration:**|24 Hours |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane |

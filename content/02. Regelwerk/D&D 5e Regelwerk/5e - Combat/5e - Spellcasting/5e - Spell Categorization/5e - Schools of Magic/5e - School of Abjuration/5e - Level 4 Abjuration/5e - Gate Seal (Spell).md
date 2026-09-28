@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Gate Seal
 created: 2026-09-15T08:47:55.343+02:00
-modified: 2026-09-15T08:51:42.163+02:00
-published: 2026-09-15T08:51:42.163+02:00
+modified: 2026-09-28T13:03:34.779+02:00
+published: 2026-09-28T13:03:34.779+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 4
 time: 1m
 range-Area: 60 ft. (15 ft. Sphere)
 komponenten: V, S, M (a broken portal key, which the spell consumes)
-dauer: 24 hours
+dauer: 24 Hours
 effect:
   - Control
 zauberliste:
@@ -39,7 +39,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|PT1M  |
 > |**Range/Area:**|60 ft. (15 ft. Sphere) |
 > |**Components:**|V, S, M (a broken portal key, which the spell consumes) |
-> |**Duration:**|PT24H |
+> |**Duration:**|24 Hours |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane,Occult |

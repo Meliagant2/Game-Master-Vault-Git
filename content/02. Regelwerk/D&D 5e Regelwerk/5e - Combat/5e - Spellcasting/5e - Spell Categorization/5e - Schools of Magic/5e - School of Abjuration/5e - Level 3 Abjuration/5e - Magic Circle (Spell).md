@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Magic Circle
 created: 2026-08-18T16:07:52.386+02:00
-modified: 2026-09-14T10:29:39.096+02:00
-published: 2026-09-14T10:29:39.096+02:00
+modified: 2026-09-28T13:03:01.465+02:00
+published: 2026-09-28T13:03:01.465+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 3
 time: 1m
 range-Area: 10 ft. (10 ft. Cylinder)
 komponenten: V, S, M (salt and powdered silver worth 100+ SP, which the spell consumes)
-dauer: 1 hour
+dauer: 1 Hour
 effect:
   - Control
 zauberliste:
@@ -40,7 +40,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|PT1M  |
 > |**Range/Area:**|10 ft. (10 ft. Cylinder) |
 > |**Components:**|V, S, M (salt and powdered silver worth 100+ SP, which the spell consumes) |
-> |**Duration:**|PT1H |
+> |**Duration:**|1 Hour |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane,Divine,Occult |

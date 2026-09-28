@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Neutralize Aura
 created: 2026-09-07T12:25:55.924+02:00
-modified: 2026-09-07T12:28:04.200+02:00
-published: 2026-09-07T12:28:04.200+02:00
+modified: 2026-09-28T13:01:33.713+02:00
+published: 2026-09-28T13:01:33.713+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 1
 time: 1m
 range-Area: Touch
 komponenten: V, S, M (a sprig of sage)
-dauer: 1 hour
+dauer: 1 Hour
 effect:
   - Buff
 zauberliste:
@@ -39,7 +39,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|PT1M  |
 > |**Range/Area:**|Touch |
 > |**Components:**|V, S, M (a sprig of sage) |
-> |**Duration:**|PT1H |
+> |**Duration:**|1 Hour |
 > |**Concentration:**|x |
 > |**Attack/Save:**||
 > |**Spell List:**|Divine,Occult |

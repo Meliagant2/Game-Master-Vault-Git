@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Aid
 created: 2026-07-28T10:53:15.894+02:00
-modified: 2026-09-08T16:05:30.138+02:00
-published: 2026-09-08T16:05:30.138+02:00
+modified: 2026-09-28T13:01:45.999+02:00
+published: 2026-09-28T13:01:45.999+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 2
 time: A
 range-Area: 30 ft.
 komponenten: V, S, M (a tiny strip of white cloth)
-dauer: 8 hours
+dauer: 8 Hours
 effect:
   - Healing
   - Temp. HP
@@ -40,7 +40,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|30 ft. |
 > |**Components:**|V, S, M (a tiny strip of white cloth) |
-> |**Duration:**|PT8H |
+> |**Duration:**|8 Hours |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Divine,Primal |

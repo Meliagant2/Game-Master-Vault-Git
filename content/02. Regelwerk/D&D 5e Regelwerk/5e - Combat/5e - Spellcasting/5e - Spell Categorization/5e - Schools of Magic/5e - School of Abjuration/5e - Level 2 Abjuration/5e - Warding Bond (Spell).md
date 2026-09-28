@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Warding Bond
 created: 2026-07-28T11:59:01.000+02:00
-modified: 2026-09-08T12:18:01.817+02:00
-published: 2026-09-08T12:18:01.817+02:00
+modified: 2026-09-28T13:02:15.004+02:00
+published: 2026-09-28T13:02:15.004+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 2
 time: A
 range-Area: Touch
 komponenten: V, S, M (a pair of rings worth 50+ SP each, which you and the target must wear for the duration)
-dauer: 1 hour
+dauer: 1 Hour
 effect:
   - AC
   - Resistance
@@ -39,7 +39,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|Touch |
 > |**Components:**|V, S, M (a pair of rings worth 50+ SP each, which you and the target must wear for the duration) |
-> |**Duration:**|PT1H |
+> |**Duration:**|1 Hour |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Divine |
