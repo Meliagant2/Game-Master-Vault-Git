@@ -3,13 +3,12 @@ publish: true
 title: 🤺5e - Might
 description: Power, Hardiness, Tough, Brutal
 created: 2026-08-12T07:59:14.813+02:00
-modified: 2026-09-22T11:50:41.170+02:00
-published: 2026-09-22T11:50:41.170+02:00
+modified: 2026-09-28T11:05:05.351+02:00
+published: 2026-09-28T11:05:05.351+02:00
 tags:
   - "#Combatrules"
   - "#5e"
 dateitags:
-  - "#Combatrules"
   - "#Combattradition"
   - "#5e"
 classes:

@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Moderately Armored
 created: 2026-08-06T12:03:22.019+02:00
-modified: 2026-09-01T15:04:15.837+02:00
-published: 2026-09-01T15:04:15.837+02:00
+modified: 2026-09-28T11:36:52.360+02:00
+published: 2026-09-28T11:36:52.360+02:00
 tags:
   - "#Feat"
   - "#5e"

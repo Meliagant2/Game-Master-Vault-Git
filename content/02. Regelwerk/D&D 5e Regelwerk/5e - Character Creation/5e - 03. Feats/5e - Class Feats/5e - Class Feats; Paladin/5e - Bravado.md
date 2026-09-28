@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Bravado
 created: 2026-09-22T11:28:26.109+02:00
-modified: 2026-09-22T11:29:36.176+02:00
-published: 2026-09-22T11:29:36.176+02:00
+modified: 2026-09-28T11:36:52.348+02:00
+published: 2026-09-28T11:36:52.348+02:00
 tags:
   - "#Feat"
   - "#5e"

@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Soldier
 description: Soldiers are battlefield hardened Fighters, who earn their living by fighting in wars. They could be mercenaries, men-at-arms, or unlucky peasants, who were drafted into an army.
 created: 2026-08-10T13:45:46.559+02:00
-modified: 2026-09-16T11:12:26.841+02:00
-published: 2026-09-16T11:12:26.841+02:00
+modified: 2026-09-28T10:59:27.853+02:00
+published: 2026-09-28T10:59:27.853+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -15,6 +15,8 @@ status: ✅
 class:
   - "[[5e - Fighter]]"
 ---
+
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Fighter/5e - Fighter|5e - Fighter]].
 
 # 🦸‍♀️5e - Soldier🦸‍♀️
 

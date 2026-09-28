@@ -1,24 +1,22 @@
 ---
 publish: true
-title: 💃5e - Nature💃
+title: 💃5e - Nature
 created: 2026-07-20T12:11:02.950+02:00
-modified: 2026-07-21T10:50:35.968+02:00
-published: 2026-07-21T10:50:35.968+02:00
+modified: 2026-09-28T10:42:46.573+02:00
+published: 2026-09-28T10:42:46.573+02:00
 tags:
   - "#Skill"
   - "#5e"
-socialImage: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
 dateitags:
   - "#Skill"
   - "#5e"
-image: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
 status: ✅
 primeability: INT
-kurzbeschreibung: Knowledge about nature, beasts and plants.
+kurzbeschreibung: Recall lore about terrain, plants, animals, and weather.
 ---
+
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - Skills|5e - Skills]].
 
 # 💃5e - Nature💃
 
-The Nature skill measures a character’s knowledge of natural terrains, beasts, plants, and hazards. It can also be used to sense whether a creature is the product of this world or of another plane of existence. Unlike Survival, the Nature skill doesn’t necessarily imply practical experience with a phenomenon. The most commonly used ability score is Intelligence. A character might use Wisdom to recognize a hazard or Charisma to bring calm to an errant elemental presence disrupting an abandoned druid’s grove (or other place of great natural power).
-
-**Specialties:** astronomy, beast lore, farming, fey, plant lore, weather.
+The **Nature** skill measures a character’s knowledge of natural terrains, beasts, plants, and hazards, as well as certain creatures like Beasts, Elementals, Fey and Plants.

@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Undead Patron
 description: "You've made a pact with a creature that defies the cycle of life and death: a powerful lich, a vampire, or another entity of undeath."
 created: 2026-09-18T15:40:56.162+02:00
-modified: 2026-09-21T08:57:33.928+02:00
-published: 2026-09-21T08:57:33.928+02:00
+modified: 2026-09-28T10:58:38.327+02:00
+published: 2026-09-28T10:58:38.327+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -38,6 +38,8 @@ source: "Ravenloft: The Horrors Within"
 > > |**Kurzbeschreibung** |  `INPUT[textArea:description]`|
 > > |**Klasse**|`INPUT[inlineListSuggester(optionQuery(#Classes AND #5e AND !"98. Diverses" AND !#Legacy), useLinks(partial)):class]` |
 > > |**Source** | `INPUT[textArea:source]`|
+
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Warlock/5e - Warlock|5e - Warlock]].
 
 # 🦸‍♀️5e - Undead Patron🦸‍♀️
 

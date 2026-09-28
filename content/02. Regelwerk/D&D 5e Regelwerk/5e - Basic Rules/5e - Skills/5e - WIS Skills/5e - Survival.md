@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 💃5e - Survival💃
+title: 💃5e - Survival
 created: 2026-07-20T12:11:02.966+02:00
-modified: 2026-07-21T10:50:59.758+02:00
-published: 2026-07-21T10:50:59.758+02:00
+modified: 2026-09-28T10:46:27.924+02:00
+published: 2026-09-28T10:46:27.924+02:00
 tags:
   - "#Skill"
   - "#5e"
@@ -14,11 +14,11 @@ dateitags:
 image: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
 status: ✅
 primeability: WIS
-kurzbeschreibung: Performing tasks in wilderness.
+kurzbeschreibung: Follow tracks, forage, find a trail, or avoid natural hazards.
 ---
+
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - Skills|5e - Skills]].
 
 # 💃5e - Survival💃
 
-The Survival skill allows a character to perform the tasks necessary to thrive in the wilderness: hunting, tracking, avoiding natural hazards, and traveling without getting lost (unlike Nature, a Survival check doesn’t imply knowledge of the trouble you’re avoiding or tracking.) The most commonly used ability score is Wisdom. A character might use Constitution to weather a storm or Intelligence to follow a route marked on an old map.
-
-**Specialties:** dungeoneering, foraging, hunting, tracking, wayfinding
+The **Survival** skill allows a character to perform the tasks necessary to thrive in the wilderness: hunting, tracking, avoiding natural hazards, and traveling without getting lost.

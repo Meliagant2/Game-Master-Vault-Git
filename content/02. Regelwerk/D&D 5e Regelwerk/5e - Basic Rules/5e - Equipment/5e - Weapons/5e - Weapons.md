@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - Weapons
 created: 2026-08-06T08:53:20.580+02:00
-modified: 2026-09-02T07:55:36.442+02:00
-published: 2026-09-02T07:55:36.442+02:00
+modified: 2026-09-28T11:28:02.130+02:00
+published: 2026-09-28T11:28:02.130+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -18,16 +18,6 @@ image: "[[98. Diverses/Bilder/Regelwerk Bilder/Basic Rules/Basic Rules Equipment
 Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Equipment|🎒Equipment]].
 
 # 🗡️5e - Weapons🗡️
-
-## Armor, Shields, and Weaponry
-
-An assassin’s lucky dagger, a knight’s heraldic shield, a tavern brawler’s favorite pair of brass knuckles — the tools of your character’s trade can come to define them almost as much as their physical abilities. For an adventurer, danger lurks around every corner. The quality, maintenance, and properties of your gear can be the difference between life and death.
-
-Your character class grants proficiency with different types of weapons and armor, but your background determines what materials and styles of gear you’re most comfortable with.
-
-When selecting your character’s gear, think about its origins. Did they purchase their equipment, or were parts of it a gift? Did they scrounge mismatched pieces off a battlefield, or commission a fine piece from their family artisan? What aesthetics and functionality did the original maker of a piece put into it, and why? You can also think about why your character uses a certain piece of gear and what it means to them. Do they see the sword as an extension of their arm, or is it a tool to pick up and discard as needed? The answers to these questions can help give a sense of who your character is on the battlefield, and how they came to be that way.
-
-Your class grants proficiency with certain weapons, representing the weapons you have been trained to use. Different weapons deal different amounts of damage, have different properties, and can be used to attack from different ranges. Melee weapons are held or thrown, while ranged weapons propel ammunition great distances. When making an attack with a weapon, you add either your Strength or Dexterity modifier to the roll, depending on the weapon’s type, as well as your proficiency bonus, if applicable.
 
 The Weapons table in this section shows the game's main weapons. The table lists the cost and weight of each weapon, as well as the following details:
 
@@ -47,9 +37,46 @@ The Weapons table in this section shows the game's main weapons. The table lists
 
 Anyone can wield a weapon, but you must have proficiency with it to add your Proficiency Bonus to an attack roll you make with it. A player character's features can provide weapon proficiencies. A monster is proficient with any weapon in its stat block.
 
-##### List of all Weapons
+#### List of All Weapon Categories
 
 ```base
+filters:
+  and:
+    - '!file.name.contains("(Legacy)")'
+formulas:
+  Category: link(file, title)
+  titleasname: link(file, title)
+properties:
+  formula.titleasname:
+    displayName: Name
+views:
+  - type: table
+    name: 5e - Weapon Categories
+    filters:
+      and:
+        - dateitags.containsAll("#5e", "#Weapons")
+    order:
+      - formula.Category
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      formula.titleasname: 206
+
+```
+
+#### List of all Weapons
+
+```base
+filters:
+  and:
+    - '!file.name.contains("(Legacy)")'
+formulas:
+  Weapon: link(file, title)
+  titleasname: link(file, title)
+properties:
+  formula.titleasname:
+    displayName: Name
 views:
   - type: table
     name: 5e Weapons - All
@@ -59,7 +86,7 @@ views:
         - '!dateitags.contains("#Legacy")'
         - '!file.name.contains("Template")'
     order:
-      - file.name
+      - formula.Weapon
       - type
       - category
       - damage

@@ -2,16 +2,18 @@
 publish: true
 title: 🤺5e - Martial Stance
 created: 2026-08-11T10:16:32.137+02:00
-modified: 2026-08-14T13:25:28.008+02:00
-published: 2026-08-14T13:25:28.008+02:00
+modified: 2026-09-28T11:04:35.848+02:00
+published: 2026-09-28T11:04:35.848+02:00
 tags:
   - "#Combatrules"
   - "#5e"
 dateitags:
-  - "#Combatrules"
+  - "#ManeuverStance"
   - "#5e"
 status: ✅
 ---
+
+Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Maneuvers|5e - Combat Maneuvers]].
 
 # 🤺5e - Martial Stance🤺
 

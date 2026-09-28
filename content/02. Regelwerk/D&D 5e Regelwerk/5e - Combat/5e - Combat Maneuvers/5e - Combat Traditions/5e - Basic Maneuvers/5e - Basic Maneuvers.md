@@ -3,13 +3,12 @@ publish: true
 title: 🤺5e - Basic Maneuvers
 description: Basic Melee Maneuvers
 created: 2026-07-22T10:44:14.031+02:00
-modified: 2026-09-22T11:50:28.759+02:00
-published: 2026-09-22T11:50:28.759+02:00
+modified: 2026-09-28T11:03:18.546+02:00
+published: 2026-09-28T11:03:18.546+02:00
 tags:
   - "#Combatrules"
   - "#5e"
 dateitags:
-  - "#Combatrules"
   - "#Combattradition"
   - "#5e"
 status: ✅

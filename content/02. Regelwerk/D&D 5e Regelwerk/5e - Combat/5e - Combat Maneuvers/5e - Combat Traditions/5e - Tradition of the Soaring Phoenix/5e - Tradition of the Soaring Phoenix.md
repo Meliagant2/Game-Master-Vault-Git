@@ -3,13 +3,12 @@ publish: true
 title: 🤺5e - Soaring Phoenix
 description: Fire
 created: 2026-08-17T11:33:52.341+02:00
-modified: 2026-09-22T11:51:16.057+02:00
-published: 2026-09-22T11:51:16.057+02:00
+modified: 2026-09-28T11:05:13.958+02:00
+published: 2026-09-28T11:05:13.958+02:00
 tags:
   - "#Combatrules"
   - "#5e"
 dateitags:
-  - "#Combatrules"
   - "#Combattradition"
   - "#5e"
 status: ✅

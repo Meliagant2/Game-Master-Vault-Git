@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Adept Speed
 created: 2026-08-10T15:43:37.020+02:00
-modified: 2026-09-16T07:30:06.594+02:00
-published: 2026-09-16T07:30:06.594+02:00
+modified: 2026-09-28T11:36:52.346+02:00
+published: 2026-09-28T11:36:52.346+02:00
 tags:
   - "#Feat"
   - "#5e"

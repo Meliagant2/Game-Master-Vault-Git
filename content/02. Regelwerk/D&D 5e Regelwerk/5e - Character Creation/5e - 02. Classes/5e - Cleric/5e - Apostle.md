@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Apostle
 description: Apostles are devout Clerics who believe themselves to follow a divine purpose in the world. They follow their doctrine with zealous fervour.
 created: 2026-08-26T09:18:14.028+02:00
-modified: 2026-09-17T11:12:39.180+02:00
-published: 2026-09-17T11:12:39.180+02:00
+modified: 2026-09-28T11:36:52.342+02:00
+published: 2026-09-28T11:36:52.342+02:00
 tags:
   - "#Subclass"
   - "#5e"

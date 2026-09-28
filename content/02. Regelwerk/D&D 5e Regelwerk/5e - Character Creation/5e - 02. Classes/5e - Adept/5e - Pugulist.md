@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Pugulist
 description: Pugulists are masters of unarmed combat.
 created: 2026-08-11T10:24:46.731+02:00
-modified: 2026-09-16T10:23:02.967+02:00
-published: 2026-09-16T10:23:02.967+02:00
+modified: 2026-09-28T11:00:00.092+02:00
+published: 2026-09-28T11:00:00.092+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -16,6 +16,8 @@ class:
   - "[[5e - Adept]]"
 source: Renamed from "Warrior of the Hand"
 ---
+
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Adept/5e - Adept|5e - Adept]].
 
 # 🦸‍♀️5e - Pugulist🦸‍♀️
 

@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - Firearms
 created: 2026-08-18T09:45:01.848+02:00
-modified: 2026-09-02T08:06:21.388+02:00
-published: 2026-09-02T08:06:21.388+02:00
+modified: 2026-09-28T11:29:02.254+02:00
+published: 2026-09-28T11:29:02.254+02:00
 tags:
   - "#Weapon"
   - "#5e"
@@ -20,6 +20,15 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 This chapter lists all weapons with the "Firearm" category.
 
 ```base
+filters:
+  and:
+    - '!file.name.contains("(Legacy)")'
+formulas:
+  Weapon: link(file, title)
+  titleasname: link(file, title)
+properties:
+  formula.titleasname:
+    displayName: Name
 views:
   - type: table
     name: 5e Weapons - Firearms
@@ -30,7 +39,7 @@ views:
         - '!file.name.contains("Template")'
         - category.contains("Firearm")
     order:
-      - file.name
+      - formula.Weapon
       - type
       - damage
       - damagetype

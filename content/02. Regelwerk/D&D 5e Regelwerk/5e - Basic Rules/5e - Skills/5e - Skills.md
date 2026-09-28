@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 💃5e - Skills💃
+title: 💃5e - Skills
 created: 2026-07-20T12:11:02.903+02:00
-modified: 2026-09-23T09:21:28.230+02:00
-published: 2026-09-23T09:21:28.230+02:00
+modified: 2026-09-28T11:24:19.311+02:00
+published: 2026-09-28T11:24:19.311+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -14,6 +14,8 @@ dateitags:
 image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Skills.png]]"
 status: ✅
 ---
+
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Basic Rules|5e - Basic Rules]].
 
 # 💃5e - Skills💃
 

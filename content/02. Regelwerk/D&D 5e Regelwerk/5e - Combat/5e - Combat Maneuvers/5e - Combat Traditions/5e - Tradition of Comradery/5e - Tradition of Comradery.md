@@ -3,13 +3,12 @@ publish: true
 title: 🤺5e - Comradery
 description: Teamwork, Supportive, Social
 created: 2026-08-12T07:58:51.533+02:00
-modified: 2026-09-22T11:50:37.425+02:00
-published: 2026-09-22T11:50:37.425+02:00
+modified: 2026-09-28T11:05:01.206+02:00
+published: 2026-09-28T11:05:01.206+02:00
 tags:
   - "#Combatrules"
   - "#5e"
 dateitags:
-  - "#Combatrules"
   - "#Combattradition"
   - "#5e"
 classes:

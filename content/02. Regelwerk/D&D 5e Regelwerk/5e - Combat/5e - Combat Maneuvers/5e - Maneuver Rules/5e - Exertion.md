@@ -2,16 +2,18 @@
 publish: true
 title: 🤺5e - Exertion
 created: 2026-07-21T10:38:53.848+02:00
-modified: 2026-08-14T13:33:06.684+02:00
-published: 2026-08-14T13:33:06.684+02:00
+modified: 2026-09-28T11:04:03.843+02:00
+published: 2026-09-28T11:04:03.843+02:00
 tags:
   - "#Combatrules"
   - "#5e"
 dateitags:
-  - "#Combatrules"
+  - "#ManeuverRules"
   - "#5e"
 status: ✅
 ---
+
+Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Maneuvers|5e - Combat Maneuvers]].
 
 # 🤺5e - Exertion🤺
 

@@ -3,13 +3,12 @@ publish: true
 title: 🤺5e - Cunning
 description: Diversion, Feinting, Mental, Stealth
 created: 2026-08-12T07:59:03.991+02:00
-modified: 2026-09-22T11:50:39.776+02:00
-published: 2026-09-22T11:50:39.776+02:00
+modified: 2026-09-28T11:05:03.118+02:00
+published: 2026-09-28T11:05:03.118+02:00
 tags:
   - "#Combatrules"
   - "#5e"
 dateitags:
-  - "#Combatrules"
   - "#Combattradition"
   - "#5e"
 classes:

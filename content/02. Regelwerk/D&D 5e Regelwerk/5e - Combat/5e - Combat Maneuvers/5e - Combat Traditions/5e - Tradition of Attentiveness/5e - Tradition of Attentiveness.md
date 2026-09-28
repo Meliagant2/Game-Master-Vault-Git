@@ -3,13 +3,12 @@ publish: true
 title: 🤺5e - Attentiveness
 description: Insightful, Reactive, Perceptive
 created: 2026-08-12T07:53:25.700+02:00
-modified: 2026-09-22T11:50:33.959+02:00
-published: 2026-09-22T11:50:33.959+02:00
+modified: 2026-09-28T11:04:54.434+02:00
+published: 2026-09-28T11:04:54.434+02:00
 tags:
   - "#Combatrules"
   - "#5e"
 dateitags:
-  - "#Combatrules"
   - "#Combattradition"
   - "#5e"
 classes:

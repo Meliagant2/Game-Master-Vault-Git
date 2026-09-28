@@ -2,8 +2,8 @@
 publish: true
 title: 🗣️5e - Languages
 created: 2026-07-21T10:45:53.970+02:00
-modified: 2026-09-28T09:19:19.941+02:00
-published: 2026-09-28T09:19:19.941+02:00
+modified: 2026-09-28T11:24:11.572+02:00
+published: 2026-09-28T11:24:11.572+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -15,7 +15,7 @@ image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Languages.png]]"
 status: ✅
 ---
 
-Go back to [[02. Regelwerk/D&D 5e Regelwerk/D&D 5e Regelwerk|D&D 5e Regelwerk]].
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Basic Rules|5e - Basic Rules]].
 
 # 🗣️5e - Languages🗣️
 

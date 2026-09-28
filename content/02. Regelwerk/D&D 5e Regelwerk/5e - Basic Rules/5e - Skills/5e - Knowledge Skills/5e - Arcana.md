@@ -1,24 +1,22 @@
 ---
 publish: true
-title: 💃5e - Arcana💃
+title: 💃5e - Arcana
 created: 2026-07-20T12:11:02.919+02:00
-modified: 2026-07-21T10:50:05.315+02:00
-published: 2026-07-21T10:50:05.315+02:00
+modified: 2026-09-28T10:41:09.092+02:00
+published: 2026-09-28T10:41:09.092+02:00
 tags:
   - "#Skill"
   - "#5e"
-socialImage: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
 dateitags:
   - "#Skill"
   - "#5e"
-image: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
 status: ✅
 primeability: INT
-kurzbeschreibung: Measures knowledge of magic.
+kurzbeschreibung: Recall lore about spells, magic items, and the planes of existence.
 ---
+
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - Skills|5e - Skills]].
 
 # 💃5e - Arcana💃
 
-Arcana measures a character’s knowledge of magic and magical creatures. It can also be used to sense whether an area has magical qualities. The most commonly used ability score is Intelligence. A character might use Dexterity to trace a complicated magical rune, or Wisdom to read very carefully and protect their sanity while interpreting forbidden eldritch secrets.
-
-**Specialties:** aberrations, constructs, detection, dragons, elementals, fey, forbidden knowledge, monstrosities, oozes, the planes.
+**Arcana** measures a character’s knowledge of magic and magical creatures like Constructs, Monstrosities and Oozes.

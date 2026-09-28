@@ -2,8 +2,8 @@
 publish: true
 title: 🗡️5e - Swords
 created: 2026-08-06T10:25:13.922+02:00
-modified: 2026-08-31T16:29:03.345+02:00
-published: 2026-08-31T16:29:03.345+02:00
+modified: 2026-09-28T11:29:33.722+02:00
+published: 2026-09-28T11:29:33.722+02:00
 tags:
   - "#Weapon"
   - "#5e"
@@ -20,6 +20,15 @@ Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e -
 This chapter lists all weapons with the "Sword" category.
 
 ```base
+filters:
+  and:
+    - '!file.name.contains("(Legacy)")'
+formulas:
+  Weapon: link(file, title)
+  titleasname: link(file, title)
+properties:
+  formula.titleasname:
+    displayName: Name
 views:
   - type: table
     name: 5e Weapons - Swords
@@ -30,7 +39,7 @@ views:
         - '!file.name.contains("Template")'
         - category.contains("Sword")
     order:
-      - file.name
+      - formula.Weapon
       - type
       - damage
       - damagetype

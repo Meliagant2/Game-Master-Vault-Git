@@ -1,24 +1,22 @@
 ---
 publish: true
-title: 💃5e - Medicine💃
+title: 💃5e - Medicine
 created: 2026-07-20T12:11:02.934+02:00
-modified: 2026-08-20T08:37:30.372+02:00
-published: 2026-08-20T08:37:30.372+02:00
+modified: 2026-09-28T10:40:11.377+02:00
+published: 2026-09-28T10:40:11.377+02:00
 tags:
   - "#Skill"
   - "#5e"
-socialImage: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
 dateitags:
   - "#Skill"
   - "#5e"
-image: "[[98. Diverses/Bilder/Misc/PlaceholderImage.png]]"
 status: ✅
 primeability: INT
-kurzbeschreibung: Stabilize a dying Creature, identify a disease or poison.
+kurzbeschreibung: Diagnose an illness, or determine what killed the recently slain.
 ---
+
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - Skills|5e - Skills]].
 
 # 💃5e - Medicine💃
 
-A character can perform a Medicine check to stabilize a dying creature, treat or diagnose a disease or poison, or determine a cause of death. The most commonly used ability score is Wisdom. A character might use Intelligence to diagnose a rare poison or Constitution to nurse someone through a lengthy and dangerous illness.
-
-**Specialties:** animals, autopsy, diseases, herbalism, poisons.
+A character can perform a **Medicine** check to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Stable|☠️Stabilize]] a dying creature, treat or diagnose a disease or poison, or determine a cause of death.

@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Shield Wall
 created: 2026-08-13T09:23:00.551+02:00
-modified: 2026-09-22T12:05:57.242+02:00
-published: 2026-09-22T12:05:57.242+02:00
+modified: 2026-09-28T11:36:52.360+02:00
+published: 2026-09-28T11:36:52.360+02:00
 tags:
   - "#Maneuver"
   - "#5e"

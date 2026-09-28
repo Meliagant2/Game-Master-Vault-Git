@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Adept
 description: A living weapon that hones their control over body and mind, and channels their unwavering focus to achieve amazing feats
 created: 2026-07-31T11:14:22.631+02:00
-modified: 2026-09-23T10:15:22.157+02:00
-published: 2026-09-23T10:15:22.157+02:00
+modified: 2026-09-28T11:36:52.335+02:00
+published: 2026-09-28T11:36:52.335+02:00
 tags:
   - "#Classes"
   - "#5e"

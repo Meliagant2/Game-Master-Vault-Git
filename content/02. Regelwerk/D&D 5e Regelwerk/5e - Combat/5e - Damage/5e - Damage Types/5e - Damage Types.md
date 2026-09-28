@@ -2,13 +2,13 @@
 publish: true
 title: 💔5e - Damage Types
 created: 2026-08-26T08:15:09.488+02:00
-modified: 2026-08-31T13:13:35.123+02:00
-published: 2026-08-31T13:13:35.123+02:00
+modified: 2026-09-28T11:03:37.115+02:00
+published: 2026-09-28T11:03:37.115+02:00
 tags:
   - "#Combatrules"
   - "#5e"
 dateitags:
-  - "#Combatrules"
+  - "#DamageTypes"
   - "#5e"
 status: ✅
 ---

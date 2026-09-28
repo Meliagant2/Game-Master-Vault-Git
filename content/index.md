@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-09-28T08:02:19.886+02:00
-published: 2026-09-28T08:02:19.886+02:00
+modified: 2026-09-28T12:25:37.859+02:00
+published: 2026-09-28T12:25:37.859+02:00
 tags:
   - "#Home"
 ---
@@ -42,3 +42,27 @@ views:
     imageFit: contain
 
 ```
+
+![[98. Diverses/Bilder/Item Bilder/Rüstungen/Item Armor Plate.png]]
+
+![[98. Diverses/Bilder/Item Bilder/Rüstungen/Item Armor Padded.png]]
+
+![[98. Diverses/Bilder/Item Bilder/Rüstungen/Item Armor Leather.png]]
+
+![[98. Diverses/Bilder/Item Bilder/Rüstungen/Item Armor Studded Leather.png]]
+
+![[98. Diverses/Bilder/Item Bilder/Rüstungen/Item Armor Hide.png]]
+
+![[98. Diverses/Bilder/Item Bilder/Rüstungen/Item Armor Chain Shirt.png]]
+
+![[98. Diverses/Bilder/Item Bilder/Rüstungen/Item Armor Scale.png]]
+
+![[98. Diverses/Bilder/Item Bilder/Rüstungen/Item Armor Breastplate.png]]
+
+![[98. Diverses/Bilder/Item Bilder/Rüstungen/Item Armor Half Plate.png]]
+
+![[98. Diverses/Bilder/Item Bilder/Rüstungen/Item Armor Ring Mail.png]]
+
+![[98. Diverses/Bilder/Item Bilder/Rüstungen/Item Armor Chain Mail.png]]
+
+![[98. Diverses/Bilder/Item Bilder/Rüstungen/Item Armor Brigandine.png]]

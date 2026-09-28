@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Archfey Patron
 description: Your pact draws on the power of the realm of the Fey. When you choose this subclass, you might make a deal with an archfey.
 created: 2026-09-18T13:44:04.407+02:00
-modified: 2026-09-25T08:39:00.535+02:00
-published: 2026-09-25T08:39:00.535+02:00
+modified: 2026-09-28T10:58:28.957+02:00
+published: 2026-09-28T10:58:28.957+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -16,6 +16,8 @@ class:
   - "[[5e - Warlock]]"
 source: Player's Handbook 2024; Xanathar's Guide to Everything; Self
 ---
+
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Warlock/5e - Warlock|5e - Warlock]].
 
 # 🦸‍♀️5e - Archfey Patron🦸‍♀️
 

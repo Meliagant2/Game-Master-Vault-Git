@@ -3,13 +3,12 @@ publish: true
 title: 🤺5e - Prowess
 description: Tactical, Skilled, Confidence, Conviction, Resist Magic
 created: 2026-08-12T07:59:22.819+02:00
-modified: 2026-09-22T11:50:42.985+02:00
-published: 2026-09-22T11:50:42.985+02:00
+modified: 2026-09-28T11:05:06.832+02:00
+published: 2026-09-28T11:05:06.832+02:00
 tags:
   - "#Combatrules"
   - "#5e"
 dateitags:
-  - "#Combatrules"
   - "#Combattradition"
   - "#5e"
 classes:

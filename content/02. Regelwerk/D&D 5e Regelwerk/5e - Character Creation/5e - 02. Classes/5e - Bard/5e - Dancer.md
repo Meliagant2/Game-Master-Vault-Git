@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Dancer
 description: Dancers practice a way of being in harmony with the ever-whirling cosmos, emphasizing agility, speed, and grace.
 created: 2026-08-07T13:42:55.828+02:00
-modified: 2026-09-22T11:29:29.479+02:00
-published: 2026-09-22T11:29:29.479+02:00
+modified: 2026-09-28T11:36:52.340+02:00
+published: 2026-09-28T11:36:52.340+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -16,6 +16,8 @@ class:
   - "[[5e - Bard]]"
 source: Player's Handbook 2024; College of Dance Bard
 ---
+
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Bard/5e - Bard|5e - Bard]].
 
 # 🦸‍♀️5e - Dancer🦸‍♀️
 

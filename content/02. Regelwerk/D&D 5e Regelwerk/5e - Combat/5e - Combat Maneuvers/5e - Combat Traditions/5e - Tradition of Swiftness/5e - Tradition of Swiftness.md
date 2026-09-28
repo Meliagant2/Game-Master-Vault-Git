@@ -3,13 +3,12 @@ publish: true
 title: 🤺5e - Swiftness
 description: Mobility, Speed, Fast Strikes, Ranged
 created: 2026-08-12T07:59:31.100+02:00
-modified: 2026-09-22T11:50:45.067+02:00
-published: 2026-09-22T11:50:45.067+02:00
+modified: 2026-09-28T11:05:09.888+02:00
+published: 2026-09-28T11:05:09.888+02:00
 tags:
   - "#Combatrules"
   - "#5e"
 dateitags:
-  - "#Combatrules"
   - "#Combattradition"
   - "#5e"
 classes:

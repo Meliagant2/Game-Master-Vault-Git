@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-29T08:29:54.765+02:00
-modified: 2026-09-23T08:57:34.825+02:00
-published: 2026-09-23T08:57:34.825+02:00
+modified: 2026-09-28T11:10:59.774+02:00
+published: 2026-09-28T11:10:59.774+02:00
 tags:
   - "#Changelog"
   - "#5e"
@@ -10,7 +10,9 @@ tags:
 status: ✅
 ---
 
-# 5e - Changelog
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/D&D 5e Regelwerk|D&D 5e Regelwerk]].
+
+#
 
 ### Alle 5e Changelogs
 

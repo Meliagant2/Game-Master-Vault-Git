@@ -2,8 +2,8 @@
 publish: true
 title: 🥇5e - Lightly Armored
 created: 2026-08-06T11:59:40.043+02:00
-modified: 2026-09-01T14:59:37.073+02:00
-published: 2026-09-01T14:59:37.073+02:00
+modified: 2026-09-28T11:36:52.355+02:00
+published: 2026-09-28T11:36:52.355+02:00
 tags:
   - "#Feat"
   - "#5e"
