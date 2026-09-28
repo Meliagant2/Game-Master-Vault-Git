@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Bestow Curse
 created: 2026-07-28T10:38:24.188+02:00
-modified: 2026-09-14T13:37:17.521+02:00
-published: 2026-09-14T13:37:17.521+02:00
+modified: 2026-09-28T09:46:17.304+02:00
+published: 2026-09-28T09:46:17.304+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -26,6 +26,7 @@ effect:
 zauberliste:
   - Arcane
   - Divine
+  - Occult
 ---
 
 Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Enchantment/5e - School of Enchantment|5e - School of Enchantment]].
@@ -43,7 +44,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Duration:**|PT1M |
 > |**Concentration:**|x |
 > |**Attack/Save:**|WIS|
-> |**Spell List:**|Arcane,Divine |
+> |**Spell List:**|Arcane,Divine,Occult |
 > |**Effect:**|Curse |
 
 You touch a creature, which makes a **WIS Save**. _**Failure:**_ The target is _cursed_ for the duration. Until the curse ends, the target suffers one of the following effects of your choice:

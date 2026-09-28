@@ -2,8 +2,8 @@
 publish: true
 title: 🗣️5e - Languages
 created: 2026-07-21T10:45:53.970+02:00
-modified: 2026-09-25T10:17:56.808+02:00
-published: 2026-09-25T10:17:56.808+02:00
+modified: 2026-09-28T09:19:19.941+02:00
+published: 2026-09-28T09:19:19.941+02:00
 tags:
   - "#Grundregeln"
   - "#5e"
@@ -12,27 +12,10 @@ dateitags:
   - "#Grundregeln"
   - "#5e"
 image: "[[98. Diverses/Bilder/Regelwerk Bilder/Regelwerk Languages.png]]"
-status: ⏳
+status: ✅
 ---
 
-> [!metadata]- Metadata
->
-> > [!metadataoption]- Status
-> >
-> > #### Status
-> >
-> > | | |
-> > |---|---|
-> > |**Status** | `INPUT[Status][:status]` |
-> > |**Publish**|`INPUT[inlineSelect(option(true), option(false)):publish]`|
->
-> > [!metadataoption]- Bild
-> >
-> > #### Bild
-> >
-> > | | |
-> > |---|---|
-> > |**Bild 1**|`INPUT[imageSuggester(optionQuery("")):image]`|
+Go back to [[02. Regelwerk/D&D 5e Regelwerk/D&D 5e Regelwerk|D&D 5e Regelwerk]].
 
 # 🗣️5e - Languages🗣️
 
@@ -40,13 +23,16 @@ Languages represent how different creatures across the world speak and interact 
 
 ### Language Mastery
 
-Language Mastery represents your fluency with a Language. There are `3` Language Mastery Levels: Speak, Read, Sign. Whenever you gain a Mastery Level in a language, you gain the next Stage of fluency in that language.
+Language Mastery represents your fluency with a Language. There are `3` Language Mastery Levels: Speak, Read, Sign. Whenever you gain a Mastery Level in a language, you gain one Stage of fluency in that language. If you have no level of Mastery, you may choose between _Speak_ and _Read_, but you need to be able to do both, before you can learn how to _Sign_ a language.
 
-| Fluency Stage | Mastery Level | Language Fluency                                                                                                                                                                                                       |
-| :------------ | :------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1             | Speak         | You are able to communicate verbally with others in this language. You might be able to decipher script of this language with a _successful_ **DC20 CHA Check** for every page of script you are trying to understand. |
-| 2             | Read          | You can read, write and understand the script and words of this language and are able to understand the written text.                                                                                                         |
-| 3             | Sign          | You are able to communicate using silent gestures with others in this language, who are also able to sign this language.                                                                                               |
+> [!info] Writing
+> Once you have Language Mastery in both _Speak_ and _Read_ for a language, you are able to _Write_ in that language.
+
+| Fluency Stage | Mastery Level | Language Fluency                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| :------------ | :------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1             | Speak         | You are able to communicate verbally with others in this language. If don't have Reading Mastery in this language, you might be able to decipher script of this language with a _successful_ **DCHA Check** for every page of script you are trying to understand. The **DC** for this Check is determined by the language category. _Mortal language_: **DC20**. _Exotic language_: **DC25**. _Rare langauge:_ **DC30**.                                                    |
+| 1             | Read          | You can read and understand the script and words of this language and are able to understand the written text. If don't have Speaking Mastery in this language, you might be able to understand spoken word of this language with a _successful_ **CHA Check** for every <u>1 minute</u> you listen a creature speak. The **DC** for this Check is determined by the language category. _Mortal language_: **DC20**. _Exotic language_: **DC25**. _Rare langauge:_ **DC30**. |
+| 3             | Sign          | You are able to communicate using silent gestures with others in this language, who are also able to sign this language.                                                                                                                                                                                                                                                                                                                                                     |
 
 #### Gaining Language Mastery
 
@@ -58,7 +44,7 @@ Whenever you gain a feature that grants you Language Mastery Levels, you can spe
 
 Languages, like in the real world, are part of a **Language Family**. Every language derives from an ancient, long dead language, which is that languages **Language Family**. A character that has any Language Mastery Level in that **Language Familie's** root language, reduces the mastery levels needed to learn a language of that family by <u>one</u> (to a minimum of `1`), if they try to gain the same language mastery level.
 
-For example, a character who has `2` Mastery Levels in [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Rare Languages/5e - Primordial|🗣️Primordial]] is able to _Speak, Read and Write_ in that language. If that character would try to learn [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Exotic Languages/5e - Aquan|🗣️Aquan]], an _Exotic_ language, they only require `1` mastery level each to learn how to _Speak_ and _Read_ [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Exotic Languages/5e - Aquan|🗣️Aquan]]. If they were to learn _Signing_ for that language, they require `2` mastery levels, since they do not know how to _Sign_ in [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Rare Languages/5e - Primordial|🗣️Primordial]].
+For example, a character who has `2` Mastery Levels in [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Rare Languages/5e - Primordial|🗣️Primordial]] is able to _Speak, Read and Write_ in that language. If that character would try to learn [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Exotic Languages/5e - Exotic Languages To Do/5e - Aquan|🗣️Aquan]], an _Exotic_ language, they only require `1` mastery level each to learn how to _Speak_ and _Read_ [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Exotic Languages/5e - Exotic Languages To Do/5e - Aquan|🗣️Aquan]]. If they were to learn _Signing_ for that language, they require `2` mastery levels, since they do not know how to _Sign_ in [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Rare Languages/5e - Primordial|🗣️Primordial]].
 
 ### Mortal Languages
 
@@ -92,10 +78,8 @@ views:
       - property: file.name
         direction: ASC
     columnSize:
-      file.name: 243
-      note.level: 30
-      note.prerequisite: 144
-      note.repeatable: 34
+      formula.Language: 204
+      note.origin: 498
 
 ```
 
@@ -133,10 +117,7 @@ views:
       - property: file.name
         direction: ASC
     columnSize:
-      file.name: 243
-      note.level: 30
-      note.prerequisite: 144
-      note.repeatable: 34
+      note.origin: 583
 
 ```
 
@@ -174,10 +155,8 @@ views:
       - property: file.name
         direction: ASC
     columnSize:
-      file.name: 243
-      note.level: 30
-      note.prerequisite: 144
-      note.repeatable: 34
+      formula.Language: 185
+      note.origin: 524
 
 ```
 

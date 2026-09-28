@@ -2,20 +2,23 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-09-25T09:17:49.576+02:00
-published: 2026-09-25T09:17:49.576+02:00
+modified: 2026-09-28T08:02:19.886+02:00
+published: 2026-09-28T08:02:19.886+02:00
 tags:
   - "#Home"
 ---
 
 # Home
 
-> [!warnung] WICHTIG
-> **Im Augenblick funktioniert auf dieser Website nur der <u>Light mode</u> korrekt, da ich den dark mode noch nicht fertig designed habe. Daher bitte oben links, neben der Suchleiste bitte darauf wechseln, falls der Dark mode aktiviert ist. (Erkennbar am Mond. Light Mode = Sonnensymbol). Der Dark mode sollte größtenteils ok sein, nur in bestimmten Infoboxen könnte es da zu Problemen kommen.**
-
 ### Nutzung der Website
 
-**Einleitende Worte. Erklärung der Vault und der Website Funktionen**
+Hier eine kurze Erklärung, wie die Website funktioniert/ wie sie am besten zu navigieren ist.
+
+#### Dark- & Light- Mode
+
+Dark & Light mode sind nicht von eueren Browser oder Geräteeinstellungen abhängig. Stattdessen können die Modi über den Mond/ die Sonne neben der Suchleiste links oben umgeschaltet werden.
+
+![[98. Diverses/Bilder/Website Erklärung/Website Erklärung Dark Mode.png]] ![[98. Diverses/Bilder/Website Erklärung/Website Erklärung Light Mode.png]]
 
 ### Quellen & Inspirationen
 
@@ -39,5 +42,3 @@ views:
     imageFit: contain
 
 ```
-
-![[98. Diverses/Bilder/Item Bilder/Tools/Item Tool Alchemists Supplies.png]]

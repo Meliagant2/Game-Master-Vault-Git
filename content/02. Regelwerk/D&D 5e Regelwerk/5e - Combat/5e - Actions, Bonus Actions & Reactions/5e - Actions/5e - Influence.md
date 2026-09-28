@@ -2,8 +2,8 @@
 publish: true
 title: ⚔️5e - Influence
 created: 2026-07-30T15:52:54.850+02:00
-modified: 2026-08-21T10:40:52.133+02:00
-published: 2026-08-21T10:40:52.133+02:00
+modified: 2026-09-28T09:22:16.013+02:00
+published: 2026-09-28T09:22:16.013+02:00
 tags:
   - "#Action"
   - "#5e"

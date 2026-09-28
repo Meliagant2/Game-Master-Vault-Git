@@ -2,8 +2,8 @@
 publish: true
 title: Changelog Ailas 1
 created: 2026-09-22T13:41:42.061+02:00
-modified: 2026-09-25T08:13:08.525+02:00
-published: 2026-09-25T08:13:08.525+02:00
+modified: 2026-09-28T10:01:51.153+02:00
+published: 2026-09-28T10:01:51.153+02:00
 tags:
   - "#Changelog"
   - "#5e"
@@ -198,7 +198,7 @@ _**<u>Number of Uses:</u>**_ You can use this feature a number of times as shown
 ### Level 2 Spells
 
 [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Divination/5e - Level 2 Divination/5e - Detect Thoughts (Spell)|Detect Thoughts]]: Clarified and polished the text. Should work mostly the same.
-[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Necromancy/5e - Level 2 Necromancy/5e - Wither and Bloom (Spell)|Wither and Bloom]]: Increased the damage from `2d6` to `3d6`. Increased upcast damage per spell slot from `1d6` to `2d6`.
+[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Necromancy/5e - Level 2 Necromancy/5e - Wither and Bloom (Spell)|Wither and Bloom]]: Increased the damage from `2d6` to `3d6`. Increased upcast damage per spell slot from `1d6` to `2d6`. **<u>NO LONGER ON YOUR SPELL LIST!!!!!!!!</u>**
 [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Enchantment/5e - Level 2 Enchantment/5e - Calm Emotions (Spell)|Calm Emotions]]: Clarified and polished the text. Should work mostly the same.
 [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Illusion/5e - Level 2 Illusion/5e - Phantasmal Force (Spell)|Phantasmal Force]]: Clarified and polished the text. Damage increased from `2d6` to `2d8`
 
@@ -215,3 +215,28 @@ _**<u>Number of Uses:</u>**_ You can use this feature a number of times as shown
 [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Conjuration/5e - Level 4 Conjuration/5e - Dimension Door (Spell)|Dimension Door]]: Added an upcast option to teleport more creatures.
 [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Enchantment/5e - Level 4 Enchantment/5e - Dominate Beast (Spell)|Dominate Beast]]: Clarified and polished the text. Should work mostly the same.
 [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Illusion/5e - Level 4 Illusion/5e - Greater Invisibility (Spell)|Greater Invisibility]]: Clarified and polished the text. Should work mostly the same.
+
+## tl;dr To Do List Ailas
+
+(I just went down your Character sheet on Homebrewery to create this list)
+
+1. Choose your Save Proficiencies: <u>Choose one proficiency of each A and B:</u> **(A)** Dexterity OR Wisdom; **(B)** Intelligence OR Charisma. (Class).
+2. You have <u>three</u> **mastery levels** in [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Mortal Languages/5e - Common|🗣️Common]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Mortal Languages/5e - Elvish (Wood)|🗣️Elvish (Wood)]] and [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Rare Languages/5e - Fay|🗣️Fay]] each. (Culture, Fay replaces Sylvan).
+3. Remove all Skill Specialties.
+4. **<u>Resident Expert:</u>** Changed the feature from "minimum 10" to "minimum 8". This applies to your Arcana. (Heritage).
+5. Check all your Spells for changes. Especially Eldritch Blast, since that is a cantrip now. At level 7 you have 5 instead of 3 cantrips now -> choose 2. (listed right above the Tl;dr).
+6. Your Spell list is now the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Spell Sources/5e - Occult Spell Source/5e - Occult Spell Source|5e - Occult Spell Source]]. Double check, if your spells are on that list. (Class)
+7. **<u>Intrepid:</u>** Renamed to **Resourceful**. Now grants **ADV** instead of a `1d4` Expertise die. (Just as we already ruled it, but now it is written as that). (Human).
+8. **<u>Resident Expert:</u>** Changed the feature from "minimum 10" to "minimum 8". This applies to your Arcana. (Heritage).
+9. **<u>Favored Foe:</u>** Changed. Go up to Level 4: Warlock and read up on the new **Hunter's Mark** feature. (Level 4 General Feat).
+10. **<u>Taunting Step:</u>** Clarified the feature to mention the **Taunted** condition. (Subclass)
+11. You gain access to one [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats|Origin Feat]]. Normally Backgrounds provide a choice, but you have a custom origin, which means you can just choose one. I think the [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats Touched/5e - Fey Touched|Fey Touched]] feat would fit for your character.
+12. **<u>Skill Proficiencies:</u>** Now only _Deception_, no other choice. (Currently _Insight_ -> Change to _Deception_). (Culture)
+13. **<u>Eladrin Weapon Training:</u>** Now grants proficiency with all [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Swords/5e - Swords|🗡️Swords]].
+14. **<u>Creature Type:</u>** You are considered a Fey. I can't find that on your character sheet, so please add this.
+15. Two [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spellcasting Focus|🎩Spellcasting Focus]] categories of choice: _Card Decks, Censers, Crystals, Grimoires, Holy Symbols, Instruments, Orbs, Poppets, Ritual Bells, Rods, Staffs, Totems, Wands_. (Class)
+16. **<u>Skill Proficiencies:</u>** <u>Choose 2:</u> Arcana, Culture, Deception, History, Intimidation, Investigation, Nature, Occultism, Religion. (Class; Might replace your choices of Arcana and Nature if you want).
+17. Add **Beseech Patron** to your sheet (Level 1 Warlock)
+18. [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats|🥇Class Feat]]: The Invocations/ Secrets of Arcana you chose were [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats; Warlock/5e - Armor of Shadows|Armor of Shadows]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats; Warlock/5e - Eldritch Mind|Eldritch Mind]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats; Warlock/5e - Gift of the Depths|Gift of the Depths]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats; Warlock/5e - Repelling Blast|Repelling Blast]] and **Eldritch Squall**. Up to including level 7, you gain access to all the linked features. **Eldritch Squall** is currently removed, since I removed the **Eldritch Blast** class feature. You may change any of these feats as you like. Just note, that you can't gain access to [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats; Warlock/5e - Gift of the Depths|Gift of the Depths]] before Warlock level 5.
+19. Choose [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Skill Feats|🥇Skill Feats]] of level _2, 4, 6_.
+20. The [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Warlock/5e - Undead Patron|Undead Patron]] Warlock Subclass has changes, as listed above at Warlock level 6 above.

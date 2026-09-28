@@ -2,8 +2,8 @@
 publish: true
 title: ⛏️5e - Haunted
 created: 2026-07-21T13:44:14.806+02:00
-modified: 2026-09-17T12:12:39.104+02:00
-published: 2026-09-17T12:12:39.104+02:00
+modified: 2026-09-28T08:17:43.082+02:00
+published: 2026-09-28T08:17:43.082+02:00
 tags:
   - "#Background"
   - "#5e"
@@ -36,7 +36,7 @@ Spirits exist. It’s a simple fact of reality that most people forget until the
 
 **<u>Tool Proficiencies</u>:** You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Proficiency|🎲Proficiency]] with one [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Gaming Sets/5e - Gaming Sets|🛠️Gaming Set]] of your choice, or one level of [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Expertise|🎲Expertise]], if you are already _proficient_.
 
-**<u>Languages:</u>** You either gain <u>one</u> **mastery level** in <u>two</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Languages]] of your choice, or <u>two</u> **mastery levels** in <u>one</u> [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Language]] of your choice.
+**<u>Languages:</u>** You gain <u>two</u> **Language Mastery Levels** to put into [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Languages]] of your choice.
 
 **<u>Equipment:</u>** A [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Gaming Sets/5e - Gaming Sets|🛠️Gaming Set]] (the one you chose as your proficiency above), [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Adventuring Gear/5e - Crowbar|🪓Crowbar]], 1 flask [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Oils/5e - Holy Water|🏺Holy Water]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Adventuring Gear/5e - Mirror|🪓Mirror]], 2 flasks [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Oils/5e - Lamp Oil|🏺Lamp Oil]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Adventuring Gear/5e - Signal Whistle|🪓Signal Whistle]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Illuminants/5e - Tinderbox|💡Tinderbox]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Clothing/5e - Travelling Clothes|👔Travelling Clothes]], 5 [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Illuminants/5e - Torch|💡 Torches]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Adventuring Gear/5e - Waterskin|🪓Waterskin]], `1d4` Silver Pieces.
 

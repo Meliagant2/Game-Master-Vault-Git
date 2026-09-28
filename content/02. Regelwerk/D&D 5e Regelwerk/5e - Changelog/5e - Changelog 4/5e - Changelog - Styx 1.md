@@ -2,8 +2,8 @@
 publish: true
 title: Changelog Styx 1
 created: 2026-08-21T09:34:59.617+02:00
-modified: 2026-09-24T20:00:30.473+02:00
-published: 2026-09-24T20:00:30.473+02:00
+modified: 2026-09-28T09:34:42.439+02:00
+published: 2026-09-28T09:34:42.439+02:00
 tags:
   - "#Changelog"
   - "#5e"
@@ -87,7 +87,7 @@ There is a new designed Character sheet to hold all the new information. You can
 
 **<u>Improvised Tools:</u>** Removed.
 **<u>Roll with the Punches:</u>** Removed.
-**<u>Languages:</u>** Doesnt grant you full fluency in two [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|Languages]], but one mastery level each.
+**<u>Languages:</u>** Doesnt grant you full fluency in two [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|Languages]], but a total of <u>four</u> **Language Mastery Levels** to put into [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Languages]] of your choice.
 **<u>Skill Proficiency:</u>** Now grants proficiency with the new [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - CON Skills/5e - Endurance|Endurance]] skill.
 **<u>Tool Proficiencies:</u>** Now grants proficiency with the Herbalism Kit.
 
@@ -96,7 +96,7 @@ There is a new designed Character sheet to hold all the new information. You can
 **Feat:** Now grants an Origin Feat of Choice: [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats Generic/5e - Alert|🥇Alert]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats Generic/5e - Magic Initiate|🥇Magic Initiate]] (Occult), [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats Generic/5e - Survivor|🥇Survivor]], or a **special** [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats|🥇Origin Feat]] (**Dark Gift** feats recommended in this case).
 **<u>Skill Proficiencies:</u>** Now grants proficiency in the new [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - Knowledge Skills/5e - Occultism|Occultism]] skill and Religion, instead of Religion and another skill of choice.
 **<u>Tool Proficiencies:</u>** Now grants proficiency with a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Gaming Sets/5e - Gaming Sets|🛠️Gaming Set]] of choice: Chess, Dice, Playing Cards.
-**<u>Languages:</u>** Since I reworked Languages, you don't get full fluency in 2 languages, but 1 mastery level each instead.
+**<u>Languages:</u>** Doesnt grant you full fluency in two [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|Languages]], but a total of <u>two</u> **Language Mastery Levels** to put into [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Languages]] of your choice.
 
 ### Level 1: [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Cleric/5e - Cleric|Cleric]]
 
@@ -222,7 +222,7 @@ Currently you know `6` cantrips, but you should only have `5`. Depending on your
 
 ## tl;dr To Do List Styx
 
-1. A total of `4` [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Language]] masteries. (Culture, Background)
+1. A total of `6` [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|🗣️Language]] mastery levels. (Culture, Background)
 2. One [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats|🥇Origin Feat]] of choice: [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats Generic/5e - Alert|🥇Alert]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats Generic/5e - Magic Initiate|🥇Magic Initiate]] (Occult), [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats Generic/5e - Survivor|🥇Survivor]], or a **special** [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats|🥇Origin Feat]] (**Dark Gift** feats recommended in this case for you). (Background)
 3. One [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Gaming Sets/5e - Gaming Sets|🛠️Gaming Set]] tool proficiency: _Chess, Dice, Playing Cards_. (Background)
 4. One [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spellcasting Focus|🎩Spellcasting Focus]] property: _Card Decks, Censers, Crystals, Grimoires, Instruments, Orbs, Poppets, Ritual Bells, Rods, Staffs, Totems, Wands_. (Class; You already have proficiency with _Holy Symbols_).
@@ -233,3 +233,4 @@ Currently you know `6` cantrips, but you should only have `5`. Depending on your
 9. Choose Cleric [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats|🥇Class Feats]] of levels _2, 4, and 6_. (Class)
 10. Choose [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - General Feats/5e - General Feats|🥇General Feats]] of levels _2, and 4_. (Class)
 11. Choose a [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Skill Feats|🥇Skill Feat]] of level _6_.
+12. Choose a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spell Focus Mastery Properties/5e - Spell Focus Mastery Properties|Spell Focus Mastery Property]] for your _Tattoo_, which counts as a [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Holy Symbols/5e - Holy Symbols|Holy Symbol]], from the following list: [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spell Focus Mastery Properties/5e - Channel (Property)|🎩Channel]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spell Focus Mastery Properties/5e - Muffle (Property)|🎩Muffle]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Spellcasting Focus/5e - Spell Focus Mastery Properties/5e - Ward (Property)|🎩Ward]].
