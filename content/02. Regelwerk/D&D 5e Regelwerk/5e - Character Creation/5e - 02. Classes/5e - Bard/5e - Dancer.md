@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Dancer
 description: Dancers practice a way of being in harmony with the ever-whirling cosmos, emphasizing agility, speed, and grace.
 created: 2026-08-07T13:42:55.828+02:00
-modified: 2026-09-28T11:36:52.340+02:00
-published: 2026-09-28T11:36:52.340+02:00
+modified: 2026-09-29T07:04:42.196+02:00
+published: 2026-09-29T07:04:42.196+02:00
 tags:
   - "#Subclass"
   - "#5e"
@@ -25,7 +25,11 @@ Dancers express their creativity through their movement. To these Bards, dance i
 
 ### Level 3: Dance Virtuoso (Flavor)
 
-You have **ADV** on [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - CHA Skills/5e - Performance|💃Performance]] [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Ability Check/5e - Ability Check|🎲Checks]] that involve dancing.
+You gain the following benefits:
+
+**<u>Advanced Performer:</u>** You gain [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - CHA Skills/5e - Performance|💃Performance]] [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Proficiency|🎲Proficiency]], or one level of [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Expertise|🎲Expertise]], if you are already _proficient_. You also gain an additional level of [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Proficiency/5e - Expertise|🎲Expertise]] in [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Skills/5e - CHA Skills/5e - Performance|💃Performance]].
+
+**<u>Speed Increase:</u>** Your [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Speed/5e - Speed|🏃‍♀️Speed]] increases by <u>5 feet</u>.
 
 ### Level 3: Dazzling Footwork
 
