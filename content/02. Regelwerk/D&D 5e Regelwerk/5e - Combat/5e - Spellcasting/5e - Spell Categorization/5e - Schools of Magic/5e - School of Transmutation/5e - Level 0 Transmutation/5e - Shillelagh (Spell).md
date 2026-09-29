@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Shillelagh
 created: 2026-07-29T11:13:32.069+02:00
-modified: 2026-09-07T11:03:42.082+02:00
-published: 2026-09-07T11:03:42.082+02:00
+modified: 2026-09-29T09:18:25.225+02:00
+published: 2026-09-29T09:18:25.225+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -17,7 +17,7 @@ level: 0
 time: BA
 range-Area: Touch
 komponenten: V, S, M (mistletoe, a shamrock leaf, and a club or Quarterstaff)
-dauer: 1m
+dauer: 1 Minute
 c: " "
 effect:
   - Buff
@@ -39,7 +39,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|BA  |
 > |**Range/Area:**|Touch |
 > |**Components:**|V, S, M (mistletoe, a shamrock leaf, and a club or Quarterstaff) |
-> |**Duration:**|PT1M |
+> |**Duration:**|1 Minute |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Primal |

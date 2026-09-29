@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Darkness
 created: 2026-07-20T12:11:02.789+02:00
-modified: 2026-09-09T09:44:53.276+02:00
-published: 2026-09-09T09:44:53.276+02:00
+modified: 2026-09-29T09:12:55.528+02:00
+published: 2026-09-29T09:12:55.528+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 2
 time: A
 range-Area: 60 ft. (15 ft. Sphere)
 komponenten: V, M (bat fur and a piece of coal)
-dauer: 10 minutes
+dauer: 10 Minutes
 effect:
   - Darkness
 zauberliste:
@@ -39,7 +39,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|60 ft. (15 ft. Sphere) |
 > |**Components:**|V, M (bat fur and a piece of coal) |
-> |**Duration:**|PT10M |
+> |**Duration:**|10 Minutes |
 > |**Concentration:**|x |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane,Occult |

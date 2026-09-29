@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Distorted Distance
 created: 2026-09-15T12:40:51.126+02:00
-modified: 2026-09-15T12:44:46.856+02:00
-published: 2026-09-15T12:44:46.856+02:00
+modified: 2026-09-29T09:16:25.394+02:00
+published: 2026-09-29T09:16:25.394+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 4
 time: A
 range-Area: 120 ft. (60 ft. Sphere)
 komponenten: V, S
-dauer: 10 minutes
+dauer: 10 Minutes
 save-Att: INT
 effect:
   - Psychic
@@ -39,7 +39,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|120 ft. (60 ft. Sphere) |
 > |**Components:**|V, S |
-> |**Duration:**|PT10M |
+> |**Duration:**|10 Minutes |
 > |**Concentration:**|x |
 > |**Attack/Save:**|INT|
 > |**Spell List:**|Occult |

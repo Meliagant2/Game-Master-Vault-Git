@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Comprehend Languages
 created: 2026-07-30T10:42:01.079+02:00
-modified: 2026-09-07T13:21:43.979+02:00
-published: 2026-09-07T13:21:43.979+02:00
+modified: 2026-09-29T09:08:20.150+02:00
+published: 2026-09-29T09:08:20.150+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -18,7 +18,7 @@ level: 1
 time: A [R]
 range-Area: Self
 komponenten: V, S, M (a pinch of soot and salt)
-dauer: 1h
+dauer: 1 Hour
 effect:
   - Social
   - Ritual
@@ -40,7 +40,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A \[R]  |
 > |**Range/Area:**|Self |
 > |**Components:**|V, S, M (a pinch of soot and salt) |
-> |**Duration:**|PT1H |
+> |**Duration:**|1 Hour |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane,Occult |

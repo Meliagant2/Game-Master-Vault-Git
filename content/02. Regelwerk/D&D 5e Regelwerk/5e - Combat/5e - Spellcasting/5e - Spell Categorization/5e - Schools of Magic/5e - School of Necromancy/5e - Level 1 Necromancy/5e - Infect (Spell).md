@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Infect
 created: 2026-09-07T14:11:11.060+02:00
-modified: 2026-09-08T11:52:10.731+02:00
-published: 2026-09-08T11:52:10.731+02:00
+modified: 2026-09-29T09:17:05.793+02:00
+published: 2026-09-29T09:17:05.793+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 1
 time: A
 range-Area: 60 ft.
 komponenten: V, S, M (a petri dish)
-dauer: 1 minute
+dauer: 1 Minute
 save-Att: CON
 effect:
   - Necrotic
@@ -40,7 +40,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|60 ft. |
 > |**Components:**|V, S, M (a petri dish) |
-> |**Duration:**|PT1M |
+> |**Duration:**|1 Minute |
 > |**Concentration:**|x |
 > |**Attack/Save:**|CON|
 > |**Spell List:**|Arcane,Primal |

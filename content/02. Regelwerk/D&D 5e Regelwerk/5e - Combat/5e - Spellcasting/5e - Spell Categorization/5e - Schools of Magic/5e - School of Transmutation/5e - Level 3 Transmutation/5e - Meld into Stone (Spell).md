@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Meld Into Stone
 created: 2026-09-14T16:16:50.720+02:00
-modified: 2026-09-14T16:27:21.136+02:00
-published: 2026-09-14T16:27:21.136+02:00
+modified: 2026-09-29T09:20:31.441+02:00
+published: 2026-09-29T09:20:31.441+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 3
 time: A [R]
 range-Area: Touch
 komponenten: V, S
-dauer: 8 hours
+dauer: 8 Hours
 effect:
   - Utility
   - Ritual
@@ -40,7 +40,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A \[R]  |
 > |**Range/Area:**|Touch |
 > |**Components:**|V, S |
-> |**Duration:**|PT8H |
+> |**Duration:**|8 Hours |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Divine,Primal |

@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Uncertain Footing
 created: 2026-09-09T11:10:29.071+02:00
-modified: 2026-09-09T11:12:34.317+02:00
-published: 2026-09-09T11:12:34.317+02:00
+modified: 2026-09-29T09:16:09.715+02:00
+published: 2026-09-29T09:16:09.715+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 2
 time: A
 range-Area: 120 ft.
 komponenten: V, S, M (a distorted lens)
-dauer: 1 minute
+dauer: 1 Minute
 save-Att: INT
 effect:
   - Slowed
@@ -40,7 +40,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|120 ft. |
 > |**Components:**|V, S, M (a distorted lens) |
-> |**Duration:**|PT1M |
+> |**Duration:**|1 Minute |
 > |**Concentration:**|x |
 > |**Attack/Save:**|INT|
 > |**Spell List:**|Arcane,Occult |

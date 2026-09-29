@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Frightful Start
 created: 2026-09-07T11:36:21.517+02:00
-modified: 2026-09-07T11:38:17.375+02:00
-published: 2026-09-07T11:38:17.375+02:00
+modified: 2026-09-29T09:15:13.153+02:00
+published: 2026-09-29T09:15:13.153+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 0
 time: A
 range-Area: 30 ft.
 komponenten: V, S, M (a dead spider)
-dauer: 1 round
+dauer: 1 Round
 save-Att: WIS
 effect:
   - Frightened
@@ -40,7 +40,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|30 ft. |
 > |**Components:**|V, S, M (a dead spider) |
-> |**Duration:**|1 round |
+> |**Duration:**|1 Round |
 > |**Concentration:**|  |
 > |**Attack/Save:**|WIS|
 > |**Spell List:**|Arcane,Occult |

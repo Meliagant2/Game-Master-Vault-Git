@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Doomtide
 created: 2026-09-15T09:36:12.946+02:00
-modified: 2026-09-15T12:02:49.856+02:00
-published: 2026-09-15T12:02:49.856+02:00
+modified: 2026-09-29T09:07:27.136+02:00
+published: 2026-09-29T09:07:27.136+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 4
 time: A
 range-Area: 120 ft. (20 ft. Sphere)
 komponenten: V, S, M (soot and a dried eel)
-dauer: 1 minute
+dauer: 1 Minute
 save-Att: WIS
 effect:
   - Psychic
@@ -42,7 +42,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|120 ft. (20 ft. Sphere) |
 > |**Components:**|V, S, M (soot and a dried eel) |
-> |**Duration:**|PT1M |
+> |**Duration:**|1 Minute |
 > |**Concentration:**|x |
 > |**Attack/Save:**|WIS|
 > |**Spell List:**|Divine,Occult |

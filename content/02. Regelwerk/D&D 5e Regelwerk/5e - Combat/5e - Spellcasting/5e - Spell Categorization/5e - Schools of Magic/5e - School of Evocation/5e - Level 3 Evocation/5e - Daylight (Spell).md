@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Daylight
 created: 2026-09-14T13:55:13.914+02:00
-modified: 2026-09-14T13:57:40.302+02:00
-published: 2026-09-14T13:57:40.302+02:00
+modified: 2026-09-29T09:13:32.962+02:00
+published: 2026-09-29T09:13:32.962+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 3
 time: A
 range-Area: 60 ft. (60 ft. Sphere)
 komponenten: V, S
-dauer: 1 hour
+dauer: 1 Hour
 effect:
   - Light
 zauberliste:
@@ -39,7 +39,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|60 ft. (60 ft. Sphere) |
 > |**Components:**|V, S |
-> |**Duration:**|PT1H |
+> |**Duration:**|1 Hour |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Divine,Primal |

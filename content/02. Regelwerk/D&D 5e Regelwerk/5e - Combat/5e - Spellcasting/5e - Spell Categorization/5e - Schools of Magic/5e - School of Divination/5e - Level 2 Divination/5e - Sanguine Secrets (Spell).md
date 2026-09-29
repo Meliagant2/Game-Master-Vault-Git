@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Sanguine Secrets
 created: 2026-09-08T15:00:56.870+02:00
-modified: 2026-09-08T15:10:31.573+02:00
-published: 2026-09-08T15:10:31.573+02:00
+modified: 2026-09-29T09:09:07.238+02:00
+published: 2026-09-29T09:09:07.238+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 2
 time: BA
 range-Area: 30 ft.
 komponenten: V, S, M (a drop of blood, which the spell consumes)
-dauer: 1 round
+dauer: 1 Round
 effect:
   - Foreknowledge
   - Advantage
@@ -40,7 +40,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|BA  |
 > |**Range/Area:**|30 ft. |
 > |**Components:**|V, S, M (a drop of blood, which the spell consumes) |
-> |**Duration:**|1 round |
+> |**Duration:**|1 Round |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Occult |

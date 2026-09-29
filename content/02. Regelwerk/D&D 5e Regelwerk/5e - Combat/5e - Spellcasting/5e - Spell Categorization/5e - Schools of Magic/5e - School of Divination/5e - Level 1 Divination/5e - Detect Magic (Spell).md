@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Detect Magic
 created: 2026-07-21T10:35:52.409+02:00
-modified: 2026-09-09T09:36:35.216+02:00
-published: 2026-09-09T09:36:35.216+02:00
+modified: 2026-09-29T09:08:33.140+02:00
+published: 2026-09-29T09:08:33.140+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -18,7 +18,7 @@ level: 1
 time: A [R]
 range-Area: Self (30 ft. Emanation)
 komponenten: V, S
-dauer: 10m
+dauer: 10 Minutes
 effect:
   - Detection
   - Ritual
@@ -42,7 +42,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A \[R]  |
 > |**Range/Area:**|Self (30 ft. Emanation) |
 > |**Components:**|V, S |
-> |**Duration:**|PT10M |
+> |**Duration:**|10 Minutes |
 > |**Concentration:**|x |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane,Divine,Occult,Primal |

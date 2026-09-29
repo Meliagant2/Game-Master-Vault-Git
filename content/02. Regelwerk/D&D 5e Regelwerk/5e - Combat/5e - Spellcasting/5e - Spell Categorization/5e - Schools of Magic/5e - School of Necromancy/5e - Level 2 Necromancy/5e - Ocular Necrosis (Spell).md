@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Ocular Necrosis
 created: 2026-09-09T11:34:36.250+02:00
-modified: 2026-09-09T11:38:25.865+02:00
-published: 2026-09-09T11:38:25.865+02:00
+modified: 2026-09-29T09:17:32.046+02:00
+published: 2026-09-29T09:17:32.046+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 2
 time: A
 range-Area: 30 ft.
 komponenten: V, S
-dauer: 1 round
+dauer: 1 Round
 save-Att: Ranged
 effect:
   - Necrotic
@@ -40,7 +40,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|30 ft. |
 > |**Components:**|V, S |
-> |**Duration:**|1 round |
+> |**Duration:**|1 Round |
 > |**Concentration:**|  |
 > |**Attack/Save:**|Ranged|
 > |**Spell List:**|Arcane |

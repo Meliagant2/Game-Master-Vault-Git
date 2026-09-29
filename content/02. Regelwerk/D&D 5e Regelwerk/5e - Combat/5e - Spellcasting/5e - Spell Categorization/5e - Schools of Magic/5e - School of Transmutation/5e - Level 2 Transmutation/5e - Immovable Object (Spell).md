@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Immovable Object
 created: 2026-09-09T12:19:59.326+02:00
-modified: 2026-09-09T12:26:32.690+02:00
-published: 2026-09-09T12:26:32.690+02:00
+modified: 2026-09-29T09:19:41.853+02:00
+published: 2026-09-29T09:19:41.853+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 2
 time: A
 range-Area: Touch
 komponenten: V, S, M (gold dust worth 25+ SP, which the spell consumes)
-dauer: 1 hour
+dauer: 1 Hour
 effect:
   - Utility
 zauberliste:
@@ -38,7 +38,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|Touch |
 > |**Components:**|V, S, M (gold dust worth 25+ SP, which the spell consumes) |
-> |**Duration:**|PT1H |
+> |**Duration:**|1 Hour |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane |

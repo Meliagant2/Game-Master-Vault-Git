@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Hallucinatory Terrain
 created: 2026-08-18T15:56:32.591+02:00
-modified: 2026-09-15T12:48:35.326+02:00
-published: 2026-09-15T12:48:35.326+02:00
+modified: 2026-09-29T09:16:30.415+02:00
+published: 2026-09-29T09:16:30.415+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 4
 time: 10m
 range-Area: 300 ft. (150 ft. Cube)
 komponenten: V, S, M (a mushroom)
-dauer: 24 hours
+dauer: 24 Hours
 effect:
   - Control
 zauberliste:
@@ -40,7 +40,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|PT10M  |
 > |**Range/Area:**|300 ft. (150 ft. Cube) |
 > |**Components:**|V, S, M (a mushroom) |
-> |**Duration:**|PT24H |
+> |**Duration:**|24 Hours |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane,Occult,Primal |

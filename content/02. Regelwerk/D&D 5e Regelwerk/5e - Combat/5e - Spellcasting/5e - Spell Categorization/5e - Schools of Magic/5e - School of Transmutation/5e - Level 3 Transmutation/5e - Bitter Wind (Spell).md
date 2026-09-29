@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Bitter Wind
 created: 2026-09-15T07:28:37.326+02:00
-modified: 2026-09-15T07:36:41.669+02:00
-published: 2026-09-15T07:36:41.669+02:00
+modified: 2026-09-29T09:20:12.014+02:00
+published: 2026-09-29T09:20:12.014+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 3
 time: A
 range-Area: Self (90 ft. Line)
 komponenten: V, S, M (a birch wood fan)
-dauer: 1 round
+dauer: 1 Round
 save-Att: CON
 effect:
   - Cold
@@ -42,7 +42,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|Self (90 ft. Line) |
 > |**Components:**|V, S, M (a birch wood fan) |
-> |**Duration:**|1 round |
+> |**Duration:**|1 Round |
 > |**Concentration:**|  |
 > |**Attack/Save:**|CON|
 > |**Spell List:**|Arcane,Primal |

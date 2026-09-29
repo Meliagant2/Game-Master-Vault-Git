@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Hold Person
 created: 2026-07-28T10:33:14.794+02:00
-modified: 2026-09-08T15:30:38.655+02:00
-published: 2026-09-08T15:30:38.655+02:00
+modified: 2026-09-29T09:10:31.816+02:00
+published: 2026-09-29T09:10:31.816+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 2
 time: A
 range-Area: 60 ft.
 komponenten: V, S, M (a straight piece of iron)
-dauer: 1 minute
+dauer: 1 Minute
 save-Att: WIS
 effect:
   - Paralyzed
@@ -42,7 +42,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|60 ft. |
 > |**Components:**|V, S, M (a straight piece of iron) |
-> |**Duration:**|PT1M |
+> |**Duration:**|1 Minute |
 > |**Concentration:**|x |
 > |**Attack/Save:**|WIS|
 > |**Spell List:**|Arcane,Divine,Occult,Primal |

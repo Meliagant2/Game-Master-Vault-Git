@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Unraveling Whisper
 created: 2026-09-08T15:46:33.395+02:00
-modified: 2026-09-08T15:49:28.070+02:00
-published: 2026-09-08T15:49:28.070+02:00
+modified: 2026-09-29T09:10:42.791+02:00
+published: 2026-09-29T09:10:42.791+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 2
 time: A
 range-Area: 30 ft.
 komponenten: V, S
-dauer: 1 round
+dauer: 1 Round
 save-Att: WIS
 effect:
   - Psychic
@@ -41,7 +41,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|30 ft. |
 > |**Components:**|V, S |
-> |**Duration:**|1 round |
+> |**Duration:**|1 Round |
 > |**Concentration:**|  |
 > |**Attack/Save:**|WIS|
 > |**Spell List:**|Occult |

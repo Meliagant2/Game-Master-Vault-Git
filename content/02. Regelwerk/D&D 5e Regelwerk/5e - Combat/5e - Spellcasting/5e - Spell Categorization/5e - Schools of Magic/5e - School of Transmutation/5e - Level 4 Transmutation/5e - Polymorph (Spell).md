@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Polymorph
 created: 2026-07-23T12:09:29.443+02:00
-modified: 2026-09-15T13:25:28.148+02:00
-published: 2026-09-15T13:25:28.148+02:00
+modified: 2026-09-29T09:20:51.038+02:00
+published: 2026-09-29T09:20:51.038+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 4
 time: A
 range-Area: 60 ft.
 komponenten: V, S, M (a caterpillar cocoon)
-dauer: 1 hour
+dauer: 1 Hour
 save-Att: WIS
 effect:
   - Control
@@ -40,7 +40,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|60 ft. |
 > |**Components:**|V, S, M (a caterpillar cocoon) |
-> |**Duration:**|PT1H |
+> |**Duration:**|1 Hour |
 > |**Concentration:**|x |
 > |**Attack/Save:**|WIS|
 > |**Spell List:**|Arcane,Primal |

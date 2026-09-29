@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Quick Clothier
 created: 2026-09-07T14:38:20.813+02:00
-modified: 2026-09-08T16:05:06.941+02:00
-published: 2026-09-08T16:05:06.941+02:00
+modified: 2026-09-29T09:19:11.391+02:00
+published: 2026-09-29T09:19:11.391+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 1
 time: A
 range-Area: Touch
 komponenten: V, S, M (a set of clothing)
-dauer: 24 hours
+dauer: 24 Hours
 effect:
   - Social
 zauberliste:
@@ -38,7 +38,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|Touch |
 > |**Components:**|V, S, M (a set of clothing) |
-> |**Duration:**|PT24H |
+> |**Duration:**|24 Hours |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane |

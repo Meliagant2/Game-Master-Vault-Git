@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Fly
 created: 2026-07-22T11:08:29.986+02:00
-modified: 2026-09-14T16:09:49.535+02:00
-published: 2026-09-14T16:09:49.535+02:00
+modified: 2026-09-29T09:20:24.468+02:00
+published: 2026-09-29T09:20:24.468+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 3
 time: A
 range-Area: Touch
 komponenten: V, S, M (a feather)
-dauer: 10 minutes
+dauer: 10 Minutes
 effect:
   - Movement
 zauberliste:
@@ -39,7 +39,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|Touch |
 > |**Components:**|V, S, M (a feather) |
-> |**Duration:**|PT10M |
+> |**Duration:**|10 Minutes |
 > |**Concentration:**|x |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane,Occult |

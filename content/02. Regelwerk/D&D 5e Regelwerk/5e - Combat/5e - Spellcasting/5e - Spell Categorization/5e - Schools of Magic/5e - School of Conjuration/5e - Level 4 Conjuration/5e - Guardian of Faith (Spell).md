@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Guardian of Faith
 created: 2026-07-28T12:00:32.644+02:00
-modified: 2026-09-15T10:07:36.737+02:00
-published: 2026-09-15T10:07:36.737+02:00
+modified: 2026-09-29T09:07:33.867+02:00
+published: 2026-09-29T09:07:33.867+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 4
 time: A
 range-Area: 30 ft.
 komponenten: V
-dauer: 8 hours
+dauer: 8 Hours
 save-Att: DEX
 effect:
   - Radiant
@@ -39,7 +39,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|30 ft. |
 > |**Components:**|V |
-> |**Duration:**|PT8H |
+> |**Duration:**|8 Hours |
 > |**Concentration:**|  |
 > |**Attack/Save:**|DEX|
 > |**Spell List:**|Divine |

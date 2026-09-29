@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Feather Fall
 created: 2026-07-30T11:11:24.661+02:00
-modified: 2026-09-09T14:55:24.783+02:00
-published: 2026-09-09T14:55:24.783+02:00
+modified: 2026-09-29T09:18:55.330+02:00
+published: 2026-09-29T09:18:55.330+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -18,7 +18,7 @@ level: 1
 time: R
 range-Area: 60 ft.
 komponenten: V, M (a small feather or piece of down)
-dauer: 1m
+dauer: 1 Minute
 effect:
   - Exploration
 zauberliste:
@@ -39,7 +39,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|R (You or a creature you can see within 60 feet of you falls)|
 > |**Range/Area:**|60 ft. |
 > |**Components:**|V, M (a small feather or piece of down) |
-> |**Duration:**|PT1M |
+> |**Duration:**|1 Minute |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane,Primal |

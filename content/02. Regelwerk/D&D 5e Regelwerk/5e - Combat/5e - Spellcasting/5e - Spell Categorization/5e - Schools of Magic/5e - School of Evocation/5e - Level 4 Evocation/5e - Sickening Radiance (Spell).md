@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Sickening Radiance
 created: 2026-09-15T11:52:50.123+02:00
-modified: 2026-09-15T11:58:43.605+02:00
-published: 2026-09-15T11:58:43.605+02:00
+modified: 2026-09-29T09:14:08.255+02:00
+published: 2026-09-29T09:14:08.255+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 4
 time: A
 range-Area: 120 ft. (30 ft. Sphere)
 komponenten: V, S
-dauer: 10 minutes
+dauer: 10 Minutes
 save-Att: CON
 effect:
   - Radiant
@@ -39,7 +39,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|120 ft. (30 ft. Sphere) |
 > |**Components:**|V, S |
-> |**Duration:**|PT10M |
+> |**Duration:**|10 Minutes |
 > |**Concentration:**|x |
 > |**Attack/Save:**|CON|
 > |**Spell List:**|Occult |

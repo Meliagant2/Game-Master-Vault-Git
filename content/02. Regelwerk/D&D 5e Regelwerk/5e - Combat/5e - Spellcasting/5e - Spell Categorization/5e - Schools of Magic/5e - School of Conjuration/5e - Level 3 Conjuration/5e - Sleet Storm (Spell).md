@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Sleet Storm
 created: 2026-08-18T16:01:44.030+02:00
-modified: 2026-09-14T11:55:40.277+02:00
-published: 2026-09-14T11:55:40.277+02:00
+modified: 2026-09-29T09:06:56.349+02:00
+published: 2026-09-29T09:06:56.349+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 3
 time: A
 range-Area: 150 ft. (20 ft. Cylinder)
 komponenten: V, S, M (a miniature umbrella)
-dauer: 1 minute
+dauer: 1 Minute
 save-Att: DEX
 effect:
   - Difficult Terrain
@@ -41,7 +41,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|150 ft. (20 ft. Cylinder) |
 > |**Components:**|V, S, M (a miniature umbrella) |
-> |**Duration:**|PT1M |
+> |**Duration:**|1 Minute |
 > |**Concentration:**|x |
 > |**Attack/Save:**|DEX|
 > |**Spell List:**|Arcane,Primal |

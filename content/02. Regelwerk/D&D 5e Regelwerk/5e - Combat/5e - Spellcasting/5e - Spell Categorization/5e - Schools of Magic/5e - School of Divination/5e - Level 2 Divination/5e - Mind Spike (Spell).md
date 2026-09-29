@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Mind Spike
 created: 2026-08-18T15:06:04.557+02:00
-modified: 2026-09-09T10:29:02.340+02:00
-published: 2026-09-09T10:29:02.340+02:00
+modified: 2026-09-29T09:09:03.493+02:00
+published: 2026-09-29T09:09:03.493+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 2
 time: A
 range-Area: 120 ft.
 komponenten: S
-dauer: 1 hour
+dauer: 1 Hour
 save-Att: WIS
 effect:
   - Psychic
@@ -41,7 +41,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|120 ft. |
 > |**Components:**|S |
-> |**Duration:**|PT1H |
+> |**Duration:**|1 Hour |
 > |**Concentration:**|x |
 > |**Attack/Save:**|WIS|
 > |**Spell List:**|Arcane,Occult |

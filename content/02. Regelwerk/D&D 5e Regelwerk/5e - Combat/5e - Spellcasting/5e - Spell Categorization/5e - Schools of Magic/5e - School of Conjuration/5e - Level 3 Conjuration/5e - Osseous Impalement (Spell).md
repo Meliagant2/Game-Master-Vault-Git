@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Osseus Impalement
 created: 2026-09-14T11:44:58.739+02:00
-modified: 2026-09-14T11:49:34.455+02:00
-published: 2026-09-14T11:49:34.455+02:00
+modified: 2026-09-29T09:06:53.981+02:00
+published: 2026-09-29T09:06:53.981+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 3
 time: A
 range-Area: 60 ft.
 komponenten: V, S, M (a calcified bamboo stick)
-dauer: 1 minute
+dauer: 1 Minute
 save-Att: DEX
 effect:
   - Piercing
@@ -39,7 +39,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|60 ft. |
 > |**Components:**|V, S, M (a calcified bamboo stick) |
-> |**Duration:**|PT1M |
+> |**Duration:**|1 Minute |
 > |**Concentration:**|x |
 > |**Attack/Save:**|DEX|
 > |**Spell List:**|Occult |

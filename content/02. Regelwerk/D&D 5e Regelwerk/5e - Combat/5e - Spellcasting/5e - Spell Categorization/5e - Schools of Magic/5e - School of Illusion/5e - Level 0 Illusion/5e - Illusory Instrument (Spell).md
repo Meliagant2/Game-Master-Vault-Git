@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Illusory Instrument
 created: 2026-07-23T10:12:45.322+02:00
-modified: 2026-09-09T15:00:29.285+02:00
-published: 2026-09-09T15:00:29.285+02:00
+modified: 2026-09-29T09:15:16.450+02:00
+published: 2026-09-29T09:15:16.450+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -18,7 +18,7 @@ level: 0
 time: A
 range-Area: Touch
 komponenten: V, S
-dauer: 10 minutes
+dauer: 10 Minutes
 c: " "
 effect:
   - Control
@@ -39,7 +39,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|Touch |
 > |**Components:**|V, S |
-> |**Duration:**|PT10M |
+> |**Duration:**|10 Minutes |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Occult |

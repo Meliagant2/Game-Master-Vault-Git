@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Battle Familiar
 created: 2026-09-08T13:32:03.154+02:00
-modified: 2026-09-09T14:36:55.046+02:00
-published: 2026-09-09T14:36:55.046+02:00
+modified: 2026-09-29T09:06:07.400+02:00
+published: 2026-09-29T09:06:07.400+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 2
 time: A
 range-Area: 10 ft.
 komponenten: V, S, M (a diamond worth 25+ SP)
-dauer: 1 hour
+dauer: 1 Hour
 effect:
   - Summoning
 zauberliste:
@@ -41,7 +41,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|10 ft. |
 > |**Components:**|V, S, M (a diamond worth 25+ SP) |
-> |**Duration:**|PT1H |
+> |**Duration:**|1 Hour |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane,Divine,Occult,Primal |

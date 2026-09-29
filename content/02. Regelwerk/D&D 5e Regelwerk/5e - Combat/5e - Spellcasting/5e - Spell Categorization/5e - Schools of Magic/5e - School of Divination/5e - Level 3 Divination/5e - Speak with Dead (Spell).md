@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Speak with Dead
 created: 2026-09-14T15:31:12.905+02:00
-modified: 2026-09-21T08:56:57.195+02:00
-published: 2026-09-21T08:56:57.195+02:00
+modified: 2026-09-29T09:09:18.532+02:00
+published: 2026-09-29T09:09:18.532+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 3
 time: A [R]
 range-Area: 10 ft.
 komponenten: V, S, M (burning incense)
-dauer: 10 minutes
+dauer: 10 Minutes
 effect:
   - Communication
   - Ritual
@@ -40,7 +40,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A \[R]  |
 > |**Range/Area:**|10 ft. |
 > |**Components:**|V, S, M (burning incense) |
-> |**Duration:**|PT10M |
+> |**Duration:**|10 Minutes |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane,Divine |

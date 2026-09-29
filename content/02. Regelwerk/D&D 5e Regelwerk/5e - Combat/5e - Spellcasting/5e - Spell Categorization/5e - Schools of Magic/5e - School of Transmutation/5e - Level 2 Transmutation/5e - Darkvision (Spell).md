@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Darkvision
 created: 2026-09-09T12:02:40.508+02:00
-modified: 2026-09-09T12:05:56.781+02:00
-published: 2026-09-09T12:05:56.781+02:00
+modified: 2026-09-29T09:19:26.116+02:00
+published: 2026-09-29T09:19:26.116+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 2
 time: A
 range-Area: Touch
 komponenten: V, S, M (a dried carrot)
-dauer: 8 hours
+dauer: 8 Hours
 effect:
   - Exploration
 zauberliste:
@@ -39,7 +39,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|Touch |
 > |**Components:**|V, S, M (a dried carrot) |
-> |**Duration:**|PT8H |
+> |**Duration:**|8 Hours |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane,Primal |

@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Zone of Amicability
 created: 2026-09-15T11:26:37.383+02:00
-modified: 2026-09-15T11:28:10.992+02:00
-published: 2026-09-15T11:28:10.992+02:00
+modified: 2026-09-29T09:11:30.727+02:00
+published: 2026-09-29T09:11:30.727+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 4
 time: A
 range-Area: Self (60 ft. Emanation)
 komponenten: V, S
-dauer: 10 minutes
+dauer: 10 Minutes
 effect:
   - Social
 zauberliste:
@@ -38,7 +38,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|Self (60 ft. Emanation) |
 > |**Components:**|V, S |
-> |**Duration:**|PT10M |
+> |**Duration:**|10 Minutes |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Occult |

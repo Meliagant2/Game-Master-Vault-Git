@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Mote of Faith
 created: 2026-09-15T07:52:57.648+02:00
-modified: 2026-09-15T08:12:53.934+02:00
-published: 2026-09-15T08:12:53.934+02:00
+modified: 2026-09-29T09:06:52.483+02:00
+published: 2026-09-29T09:06:52.483+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 3
 time: A
 range-Area: 150 ft. (15 ft. Sphere)
 komponenten: V, S, M (a piece of sulfur, or an eagle's feather)
-dauer: 1 minute
+dauer: 1 Minute
 save-Att: WIS
 effect:
   - Blinded
@@ -42,7 +42,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|150 ft. (15 ft. Sphere) |
 > |**Components:**|V, S, M (a piece of sulfur, or an eagle's feather) |
-> |**Duration:**|PT1M |
+> |**Duration:**|1 Minute |
 > |**Concentration:**|x |
 > |**Attack/Save:**|WIS|
 > |**Spell List:**|Divine |

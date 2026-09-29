@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Bestow Curse
 created: 2026-07-28T10:38:24.188+02:00
-modified: 2026-09-28T09:46:17.304+02:00
-published: 2026-09-28T09:46:17.304+02:00
+modified: 2026-09-29T09:10:53.814+02:00
+published: 2026-09-29T09:10:53.814+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 3
 time: A
 range-Area: Touch
 komponenten: V, S
-dauer: 1 minute
+dauer: 1 Minute
 save-Att: WIS
 effect:
   - Curse
@@ -41,7 +41,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|Touch |
 > |**Components:**|V, S |
-> |**Duration:**|PT1M |
+> |**Duration:**|1 Minute |
 > |**Concentration:**|x |
 > |**Attack/Save:**|WIS|
 > |**Spell List:**|Arcane,Divine,Occult |

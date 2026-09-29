@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Enhance Ability
 created: 2026-07-28T11:18:13.973+02:00
-modified: 2026-09-09T12:10:51.139+02:00
-published: 2026-09-09T12:10:51.139+02:00
+modified: 2026-09-29T09:19:34.376+02:00
+published: 2026-09-29T09:19:34.376+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 2
 time: A
 range-Area: Touch
 komponenten: V, S, M (fur or a feather)
-dauer: 1 hour
+dauer: 1 Hour
 effect:
   - Buff
   - ADV
@@ -41,7 +41,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|Touch |
 > |**Components:**|V, S, M (fur or a feather) |
-> |**Duration:**|PT1H |
+> |**Duration:**|1 Hour |
 > |**Concentration:**|x |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane,Divine,Primal |

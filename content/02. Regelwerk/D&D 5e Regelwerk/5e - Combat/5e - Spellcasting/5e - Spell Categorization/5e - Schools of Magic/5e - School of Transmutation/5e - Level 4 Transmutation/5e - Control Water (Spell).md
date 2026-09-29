@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Control Water
 created: 2026-07-28T12:48:09.034+02:00
-modified: 2026-09-15T13:17:44.844+02:00
-published: 2026-09-15T13:17:44.844+02:00
+modified: 2026-09-29T09:20:47.581+02:00
+published: 2026-09-29T09:20:47.581+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 4
 time: A
 range-Area: 300 ft. (100 ft. Cube)
 komponenten: V, S, M (a mixture of water and dust)
-dauer: 10 minutes
+dauer: 10 Minutes
 effect:
   - Control
 zauberliste:
@@ -38,7 +38,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|300 ft. (100 ft. Cube) |
 > |**Components:**|V, S, M (a mixture of water and dust) |
-> |**Duration:**|PT10M |
+> |**Duration:**|10 Minutes |
 > |**Concentration:**|x |
 > |**Attack/Save:**||
 > |**Spell List:**|Primal |

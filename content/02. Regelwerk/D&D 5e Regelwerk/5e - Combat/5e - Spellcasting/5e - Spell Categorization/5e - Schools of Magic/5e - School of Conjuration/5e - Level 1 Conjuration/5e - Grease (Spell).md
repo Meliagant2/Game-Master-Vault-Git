@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Grease
 created: 2026-07-27T11:50:45.144+02:00
-modified: 2026-09-09T09:32:55.665+02:00
-published: 2026-09-09T09:32:55.665+02:00
+modified: 2026-09-29T09:05:50.579+02:00
+published: 2026-09-29T09:05:50.579+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -18,7 +18,7 @@ level: 1
 time: A
 range-Area: 60 ft. (10 ft. Radius)
 komponenten: V, S, M (a bit of pork rind or butter)
-dauer: 1m
+dauer: 1 Minute
 save-Att: DEX
 effect:
   - Difficult Terrain
@@ -40,7 +40,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|60 ft. (10 ft. Radius) |
 > |**Components:**|V, S, M (a bit of pork rind or butter) |
-> |**Duration:**|PT1M |
+> |**Duration:**|1 Minute |
 > |**Concentration:**|  |
 > |**Attack/Save:**|DEX|
 > |**Spell List:**|Arcane |

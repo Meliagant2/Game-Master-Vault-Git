@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Wind Wall
 created: 2026-08-18T16:01:58.292+02:00
-modified: 2026-09-14T14:42:23.420+02:00
-published: 2026-09-14T14:42:23.420+02:00
+modified: 2026-09-29T09:13:51.566+02:00
+published: 2026-09-29T09:13:51.566+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 3
 time: A
 range-Area: 120 ft.
 komponenten: V, S, M (a fan and a feather)
-dauer: 1 minute
+dauer: 1 Minute
 save-Att: STR
 effect:
   - Bludgeoning
@@ -39,7 +39,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|120 ft. |
 > |**Components:**|V, S, M (a fan and a feather) |
-> |**Duration:**|PT1M |
+> |**Duration:**|1 Minute |
 > |**Concentration:**|x |
 > |**Attack/Save:**|STR|
 > |**Spell List:**|Primal |

@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Gaseous Form
 created: 2026-07-28T14:20:10.965+02:00
-modified: 2026-09-14T16:13:07.709+02:00
-published: 2026-09-14T16:13:07.709+02:00
+modified: 2026-09-29T09:20:26.716+02:00
+published: 2026-09-29T09:20:26.716+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 3
 time: A
 range-Area: Touch
 komponenten: V, S, M (a bit of gauze)
-dauer: 1 hour
+dauer: 1 Hour
 effect:
   - Utility
 zauberliste:
@@ -39,7 +39,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|Touch |
 > |**Components:**|V, S, M (a bit of gauze) |
-> |**Duration:**|PT1H |
+> |**Duration:**|1 Hour |
 > |**Concentration:**|x |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane,Occult |

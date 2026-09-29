@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Arcane Eye
 created: 2026-08-18T14:57:41.651+02:00
-modified: 2026-09-15T11:03:00.928+02:00
-published: 2026-09-15T11:03:00.928+02:00
+modified: 2026-09-29T09:09:27.977+02:00
+published: 2026-09-29T09:09:27.977+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 4
 time: A
 range-Area: 30 ft.
 komponenten: V, S, M (a bit of bat fur)
-dauer: 1 hour
+dauer: 1 Hour
 effect:
   - Detection
 zauberliste:
@@ -38,7 +38,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|30 ft. |
 > |**Components:**|V, S, M (a bit of bat fur) |
-> |**Duration:**|PT1H |
+> |**Duration:**|1 Hour |
 > |**Concentration:**|x |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane |

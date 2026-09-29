@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Harrowing Ballad
 created: 2026-09-08T15:24:53.885+02:00
-modified: 2026-09-14T09:31:51.077+02:00
-published: 2026-09-14T09:31:51.077+02:00
+modified: 2026-09-29T09:10:29.396+02:00
+published: 2026-09-29T09:10:29.396+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 2
 time: BA
 range-Area: 120 ft.
 komponenten: V, S
-dauer: 1 minute
+dauer: 1 Minute
 save-Att: INT
 effect:
   - Charmed
@@ -41,7 +41,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|BA  |
 > |**Range/Area:**|120 ft. |
 > |**Components:**|V, S |
-> |**Duration:**|PT1M |
+> |**Duration:**|1 Minute |
 > |**Concentration:**|x |
 > |**Attack/Save:**|INT|
 > |**Spell List:**|Occult |

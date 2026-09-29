@@ -2,8 +2,8 @@
 publish: true
 title: 🤺5e - Flowing Steps Stance
 created: 2026-08-12T15:26:55.933+02:00
-modified: 2026-08-17T08:07:00.600+02:00
-published: 2026-08-17T08:07:00.600+02:00
+modified: 2026-09-29T08:42:28.474+02:00
+published: 2026-09-29T08:42:28.474+02:00
 tags:
   - "#Maneuver"
   - "#5e"
@@ -37,4 +37,4 @@ status: ✅
 > |**Attack/Save:**||
 > |**Effect:**|Buff |
 
-You have **ADV** on <u>Checks</u> and <u>Saves</u> against [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Grappled|5e - Grappled]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Immobilized|☠️Immobilized]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Paralyzed|☠️Paralyzed]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Restrained|☠️Restrained]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Slowed|☠️Slowed]], and [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Stunned|☠️Stunned]]. In addition you ignore [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Environment/5e - Difficult Terrain|🏔️Difficult Terrain]].
+You have **ADV** on <u>Checks</u> and <u>Saves</u> against [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Grappled|☠️Grappled]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Immobilized|☠️Immobilized]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Paralyzed|☠️Paralyzed]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Restrained|☠️Restrained]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Slowed|☠️Slowed]], and [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Stunned|☠️Stunned]]. In addition you ignore [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Environment/5e - Difficult Terrain|🏔️Difficult Terrain]].

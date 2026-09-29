@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Friends
 created: 2026-07-29T11:29:12.470+02:00
-modified: 2026-09-07T10:52:35.627+02:00
-published: 2026-09-07T10:52:35.627+02:00
+modified: 2026-09-29T09:09:47.620+02:00
+published: 2026-09-29T09:09:47.620+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -18,7 +18,7 @@ level: 0
 time: A
 range-Area: 10 ft.
 komponenten: S, M (some makeup)
-dauer: 1m
+dauer: 1 Minute
 c: x
 effect:
   - Charmed
@@ -41,7 +41,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|10 ft. |
 > |**Components:**|S, M (some makeup) |
-> |**Duration:**|PT1M |
+> |**Duration:**|1 Minute |
 > |**Concentration:**|x |
 > |**Attack/Save:**|WIS|
 > |**Spell List:**|Arcane,Divine,Occult |

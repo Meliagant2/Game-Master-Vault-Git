@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Gust Barrier
 created: 2026-09-07T11:56:41.132+02:00
-modified: 2026-09-07T12:02:11.089+02:00
-published: 2026-09-07T12:02:11.089+02:00
+modified: 2026-09-29T09:18:14.298+02:00
+published: 2026-09-29T09:18:14.298+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 0
 time: A
 range-Area: Self
 komponenten: S
-dauer: 1 round
+dauer: 1 Round
 save-Att: CON
 effect:
   - DISADV
@@ -41,7 +41,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|Self |
 > |**Components:**|S |
-> |**Duration:**|1 round |
+> |**Duration:**|1 Round |
 > |**Concentration:**|  |
 > |**Attack/Save:**|CON|
 > |**Spell List:**|Arcane,Primal |

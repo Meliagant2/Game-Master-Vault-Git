@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Gust of Wind
 created: 2026-07-30T11:16:44.668+02:00
-modified: 2026-09-09T09:48:21.724+02:00
-published: 2026-09-09T09:48:21.724+02:00
+modified: 2026-09-29T09:13:12.569+02:00
+published: 2026-09-29T09:13:12.569+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 2
 time: A
 range-Area: Self (60 ft. Line)
 komponenten: V, S, M (a legume seed)
-dauer: 1 minute
+dauer: 1 Minute
 save-Att: STR
 effect:
   - Pushing
@@ -40,7 +40,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|Self (60 ft. Line) |
 > |**Components:**|V, S, M (a legume seed) |
-> |**Duration:**|PT1M |
+> |**Duration:**|1 Minute |
 > |**Concentration:**|x |
 > |**Attack/Save:**|STR|
 > |**Spell List:**|Arcane,Primal |

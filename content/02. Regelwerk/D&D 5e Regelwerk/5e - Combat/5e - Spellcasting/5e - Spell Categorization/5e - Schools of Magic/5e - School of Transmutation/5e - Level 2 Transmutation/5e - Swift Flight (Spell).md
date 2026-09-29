@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Swift Flight
 created: 2026-09-09T13:26:50.070+02:00
-modified: 2026-09-09T13:28:20.017+02:00
-published: 2026-09-09T13:28:20.017+02:00
+modified: 2026-09-29T09:20:08.861+02:00
+published: 2026-09-29T09:20:08.861+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 2
 time: BA
 range-Area: Touch
 komponenten: V, S, M (a bird's wing feather)
-dauer: 1 round
+dauer: 1 Round
 effect:
   - Movement
 zauberliste:
@@ -38,7 +38,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|BA  |
 > |**Range/Area:**|Touch |
 > |**Components:**|V, S, M (a bird's wing feather) |
-> |**Duration:**|1 round |
+> |**Duration:**|1 Round |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane |

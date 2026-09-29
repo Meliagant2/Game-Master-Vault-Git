@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Cleric
 description: A holy guardian that channels divine energies to both heal and harm in service to their higher power.
 created: 2026-07-20T12:11:02.541+02:00
-modified: 2026-09-22T10:27:39.065+02:00
-published: 2026-09-22T10:27:39.065+02:00
+modified: 2026-09-29T09:03:25.844+02:00
+published: 2026-09-29T09:03:25.844+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -663,7 +663,7 @@ You gain the following benefits:
 
 **<u>Reject the Dead:</u>** _Undead_ creatures have **DISADV** on [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack Rolls]] against you. You also can't be <u>possessed</u> by or gain the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Charmed|☠️Charmed]] or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Frightened|☠️Frightened]] conditions from _Undead_.
 
-**<u>Resist Divine Damage:</u>** You gain <u>Resistance</u> against the damage types chosen for your **Divine Damage**.
+**<u>Resist Divine Damage:</u>** You gain <u>Resistance</u> against the damage types chosen for your **Divine Damage**. If you already have <u>Resistance</u> against one of your **Divine Damage types**, you gain <u>Immunity</u> instead.
 
 **<u>Ward against Corrption:</u>** You have **ADV** on [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Saves]] to avoid or end _diseases_ and against any effect that would change your form, such as the [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Transmutation/5e - Level 4 Transmutation/5e - Polymorph (Spell)|☄️Polymorph]] spell.
 

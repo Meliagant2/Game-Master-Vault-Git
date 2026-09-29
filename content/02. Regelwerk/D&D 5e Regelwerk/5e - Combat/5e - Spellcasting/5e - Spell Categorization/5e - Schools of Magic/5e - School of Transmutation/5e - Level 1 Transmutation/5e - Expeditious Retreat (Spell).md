@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Expeditious Retreat
 created: 2026-07-28T12:46:57.554+02:00
-modified: 2026-09-07T14:28:59.397+02:00
-published: 2026-09-07T14:28:59.397+02:00
+modified: 2026-09-29T09:18:48.603+02:00
+published: 2026-09-29T09:18:48.603+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -18,7 +18,7 @@ level: 1
 time: BA
 range-Area: Self
 komponenten: V, S
-dauer: 10m
+dauer: 10 Minutes
 effect:
   - Movement
 zauberliste:
@@ -39,7 +39,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|BA  |
 > |**Range/Area:**|Self |
 > |**Components:**|V, S |
-> |**Duration:**|PT10M |
+> |**Duration:**|10 Minutes |
 > |**Concentration:**|x |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane,Occult |

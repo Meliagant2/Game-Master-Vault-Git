@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Faithful Hound
 created: 2026-08-18T16:07:16.244+02:00
-modified: 2026-09-15T10:15:56.378+02:00
-published: 2026-09-15T10:15:56.378+02:00
+modified: 2026-09-29T09:07:29.467+02:00
+published: 2026-09-29T09:07:29.467+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 4
 time: A
 range-Area: 30 ft.
 komponenten: V, S, M (a silver whistle)
-dauer: 8 hours
+dauer: 8 Hours
 save-Att: DEX
 effect:
   - Force
@@ -40,7 +40,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|30 ft. |
 > |**Components:**|V, S, M (a silver whistle) |
-> |**Duration:**|PT8H |
+> |**Duration:**|8 Hours |
 > |**Concentration:**|  |
 > |**Attack/Save:**|DEX|
 > |**Spell List:**|Arcane,Occult |

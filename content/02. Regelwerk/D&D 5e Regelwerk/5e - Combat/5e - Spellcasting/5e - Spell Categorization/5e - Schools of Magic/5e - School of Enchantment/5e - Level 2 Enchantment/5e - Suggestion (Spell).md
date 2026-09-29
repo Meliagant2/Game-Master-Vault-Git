@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Suggestion
 created: 2026-07-28T14:19:53.211+02:00
-modified: 2026-09-08T15:38:47.642+02:00
-published: 2026-09-08T15:38:47.642+02:00
+modified: 2026-09-29T09:10:39.495+02:00
+published: 2026-09-29T09:10:39.495+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 2
 time: A
 range-Area: 30 ft.
 komponenten: V, M (a drop of honey)
-dauer: 8 hours
+dauer: 8 Hours
 save-Att: WIS
 effect:
   - Charmed
@@ -40,7 +40,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|30 ft. |
 > |**Components:**|V, M (a drop of honey) |
-> |**Duration:**|PT8H |
+> |**Duration:**|8 Hours |
 > |**Concentration:**|x |
 > |**Attack/Save:**|WIS|
 > |**Spell List:**|Arcane,Occult |

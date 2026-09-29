@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Pestilence
 created: 2026-07-21T11:23:21.720+02:00
-modified: 2026-09-08T16:01:54.061+02:00
-published: 2026-09-08T16:01:54.061+02:00
+modified: 2026-09-29T09:05:20.410+02:00
+published: 2026-09-29T09:05:20.410+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -18,7 +18,7 @@ level: 0
 time: A
 range-Area: 60 ft. (10 ft. Sphere)
 komponenten: V, S
-dauer: 1m
+dauer: 1 Minute
 c: x
 effect:
   - Piercing
@@ -40,7 +40,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|60 ft. (10 ft. Sphere) |
 > |**Components:**|V, S |
-> |**Duration:**|PT1M |
+> |**Duration:**|1 Minute |
 > |**Concentration:**|x |
 > |**Attack/Save:**|CON|
 > |**Spell List:**|Divine,Primal |

@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Elemental Weapon
 created: 2026-08-18T15:30:06.898+02:00
-modified: 2026-09-15T09:05:58.395+02:00
-published: 2026-09-15T09:05:58.395+02:00
+modified: 2026-09-29T09:20:17.255+02:00
+published: 2026-09-29T09:20:17.255+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 3
 time: A
 range-Area: Touch
 komponenten: V, S
-dauer: 1 hour
+dauer: 1 Hour
 effect:
   - Buff
   - Acid
@@ -44,7 +44,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|Touch |
 > |**Components:**|V, S |
-> |**Duration:**|PT1H |
+> |**Duration:**|1 Hour |
 > |**Concentration:**|x |
 > |**Attack/Save:**||
 > |**Spell List:**|Divine,Primal |

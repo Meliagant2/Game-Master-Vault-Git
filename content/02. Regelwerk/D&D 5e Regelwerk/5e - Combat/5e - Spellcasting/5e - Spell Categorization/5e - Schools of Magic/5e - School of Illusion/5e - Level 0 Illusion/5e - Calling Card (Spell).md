@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Calling Card
 created: 2026-07-29T13:52:19.339+02:00
-modified: 2026-09-07T12:03:24.322+02:00
-published: 2026-09-07T12:03:24.322+02:00
+modified: 2026-09-29T09:15:04.985+02:00
+published: 2026-09-29T09:15:04.985+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -17,7 +17,7 @@ level: 0
 time: A
 range-Area: Touch
 komponenten: S, M (a stamp)
-dauer: 5d
+dauer: 5 Days
 c: " "
 effect:
   - Communication
@@ -39,7 +39,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|Touch |
 > |**Components:**|S, M (a stamp) |
-> |**Duration:**|P5D |
+> |**Duration:**|5 Days |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane,Occult |

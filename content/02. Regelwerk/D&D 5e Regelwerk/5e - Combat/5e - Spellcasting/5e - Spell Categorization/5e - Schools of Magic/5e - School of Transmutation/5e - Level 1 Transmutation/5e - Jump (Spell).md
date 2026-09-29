@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Jump
 created: 2026-07-30T11:43:00.576+02:00
-modified: 2026-09-07T14:31:38.355+02:00
-published: 2026-09-07T14:31:38.355+02:00
+modified: 2026-09-29T09:19:03.626+02:00
+published: 2026-09-29T09:19:03.626+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -18,7 +18,7 @@ level: 1
 time: BA
 range-Area: Touch
 komponenten: V, S, M (a grasshopper's hind leg)
-dauer: 1m
+dauer: 1 Minute
 effect:
   - Movement
 zauberliste:
@@ -39,7 +39,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|BA  |
 > |**Range/Area:**|Touch |
 > |**Components:**|V, S, M (a grasshopper's hind leg) |
-> |**Duration:**|PT1M |
+> |**Duration:**|1 Minute |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane,Primal |

@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Rope Trick
 created: 2026-09-09T13:18:02.864+02:00
-modified: 2026-09-09T13:20:13.972+02:00
-published: 2026-09-09T13:20:13.972+02:00
+modified: 2026-09-29T09:19:55.020+02:00
+published: 2026-09-29T09:19:55.020+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 2
 time: A
 range-Area: Touch
 komponenten: V, S, M (a segment of rope)
-dauer: 1 hour
+dauer: 1 Hour
 effect:
   - Utility
 zauberliste:
@@ -38,7 +38,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|Touch |
 > |**Components:**|V, S, M (a segment of rope) |
-> |**Duration:**|PT1H |
+> |**Duration:**|1 Hour |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane |

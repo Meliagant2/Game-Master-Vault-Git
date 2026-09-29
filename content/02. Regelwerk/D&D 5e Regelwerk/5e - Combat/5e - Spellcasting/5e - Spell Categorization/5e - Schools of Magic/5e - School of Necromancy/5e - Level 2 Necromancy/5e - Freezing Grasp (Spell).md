@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Freezing Grasp
 created: 2026-09-09T15:28:16.936+02:00
-modified: 2026-09-14T09:29:44.655+02:00
-published: 2026-09-14T09:29:44.655+02:00
+modified: 2026-09-29T09:17:21.862+02:00
+published: 2026-09-29T09:17:21.862+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 2
 time: A
 range-Area: Touch
 komponenten: V, S, M (red, yellow, and blue pigment)
-dauer: 1 round
+dauer: 1 Round
 save-Att: Melee
 effect:
   - Cold
@@ -42,7 +42,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|Touch |
 > |**Components:**|V, S, M (red, yellow, and blue pigment) |
-> |**Duration:**|1 round |
+> |**Duration:**|1 Round |
 > |**Concentration:**|  |
 > |**Attack/Save:**|Melee|
 > |**Spell List:**|Arcane,Occult,Primal |

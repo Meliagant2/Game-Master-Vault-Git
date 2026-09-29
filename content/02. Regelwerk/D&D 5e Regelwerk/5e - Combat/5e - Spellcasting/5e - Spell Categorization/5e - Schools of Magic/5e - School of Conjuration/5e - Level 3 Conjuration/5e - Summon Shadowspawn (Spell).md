@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Summon Shadowspawn
 created: 2026-09-14T12:31:53.408+02:00
-modified: 2026-09-15T10:01:59.091+02:00
-published: 2026-09-15T10:01:59.091+02:00
+modified: 2026-09-29T09:07:06.404+02:00
+published: 2026-09-29T09:07:06.404+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 3
 time: A
 range-Area: 90 ft.
 komponenten: V, S
-dauer: 1 hour
+dauer: 1 Hour
 effect:
   - Summoning
 zauberliste:
@@ -38,7 +38,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|90 ft. |
 > |**Components:**|V, S |
-> |**Duration:**|PT1H |
+> |**Duration:**|1 Hour |
 > |**Concentration:**|x |
 > |**Attack/Save:**||
 > |**Spell List:**|Occult |

@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Crown of Madness
 created: 2026-09-08T15:17:45.179+02:00
-modified: 2026-09-08T15:21:00.605+02:00
-published: 2026-09-08T15:21:00.605+02:00
+modified: 2026-09-29T09:10:25.776+02:00
+published: 2026-09-29T09:10:25.776+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 2
 time: A
 range-Area: 120 ft.
 komponenten: V, S
-dauer: 1 minute
+dauer: 1 Minute
 save-Att: WIS
 effect:
   - Charmed
@@ -40,7 +40,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|120 ft. |
 > |**Components:**|V, S |
-> |**Duration:**|PT1M |
+> |**Duration:**|1 Minute |
 > |**Concentration:**|x |
 > |**Attack/Save:**|WIS|
 > |**Spell List:**|Arcane,Occult |

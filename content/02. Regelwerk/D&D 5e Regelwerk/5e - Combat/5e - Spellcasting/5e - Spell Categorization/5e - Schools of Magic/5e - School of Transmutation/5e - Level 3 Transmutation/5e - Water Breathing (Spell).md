@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Water Breathing
 created: 2026-09-14T16:26:04.688+02:00
-modified: 2026-09-14T16:27:49.594+02:00
-published: 2026-09-14T16:27:49.594+02:00
+modified: 2026-09-29T09:20:40.772+02:00
+published: 2026-09-29T09:20:40.772+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 3
 time: A [R]
 range-Area: 30 ft.
 komponenten: V, S, M (a short reed)
-dauer: 24 hours
+dauer: 24 Hours
 effect:
   - Utility
   - Ritual
@@ -40,7 +40,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A \[R]  |
 > |**Range/Area:**|30 ft. |
 > |**Components:**|V, S, M (a short reed) |
-> |**Duration:**|PT24H |
+> |**Duration:**|24 Hours |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane,Primal |

@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Moon Viper
 created: 2026-09-14T12:41:48.346+02:00
-modified: 2026-09-14T12:45:51.498+02:00
-published: 2026-09-14T12:45:51.498+02:00
+modified: 2026-09-29T09:06:50.027+02:00
+published: 2026-09-29T09:06:50.027+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 3
 time: BA
 range-Area: Self
 komponenten: V, S, M (a snake fang)
-dauer: 1 hour
+dauer: 1 Hour
 save-Att: Ranged
 effect:
   - Movement
@@ -42,7 +42,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|BA  |
 > |**Range/Area:**|Self |
 > |**Components:**|V, S, M (a snake fang) |
-> |**Duration:**|PT1H |
+> |**Duration:**|1 Hour |
 > |**Concentration:**|  |
 > |**Attack/Save:**|Ranged|
 > |**Spell List:**|Primal |

@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Confounding Shadows
 created: 2026-09-07T11:24:53.371+02:00
-modified: 2026-09-07T11:28:03.420+02:00
-published: 2026-09-07T11:28:03.420+02:00
+modified: 2026-09-29T09:05:12.108+02:00
+published: 2026-09-29T09:05:12.108+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 0
 time: A
 range-Area: 120 ft.
 komponenten: V, S
-dauer: 1 round
+dauer: 1 Round
 save-Att: Ranged
 effect:
   - Psychic
@@ -39,7 +39,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|120 ft. |
 > |**Components:**|V, S |
-> |**Duration:**|1 round |
+> |**Duration:**|1 Round |
 > |**Concentration:**|  |
 > |**Attack/Save:**|Ranged|
 > |**Spell List:**|Occult |

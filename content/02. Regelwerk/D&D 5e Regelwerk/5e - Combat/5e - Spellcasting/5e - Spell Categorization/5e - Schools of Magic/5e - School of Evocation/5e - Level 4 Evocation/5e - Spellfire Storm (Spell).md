@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Spellfire Storm
 created: 2026-09-15T11:58:59.159+02:00
-modified: 2026-09-15T12:08:05.446+02:00
-published: 2026-09-15T12:08:05.446+02:00
+modified: 2026-09-29T09:14:10.931+02:00
+published: 2026-09-29T09:14:10.931+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 4
 time: A
 range-Area: 60 ft. (20 ft. Cylinder)
 komponenten: V, S
-dauer: 1 minute
+dauer: 1 Minute
 save-Att: CON
 effect:
   - Radiant
@@ -40,7 +40,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|60 ft. (20 ft. Cylinder) |
 > |**Components:**|V, S |
-> |**Duration:**|PT1M |
+> |**Duration:**|1 Minute |
 > |**Concentration:**|x |
 > |**Attack/Save:**|CON|
 > |**Spell List:**|Arcane |

@@ -2,8 +2,8 @@
 publish: true
 title: Changelog V 1
 created: 2026-08-17T10:35:26.769+02:00
-modified: 2026-09-24T08:27:12.988+02:00
-published: 2026-09-24T08:27:12.988+02:00
+modified: 2026-09-29T08:50:22.651+02:00
+published: 2026-09-29T08:50:22.651+02:00
 tags:
   - "#Changelog"
   - "#5e"
@@ -241,4 +241,4 @@ You gain the following benefits:
 
 ### 3rd Degree Maneuvers
 
-[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Traditions/5e - Tradition of the Soaring Phoenix/5e - 2nd degree Soaring Phoenix/5e - Blazewing Butterfly Stance (Maneuver)|Blazewing Butterfly Stance]]: Reduced emanation range from <u>20 feet</u> to <u>15 feet</u>. Clarified description and effect durations. Damage changed from `1d4` to `PB`. Increased Degree from `2` to `3`.
+[[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Traditions/5e - Tradition of the Soaring Phoenix/5e - 3rd degree Soaring Phoenix/5e - Blazewing Butterfly Stance (Maneuver)|Blazewing Butterfly Stance]]: Reduced emanation range from <u>20 feet</u> to <u>15 feet</u>. Clarified description and effect durations. Damage changed from `1d4` to `PB`. Increased Degree from `2` to `3`.

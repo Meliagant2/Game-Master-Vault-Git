@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Phantom Steed
 created: 2026-08-18T15:37:43.937+02:00
-modified: 2026-09-14T14:57:21.498+02:00
-published: 2026-09-14T14:57:21.498+02:00
+modified: 2026-09-29T09:16:23.320+02:00
+published: 2026-09-29T09:16:23.320+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 3
 time: 1m [R]
 range-Area: 30 ft.
 komponenten: V, S
-dauer: 1 hour
+dauer: 1 Hour
 effect:
   - Summoning
 zauberliste:
@@ -39,7 +39,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|1m \[R]  |
 > |**Range/Area:**|30 ft. |
 > |**Components:**|V, S |
-> |**Duration:**|PT1H |
+> |**Duration:**|1 Hour |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane,Occult |

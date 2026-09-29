@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Spider Climb
 created: 2026-07-22T11:11:45.462+02:00
-modified: 2026-09-09T13:23:18.698+02:00
-published: 2026-09-09T13:23:18.698+02:00
+modified: 2026-09-29T09:20:02.300+02:00
+published: 2026-09-29T09:20:02.300+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 2
 time: A
 range-Area: Touch
 komponenten: V, S, M (a drop of bitumen and a spider)
-dauer: 1 hour
+dauer: 1 Hour
 effect:
   - Movement
 zauberliste:
@@ -39,7 +39,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|Touch |
 > |**Components:**|V, S, M (a drop of bitumen and a spider) |
-> |**Duration:**|PT1H |
+> |**Duration:**|1 Hour |
 > |**Concentration:**|x |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane,Occult |

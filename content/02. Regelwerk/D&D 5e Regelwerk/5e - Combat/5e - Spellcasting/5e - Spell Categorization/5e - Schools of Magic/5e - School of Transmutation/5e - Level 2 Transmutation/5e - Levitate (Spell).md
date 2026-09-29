@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Levitate
 created: 2026-08-18T16:02:11.309+02:00
-modified: 2026-09-09T13:15:09.924+02:00
-published: 2026-09-09T13:15:09.924+02:00
+modified: 2026-09-29T09:19:46.001+02:00
+published: 2026-09-29T09:19:46.001+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 2
 time: A
 range-Area: 60 ft.
 komponenten: V, S, M (a metal spring)
-dauer: 10 minutes
+dauer: 10 Minutes
 save-Att: CON
 effect:
   - Movement
@@ -39,7 +39,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|60 ft. |
 > |**Components:**|V, S, M (a metal spring) |
-> |**Duration:**|PT10M |
+> |**Duration:**|10 Minutes |
 > |**Concentration:**|x |
 > |**Attack/Save:**|CON|
 > |**Spell List:**|Arcane |

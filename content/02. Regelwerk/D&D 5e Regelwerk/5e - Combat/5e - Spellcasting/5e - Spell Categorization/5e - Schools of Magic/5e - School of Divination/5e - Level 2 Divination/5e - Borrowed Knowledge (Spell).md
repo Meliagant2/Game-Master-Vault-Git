@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Borrowed Knowledge
 created: 2026-09-08T14:39:18.392+02:00
-modified: 2026-09-08T14:41:27.964+02:00
-published: 2026-09-08T14:41:27.964+02:00
+modified: 2026-09-29T09:08:50.511+02:00
+published: 2026-09-29T09:08:50.511+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 2
 time: A
 range-Area: Self
 komponenten: V, S, M (a book worth 25+ SP)
-dauer: 1 hour
+dauer: 1 Hour
 effect:
   - Utility
   - Proficiency
@@ -40,7 +40,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|Self |
 > |**Components:**|V, S, M (a book worth 25+ SP) |
-> |**Duration:**|PT1H |
+> |**Duration:**|1 Hour |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Divine,Occult |

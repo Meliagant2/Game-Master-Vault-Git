@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Helpful Homunculi
 created: 2026-09-08T13:50:56.741+02:00
-modified: 2026-09-25T08:47:04.141+02:00
-published: 2026-09-25T08:47:04.141+02:00
+modified: 2026-09-29T09:06:19.729+02:00
+published: 2026-09-29T09:06:19.729+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 2
 time: A [R]
 range-Area: Self
 komponenten: V, S, M (powdered gemstones worth 100+ SP, which the spell consumes, and one set of Artisan's Tools with which you have proficiency)
-dauer: 8 hours
+dauer: 8 Hours
 effect:
   - Summoning
   - Utility
@@ -41,7 +41,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A \[R]  |
 > |**Range/Area:**|Self |
 > |**Components:**|V, S, M (powdered gemstones worth 100+ SP, which the spell consumes, and one set of Artisan's Tools with which you have proficiency) |
-> |**Duration:**|PT8H |
+> |**Duration:**|8 Hours |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane,Divine |

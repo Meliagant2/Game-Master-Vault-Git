@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Spike Growth
 created: 2026-09-09T13:23:33.186+02:00
-modified: 2026-09-09T13:26:16.592+02:00
-published: 2026-09-09T13:26:16.592+02:00
+modified: 2026-09-29T09:20:05.346+02:00
+published: 2026-09-29T09:20:05.346+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 2
 time: A
 range-Area: 150 ft. (20 ft. Sphere)
 komponenten: V, S, M (seven thorns)
-dauer: 10 minutes
+dauer: 10 Minutes
 effect:
   - Difficult Terrain
   - Piercing
@@ -39,7 +39,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|150 ft. (20 ft. Sphere) |
 > |**Components:**|V, S, M (seven thorns) |
-> |**Duration:**|PT10M |
+> |**Duration:**|10 Minutes |
 > |**Concentration:**|x |
 > |**Attack/Save:**||
 > |**Spell List:**|Primal |

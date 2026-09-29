@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Flame Blade
 created: 2026-09-09T09:08:17.754+02:00
-modified: 2026-09-09T09:25:16.764+02:00
-published: 2026-09-09T09:25:16.764+02:00
+modified: 2026-09-29T09:13:09.756+02:00
+published: 2026-09-29T09:13:09.756+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 2
 time: BA
 range-Area: Self
 komponenten: V, S, M (a sumac leaf)
-dauer: 10 minutes
+dauer: 10 Minutes
 save-Att: Melee
 effect:
   - Fire
@@ -39,7 +39,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|BA  |
 > |**Range/Area:**|Self |
 > |**Components:**|V, S, M (a sumac leaf) |
-> |**Duration:**|PT10M |
+> |**Duration:**|10 Minutes |
 > |**Concentration:**|x |
 > |**Attack/Save:**|Melee|
 > |**Spell List:**|Primal |

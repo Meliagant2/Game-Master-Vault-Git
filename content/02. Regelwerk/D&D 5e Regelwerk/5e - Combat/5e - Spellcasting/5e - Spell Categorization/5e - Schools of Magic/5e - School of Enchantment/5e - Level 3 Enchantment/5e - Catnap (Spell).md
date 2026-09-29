@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Catnap
 created: 2026-09-14T13:08:55.453+02:00
-modified: 2026-09-14T13:11:31.013+02:00
-published: 2026-09-14T13:11:31.013+02:00
+modified: 2026-09-29T09:10:56.404+02:00
+published: 2026-09-29T09:10:56.404+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 3
 time: A
 range-Area: 30 ft.
 komponenten: S, M (a pinch of sand)
-dauer: 10 minutes
+dauer: 10 Minutes
 effect:
   - Utility
 zauberliste:
@@ -38,7 +38,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|30 ft. |
 > |**Components:**|S, M (a pinch of sand) |
-> |**Duration:**|PT10M |
+> |**Duration:**|10 Minutes |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane |

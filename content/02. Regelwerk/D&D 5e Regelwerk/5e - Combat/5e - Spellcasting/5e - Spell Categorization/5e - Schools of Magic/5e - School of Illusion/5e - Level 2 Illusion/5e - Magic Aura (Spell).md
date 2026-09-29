@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Magic Aura
 created: 2026-08-18T16:08:34.758+02:00
-modified: 2026-09-09T11:03:23.558+02:00
-published: 2026-09-09T11:03:23.558+02:00
+modified: 2026-09-29T09:15:55.718+02:00
+published: 2026-09-29T09:15:55.718+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 2
 time: A
 range-Area: Touch
 komponenten: V, S, M (a small square of silk)
-dauer: 24 hours
+dauer: 24 Hours
 effect:
   - Detection
 zauberliste:
@@ -38,7 +38,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|Touch |
 > |**Components:**|V, S, M (a small square of silk) |
-> |**Duration:**|PT24H |
+> |**Duration:**|24 Hours |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane |

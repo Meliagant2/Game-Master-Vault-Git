@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Water Walk
 created: 2026-07-22T11:13:18.225+02:00
-modified: 2026-09-14T16:29:08.751+02:00
-published: 2026-09-14T16:29:08.751+02:00
+modified: 2026-09-29T09:20:43.722+02:00
+published: 2026-09-29T09:20:43.722+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 3
 time: A [R]
 range-Area: 30 ft.
 komponenten: V, S, M (a piece of cork)
-dauer: 1 hour
+dauer: 1 Hour
 effect:
   - Utility
   - Ritual
@@ -40,7 +40,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A \[R]  |
 > |**Range/Area:**|30 ft. |
 > |**Components:**|V, S, M (a piece of cork) |
-> |**Duration:**|PT1H |
+> |**Duration:**|1 Hour |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Divine,Primal |

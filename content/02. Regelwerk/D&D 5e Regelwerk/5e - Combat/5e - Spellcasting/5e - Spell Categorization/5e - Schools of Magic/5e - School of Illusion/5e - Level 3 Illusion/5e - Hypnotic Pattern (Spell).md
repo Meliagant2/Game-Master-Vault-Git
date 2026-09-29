@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Hypnotic Pattern
 created: 2026-07-28T11:34:06.291+02:00
-modified: 2026-09-16T10:37:05.789+02:00
-published: 2026-09-16T10:37:05.789+02:00
+modified: 2026-09-29T09:16:17.063+02:00
+published: 2026-09-29T09:16:17.063+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 3
 time: A
 range-Area: 120 ft. (15 ft. Sphere)
 komponenten: S, M (a pinch of confetti)
-dauer: 1 minute
+dauer: 1 Minute
 save-Att: WIS
 effect:
   - Charmed
@@ -41,7 +41,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|120 ft. (15 ft. Sphere) |
 > |**Components:**|S, M (a pinch of confetti) |
-> |**Duration:**|PT1M |
+> |**Duration:**|1 Minute |
 > |**Concentration:**|x |
 > |**Attack/Save:**|WIS|
 > |**Spell List:**|Arcane,Occult |

@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Encode Thoughts
 created: 2026-07-29T13:17:10.636+02:00
-modified: 2026-09-08T15:59:57.755+02:00
-published: 2026-09-08T15:59:57.755+02:00
+modified: 2026-09-29T09:09:43.185+02:00
+published: 2026-09-29T09:09:43.185+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -17,7 +17,7 @@ level: 0
 time: A
 range-Area: Self
 komponenten: S
-dauer: 8h
+dauer: 8 Hours
 c: " "
 effect:
   - Utility
@@ -38,7 +38,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|Self |
 > |**Components:**|S |
-> |**Duration:**|PT8H |
+> |**Duration:**|8 Hours |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane |

@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Illusory Script
 created: 2026-07-21T11:02:16.216+02:00
-modified: 2026-09-07T13:48:50.293+02:00
-published: 2026-09-07T13:48:50.293+02:00
+modified: 2026-09-29T09:15:37.456+02:00
+published: 2026-09-29T09:15:37.456+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -18,7 +18,7 @@ level: 1
 time: 1m [R]
 range-Area: Touch
 komponenten: S, M (a lead-based ink worth at least 10sp, which the spell consumes)
-dauer: 10 days
+dauer: 10 Days
 effect:
   - Communication
   - Ritual
@@ -40,7 +40,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|1m \[R]  |
 > |**Range/Area:**|Touch |
 > |**Components:**|S, M (a lead-based ink worth at least 10sp, which the spell consumes) |
-> |**Duration:**|P10D |
+> |**Duration:**|10 Days |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane,Occult |

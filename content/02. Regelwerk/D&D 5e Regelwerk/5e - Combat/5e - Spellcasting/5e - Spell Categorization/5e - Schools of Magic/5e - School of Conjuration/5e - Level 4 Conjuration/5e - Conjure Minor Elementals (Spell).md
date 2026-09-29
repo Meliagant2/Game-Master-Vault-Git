@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Conjure Minor Elementals
 created: 2026-08-18T16:01:22.456+02:00
-modified: 2026-09-15T09:32:31.090+02:00
-published: 2026-09-15T09:32:31.090+02:00
+modified: 2026-09-29T09:07:20.735+02:00
+published: 2026-09-29T09:07:20.735+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 4
 time: A
 range-Area: Self (15 ft. Emanation)
 komponenten: V, S
-dauer: 10 minutes
+dauer: 10 Minutes
 effect:
   - Acid
   - Cold
@@ -42,7 +42,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|Self (15 ft. Emanation) |
 > |**Components:**|V, S |
-> |**Duration:**|PT10M |
+> |**Duration:**|10 Minutes |
 > |**Concentration:**|x |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane,Primal |

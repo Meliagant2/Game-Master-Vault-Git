@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Disguise Self
 created: 2026-07-20T17:49:52.862+02:00
-modified: 2026-09-08T16:02:43.227+02:00
-published: 2026-09-08T16:02:43.227+02:00
+modified: 2026-09-29T09:15:29.109+02:00
+published: 2026-09-29T09:15:29.109+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -18,7 +18,7 @@ level: 1
 time: A
 range-Area: Self
 komponenten: V, S
-dauer: 1h
+dauer: 1 Hour
 effect:
   - Utility
   - Social
@@ -40,7 +40,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|Self |
 > |**Components:**|V, S |
-> |**Duration:**|PT1H |
+> |**Duration:**|1 Hour |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane,Occult |

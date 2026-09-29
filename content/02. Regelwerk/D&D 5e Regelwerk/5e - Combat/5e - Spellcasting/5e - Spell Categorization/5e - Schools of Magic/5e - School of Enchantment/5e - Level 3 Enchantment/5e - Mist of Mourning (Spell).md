@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Mist of Mourning
 created: 2026-09-14T13:25:11.871+02:00
-modified: 2026-09-14T13:28:11.833+02:00
-published: 2026-09-14T13:28:11.833+02:00
+modified: 2026-09-29T09:11:13.843+02:00
+published: 2026-09-29T09:11:13.843+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 3
 time: A
 range-Area: 60 ft. (20 ft. Sphere)
 komponenten: V, S, M (a vial of tears)
-dauer: 10 minutes
+dauer: 10 Minutes
 save-Att: CHA
 effect:
   - Hindered
@@ -42,7 +42,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|60 ft. (20 ft. Sphere) |
 > |**Components:**|V, S, M (a vial of tears) |
-> |**Duration:**|PT10M |
+> |**Duration:**|10 Minutes |
 > |**Concentration:**|x |
 > |**Attack/Save:**|CHA|
 > |**Spell List:**|Arcane,Occult |

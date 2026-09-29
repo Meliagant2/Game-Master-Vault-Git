@@ -3,8 +3,8 @@ publish: true
 title: 🤺5e - Soaring Phoenix
 description: Fire
 created: 2026-08-17T11:33:52.341+02:00
-modified: 2026-09-28T11:05:13.958+02:00
-published: 2026-09-28T11:05:13.958+02:00
+modified: 2026-09-29T08:50:15.709+02:00
+published: 2026-09-29T08:50:15.709+02:00
 tags:
   - "#Combatrules"
   - "#5e"
@@ -54,7 +54,7 @@ views:
         direction: ASC
     columnSize:
       formula.Maneuver: 225
-      note.degree: 26
+      note.degree: 15
       note.exertioncost: 81
       note.time: 108
       note.range-Area: 119

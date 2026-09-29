@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Earthen Grasp
 created: 2026-09-15T08:14:38.296+02:00
-modified: 2026-09-22T09:36:26.522+02:00
-published: 2026-09-22T09:36:26.522+02:00
+modified: 2026-09-29T09:19:31.813+02:00
+published: 2026-09-29T09:19:31.813+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 2
 time: A
 range-Area: 30 ft.
 komponenten: V, S, M (a miniature hand sculpted from clay)
-dauer: 1 minute
+dauer: 1 Minute
 save-Att: STR
 effect:
   - Bludgeoning
@@ -41,7 +41,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|30 ft. |
 > |**Components:**|V, S, M (a miniature hand sculpted from clay) |
-> |**Duration:**|PT1M |
+> |**Duration:**|1 Minute |
 > |**Concentration:**|x |
 > |**Attack/Save:**|STR|
 > |**Spell List:**|Arcane,Primal |

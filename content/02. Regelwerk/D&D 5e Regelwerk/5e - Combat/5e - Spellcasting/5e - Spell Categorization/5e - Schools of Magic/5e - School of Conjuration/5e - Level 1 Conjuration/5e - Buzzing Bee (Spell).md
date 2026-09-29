@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Buzzing Bee
 created: 2026-09-07T12:45:47.886+02:00
-modified: 2026-09-07T12:49:06.548+02:00
-published: 2026-09-07T12:49:06.548+02:00
+modified: 2026-09-29T09:05:33.308+02:00
+published: 2026-09-29T09:05:33.308+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 1
 time: A
 range-Area: 120 ft.
 komponenten: V, S, M (a dab of honey)
-dauer: 1 minute
+dauer: 1 Minute
 effect:
   - Debuff
 zauberliste:
@@ -39,7 +39,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|120 ft. |
 > |**Components:**|V, S, M (a dab of honey) |
-> |**Duration:**|PT1M |
+> |**Duration:**|1 Minute |
 > |**Concentration:**|x |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane,Primal |

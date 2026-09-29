@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Blazing Stride
 created: 2026-09-14T15:56:49.984+02:00
-modified: 2026-09-14T16:00:05.942+02:00
-published: 2026-09-14T16:00:05.942+02:00
+modified: 2026-09-29T09:20:14.911+02:00
+published: 2026-09-29T09:20:14.911+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 3
 time: BA
 range-Area: Self
 komponenten: V, S
-dauer: 1 minute
+dauer: 1 Minute
 effect:
   - Movement
   - Fire
@@ -40,7 +40,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|BA  |
 > |**Range/Area:**|Self |
 > |**Components:**|V, S |
-> |**Duration:**|PT1M |
+> |**Duration:**|1 Minute |
 > |**Concentration:**|x |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane,Primal |

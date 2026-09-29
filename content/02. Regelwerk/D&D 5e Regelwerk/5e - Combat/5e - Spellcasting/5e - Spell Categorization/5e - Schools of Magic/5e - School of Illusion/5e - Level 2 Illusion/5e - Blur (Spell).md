@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Blur
 created: 2026-09-09T10:49:07.753+02:00
-modified: 2026-09-09T10:58:58.010+02:00
-published: 2026-09-09T10:58:58.010+02:00
+modified: 2026-09-29T09:15:49.399+02:00
+published: 2026-09-29T09:15:49.399+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 2
 time: A
 range-Area: Self
 komponenten: V
-dauer: 1 minute
+dauer: 1 Minute
 effect:
   - DISADV
 zauberliste:
@@ -38,7 +38,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|Self |
 > |**Components:**|V |
-> |**Duration:**|PT1M |
+> |**Duration:**|1 Minute |
 > |**Concentration:**|x |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane |

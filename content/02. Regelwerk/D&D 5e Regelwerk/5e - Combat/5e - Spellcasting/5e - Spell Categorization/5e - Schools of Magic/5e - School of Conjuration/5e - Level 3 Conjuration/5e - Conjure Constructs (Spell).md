@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Conjure Constructs
 created: 2026-09-14T11:19:34.053+02:00
-modified: 2026-09-14T11:27:12.023+02:00
-published: 2026-09-14T11:27:12.023+02:00
+modified: 2026-09-29T09:06:42.363+02:00
+published: 2026-09-29T09:06:42.363+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 3
 time: A
 range-Area: 60 ft.
 komponenten: V, S, M (a brass cog)
-dauer: 10 minutes
+dauer: 10 Minutes
 save-Att: DEX
 effect:
   - Force
@@ -40,7 +40,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|60 ft. |
 > |**Components:**|V, S, M (a brass cog) |
-> |**Duration:**|PT10M |
+> |**Duration:**|10 Minutes |
 > |**Concentration:**|x |
 > |**Attack/Save:**|DEX|
 > |**Spell List:**|Arcane |

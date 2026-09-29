@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Animal Messenger
 created: 2026-08-18T15:46:11.991+02:00
-modified: 2026-09-08T15:15:53.767+02:00
-published: 2026-09-08T15:15:53.767+02:00
+modified: 2026-09-29T09:10:20.700+02:00
+published: 2026-09-29T09:10:20.700+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 2
 time: A [R]
 range-Area: 30 ft.
 komponenten: V, S, M (a morsel of food)
-dauer: 24 hours
+dauer: 24 Hours
 save-Att: CHA
 effect:
   - Communication
@@ -40,7 +40,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A \[R]  |
 > |**Range/Area:**|30 ft. |
 > |**Components:**|V, S, M (a morsel of food) |
-> |**Duration:**|PT24H |
+> |**Duration:**|24 Hours |
 > |**Concentration:**|  |
 > |**Attack/Save:**|CHA|
 > |**Spell List:**|Primal |

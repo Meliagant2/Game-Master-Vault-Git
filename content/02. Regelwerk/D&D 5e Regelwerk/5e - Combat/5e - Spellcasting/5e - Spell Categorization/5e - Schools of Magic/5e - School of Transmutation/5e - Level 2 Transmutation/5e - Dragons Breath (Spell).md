@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Dragons Breath
 created: 2026-09-09T12:04:52.233+02:00
-modified: 2026-09-09T12:08:04.412+02:00
-published: 2026-09-09T12:08:04.412+02:00
+modified: 2026-09-29T09:19:28.611+02:00
+published: 2026-09-29T09:19:28.611+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 2
 time: BA
 range-Area: Touch
 komponenten: V, S, M (a hot pepper)
-dauer: 1 minute
+dauer: 1 Minute
 save-Att: DEX
 effect:
   - Acid
@@ -43,7 +43,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|BA  |
 > |**Range/Area:**|Touch |
 > |**Components:**|V, S, M (a hot pepper) |
-> |**Duration:**|PT1M |
+> |**Duration:**|1 Minute |
 > |**Concentration:**|x |
 > |**Attack/Save:**|DEX|
 > |**Spell List:**|Arcane |

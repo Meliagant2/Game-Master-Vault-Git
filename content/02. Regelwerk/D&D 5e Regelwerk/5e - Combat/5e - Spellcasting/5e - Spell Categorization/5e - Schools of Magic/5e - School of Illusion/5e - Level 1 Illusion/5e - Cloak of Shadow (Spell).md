@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Cloak of Shadow
 created: 2026-09-07T13:40:36.211+02:00
-modified: 2026-09-07T13:42:28.537+02:00
-published: 2026-09-07T13:42:28.537+02:00
+modified: 2026-09-29T09:15:22.272+02:00
+published: 2026-09-29T09:15:22.272+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 1
 time: BA
 range-Area: Self
 komponenten: V
-dauer: 1 minute
+dauer: 1 Minute
 effect:
   - Buff
 zauberliste:
@@ -38,7 +38,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|BA  |
 > |**Range/Area:**|Self |
 > |**Components:**|V |
-> |**Duration:**|PT1M |
+> |**Duration:**|1 Minute |
 > |**Concentration:**|x |
 > |**Attack/Save:**||
 > |**Spell List:**|Occult |

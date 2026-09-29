@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Chain of Conviction
 created: 2026-09-09T15:35:36.694+02:00
-modified: 2026-09-09T15:40:23.753+02:00
-published: 2026-09-09T15:40:23.753+02:00
+modified: 2026-09-29T09:06:10.419+02:00
+published: 2026-09-29T09:06:10.419+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 2
 time: BA
 range-Area: 30 ft.
 komponenten: S
-dauer: 1 minute
+dauer: 1 Minute
 save-Att: STR
 effect:
   - Force
@@ -43,7 +43,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|BA  |
 > |**Range/Area:**|30 ft. |
 > |**Components:**|S |
-> |**Duration:**|PT1M |
+> |**Duration:**|1 Minute |
 > |**Concentration:**|  |
 > |**Attack/Save:**|STR|
 > |**Spell List:**|Divine,Occult |

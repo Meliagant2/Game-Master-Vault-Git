@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Silence
 created: 2026-08-18T15:46:31.110+02:00
-modified: 2026-09-09T14:20:32.656+02:00
-published: 2026-09-09T14:20:32.656+02:00
+modified: 2026-09-29T09:16:08.300+02:00
+published: 2026-09-29T09:16:08.300+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 2
 time: A [R]
 range-Area: 120 ft. (20 ft. Sphere)
 komponenten: V, S
-dauer: 10 minutes
+dauer: 10 Minutes
 effect:
   - Silenced
   - Ritual
@@ -40,7 +40,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A \[R]  |
 > |**Range/Area:**|120 ft. (20 ft. Sphere) |
 > |**Components:**|V, S |
-> |**Duration:**|PT10M |
+> |**Duration:**|10 Minutes |
 > |**Concentration:**|x |
 > |**Attack/Save:**||
 > |**Spell List:**|Divine,Primal |

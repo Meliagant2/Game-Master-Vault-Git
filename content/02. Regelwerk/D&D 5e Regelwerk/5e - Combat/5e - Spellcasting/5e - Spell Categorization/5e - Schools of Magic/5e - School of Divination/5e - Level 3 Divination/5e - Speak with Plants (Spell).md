@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Speak with Animals
 created: 2026-08-18T15:07:08.924+02:00
-modified: 2026-09-14T13:02:38.519+02:00
-published: 2026-09-14T13:02:38.519+02:00
+modified: 2026-09-29T09:09:21.050+02:00
+published: 2026-09-29T09:09:21.050+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 3
 time: A
 range-Area: Self (30 ft. Emanation)
 komponenten: V, S
-dauer: 10 minutes
+dauer: 10 Minutes
 effect:
   - Communication
 zauberliste:
@@ -38,7 +38,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|Self (30 ft. Emanation) |
 > |**Components:**|V, S |
-> |**Duration:**|PT10M |
+> |**Duration:**|10 Minutes |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Primal |

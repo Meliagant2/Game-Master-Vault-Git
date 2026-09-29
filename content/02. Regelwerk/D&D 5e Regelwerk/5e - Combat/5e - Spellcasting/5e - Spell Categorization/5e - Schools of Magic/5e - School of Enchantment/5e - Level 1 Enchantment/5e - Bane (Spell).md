@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Bane
 created: 2026-07-28T14:10:59.999+02:00
-modified: 2026-09-07T13:29:51.865+02:00
-published: 2026-09-07T13:29:51.865+02:00
+modified: 2026-09-29T09:09:58.488+02:00
+published: 2026-09-29T09:09:58.488+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -18,7 +18,7 @@ level: 1
 time: A
 range-Area: 30 ft.
 komponenten: V, S, M (a drop of blood)
-dauer: 1 minute
+dauer: 1 Minute
 save-Att: CHA
 effect:
   - Debuff
@@ -41,7 +41,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|30 ft. |
 > |**Components:**|V, S, M (a drop of blood) |
-> |**Duration:**|PT1M |
+> |**Duration:**|1 Minute |
 > |**Concentration:**|x |
 > |**Attack/Save:**|CHA|
 > |**Spell List:**|Divine,Occult |

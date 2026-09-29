@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Confusion
 created: 2026-07-23T12:07:49.873+02:00
-modified: 2026-09-15T11:17:09.830+02:00
-published: 2026-09-15T11:17:09.830+02:00
+modified: 2026-09-29T09:11:22.894+02:00
+published: 2026-09-29T09:11:22.894+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 4
 time: A
 range-Area: 90 ft. (10 ft. Sphere)
 komponenten: V, S, M (three nut shells)
-dauer: 1 minute
+dauer: 1 Minute
 save-Att: WIS
 effect:
   - Confused
@@ -41,7 +41,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|90 ft. (10 ft. Sphere) |
 > |**Components:**|V, S, M (three nut shells) |
-> |**Duration:**|PT1M |
+> |**Duration:**|1 Minute |
 > |**Concentration:**|x |
 > |**Attack/Save:**|WIS|
 > |**Spell List:**|Arcane,Occult,Primal |

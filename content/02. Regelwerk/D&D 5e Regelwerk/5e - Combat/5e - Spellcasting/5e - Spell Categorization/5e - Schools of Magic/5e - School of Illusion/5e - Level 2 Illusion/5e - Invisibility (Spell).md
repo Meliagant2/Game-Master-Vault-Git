@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Invisibility
 created: 2026-07-20T12:11:02.794+02:00
-modified: 2026-09-18T15:02:18.326+02:00
-published: 2026-09-18T15:02:18.326+02:00
+modified: 2026-09-29T09:15:52.924+02:00
+published: 2026-09-29T09:15:52.924+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 2
 time: A
 range-Area: Touch
 komponenten: V, S, M (an eyelash in gum arabic)
-dauer: 1 hour
+dauer: 1 Hour
 effect:
   - Invisible
 zauberliste:
@@ -39,7 +39,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|Touch |
 > |**Components:**|V, S, M (an eyelash in gum arabic) |
-> |**Duration:**|PT1H |
+> |**Duration:**|1 Hour |
 > |**Concentration:**|x |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane,Occult |

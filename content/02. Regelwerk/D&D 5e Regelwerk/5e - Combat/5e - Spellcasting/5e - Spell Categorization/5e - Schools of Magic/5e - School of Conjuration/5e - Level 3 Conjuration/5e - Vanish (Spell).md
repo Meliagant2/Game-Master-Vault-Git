@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Vanish
 created: 2026-09-14T10:56:02.739+02:00
-modified: 2026-09-14T11:00:00.302+02:00
-published: 2026-09-14T11:00:00.302+02:00
+modified: 2026-09-29T09:07:14.952+02:00
+published: 2026-09-29T09:07:14.952+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 3
 time: R
 range-Area: Self
 komponenten: S, M (a piece of Delerium worth 10+ SP)
-dauer: 1 round
+dauer: 1 Round
 effect:
   - Teleportation
 zauberliste:
@@ -38,7 +38,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|R (You take damage)|
 > |**Range/Area:**|Self |
 > |**Components:**|S, M (a piece of Delerium worth 10+ SP) |
-> |**Duration:**|1 round |
+> |**Duration:**|1 Round |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Occult |

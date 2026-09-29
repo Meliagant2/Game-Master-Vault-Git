@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Moonbeam
 created: 2026-07-28T11:47:02.399+02:00
-modified: 2026-09-15T13:25:30.521+02:00
-published: 2026-09-15T13:25:30.521+02:00
+modified: 2026-09-29T09:13:14.863+02:00
+published: 2026-09-29T09:13:14.863+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 2
 time: A
 range-Area: 120 ft. (5 ft. Cylinder)
 komponenten: V, S, M (a moonseed leaf)
-dauer: 1 minute
+dauer: 1 Minute
 save-Att: CON
 effect:
   - Radiant
@@ -39,7 +39,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|120 ft. (5 ft. Cylinder) |
 > |**Components:**|V, S, M (a moonseed leaf) |
-> |**Duration:**|PT1M |
+> |**Duration:**|1 Minute |
 > |**Concentration:**|x |
 > |**Attack/Save:**|CON|
 > |**Spell List:**|Primal |

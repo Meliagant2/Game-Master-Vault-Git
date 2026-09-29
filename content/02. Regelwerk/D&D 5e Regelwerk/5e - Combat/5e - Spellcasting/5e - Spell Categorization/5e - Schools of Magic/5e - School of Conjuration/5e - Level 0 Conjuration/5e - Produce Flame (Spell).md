@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Produce Flame
 created: 2026-07-20T12:11:02.720+02:00
-modified: 2026-09-23T13:55:04.664+02:00
-published: 2026-09-23T13:55:04.664+02:00
+modified: 2026-09-29T09:05:25.183+02:00
+published: 2026-09-29T09:05:25.183+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -18,7 +18,7 @@ level: 0
 time: BA
 range-Area: Self
 komponenten: V, S
-dauer: 10m
+dauer: 10 Minutes
 c: " "
 effect:
   - Fire
@@ -41,7 +41,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|BA  |
 > |**Range/Area:**|Self |
 > |**Components:**|V, S |
-> |**Duration:**|PT10M |
+> |**Duration:**|10 Minutes |
 > |**Concentration:**|  |
 > |**Attack/Save:**|DEX|
 > |**Spell List:**|Divine,Primal |

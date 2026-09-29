@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Acidic Fumes
 created: 2026-09-08T10:08:06.315+02:00
-modified: 2026-09-14T13:52:36.949+02:00
-published: 2026-09-14T13:52:36.949+02:00
+modified: 2026-09-29T09:18:35.172+02:00
+published: 2026-09-29T09:18:35.172+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 1
 time: A
 range-Area: Self (15 ft. Cone)
 komponenten: V, S
-dauer: 1 round
+dauer: 1 Round
 save-Att: CON
 effect:
   - Acid
@@ -40,7 +40,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|Self (15 ft. Cone) |
 > |**Components:**|V, S |
-> |**Duration:**|1 round |
+> |**Duration:**|1 Round |
 > |**Concentration:**|  |
 > |**Attack/Save:**|CON|
 > |**Spell List:**|Arcane,Occult |

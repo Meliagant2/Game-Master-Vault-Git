@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Conjure Animals
 created: 2026-08-18T15:13:49.772+02:00
-modified: 2026-09-14T12:01:26.050+02:00
-published: 2026-09-14T12:01:26.050+02:00
+modified: 2026-09-29T09:06:39.394+02:00
+published: 2026-09-29T09:06:39.394+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 3
 time: A
 range-Area: 60 ft.
 komponenten: V, S
-dauer: 10 minutes
+dauer: 10 Minutes
 save-Att: DEX
 effect:
   - Slashing
@@ -40,7 +40,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|60 ft. |
 > |**Components:**|V, S |
-> |**Duration:**|PT10M |
+> |**Duration:**|10 Minutes |
 > |**Concentration:**|x |
 > |**Attack/Save:**|DEX|
 > |**Spell List:**|Primal |

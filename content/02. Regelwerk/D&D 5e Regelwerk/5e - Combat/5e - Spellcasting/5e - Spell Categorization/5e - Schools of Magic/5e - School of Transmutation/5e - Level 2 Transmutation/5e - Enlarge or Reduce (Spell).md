@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Enlarge or Reduce
 created: 2026-09-09T12:10:59.485+02:00
-modified: 2026-09-09T12:15:07.302+02:00
-published: 2026-09-09T12:15:07.302+02:00
+modified: 2026-09-29T09:19:36.613+02:00
+published: 2026-09-29T09:19:36.613+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 2
 time: A
 range-Area: 30 ft.
 komponenten: V, S, M (a pinch of powdered iron)
-dauer: 1 minute
+dauer: 1 Minute
 save-Att: CON
 effect:
   - Buff
@@ -41,7 +41,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|30 ft. |
 > |**Components:**|V, S, M (a pinch of powdered iron) |
-> |**Duration:**|PT1M |
+> |**Duration:**|1 Minute |
 > |**Concentration:**|x |
 > |**Attack/Save:**|CON|
 > |**Spell List:**|Arcane,Primal |

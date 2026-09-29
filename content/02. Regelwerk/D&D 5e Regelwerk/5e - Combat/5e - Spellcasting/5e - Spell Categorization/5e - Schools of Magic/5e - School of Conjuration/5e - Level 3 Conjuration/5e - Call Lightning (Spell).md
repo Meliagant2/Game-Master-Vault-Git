@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Call Lightning
 created: 2026-07-28T12:47:31.252+02:00
-modified: 2026-09-14T11:12:28.250+02:00
-published: 2026-09-14T11:12:28.250+02:00
+modified: 2026-09-29T09:06:34.588+02:00
+published: 2026-09-29T09:06:34.588+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 3
 time: A
 range-Area: 120 ft. (60 ft. Cylinder)
 komponenten: V, S
-dauer: 10 minutes
+dauer: 10 Minutes
 save-Att: DEX
 effect:
   - Lightning
@@ -39,7 +39,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|120 ft. (60 ft. Cylinder) |
 > |**Components:**|V, S |
-> |**Duration:**|PT10M |
+> |**Duration:**|10 Minutes |
 > |**Concentration:**|x |
 > |**Attack/Save:**|DEX|
 > |**Spell List:**|Primal |

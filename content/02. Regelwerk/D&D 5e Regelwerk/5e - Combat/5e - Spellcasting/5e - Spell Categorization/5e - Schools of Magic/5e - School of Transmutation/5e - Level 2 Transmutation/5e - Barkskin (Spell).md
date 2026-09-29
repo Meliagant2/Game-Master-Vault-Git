@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Barkskin
 created: 2026-08-26T15:47:18.363+02:00
-modified: 2026-09-09T14:18:08.607+02:00
-published: 2026-09-09T14:18:08.607+02:00
+modified: 2026-09-29T09:19:16.161+02:00
+published: 2026-09-29T09:19:16.161+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 2
 time: BA
 range-Area: Touch
 komponenten: V, S, M (a handful of oak bark)
-dauer: 1 hour
+dauer: 1 Hour
 effect:
   - AC
 zauberliste:
@@ -38,7 +38,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|BA  |
 > |**Range/Area:**|Touch |
 > |**Components:**|V, S, M (a handful of oak bark) |
-> |**Duration:**|PT1H |
+> |**Duration:**|1 Hour |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Primal |

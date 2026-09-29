@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Grasping Ghost
 created: 2026-09-09T11:28:07.567+02:00
-modified: 2026-09-09T11:33:31.677+02:00
-published: 2026-09-09T11:33:31.677+02:00
+modified: 2026-09-29T09:17:29.031+02:00
+published: 2026-09-29T09:17:29.031+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 2
 time: A
 range-Area: 60 ft.
 komponenten: S, M (a finger bone and a scrap of fabric)
-dauer: 1 round
+dauer: 1 Round
 save-Att: STR
 effect:
   - Necrotic
@@ -41,7 +41,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|60 ft. |
 > |**Components:**|S, M (a finger bone and a scrap of fabric) |
-> |**Duration:**|1 round |
+> |**Duration:**|1 Round |
 > |**Concentration:**|  |
 > |**Attack/Save:**|STR|
 > |**Spell List:**|Divine,Occult |

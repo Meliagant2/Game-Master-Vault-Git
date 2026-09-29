@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Haste
 created: 2026-07-23T11:44:29.104+02:00
-modified: 2026-09-16T10:35:22.356+02:00
-published: 2026-09-16T10:35:22.356+02:00
+modified: 2026-09-29T09:20:28.824+02:00
+published: 2026-09-29T09:20:28.824+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 3
 time: A
 range-Area: 30 ft.
 komponenten: V, S, M (a shaving of licorice root)
-dauer: 1 minute
+dauer: 1 Minute
 effect:
   - Buff
   - Movement
@@ -40,7 +40,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|30 ft. |
 > |**Components:**|V, S, M (a shaving of licorice root) |
-> |**Duration:**|PT1M |
+> |**Duration:**|1 Minute |
 > |**Concentration:**|x |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane |

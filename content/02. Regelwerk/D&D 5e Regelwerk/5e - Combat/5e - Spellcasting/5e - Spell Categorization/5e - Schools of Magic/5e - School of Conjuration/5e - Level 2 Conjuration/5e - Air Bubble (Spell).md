@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Air Bubble
 created: 2026-09-08T13:29:45.379+02:00
-modified: 2026-09-08T13:31:38.655+02:00
-published: 2026-09-08T13:31:38.655+02:00
+modified: 2026-09-29T09:06:03.443+02:00
+published: 2026-09-29T09:06:03.443+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 2
 time: A
 range-Area: 60 ft.
 komponenten: S
-dauer: 24 hours
+dauer: 24 Hours
 effect:
   - Exploration
 zauberliste:
@@ -39,7 +39,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|60 ft. |
 > |**Components:**|S |
-> |**Duration:**|PT24H |
+> |**Duration:**|24 Hours |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane,Primal |

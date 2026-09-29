@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Feign Death
 created: 2026-09-14T15:21:00.764+02:00
-modified: 2026-09-16T10:34:37.309+02:00
-published: 2026-09-16T10:34:37.309+02:00
+modified: 2026-09-29T09:17:45.598+02:00
+published: 2026-09-29T09:17:45.598+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 3
 time: A [R]
 range-Area: Touch
 komponenten: V, S, M (a pinch of graveyard dirt)
-dauer: 1 hour
+dauer: 1 Hour
 effect:
   - Utility
   - Ritual
@@ -41,7 +41,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A \[R]  |
 > |**Range/Area:**|Touch |
 > |**Components:**|V, S, M (a pinch of graveyard dirt) |
-> |**Duration:**|PT1H |
+> |**Duration:**|1 Hour |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane,Divine,Primal |

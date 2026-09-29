@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Fortunes Favor
 created: 2026-09-08T14:49:29.311+02:00
-modified: 2026-09-08T14:52:36.825+02:00
-published: 2026-09-08T14:52:36.825+02:00
+modified: 2026-09-29T09:08:56.306+02:00
+published: 2026-09-29T09:08:56.306+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 2
 time: 1m
 range-Area: 60 ft.
 komponenten: V, S, M (a white pearl worth 100+ SP)
-dauer: 1 hour
+dauer: 1 Hour
 effect:
   - ADV
 zauberliste:
@@ -38,7 +38,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|PT1M  |
 > |**Range/Area:**|60 ft. |
 > |**Components:**|V, S, M (a white pearl worth 100+ SP) |
-> |**Duration:**|PT1H |
+> |**Duration:**|1 Hour |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Occult |

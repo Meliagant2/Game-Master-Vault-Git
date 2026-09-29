@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Festering Blast
 created: 2026-09-15T13:00:07.075+02:00
-modified: 2026-09-15T13:03:38.941+02:00
-published: 2026-09-15T13:03:38.941+02:00
+modified: 2026-09-29T09:17:59.543+02:00
+published: 2026-09-29T09:17:59.543+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 4
 time: A
 range-Area: Self (60 ft. Line)
 komponenten: V, S
-dauer: 1 minute
+dauer: 1 Minute
 save-Att: CON
 effect:
   - Necrotic
@@ -42,7 +42,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|Self (60 ft. Line) |
 > |**Components:**|V, S |
-> |**Duration:**|PT1M |
+> |**Duration:**|1 Minute |
 > |**Concentration:**|  |
 > |**Attack/Save:**|CON|
 > |**Spell List:**|Arcane,Occult,Primal |

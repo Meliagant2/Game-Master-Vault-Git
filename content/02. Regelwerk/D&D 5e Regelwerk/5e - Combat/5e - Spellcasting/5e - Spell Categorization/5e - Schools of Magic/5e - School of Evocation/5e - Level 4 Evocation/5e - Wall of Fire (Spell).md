@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Wall of Fire
 created: 2026-09-15T12:23:42.792+02:00
-modified: 2026-09-15T12:26:00.802+02:00
-published: 2026-09-15T12:26:00.802+02:00
+modified: 2026-09-29T09:14:18.113+02:00
+published: 2026-09-29T09:14:18.113+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 4
 time: A
 range-Area: 120 ft.
 komponenten: V, S, M (a piece of charcoal)
-dauer: 1 minute
+dauer: 1 Minute
 save-Att: DEX
 effect:
   - Fire
@@ -40,7 +40,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|120 ft. |
 > |**Components:**|V, S, M (a piece of charcoal) |
-> |**Duration:**|PT1M |
+> |**Duration:**|1 Minute |
 > |**Concentration:**|x |
 > |**Attack/Save:**|DEX|
 > |**Spell List:**|Arcane,Primal |

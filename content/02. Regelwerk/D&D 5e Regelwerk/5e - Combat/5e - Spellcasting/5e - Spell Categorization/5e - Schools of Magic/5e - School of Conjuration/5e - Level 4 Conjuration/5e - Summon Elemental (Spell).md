@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Summon Elemental
 created: 2026-09-15T10:56:00.368+02:00
-modified: 2026-09-15T11:00:10.416+02:00
-published: 2026-09-15T11:00:10.416+02:00
+modified: 2026-09-29T09:07:50.152+02:00
+published: 2026-09-29T09:07:50.152+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 4
 time: A
 range-Area: 90 ft.
 komponenten: V, S
-dauer: 1 hour
+dauer: 1 Hour
 effect:
   - Summoning
 zauberliste:
@@ -39,7 +39,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|90 ft. |
 > |**Components:**|V, S |
-> |**Duration:**|PT1H |
+> |**Duration:**|1 Hour |
 > |**Concentration:**|x |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane,Primal |

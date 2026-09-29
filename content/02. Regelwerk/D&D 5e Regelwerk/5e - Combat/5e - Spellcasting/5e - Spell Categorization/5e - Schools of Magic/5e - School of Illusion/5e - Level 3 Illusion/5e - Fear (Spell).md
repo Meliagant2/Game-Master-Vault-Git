@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Fear
 created: 2026-07-21T10:59:03.521+02:00
-modified: 2026-09-14T14:45:43.801+02:00
-published: 2026-09-14T14:45:43.801+02:00
+modified: 2026-09-29T09:16:14.812+02:00
+published: 2026-09-29T09:16:14.812+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 3
 time: A
 range-Area: Self (30 ft. Cone)
 komponenten: V, S, M (a white feather)
-dauer: 1 minute
+dauer: 1 Minute
 save-Att: WIS
 effect:
   - Terrified
@@ -40,7 +40,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|A  |
 > |**Range/Area:**|Self (30 ft. Cone) |
 > |**Components:**|V, S, M (a white feather) |
-> |**Duration:**|PT1M |
+> |**Duration:**|1 Minute |
 > |**Concentration:**|x |
 > |**Attack/Save:**|WIS|
 > |**Spell List:**|Arcane,Occult |

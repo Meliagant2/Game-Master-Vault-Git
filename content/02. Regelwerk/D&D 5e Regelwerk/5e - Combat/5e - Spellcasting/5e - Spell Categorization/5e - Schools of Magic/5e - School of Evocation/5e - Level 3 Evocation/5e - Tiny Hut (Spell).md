@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Tiny Hut
 created: 2026-08-18T15:25:00.215+02:00
-modified: 2026-09-15T09:15:59.032+02:00
-published: 2026-09-15T09:15:59.032+02:00
+modified: 2026-09-29T09:13:45.428+02:00
+published: 2026-09-29T09:13:45.428+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -19,7 +19,7 @@ level: 3
 time: 1m [R]
 range-Area: Self (10 ft. Emanation)
 komponenten: V, S, M (a crystal bead)
-dauer: 8 hours
+dauer: 8 Hours
 effect:
   - Utility
   - Ritual
@@ -39,7 +39,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Casting Time:**|1m \[R]  |
 > |**Range/Area:**|Self (10 ft. Emanation) |
 > |**Components:**|V, S, M (a crystal bead) |
-> |**Duration:**|PT8H |
+> |**Duration:**|8 Hours |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane |
