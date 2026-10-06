@@ -59,7 +59,8 @@
 	--highlight-p: #FFC107; 
 	--highlight-primary: #FFC107;
 	--highlight-red: #ff0000; 
-	--highlight-statblock: #872212; 
+	--highlight-statblock: #FFC107; 
+	--highlight-statblock-text: #FFFFFF; 
 	--highlight-table: #070070;
 	--highlight-table-header: #FFFFFF;
 	--highlight-wikibox: #737373; 
@@ -73,7 +74,7 @@
 	--custom-background-primary: #a4a1ff2a;
 	--custom-background-red: #3600003a;
 	--custom-background-signal: #F6D2A1;
-	--custom-background-statblock: #F4FAF0;
+	--custom-background-statblock: #362a004d;
 	--custom-background-table: #cccccc3d;
 	--custom-background-table-header: #474646;
   }
@@ -260,11 +261,11 @@
   .statblock p {
 	margin-bottom: 5px !important;
 	margin-top: 0;
-	color: var(--highlight-p) !important;
+	color: var(--highlight-statblock-text) !important;
   }
   
   .statblock b {
-	color: var(--highlight-primary) !important;
+	color: var(--highlight-statblock) !important;
   }
 
   .statblock .ability-table {
