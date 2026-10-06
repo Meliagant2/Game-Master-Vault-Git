@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Bane
 created: 2026-07-28T14:10:59.999+02:00
-modified: 2026-09-29T09:09:58.488+02:00
-published: 2026-09-29T09:09:58.488+02:00
+modified: 2026-10-06T10:42:55.094+02:00
+published: 2026-10-06T10:42:55.094+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -22,6 +22,7 @@ dauer: 1 Minute
 save-Att: CHA
 effect:
   - Debuff
+  - Blood Magic
   - Curse
 zauberliste:
   - Divine

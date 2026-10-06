@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Prayer of Healing
 created: 2026-08-18T15:18:25.545+02:00
-modified: 2026-09-08T12:07:57.360+02:00
-published: 2026-09-08T12:07:57.360+02:00
+modified: 2026-10-06T10:28:59.246+02:00
+published: 2026-10-06T10:28:59.246+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -16,7 +16,7 @@ c: " "
 source: Player's Handbook 2024
 school: Abjuration
 level: 2
-time: 10m
+time: 10 Minutes
 range-Area: 30 ft.
 komponenten: V
 dauer: Instantaneous
@@ -36,7 +36,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |:-|:-|
 > |**School:**|Abjuration |
 > |**Level:**|2 |
-> |**Casting Time:**|PT10M  |
+> |**Casting Time:**|10 Minutes  |
 > |**Range/Area:**|30 ft. |
 > |**Components:**|V |
 > |**Duration:**|Instantaneous |

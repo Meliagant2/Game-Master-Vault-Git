@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Lesser Restoration
 created: 2026-07-22T11:41:00.754+02:00
-modified: 2026-09-08T16:05:35.491+02:00
-published: 2026-09-08T16:05:35.491+02:00
+modified: 2026-10-06T10:21:48.061+02:00
+published: 2026-10-06T10:21:48.061+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -45,7 +45,9 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Spell List:**|Divine,Primal |
 > |**Effect:**|Healing |
 
-You touch a creature and end one condition on it: [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Blinded|☠️Blinded]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Deafened|☠️Deafened]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Paralyzed|☠️Paralyzed]], or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Poisoned|☠️Poisoned]]
+You touch a creature and end one condition on it: [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Blinded|☠️Blinded]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Deafened|☠️Deafened]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Paralyzed|☠️Paralyzed]], or [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Poisoned|☠️Poisoned]].
+
+**<u>Using a Higher-Level Spell Slot:</u>** You can target one additional creature for each spell slot level above 2.
 
 ## Quelle
 

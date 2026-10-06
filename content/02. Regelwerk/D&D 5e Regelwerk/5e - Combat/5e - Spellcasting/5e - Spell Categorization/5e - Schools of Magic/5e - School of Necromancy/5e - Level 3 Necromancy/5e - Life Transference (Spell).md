@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Life Transference
 created: 2026-09-14T15:23:44.106+02:00
-modified: 2026-09-14T15:25:54.233+02:00
-published: 2026-09-14T15:25:54.233+02:00
+modified: 2026-10-06T11:15:17.862+02:00
+published: 2026-10-06T11:15:17.862+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -47,9 +47,9 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Spell List:**|Arcane,Divine,Occult |
 > |**Effect:**|Healing,Blood Magic |
 
-You sacrifice some of your health to mend another creature's injuries. You take `4d8` <u>Necrotic</u> damage, which can't be reduced in any way, and one creature of your choice that you can see within range regains a number of [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|💖Hit Points]] equal to `2 x the necrotic damage you take`.
+You sacrifice some of your health to mend another creature's injuries. You take `4d8` <u>Necrotic</u> damage, which can't be reduced in any way, and one creature of your choice that you can see within range regains a number of [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|💖Hit Points]] equal to `2 x the Necrotic damage you take`.
 
-**<u>Using a Higher-Level Spell Slot:</u>**  This spell’s damage increases by `1d8` for each spell slot level above 2.
+**<u>Using a Higher-Level Spell Slot:</u>**  This spell’s damage increases by `1d8` for each spell slot level above 3.
 
 ## Quelle
 

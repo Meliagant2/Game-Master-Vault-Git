@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Hold Person
 created: 2026-07-28T10:33:14.794+02:00
-modified: 2026-09-29T09:10:31.816+02:00
-published: 2026-09-29T09:10:31.816+02:00
+modified: 2026-10-06T10:19:36.342+02:00
+published: 2026-10-06T10:19:36.342+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -48,7 +48,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Spell List:**|Arcane,Divine,Occult,Primal |
 > |**Effect:**|Paralyzed |
 
-Choose a Humanoid that you can see within range. The target makes a **repeated WIS Save** or have the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Paralyzed|5e - Paralyzed]] condition for the duration.
+Choose a Humanoid that you can see within range. The target makes a **repeated WIS Save**. _**Failure:**_ The target has the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Paralyzed|☠️Paralyzed]] condition for the duration.
 
 **<u>Using a Higher-Level Spell Slot:</u>** You can target one additional Humanoid for each spell slot level above 2.
 

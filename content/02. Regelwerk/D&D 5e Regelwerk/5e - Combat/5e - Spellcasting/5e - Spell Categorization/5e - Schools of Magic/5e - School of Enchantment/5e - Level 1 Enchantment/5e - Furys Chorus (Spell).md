@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Furys Chorus
 created: 2026-07-30T17:40:59.693+02:00
-modified: 2026-09-09T09:40:37.881+02:00
-published: 2026-09-09T09:40:37.881+02:00
+modified: 2026-09-29T14:45:00.952+02:00
+published: 2026-09-29T14:45:00.952+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -17,6 +17,7 @@ school: Enchantment
 level: 1
 time: A
 range-Area: 60 ft. (20 ft. Sphere)
+komponenten: V, S
 dauer: 1 Minute
 save-Att: CHA
 effect:
@@ -38,7 +39,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Level:**|1 |
 > |**Casting Time:**|A  |
 > |**Range/Area:**|60 ft. (20 ft. Sphere) |
-> |**Components:**| |
+> |**Components:**|V, S |
 > |**Duration:**|1 Minute |
 > |**Concentration:**|x |
 > |**Attack/Save:**|CHA|

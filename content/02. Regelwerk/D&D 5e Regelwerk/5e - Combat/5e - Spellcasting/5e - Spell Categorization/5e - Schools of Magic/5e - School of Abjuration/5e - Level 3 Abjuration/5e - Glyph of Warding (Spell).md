@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Glyph of Warding
 created: 2026-08-18T16:07:52.386+02:00
-modified: 2026-09-28T13:02:54.860+02:00
-published: 2026-09-28T13:02:54.860+02:00
+modified: 2026-10-06T11:05:08.390+02:00
+published: 2026-10-06T11:05:08.390+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -16,7 +16,7 @@ c: " "
 source: Player's Handbook 2024
 school: Abjuration
 level: 3
-time: 1h
+time: 1 Hour
 range-Area: Touch
 komponenten: V, S, M (powdered diamond worth 200+ SP, which the spell consumes)
 dauer: Until dispelled or triggered
@@ -41,7 +41,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |:-|:-|
 > |**School:**|Abjuration |
 > |**Level:**|3 |
-> |**Casting Time:**|PT1H  |
+> |**Casting Time:**|1 Hour  |
 > |**Range/Area:**|Touch |
 > |**Components:**|V, S, M (powdered diamond worth 200+ SP, which the spell consumes) |
 > |**Duration:**|Until dispelled or triggered |

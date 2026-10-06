@@ -3,8 +3,8 @@ publish: true
 title: 🦸‍♀️5e - Paladin
 description: An oathbound warrior driven by an inner strength to champion their cause through might and holy magic.
 created: 2026-08-17T15:22:19.006+02:00
-modified: 2026-09-23T15:39:51.176+02:00
-published: 2026-09-23T15:39:51.176+02:00
+modified: 2026-10-05T10:49:51.509+02:00
+published: 2026-10-05T10:49:51.509+02:00
 tags:
   - "#Classes"
   - "#5e"
@@ -325,6 +325,8 @@ views:
       - save-Att
       - effect
     sort:
+      - property: formula.Spell
+        direction: ASC
       - property: school
         direction: ASC
       - property: level

@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Warding Bond
 created: 2026-07-28T11:59:01.000+02:00
-modified: 2026-09-28T13:02:15.004+02:00
-published: 2026-09-28T13:02:15.004+02:00
+modified: 2026-10-06T10:39:32.796+02:00
+published: 2026-10-06T10:39:32.796+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -45,7 +45,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Spell List:**|Divine |
 > |**Effect:**|AC,Resistance |
 
-You touch another creature that is willing and create a mystic connection between you and the target until the spell ends. While the target is within <u>60 feet</u> of you, it gains a `+1` bonus to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Armor Class|🛡️AC]] and [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Save]], and it has <u>Resistance</u> to all damage. Also, each time it takes damage, you take the same amount of damage.
+You touch another creature that is willing and create a mystic connection between you and the target until the spell ends. While the target is within <u>60 feet</u> of you, it gains a `+1` bonus to [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Armor Class|🛡️AC]] and [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Saving Throw/5e - Saving Throw|🎲Saves]], and it has <u>Resistance</u> to all damage. Also, each time it takes damage, you take the same amount of damage.
 
 The spell ends if you drop to `0` [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Hit Points/5e - Hit Points|💖Hit Points]] or if you and the target become separated by more than <u>60 feet</u>. It also ends if the spell is cast again on either of the connected creatures.
 

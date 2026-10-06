@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Ceremony
 created: 2026-07-22T14:23:47.082+02:00
-modified: 2026-09-07T12:29:07.395+02:00
-published: 2026-09-07T12:29:07.395+02:00
+modified: 2026-09-29T14:19:58.877+02:00
+published: 2026-09-29T14:19:58.877+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -17,7 +17,7 @@ school: Abjuration
 level: 1
 time: 1h [R]
 range-Area: Touch
-komponenten: V, S, M (25 sp worth of powdered silver, which the spell consumes)
+komponenten: V, S, M (25 SP worth of powdered silver, which the spell consumes)
 dauer: Instantaneous
 effect:
   - Buff
@@ -38,7 +38,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |**Level:**|1 |
 > |**Casting Time:**|1h \[R]  |
 > |**Range/Area:**|Touch |
-> |**Components:**|V, S, M (25 sp worth of powdered silver, which the spell consumes) |
+> |**Components:**|V, S, M (25 SP worth of powdered silver, which the spell consumes) |
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|  |
 > |**Attack/Save:**||

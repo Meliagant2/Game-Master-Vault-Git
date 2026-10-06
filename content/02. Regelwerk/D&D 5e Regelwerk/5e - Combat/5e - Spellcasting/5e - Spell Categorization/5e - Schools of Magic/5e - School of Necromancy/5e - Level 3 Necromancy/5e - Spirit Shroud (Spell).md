@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Spirit Shroud
 created: 2026-09-14T15:33:38.984+02:00
-modified: 2026-09-29T09:17:51.465+02:00
-published: 2026-09-29T09:17:51.465+02:00
+modified: 2026-10-06T11:50:21.967+02:00
+published: 2026-10-06T11:50:21.967+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -52,7 +52,7 @@ You call forth spirits of the dead, which flit around you in a <u>10-foot Emanat
 
 Until the spell ends, any [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - D20 Tests/5e - Attack Roll/5e - Attack Roll|🎲Attack]] you make deals `1d8` extra damage to a target within the Emanation. This damage is <u>Cold</u>, <u>Necrotic</u>, or <u>Radiant</u> (your choice when you cast the spell). Any creature that takes this damage is [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Heavily Wounded|☠️Heavily Wounded]] until <u>the start of your next turn</u>.
 
-In addition, any creature of your choice that you can see that starts its turn within <u>10 feet</u> of you has its [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Speed/5e - Speed|🏃‍♀️Speed]] reduced by <u>10 feet</u> until <u>the start of your next turn</u>.
+In addition, any creature of your choice that you can see that starts its turn within the Emanation has its [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Adventuring/5e - Movement/5e - Speed/5e - Speed|🏃‍♀️Speed]] reduced by <u>10 feet</u> until <u>the start of your next turn</u>.
 
 **<u>Using a Higher-Level Spell Slot:</u>** This spell’s damage increases by `1d8` for each spell slot level above 3.
 

@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Continual Flame
 created: 2026-08-18T15:29:06.616+02:00
-modified: 2026-09-09T08:54:43.263+02:00
-published: 2026-09-09T08:54:43.263+02:00
+modified: 2026-10-05T11:49:18.113+02:00
+published: 2026-10-05T11:49:18.113+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -16,7 +16,7 @@ c: " "
 source: Player's Handbook 2024
 school: Evocation
 level: 2
-time: 1m
+time: 1 Minute
 range-Area: Touch
 komponenten: V, S, M (ruby dust worth 50+ SP, which the spell consumes)
 dauer: Until Dispelled
@@ -37,7 +37,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |:-|:-|
 > |**School:**|Evocation |
 > |**Level:**|2 |
-> |**Casting Time:**|PT1M  |
+> |**Casting Time:**|1 Minute  |
 > |**Range/Area:**|Touch |
 > |**Components:**|V, S, M (ruby dust worth 50+ SP, which the spell consumes) |
 > |**Duration:**|Until Dispelled |

@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Animate Date
 created: 2026-09-14T14:59:39.517+02:00
-modified: 2026-09-14T15:14:11.958+02:00
-published: 2026-09-14T15:14:11.958+02:00
+modified: 2026-10-06T10:42:48.856+02:00
+published: 2026-10-06T10:42:48.856+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -16,12 +16,13 @@ c: " "
 source: Player's Handbook 2024
 school: Necromancy
 level: 3
-time: 1m
+time: 1 Minute
 range-Area: 10 ft.
 komponenten: V, S, M (a drop of blood, a piece of flesh, and a pinch of bone dust)
 dauer: Instantaneous
 effect:
   - Creation
+  - Blood Magic
 zauberliste:
   - Arcane
   - Divine
@@ -36,14 +37,14 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |:-|:-|
 > |**School:**|Necromancy |
 > |**Level:**|3 |
-> |**Casting Time:**|PT1M  |
+> |**Casting Time:**|1 Minute  |
 > |**Range/Area:**|10 ft. |
 > |**Components:**|V, S, M (a drop of blood, a piece of flesh, and a pinch of bone dust) |
 > |**Duration:**|Instantaneous |
 > |**Concentration:**|  |
 > |**Attack/Save:**||
 > |**Spell List:**|Arcane,Divine |
-> |**Effect:**|Creation |
+> |**Effect:**|Creation,Blood Magic |
 
 Choose a pile of bones or a corpse of a _Medium or Small Humanoid_ within range. The target becomes an _Undead_ creature: a [[02. Regelwerk/D&D 5e Regelwerk/5e - Monster Rules/5e - Bestiary/5e - Creatures by Type/5e - Bestiary; Undead/5e - Undead; CR 0,25/5e - Skeleton|🐺Skeleton]] if you chose bones or a [[02. Regelwerk/D&D 5e Regelwerk/5e - Monster Rules/5e - Bestiary/5e - Creatures by Type/5e - Bestiary; Undead/5e - Undead; CR 0,25/5e - Zombie|🐺Zombie]] if you chose a corpse.
 

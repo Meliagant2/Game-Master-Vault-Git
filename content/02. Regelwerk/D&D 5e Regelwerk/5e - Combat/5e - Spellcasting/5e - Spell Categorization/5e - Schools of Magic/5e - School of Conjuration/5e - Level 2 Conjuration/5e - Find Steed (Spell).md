@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Find Steed
 created: 2026-07-28T09:39:27.945+02:00
-modified: 2026-09-08T14:16:53.938+02:00
-published: 2026-09-08T14:16:53.938+02:00
+modified: 2026-10-05T12:07:38.270+02:00
+published: 2026-10-05T12:07:38.270+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -111,7 +111,7 @@ The steed resembles a Large, rideable animal of your choice, such as a horse, a 
 </tr>
 </tbody>
 </table>
-<p><strong><em>Otherworldly Slam:</em></strong> <i>Melee</i>, <u>1d8 the spell's level</u> Radiant (Celestial), Psychic (Fey), or Necrotic (Fiend).</p>
+<p><strong><em>Otherworldly Slam:</em></strong> <i>Melee</i>, <u>1d8 + the spell's level</u> Radiant (Celestial), Psychic (Fey), or Necrotic (Fiend).</p>
 <h3>Bonus Actions</h3>
 <p><strong><em>Fell Glare (Fiend Only; Recharges after a Long Rest):</em></strong> <i>1 target (60 ft.)</i>, <b>WIS Save</b>.  <b><i>Failure:</i></b> The target is <a href="5e - Frightened.md" class="internal-link">☠️Frightened</a> until the end of your next turn.</p>
 <p><strong><em>Fey Step (Fey Only; Recharges after a Long Rest):</em></strong> The steed teleports, along with its rider, to an unoccupied space of your choice up to 60 feet away from itself.</p>

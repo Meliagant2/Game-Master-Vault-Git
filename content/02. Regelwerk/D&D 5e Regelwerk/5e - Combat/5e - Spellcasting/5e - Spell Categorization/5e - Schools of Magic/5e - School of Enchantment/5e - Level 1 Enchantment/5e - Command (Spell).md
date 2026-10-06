@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Command
 created: 2026-07-23T12:00:28.495+02:00
-modified: 2026-09-07T13:30:09.609+02:00
-published: 2026-09-07T13:30:09.609+02:00
+modified: 2026-10-05T11:05:33.339+02:00
+published: 2026-10-05T11:05:33.339+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -52,7 +52,7 @@ You speak a one-word command to a creature you can see within range. The target 
 
 **<u>Flee:</u>** The target spends its turn moving away from you by the fastest available means.
 
-**<u>Grovel:</u>** The target has the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]] condition and then ends its tn.
+**<u>Grovel:</u>** The target has the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Conditions/5e - Prone|☠️Prone]] condition and then ends its turn.
 
 **<u>Halt:</u>** On its turn, the target **doesn't move** and takes **no Action** or **Bonus Action**.
 

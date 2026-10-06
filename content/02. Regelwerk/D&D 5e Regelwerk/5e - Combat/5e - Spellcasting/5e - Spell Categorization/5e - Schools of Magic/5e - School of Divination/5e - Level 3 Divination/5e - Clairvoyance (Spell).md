@@ -2,8 +2,8 @@
 publish: true
 title: ☄️5e - Clairvoyance
 created: 2026-07-27T12:37:12.600+02:00
-modified: 2026-09-29T09:09:12.559+02:00
-published: 2026-09-29T09:09:12.559+02:00
+modified: 2026-10-06T10:55:05.100+02:00
+published: 2026-10-06T10:55:05.100+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -16,7 +16,7 @@ c: x
 source: Player's Handbook 2024
 school: Divination
 level: 3
-time: 10m
+time: 10 Minutes
 range-Area: 1 mile (1,6 km)
 komponenten: " V, S, M (a focus worth 100+ SP, either a jeweled horn for hearing or a glass eye for seeing)"
 dauer: 10 Minutes
@@ -36,7 +36,7 @@ Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - S
 > |:-|:-|
 > |**School:**|Divination |
 > |**Level:**|3 |
-> |**Casting Time:**|PT10M  |
+> |**Casting Time:**|10 Minutes  |
 > |**Range/Area:**|1 mile (1,6 km) |
 > |**Components:**| V, S, M (a focus worth 100+ SP, either a jeweled horn for hearing or a glass eye for seeing) |
 > |**Duration:**|10 Minutes |
