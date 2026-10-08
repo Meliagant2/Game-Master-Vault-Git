@@ -2,8 +2,8 @@
 publish: true
 title: Changelog Tungdil 1
 created: 2026-09-22T13:43:39.532+02:00
-modified: 2026-10-08T13:44:15.045+02:00
-published: 2026-10-08T13:44:15.045+02:00
+modified: 2026-10-08T13:56:00.772+02:00
+published: 2026-10-08T13:56:00.772+02:00
 tags:
   - "#Changelog"
   - "#5e"
@@ -161,9 +161,9 @@ There is a new designed Character sheet to hold all the new information. You can
 
 ### Level 6: Paladin
 
-[[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats|🥇Class Feat]]:
+[[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats|🥇Class Feat]]: <u>You have to choose one level 6 or lower Class feat!</u>\*\*
 
-[[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - General Feats/5e - General Feats|🥇General Feat]]:
+[[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - General Feats/5e - General Feats|🥇General Feat]]: <u>You have to choose one level 6 or lower General feat!</u>\*\*
 
 [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Skill Feats|🥇Skill Feat]]: You originally chose [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Level 6 Skill Feats/5e - Empathic|Empathic]] at level 2. Changes:
 \- **<u>Level:</u>** It is now a level 6 Skill Feat
