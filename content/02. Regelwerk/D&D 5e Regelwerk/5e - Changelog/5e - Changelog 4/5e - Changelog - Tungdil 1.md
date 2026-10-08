@@ -2,8 +2,8 @@
 publish: true
 title: Changelog Tungdil 1
 created: 2026-09-22T13:43:39.532+02:00
-modified: 2026-09-23T15:56:45.816+02:00
-published: 2026-09-23T15:56:45.816+02:00
+modified: 2026-10-08T13:44:15.045+02:00
+published: 2026-10-08T13:44:15.045+02:00
 tags:
   - "#Changelog"
   - "#5e"
@@ -87,11 +87,11 @@ There is a new designed Character sheet to hold all the new information. You can
 **<u>Languages:</u>** Doesnt grant you full fluency in two [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Languages/5e - Languages|Languages]], but one mastery level each.
 **<u>Internal Clock:</u>** New feature.
 
-#### Background: IDK
+#### Background: [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 05. Background/5e - Guard (Background)|Guard]]
 
-Please tell me what your Background is, thank you.
-
-Every Background needs to be reworked, but I didn't want to put in the work for ALL of them.
+**<u>Background Feature:</u>** Replaced the Background Feature **Natural Authority** with an [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats|Origin Feat]]. The choice of origin feats is: [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats Generic/5e - Alert|🥇Alert]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats Generic/5e - Healer|🥇Healer]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats Generic/5e - Tough|🥇Tough]], or a **special** [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats|🥇Origin Feat]]. Please choose one.
+**<u>Skill Proficiencies:</u>** Now grants _Athletics_ and _Perception_ Proficiency. Before it was Intimdation and a choice between Athletics and Investigation.
+**<u>Languages:</u>** Doesnt grant you any language proficiencies anymore.
 
 ### Level 1: [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Paladin/5e - Paladin|Paladin]]
 
@@ -105,7 +105,7 @@ Every Background needs to be reworked, but I didn't want to put in the work for 
 
 **<u>Combat Traditions:</u>** Paladins now choose 2 of the following combat traditions to gain their combat maneuvers: [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Traditions/5e - Tradition of Attentiveness/5e - Tradition of Attentiveness|🤺Attentiveness]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Traditions/5e - Tradition of Comradery/5e - Tradition of Comradery|🤺Comradery]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Traditions/5e - Tradition of Might/5e - Tradition of Might|🤺Might]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Combat Maneuvers/5e - Combat Traditions/5e - Tradition of Prowess/5e - Tradition of Prowess|🤺Prowess]].
 **<u>Exertion:</u>** Paladins now gain a fixed amount of exertion per level, instead of their former formula. At level 7 <u>Tungdil</u> has `6` instead of  `3` Exertion.
-**<u>Fighting Style:</u>** Adepts now gain a Fighting Style Feat at level 1. Please choose one. (To find them all, you can either look at the Fightning Style Feats Table in the [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Paladin/5e - Paladin|Paladin]] class, or you can filter [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats|Class Feats]] for "All Martial").
+**<u>Fighting Style:</u>** Paladins now gain a Fighting Style Feat at level 1. Please choose one. (To find them all, you can either look at the Fightning Style Feats Table in the [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Paladin/5e - Paladin|Paladin]] class, or you can filter [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats|Class Feats]] for "All Martial").
 **<u>Weapon Masteries:</u>** Weapon Masteries are passive effects all weapons have. You can use the [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Weapons/5e - Weapon Mastery Properties/5e - Weapon Mastery Properties|🗡️Mastery]] Properties of all Weapons you are proficient in.
 **<u>Extra Attack:</u>** **Extra Attack** is no longer a Class Feature, but a Core Class Feature.
 
@@ -137,6 +137,12 @@ Every Background needs to be reworked, but I didn't want to put in the work for 
 
 ### Level 3: Paladin
 
+#### Subclass: [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Paladin/5e - Herald|Oath of Devotion]]
+
+**<u>Name:</u>** Renamed to "Herald".
+**<u>Channel Oath: Sacred Weapon:</u>** Now doesn't cost a **Bonus Action** anymore. You instead use it together with the **Attack Action**.
+**<u>Knowledge of the Herald:</u>** New Level 3 Herald Feature.
+
 ### Level 4: Paladin
 
 [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats|🥇Class Feat]]: **<u>You have to choose one level 4 or lower Class feat!</u>**
@@ -150,6 +156,9 @@ Every Background needs to be reworked, but I didn't want to put in the work for 
 
 ### Level 5: Paladin
 
+**<u>Faithful Steed:</u>** Added more features.
+**<u>Sacred Aura:</u>** Moved from level 8 to level 5.
+
 ### Level 6: Paladin
 
 [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats|🥇Class Feat]]:
@@ -162,3 +171,21 @@ Every Background needs to be reworked, but I didn't want to put in the work for 
 \- **<u>Minimum of 8:</u>** Now all checks you make as part of the **Influence** action cannot be below an `8`.
 
 ### Level 7: Paladin
+
+#### Subclass: Herald
+
+**<u>Aura of Devotion:</u>** Moved from level 6 to level 7.
+
+## tl;dr To Do List Tungdil character sheet
+
+1. Please Choose one Origin Feat: [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats Generic/5e - Alert|🥇Alert]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats Generic/5e - Healer|🥇Healer]], [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats Generic/5e - Tough|🥇Tough]], or a **special** [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Origin Feats/5e - Origin Feats|🥇Origin Feat]]. (Background)
+2. Choose one [[02. Regelwerk/D&D 5e Regelwerk/5e - Basic Rules/5e - Equipment/5e - Tools/5e - Gaming Sets/5e - Gaming Sets|🛠️Gaming Set]] tool proficiency: _Chess, Dice, Playing Cards_. (Background)
+3. Choose your Save Proficiencies: <u>Choose one proficiency of each A and B:</u> **(A)** Constitution OR Wisdom; **(B)** Strength OR Charisma. (Class). (Currently your Saves are WIS and CHA, this choice replaces those two unless you take them again)
+4. <u>Choose 2 Skill Proficiencies:</u> _Athletics, Acrobatics, Endurance, History, Insight, Intimidation, Medicine, Persuasion, Occultism, Religion._ (Class). (Your maximum Expertise level in each skill is equal to your current Ability Score the Skill is associated with. For example: Your INT is -1, which means, you can't gain Expertise in Occultism and Religion, since you are already proficient in those two).
+5. <u>Choose 1 Skill Proficiency:</u> _Deception, Intimidation, Performance, Persuasion._ (Empathic Feat).
+6. <u>Choose 2 Combat Traditions to be proficient in:</u> _Attentiveness, Comradery, Might, Prowess._ (Class).
+7. Choose a total of 4 Maneuvers from the Combat Traditions chosen in step 9 (max degree = 2).
+8. Choose a **Fighting Style Feat** (see [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 02. Classes/5e - Paladin/5e - Paladin|Paladin]] -> **Martial Class, Fighting Style Feats Table**).
+9. Choose Paladin [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Class Feats/5e - Class Feats|🥇Class Feats]] of levels _2, 4, and 6_. (Class)
+10. Choose [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - General Feats/5e - General Feats|🥇General Feats]] of levels _2, 4, and 6_. (Class)
+11. Choose [[02. Regelwerk/D&D 5e Regelwerk/5e - Character Creation/5e - 03. Feats/5e - Skill Feats/5e - Skill Feats|🥇Skill Feats]] of level _2, and 4_.
