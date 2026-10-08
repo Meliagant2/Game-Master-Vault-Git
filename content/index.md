@@ -2,8 +2,8 @@
 publish: true
 title: Home
 created: 2026-07-13T15:14:52.230+02:00
-modified: 2026-10-06T15:03:54.218+02:00
-published: 2026-10-06T15:03:54.218+02:00
+modified: 2026-10-08T13:57:39.448+02:00
+published: 2026-10-08T13:57:39.448+02:00
 tags:
   - "#Home"
 ---
@@ -42,29 +42,3 @@ views:
     imageFit: contain
 
 ```
-
-![[98. Diverses/Bilder/Item Bilder/Magische Waffen/Item Weapon Greatsword Magical.png]]
-
-![[98. Diverses/Bilder/Item Bilder/Magische Waffen/Item Weapon Rapier Magical.png]]
-
-![[98. Diverses/Bilder/Item Bilder/Kopfbekleidung/Item Headwear Diadem.png]]
-
-![[98. Diverses/Bilder/Item Bilder/Handbekleidung/Item Hands Bracers.png]]
-
-![[98. Diverses/Bilder/Item Bilder/Handbekleidung/Item Hands Illusionists Bracers.png]]
-
-![[98. Diverses/Bilder/Item Bilder/Handbekleidung/Item Hands Bracers Leather.png]]
-
-![[98. Diverses/Bilder/Item Bilder/Magische Waffen/Item Weapon Dagger of Venom.png]]
-
-![[98. Diverses/Bilder/Item Bilder/Magische Spell Foci/Item Spell Focus Icon of Dawns Grace.png]]
-
-![[98. Diverses/Bilder/Item Bilder/Magische Waffen/Item Weapon Spear of the Huntress.png]]
-
-![[98. Diverses/Bilder/Item Bilder/Magische Waffen/Item Weapon Flail Devotees Censer.png]]
-
-![[98. Diverses/Bilder/Item Bilder/Mäntel/Item Clothing Mantle Wings of Flying.png]]
-
-![[98. Diverses/Bilder/Item Bilder/Grenades/Item Grenade Alchemical Vial Blue.png]]
-
-![[98. Diverses/Bilder/Item Bilder/Grenades/Item Grenade Blackpowder Bomb.png]]

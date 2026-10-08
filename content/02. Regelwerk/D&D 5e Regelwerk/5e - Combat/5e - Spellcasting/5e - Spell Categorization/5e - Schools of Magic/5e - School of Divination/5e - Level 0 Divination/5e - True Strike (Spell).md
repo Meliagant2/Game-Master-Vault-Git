@@ -1,9 +1,9 @@
 ---
 publish: true
-title: ☄️5e - True Strike☄️
+title: ☄️5e - True Strike
 created: 2026-07-27T12:33:46.171+02:00
-modified: 2026-09-07T10:53:00.854+02:00
-published: 2026-09-07T10:53:00.854+02:00
+modified: 2026-10-08T14:23:11.726+02:00
+published: 2026-10-08T14:23:11.726+02:00
 tags:
   - "#Spell"
   - "#5e"
@@ -30,7 +30,7 @@ source: Player's Handbook 2024
 
 Go Back to [[02. Regelwerk/D&D 5e Regelwerk/5e - Combat/5e - Spellcasting/5e - Spell Categorization/5e - Schools of Magic/5e - School of Divination/5e - School of Divination|5e - School of Divination]].
 
-# ☄️5e - True Strike☄️☄️
+# ☄️5e - True Strike☄️
 
 > [!wikibox]
 > |||
